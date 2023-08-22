@@ -14,12 +14,12 @@ ns = "{http://www.tei-c.org/ns/1.0}"
 def check_langs(file):
     with open(file, "r", encoding="utf-8") as infile:
         doc = infile.read()
-        filename = os.path.basename(file) + "_latin-scores.csv"
 
-        with open(f"./output/{filename}", "w", encoding="utf-8") as outfile:
+        filename = os.path.basename(file)
+
+        with open(f"./output/latin_conf-scores.csv", "a", encoding="utf-8") as outfile:
 
             writer = csv.writer(outfile, delimiter=';', quotechar='"', quoting = csv.QUOTE_MINIMAL)
-            writer.writerow(['line', 'Latin confidence value'])
 
             for line in extract_sentences(doc, file):
                 if ' - ' in line:
@@ -28,7 +28,7 @@ def check_langs(file):
                     content = line
 
                 conf_val = detector.compute_language_confidence(content, Language.LATIN)
-                writer.writerow([line, conf_val])
+                writer.writerow([filename, line, conf_val])
 
                 
 
