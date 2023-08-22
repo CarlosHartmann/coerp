@@ -1,0 +1,848 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Confutation of the <normalised orig="Countrie" auto="true">Country</normalised> <normalised orig="Diuinitie" auto="true">Divinity</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="GeGi1547">Gifford, George</author>
+               <title type="main">A <normalised orig="Briefe" auto="true">Brief</normalised> discourse of <normalised orig="certaine" auto="true">certain</normalised> points of the religion, which is among the <normalised orig="commo~" auto="false">common</normalised> sort of Christians, which may <normalised orig="bee" auto="true">be</normalised> termed the <normalised orig="Countrie" auto="true">Country</normalised> <normalised orig="Diuinitie" auto="true">Divinity</normalised>. With a manifest confutation of the same, after the order of a Dialogue.</title>
+               <title type="short">Confutation of the <normalised orig="Countrie" auto="true">Country</normalised> <normalised orig="Diuinitie" auto="true">Divinity</normalised></title>
+               <date when="1581">1581</date>
+               <date type="this_edition" when="1582">1582</date>
+               <idno type="STC">11846</idno>
+               <note type="genre" subtype="treatise_controversial">controversial treatise</note>
+               <note type="sample" target="#GeGi1547_1582_treatise_controversial_1">p.20, l.28 – p.26, l.17</note>
+               <note type="sample" target="#GeGi1547_1582_treatise_controversial_2">p.27, l.30 – p.33, l.56</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="GeGi1547_1582_treatise_controversial_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+            Zelot. If God can not lie, when <normalised orig="hee" auto="true">he</normalised> saith<lb/>
+all that trust in him shall <normalised orig="bee" auto="true">be</normalised> <normalised orig="saued" auto="true">saved</normalised>, and you<lb/>
+<normalised orig="knowe" auto="true">know</normalised> that <normalised orig="yee" auto="true">ye</normalised> put your whole trust in him,<lb/>
+Wherefore <normalised orig="doe" auto="true">do</normalised> <normalised orig="yee" auto="true">ye</normalised> not then <normalised orig="knowe" auto="true">know</normalised> that <normalised orig="yee" auto="true">ye</normalised><lb/>
+<normalised orig="shalbe" auto="true">shall be</normalised> <normalised orig="saued" auto="true">saved</normalised>?<lb/>
+            Ath. That which God <normalised orig="sayth" auto="true">saith</normalised>, is true,<lb/>
+for he cannot lie: I put my trust in none but<lb/>
+in him: I hope to be <normalised orig="saued" auto="true">saved</normalised>, what would <normalised orig="yee" auto="true">ye</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> more? I will <normalised orig="beleeue" auto="true">believe</normalised> <normalised orig="neuer" auto="true">never</normalised> a one of<lb/>
+them all when they say they know they <normalised orig="shalbe" auto="true">shall be</normalised><lb/>
+<normalised orig="saued" auto="true">saved</normalised>; I <normalised orig="thinke" auto="true">think</normalised> they <normalised orig="woulde" auto="true">would</normalised> make them<lb/>
+<normalised orig="selues" auto="true">selves</normalised> Gods.<lb/>
+            Zelot. <normalised orig="Naye" auto="true">Nay</normalised> <normalised orig="suche" auto="true">such</normalised> as you make your<lb/>
+<normalised orig="selues" auto="true">selves</normalised> Gods, when <normalised orig="yee" auto="true">ye</normalised> <normalised orig="ioyne" auto="true">join</normalised> <normalised orig="thinges" auto="true">things</normalised> so contrary<lb/>
+together and can make them agree: fire<lb/>
+and water may lodge together in one <normalised orig="bedde" auto="true">bed</normalised>,<lb/>
+at your <normalised orig="inne" auto="true">inn</normalised>, and agree well together: For<lb/>
+they are no more contrary then that <normalised orig="whiche" auto="true">which</normalised><lb/>
+<normalised orig="yee" auto="true">ye</normalised> <normalised orig="affirme" auto="true">affirm</normalised>, when <normalised orig="yee" auto="true">ye</normalised> say God <normalised orig="hath" auto="true">has</normalised> promised<lb/>
+that all which <normalised orig="beleeue" auto="true">believe</normalised> in him shall <normalised orig="bee" auto="true">be</normalised> <normalised orig="saued" auto="true">saved</normalised>,<lb/>
+you are sure <normalised orig="yee" auto="true">ye</normalised> <normalised orig="beleeue" auto="true">believe</normalised> in him and<lb/>
+that <normalised orig="ye" auto="true">you</normalised> put all your whole trust in him &amp; yet<lb/>
+<normalised orig="yee" auto="true">ye</normalised> can not tell whether <normalised orig="yee" auto="true">ye</normalised> <normalised orig="shal" auto="true">shall</normalised> <normalised orig="bee" auto="true">be</normalised> <normalised orig="saued" auto="true">saved</normalised>.<lb/>
+But I can not greatly <normalised orig="maruell" auto="true">marvel</normalised> at this, for<lb/>
+<normalised orig="yee" auto="true">ye</normalised> <normalised orig="knowe" auto="true">know</normalised> as well what faith is, as <normalised orig="doeth" auto="true">doth</normalised> a<lb/>
+Goose.<lb/>
+            Ath. I trust I <normalised orig="knowe" auto="true">know</normalised>. and I <normalised orig="meane" auto="true">mean</normalised><lb/>
+well, God <normalised orig="knoweth" auto="true">knows</normalised> my meaning <normalised orig="howsoeuer" auto="true">howsoever</normalised><lb/>
+                  <pb n="1"/>
+                  <lb/>
+you take me.<lb/>
+            Zelot Let <normalised orig="mee" auto="true">me</normalised> <normalised orig="aske" auto="true">ask</normalised> <normalised orig="yee" auto="true">ye</normalised> this question,<lb/>
+when a man <normalised orig="praieth" auto="true">prays</normalised> if <normalised orig="hee" auto="true">he</normalised> <normalised orig="doe" auto="true">do</normalised> not <normalised orig="beeleeue" auto="false">believe</normalised><lb/>
+that <normalised orig="whiche" auto="true">which</normalised> <normalised orig="hee" auto="true">he</normalised> <normalised orig="saieth" auto="true">says</normalised>, <normalised orig="doeth" auto="true">doth</normalised> <normalised orig="hee" auto="true">he</normalised><lb/>
+well?<lb/>
+            Ath. Wee must <normalised orig="beleeue" auto="true">believe</normalised> that which we<lb/>
+<normalised orig="speake" auto="true">speak</normalised> when wee <normalised orig="praye" auto="true">pray</normalised>, or <normalised orig="els" auto="true">else</normalised> it is nothing<lb/>
+<normalised orig="woorth" auto="true">worth</normalised>.<lb/>
+            Zelot. When Christ <normalised orig="teacheth" auto="true">teaches</normalised> <normalised orig="vs" auto="true">us</normalised> too<lb/>
+pray, and too call GOD our Father,<lb/>
+ought we not for to <normalised orig="knowe" auto="true">know</normalised> that he is our Father?<lb/>
+            Ath. Wee ought for to <normalised orig="knowe" auto="true">know</normalised>, that<lb/>
+which GOD <normalised orig="teacheth" auto="true">teaches</normalised> <normalised orig="vs" auto="true">us</normalised> and to <normalised orig="beleeue" auto="true">believe</normalised><lb/>
+the same.<lb/>
+            Zelot. Must wee not <normalised orig="beleeue" auto="true">believe</normalised> it without<lb/>
+doubting or <normalised orig="wauering" auto="true">wavering</normalised>, as S. <normalised orig="Iames" auto="true">James</normalised> <normalised orig="sayth" auto="true">saith</normalised> <quote type="biblical" ana="Jas 1.6"><normalised orig="hee" auto="true">he</normalised><lb/>
+that <normalised orig="doubteth" auto="true">doubts</normalised> is like <normalised orig="vnto" auto="true">unto</normalised> a <normalised orig="waue" auto="true">wave</normalised> of the Sea<lb/>
+tossed with the <normalised orig="winde" auto="true">wind</normalised>,</quote> neither let that man<lb/>
+<normalised orig="thinke" auto="true">think</normalised> that he shall <normalised orig="receiue" auto="true">receive</normalised> any thing?<lb/>
+            Ath. Wee must not doubt, for <normalised orig="hee" auto="true">he</normalised> that<lb/>
+<normalised orig="doubteth" auto="true">doubts</normalised> is in a wrong <normalised orig="beleefe" auto="true">belief</normalised>, we must put<lb/>
+all our trust in God.<lb/>
+            Zelot. Then when <normalised orig="ye" auto="true">you</normalised> call GOD Father<lb/>
+<normalised orig="ye" auto="true">you</normalised> <normalised orig="beleue" auto="true">believe</normalised> that surely which <normalised orig="ye" auto="true">you</normalised> speak, then are<lb/>
+<normalised orig="ye" auto="true">you</normalised> sure that he <normalised orig="loueth" auto="true">loves</normalised> <normalised orig="yee" auto="true">ye</normalised>, for a father <normalised orig="doeth" auto="true">doth</normalised><lb/>
+<normalised orig="loue" auto="true">love</normalised> his <normalised orig="childe" auto="true">child</normalised>, <normalised orig="euen" auto="true">even</normalised> men which are <normalised orig="euill" auto="true">evil</normalised> <normalised orig="doe" auto="true">do</normalised><lb/>
+<normalised orig="giue" auto="true">give</normalised> good <normalised orig="giftes" auto="true">gifts</normalised> <normalised orig="vnto" auto="true">unto</normalised> their children when<lb/>
+                  <pb n="2"/>
+                  <lb/>
+they <normalised orig="aske" auto="true">ask</normalised>, because they <normalised orig="loue" auto="true">love</normalised> <normalised orig="the~" auto="true">them</normalised>, much more,<lb/>
+the <normalised orig="heauenly" auto="true">heavenly</normalised> Father which is perfectly good<lb/>
+<normalised orig="doeth" auto="true">doth</normalised> <normalised orig="loue" auto="true">love</normalised> his children, that is, those <normalised orig="whiche" auto="true">which</normalised><lb/>
+<normalised orig="beleeue" auto="true">believe</normalised> in him: then I reason in this wise, <normalised orig="hee" auto="true">he</normalised><lb/>
+that <normalised orig="beleeueth" auto="true">believes</normalised> surely that GOD is his father,<lb/>
+he is sure that GOD <normalised orig="loueth" auto="true">loves</normalised> him: <normalised orig="hee" auto="true">he</normalised> that is<lb/>
+sure god <normalised orig="loueth" auto="true">loves</normalised> him is sure of <normalised orig="euerlasting" auto="true">everlasting</normalised> life:<lb/>
+therefore all those which pray aright, are sure<lb/>
+they <normalised orig="shalbe" auto="true">shall be</normalised> <normalised orig="saued" auto="true">saved</normalised>.<lb/>
+            Ath. I pray God wee may call <normalised orig="vppon" auto="true">upon</normalised><lb/>
+him.<lb/>
+            Zelot. Tell <normalised orig="mee" auto="true">me</normalised> further what <normalised orig="ye" auto="true">you</normalised> <normalised orig="thinke" auto="true">think</normalised>,<lb/>
+was not Abraham sure he <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="bee" auto="true">be</normalised> <normalised orig="saued" auto="true">saved</normalised>,<lb/>
+likewise <normalised orig="Dauid" auto="true">David</normalised>, Paul, and others?<lb/>
+            Ath. <normalised orig="Euerye" auto="true">Every</normalised> man cannot <normalised orig="bee" auto="true">be</normalised> like<lb/>
+those. Can you <normalised orig="saye" auto="true">say</normalised> <normalised orig="yee" auto="true">ye</normalised> are like <normalised orig="vnto" auto="true">unto</normalised> Abraham?<lb/>
+            Zelot. <normalised orig="Doeth" auto="true">Doth</normalised> not the scripture say, that<lb/>
+Abraham is the father of the <normalised orig="faithfull" auto="true">faithful</normalised>, and<lb/>
+that those are the children of God, <normalised orig="whiche" auto="true">which</normalised><lb/>
+<normalised orig="walke" auto="true">walk</normalised> in the steppes of <normalised orig="faithfull" auto="true">faithful</normalised> Abraham?<lb/>
+I <normalised orig="confesse" auto="true">confess</normalised> in <normalised orig="deede" auto="true">deed</normalised> that <normalised orig="euery" auto="true">every</normalised> one cannot<lb/>
+<normalised orig="attaine" auto="true">attain</normalised> to so great a measure of <normalised orig="fayth" auto="true">faith</normalised> as<lb/>
+those had: but yet wee must come to the<lb/>
+same faith, because we <normalised orig="haue" auto="true">have</normalised> the same GOD,<lb/>
+the same <normalised orig="couenant" auto="true">covenant</normalised> and promises, the same<lb/>
+spirit is <normalised orig="giuen" auto="true">given</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> which <normalised orig="beleeue" auto="true">believe</normalised>, Saint<lb/>
+                  <pb n="3"/>
+                  <lb/>
+<normalised orig="Paule" auto="true">Paul</normalised> in the 4. chap. the Ephesians saith: <quote type="biblical" ana="Eph 4.5">there<lb/>
+is one God, one faith, one <normalised orig="baptisme" auto="true">baptism</normalised>.</quote> If there<lb/>
+be but one, then ours must <normalised orig="bee" auto="true">be</normalised> the same that<lb/>
+theirs was.<lb/>
+            Ath. Yes, but for <normalised orig="al" auto="true">all</normalised> that it is presumption<lb/>
+for men to say they <normalised orig="knowe" auto="true">know</normalised> they <normalised orig="shalbee" auto="true">shall be</normalised><lb/>
+<normalised orig="saued" auto="true">saved</normalised>.<lb/>
+            Zelot. I see that popish dung <normalised orig="doth" auto="true">does</normalised> <normalised orig="sticke" auto="true">stick</normalised><lb/>
+still between your teeth, when they teach men<lb/>
+that it is presumption to be out of doubt.<lb/>
+            Ath. What tell <normalised orig="ye" auto="true">you</normalised> <normalised orig="mee" auto="true">me</normalised> of the Pope.<lb/>
+I care not for him, I would both <normalised orig="hee" auto="true">he</normalised><lb/>
+and his Dung, were buried in the Dunghill.<lb/>
+            Zelot. I <normalised orig="knowe" auto="true">know</normalised> there be many which care<lb/>
+not for the Pope, but yet <normalised orig="beleeue" auto="true">believe</normalised> <normalised orig="muche" auto="true">much</normalised> of<lb/>
+his doctrine: they <normalised orig="bee" auto="true">be</normalised> those <normalised orig="whiche" auto="true">which</normalised> wee call<lb/>
+Athiests, of no religion, but <normalised orig="looke" auto="true">look</normalised> <normalised orig="whatsoeuer" auto="true">whatsoever</normalised><lb/>
+any prince <normalised orig="doeth" auto="true">doth</normalised> set forth, that they will <normalised orig="professe" auto="true">profess</normalised>.<lb/>
+            Ath. I <normalised orig="thinke" auto="true">think</normalised> that is good, ought not<lb/>
+wee for to obey our Princes, and <normalised orig="woulde" auto="true">would</normalised> <normalised orig="yee" auto="true">ye</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="vs" auto="true">us</normalised> to take <normalised orig="vpon" auto="true">upon</normalised> <normalised orig="vs" auto="true">us</normalised> for to <normalised orig="bee" auto="true">be</normalised> wiser then<lb/>
+they and their <normalised orig="Counsellers" auto="true">Counsellors</normalised>?<lb/>
+            Zelot. I did <normalised orig="knowe" auto="true">know</normalised> <normalised orig="yee" auto="true">ye</normalised> were an <normalised orig="Athiest" auto="true">Atheist</normalised><lb/>
+setting <normalised orig="vp" auto="true">up</normalised> <normalised orig="menne" auto="true">men</normalised> in the place of<lb/>
+                  <pb n="4"/>
+                  <lb/>
+God worse then a <normalised orig="Turke" auto="true">Turk</normalised>.<lb/>
+            Ath. Wherefore <normalised orig="doe" auto="true">do</normalised> <normalised orig="yee" auto="true">ye</normalised> say so?<lb/>
+            Zelot. Tell me this, are wee for to <normalised orig="obeye" auto="true">obey</normalised><lb/>
+men if they <normalised orig="commaunde" auto="true">command</normalised> that which is contrary<lb/>
+to that which God <normalised orig="commaundeth" auto="true">commands</normalised>?<lb/>
+            Ath. I <normalised orig="thinke" auto="true">think</normalised> not so.<lb/>
+            Zelot. Is there any mo then one <normalised orig="trueth" auto="true">truth</normalised>,<lb/>
+or one religion, which is the right, and that<lb/>
+which God <normalised orig="commaundeth" auto="true">commands</normalised>?<lb/>
+            Ath. There can be but one truth, that<lb/>
+is <normalised orig="certaine" auto="true">certain</normalised>.<lb/>
+            Zelot. Then when one Prince <normalised orig="commandeth" auto="true">commands</normalised><lb/>
+one religion, another <normalised orig="ariseth" auto="true">arises</normalised> <normalised orig="afterwarde" auto="true">afterward</normalised><lb/>
+and <normalised orig="commaundeth" auto="true">commands</normalised> the <normalised orig="contrarie" auto="true">contrary</normalised>: Will <normalised orig="yee" auto="true">ye</normalised><lb/>
+without difference obey them both? is not<lb/>
+this for to <normalised orig="denie" auto="true">deny</normalised> God? is not this for to <normalised orig="bee" auto="true">be</normalised><lb/>
+worse then a <normalised orig="Turke" auto="true">Turk</normalised>?<lb/>
+            Ath. I am sure <normalised orig="yee" auto="true">ye</normalised> will not <normalised orig="denie" auto="true">deny</normalised>, but<lb/>
+that wee must obey.<lb/>
+            Zelot. <normalised orig="Hee" auto="true">He</normalised> <normalised orig="whiche" auto="true">which</normalised> <normalised orig="doeth" auto="true">doth</normalised> <normalised orig="disobeye" auto="true">disobey</normalised> the<lb/>
+Prince, <normalised orig="doeth" auto="true">doth</normalised> disobey GOD, <normalised orig="vnto" auto="true">unto</normalised> his<lb/>
+damnation, where the prince <normalised orig="setteth" auto="true">sets</normalised> <normalised orig="foorth" auto="true">forth</normalised><lb/>
+and <normalised orig="mainteyneth" auto="false">maintained</normalised> Gods <normalised orig="worde" auto="true">word</normalised>. But if there<lb/>
+be a prince <normalised orig="whiche" auto="true">which</normalised> <normalised orig="maketh" auto="true">makes</normalised> <normalised orig="lawes" auto="true">laws</normalised> against the<lb/>
+<normalised orig="lawes" auto="true">laws</normalised> of God, wee must obey GOD rather<lb/>
+then men. But there are many as I said before<lb/>
+<normalised orig="whiche" auto="true">which</normalised> in any Princes <normalised orig="dayes" auto="true">days</normalised> will <normalised orig="speake" auto="true">speak</normalised><lb/>
+thus, if religion <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="turne" auto="true">turn</normalised> (<normalised orig="saye" auto="true">say</normalised> they) as<lb/>
+                  <pb n="5"/>
+                  <lb/>
+God forbid it <normalised orig="shoulde" auto="true">should</normalised>, but if it <normalised orig="doe" auto="true">do</normalised>, it is our<lb/>
+<normalised orig="partes" auto="true">parts</normalised> to be obedient. Are not these <normalised orig="Atheistes" auto="true">Atheists</normalised>,<lb/>
+<normalised orig="haue" auto="true">have</normalised> they not denied GOD, when<lb/>
+they set men in his place? And <normalised orig="looke" auto="true">look</normalised><lb/>
+no higher but what men <normalised orig="commande" auto="true">command</normalised>. But<lb/>
+<normalised orig="yee" auto="true">ye</normalised> <normalised orig="haue" auto="true">have</normalised> <normalised orig="drawne" auto="true">drawn</normalised> me away <normalised orig="againe" auto="true">again</normalised> from the<lb/>
+matter wee were in hand with, where <normalised orig="ye" auto="true">you</normalised> <normalised orig="sayd" auto="true">said</normalised><lb/>
+it is presumption for a man to say he <normalised orig="knoweth" auto="true">knows</normalised><lb/>
+he <normalised orig="shalbe" auto="true">shall be</normalised> <normalised orig="saued" auto="true">saved</normalised>: I may <normalised orig="aske" auto="true">ask</normalised> <normalised orig="ye" auto="true">you</normalised> a question<lb/>
+I know <normalised orig="ye" auto="true">you</normalised> will <normalised orig="answere" auto="true">answer</normalised> very <normalised orig="boldely" auto="true">boldly</normalised>.<lb/>
+            Ath. I <normalised orig="knowe" auto="true">know</normalised> no cause why I <normalised orig="shoulde" auto="true">should</normalised><lb/>
+not <normalised orig="answere" auto="true">answer</normalised> boldly.<lb/>
+            Zelot. <normalised orig="Yee" auto="true">Ye</normalised> say true, for <normalised orig="blinde" auto="true">blind</normalised> bayarde is<lb/>
+the boldest horse in the cart, although he <normalised orig="bee" auto="true">be</normalised><lb/>
+almost drowned in one <normalised orig="slowe" auto="true">slow</normalised> yet <normalised orig="hee" auto="true">he</normalised> will not<lb/>
+<normalised orig="sticke" auto="true">stick</normalised> at another, he will through when all the<lb/>
+rest <normalised orig="wil" auto="true">will</normalised> <normalised orig="straine" auto="true">strain</normalised> <normalised orig="curtesie" auto="true">courtesy</normalised>. But let <normalised orig="vs" auto="true">us</normalised> come to<lb/>
+the matter whether is it greater presumption<lb/>
+for to <normalised orig="beleeue" auto="true">believe</normalised> that God is true, or for<lb/>
+to doubt of the <normalised orig="certaintie" auto="true">certainty</normalised> of his promise? &amp;<lb/>
+whether <normalised orig="doeth" auto="true">doth</normalised> that man <normalised orig="honoure" auto="true">honour</normalised> GOD<lb/>
+most which <normalised orig="giueth" auto="true">gives</normalised> credit to his word, or <normalised orig="hee" auto="true">he</normalised><lb/>
+which <normalised orig="doubteth" auto="true">doubts</normalised> whether he will <normalised orig="perfourme" auto="true">perform</normalised><lb/>
+the same?<lb/>
+            Ath. It must needs be <normalised orig="graunted" auto="true">granted</normalised> that he<lb/>
+which <normalised orig="beleeueth" auto="true">believes</normalised> God of his word <normalised orig="doeth" auto="true">doth</normalised> <normalised orig="wel" auto="true">well</normalised>,<lb/>
+and he that <normalised orig="doth" auto="true">does</normalised> not <normalised orig="doth" auto="true">does</normalised> <normalised orig="euill" auto="true">evil</normalised>.<lb/>
+                  <pb n="6"/>
+                  <lb/>
+            Zelot. <normalised orig="Yee" auto="true">Ye</normalised> say true, for if a Prince make an<lb/>
+offer <normalised orig="vnto" auto="true">unto</normalised> some man, <normalised orig="who~" auto="true">whom</normalised> he <normalised orig="fauoureth" auto="true">favours</normalised>, and<lb/>
+he should make <normalised orig="aunsweare" auto="true">answer</normalised>, I doubt of it, I<lb/>
+scarce <normalised orig="beleuue" auto="false">believe</normalised> the performance of your promise:<lb/>
+would not the Prince <normalised orig="thinke" auto="true">think</normalised> him <normalised orig="selfe" auto="true">self</normalised><lb/>
+greatly dishonoured to <normalised orig="haue" auto="true">have</normalised> it doubted,<lb/>
+whether he be a man of his word? If he <normalised orig="shou'd" auto="true">should</normalised><lb/>
+<normalised orig="sweare" auto="true">swear</normalised> for the performance of his promise, &amp;<lb/>
+the party not trust him, he would <normalised orig="neuer" auto="true">never</normalised> put<lb/>
+that <normalised orig="vp" auto="true">up</normalised>, or <normalised orig="beare" auto="true">bear</normalised> such an <normalised orig="iniury" auto="true">injury</normalised>. Then it must<lb/>
+needs follow that <normalised orig="whe~" auto="true">when</normalised> God <normalised orig="hath" auto="true">has</normalised> bound <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+both by promise and by <normalised orig="oth" auto="true">oath</normalised>, as it is said<lb/>
+Heb. cap. 6. ver. 17. How great presumption is<lb/>
+it not for to <normalised orig="beleeue" auto="true">believe</normalised> him? it is all one as too<lb/>
+<normalised orig="thinke" auto="true">think</normalised> God may lie, or that he may <normalised orig="bee" auto="true">be</normalised> <normalised orig="forsworne" auto="true">forsworn</normalised>,<lb/>
+which is horrible blasphemy.<lb/>
+            Ath. I <normalised orig="graunt" auto="true">grant</normalised> this is true, if God should<lb/>
+tell any man that he should be <normalised orig="saued" auto="true">saved</normalised>, if he did<lb/>
+not then <normalised orig="beleeue" auto="true">believe</normalised> him. But where is that man<lb/>
+which can say God <normalised orig="euer" auto="true">ever</normalised> <normalised orig="tolde" auto="true">told</normalised> him so? <normalised orig="Doth" auto="true">Does</normalised><lb/>
+he tel any one man so?<lb/>
+            Zelot. Yea that he <normalised orig="doth" auto="true">does</normalised>, for that which<lb/>
+he <normalised orig="sendeth" auto="true">sends</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="al" auto="true">all</normalised> in <normalised orig="generall" auto="true">general</normalised>, he <normalised orig="se~deth" auto="false">sends</normalised> <normalised orig="vnto" auto="true">unto</normalised><lb/>
+<normalised orig="euery" auto="true">every</normalised> one in particular: for is it not all one, if<lb/>
+a man be condemned for treason, to <normalised orig="haue" auto="true">have</normalised> his<lb/>
+pardon <normalised orig="se~t" auto="true">sent</normalised> him being but one man alone, or<lb/>
+<normalised orig="hauing" auto="true">having</normalised> a great sort mo <normalised orig="conde~ned" auto="true">condemned</normalised> <normalised orig="vnto" auto="true">unto</normalised> death<lb/>
+with him, a general pardon is sent for <normalised orig="the~" auto="true">them</normalised> all:<lb/>
+                  <pb n="7"/>
+                  <lb/>
+            Ath. That is <normalised orig="al" auto="true">all</normalised> one, for he <normalised orig="hath" auto="true">has</normalised> his part in it.<lb/>
+            Zelot. <normalised orig="Euen" auto="true">Even</normalised> so is it <normalised orig="betweene" auto="true">between</normalised> God and<lb/>
+<normalised orig="vs" auto="true">us</normalised>, we were all condemned, he <normalised orig="hath" auto="true">has</normalised> sent a <normalised orig="generall" auto="true">general</normalised><lb/>
+pardon to as many as <normalised orig="beleeue" auto="true">believe</normalised> the same,<lb/>
+that <normalised orig="whosoeuer" auto="true">whosoever</normalised> <normalised orig="trusteth" auto="true">trusts</normalised> in Christ <normalised orig="hee" auto="true">he</normalised> <normalised orig="shalbee" auto="true">shall be</normalised><lb/>
+<normalised orig="saued" auto="true">saved</normalised>. God therefore <normalised orig="hath" auto="true">has</normalised> <normalised orig="tolde" auto="true">told</normalised> some men,<lb/>
+that is, such as <normalised orig="beleeue" auto="true">believe</normalised> that they <normalised orig="shalbe" auto="true">shall be</normalised> <normalised orig="saued" auto="true">saved</normalised>,<lb/>
+and such as doubt of his promise and his <normalised orig="oth" auto="true">oath</normalised><lb/>
+they <normalised orig="shalbe" auto="true">shall be</normalised> damned. Therefore is it <normalised orig="al" auto="true">all</normalised> one in<lb/>
+those which <normalised orig="beleeue" auto="true">believe</normalised>, as if he had sent a particular<lb/>
+message <normalised orig="vnto" auto="true">unto</normalised> them.<lb/>
+            Ath. I <normalised orig="neuer" auto="true">never</normalised> heard so much in all my<lb/>
+life before.<lb/>
+            Zelot. I <normalised orig="beleeue" auto="true">believe</normalised> so. For S. R. can no great<lb/>
+skill in this <normalised orig="geare" auto="true">gear</normalised>: he can <normalised orig="whippe" auto="true">whip</normalised> <normalised orig="ouer" auto="true">over</normalised> a new<lb/>
+<normalised orig="payre" auto="true">pair</normalised> of <normalised orig="cardes" auto="true">cards</normalised> nimbly, and tyrle a <normalised orig="dye" auto="true">die</normalised>: but<lb/>
+he should be the messenger of the <normalised orig="Lorde" auto="true">Lord</normalised> of<lb/>
+<normalised orig="hostes" auto="true">hostess</normalised>, <normalised orig="euen" auto="true">even</normalised> as the <normalised orig="Prophete" auto="true">Prophet</normalised> saith, his lips<lb/>
+<normalised orig="shoulde" auto="true">should</normalised> <normalised orig="keepe" auto="true">keep</normalised> knowledge, and men <normalised orig="shoulde" auto="true">should</normalised><lb/>
+enquire at his mouth, <normalised orig="hee" auto="true">he</normalised> <normalised orig="shoulde" auto="true">should</normalised> open all<lb/>
+the Counsel of God <normalised orig="vnto" auto="true">unto</normalised> the people, and not<lb/>
+let them run headlong as they <normalised orig="doe" auto="true">do</normalised> <normalised orig="vnto" auto="true">unto</normalised> destruction.<lb/>
+He should instruct them in all the<lb/>
+doctrine of faith, and repentance, &amp; so <normalised orig="guyde" auto="true">guide</normalised><lb/>
+them in the <normalised orig="feare" auto="true">fear</normalised> of God.<lb/>
+            Ath. <normalised orig="Al" auto="true">All</normalised> men cannot <normalised orig="doe" auto="true">do</normalised> alike, we must<lb/>
+accept their good will, <normalised orig="euery" auto="true">every</normalised> man cannot <normalised orig="bee" auto="true">be</normalised><lb/>
+a Preacher.<lb/>
+            Zelot. Because <normalised orig="ye" auto="true">you</normalised> care not for seeking<lb/>
+                  <pb n="8"/>
+                  <lb/>
+after <normalised orig="eternall" auto="true">eternal</normalised> life, <normalised orig="yee" auto="true">ye</normalised> are content to accept<lb/>
+of nothing: and because <normalised orig="yee" auto="true">ye</normalised> <normalised orig="loue" auto="true">love</normalised> your<lb/>
+<normalised orig="lustes" auto="true">lusts</normalised>, and hate to be <normalised orig="refourmed" auto="true">reformed</normalised>, <normalised orig="yee" auto="true">ye</normalised> <normalised orig="abhorre" auto="true">abhor</normalised><lb/>
+the <normalised orig="vse" auto="true">use</normalised> of preaching, and as <normalised orig="poore" auto="true">poor</normalised> a man as<lb/>
+<normalised orig="yee" auto="true">ye</normalised> are, <normalised orig="ye" auto="true">you</normalised> would not for xl. shillings <normalised orig="ye" auto="true">you</normalised> had a<lb/>
+Preacher among you.<lb/>
+            Ath. <normalised orig="Yee" auto="true">Ye</normalised> <normalised orig="euer" auto="true">ever</normalised> take me at the <normalised orig="woorst" auto="true">worst</normalised>, I<lb/>
+<normalised orig="allowe" auto="true">allow</normalised> preaching, it is good <normalised orig="nowe" auto="true">now</normalised> and then,<lb/>
+but some can <normalised orig="keepe" auto="true">keep</normalised> no measure nor tel when<lb/>
+they <normalised orig="haue" auto="true">have</normalised> done: <normalised orig="Agayne" auto="true">Again</normalised> they <normalised orig="bee" auto="true">be</normalised> <normalised orig="ouer" auto="true">over</normalised> <normalised orig="hott" auto="true">hot</normalised><lb/>
+and <normalised orig="seuere" auto="true">severe</normalised>, and <normalised orig="preache" auto="true">preach</normalised> damnation to the<lb/>
+people. Likewise they meddle with <normalised orig="suche" auto="true">such</normalised><lb/>
+matters as they <normalised orig="neede" auto="true">need</normalised> not, as Election and<lb/>
+Predestination, what <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="suche" auto="true">such</normalised> matters<lb/>
+be spoken of among the people, they make<lb/>
+men <normalised orig="woorse" auto="true">worse</normalised>?<lb/>
+            Zelot. I <normalised orig="thinke" auto="true">think</normalised> the <normalised orig="Diuell" auto="true">Devil</normalised> is the cunningest<lb/>
+<normalised orig="schoolemaster" auto="true">schoolmaster</normalised> in the <normalised orig="worlde" auto="true">world</normalised>. Other<lb/>
+<normalised orig="schoolemasters" auto="false">schoolmasters</normalised> cannot bring <normalised orig="grosse" auto="true">gross</normalised> <normalised orig="heades" auto="true">heads</normalised><lb/>
+and dullards to any <normalised orig="passe" auto="true">pass</normalised>, but content <normalised orig="themselues" auto="true">themselves</normalised><lb/>
+with the finer wits, for to <normalised orig="trayne" auto="true">train</normalised> them<lb/>
+<normalised orig="vp" auto="true">up</normalised> in learning: but a man can almost light<lb/>
+<normalised orig="vppon" auto="true">upon</normalised> none of his <normalised orig="schollers" auto="true">scholars</normalised>, <normalised orig="bee" auto="true">be</normalised> they <normalised orig="neuer" auto="true">never</normalised><lb/>
+<normalised orig="suche" auto="true">such</normalised> blockheads, but they <normalised orig="haue" auto="true">have</normalised> their lesson<lb/>
+at their fingers ends.<lb/>
+            Ath. I <normalised orig="thanke" auto="true">thank</normalised> <normalised orig="yee" auto="true">ye</normalised> Sir for your good<lb/>
+<normalised orig="woorde" auto="true">word</normalised>: But I <normalised orig="neuer" auto="true">never</normalised> learned it of the <normalised orig="Diuell" auto="true">Devil</normalised>,<lb/>
+nor <normalised orig="neuer" auto="true">never</normalised> was any of his <normalised orig="schollers" auto="true">scholars</normalised>: I<lb/>
+                  <pb n="9"/>
+                  <lb/>
+trust I <normalised orig="haue" auto="true">have</normalised> as little to <normalised orig="doe" auto="true">do</normalised> with him as you<lb/>
+or any other.<lb/>
+            Zelot. Where did <normalised orig="yee" auto="true">ye</normalised> <normalised orig="learne" auto="true">learn</normalised> it then, if not<lb/>
+of the <normalised orig="Diuell" auto="true">Devil</normalised>?<lb/>
+            Ath. I <normalised orig="haue" auto="true">have</normalised> heard honest men <normalised orig="speake" auto="true">speak</normalised> it,<lb/>
+and some Preachers preach it.<lb/>
+            Zelot. Then I <normalised orig="perceiue" auto="true">perceive</normalised> <normalised orig="ye" auto="true">you</normalised> learned it not<lb/>
+of the <normalised orig="Diuel" auto="true">Devil</normalised> <normalised orig="himselfe" auto="true">himself</normalised>, but at the mouth of<lb/>
+some of his <normalised orig="Vshers" auto="true">Ushers</normalised>.<lb/>
+            Ath. Wherefore <normalised orig="doe" auto="true">do</normalised> <normalised orig="yee" auto="true">ye</normalised> call them the<lb/>
+            <normalised orig="Deuilles" auto="true">Devils</normalised> Ushers? <choice ana="print-error">
+                     <sic>the</sic>
+                     <corr>they</corr>
+                  </choice> <normalised orig="haue" auto="true">have</normalised> skill in the<lb/>
+<normalised orig="worde" auto="true">word</normalised> of God, and ought to <normalised orig="knowe" auto="true">know</normalised> what<lb/>
+they <normalised orig="saie" auto="true">say</normalised>.<lb/>
+            Zelot. I call them so because they teach<lb/>
+the precepts of the <normalised orig="Diuell" auto="true">Devil</normalised>. And although<lb/>
+they <normalised orig="haue" auto="true">have</normalised> some knowledge in the <normalised orig="woorde" auto="true">word</normalised>,<lb/>
+yet they <normalised orig="neuer" auto="true">never</normalised> learned these <normalised orig="thinges" auto="true">things</normalised> <normalised orig="whiche" auto="true">which</normalised><lb/>
+you <normalised orig="speake" auto="true">speak</normalised> out of the word.<lb/>
+            Ath. Did the <normalised orig="Diuell" auto="true">Devil</normalised> teach them because<lb/>
+they <normalised orig="haue" auto="true">have</normalised> it not in Gods word?<lb/>
+            Zelot. It is the doctrine of the <normalised orig="Diuell" auto="true">Devil</normalised>,<lb/>
+because it is against Gods word. For GOD<lb/>
+<normalised orig="neuer" auto="true">never</normalised> <normalised orig="teacheth" auto="true">teaches</normalised> men those <normalised orig="thinges" auto="true">things</normalised> <normalised orig="whiche" auto="true">which</normalised><lb/>
+are contrary to the doctrine which he <normalised orig="hath" auto="true">has</normalised><lb/>
+set <normalised orig="downe" auto="true">down</normalised> in his <normalised orig="worde" auto="true">word</normalised>.<lb/>
+            Ath. I <normalised orig="thinke" auto="true">think</normalised> <normalised orig="ye" auto="true">you</normalised> will hardly <normalised orig="prooue" auto="true">prove</normalised><lb/>
+these <normalised orig="thinges" auto="true">things</normalised> for too <normalised orig="bee" auto="true">be</normalised> against Gods<lb/>
+<normalised orig="worde" auto="true">word</normalised>.<lb/>
+                  <lb/>
+                  <fw type="pageNum">D</fw>
+                  <pb n="10"/>
+                  <lb/>
+            Zelot. I <normalised orig="woulde" auto="true">would</normalised> you <normalised orig="coulde" auto="true">could</normalised> as <normalised orig="easilye" auto="true">easily</normalised><lb/>
+<normalised orig="proue" auto="true">prove</normalised> your <normalised orig="selfe" auto="true">self</normalised> to <normalised orig="bee" auto="true">be</normalised> a good man for then<lb/>
+we should <normalised orig="soone" auto="true">soon</normalised> agree.<lb/>
+            Ath. You are not for to <normalised orig="iudge" auto="true">judge</normalised> of <normalised orig="mee" auto="true">me</normalised><lb/>
+no more then I am for to <normalised orig="iudge" auto="true">judge</normalised> of you: but<lb/>
+there be many now a <normalised orig="dayes" auto="true">days</normalised> which will take<lb/>
+<normalised orig="vppon" auto="true">upon</normalised> them for to <normalised orig="iudge" auto="true">judge</normalised> men: they <normalised orig="doe" auto="true">do</normalised><lb/>
+not <normalised orig="learne" auto="true">learn</normalised> that out of Gods <normalised orig="woorde" auto="true">word</normalised>, I am<lb/>
+sure.<lb/>
+            Zelot. If I see a man drunken, or <normalised orig="heare" auto="true">hear</normalised><lb/>
+him <normalised orig="sweare" auto="true">swear</normalised> or <normalised orig="raile" auto="true">rail</normalised> and <normalised orig="suche" auto="true">such</normalised> like, and say,<lb/>
+he is a naughty man, <normalised orig="doe" auto="true">do</normalised> I <normalised orig="iudge" auto="true">judge</normalised>: shall I account<lb/>
+him a good man. when I see <normalised orig="hee" auto="true">he</normalised> is<lb/>
+<normalised orig="naught" auto="true">nought</normalised>?<lb/>
+            Ath. When a man <normalised orig="doth" auto="true">does</normalised> see those naughty<lb/>
+vices, he may <normalised orig="boldely" auto="true">boldly</normalised> say that such men<lb/>
+are <normalised orig="naught" auto="true">nought</normalised>.<lb/>
+            Zelot. In like <normalised orig="maner" auto="true">manner</normalised> when a man <normalised orig="heareth" auto="true">hears</normalised><lb/>
+one which <normalised orig="holdeth" auto="true">holds</normalised> <normalised orig="euill" auto="true">evil</normalised> and <normalised orig="abhominable" auto="true">abominable</normalised><lb/>
+opinions against the truth, he may<lb/>
+as <normalised orig="boldely" auto="true">boldly</normalised> say he is <normalised orig="naught" auto="true">nought</normalised>: because they<lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="giuen" auto="true">given</normalised> <normalised orig="iudgement" auto="true">judgment</normalised> of them <normalised orig="selues" auto="true">selves</normalised>, and<lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="shewed" auto="true">showed</normalised> what they are. Nay they be<lb/>
+<normalised orig="suche" auto="true">such</normalised> as you <normalised orig="whiche" auto="true">which</normalised> take <normalised orig="vppon" auto="true">upon</normalised> <normalised orig="yee" auto="true">ye</normalised> for to<lb/>
+<normalised orig="iudge" auto="true">judge</normalised>: for let a man be more <normalised orig="carefull" auto="true">careful</normalised> then<lb/>
+your <normalised orig="selues" auto="true">selves</normalised> for to <normalised orig="serue" auto="true">serve</normalised> GOD: and by and by<lb/>
+you will enter into the secrets of his heart,<lb/>
+which God <normalised orig="onely" auto="true">only</normalised> <normalised orig="doth" auto="true">does</normalised> know, and <normalised orig="ye" auto="true">you</normalised> will not<lb/>
+                  <pb n="11"/>
+                  <lb/>
+<normalised orig="sticke" auto="true">stick</normalised> for to pronounce that he is an hypocrite.<lb/>
+In the <normalised orig="meane" auto="true">mean</normalised> time, let a man tell you<lb/>
+that <normalised orig="ye" auto="true">you</normalised> are wicked, when he <normalised orig="doth" auto="true">does</normalised> see your<lb/>
+<normalised orig="wickednesse" auto="true">wickedness</normalised>, <normalised orig="ye" auto="true">you</normalised> <normalised orig="aunswere" auto="true">answer</normalised>, <normalised orig="ye" auto="true">you</normalised> ought not to<lb/>
+<normalised orig="iudge" auto="true">judge</normalised>: but I will come for to <normalised orig="proue" auto="true">prove</normalised> that the<lb/>
+<normalised orig="thinges" auto="true">things</normalised> which <normalised orig="yee" auto="true">ye</normalised> <normalised orig="speake" auto="true">speak</normalised> against preaching,<lb/>
+are <normalised orig="verie" auto="true">very</normalised> <normalised orig="diuelishe" auto="true">devilish</normalised> and wicked. <normalised orig="Ye" auto="true">You</normalised> said thus,<lb/>
+I <normalised orig="allowe" auto="true">allow</normalised> preaching, it is good now and then,<lb/>
+but some can <normalised orig="keepe" auto="true">keep</normalised> no measure, nor will <normalised orig="neuer" auto="true">never</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> done.<lb/>
+            Ath. I <normalised orig="sayd" auto="true">said</normalised> so in <normalised orig="deede" auto="true">deed</normalised>, I will not <normalised orig="denie" auto="true">deny</normalised><lb/>
+my <normalised orig="worde" auto="true">word</normalised>, and I <normalised orig="thinke" auto="true">think</normalised> so still. For a man<lb/>
+may <normalised orig="haue" auto="true">have</normalised> <normalised orig="ouermuch" auto="true">overmuch</normalised> of any thing, &amp; <normalised orig="ynough" auto="true">enough</normalised><lb/>
+is as good as a feast.<lb/>
+            Zelot. A very little is <normalised orig="ynough" auto="true">enough</normalised> for you,<lb/>
+if the Preacher <normalised orig="doe" auto="true">do</normalised> <normalised orig="passe" auto="true">pass</normalised> his <normalised orig="houre" auto="true">hour</normalised> but a<lb/>
+little, your <normalised orig="buttokes" auto="false">buttocks</normalised> <normalised orig="beginne" auto="true">begin</normalised> for to <normalised orig="ake" auto="true">ache</normalised>,<lb/>
+and <normalised orig="ye" auto="true">you</normalised> <normalised orig="wishe" auto="true">wish</normalised> in your <normalised orig="hearte" auto="true">heart</normalised> that the Pulpit<lb/>
+would fall.<lb/>
+            Ath. <normalised orig="Ye" auto="true">You</normalised> may <normalised orig="gesse" auto="true">guess</normalised> <normalised orig="twise" auto="true">twice</normalised> before <normalised orig="yee" auto="true">ye</normalised> <normalised orig="gesse" auto="true">guess</normalised><lb/>
+so right.<lb/>
+            Zelot. Nay I <normalised orig="canne" auto="true">can</normalised> <normalised orig="gesse" auto="true">guess</normalised> somewhat<lb/>
+<normalised orig="neere" auto="true">near</normalised> in <normalised orig="suche" auto="true">such</normalised> a man as <normalised orig="yee" auto="true">ye</normalised> are: but I<lb/>
+<normalised orig="praye" auto="true">pray</normalised>, <normalised orig="yee" auto="true">ye</normalised> did <normalised orig="yee" auto="true">ye</normalised> <normalised orig="neuer" auto="true">never</normalised> <normalised orig="sitte" auto="true">sit</normalised> at <normalised orig="Cardes" auto="true">Cards</normalised> all<lb/>
+night?<lb/>
+            Ath. Yes that I <normalised orig="haue" auto="true">have</normalised>, and thought it<lb/>
+but a short night too.<lb/>
+            Zelot. The cause why <normalised orig="yee" auto="true">ye</normalised> <normalised orig="thinke" auto="true">think</normalised> an<lb/>
+                  <lb/>
+                  <fw type="pageNum">D2</fw>
+                  <pb n="12"/>
+                  <lb/>
+<normalised orig="houre" auto="true">hour</normalised> so long at a Sermon, &amp; a whole night<lb/>
+so short at <normalised orig="Cardes" auto="true">Cards</normalised>, is, that <normalised orig="ye" auto="true">you</normalised> delight in the<lb/>
+one and care not for the other: the carding<lb/>
+is <normalised orig="ioyned" auto="true">joined</normalised> with much <normalised orig="sinne" auto="true">sin</normalised> and <normalised orig="seruice" auto="true">service</normalised> of<lb/>
+the <normalised orig="Deuill" auto="true">Devil</normalised>, the other is for to bring <normalised orig="vs" auto="true">us</normalised> <normalised orig="vnto" auto="true">unto</normalised><lb/>
+the knowledge and <normalised orig="feare" auto="true">fear</normalised> of GOD: <normalised orig="Marke" auto="true">Mark</normalised><lb/>
+<normalised orig="nowe" auto="true">now</normalised> <normalised orig="howe" auto="true">how</normalised> much by your <normalised orig="owne" auto="true">own</normalised> confession<lb/>
+<normalised orig="ye" auto="true">you</normalised> <normalised orig="loue" auto="true">love</normalised> the <normalised orig="Diuell" auto="true">Devil</normalised> more then GOD? for him<lb/>
+<normalised orig="doe" auto="true">do</normalised> <normalised orig="ye" auto="true">you</normalised> <normalised orig="loue" auto="true">love</normalised> most, whom <normalised orig="ye" auto="true">you</normalised> delight to <normalised orig="serue" auto="true">serve</normalised><lb/>
+most.<lb/>
+            Ath. Can wee not <normalised orig="serue" auto="true">serve</normalised> God without<lb/>
+so much preaching? I see they are <normalised orig="neuer" auto="true">never</normalised> the<lb/>
+better which <normalised orig="runne" auto="true">run</normalised> most after sermons, they<lb/>
+<normalised orig="talke" auto="true">talk</normalised> much, but I <normalised orig="woulde" auto="true">would</normalised> <normalised orig="haue" auto="true">have</normalised> them <normalised orig="leaue" auto="true">leave</normalised><lb/>
+talking and fall to doing, wee see no doing<lb/>
+but men are still <normalised orig="euen" auto="true">even</normalised> as <normalised orig="euill" auto="true">evil</normalised> as <normalised orig="beefore" auto="true">before</normalised>.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+         <div xml:id="GeGi1547_1582_treatise_controversial_2">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+            Zelot. When <normalised orig="ye" auto="true">you</normalised> say they are <normalised orig="ouer" auto="true">over</normalised> holy,<lb/>
+and what <normalised orig="shoulde" auto="true">should</normalised> men be so curious and full<lb/>
+of the <normalised orig="spirite" auto="true">spirit</normalised>, what is this but to say, that they<lb/>
+<normalised orig="amende" auto="true">amend</normalised> <normalised orig="ouer" auto="true">over</normalised> fast? Is not this to amend when<lb/>
+men by due instruction out of Gods <normalised orig="woorde" auto="true">word</normalised><lb/>
+come to <normalised orig="repentaunce" auto="true">repentance</normalised> of their former vices?<lb/>
+and <normalised orig="haue" auto="true">have</normalised> a care to <normalised orig="keepe" auto="true">keep</normalised> them <normalised orig="selues" auto="true">selves</normalised> from<lb/>
+the <normalised orig="spottes" auto="true">spots</normalised> of the rotten <normalised orig="fleshe" auto="true">flesh</normalised> and <normalised orig="filthie" auto="true">filthy</normalised><lb/>
+<normalised orig="worlde" auto="true">world</normalised>. Do not you and such as you are after<lb/>
+a sort blaspheme, when <normalised orig="yee" auto="true">ye</normalised> <normalised orig="reproche" auto="true">reproach</normalised> men<lb/>
+with the <normalised orig="spirite" auto="true">spirit</normalised>? Is it a shame for a man <normalised orig="nowe" auto="true">now</normalised><lb/>
+a <normalised orig="dayes" auto="true">days</normalised> for to <normalised orig="haue" auto="true">have</normalised> <normalised orig="anye" auto="true">any</normalised> thing to <normalised orig="doe" auto="true">do</normalised> with<lb/>
+the <normalised orig="spirite" auto="true">spirit</normalised> of God? While a man <normalised orig="doeth" auto="true">doth</normalised> <normalised orig="walke" auto="true">walk</normalised><lb/>
+after the <normalised orig="fleshe" auto="true">flesh</normalised> in the <normalised orig="lustes" auto="true">lusts</normalised> of <normalised orig="vncleannesse" auto="true">uncleanness</normalised>,<lb/>
+he is an honest man: but so <normalised orig="soone" auto="true">soon</normalised> as <normalised orig="hee" auto="true">he</normalised> is<lb/>
+<normalised orig="indued" auto="true">endued</normalised> with any grace, <normalised orig="ye" auto="true">you</normalised> wonder at him as<lb/>
+<normalised orig="crowes" auto="true">crows</normalised> do at an <normalised orig="owle" auto="true">owl</normalised>, <normalised orig="yee" auto="true">ye</normalised> are <normalised orig="readie" auto="true">ready</normalised> to <normalised orig="floute" auto="true">flout</normalised><lb/>
+and <normalised orig="mocke" auto="true">mock</normalised> him out of his <normalised orig="skinne" auto="true">skin</normalised>. And as if<lb/>
+the <normalised orig="spirite" auto="true">spirit</normalised> of God were a <normalised orig="spirite" auto="true">spirit</normalised> of dishonour<lb/>
+and shame, <normalised orig="yee" auto="true">ye</normalised> <normalised orig="mocke" auto="true">mock</normalised> men with him.<lb/>
+Wee may wonder at the <normalised orig="longe" auto="true">long</normalised> patience of<lb/>
+GOD, which <normalised orig="hath" auto="true">has</normalised> thus many <normalised orig="yeeres" auto="true">years</normalised> suffered<lb/>
+<normalised orig="himselfe" auto="true">himself</normalised> to be dishonoured, his <normalised orig="spirite" auto="true">spirit</normalised> <normalised orig="reuiled" auto="true">reviled</normalised>,<lb/>
+his <normalised orig="woorde" auto="true">word</normalised> despised, and <normalised orig="hath" auto="true">has</normalised> not been<lb/>
+<normalised orig="reuenged" auto="true">revenged</normalised>, but no doubt the longer <normalised orig="hee" auto="true">he</normalised> <normalised orig="hath" auto="true">has</normalised><lb/>
+<normalised orig="caried" auto="true">carried</normalised>, the <normalised orig="heauier" auto="true">heavier</normalised> will the stroke be.<lb/>
+            Ath. Men are men, what <normalised orig="shoulde" auto="true">should</normalised> they<lb/>
+                  <pb n="13"/>
+                  <lb/>
+make <normalised orig="themselues" auto="true">themselves</normalised> more holy then they be?<lb/>
+            Zelot. If <normalised orig="ye" auto="true">you</normalised> <normalised orig="meane" auto="true">mean</normalised> one way <normalised orig="ye" auto="true">you</normalised> say right,<lb/>
+for it is a <normalised orig="naughtie" auto="true">naughty</normalised> vice for men to <normalised orig="seeme" auto="true">seem</normalised> to<lb/>
+be holy when they are not, or to <normalised orig="seeme" auto="true">seem</normalised> to<lb/>
+be more holy then they be: but if <normalised orig="yee" auto="true">ye</normalised> <normalised orig="meane" auto="true">mean</normalised><lb/>
+another way (as I <normalised orig="thinke" auto="true">think</normalised> <normalised orig="ye" auto="true">you</normalised> <normalised orig="doe" auto="true">do</normalised>) that because<lb/>
+men are <normalised orig="sinfull" auto="true">sinful</normalised> by nature, why <normalised orig="shoulde" auto="true">should</normalised> they<lb/>
+<normalised orig="seeke" auto="true">seek</normalised> for to be better, then <normalised orig="doe" auto="true">do</normalised> <normalised orig="ye" auto="true">you</normalised> <normalised orig="speake" auto="true">speak</normalised> <normalised orig="verie" auto="true">very</normalised><lb/>
+wickedly. For God <normalised orig="calleth" auto="true">calls</normalised> men to repentance,<lb/>
+to <normalised orig="turne" auto="true">turn</normalised> from their <normalised orig="euill" auto="true">evil</normalised> <normalised orig="wayes" auto="true">ways</normalised>: God<lb/>
+<normalised orig="guideth" auto="true">guides</normalised> his <normalised orig="seruants" auto="true">servants</normalised> at all times with his<lb/>
+<normalised orig="spirite" auto="true">spirit</normalised>, <normalised orig="therfore" auto="true">therefore</normalised> S. <normalised orig="paule" auto="true">paul</normalised> <normalised orig="sayth" auto="true">saith</normalised> Rom. 8. <quote type="biblical" ana="Rom 8.1">There<lb/>
+is no condemnation <normalised orig="nowe" auto="true">now</normalised> to those <normalised orig="whiche" auto="true">which</normalised><lb/>
+are in Christ <normalised orig="Iesus" auto="true">Jesus</normalised>, which <normalised orig="walke" auto="true">walk</normalised> not after<lb/>
+the <normalised orig="fleshe" auto="true">flesh</normalised>, but after the <normalised orig="spirite" auto="true">spirit</normalised>.</quote> And <normalised orig="againe" auto="true">again</normalised> in<lb/>
+the same chapter, <quote type="biblical" ana="Rom 8.14">As many as are led by the<lb/>
+<normalised orig="spirite" auto="true">spirit</normalised> of God, are the <normalised orig="sonnes" auto="true">sons</normalised> of God.</quote> <normalised orig="Hee" auto="true">He</normalised><lb/>
+<normalised orig="sayth" auto="true">saith</normalised> that if wee <normalised orig="liue" auto="true">live</normalised> after the <normalised orig="fleshe" auto="true">flesh</normalised>, we shall<lb/>
+<normalised orig="dye" auto="true">die</normalised>: in other places he <normalised orig="doth" auto="true">does</normalised> <normalised orig="shewe" auto="true">show</normalised>, <normalised orig="whiche" auto="true">which</normalised><lb/>
+are the <normalised orig="workes" auto="true">works</normalised> of the <normalised orig="spirite" auto="true">spirit</normalised>, and <normalised orig="whiche" auto="true">which</normalised><lb/>
+are the <normalised orig="workes" auto="true">works</normalised> of the <normalised orig="fleshe" auto="true">flesh</normalised>: And you like<lb/>
+blasphemous wretches <normalised orig="allowe" auto="true">allow</normalised> those <normalised orig="whiche" auto="true">which</normalised><lb/>
+<normalised orig="walke" auto="true">walk</normalised> after the flesh, and <normalised orig="condemne" auto="true">condemn</normalised> those<lb/>
+which are led by the <normalised orig="spirite" auto="true">spirit</normalised>.<lb/>
+            Ath. Are none <normalised orig="indued" auto="true">endued</normalised> with Gods<lb/>
+<normalised orig="Spirite" auto="true">Spirit</normalised>, but such as <normalised orig="runne" auto="true">run</normalised> to <normalised orig="heare" auto="true">hear</normalised> preaching?<lb/>
+            Zelot. <normalised orig="Whosoeuer" auto="true">Whosoever</normalised> <normalised orig="hath" auto="true">has</normalised> the <normalised orig="spirite" auto="true">spirit</normalised> of<lb/>
+                  <lb/>
+                  <fw type="pageNum">D4</fw>
+                  <pb n="14"/>
+                  <lb/>
+God, can not but delight in the <normalised orig="woorde" auto="true">word</normalised> of<lb/>
+God, <normalised orig="whiche" auto="true">which</normalised> the same <normalised orig="spirite" auto="true">spirit</normalised> <normalised orig="hath" auto="true">has</normalised> <normalised orig="vttered" auto="true">uttered</normalised>:<lb/>
+The <normalised orig="Lorde" auto="true">Lord</normalised> saith, <normalised orig="hee" auto="true">he</normalised> which is of God, <normalised orig="heareth" auto="true">hears</normalised><lb/>
+Gods <normalised orig="worde" auto="true">word</normalised>: The <normalised orig="happie" auto="true">happy</normalised> man is <normalised orig="hee" auto="true">he</normalised><lb/>
+(as wee <normalised orig="haue" auto="true">have</normalised> in the 1. <normalised orig="Psalme" auto="true">Psalm</normalised>) <normalised orig="whiche" auto="true">which</normalised> <normalised orig="hath" auto="true">has</normalised><lb/>
+his delight in the <normalised orig="lawe" auto="true">law</normalised> of the <normalised orig="Lorde" auto="true">Lord</normalised>, and<lb/>
+which <normalised orig="doeth" auto="true">doth</normalised> meditate in the same day and<lb/>
+night? We <normalised orig="haue" auto="true">have</normalised> in the <normalised orig="psalme" auto="true">psalm</normalised> 112. <quote type="psalm" ana="Ps 112.1">Blessed<lb/>
+is the man which <normalised orig="feareth" auto="true">fears</normalised> the <normalised orig="Lorde" auto="true">Lord</normalised>, <normalised orig="hee" auto="true">he</normalised> <normalised orig="hath" auto="true">has</normalised><lb/>
+great delight in his <normalised orig="commaundements" auto="true">commandments</normalised>.</quote>
+                  <lb/>
+<normalised orig="Moreouer" auto="true">Moreover</normalised>, the <normalised orig="spirite" auto="true">spirit</normalised> of GOD <normalised orig="doeth" auto="true">doth</normalised> not<lb/>
+guide men without the <normalised orig="woorde" auto="true">word</normalised>. And therefore<lb/>
+it is <normalised orig="saide" auto="true">said</normalised> <normalised orig="Psalme" auto="true">Psalm</normalised> 119 <quote type="psalm" ana="Ps 119.105">Thy <normalised orig="woorde" auto="true">word</normalised> is a<lb/>
+<normalised orig="lanterne" auto="true">lantern</normalised> <normalised orig="vnto" auto="true">unto</normalised> my <normalised orig="feete" auto="true">feet</normalised>, and a light <normalised orig="vnto" auto="true">unto</normalised> my<lb/>
+<normalised orig="pathes" auto="true">paths</normalised>.</quote> S Peter <normalised orig="sayth" auto="true">saith</normalised>, 1. Epist. 1. <normalised orig="Hee" auto="true">He</normalised> <normalised orig="hath" auto="true">has</normalised> <normalised orig="beegotten" auto="false">begotten</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised> <normalised orig="againe" auto="true">again</normalised> not of <normalised orig="mortall" auto="true">mortal</normalised> but of <normalised orig="immortall" auto="true">immortal</normalised><lb/>
+<normalised orig="seede" auto="true">seed</normalised>, which he <normalised orig="affirmeth" auto="true">affirms</normalised> to <normalised orig="bee" auto="true">be</normalised> the<lb/>
+<normalised orig="worde" auto="true">word</normalised> of God that <normalised orig="indureth" auto="true">endures</normalised> for <normalised orig="euer" auto="true">ever</normalised>. Likewise<lb/>
+S. <normalised orig="Iames" auto="true">James</normalised> saith cap. 1. of his <normalised orig="owne" auto="true">own</normalised> good<lb/>
+will <normalised orig="begat" auto="true">begot</normalised> <normalised orig="hee" auto="true">he</normalised> <normalised orig="vs" auto="true">us</normalised>, by the <normalised orig="woord" auto="true">word</normalised> of <normalised orig="trueth" auto="true">truth</normalised>. Seeing<lb/>
+<normalised orig="therfore" auto="true">therefore</normalised> that the holy Ghost <normalised orig="doth" auto="true">does</normalised> guide<lb/>
+men by the <normalised orig="worde" auto="true">word</normalised>, it <normalised orig="followeth" auto="true">follows</normalised> that all those<lb/>
+which set light by the <normalised orig="woorde" auto="true">word</normalised>, are led, not<lb/>
+with the <normalised orig="spirite" auto="true">spirit</normalised> of God, but with the <normalised orig="spirite" auto="true">spirit</normalised> of<lb/>
+the <normalised orig="Diuell" auto="true">Devil</normalised>. I might <normalised orig="alleadge" auto="true">allege</normalised> a number of testimonies<lb/>
+of Scripture to <normalised orig="prooue" auto="true">prove</normalised> that such as<lb/>
+you which make so small <normalised orig="accompt" auto="true">account</normalised> of the sacred<lb/>
+<normalised orig="woorde" auto="true">word</normalised> of God, as there be a number,<lb/>
+                  <pb n="15"/>
+                  <lb/>
+yea the greatest number <normalised orig="whiche" auto="true">which</normalised> <normalised orig="doe" auto="true">do</normalised> not set<lb/>
+so <normalised orig="muche" auto="true">much</normalised> by it as they <normalised orig="doe" auto="true">do</normalised> by an <normalised orig="olde" auto="true">old</normalised> shoe,<lb/>
+are despicers of God, worse then brute<lb/>
+<normalised orig="beastes" auto="true">beasts</normalised>.<lb/>
+            Ath. Cannot men be lead by Gods spirit<lb/>
+and <normalised orig="serue" auto="true">serve</normalised> God, <normalised orig="vnlesse" auto="true">unless</normalised> they <normalised orig="knowe" auto="true">know</normalised> the<lb/>
+Scriptures: GOD <normalised orig="forbidde" auto="true">forbid</normalised> that all those<lb/>
+<normalised orig="shoulde" auto="true">should</normalised> <normalised orig="bee" auto="true">be</normalised> awry which are not learned: is<lb/>
+it not enough for <normalised orig="plaine" auto="true">plain</normalised> <normalised orig="countrie" auto="true">country</normalised> men, <normalised orig="plowmen" auto="true">ploughmen</normalised>,<lb/>
+<normalised orig="taylours" auto="true">tailors</normalised>, and <normalised orig="suche" auto="true">such</normalised> other, for to <normalised orig="haue" auto="true">have</normalised><lb/>
+their ten <normalised orig="commaundementes" auto="true">commandments</normalised>, the <normalised orig="Lordes" auto="true">Lords</normalised><lb/>
+prayer, and the <normalised orig="beliefe" auto="true">belief</normalised>: I <normalised orig="thinke" auto="true">think</normalised> these<lb/>
+may suffice <normalised orig="vs" auto="true">us</normalised>, what <normalised orig="shoulde" auto="true">should</normalised> wee meddle<lb/>
+further: I <normalised orig="knowe" auto="true">know</normalised> men <normalised orig="whiche" auto="true">which</normalised> are no scripture<lb/>
+men, <normalised orig="whiche" auto="true">which</normalised> <normalised orig="serue" auto="true">serve</normalised> GOD as well as<lb/>
+the best of them all. Will <normalised orig="yee" auto="true">ye</normalised> <normalised orig="condemne" auto="true">condemn</normalised><lb/>
+such?<lb/>
+            Zelot. I <normalised orig="sayde" auto="true">said</normalised> before that men can not<lb/>
+be lead by Gods <normalised orig="spirite" auto="true">spirit</normalised>, and refuse to <normalised orig="knowe" auto="true">know</normalised><lb/>
+the Scriptures: <normalised orig="Neyther" auto="true">Neither</normalised> can they <normalised orig="truelie" auto="true">truly</normalised><lb/>
+<normalised orig="serue" auto="true">serve</normalised> him <normalised orig="vntill" auto="true">until</normalised> <normalised orig="suche" auto="true">such</normalised> time as they <normalised orig="knowe" auto="true">know</normalised><lb/>
+<normalised orig="howe" auto="true">how</normalised> for to <normalised orig="serue" auto="true">serve</normalised> him: for GOD <normalised orig="teacheth" auto="true">teaches</normalised><lb/>
+<normalised orig="howe" auto="true">how</normalised> he <normalised orig="wil" auto="true">will</normalised> be <normalised orig="serued" auto="true">served</normalised>, and <normalised orig="hee" auto="true">he</normalised> <normalised orig="teacheth" auto="true">teaches</normalised> <normalised orig="onlie" auto="true">only</normalised><lb/>
+in his <normalised orig="worde" auto="true">word</normalised>: his will is that we <normalised orig="shal" auto="true">shall</normalised> <normalised orig="learne" auto="true">learn</normalised><lb/>
+to know him by his <normalised orig="worde" auto="true">word</normalised>. And therefore he<lb/>
+<normalised orig="hath" auto="true">has</normalised> appointed the <normalised orig="Ministerie" auto="true">Ministry</normalised> of the <normalised orig="woorde" auto="true">word</normalised><lb/>
+to continue for <normalised orig="euer" auto="true">ever</normalised> in his Church, that by<lb/>
+it men may be built <normalised orig="vp" auto="true">up</normalised> in <normalised orig="Christe" auto="true">Christ</normalised>, as <normalised orig="yee" auto="true">ye</normalised> may<lb/>
+                  <pb n="16"/>
+                  <lb/>
+<normalised orig="reade" auto="true">read</normalised> Ephe. 4. For this cause S. <normalised orig="Paule" auto="true">Paul</normalised> <normalised orig="exhorteth" auto="true">exhorts</normalised><lb/>
+<normalised orig="Tymothie" auto="false">Timothy</normalised> to <normalised orig="bee" auto="true">be</normalised> instant in teaching<lb/>
+in season and out of season: he <normalised orig="trauelled" auto="true">travelled</normalised> <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+night and <normalised orig="daie" auto="true">day</normalised>, he <normalised orig="maketh" auto="true">makes</normalised> a <normalised orig="verie" auto="true">very</normalised> <normalised orig="feruent" auto="true">fervent</normalised><lb/>
+prayer to God <normalised orig="continuallie" auto="true">continually</normalised> for the Collossians,<lb/>
+that they might <normalised orig="bee" auto="true">be</normalised> fulfilled with the<lb/>
+knowledge of his will, in all <normalised orig="wisdome" auto="true">wisdom</normalised> and<lb/>
+<normalised orig="spirituall" auto="true">spiritual</normalised> <normalised orig="vnderstanding" auto="true">understanding</normalised>, Collos. ver. 9. For<lb/>
+this cause <normalised orig="hee" auto="true">he</normalised> <normalised orig="exhorteth" auto="true">exhorts</normalised> the Christians to <normalised orig="bee" auto="true">be</normalised><lb/>
+children in malice, but not to <normalised orig="bee" auto="true">be</normalised> children<lb/>
+in <normalised orig="vnderstanding" auto="true">understanding</normalised>. The holy Ghost <normalised orig="doth" auto="true">does</normalised><lb/>
+<normalised orig="sharpely" auto="true">sharply</normalised> <normalised orig="reprooue" auto="true">reprove</normalised> the <normalised orig="Hebrewes" auto="true">Hebrews</normalised> as wee may<lb/>
+see, in the latter end of the 5. chap. of that<lb/>
+Epistle: because they were yet children to<lb/>
+be taught, when for the time they <normalised orig="shoulde" auto="true">should</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> been teachers. <normalised orig="Againe" auto="true">Again</normalised> there is a notable<lb/>
+sentence in the beginning of the <normalised orig="seconde" auto="true">second</normalised><lb/>
+chap. of the <normalised orig="prouerbs" auto="true">proverbs</normalised>, where a man may<lb/>
+<normalised orig="playnlie" auto="false">plainly</normalised> <normalised orig="prooue" auto="true">prove</normalised>, that none can come to the<lb/>
+<normalised orig="feare" auto="true">fear</normalised> of god, but such as <normalised orig="doe" auto="true">do</normalised> <normalised orig="earnestlie" auto="true">earnestly</normalised> <normalised orig="endeuour" auto="true">endeavour</normalised><lb/>
+for to <normalised orig="knowe" auto="true">know</normalised> God. The <normalised orig="wordes" auto="true">words</normalised> be these.<lb/>
+My <normalised orig="sonne" auto="true">son</normalised>, if thou <normalised orig="receiue" auto="true">receive</normalised> my <normalised orig="wordes" auto="true">words</normalised>, &amp; hide<lb/>
+my <normalised orig="commaundements" auto="true">commandments</normalised> with thee, to incline<lb/>
+thine <normalised orig="eares" auto="true">ears</normalised> to <normalised orig="wisdome" auto="true">wisdom</normalised>, and to bow thy heart<lb/>
+to <normalised orig="vnderstanding" auto="true">understanding</normalised>: if thou call for <normalised orig="vnderstanding" auto="true">understanding</normalised>,<lb/>
+and <normalised orig="vtter" auto="true">utter</normalised> thy <normalised orig="voyce" auto="true">voice</normalised> for knowledge: if<lb/>
+thou <normalised orig="seeke" auto="true">seek</normalised> her as <normalised orig="siluer" auto="true">silver</normalised>, and <normalised orig="digge" auto="true">dig</normalised> for her as<lb/>
+for <normalised orig="hidde" auto="true">hid</normalised> treasures. Then shalt thou <normalised orig="vnderstande" auto="true">understand</normalised><lb/>
+                  <pb n="17"/>
+                  <lb/>
+the <normalised orig="feare" auto="true">fear</normalised> of the <normalised orig="Lorde" auto="true">Lord</normalised> and <normalised orig="finde" auto="true">find</normalised> the<lb/>
+<normalised orig="knoweledge" auto="true">knowledge</normalised> of God. If a man <normalised orig="doe" auto="true">do</normalised> not <normalised orig="receiue" auto="true">receive</normalised><lb/>
+the <normalised orig="woorde" auto="true">word</normalised> and <normalised orig="commandementes" auto="true">commandments</normalised> of<lb/>
+God <normalised orig="vttered" auto="true">uttered</normalised> by his Ministers, if he <normalised orig="doe" auto="true">do</normalised> not<lb/>
+<normalised orig="keepe" auto="true">keep</normalised> and lay them <normalised orig="vp" auto="true">up</normalised>, if he <normalised orig="doe" auto="true">do</normalised> not cry and<lb/>
+call <normalised orig="vpon" auto="true">upon</normalised> God for <normalised orig="vnderstanding" auto="true">understanding</normalised>, if <normalised orig="hee" auto="true">he</normalised> <normalised orig="doe" auto="true">do</normalised><lb/>
+not incline his <normalised orig="eares" auto="true">ears</normalised> and <normalised orig="bende" auto="true">bend</normalised> his heart thereto,<lb/>
+if he <normalised orig="doe" auto="true">do</normalised> not <normalised orig="searche" auto="true">search</normalised> and <normalised orig="digge" auto="true">dig</normalised> after her<lb/>
+as men <normalised orig="doe" auto="true">do</normalised> for treasures: he shall not come<lb/>
+to the knowledge of the <normalised orig="feare" auto="true">fear</normalised> of God.<lb/>
+            Ath. All men cannot come to these things<lb/>
+which you <normalised orig="speake" auto="true">speak</normalised> of.<lb/>
+            Zelot. All men which will please GOD<lb/>
+must come this <normalised orig="farre" auto="true">far</normalised>, that can <normalised orig="saye" auto="true">say</normalised> with<lb/>
+the <normalised orig="Prophete" auto="true">Prophet</normalised> <normalised orig="Dauid" auto="true">David</normalised> in the 119. <normalised orig="Psalme" auto="true">Psalm</normalised>, <quote type="psalm" ana="Ps 119.11">I<lb/>
+<normalised orig="haue" auto="true">have</normalised> hidden thy <normalised orig="worde" auto="true">word</normalised> in my heart: that I<lb/>
+might not <normalised orig="sinne" auto="true">sin</normalised> against thee.</quote> Also in the<lb/>
+same place when <normalised orig="hee" auto="true">he</normalised> <normalised orig="hath" auto="true">has</normalised> asked the questions<lb/>
+                  <quote type="psalm" ana="Ps 119.9"><normalised orig="Wherewithall" auto="true">Wherewithal</normalised> a <normalised orig="younge" auto="true">young</normalised> man shall<lb/>
+cleanse his <normalised orig="wayes" auto="true">ways</normalised>,</quote> <normalised orig="hee" auto="true">he</normalised> <normalised orig="aunswereth" auto="true">answers</normalised>, <quote type="psalm" ana="Ps 119.9">by taking<lb/>
+<normalised orig="heede" auto="true">heed</normalised> thereto according to thy <normalised orig="worde" auto="true">word</normalised></quote>: whereby<lb/>
+it is most <normalised orig="euident" auto="true">evident</normalised>, that all those are <normalised orig="vnpure" auto="true">impure</normalised><lb/>
+in their <normalised orig="waies" auto="true">ways</normalised>, and <normalised orig="sinne" auto="true">sin</normalised> <normalised orig="greeuously" auto="true">grievously</normalised> against<lb/>
+God, which <normalised orig="haue" auto="true">have</normalised> not <normalised orig="layde" auto="true">laid</normalised> <normalised orig="vp" auto="true">up</normalised> his <normalised orig="woorde" auto="true">word</normalised> in<lb/>
+their <normalised orig="heartes" auto="true">hearts</normalised>, nor cleansed their <normalised orig="wayes" auto="true">ways</normalised> by the<lb/>
+same.<lb/>
+                  <pb n="18"/>
+                  <lb/>
+But let <normalised orig="vs" auto="true">us</normalised> come to some other of your sayings,<lb/>
+which I am <normalised orig="greeued" auto="true">grieved</normalised> for to <normalised orig="heare" auto="true">hear</normalised>.<lb/>
+            Ath. <normalised orig="Yee" auto="true">Ye</normalised> <normalised orig="neede" auto="true">need</normalised> not to be <normalised orig="greeued" auto="true">grieved</normalised>, for I<lb/>
+<normalised orig="doe" auto="true">do</normalised> not hurt <normalised orig="ye" auto="true">you</normalised>.<lb/>
+            Zelot. I can not but <normalised orig="bee" auto="true">be</normalised> <normalised orig="greeued" auto="true">grieved</normalised> to see<lb/>
+your <normalised orig="grosse" auto="true">gross</normalised> and palpable <normalised orig="blindnesse" auto="true">blindness</normalised>: and I<lb/>
+am the more <normalised orig="greeued" auto="true">grieved</normalised> when I remember that<lb/>
+many which are otherwise <normalised orig="verie" auto="true">very</normalised> wise men <normalised orig="vse" auto="true">use</normalised><lb/>
+<normalised orig="muche" auto="true">much</normalised> your <normalised orig="doltishe" auto="true">doltish</normalised> <normalised orig="sayinges" auto="true">sayings</normalised>, and <normalised orig="thinke" auto="true">think</normalised><lb/>
+they <normalised orig="speake" auto="true">speak</normalised> very wisely. They say what should<lb/>
+<normalised orig="vnlearned" auto="true">unlearned</normalised> men meddle further then to say<lb/>
+their ten <normalised orig="commaundements" auto="true">commandments</normalised>, the Lords <normalised orig="praier" auto="true">prayer</normalised>,<lb/>
+and the articles of the faith. And you are<lb/>
+of the same <normalised orig="minde" auto="true">mind</normalised>.<lb/>
+            Ath. I trust to <normalised orig="doe" auto="true">do</normalised> as well with these,<lb/>
+as other with all their learning.<lb/>
+            Zelot. <normalised orig="Doe" auto="true">Do</normalised> <normalised orig="yee" auto="true">ye</normalised> <normalised orig="thinke" auto="true">think</normalised> that <normalised orig="yee" auto="true">ye</normalised> shall <normalised orig="doe" auto="true">do</normalised><lb/>
+well <normalised orig="euen" auto="true">even</normalised> because <normalised orig="ye" auto="true">you</normalised> can say them: although<lb/>
+<normalised orig="yee" auto="true">ye</normalised> do not <normalised orig="vnderstande" auto="true">understand</normalised> them?<lb/>
+            Ath. Nay if a man say them, and <normalised orig="doe" auto="true">do</normalised><lb/>
+not <normalised orig="vnderstand" auto="true">understand</normalised> them, <normalised orig="hee" auto="true">he</normalised> is little the better.<lb/>
+I <normalised orig="knowe" auto="true">know</normalised> not why I <normalised orig="shoulde" auto="true">should</normalised> not <normalised orig="vnderstande" auto="true">understand</normalised><lb/>
+them, so long as God <normalised orig="hath" auto="true">has</normalised> <normalised orig="giuen" auto="true">given</normalised> <normalised orig="mee" auto="true">me</normalised> my<lb/>
+<normalised orig="fiue" auto="true">five</normalised> <normalised orig="wittes" auto="true">wits</normalised>: I am no <normalised orig="childe" auto="true">child</normalised>, nor I am no<lb/>
+<normalised orig="foole" auto="true">fool</normalised>.<lb/>
+            Zelot. In <normalised orig="deede" auto="true">deed</normalised> <normalised orig="hee" auto="true">he</normalised> that <normalised orig="hath" auto="true">has</normalised> one good<lb/>
+wit, is no <normalised orig="foole" auto="true">fool</normalised>, <normalised orig="muche" auto="true">much</normalised> <normalised orig="lesse" auto="true">less</normalised> are you <normalised orig="whiche" auto="true">which</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="fiue" auto="true">five</normalised>: you must <normalised orig="needes" auto="true">needs</normalised> <normalised orig="knowe" auto="true">know</normalised> all and<lb/>
+                  <pb n="19"/>
+                  <lb/>
+more: For I <normalised orig="thinke" auto="true">think</normalised> <normalised orig="ye" auto="true">you</normalised> <normalised orig="meane" auto="true">mean</normalised>, that <normalised orig="ye" auto="true">you</normalised> are able<lb/>
+by reason to <normalised orig="vnderstand" auto="true">understand</normalised> those things.<lb/>
+            Ath. I trust I <normalised orig="vnderstand" auto="true">understand</normalised> by that reason<lb/>
+which God <normalised orig="hath" auto="true">has</normalised> <normalised orig="giuen" auto="true">given</normalised> me, so much as is<lb/>
+sufficient: I can tell when I <normalised orig="doe" auto="true">do</normalised> well, and I<lb/>
+can tell when I <normalised orig="doe" auto="true">do</normalised> <normalised orig="euill" auto="true">evil</normalised>.<lb/>
+            Zelot. I <normalised orig="perceiue" auto="true">perceive</normalised> you are a <normalised orig="fre" auto="true">free</normalised> will man,<lb/>
+one of those which <normalised orig="thinke" auto="true">think</normalised> by natural <normalised orig="vnderstanding" auto="true">understanding</normalised><lb/>
+too <normalised orig="conceiue" auto="true">conceive</normalised> the mysteries of<lb/>
+GOD: And <normalised orig="yee" auto="true">ye</normalised> <normalised orig="doe" auto="true">do</normalised> in <normalised orig="deede" auto="true">deed</normalised> <normalised orig="vnderstand" auto="true">understand</normalised> so<lb/>
+much as is sufficient: not for to <normalised orig="saue" auto="true">save</normalised> <normalised orig="ye" auto="true">you</normalised>, but<lb/>
+as S. <normalised orig="Paule" auto="true">Paul</normalised> <normalised orig="sayth" auto="true">saith</normalised> Rom. 1. to make <normalised orig="ye" auto="true">you</normalised> without<lb/>
+excuse: &amp; so to <normalised orig="condemne" auto="true">condemn</normalised> <normalised orig="ye" auto="true">you</normalised>. You know<lb/>
+some <normalised orig="sinnes" auto="true">sins</normalised>: and likewise <normalised orig="ye" auto="true">you</normalised> can tell some<lb/>
+<normalised orig="thinges" auto="true">things</normalised> which are good, but <normalised orig="ye" auto="true">you</normalised> can <normalised orig="neuer" auto="true">never</normalised><lb/>
+tell any thing which <normalised orig="ye" auto="true">you</normalised> <normalised orig="haue" auto="true">have</normalised> done that is<lb/>
+good.<lb/>
+            Ath. I trust GOD will <normalised orig="bee" auto="true">be</normalised> more<lb/>
+<normalised orig="fauourable" auto="true">favourable</normalised> then you are: and that <normalised orig="hee" auto="true">he</normalised> will<lb/>
+not <normalised orig="forgette" auto="true">forget</normalised> the good <normalised orig="deedes" auto="true">deeds</normalised> which I <normalised orig="haue" auto="true">have</normalised><lb/>
+done.<lb/>
+            Zelot. A very little box I warrant you<lb/>
+will <normalised orig="holde" auto="true">hold</normalised> all your <normalised orig="deedes" auto="true">deeds</normalised>, if <normalised orig="ye" auto="true">you</normalised> <normalised orig="haue" auto="true">have</normalised> no<lb/>
+<normalised orig="moe" auto="true">more</normalised> <normalised orig="olde" auto="true">old</normalised> <normalised orig="deedes" auto="true">deeds</normalised> then you <normalised orig="haue" auto="true">have</normalised> good<lb/>
+<normalised orig="deedes" auto="true">deeds</normalised>.<lb/>
+            Ath. Are not these good <normalised orig="deedes" auto="true">deeds</normalised>, when a<lb/>
+man <normalised orig="doth" auto="true">does</normalised> <normalised orig="giue" auto="true">give</normalised> to the <normalised orig="poore" auto="true">poor</normalised>, and is <normalised orig="readie" auto="true">ready</normalised> to<lb/>
+<normalised orig="doe" auto="true">do</normalised> his neighbour a good <normalised orig="turne" auto="true">turn</normalised>? when a man<lb/>
+                  <pb n="20"/>
+                  <lb/>
+<normalised orig="doth" auto="true">does</normalised> <normalised orig="liue" auto="true">live</normalised> honestly, <normalised orig="serue" auto="true">serve</normalised> God, and <normalised orig="thinke" auto="true">think</normalised> no<lb/>
+man any <normalised orig="harme" auto="true">harm</normalised>.<lb/>
+            Zelot. Now <normalised orig="ye" auto="true">you</normalised> <normalised orig="speake" auto="true">speak</normalised> of cost: now <normalised orig="ye" auto="true">you</normalised> are<lb/>
+<normalised orig="hit" auto="true">it</normalised> into your right <normalised orig="vaine" auto="true">vain</normalised> <normalised orig="againe" auto="true">again</normalised>, <normalised orig="euen" auto="true">even</normalised> where<lb/>
+<normalised orig="ye" auto="true">you</normalised> would be, to boast of those <normalised orig="thinges" auto="true">things</normalised> which<lb/>
+<normalised orig="ye" auto="true">you</normalised> <normalised orig="haue" auto="true">have</normalised> not: for none of all those or such<lb/>
+like are good in you, because they <normalised orig="doe" auto="true">do</normalised> not<lb/>
+proceed of faith: for S. Paul saith Rom. 14. ver.<lb/>
+23. <quote type="biblical" ana="Rom 14.23"><normalised orig="Whatsoeuer" auto="true">Whatsoever</normalised> is not of faith is <normalised orig="sinne" auto="true">sin</normalised>.</quote>
+                  <lb/>
+                  <lb/>
+            Ath. How can <normalised orig="yee" auto="true">ye</normalised> <normalised orig="prooue" auto="true">prove</normalised> that mine are<lb/>
+not of <normalised orig="fayth" auto="true">faith</normalised>?<lb/>
+            Zelot. <quote type="biblical" ana="Rom 10.17">Faith is by hearing, and hearing<lb/>
+by the word</quote> Rom. 10.17. where a man <normalised orig="despiseth" auto="true">despises</normalised><lb/>
+the <normalised orig="worde" auto="true">word</normalised>, there can be no faith: because<lb/>
+faith is grounded <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="worde" auto="true">word</normalised>, and<lb/>
+<normalised orig="doth" auto="true">does</normalised> not <normalised orig="beleeue" auto="true">believe</normalised> <normalised orig="thinges" auto="true">things</normalised> <normalised orig="contrarye" auto="true">contrary</normalised> <normalised orig="vnto" auto="true">unto</normalised> the<lb/>
+<normalised orig="woorde" auto="true">word</normalised>. <normalised orig="Moreouer" auto="true">Moreover</normalised>, they be not your <normalised orig="fiue" auto="true">five</normalised><lb/>
+<normalised orig="wittes" auto="true">wits</normalised>, (as you <normalised orig="terme" auto="true">term</normalised> them) which can make<lb/>
+<normalised orig="ye" auto="true">you</normalised> able for to <normalised orig="vnderstande" auto="true">understand</normalised> the mysteries of<lb/>
+Gods <normalised orig="worde" auto="true">word</normalised>. For they cannot be <normalised orig="vnderstood" auto="true">understood</normalised><lb/>
+as Saint <normalised orig="Paule" auto="true">Paul</normalised> <normalised orig="teacheth" auto="true">teaches</normalised>. 1. Corinth. 2.11. <normalised orig="Vnlesse" auto="true">Unless</normalised><lb/>
+God <normalised orig="reueale" auto="true">reveal</normalised> them by his <normalised orig="spirite" auto="true">spirit</normalised>: for <normalised orig="euen" auto="true">even</normalised><lb/>
+the wicked which <normalised orig="seeme" auto="true">seem</normalised> to <normalised orig="knowe" auto="true">know</normalised> them,<lb/>
+<normalised orig="doe" auto="true">do</normalised> not know them aright. But let <normalised orig="vs" auto="true">us</normalised> come<lb/>
+for to see how well <normalised orig="ye" auto="true">you</normalised> <normalised orig="doe" auto="true">do</normalised> <normalised orig="vnderstand" auto="true">understand</normalised> the ten<lb/>
+<normalised orig="commaundements" auto="true">commandments</normalised>. Do <normalised orig="ye" auto="true">you</normalised> not <normalised orig="looke" auto="true">look</normalised> to come<lb/>
+to <normalised orig="heauen" auto="true">heaven</normalised>, by doing of them?<lb/>
+            Ath. I <normalised orig="doe" auto="true">do</normalised> them as nigh as God will<lb/>
+                  <pb n="21"/>
+                  <lb/>
+<normalised orig="giue" auto="true">give</normalised> me grace. I trust God will not require<lb/>
+more at my hands then I am able for to <normalised orig="doe" auto="true">do</normalised>:<lb/>
+I am as he made me? if he had made <normalised orig="mee" auto="true">me</normalised> able<lb/>
+for to do better I <normalised orig="shoulde" auto="true">should</normalised> do more.<lb/>
+            Zelot. Now <normalised orig="ye" auto="true">you</normalised> are in a <normalised orig="deepe" auto="true">deep</normalised> <normalised orig="peece" auto="true">piece</normalised> of<lb/>
+<normalised orig="diuinity" auto="true">divinity</normalised>, <normalised orig="ye" auto="true">you</normalised> <normalised orig="thinke" auto="true">think</normalised> this is so <normalised orig="equall" auto="true">equal</normalised> which <normalised orig="yee" auto="true">ye</normalised><lb/>
+<normalised orig="vtter" auto="true">utter</normalised> now, that all the Doctors in the world<lb/>
+are not able for to <normalised orig="controll" auto="true">control</normalised> <normalised orig="ye" auto="true">you</normalised>. <normalised orig="Ye" auto="true">You</normalised> say <normalised orig="ye" auto="true">you</normalised> do<lb/>
+what <normalised orig="ye" auto="true">you</normalised> can, more God cannot require at<lb/>
+your <normalised orig="handes" auto="true">hands</normalised>: you <normalised orig="meane" auto="true">mean</normalised> as if one <normalised orig="shoulde" auto="true">should</normalised><lb/>
+make this comparison: a father <normalised orig="canne" auto="true">can</normalised> require<lb/>
+no more of his child then his strength<lb/>
+<normalised orig="wil" auto="true">will</normalised> <normalised orig="serue" auto="true">serve</normalised>, a Prince can <normalised orig="commaund" auto="true">command</normalised> his <normalised orig="subiect" auto="true">subject</normalised><lb/>
+no impossible thing: if a father <normalised orig="shoulde" auto="true">should</normalised><lb/>
+<normalised orig="whippe" auto="true">whip</normalised> his <normalised orig="childe" auto="true">child</normalised> for not doing that which<lb/>
+he is not able, it were <normalised orig="crueltie" auto="true">cruelty</normalised>: if a Prince<lb/>
+should put a <normalised orig="subiect" auto="true">subject</normalised> to death for not <normalised orig="doyng" auto="true">doing</normalised><lb/>
+his <normalised orig="commaundement" auto="true">commandment</normalised> in a matter <normalised orig="vnpossible" auto="true">unpossible</normalised>,<lb/>
+it were tyranny: the father will say. My<lb/>
+child did his good will I can <normalised orig="aske" auto="true">ask</normalised> no more:<lb/>
+The Prince will say he <normalised orig="hath" auto="true">has</normalised> done that which<lb/>
+a man might, and further I cannot require.<lb/>
+Likewise you <normalised orig="thinke" auto="true">think</normalised> GOD <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="deale" auto="true">deal</normalised><lb/>
+straightly with <normalised orig="ye" auto="true">you</normalised>, if he <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="condemne" auto="true">condemn</normalised><lb/>
+<normalised orig="ye" auto="true">you</normalised> for breaking the <normalised orig="Lawe" auto="true">Law</normalised>, which <normalised orig="ye" auto="true">you</normalised> are not<lb/>
+able to <normalised orig="obserue" auto="true">observe</normalised>: &amp; that he cannot <normalised orig="looke" auto="true">look</normalised> for<lb/>
+more at your <normalised orig="handes" auto="true">hands</normalised> then he <normalised orig="hath" auto="true">has</normalised> made <normalised orig="yee" auto="true">ye</normalised><lb/>
+                  <pb n="22"/>
+                  <lb/>
+able to <normalised orig="perfourme" auto="true">perform</normalised>.<lb/>
+            Ath. I <normalised orig="meane" auto="true">mean</normalised> so in <normalised orig="deede" auto="true">deed</normalised>, flesh is <normalised orig="fraile" auto="true">frail</normalised>,<lb/>
+wee cannot <normalised orig="doe" auto="true">do</normalised> all things.<lb/>
+            Zelot. I pray <normalised orig="ye" auto="true">you</normalised> tell me, <normalised orig="doe" auto="true">do</normalised> <normalised orig="yee" auto="true">ye</normalised> <normalised orig="thinke" auto="true">think</normalised><lb/>
+any shall <normalised orig="goe" auto="true">go</normalised> to hell and be damned?<lb/>
+            Ath. The Scripture saith there shall, <normalised orig="doth" auto="true">does</normalised><lb/>
+it not?<lb/>
+            Zelot. Wherefore <normalised orig="doe" auto="true">do</normalised> <normalised orig="ye" auto="true">you</normalised> <normalised orig="thinke" auto="true">think</normalised> they<lb/>
+<normalised orig="shalbe" auto="true">shall be</normalised> damned?<lb/>
+            Ath. For breaking Gods <normalised orig="commaundements" auto="true">commandments</normalised>.<lb/>
+            Zelot. Are they able for too <normalised orig="keepe" auto="true">keep</normalised><lb/>
+them?<lb/>
+            Ath. No man is able for to <normalised orig="keepe" auto="true">keep</normalised><lb/>
+them.<lb/>
+            Zelot. Shall they then be damned for <normalised orig="euer" auto="true">ever</normalised><lb/>
+in hell fire, for breaking those laws which<lb/>
+they were not able to <normalised orig="keepe" auto="true">keep</normalised>?<lb/>
+            Ath. Not if they had done their good<lb/>
+will: For then they <normalised orig="coulde" auto="true">could</normalised> not <normalised orig="bee" auto="true">be</normalised> blamed.<lb/>
+            Zelot. <normalised orig="Howe" auto="true">How</normalised> the <normalised orig="Diuel" auto="true">Devil</normalised> <normalised orig="hath" auto="true">has</normalised> muffled<lb/>
+you too <normalised orig="keepe" auto="true">keep</normalised> <normalised orig="yee" auto="true">ye</normalised> from <normalised orig="seeyng" auto="true">seeing</normalised> the <normalised orig="daunger" auto="true">danger</normalised><lb/>
+of <normalised orig="eternall" auto="true">eternal</normalised> damnation which <normalised orig="ye" auto="true">you</normalised> are in:<lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="yee" auto="true">ye</normalised> <normalised orig="neuer" auto="true">never</normalised> <normalised orig="hearde" auto="true">heard</normalised> that <normalised orig="whiche" auto="true">which</normalised> GOD<lb/>
+<normalised orig="sayth" auto="true">saith</normalised> by Moses, which S. <normalised orig="Paule" auto="true">Paul</normalised> <normalised orig="citeth" auto="true">cited</normalised> in the<lb/>
+3. Chap. to the Galath. Cursed is <normalised orig="euery" auto="true">every</normalised> one<lb/>
+<normalised orig="whiche" auto="true">which</normalised> <normalised orig="abydeth" auto="true">abides</normalised> not in all <normalised orig="thinges" auto="true">things</normalised> which are<lb/>
+                  <pb n="23"/>
+                  <lb/>
+written in the <normalised orig="booke" auto="true">book</normalised> of the law for to <normalised orig="doe" auto="true">do</normalised> them:<lb/>
+by which <normalised orig="yee" auto="true">ye</normalised> may see that God with his own<lb/>
+mouth <normalised orig="doth" auto="true">does</normalised> lay his curse (which is <normalised orig="da~natio~" auto="false">damnation</normalised>)<lb/>
+<normalised orig="vppon" auto="true">upon</normalised> <normalised orig="euery" auto="true">every</normalised> one which <normalised orig="doth" auto="true">does</normalised> <normalised orig="breake" auto="true">break</normalised> <normalised orig="neuer" auto="true">never</normalised> so<lb/>
+<normalised orig="litle" auto="true">little</normalised> of the law.<lb/>
+            Ath. GOD is <normalised orig="mercifull" auto="true">merciful</normalised>, <normalised orig="hee" auto="true">he</normalised> is not<lb/>
+so <normalised orig="seuere" auto="true">severe</normalised> as you <normalised orig="woulde" auto="true">would</normalised> make him for to<lb/>
+<normalised orig="bee" auto="true">be</normalised>.<lb/>
+            Zelot. <normalised orig="Doe" auto="true">Do</normalised> <normalised orig="ye" auto="true">you</normalised> not <normalised orig="thinke" auto="true">think</normalised> that he is a <normalised orig="iust" auto="true">just</normalised><lb/>
+and a true God?<lb/>
+            Ath. I must <normalised orig="needes" auto="true">needs</normalised> <normalised orig="thinke" auto="true">think</normalised> so.<lb/>
+            Zelot. Do <normalised orig="ye" auto="true">you</normalised> <normalised orig="thinke" auto="true">think</normalised> that when he <normalised orig="hath" auto="true">has</normalised><lb/>
+<normalised orig="vttered" auto="true">uttered</normalised> his <normalised orig="iustice" auto="true">justice</normalised>, that he can by his mercy<lb/>
+<normalised orig="goe" auto="true">go</normalised> from it, and so be found <normalised orig="vntrue" auto="true">untrue</normalised>? Nay<lb/>
+there <normalised orig="bee" auto="true">be</normalised> many of <normalised orig="yee" auto="true">ye</normalised> which in all <normalised orig="thinges" auto="true">things</normalised><lb/>
+<normalised orig="crie" auto="true">cry</normalised> God is <normalised orig="mercifull" auto="true">merciful</normalised>, GOD is <normalised orig="mercifull" auto="true">merciful</normalised>,<lb/>
+which <normalised orig="neuer" auto="true">never</normalised> consider with what conditions<lb/>
+GOD <normalised orig="hath" auto="true">has</normalised> promised mercy, <normalised orig="neyther" auto="true">neither</normalised> how<lb/>
+it may stand with his <normalised orig="iustice" auto="true">justice</normalised> and <normalised orig="trueth" auto="true">truth</normalised>: <normalised orig="ye" auto="true">you</normalised><lb/>
+<normalised orig="thinke" auto="true">think</normalised> GOD <normalised orig="offereth" auto="true">offers</normalised> mercy without exception.<lb/>
+            Ath. If God <normalised orig="bee" auto="true">be</normalised> not <normalised orig="mercifull" auto="true">merciful</normalised> wee are<lb/>
+but in an <normalised orig="euill" auto="true">evil</normalised> case.<lb/>
+            Zelot. He is a most <normalised orig="mercifull" auto="true">merciful</normalised> and <normalised orig="gratious" auto="true">gracious</normalised><lb/>
+God, but yet not <normalised orig="vnto" auto="true">unto</normalised> any, but <normalised orig="suche" auto="true">such</normalised> as<lb/>
+he <normalised orig="hath" auto="true">has</normalised> promised mercy. <normalised orig="Howe" auto="true">How</normalised> many thousand<lb/>
+there be, which are <normalised orig="caried" auto="true">carried</normalised> headlong<lb/>
+to hell with this error, which not knowing<lb/>
+                  <lb/>
+                  <fw type="pageNum">E</fw>
+                  <pb n="24"/>
+                  <lb/>
+the <normalised orig="iustice" auto="true">justice</normalised> and truth of GOD, <normalised orig="doe" auto="true">do</normalised> <normalised orig="blesse" auto="true">bless</normalised><lb/>
+them <normalised orig="selues" auto="true">selves</normalised> where God <normalised orig="hath" auto="true">has</normalised> accursed them.<lb/>
+For these <normalised orig="thinges" auto="true">things</normalised> which you <normalised orig="haue" auto="true">have</normalised> now <normalised orig="vttered" auto="true">uttered</normalised>,<lb/>
+are <normalised orig="euen" auto="true">even</normalised> of the <normalised orig="principall" auto="true">principal</normalised> reasons which<lb/>
+Satan <normalised orig="doth" auto="true">does</normalised> seduce men <normalised orig="withall" auto="true">withal</normalised>; and <normalised orig="holde" auto="true">hold</normalised><lb/>
+them from the truth. They <normalised orig="thinke" auto="true">think</normalised> thus, I do<lb/>
+what I can, God <normalised orig="hath" auto="true">has</normalised> made me able to <normalised orig="doe" auto="true">do</normalised><lb/>
+no better, God is <normalised orig="mercifull" auto="true">merciful</normalised>, they know not<lb/>
+this, that God made <normalised orig="vs" auto="true">us</normalised> able in our first creation<lb/>
+to <normalised orig="keepe" auto="true">keep</normalised> and obey his will wholly, and<lb/>
+that although we can now <normalised orig="keepe" auto="true">keep</normalised> no part of<lb/>
+it, yet he may <normalised orig="iustly" auto="true">justly</normalised> accurse and <normalised orig="condemne" auto="true">condemn</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="eternall" auto="true">eternal</normalised> fire, for transgressing any<lb/>
+part of it: <normalised orig="ye" auto="true">you</normalised> are not as he made <normalised orig="ye" auto="true">you</normalised>, and <normalised orig="therfore" auto="true">therefore</normalised><lb/>
+<normalised orig="ye" auto="true">you</normalised> <normalised orig="deceiue" auto="true">deceive</normalised> your <normalised orig="selfe" auto="true">self</normalised> when <normalised orig="yee" auto="true">ye</normalised> <normalised orig="thinke" auto="true">think</normalised><lb/>
+that he <normalised orig="requireth" auto="true">requires</normalised> no more at your <normalised orig="handes" auto="true">hands</normalised>,<lb/>
+then <normalised orig="ye" auto="true">you</normalised> are now able for to <normalised orig="doe" auto="true">do</normalised>. <normalised orig="Ye" auto="true">You</normalised> <normalised orig="deceiue" auto="true">deceive</normalised><lb/>
+your <normalised orig="selfe" auto="true">self</normalised>, when <normalised orig="ye" auto="true">you</normalised> think that GOD can<lb/>
+be <normalised orig="mercifull" auto="true">merciful</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="ye" auto="true">you</normalised>, and you <normalised orig="liue" auto="true">live</normalised> without repentance.<lb/>
+            Ath. You <normalised orig="woulde" auto="true">would</normalised> make a man <normalised orig="dispaire" auto="true">despair</normalised>,<lb/>
+if <normalised orig="ye" auto="true">you</normalised> would put him out of hope in the <normalised orig="mercie" auto="true">mercy</normalised><lb/>
+of God.<lb/>
+            Zelot. I would not bring <normalised orig="ye" auto="true">you</normalised> out of hope<lb/>
+in the mercy of God, but I would bring <normalised orig="ye" auto="true">you</normalised><lb/>
+out of your <normalised orig="vaine" auto="true">vain</normalised> hope, which is not that<lb/>
+which <normalised orig="wil" auto="true">will</normalised> <normalised orig="saue" auto="true">save</normalised> <normalised orig="ye" auto="true">you</normalised>, but <normalised orig="doth" auto="true">does</normalised> harden and blind<lb/>
+<normalised orig="ye" auto="true">you</normalised> <normalised orig="vnto" auto="true">unto</normalised> damnation.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

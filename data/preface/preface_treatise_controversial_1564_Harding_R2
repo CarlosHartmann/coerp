@@ -1,0 +1,212 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface <normalised orig="Answere" auto="true">Answer</normalised> to <normalised orig="Maister" auto="true">Master</normalised> Ivelles <normalised orig="chalenge" auto="true">challenge</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ThHa1516">Harding, Thomas</author>
+               <title type="main">"No title" In: Harding, Thomas. An <normalised orig="Answere" auto="true">Answer</normalised> to <normalised orig="Maister" auto="true">Master</normalised> Ivelles <normalised orig="chalenge" auto="true">challenge</normalised> [...]</title>
+               <title type="short">Preface <normalised orig="Answere" auto="true">Answer</normalised> to <normalised orig="Maister" auto="true">Master</normalised> Ivelles <normalised orig="chalenge" auto="true">challenge</normalised></title>
+               <date when="1564">1564</date>
+               <date type="this_edition" when="1564">1564</date>
+               <idno type="STC">12758</idno>
+               <note type="genre" subtype="preface_treatise_controversial"> controversial treatise preface</note>
+               <note type="sample" target="#ThHa1516_1564_preface_treatise_controversial_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="contains" subtype="leaf">folio numbers + symbols (asterisks)</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ThHa1516_1564_preface_treatise_controversial_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+TO THE READER.<lb/>
+                  <lb/>
+Where as Horace <normalised orig="sayeth" auto="true">says</normalised>, they that <lb/>
+<normalised orig="runne" auto="true">run</normalised> <normalised orig="ouer" auto="true">over</normalised> the sea, <normalised orig="chaunge" auto="true">change</normalised> the <normalised orig="ayer" auto="true">air</normalised>, <lb/>
+not the <normalised orig="mynde" auto="true">mind</normalised>: it is so reader, that I <lb/>
+passing <normalised orig="ouer" auto="true">over</normalised> the sea out of England <lb/>
+in to Brabant, <normalised orig="haue" auto="true">have</normalised> in some <normalised orig="parte" auto="true">part</normalised> <lb/>
+<normalised orig="chaunged" auto="true">changed</normalised> also my <normalised orig="mynde" auto="true">mind</normalised>. For where <lb/>
+as being there, I <normalised orig="mynded" auto="true">minded</normalised> to send this treatise but <lb/>
+to one <normalised orig="frend" auto="true">friend</normalised>, who required it for his <normalised orig="priuate" auto="true">private</normalised> instruction, <lb/>
+and <normalised orig="neuer" auto="true">never</normalised> to set any thing <normalised orig="abroade" auto="true">abroad</normalised>: now being <lb/>
+<normalised orig="arriued" auto="true">arrived</normalised> here in Louaine, I <normalised orig="haue" auto="true">have</normalised> thought good, by <lb/>
+putting it in <normalised orig="printe" auto="true">print</normalised>, to make it common to many. <lb/>
+Yet to <normalised orig="saye" auto="true">say</normalised> the <normalised orig="trowth" auto="true">troth</normalised>, hereto I <normalised orig="haue" auto="true">have</normalised> <normalised orig="ben" auto="true">been</normalised> <normalised orig="prickte" auto="false">pricked</normalised> <lb/>
+more by <normalised orig="zelouse" auto="false">zealous</normalised> persuasions of others, then induced <lb/>
+by <normalised orig="myne" auto="true">mine</normalised> <normalised orig="owne" auto="true">own</normalised> <normalised orig="lyking" auto="true">liking</normalised>. For though <normalised orig="dutie" auto="true">duty</normalised> require, <lb/>
+be it with shame, or be it with fame, to <normalised orig="employe" auto="true">employ</normalised> <lb/>
+all <normalised orig="endeuour" auto="true">endeavour</normalised> to the defence of the <normalised orig="Catholike" auto="true">Catholic</normalised> faith, <lb/>
+in these most <normalised orig="perilouse" auto="false">perilous</normalised> times much impugned: <lb/>
+yet <normalised orig="partely" auto="true">partly</normalised> by a <normalised orig="certaine" auto="true">certain</normalised> cowardly <normalised orig="iudgement" auto="true">judgment</normalised>, and <lb/>
+specially by <normalised orig="naturall" auto="true">natural</normalised> inclination, I <normalised orig="haue" auto="true">have</normalised> <normalised orig="euer" auto="true">ever</normalised> <normalised orig="lyked" auto="true">liked</normalised> <lb/>
+more that <normalised orig="olde" auto="true">old</normalised> <normalised orig="counsell" auto="true">counsel</normalised> <normalised orig="vttered" auto="true">uttered</normalised> by the <normalised orig="Grekes" auto="true">Greeks</normalised> in two <lb/>
+<normalised orig="wordes" auto="true">words</normalised>, which <normalised orig="aduiseth" auto="true">advises</normalised> a man so to <normalised orig="lyue" auto="true">live</normalised> secretly, <lb/>
+as it be not <normalised orig="knowen" auto="true">known</normalised>, he <normalised orig="hath" auto="true">has</normalised> <normalised orig="lyued" auto="true">lived</normalised>. Wherefore <lb/>
+as this labour in that <normalised orig="respecte" auto="true">respect</normalised> <normalised orig="deserueth" auto="true">deserves</normalised> <normalised orig="lesse" auto="true">less</normalised> <lb/>
+<normalised orig="thanke" auto="true">thank</normalised>, so for my <normalised orig="parte" auto="true">part</normalised> it ought <normalised orig="lesse" auto="true">less</normalised> to be blamed. <lb/>
+If ought be <normalised orig="fownde" auto="true">found</normalised> <normalised orig="amysse" auto="true">amiss</normalised>, the blame thereof rightly <lb/>
+<normalised orig="diuided" auto="true">divided</normalised> <normalised orig="betwen" auto="true">between</normalised> my <normalised orig="frendes" auto="true">friends</normalised> and me, the greater portion <lb/>
+shall <normalised orig="redownde" auto="true">redound</normalised> to them, the lesser to me, as on <lb/>
+whom the <normalised orig="spotte" auto="true">spot</normalised> of <normalised orig="vnskille" auto="false">unskill</normalised> only shall <normalised orig="cleaue" auto="true">cleave</normalised>, but <lb/>
+the note of <normalised orig="vndiscretion" auto="false">undiscretion</normalised> shall <normalised orig="remaine" auto="true">remain</normalised> to them. For <lb/>
+as the <normalised orig="defectes" auto="true">defects</normalised> be <normalised orig="myne" auto="true">mine</normalised> and none others, so <normalised orig="ouersight" auto="true">oversight</normalised> <lb/>
+of setting forth that, which was of <normalised orig="lesse" auto="true">less</normalised> <normalised orig="sufficiencie" auto="true">sufficiency</normalised>, <lb/>
+                  <lb/>
+                  <fw type="pageNum">ij</fw>
+                  <pb n="1"/>
+                  <lb/>
+is to be imputed to them, not to me. How so <lb/>
+<normalised orig="euer" auto="true">ever</normalised> it be, the meaning of <normalised orig="vs" auto="true">us</normalised> <normalised orig="bothe" auto="true">both</normalised> is only this Christen <lb/>
+reader, hereby to minister <normalised orig="vnto" auto="true">unto</normalised> thee, matter of <lb/>
+<normalised orig="comforte" auto="true">comfort</normalised> in these <normalised orig="sorowful" auto="true">sorrowful</normalised>, of staye in these <normalised orig="wauering" auto="true">wavering</normalised>, <lb/>
+of <normalised orig="vnderstanding" auto="true">understanding</normalised> the truth, in these <normalised orig="erroneouse" auto="false">erroneous</normalised> <lb/>
+times: <normalised orig="withall" auto="true">withal</normalised>, to call him <normalised orig="backe" auto="true">back</normalised>, who in denying these <lb/>
+articles, <normalised orig="hath" auto="true">has</normalised> <normalised orig="ouerrunne" auto="true">overrun</normalised> him <normalised orig="selfe" auto="true">self</normalised>. Wherein I am not <lb/>
+all together <normalised orig="voyde" auto="true">void</normalised> of hope. <normalised orig="Oure" auto="true">Our</normalised> lord <normalised orig="graunt" auto="true">grant</normalised>, the <normalised orig="spirite" auto="true">spirit</normalised> <lb/>
+of <normalised orig="heresie" auto="true">heresy</normalised>, pride, <normalised orig="stoutenes" auto="false">stoutness</normalised> of <normalised orig="hart" auto="true">heart</normalised> in <normalised orig="gainesaying" auto="false">gainsaying</normalised>, <lb/>
+estimation of him <normalised orig="selfe" auto="true">self</normalised>, and <normalised orig="regarde" auto="true">regard</normalised> of this world, <lb/>
+<normalised orig="stoppe" auto="true">stop</normalised> not from him the holy <normalised orig="ghostes" auto="true">ghosts</normalised> working. <lb/>
+Would god he <normalised orig="maye" auto="true">may</normalised> weigh this my <normalised orig="dooing" auto="true">doing</normalised> so indifferently, <lb/>
+as my meaning <normalised orig="towardes" auto="true">towards</normalised> him is right, <lb/>
+<normalised orig="holesom" auto="true">wholesome</normalised>, and <normalised orig="frendly" auto="true">friendly</normalised>. But in case that <normalised orig="deepe" auto="true">deep</normalised> <normalised orig="woonde" auto="false">wound</normalised> <lb/>
+may not be cured with such <normalised orig="salue" auto="true">salve</normalised>, yet my truth is, it <lb/>
+shall <normalised orig="doo" auto="true">do</normalised> thee good, reader, who art either yet hole, <lb/>
+or not so <normalised orig="desperatly" auto="true">desperately</normalised> <normalised orig="woonded" auto="true">wounded</normalised>: which if it <normalised orig="doo" auto="true">do</normalised>, I shall <lb/>
+<normalised orig="thinke" auto="true">think</normalised> my labour well <normalised orig="requitted" auto="false">requited</normalised>, and my <normalised orig="selfe" auto="true">self</normalised> to <normalised orig="haue" auto="true">have</normalised> <lb/>
+<normalised orig="acheued" auto="false">achieved</normalised> that reward, which I sought. <lb/>
+Now this much I <normalised orig="haue" auto="true">have</normalised> thought good here to <normalised orig="warne" auto="true">warn</normalised> <lb/>
+the of, that where as at the first, I appointed this <lb/>
+to my <normalised orig="priuate" auto="true">private</normalised> <normalised orig="frend" auto="true">friend</normalised> only, and not to all in common, <lb/>
+(though in sundry places I <normalised orig="folow" auto="true">follow</normalised> the <normalised orig="maner" auto="true">manner</normalised> of such as <lb/>
+<normalised orig="mynde" auto="true">mind</normalised> to publish their <normalised orig="writinges" auto="true">writings</normalised>) I <normalised orig="haue" auto="true">have</normalised> so both ordered <lb/>
+the matter and tempered the style, as I <normalised orig="iudge" auto="true">judge</normalised> it <lb/>
+might <normalised orig="haue" auto="true">have</normalised> <normalised orig="ben" auto="true">been</normalised> liked of my <normalised orig="frend" auto="true">friend</normalised> at home, and <lb/>
+<normalised orig="doubte" auto="true">doubt</normalised> whether it may <normalised orig="beare" auto="true">bear</normalised> the light <normalised orig="abroade" auto="true">abroad</normalised>. I see <lb/>
+<normalised orig="mennes" auto="true">men's</normalised> <normalised orig="stomakes" auto="true">stomachs</normalised> of <normalised orig="oure" auto="true">our</normalised> time to be very delicate <lb/>
+and <normalised orig="diuerse" auto="false">diverse</normalised>. Some require <normalised orig="swete" auto="true">sweet</normalised> <normalised orig="iunkettes" auto="true">junkets</normalised>, some sower <lb/>
+and sharpe <normalised orig="sawces" auto="true">sauces</normalised>, some <normalised orig="esteme" auto="true">esteem</normalised> the <normalised orig="curiositie" auto="true">curiosity</normalised> of <normalised orig="cookerye" auto="false">cookery</normalised>, <lb/>
+more then the <normalised orig="holesomnes" auto="false">wholesomeness</normalised> of <normalised orig="viandes" auto="true">viands</normalised>, some <lb/>
+                  <pb n="2"/>
+                  <lb/>
+can like no <normalised orig="dishe" auto="true">dish</normalised>, be it <normalised orig="neuer" auto="true">never</normalised> so well dighte. In this <lb/>
+<normalised orig="diuersitie" auto="true">diversity</normalised> no man can please all. Who so <normalised orig="euer" auto="true">ever</normalised> <normalised orig="seeketh" auto="true">seeks</normalised> <lb/>
+it, <normalised orig="shal" auto="true">shall</normalised> <normalised orig="fynde" auto="true">find</normalised> him <normalised orig="selfe" auto="true">self</normalised> <normalised orig="deceiued" auto="true">deceived</normalised>. I wene the best <normalised orig="waye" auto="true">way</normalised> <lb/>
+is, if a man herein <normalised orig="mynde" auto="true">mind</normalised> to <normalised orig="doo" auto="true">do</normalised> ought, to make his <lb/>
+<normalised orig="prouision" auto="true">provision</normalised> of the <normalised orig="thinges" auto="true">things</normalised> only, <normalised orig="wich" auto="true">which</normalised> be <normalised orig="holesome" auto="true">wholesome</normalised>. So <lb/>
+<normalised orig="shal" auto="true">shall</normalised> he displease many, <normalised orig="hurte" auto="true">hurt</normalised> none, and please <normalised orig="al" auto="true">all</normalised> the <lb/>
+good. Who so <normalised orig="euer" auto="true">ever</normalised> in doing this <normalised orig="directeth" auto="true">directs</normalised> his whole <lb/>
+purpose and <normalised orig="endeuour" auto="true">endeavour</normalised> to this <normalised orig="ende" auto="true">end</normalised>, that he may <lb/>
+<normalised orig="profite" auto="true">profit</normalised> and <normalised orig="helpe" auto="true">help</normalised> all: in my <normalised orig="iudgement" auto="true">judgment</normalised>, he <normalised orig="doth" auto="true">does</normalised> <lb/>
+the <normalised orig="dutie" auto="true">duty</normalised> of an honest and a good man. <normalised orig="Verely" auto="true">Verily</normalised> in this <lb/>
+treatise this <normalised orig="hath" auto="true">has</normalised> <normalised orig="ben" auto="true">been</normalised> <normalised orig="myne" auto="true">mine</normalised> <normalised orig="onely" auto="true">only</normalised> purpose, and the <lb/>
+<normalised orig="meane" auto="true">mean</normalised> to bring the same to <normalised orig="effecte" auto="true">effect</normalised>, <normalised orig="hath" auto="true">has</normalised> <normalised orig="ben" auto="true">been</normalised> such, as <lb/>
+whereby I studied to <normalised orig="profite" auto="true">profit</normalised> <normalised orig="holesomely" auto="false">wholesomely</normalised>, not to please <lb/>
+delicately. How much good I <normalised orig="haue" auto="true">have</normalised> performed, I <lb/>
+know not, my conscience (which is <normalised orig="ynough" auto="true">enough</normalised>) <normalised orig="beareth" auto="true">bears</normalised> <lb/>
+me <normalised orig="witnes" auto="true">witness</normalised> of good will. What the Apostles <normalised orig="haue" auto="true">have</normalised> <normalised orig="pla~ted" auto="true">planted</normalised>, <lb/>
+in this great barraynesse and <normalised orig="drowth" auto="true">drought</normalised> of faith, I <lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="desyred" auto="true">desired</normalised> <normalised orig="againe" auto="true">again</normalised> to water. God <normalised orig="geue" auto="true">give</normalised> <normalised orig="encreace" auto="true">increase</normalised>. <lb/>
+If the multitude of allegations brought for confirmation <lb/>
+of some these Articles, <normalised orig="shal" auto="true">shall</normalised> <normalised orig="seme" auto="true">seem</normalised> <normalised orig="tediouse" auto="true">tedious</normalised>, no <lb/>
+<normalised orig="merueile" auto="true">marvel</normalised>. I <normalised orig="shuld" auto="true">should</normalised> mislike the same in an other my <normalised orig="selfe" auto="true">self</normalised>. <lb/>
+I <normalised orig="graunt" auto="true">grant</normalised> herein I <normalised orig="haue" auto="true">have</normalised> not <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="kepte" auto="true">kept</normalised> due <normalised orig="comlynes" auto="false">comeliness</normalised>. <lb/>
+For <normalised orig="symply" auto="false">simply</normalised> to <normalised orig="saye" auto="true">say</normalised>, what I <normalised orig="thinke" auto="true">think</normalised> (<normalised orig="hauing" auto="true">having</normalised> <lb/>
+<normalised orig="leaue" auto="true">leave</normalised> to <normalised orig="retourne" auto="true">return</normalised> to my former <normalised orig="metaphore" auto="true">metaphor</normalised>) soothly <lb/>
+in some courses, I <normalised orig="haue" auto="true">have</normalised> <normalised orig="ouer" auto="true">over</normalised> charged the <normalised orig="borde" auto="true">board</normalised> with <lb/>
+dishes. <normalised orig="Merueile" auto="true">Marvel</normalised> not, I <normalised orig="haue" auto="true">have</normalised> done that, I <normalised orig="disco~mend" auto="false">discommend</normalised> my <lb/>
+<normalised orig="selfe" auto="true">self</normalised>, to <choice ana="print-error">
+                     <sic>a uoyde</sic>
+                     <corr><normalised orig="auoyde" auto="true">avoid</normalised></corr>
+                  </choice> a more <normalised orig="reproufe" auto="false">reprove</normalised> in greater <normalised orig="respecte" auto="true">respect</normalised>, I <lb/>
+<normalised orig="haue" auto="true">have</normalised> wittingly done a thing, in some degree <normalised orig="reproueable" auto="false">reprovable</normalised>. <lb/>
+Neither <normalised orig="thinke" auto="true">think</normalised> I greatly to <normalised orig="offende" auto="true">offend</normalised>, if in this time <lb/>
+of <normalised orig="spirituall" auto="true">spiritual</normalised> famine, I <normalised orig="folow" auto="true">follow</normalised> the <normalised orig="woont" auto="true">wont</normalised> of some feastemakers. <lb/>
+who of their neighbours twited with <normalised orig="nyggardnes" auto="false">niggardness</normalised>, <lb/>
+                  <lb/>
+                  <fw type="pageNum">iij</fw>
+                  <pb n="3"/>
+                  <lb/>
+to <normalised orig="shewe" auto="true">show</normalised> their <normalised orig="largesse" auto="true">largess</normalised> and <normalised orig="bountie" auto="true">bounty</normalised>, <normalised orig="feaste" auto="true">feast</normalised> <normalised orig="the~" auto="true">them</normalised> <lb/>
+with <normalised orig="lauishe" auto="true">lavish</normalised>. The <normalised orig="aduersarie" auto="true">adversary</normalised>, as here thou mayst see, <lb/>
+<normalised orig="hath" auto="true">has</normalised> not spared to <normalised orig="irke" auto="false">irk</normalised> <normalised orig="vs" auto="true">us</normalised> with <normalised orig="reproche" auto="true">reproach</normalised> of <normalised orig="penurie" auto="true">penury</normalised>, of <lb/>
+<normalised orig="scarcitie" auto="true">scarcity</normalised> of <normalised orig="lacke" auto="true">lack</normalised>: I <normalised orig="meane" auto="true">mean</normalised> of <normalised orig="proufes" auto="false">proofs</normalised> for maintenance <lb/>
+of some good <normalised orig="parte" auto="true">part</normalised> of <normalised orig="oure" auto="true">our</normalised> religion. In this case to <lb/>
+me it <normalised orig="semed" auto="true">seemed</normalised> a <normalised orig="parte" auto="true">part</normalised> of <normalised orig="iust" auto="true">just</normalised> defence, to <normalised orig="vtter" auto="true">utter</normalised> some <lb/>
+good store. And the <normalised orig="nyggardes" auto="false">niggards</normalised> <normalised orig="feaste" auto="true">feast</normalised> by <normalised orig="olde" auto="true">old</normalised> <normalised orig="prouerbe" auto="true">proverb</normalised> <lb/>
+is well commended, thou <normalised orig="knowest" auto="true">know</normalised> <normalised orig="pardie" auto="false">party</normalised>. Neither <lb/>
+yet <normalised orig="haue" auto="true">have</normalised> we <normalised orig="empted" auto="false">emptied</normalised> all our spence, as hereafter it <lb/>
+<normalised orig="shal" auto="true">shall</normalised> <normalised orig="appeare" auto="true">appear</normalised> if <normalised orig="nede" auto="true">need</normalised> require.<lb/>
+If some <normalised orig="doo" auto="true">do</normalised> not <normalised orig="alowe" auto="true">allow</normalised> this consideration, who so <lb/>
+<normalised orig="euer" auto="true">ever</normalised> the same shall blame, him here <normalised orig="co~cluding" auto="false">concluding</normalised>, shortly <lb/>
+I <normalised orig="answere" auto="true">answer</normalised> with Alexander king of Macedons. who to <lb/>
+Leonidas one of his Mynnions <normalised orig="fynding" auto="true">finding</normalised> <normalised orig="faute" auto="true">fault</normalised> with <lb/>
+spending much <normalised orig="frankencense" auto="true">frankincense</normalised> in sacrifices, wrote thus <lb/>
+in <normalised orig="fewe" auto="true">few</normalised> <normalised orig="Frankencense" auto="true">Frankincense</normalised> and <normalised orig="myrre" auto="false">mire</normalised> to the we <normalised orig="haue" auto="true">have</normalised> <lb/>
+sent <normalised orig="plentie" auto="true">plenty</normalised>, that now to the <normalised orig="Goddes" auto="true">Gods</normalised> thou <lb/>
+be no more a <normalised orig="nyggard" auto="false">niggard</normalised>. Fare well, at <lb/>
+Louaine: 14 of <normalised orig="Iune" auto="true">June</normalised>:<lb/>
+1563.<lb/>
+                  <lb/>
+Thom. Harding.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

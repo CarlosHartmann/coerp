@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="pamphlet_letter_1665_Sergeant_R2">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from <normalised orig="Authour" auto="true">Author</normalised> of Sure-footing</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JoSe1622">Sergeant, John</author>
+               <title type="main">A letter from The <normalised orig="Authour" auto="true">Author</normalised> of Sure-footing, to his <notvariant>Answerer</notvariant>.</title>
+               <title type="short">Letter from <normalised orig="Authour" auto="true">Author</normalised> of Sure-footing</title>
+               <date when="1655">1655</date>
+               <date type="this_edition" when="1655">1655</date>
+               <idno type="Wing">S2574A</idno>
+               <note type="genre" subtype="pamphlet_letter">letter pamphlet</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="sample">
+            <div>
+               <head>A LETTER 
+from 
+The <normalised orig="Authour" auto="true">Author</normalised> of Sure-footing, 
+to his <notvariant>Answerer</notvariant>.</head><lb/>
+                  <opener>SIR,</opener><lb/>
+<p>I Am certainly <normalised orig="inform'd" auto="true">informed</normalised> there is an Answer to <lb/>
+my Book intended, and a Person chosen <lb/>
+out for that Employment; whose Name I <lb/>
+am <normalised orig="unconcern'd" auto="true">unconcerned</normalised> to know, it being only his Quality <lb/>
+as a Writer I have to do with. I receive the <lb/>
+<normalised orig="Alarum" auto="true">Alarm</normalised> with great <normalised orig="chearfulness" auto="true">cheerfulness</normalised>; knowing that, <lb/>
+if my Adversary behaves himself well, it will <lb/>
+exceedingly conduce to the clearing and settling <lb/>
+the main point there controverted. But, because <lb/>
+there is difference between being <normalised orig="call'd" auto="true">called</normalised> an <lb/>
+Answer and being an Answer, and that <normalised orig="'tis" auto="true">it is</normalised> extremely <lb/>
+<normalised orig="opposit" auto="true">opposite</normalised> to my Genius, to be <normalised orig="task't" auto="false">tasked</normalised> in laying <lb/>
+open <normalised orig="mens" auto="true">men's</normalised> Faults even as Writers, (though it <lb/>
+has been my unhappiness formerly to meet with <lb/>
+Adversaries, whose way of writing made that <lb/>
+carriage my only duty) wherefore to prevent, <lb/>
+as much as I am able, all occasion of such <normalised orig="unsavory" auto="true">unsavoury</normalised> <lb/>
+oppositions, and to make way to the <lb/>
+clearing the point, that so our Discourse may <lb/>
+redound to the profit and satisfaction of our <lb/>
+Readers, I make bold to offer you these few Reflexions; <lb/>
+which in effect contain no more but a <lb/>
+Request you would speak to the point, and in <lb/>
+such a way as is apt <normalised orig="tobring" auto="false">to bring</normalised> the matter nearer a <lb/>
+clearing. This if you please to do, you will <lb/>
+                  <lb/>
+                  <fw type="pageNum">A</fw>
+                  <pb n="1"/> 
+                  <lb/>
+very much credit your self and your endeavours <lb/>
+in the opinion of all ingenuous persons. If you <lb/>
+refuse, and rather <normalised orig="chuse" auto="true">choose</normalised> to run into Rhetorical <lb/>
+Excursions, and such Discourses as are apt to <lb/>
+breed new Controversies not pertinent to the <lb/>
+present one under hand, you will <normalised orig="extreamly" auto="true">extremely</normalised> disparage <lb/>
+both your self, your party and your <lb/>
+Cause, and give me an exceeding advantage <lb/>
+against them all; I shall also have the Satisfaction <lb/>
+to have manifested before-hand by means of <lb/>
+this Letter, that I have contributed as much as <lb/>
+in me lies to make you avoid those Faults, which <lb/>
+I must then be <normalised orig="forc't" auto="true">forced</normalised> to lay open and severely <lb/>
+press upon you, little to your Credit nor your <lb/>
+Causes neither; You being (as I am <normalised orig="inform'd" auto="true">informed</normalised><lb/>
+and Reason gives it) signally chosen out as held <lb/>
+most able to maintain it. <lb/>
+2. That there may be no more distance between <lb/>
+us than what our Cause enforces, I heartily <lb/>
+assure you that though I highly dislike your <lb/>
+Tenets negatively <normalised orig="opposit" auto="true">opposite</normalised> to what we hold Faith, <lb/>
+and the Way of Writing I foresee you must take <lb/>
+(unless you resolve to love Candour better than <lb/>
+your Cause) as being Inconclusive and so apt to <lb/>
+continue not finish debates, yet I have not the <lb/>
+least pique against yours or any mans Persons. Nor <lb/>
+have I any particular aversion against the Protestant <lb/>
+party; rather I look upon it with a better eye <lb/>
+than on any other Company whatever which has <lb/>
+broke Communion with the <normalised orig="Catholick" auto="true">Catholic</normalised> Church: <lb/>
+It preserves still <normalised orig="unrenounc't" auto="false">unrenounced</normalised> the form of Episcopacy, <lb/>
+                  <fw type="pageNum">2</fw>
+                  <pb n="2"/> 
+                  <lb/>
+the Church-Government <normalised orig="institued" auto="false">instituted</normalised> by <lb/>
+Christ; and many grave Solemnities and Ceremonies, <lb/>
+which make our Union less difficult: <lb/>
+Many of their soberest Writers acknowledge divers <lb/>
+of the <normalised orig="renounc't" auto="false">renounced</normalised> Tenets to the Truths: some <lb/>
+of them also profess to hold Tradition, especially <lb/>
+for Scripture's Letter; and even for those Points <lb/>
+or Faith-Tenets in which they and we agree, <lb/>
+that is, where their Interest is not <normalised orig="touch't" auto="true">touched</normalised>. I wish <lb/>
+they would as heartily hold to it in all other <lb/>
+Points which descended by it, and look into the <lb/>
+Virtue it has of ascertaining, and declare in what <lb/>
+that Virtue consists; I am confident, a little candour <lb/>
+of confessing truly what they <normalised orig="finde" auto="true">find</normalised>, <normalised orig="joyn'd" auto="true">joined</normalised> <lb/>
+with an endeavour of looking into Things rather <lb/>
+than Words, would easily make way to a fair <lb/>
+Correspondence. I esteem, and even honour the <lb/>
+Protestants from my heart for their firm Allegiance <lb/>
+to his Sacred Majesty and his Royal Father; <lb/>
+This uniting them already with all sober <normalised orig="Catholiks" auto="true">Catholics</normalised> <lb/>
+under that excellent notion of good Subjects, <lb/>
+and in the same point of Faith, the Indispensableness <lb/>
+of the duty of Allegiance we owe our <lb/>
+Prince by Divine Law. Lastly I declare, that for <lb/>
+this as well as for Charitable Considerations, I <lb/>
+have a very particular zeal for their reconcilement <lb/>
+to their Mother-Church; and that <normalised orig="'tis" auto="true">it is</normalised> out <lb/>
+of this love of Union I endeavour so earnestly to <lb/>
+beat down the wordish and dissatisfactory way <lb/>
+of Writing, and go about to Evidence the Ground <lb/>
+of all our Faith; knowing, that, as wounds are<lb/>
+                  <lb/>
+                  <fw type="pageNum">A 2</fw>
+                  <pb n="3"/> 
+                  <lb/>
+never connaturally and solidly <normalised orig="cur'd" auto="true">cured</normalised>, by uniting <lb/>
+the distant sides at the surface, and leaving them <lb/>
+disunited and <normalised orig="unheal'd" auto="false">unhealed</normalised> at the bottom, but the <lb/>
+cure must begin their first; so, the <normalised orig="onely" auto="true">only</normalised> Way to <lb/>
+heal the Wounds of the Church, is to begin first <lb/>
+to win some to acknowledge the most radical and <lb/>
+bottom-Principle of all Faith; as controverted <lb/>
+between us; without which all agreement in particular <lb/>
+points must needs be unsound and hollow-hearted. <lb/>
+This is my <normalised orig="onely" auto="true">only</normalised> <normalised orig="aym" auto="true">aim</normalised> in Sure-Footing. <lb/>
+That therefore you may not obstruct so good a <lb/>
+work, and <normalised orig="withall" auto="true">withal</normalised> perform the duty of a solid <lb/>
+and candid Writer, I offer to your self and all <lb/>
+ingenuous Readers these few Reflexions: not <lb/>
+sprung from my Will (for what Authority have <lb/>
+I to prescribe you your method) but from true <lb/>
+Reason working upon the Thing; which makes <lb/>
+it just duty in you, and so ought oblige you to <lb/>
+follow it. <lb/>
+3. In the first place, since the scope of my <lb/>
+whole Book is about the First Principle in Controversy, <lb/>
+or the Ground of all Faith, as to our <lb/>
+Knowledge; that is, about a Point antecedent to <lb/>
+all particular Points; In conceive it reasonable you <lb/>
+should let your Discourse stand firm to the matter <lb/>
+in hand, and not permit it to slide into Controversies <lb/>
+about Particulars. For so, <normalised orig="'tis" auto="true">it is</normalised> evident, <lb/>
+we shall be apt to multiply many words little to <lb/>
+our present purpose. On what conditions you <lb/>
+may have right to <normalised orig="alledge" auto="true">allege</normalised> Particulars as pretended <lb/>
+Instances of Traditions failing, shall be seen <lb/>
+hereafter. <lb/>
+                  <fw type="pageNum">4</fw>
+                  <pb n="4"/> 
+                  <lb/>
+4. Next, I desire you would please to speak <lb/>
+out Categorically, and declare whether you hold <lb/>
+Faith absolutely Certain to us, or else Possible to <lb/>
+be false for any thing we know. To explicate my <lb/>
+self better, that so I may void some common <lb/>
+and frivolous Distinctions, my intent is to demand <lb/>
+of you in behalf of the Christian Reader <lb/>
+and his due satisfaction, whether you hold Gods <lb/>
+Providence has laid in the whole Creation any <lb/>
+Certain means, by way of proper Causes to such <lb/>
+an Effect, to bring down Faith  truly to us, and <lb/>
+whether we can arrive at Certain Knowledge of <lb/>
+those means, that is, come to see or know the <lb/>
+Connexion between such Causes and their Effect <lb/>
+spoken of. I make bold to press you earnestly to <lb/>
+this declaration; and my reason is, because nothing <lb/>
+will more conduce to the Conclusion of our <lb/>
+present Debate: For in case such Causes be laid <lb/>
+and can be seen by us, then they are Evident or <lb/>
+Demonstrative Reasons for the Ground of our <lb/>
+Faith's Certainty: But, if no such Causes be <lb/>
+laid, or being laid, cannot be seen by us, then <lb/>
+all the Wit of man can never avoid the consequence, <lb/>
+but that we can have <normalised orig="onely" auto="true">only</normalised> Probability <lb/>
+for all our Faith; that is, for any thing we absolutely <lb/>
+know, <normalised orig="'tis" auto="true">it is</normalised> all as false as an old wife's tale; <lb/>
+since there are no degrees in Truths and <normalised orig="Falshoods" auto="true">Falsehoods</normalised>. <lb/>
+If you advance this Civil piece of Atheistry, <lb/>
+you must pardon me if I be smart with you <lb/>
+in opposition to so damnable and Fundamental <lb/>
+an <normalised orig="Errour" auto="true">Error</normalised>: I love Christianity and <normalised orig="Mankinde" auto="true">Mankind</normalised> too <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 3</fw>
+                  <pb n="5"/> 
+                  <lb/>
+well to suffer that Position which <normalised orig="destroyes" auto="true">destroys</normalised> effectually <lb/>
+the Root of all their Eternal Happiness, <lb/>
+and the Substance of all their Hope, to pass <normalised orig="unstigmatiz'd" auto="false">unstigmatized</normalised>, <lb/>
+as it deserves. Nor think to avail <lb/>
+your self by some Discoursers in our Schools, It <lb/>
+will be shown, when <normalised orig="prest" auto="true">pressed</normalised>, that they are still <normalised orig="preserv'd" auto="true">preserved</normalised> <lb/>
+good Christians through the virtue of Tradition <lb/>
+which they all hold to, notwithstanding <lb/>
+their private speculations: but you not, because <lb/>
+of your want of Certain Grounds, to make you <lb/>
+rationally hold Christs Faith. They <normalised orig="onely" auto="true">only</normalised> mistook <lb/>
+a Word, whereas you will be found to <normalised orig="erre" auto="true">err</normalised> in the <lb/>
+whole Thing, or the ordinary Means to true Christianity. <lb/>
+Again, if such Causes be fitting to be laid by <lb/>
+God's Providence, <normalised orig="'tis" auto="true">it is</normalised> impossible to avoid the <lb/>
+<normalised orig="Doctrin" auto="true">Doctrine</normalised> <normalised orig="propos'd" auto="true">proposed</normalised> in Sure-Footing, because <normalised orig="'tis" auto="true">it is</normalised> <lb/>
+absolutely Impossible to invent any thing that <lb/>
+looks like such Causes, but those which are <normalised orig="deliver'd" auto="true">delivered</normalised> <lb/>
+there; nor did any other Way ever attempt <lb/>
+to show any such. Whence I foresee your <lb/>
+Cause will force you to fly for refuge to the actual <lb/>
+Uncertainty; or possible <normalised orig="Falshood" auto="true">Falsehood</normalised> of all our <lb/>
+Faith for any thing any man living knows by <lb/>
+ordinary means. A sad consequence of an erroneous <lb/>
+tenet! But <normalised orig="'tis" auto="true">it is</normalised> connatural, and, so to be <lb/>
+<normalised orig="expexted" auto="false">expected</normalised>, such Effects should follow the renouncing <lb/>
+the Rule of Faith. <lb/>
+5. Thirdly, I conceive it very reasonable that <lb/>
+you would please to declare whether Controversy <lb/>
+                  <choice ana="typeset-error">
+                     <sic/>
+                     <corr>ought</corr>
+                  </choice> to have any First Principle or no; If none <lb/>
+                  <pb n="6"/> 
+                  <lb/>
+then to speak candidly out, and confess that Controvertists <lb/>
+are Certain of nothing they say, since <lb/>
+their discourse has no Ground or First Principle <lb/>
+to rely on. If any, whether <normalised orig="Traditon" auto="false">Tradition</normalised> be It; or, <lb/>
+if it be not, what else is; and then vouch (as <lb/>
+plain reason tells us you ought) that what you <lb/>
+<normalised orig="assigne" auto="true">assign</normalised> has truly in it the nature of a First Principle, <lb/>
+which common Reason gives to be self-evidence. <lb/>
+Or, lastly, to profess (if you judge it <lb/>
+your best play) that, what you substitute in stead <lb/>
+or Tradition, though it be a First Principle, yet <lb/>
+it need not be at all self-evident. Any thing shall <lb/>
+content me, so you will but please to speak out, <lb/>
+and to the point.  <lb/>
+6. Again, since it is evidently your task to <lb/>
+argue against Tradition's Certainty, <normalised orig="'tis" auto="true">it is</normalised> as Evident <lb/>
+that while you argue against it, you must <lb/>
+bear your self as holding It uncertain; I conceive <lb/>
+then plain Reason obliges you not to produce any <lb/>
+thing against Tradition which depends upon <lb/>
+Tradition for its Certainty; for, in doing so you <lb/>
+would invalidate and even nullify all your own <lb/>
+proofs: Since, if Tradition be held by you uncertain, <lb/>
+and they have no certainty but by means <lb/>
+of It, they must be <normalised orig="confest" auto="true">confessed</normalised> Uncertain too; and <lb/>
+so they would be incompetent to be <normalised orig="produc't" auto="true">produced</normalised> as <lb/>
+proofs, and your self very dis-ingenuous to produce <lb/>
+them: I add self-contradicting too, and <lb/>
+Unskilful; Nature and Aristotle teaching us, <lb/>
+that a Discourser ought not sustain contrary to <lb/>
+himself. Hence plainest Reason excludes you <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 4</fw>
+                  <pb n="7"/> 
+                  <lb/>
+from <normalised orig="alledging" auto="true">alleging</normalised> any kind of Testimony, either from <lb/>
+Scripture, Councils, Fathers, or History, till you <lb/>
+answer my Corollaries 12, 15, 16. which pretend <lb/>
+to demonstrate the Certainty of all these dependent <lb/>
+on Tradition's; and the <normalised orig="onely" auto="true">only</normalised> way to show <lb/>
+my discourses there to be weak, is to <choice ana="illegible">
+                     <sic>manifes*</sic>
+                     <corr>manifest</corr>
+                  </choice> 
+                  <lb/>
+my mistake by declaring into what other thing <lb/>
+your Certainty of those Testimonies is finally resolvable, <lb/>
+which is not coincident with Tradition <lb/>
+When you produce such a Principle, and prove <choice ana="illegible">
+                     <sic>i*</sic>
+                     <corr>it</corr>
+                  </choice> 
+                  <lb/>
+such, you have right to <normalised orig="alledge" auto="true">allege</normalised> the <normalised orig="foresaid" auto="true">aforesaid</normalised> Testimonies, <lb/>
+for then you can make good <choice ana="illegible">
+                     <sic><normalised orig="thei" auto="true">they</normalised>*</sic>
+                     <corr>their</corr>
+                  </choice> 
+                  <lb/>
+Authority: Till then, you can have no right in <lb/>
+true reason to do it. Not <normalised orig="onely" auto="true">only</normalised>, because till then <lb/>
+you are to be held a Renouncer of that Thing's <lb/>
+Certainty upon which there are pretended <choice ana="typeset-error">
+                     <sic/>
+                     <corr>demonstrations</corr>
+                  </choice> 
+                  <lb/>
+against you. Theirs is built; and <lb/>
+those <normalised orig="presum'd" auto="true">presumed</normalised> true ones, because you let such <lb/>
+strongest Attempts pass <normalised orig="unanswer'd" auto="true">unanswered</normalised>; but very <lb/>
+particularly for this Consideration that our present <lb/>
+matter restrains you from it: For, our discourse <lb/>
+is about the Ground of that Authority <lb/>
+which ascertains to us Faith; which therefore is <lb/>
+antecedent to the notions of Faith, Faithful, <lb/>
+Church, Councils, Fathers, nay and creditable <lb/>
+History-books too; since those rely on Tradition <lb/>
+(taken at large) for their Certainty, as is <choice ana="illegible">
+                     <sic>eviden*</sic>
+                     <corr>evident</corr>
+                  </choice> 
+                  <lb/>
+by plain reason, Coroll. 16, 24. which devolves <lb/>
+into this, that Tradition, is FIRST AUTHORITY, <lb/>
+and so not <normalised orig="proovable" auto="false">provable</normalised> or <normalised orig="disproovable" auto="false">disprovable</normalised> by <lb/>
+any other secondary Authorities; but ought to <lb/>
+                  <pb n="8"/> 
+                  <lb/>
+be <normalised orig="impugn'd" auto="false">impugned</normalised> by pure Reason. But, if you think <lb/>
+fit to grant this Certainty to Tradition taken at <lb/>
+large, yet deny it to Christian Tradition, which <lb/>
+<normalised orig="hath" auto="true">has</normalised>, besides its Human force, most powerful Divine <lb/>
+Motives also to strengthen it; please to speak <lb/>
+it out, and the strange unreasonableness of the <lb/>
+position will quickly be made appear. Or, if you <lb/>
+grant Christian Tradition Certain in bringing <lb/>
+down those common Points in which we agree, <lb/>
+yet Fallible, nay actually erring, in bringing down <lb/>
+to us those other points which we were found <lb/>
+holding upon Tradition when you left us, and for <lb/>
+which, as grievous Errors, you pretended to leave <lb/>
+us; please to declare in what you hold the virtue <lb/>
+of Tradition consists, ascertaining to us both <lb/>
+those common points, and how we come to know <lb/>
+Tradition is <normalised orig="engag'd" auto="true">engaged</normalised> for them; which done, it <lb/>
+will quickly appear whether its ascertaining virtue <lb/>
+has its Effect upon some, and not others; or <lb/>
+on all. Unless you do this, your very admittance <lb/>
+of <normalised orig="Treadition's" auto="false">Tradition's</normalised> Certainty in some; overthrows <lb/>
+you without more ado: for, to acknowledge it <lb/>
+argumentative for the Certainty of some, grants <lb/>
+it a <normalised orig="virue" auto="false">virtue</normalised> of Ascertaining, which therefore you <lb/>
+are <normalised orig="oblig'd" auto="true">obliged</normalised> to grant in all, unless you give the <lb/>
+reason of your Exception: otherwise to admit it <lb/>
+when your Interest is not <normalised orig="toucht" auto="true">touched</normalised>, and reject it <lb/>
+when it opposes you, is plainly to confess that <lb/>
+Tradition is able to certify, yet that you admit <lb/>
+it when your list, and reject it when you list. <lb/>
+7. Being <normalised orig="inform'd" auto="true">informed</normalised> then by Evident Reason, <lb/>
+                  <fw type="pageNum">9</fw>
+                  <pb n="9"/> 
+                  <lb/>
+that no kind of Authority but only the way of <lb/>
+Reason is a competent Weapon to fight against <lb/>
+Tradition with; I have three things to propose <lb/>
+to your Thoughts on this occasion, which I hope <lb/>
+will sound reasonable to any intelligent man by <lb/>
+the very mentioning. First, that you would not <lb/>
+<normalised orig="alledge" auto="true">allege</normalised> such Arguments as strike as well at the <lb/>
+Constancy of every Species in Nature, especially <lb/>
+Rational Nature; that is, such natural Mediums <lb/>
+as tend to destroy all Natural Certainty. <lb/>
+Secondly, that your objections be not <normalised orig="forrain" auto="true">foreign</normalised>, <lb/>
+or <normalised orig="fetch't" auto="true">fetched</normalised> from afar of; for these are multipliable <lb/>
+without End, and apt to be suggested by <lb/>
+Fancy upon every non-seeing the coherence of <lb/>
+some other remote (whether real or conceited) <lb/>
+Truth, with the Tenet we aim to impugn; <lb/>
+but that they be immediate and close, that is, <lb/>
+taken out of the <normalised orig="Intrinsecal" auto="false">Intrinsical</normalised> Nature of the Thing; <lb/>
+For so, they will be more forcible and by consequence <lb/>
+be apt to do your Cause much service; <lb/>
+and unless they be such, they will do it none: <lb/>
+For, in regard my whole process is grounded on <lb/>
+the nature of the Thing, as appears by my Transition, <lb/>
+and every Logician knows that remote <lb/>
+and common considerations are liable, for any <lb/>
+thing we know, to be connected or not-connected <lb/>
+with the point we would apply them to, because <lb/>
+we see no Connexion, but what's Immediate; <lb/>
+it follows that <normalised orig="'tis" auto="true">it is</normalised> a very incompetent and <lb/>
+dissatisfactory way to impugn an Adversary who <lb/>
+endeavours all along to frame his discourse out of <lb/>
+                  <fw type="pageNum">10</fw>
+                  <pb n="10"/> 
+                  <lb/>
+the <normalised orig="Intrinsecal" auto="false">Intrinsical</normalised> Nature of the Thing, by remote, <lb/>
+or unimmmediate, that is, indeed, Unconnected Mediums. <lb/>
+The third thing I request is, <lb/>
+that you either grant that no Argument or Reason <lb/>
+is Conclusive, Obliging-to-Assent, or Satisfactory, <lb/>
+but what is either Proper (at least Necessary) <lb/>
+Cause or Effect; or else show us out of <lb/>
+<normalised orig="Logick" auto="true">Logic</normalised> that other Mediums have this virtue, and <lb/>
+how they come to have it. This way of procedure <lb/>
+will give me a great respect for you as taking <lb/>
+honestly the Way which is apt to clear <lb/>
+Truth; and you will have this Satisfaction to <lb/>
+your Conscience that you have <normalised orig="endeavour'd" auto="true">endeavoured</normalised> it to <lb/>
+your power by following the best method you <lb/>
+could <normalised orig="imagin" auto="true">imagine</normalised> to give your Cause its due and advantage, <lb/>
+in case it can bear that Test; that is, in <lb/>
+case it be Truth. And, if it cannot bear it, that <lb/>
+is, if it be no Truth, <normalised orig="'tis" auto="true">it is</normalised> you own best Advantage <lb/>
+by this strict procedure to have <normalised orig="discover'd" auto="true">discovered</normalised> <lb/>
+it. Your Judicious Readers also that look seriously <lb/>
+for satisfaction, will rest much <normalised orig="edify'd" auto="true">edified</normalised> and <lb/>
+<normalised orig="thankfull" auto="true">thankful</normalised> for your <normalised orig="prusuing" auto="false">pursuing</normalised> that Method which <lb/>
+is likely to save them a great deal of fruitless <lb/>
+pains in reading multitudes of books writ in a <lb/>
+loose way, whence no Conclusion or Satisfaction <lb/>
+is likely to result. <lb/>
+8. My fifth request, and I hope <normalised orig="'tis" auto="true">it is</normalised> just and <lb/>
+reasonable, is this; that, if you conceive your <lb/>
+Discourse has made good the Certainty of Written <lb/>
+Authorities or quoted Testimonies, without <lb/>
+Tradition, (which I see is impossible,) and hence <lb/>
+                  <fw type="pageNum">11</fw>
+                  <pb n="11"/> 
+                  <lb/>
+you make account you have title to produce <lb/>
+them against Tradition's Certainty, (That being <lb/>
+the matter in hand) and  therefore you resolve <lb/>
+to pursue the way of Citing <normalised orig="Authours" auto="true">Authors</normalised>; you <lb/>
+would then be <normalised orig="pleas'd" auto="true">pleased</normalised> to vouch your Citations <lb/>
+to have truly in them the nature of Testimonies; <lb/>
+that is, to be built on Sensible Knowledge, and <lb/>
+not on Speculative, or Opinion in the <normalised orig="Authour" auto="true">Author</normalised> <lb/>
+<normalised orig="alledg'd" auto="true">alleged</normalised>, and that they fall under none of <lb/>
+Dr. Pierce's faulty or Inconclusive Heads; or  <lb/>
+else show they are Conclusive though thus Faulty, <lb/>
+which is done by confuting my Grounds laid <lb/>
+in my First Appendix. § 6, 7, 8. Or, lastly, to <lb/>
+declare, that though thus Faulty and Inconclusive <lb/>
+they ought still to be <normalised orig="alledg'd" auto="true">alleged</normalised>; and to give your <lb/>
+reason for it; which, candidly spoken out, I am <lb/>
+sure will be this, that you must either produce <lb/>
+such, or none. I hope all our ingenuous Readers <lb/>
+will think me very reasonable, who am <lb/>
+well contented with any thing which is spoke <lb/>
+out expressly and declaratively of what method <lb/>
+or way of satisfying you take; and <normalised orig="onely" auto="true">only</normalised> desire <lb/>
+you would not quote and speak confusedly and  <lb/>
+in common, as if you meant to persuade your <lb/>
+Readers that your discourse has in it some <lb/>
+strange force taken in the bulk, though you <lb/>
+will vouch no one particular piece of it to be <lb/>
+Certain; or, as if you <normalised orig="suppos'd" auto="true">supposed</normalised> their reasons were <lb/>
+to be <normalised orig="amaz'd" auto="true">amazed</normalised> and <normalised orig="stupify'd" auto="true">stupefied</normalised> <normalised orig="meerly" auto="true">merely</normalised> at the venerable <lb/>
+Names of Authors and the solemnity of a <lb/>
+<normalised orig="diverse-letter'd" auto="false">diverse-lettered</normalised>, or <normalised orig="diverse-languag'd" auto="false">diverse-languaged</normalised> quotation, <lb/>
+                  <fw type="pageNum">12</fw>
+                  <pb n="12"/> 
+                  <lb/>
+without clearing to their Judgements the virtue <lb/>
+by which such Citations can pretend to have <lb/>
+force able to subdue their understandings to Assent, <lb/>
+or (which is all one) satisfy them. If you refuse <lb/>
+to do me reason in this point, and still resolve <lb/>
+to pursue the huddling together Testimonies <lb/>
+without warranting their Certainty by showing <lb/>
+upon rational grounds they must be such, I <lb/>
+shall declare beforehand to my <normalised orig="Readrs" auto="false">Readers</normalised>, that I <lb/>
+must be <normalised orig="forc't" auto="true">forced</normalised> to do right to my self; which is, <lb/>
+to rank all your Testimonies under Dr. Pierce's <lb/>
+Faulty Heads, and so let them go as they are. <lb/>
+9. Particularly, I beg the Justice of you not <lb/>
+to think to over-bear me with the <normalised orig="conceiv'd" auto="true">conceived</normalised> Authority <lb/>
+of other Divines' resolving Faith in their <lb/>
+Speculative Thoughts after another manner than <lb/>
+I do: since this can <normalised orig="onely" auto="true">only</normalised> rend to stir up <normalised orig="Invidiousness" auto="false">envidiousness</normalised> <lb/>
+against my person (which yet their charity <lb/>
+secures me from) and not any <normalised orig="wayes" auto="true">ways</normalised> to invalidate <lb/>
+my discourse. For, every one knows <normalised orig="tis" auto="true">it is</normalised> no <lb/>
+news Divines should differ in their way of explicating <lb/>
+their Tenet, which they both notwithstanding <lb/>
+hold never the less firmly; and every <lb/>
+learned man understands that the word Divine,<lb/>
+importing a man of Skill or Knowledge in such a <lb/>
+matter, no Divine has any Authority but from <lb/>
+the Goodness of the Proofs or Reasons he brings <lb/>
+and on which he builds that Skill. Please then <lb/>
+to bring, not the empty pretence of a Divines <lb/>
+Authority or Name to oppose me with, and I <lb/>
+shall freely give you leave to make use of the Virtue<lb/>
+                  <fw type="pageNum">13</fw>
+                  <pb n="13"/> 
+                  <lb/>
+of their Authorities, that is their Reasons against <lb/>
+me as much as you will. I easily <normalised orig="yeeld" auto="true">yield</normalised> to <lb/>
+those great discoursers, whoever they be, a <normalised orig="precedency" auto="true">precedence</normalised> <lb/>
+in other Speculations and Knowledges, <lb/>
+to which they have been more addicted, and for <lb/>
+which they have been better <normalised orig="circumstanc't" auto="false">circumstanced</normalised>; In <lb/>
+this one of the Ground of Faith, both my much <lb/>
+Practice, my particular Application, my Discourses <lb/>
+with our nations best Wits of all sorts, my <lb/>
+perusing our late acute Adversaries and the Answers <lb/>
+to them, with other Circumstances; and <lb/>
+lastly, my serious and industrious studying the <lb/>
+Point, <normalised orig="join'd" auto="true">joined</normalised> with the clearing Method God's <lb/>
+Providence has led me to, have left me (as far <lb/>
+as I know) in no disadvantage. What would <lb/>
+avail you against me and our Church too (for <lb/>
+my Interest as defending Tradition is indissolubly <lb/>
+<normalised orig="linkt" auto="true">linked</normalised> with Hers) is, to <normalised orig="fhow" auto="false">how</normalised> that our Church <lb/>
+proceeds not on Tradition, or that in Her <lb/>
+Definitions She professes to resolve Faith another <lb/>
+way rather than mine, or (which is <lb/>
+equivalent) <normalised orig="ro" auto="true">to</normalised> rely on <normalised orig="somthing" auto="true">something</normalised> else more firmly <lb/>
+and fundamentally than on Tradition. But <lb/>
+the most express and manifold Profession of <lb/>
+the Council of Trent to rely constantly on Tradition, <lb/>
+has so put this beyond all possible Cavil on <lb/>
+my side, that I neither fear your Skill can show <lb/>
+my Grounds in the least subcontrary to hers, nor <lb/>
+the Goodness of any Learned and considering <lb/>
+<normalised orig="Catholik" auto="true">Catholic</normalised> (however some may conceive the Infallibility <lb/>
+of the Church <normalised orig="plac't" auto="true">placed</normalised> ad abundantiam
+                  <lb/>
+                  <pb n="14"/> 
+                  <lb/>
+in <normalised orig="somthing" auto="true">something</normalised> else) will or can ever dislike it. I expect <lb/>
+you may go about to disgrace my Way as <lb/>
+new: But I must ask, whether you mean the substance <lb/>
+of it is new, or <normalised orig="onely" auto="true">only</normalised> that <normalised orig="'tis" auto="true">it is</normalised> now deeper <lb/>
+<normalised orig="look't" auto="true">looked</normalised> into and farther explicated than formerly: <lb/>
+If you say the former, my Consent of Authorities <lb/>
+(p. 126, 127, &amp;c.) has clearly shown the contrary; <lb/>
+and common sense tells us no other way was <lb/>
+or could be possibly taken (for the Generality of <lb/>
+the Church at least) in Primitive times till Scripture <lb/>
+was <normalised orig="publisht" auto="true">published</normalised> universally and collected: If <lb/>
+the later, please to reflect, that every farther Explication <lb/>
+or Declaration, as far as <normalised orig="'tis" auto="true">it is</normalised> farther, must <lb/>
+needs be new; and so, instead of disgracing us, <lb/>
+you most highly commend our reasons for drawing <lb/>
+consequences farther than others had done <lb/>
+before us. Again, if it be <normalised orig="onely" auto="true">only</normalised> a farther Explication, <lb/>
+<normalised orig="'tis" auto="true">it is</normalised> for that very reason not-new; since the <lb/>
+<normalised orig="Sence" auto="true">Sense</normalised> of the Explication is the same with the thing <lb/>
+explicated; As <normalised orig="'tis" auto="true">it is</normalised> <normalised orig="onely" auto="true">only</normalised> an Explication, then <normalised orig="'tis" auto="true">it is</normalised> <lb/>
+now-new; as farther, <normalised orig="'tis" auto="true">it is</normalised> indeed new, but withal <lb/>
+innocent, nay commendable. But there are three <lb/>
+things more to be said on occasion of this objecting <lb/>
+<normalised orig="Catholik" auto="true">Catholic</normalised> Divines; One is, that, taking Tradition <lb/>
+for the living voice of the present Church <lb/>
+as I constantly declare my self to do, not one <lb/>
+<normalised orig="Catholick" auto="true">Catholic</normalised> does or can deny it; for he would eo <lb/>
+ipso become no <normalised orig="Catholick" auto="true">Catholic</normalised> but an <normalised orig="Arch-heretick" auto="false">Arch-heretic</normalised>; <lb/>
+and this all acknowledge. In the thing explicated <lb/>
+then, that is, in the notion of Tradition all <lb/>
+agree with me (and consequently in the Substance <lb/>
+                  <pb n="15"/> 
+                  <lb/>
+of my Explication) nor can any do otherwise, except <lb/>
+they be equivocated in the Word Tradition <lb/>
+and mistake my meaning, which I conceive none <lb/>
+will do wilfully after they have read here my <lb/>
+declaration of it so unmistakably laid down. The <lb/>
+second thing is, that an Alledger of those Divines <lb/>
+will <normalised orig="onely" auto="true">only</normalised> quote their Words as <normalised orig="Speculaters" auto="false">Speculators</normalised>, <choice ana="illegible">
+                     <sic>no*</sic>
+                     <corr>not</corr>
+                  </choice> 
+                  <lb/>
+those in which they deliver themselves naturally <lb/>
+as Christians or Believers; which Sayings were <lb/>
+they collected, we should <normalised orig="finde" auto="true">find</normalised> them unanimously <lb/>
+sounding to my advantage, and not one of them <lb/>
+oppositely. And, lastly, speaking of our Explication <lb/>
+as to its manner, Divines contradict one another <lb/>
+in other kinds of Explications, but not one <lb/>
+Author can be <normalised orig="alledged" auto="true">alleged</normalised> that <normalised orig="expresly" auto="true">expressly</normalised> <choice ana="illegible">
+                     <sic>contradict*</sic>
+                     <corr>contradicts</corr>
+                  </choice> 
+                  <lb/>
+this which I follow. <lb/>
+10. My sixth request is, that you would speak to <lb/>
+the main of my Book, and not catch at some odd <lb/>
+words, on the by as it were: Otherwise, understanding <lb/>
+Readers will see this is not to answer, <lb/>
+but to cavil. <lb/>
+11. And, because we are (I hope) both of <choice ana="illegible">
+                     <sic>u*</sic>
+                     <corr>us</corr>
+                  </choice> 
+                  <lb/>
+endeavouring to clear Truth (I am sure we <choice ana="illegible">
+                     <sic><normalised orig="ough" auto="true">ought</normalised>*</sic>
+                     <corr>ought</corr>
+                  </choice> 
+                  <lb/>
+to be so) therefore, to acquit your self to <choice ana="illegible">
+                     <sic>you*</sic>
+                     <corr>your</corr>
+                  </choice> 
+                  <lb/>
+Readers that you ingenuously aim at it, I conceive <lb/>
+you will do your self a great deal of right, <lb/>
+and me but reason, nay (which is yet weightier) <lb/>
+do the common Cause best service, if you <choice ana="illegible">
+                     <sic><normalised orig="wil" auto="true">will</normalised>*</sic>
+                     <corr>will</corr>
+                  </choice> 
+                  <lb/>
+<normalised orig="joyn" auto="true">join</normalised> with me to retrench our <normalised orig="Controversie" auto="true">Controversy</normalised> <choice ana="illegible">
+                     <sic>a*</sic>
+                     <corr>as</corr>
+                  </choice> 
+                  <lb/>
+much as we can. Let us then avoid all Rhetorical <lb/>
+Digressions and Affectations of Witty and <lb/>
+                  <pb n="16"/> 
+                  <lb/>
+fine Language; which I have <normalised orig="declin'd" auto="true">declined</normalised> in my <lb/>
+whole Book, and chosen a plain downright manner <lb/>
+of Expression, as most <normalised orig="sutable" auto="true">suitable</normalised> and connatural <lb/>
+to express Truth. Likewise all Repetitions <lb/>
+of what particulars others have said or <normalised orig="answer'd" auto="true">answered</normalised> <lb/>
+before us, such as are the Objections made by <lb/>
+that ingenious person, the L. Faukland, and the <lb/>
+Answers given them in the Apology for Tradition; <lb/>
+unless it be <normalised orig="conceiv'd" auto="true">conceived</normalised> those Solutions are insufficient, <lb/>
+and Reasons be <normalised orig="offer'd" auto="true">offered</normalised> why they are <lb/>
+<normalised orig="judg'd" auto="true">judged</normalised> so. For I conceive it an endless folly to <lb/>
+transcribe and reprint any thing others have done <lb/>
+before us, except it be Grounds which ought to <lb/>
+be oft inculcated and stuck to; and those particulars <lb/>
+which we show to be not yet invalidated, <lb/>
+but to preserve still their strength. Much less <lb/>
+do I suspect it can fall under the thought of one <lb/>
+who aims to discourse rationally (such my <notvariant>Answerer</notvariant> <lb/>
+ought to be) to take together all the filth <lb/>
+and froth of the unwarrantable Actions or Opinions <lb/>
+of some in the Church, or to run on <normalised orig="endlesly" auto="true">endlessly</normalised> <lb/>
+with multitudes of invective &amp; invidious sayings <lb/>
+on his own head without proof; &amp; then apply <lb/>
+them to the Church, as does the Disswader. It <lb/>
+would also very much conduce to the bringing <lb/>
+our differences to a narrower compass if you <lb/>
+would candidly take my Book <normalised orig="endwayes" auto="false">endways</normalised>, and <lb/>
+declare what in it is evident, and so to be allowed; <lb/>
+what not: What Principles are well laid or <lb/>
+Consequences right drawn; and what are otherwise: <lb/>
+To requite which favours, I promise the <lb/>
+                  <lb/>
+                  <fw type="pageNum">B</fw>
+                  <pb n="17"/> 
+                  <lb/>
+same Carriage in my Reply to you. By this <lb/>
+means it will be quickly <normalised orig="discover'd" auto="true">discovered</normalised> whether or <lb/>
+no you have overthrown my Discourse by showing <lb/>
+it ill coherent, and how far <normalised orig="'tis" auto="true">it is</normalised> faulty; that, <lb/>
+if I cannot clear it to be connected, I may confess <lb/>
+my fault and endeavour to amend it. For, <lb/>
+however I see my Grounds Evident, yet I am far <lb/>
+from judging my self Infallible in drawing my <lb/>
+Consequences; though I see withal the method <lb/>
+I take, will not let me err much; Or, if I do, my <lb/>
+<normalised orig="Errour" auto="true">Error</normalised> will be easily discoverable; because I go <lb/>
+not about to cloud my self in words, but to <lb/>
+speak out as plain as I can from the nature of <lb/>
+the Thing. <lb/>
+12. In the next place I earnestly request you, as <lb/>
+you love <normalised orig="Trith" auto="false">Truth</normalised>, not to shuffle of the giving me <lb/>
+a full Answer, nor to desist from your Enterprise <lb/>
+(as I hear a Certain person of great esteem for his <lb/>
+learning and prudence has already done) though <lb/>
+you find some difficulty where to fasten upon the <lb/>
+Substantial part of my discourse. There are <lb/>
+perhaps many difficult passages which my Shortness <lb/>
+<normalised orig="forc't" auto="true">forced</normalised> me to leave Obscure; These will naturally <lb/>
+occasion mistake, and Mistake will breed <lb/>
+Objections to impugn me with. Please, if others <lb/>
+fail, to make use of those at least. <normalised orig="'Tis" auto="true">It is</normalised> <lb/>
+no discredit in you to mistake what's obscure; <lb/>
+rather it argues a fault in me (did not my circumstance <lb/>
+of writing Grounds, &amp; <normalised orig="onely" auto="true">only</normalised> to <normalised orig="Schollers" auto="true">Scholars</normalised>, <lb/>
+excuse me) that I left it so; To make amends <lb/>
+for which I promise you to render it clear when <lb/>
+                  <fw type="pageNum">18</fw>
+                  <pb n="18"/>  
+                  <lb/>
+I see where it pinches you or others. And on this <lb/>
+score, I owe very particular thanks to Mr Stillingfleet, <lb/>
+that by speaking clearly out his thoughts, he <lb/>
+gave me a fair occasion to open that point he <lb/>
+<normalised orig="impugn'd" auto="false">impugned</normalised>, I think, upon mistake of our Tenet. <lb/>
+13. If you think fit <normalised orig="somtimes" auto="true">sometimes</normalised> to argue ad <lb/>
+hominem, be sure what you build on be either our <lb/>
+Churches Tenet or mine; for I am bound to defend <lb/>
+nothing else. If then you quote Fathers, first, see <lb/>
+they speak as Fathers, that is as Believers and Witnessers; <lb/>
+for so <normalised orig="'tis" auto="true">it is</normalised> evident our Church means <lb/>
+them by her Expressions in the Council of Trent; <lb/>
+as also did Antiquity. For both of them constantly <lb/>
+<normalised orig="alledge" auto="true">allege</normalised> and stand upon Traditio Patrum, <lb/>
+not Opinio Patrum: Next, see you bring Consensus <lb/>
+Patrum, or an agreement at least of very many <lb/>
+of them speaking as Witnesses, otherwise you <lb/>
+will not touch me nor our Church; for she never <lb/>
+abetted them further. In case you bring Councils, <lb/>
+it would be very efficacious you would <normalised orig="chuse" auto="true">choose</normalised> <lb/>
+such Testimonies (if you can <normalised orig="finde" auto="true">find</normalised> them) as I <lb/>
+brought from the Council of Trent; that is, such <lb/>
+in which they declare themselves (or the Circumstances <lb/>
+give it) they proceed upon their <lb/>
+Rule of Faith: For, otherwise, every one knows <lb/>
+that Bishops in a Council have in them, besides <lb/>
+the Quality of Faith Definers, those also of <lb/>
+<normalised orig="Governours" auto="true">Governors</normalised>, and of the most Eminent and solid <lb/>
+Divines in God's Church. If Scripture, you <lb/>
+must make Evident the Certainty of your way of<lb/>
+arguing from it, ere I or our Church shall allow <lb/>
+                  <lb/>
+                  <fw type="pageNum">B 2</fw>
+                  <pb n="19"/> 
+                  <lb/>
+it <normalised orig="argumenative" auto="false">argumentative</normalised>. Thus much for Authority. If <lb/>
+you oppose me by my own Principles or Discourses <lb/>
+of my Reason, I must defend my self as <lb/>
+well as I can. One thing on this occasion, I must <lb/>
+mind you of; <normalised orig="'tis" auto="true">it is</normalised> this, that though you should <lb/>
+conquer in this way of arguing ad hominem, you <lb/>
+<normalised orig="onely" auto="true">only</normalised> conquer me as a Discourser, by showing that <lb/>
+I contradict my self; not my Tenet: for to prove <lb/>
+that false, you must fix your foot and build your <lb/>
+discourse on some Certain Ground; which barely <lb/>
+my holding it (on which your discourse ad <lb/>
+hominem relies) cannot make it. You must <lb/>
+build then on some Grounded Truth if you will <lb/>
+go about to overthrow a pretended one. Indeed, <lb/>
+if you can show Tradition contradicts her self, <lb/>
+you will do more than miracle, and so must conquer. <lb/>
+But I fear not the Gates of Hell, much less <lb/>
+Man's wit can prevail against that impregnable <lb/>
+Rock. <normalised orig="Onely" auto="true">Only</normalised>, I beseech you bring not as Parallels <lb/>
+against our Tradition in hand, which is a vast and <lb/>
+strong stream, other little petty rivulets sprung <lb/>
+originally from the Sensations of two or three: <lb/>
+For, then, as one side was liable, in a thing not <lb/>
+known <normalised orig="publikly" auto="false">publicly</normalised>, to <normalised orig="bely" auto="true">belly</normalised> their Senses; so the conveyance <lb/>
+down of such <normalised orig="sleight" auto="true">slight</normalised> built Attestations <lb/>
+may easily be self-contradictory. <normalised orig="Ina" auto="false">In a</normalised> word, if <lb/>
+you will argue, take first into your Thoughts the <lb/>
+nature of the Thing you argue against, and then <lb/>
+fall to work <normalised orig="assoon" auto="true">as soon</normalised> as you will. Now, if you <lb/>
+should chance to say you hold the Sayings of Fathers <lb/>
+and Councils (some at least, to be Certain, <lb/>
+                  <pb n="20"/> 
+                  <lb/>
+my Reason tells me from Principles, that, having <lb/>
+<normalised orig="renounc't" auto="false">renounced</normalised> Tradition which <normalised orig="onely" auto="true">only</normalised> could ascertain <lb/>
+them, rational nature in you will not let you have <lb/>
+any hearty conceit of their Convictiveness, whatever <lb/>
+you pretend; but that you rawly <normalised orig="alledge" auto="true">allege</normalised> <lb/>
+them, and so let them go with a <normalised orig="valeant" auto="true">valiant</normalised> quantum <lb/>
+valere possunt. That therefore we may have <lb/>
+some security more than your bare word (which<lb/>
+Experience tells us is now <normalised orig="affirmatie" auto="false">affirmaty</normalised> now negative <lb/>
+in this point, as it best <normalised orig="sutes" auto="true">suits</normalised> your Interest, or, <lb/>
+after a pretty Indifferent manner, half-one-half-tother) <lb/>
+that your profession of holding to such <lb/>
+Authorities is not hollow-hearted but rooted in <lb/>
+your Reason, <normalised orig="'tis" auto="true">it is</normalised> just your Readers should expect <lb/>
+you would declare in what the virtue of Certifying <lb/>
+consists, and that They have this virtue. <lb/>
+This if you do, you acquit your self to go to <lb/>
+work solidly, and you offer us fair play in giving <lb/>
+us some hold of your Reason, whereas a common <lb/>
+Expression gives none. This Procedure also <lb/>
+will show, when <normalised orig="apply'd" auto="true">applied</normalised>, whether you are Justifiable <lb/>
+or no for admitting some Authorities of <lb/>
+that nature and rejecting others. <lb/>
+14. My last request is, that, if in the course of your <lb/>
+Answer you think fit to complain of me for bringing <lb/>
+History and other Proofs heretofore commonly <lb/>
+without more ado admitted, into Incertainty: <lb/>
+please to amend the fault you <normalised orig="finde" auto="true">find</normalised>, and settle <lb/>
+their Certainty on some better Principles than I <lb/>
+have <normalised orig="endeavour'd" auto="true">endeavoured</normalised>. In the mean time <normalised orig="'tis" auto="true">it is</normalised> Evident <lb/>
+my whole Book <normalised orig="ayms" auto="true">aims</normalised> at settling the Certainty of <lb/>
+                  <pb n="21"/> 
+                  <lb/>
+all Authority, by evidencing the Certainty of <lb/>
+First Authority; upon which the Assuredness of <lb/>
+History, Fathers, Councils, Church, Faith, nay <lb/>
+Virtue or Christian Life must all be built. This <lb/>
+is my way; if you judge it incompetent to do <lb/>
+the Effect spoken of, be <normalised orig="pleas'd" auto="true">pleased</normalised> to manifest it Unfit <lb/>
+and show us a Better. <lb/>
+15. Perhaps I may have demanded more of <lb/>
+you in some particulars than is due from the strict <lb/>
+duty of <normalised orig="meerly" auto="true">merely</normalised> answering: in the Schools, a bare <lb/>
+denial, or distinction is enough for a Respondent. <lb/>
+But I conceive we are not on these terms: in regard <lb/>
+we are not met face to face, where the returns <lb/>
+of the one to the other can be quick on every <lb/>
+occasion. This obliges us, for the Readers satisfaction, <lb/>
+to enlarge our selves and bring reason for <lb/>
+every thing we affirm or deny, lest we should be <lb/>
+thought to do it gratis. And, your case here, is <lb/>
+particularly disadvantageous: For, if you go <lb/>
+about to overthrow that on which I <normalised orig="aym" auto="true">aim</normalised> to show <lb/>
+the Certainty of all Authority built, and yet declare <lb/>
+not on what your self hold them built, <lb/>
+and, by your faithful promise to <normalised orig="thow" auto="true">thou</normalised> it shortly, <lb/>
+give them strong hopes you will perform it; you <lb/>
+send them away very much <normalised orig="dissatisfy'd" auto="true">dissatisfied</normalised> either <lb/>
+with you or with all the Authority in the world, <lb/>
+though built on <normalised orig="Sensitie" auto="false">Sensity</normalised> Knowledge: Of which <lb/>
+it being impossible Rational Nature should permit <lb/>
+them to doubt, they must needs dislike your <lb/>
+attempt, and have an ill conceit of your performance. <lb/>
+                  <fw type="pageNum">22</fw>
+                  <pb n="22"/>
+                  <lb/>
+SIR, I understand, to my exceeding Satisfaction, <lb/>
+that multitudes of the most Eminent, Solid and <lb/>
+Ingenuous Wits of our Nation have been diligent <lb/>
+perusers of my Book. Consider, their eyes are upon <lb/>
+you while you Answer; I am confident they will <lb/>
+judge I have requested no more of you in this Letter, <lb/>
+but what's reasonably due to their and my satisfaction; <lb/>
+and so, will look your Answer should be <lb/>
+correspondent. They are weary of endless Contests <lb/>
+about Faith; and, seeing we are not now controverting <lb/>
+the signification of some ambiguous Testimony, <lb/>
+but penetrating deep into the very bowels of <lb/>
+a point which is of the greatest concern in the whole <lb/>
+world; and pursuing (in a method likely to decide) <lb/>
+the clearing of it, their expellations are very much <lb/>
+erected and attentively observing what will be the <lb/>
+issue of this rational combat. Frustrate not their <lb/>
+desires to see Truth manifested by bringing the Question <lb/>
+back from the plain open field of Evidence-in- <lb/>
+our-method, to a Logomachy or word-skirmish in a <lb/>
+Wilderness of Talk, out of which the Thread of <lb/>
+Grounds or Principles had disentangled it. To <lb/>
+them therefore as well as your self I address this; <lb/>
+requesting those of them who are acquainted with<lb/>
+my <notvariant>Answerer</notvariant>, to press him to do himself, me, the <lb/>
+world (his Cause too, if it can bear it) the right <lb/>
+due in Reason, and here demanded. This Sir, if <lb/>
+you will perform, I shall lay aside the <normalised orig="remebrance" auto="true">remembrance</normalised> <lb/>
+of the Justice I have to it, and look upon it purely <lb/>
+as a Favour and most obliging Civility to him who <lb/>
+is, next to Truth's, <lb/>
+Feb. 6th<lb/>
+1665.<lb/>
+</p>
+<closer>Your Friend and well-wisher, 
+            J.S.</closer>
+                  <pb n="23"/> 
+
+            </div>
+            <div>
+               <head>POSTSCRIPT.</head>
+               <p> 
+IF you complain of this Fore-stalling as Unusual; <lb/>
+as long as <normalised orig="'tis" auto="true">it is</normalised> rational you can have no <lb/>
+reason to do so: and it will appear such to him <lb/>
+that considers it was an unusual Circumstance <lb/>
+<normalised orig="occasion'd" auto="true">occasioned</normalised> it. <normalised orig="'tis" auto="true">it is</normalised> this: I had <normalised orig="endeavour'd" auto="true">endeavoured</normalised> to <lb/>
+bring <normalised orig="Controversie" auto="true">Controversy</normalised> from an Endless to a Conclusive <lb/>
+Way: and both my Reason and Experience <lb/>
+made me apprehend my Protestant <notvariant>Answerer</notvariant> <lb/>
+would have such strong Inclinations to bring it <lb/>
+back <choice ana="illegible">
+                     <sic>bac*</sic>
+                     <corr>back</corr>
+                  </choice> into the way of quoting and glossing Testimonies <lb/>
+(that is, into a wordish scanning a great <lb/>
+part of all the Libraries in the World) that a <lb/>
+slender touch at it in my Book was not forcible <lb/>
+and express enough to oblige him to take notice <lb/>
+of it. Having communicated therefore my <lb/>
+thoughts with intelligent and ingenuous persons, <lb/>
+both <normalised orig="Catholiks" auto="true">Catholics</normalised> and Protestants, and <normalised orig="receiv'd" auto="true">received</normalised> their <lb/>
+approbation, I <normalised orig="resolv'd" auto="true">resolved</normalised>, and <normalised orig="pursu'd" auto="true">pursued</normalised> it as you see; <lb/>
+And I hope the manifold Usefulness of it (as <lb/>
+shall be seen what way <normalised orig="soever" auto="true">however</normalised> now you take upon <lb/>
+you of answering) will sufficiently justify my <lb/>
+Action. <lb/>
+FINIS.<lb/>
+                  <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

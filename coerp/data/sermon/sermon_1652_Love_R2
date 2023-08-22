@@ -1,0 +1,617 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Naturall" auto="true">Natural</normalised> Mans Case</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ChLo1618">Love, Christopher</author>
+               <title type="main">
+The <normalised orig="Naturall" auto="true">Natural</normalised> Mans Case stated, or, An exact map of the little world man, Considered in both his Capacities, Either in the state of nature, or grace, As is laid down in XVII sermons, By that late <normalised orig="truely" auto="true">truly</normalised> Orthodox Divine, Mr. Christopher Love, Pastor of Lawrence Jury, London. Whereunto is annexed The Saints Triumph over Death; Being his funeral sermon, By that painful Labourer in the Lords Vineyard, Mr. Tho. Manton, Minister of the <normalised orig="Gospell" auto="true">Gospel</normalised> at Stoak-Newington near London.
+</title>
+               <title type="short"><normalised orig="Naturall" auto="true">Natural</normalised> Mans Case</title>
+               <date when="1652">1652</date>
+               <date type="this_edition" when="1652">1652</date>
+               <idno type="Wing">L3169</idno>
+               <note type="genre" subtype="sermon">sermon</note>
+               <note type="sample" target="#ChLo1618_1652_sermon_1">p.1, l.1 – p.16, l.11</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ChLo1618_1652_sermon_1">
+            <div>
+               <head>SERMON, I.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+EPHES. 2. 12.<lb/>
+                  <quote type="biblical" ana="Eph 2.12">That at that time <normalised orig="ye" auto="true">you</normalised> were without<lb/>
+Christ, being Aliens from the Common-wealth<lb/>
+of Israel, and strangers<lb/>
+from the Covenants of promise;<lb/>
+having no hope, and without God in<lb/>
+the world.</quote>
+                  <lb/>
+                  <lb/>
+THis Chapter out of which my<lb/>
+Text is taken, is like a little<lb/>
+Map, containing in it a description<lb/>
+of the little world<lb/>
+Man, and that in a double<lb/>
+capacity; considering man either in the<lb/>
+state of Grace, or in the state of Nature; If<lb/>
+you consider Man in the first capacity, in<lb/>
+the state of Grace, this chapter <normalised orig="layes" auto="true">lays</normalised> down<lb/>
+a five fold description of bringing Man<lb/>
+into the state of Grace.<lb/>
+1. Here is laid down the efficient cause<lb/>
+of bringing Man out of the state of Nature,<lb/>
+into the state of Grace, and that is<lb/>
+God, in the 4. <normalised orig="vers" auto="true">verse</normalised>.<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="2">B</fw>
+                  <pb n="1"/>
+                  <lb/>
+2. Here is laid down the impulsive cause,<lb/>
+and that is the riches of Gods mercy in<lb/>
+the same verse, <quote type="biblical" ana="Eph 2.4">But God who is rich in<lb/>
+mercy for the great love wherewith he loved<lb/>
+us, &amp;c.</quote>
+                  <lb/>
+3. Here is laid down the meritorious<lb/>
+cause of it, which is Christ in his sufferings,<lb/>
+in the 7. verse, <quote type="biblical" ana="Eph 2.7">that in the ages to come,<lb/>
+he might <normalised orig="shew" auto="true">show</normalised> the exceeding riches of his grace<lb/>
+in his <normalised orig="kindnesse" auto="true">kindness</normalised> towards us, through Jesus<lb/>
+Christ.</quote>
+                  <lb/>
+4. Here is laid down the <normalised orig="finall" auto="true">final</normalised> cause of<lb/>
+it in the same verse also, <quote type="biblical" ana="Eph 2.7">that in Ages to<lb/>
+come, he might <normalised orig="shew" auto="true">show</normalised> the exceeding riches of his<lb/>
+grace.</quote> And,<lb/>
+Lastly, here is the <normalised orig="instrumentall" auto="true">instrumental</normalised> cause of<lb/>
+bringing man out of the state of Nature<lb/>
+into the state of Grace, and that is Faith,<lb/>
+in the 8. verse: <quote type="biblical" ana="Eph 2.8">For by grace are you saved<lb/>
+through Faith, and that not of your selves, it is<lb/>
+the gift of God.</quote>
+                  <lb/>
+Now the other part of the Map describes<lb/>
+man in the second capacity, in the<lb/>
+state of Nature, and herein it gives a two-fold<lb/>
+description of Mans condition;<lb/>
+1. Positively, what he is.<lb/>
+2. Privatively, what he wants.<lb/>
+1. It describes Man in the state of Nature<lb/>
+positively what he is, and that in five<lb/>
+                  <choice ana="illegible">
+                     <sic>*r*iculars</sic>
+                     <corr>particulars</corr>
+                  </choice>;<lb/>
+1. Men in their <normalised orig="naturall" auto="true">natural</normalised> condition, are<lb/>
+                  <pb n="2"/>
+                  <lb/>
+described to <normalised orig="bee" auto="true">be</normalised> <quote type="biblical" ana="Eph 2.1">dead in trespasses and<lb/>
+<normalised orig="sinnes" auto="true">sins</normalised></quote>.<lb/>
+2. They <quote type="biblical" ana="Eph 2.2">walk according to the course of this<lb/>
+world</quote>, as Pagans and Heathens do.<lb/>
+3. <quote type="biblical" ana="Eph 2.2">According to the Prince of the power of the<lb/>
+air</quote>, that is, the <normalised orig="Devill" auto="true">Devil</normalised>; now the <normalised orig="Devill" auto="true">Devil</normalised> is<lb/>
+called the Prince of the air, either because<lb/>
+he <normalised orig="doth" auto="true">does</normalised> reside in the air, or else, because<lb/>
+he <normalised orig="hath" auto="true">has</normalised> the power of the <normalised orig="winde" auto="true">wind</normalised> and of<lb/>
+the air.<lb/>
+4. They are called <quote type="biblical" ana="Eph 2.2">Children of disobedience</quote>;<lb/>
+that is, born in a state of disobedience<lb/>
+quite contrary to the commands of<lb/>
+God.<lb/>
+5. That they <quote type="biblical" ana="Eph 2.3"><normalised orig="fulfill" auto="true">fulfil</normalised> the lusts of the flesh and<lb/>
+of the <normalised orig="minde" auto="true">mind</normalised></quote>, and are <quote type="biblical" ana="Eph 2.3">by nature children of<lb/>
+wrath</quote>.<lb/>
+Thus far you have the positive description<lb/>
+of Man in the state of Nature.<lb/>
+2. Now in the second place, the Apostle<lb/>
+describes him privatively what he wants;<lb/>
+and that in the words of my Text, in<lb/>
+five particulars, wherein <normalised orig="hee" auto="true">he</normalised> plainly<lb/>
+<normalised orig="shews" auto="true">shows</normalised> that he is the poorest man in the<lb/>
+world that wants Jesus Christ, and the<lb/>
+most miserable: That at that time you<lb/>
+were without Christ; that is the first: You<lb/>
+were <quote type="biblical" ana="Eph 2.12">Aliens from the Common-wealth of Israel</quote>;<lb/>
+that is the second: You were <quote type="biblical" ana="Eph 2.12">strangers to<lb/>
+the Covenant of promise</quote>; that is the third:<lb/>
+You were without hope; that is the fourth:<lb/>
+And you were <quote type="biblical" ana="Eph 2.12">without God in the world</quote>;<lb/>
+that's the <normalised orig="fift" auto="true">fifth</normalised>.<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="4">B2</fw>
+                  <pb n="3"/>
+                  <lb/>
+Now these comprehensive expressions,<lb/>
+contain in them the whole misery of<lb/>
+Man, and that in these five particulars<lb/>
+here named; 2. here is described the time<lb/>
+how long, a man is in this condition,<lb/>
+                  <quote type="biblical" ana="Eph 2.12">that at that time</quote>, that is, the time during<lb/>
+your unconverted estate; as long as you<lb/>
+are unconverted, so long you are without<lb/>
+Christ, and an Alien from the Common-wealth<lb/>
+of Israel, and a stranger to<lb/>
+the Covenants of promise, without hope<lb/>
+and without God in the world.<lb/>
+And now what a <normalised orig="dismall" auto="true">dismal</normalised> Text have I<lb/>
+here to handle, and what a doleful tragedy<lb/>
+am I now to act? but yet out of<lb/>
+every one of these, there is a great deal<lb/>
+of comfort which may flow forth; I shall<lb/>
+only at present make entrance into the<lb/>
+words, and speak more fully to them<lb/>
+afterwards; <quote type="biblical" ana="Eph 2.12">that at that time you were without<lb/>
+Christ;</quote> That at that time: Beloved here<lb/>
+wants something to supply the sense of<lb/>
+the words, and therefore read the foregoing<lb/>
+words, and you will <normalised orig="finde" auto="true">find</normalised> what<lb/>
+must be brought in; the verse before runs<lb/>
+thus, <quote type="biblical" ana="Eph 2.11">Wherefore remember, that you being in<lb/>
+time: past Gentiles in the flesh</quote>, &amp;c.<lb/>
+wherefore<lb/>
+remember, these words must be <normalised orig="prefixt" auto="true">prefixed</normalised>;<lb/>
+                  <quote type="biblical" ana="Eph 2.11-12">Wherefore remember, that at that time you were<lb/>
+without Christ, and aliens to the Common-wealth<lb/>
+of Israel</quote>, &amp;c. I shall here by the<lb/>
+way only draw out this one doctrine<lb/>
+                  <pb n="4"/>
+                  <lb/>
+from the coherence of the words, <quote type="biblical" ana="Eph 2.11-12">Wherefore<lb/>
+remember that at that time;</quote> the Apostle<lb/>
+would have these converted Ephesians to<lb/>
+remember, that they were men without<lb/>
+Christ, and aliens to the Common-wealth<lb/>
+of Israel, and strangers to the covenants of<lb/>
+promise, without hope, and without God<lb/>
+in the world: now from hence I would<lb/>
+commend this observation to you.<lb/>
+That it is the will of God that men in a converted<lb/>
+estate should often call to <normalised orig="minde" auto="true">mind</normalised> the <normalised orig="sinfulnesse" auto="true">sinfulness</normalised><lb/>
+and misery they were guilty of before their<lb/>
+conversion.<lb/>
+Beloved, this is a subject I could never<lb/>
+have occasion to speak to you of before,<lb/>
+and yet it is a point of admirable use,<lb/>
+especially in these times, wherein people<lb/>
+think that when once they are brought<lb/>
+into a state of Grace, they must live in<lb/>
+divine raptures, and revelations, and <normalised orig="spirituall" auto="true">spiritual</normalised><lb/>
+<normalised orig="joyes" auto="true">joys</normalised>, above duties and ordinances,<lb/>
+and never look back into their former<lb/>
+<normalised orig="sinfulnesse" auto="true">sinfulness</normalised> and <normalised orig="wickednesse" auto="true">wickedness</normalised> they<lb/>
+were guilty of before their conversion:<lb/>
+Why, here the Ephesians were converted<lb/>
+men, and had extraordinary <normalised orig="priviledges" auto="true">privileges</normalised>,<lb/>
+they were brought <quote type="biblical" ana="Eph 2.6">to sit in heavenly places<lb/>
+in Christ Jesus</quote>; and yet the Apostle bids<lb/>
+them remember their former <normalised orig="sinfulnesse" auto="true">sinfulness</normalised><lb/>
+and misery, Remember O you Ephesians<lb/>
+that <normalised orig="ye" auto="true">you</normalised> were once without Christ, and<lb/>
+you were Aliens to the Common-wealth<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="6">B3</fw>
+                  <pb n="5"/>
+                  <lb/>
+of Israel, &amp;c. therefore you must take<lb/>
+heed of this, to think that when you are<lb/>
+converted, you must be only rapt up into<lb/>
+the third heavens, and never look back<lb/>
+into your former condition; you see here<lb/>
+the Apostle bids you remember what you<lb/>
+were at that time during your unconverted<lb/>
+estate, <quote type="biblical" ana="Eph 2.12">that you were then without<lb/>
+Christ, and strangers to the Covenants<lb/>
+of promise, &amp;c.</quote> So that you see it is<lb/>
+the will of God, that men in a converted<lb/>
+estate should often <normalised orig="cal" auto="true">call</normalised> to <normalised orig="minde" auto="true">mind</normalised> the<lb/>
+sins and <normalised orig="miserie" auto="true">misery</normalised> they were in before conversion.<lb/>
+Now before I come to give you the<lb/>
+Reasons of the point, give me leave to<lb/>
+promise these three Cautions; when I tell<lb/>
+you, that after your <normalised orig="co~version" auto="true">conversion</normalised>, you should<lb/>
+call to <normalised orig="minde" auto="true">mind</normalised> your sin and misery before<lb/>
+conversion, you must not do it 1. with<lb/>
+complacency of spirit; nor 2. with stupidity<lb/>
+of heart; nor 3. with despondency of<lb/>
+<normalised orig="minde" auto="true">mind</normalised>.<lb/>
+1. You must not <normalised orig="cal" auto="true">call</normalised> to <normalised orig="minde" auto="true">mind</normalised> your<lb/>
+former <normalised orig="sinfulnesse" auto="true">sinfulness</normalised> with complacency of<lb/>
+spirit, to please your <normalised orig="humors" auto="true">humours</normalised>; you must<lb/>
+not do as some great men use to do, that<lb/>
+have been guilty of great and crying sins;<lb/>
+as adultery, <normalised orig="drunkennesse" auto="true">drunkenness</normalised>, swearing, and<lb/>
+the like, in their youth; go tell and<lb/>
+boast of them in their age; this is a very<lb/>
+great <normalised orig="wickednesse" auto="true">wickedness</normalised>: you must call to<lb/>
+                  <pb n="6"/>
+                  <lb/>
+<normalised orig="minde" auto="true">mind</normalised> your former <normalised orig="sinfulnesse" auto="true">sinfulness</normalised> not with<lb/>
+complacency, but with <normalised orig="bitternesse" auto="true">bitterness</normalised> of spirit,<lb/>
+with grief, sorrow, and perplexity<lb/>
+of heart: Many men will tel you large<lb/>
+stories of the <normalised orig="wickednesse" auto="true">wickedness</normalised>, that they have<lb/>
+committed; but they do it with delight,<lb/>
+and if they had strength and abilities, they<lb/>
+would be guilty of the same sins and<lb/>
+<normalised orig="wickednesses" auto="false">wickedness</normalised> <normalised orig="stil" auto="true">still</normalised>; which is a most ungodly<lb/>
+practise, and that which the Scripture<lb/>
+condemns men for, as in the 23. of<lb/>
+Ezek. 23.19,21. <quote type="biblical" ana="Ezek 23.19">Yet she <normalised orig="multiplyed" auto="true">multiplied</normalised> her <normalised orig="whoredomes" auto="true">whoredoms</normalised>,<lb/>
+in calling to remembrance the <normalised orig="dayes" auto="true">days</normalised> of<lb/>
+her youth, wherein she had played the harlot in<lb/>
+the land of Egypt</quote>; <quote type="biblical" ana="Ezek 23.121">Thus thou<lb/>
+<normalised orig="calledst" auto="true">called</normalised> to remembrance<lb/>
+the <normalised orig="lewdnesse" auto="true">lewdness</normalised> of thy youth:</quote> the meaning<lb/>
+of this is, she called her sins to remembrance,<lb/>
+but it was so as to play the<lb/>
+whore <normalised orig="stil" auto="true">still</normalised>, and to be unclean <normalised orig="stil" auto="true">still</normalised>, she<lb/>
+did it with delight and complacency,<lb/>
+with content and joy; now I say you<lb/>
+should call your sins to remembrance<lb/>
+with a great deal of grief and sorrow; and<lb/>
+<normalised orig="bitternesse" auto="true">bitterness</normalised> of spirit: and therefore when<lb/>
+young gallants <normalised orig="wil" auto="true">will</normalised> boast of their sins,<lb/>
+and tel how often they have been drunk,<lb/>
+and have made others to be so; and how<lb/>
+often they have plaid the whoremaster,<lb/>
+and have drawn others to do so; this is a<lb/>
+most Diabolical remembrance.<lb/>
+2. You must not <normalised orig="cal" auto="true">call</normalised> your former sins<lb/>
+to remembrance, with stupidity of<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="8">B4</fw>
+                  <pb n="7"/>
+                  <lb/>
+heart neither: Beloved, there are many<lb/>
+men can remember what lewd courses<lb/>
+they have taken, and what wicked lives<lb/>
+they have lived; how often they have<lb/>
+been drunk and unclean, and the like;<lb/>
+and yet are never troubled at the remembrance<lb/>
+of it; their hearts do not smite<lb/>
+them with remorse and sorrow, but are<lb/>
+like a rock; the sense of sin never troubles<lb/>
+them: this is no way of calling sin<lb/>
+to remembrance, with a blockish and stupid<lb/>
+heart, this is not thanks worthy;<lb/>
+but it must be done with a broken, and a<lb/>
+bleeding, and a contrite heart: And,<lb/>
+3. Take in this caution too, it must<lb/>
+not be done with despondency of <normalised orig="minde" auto="true">mind</normalised><lb/>
+neither. There are many converted<lb/>
+ones, that do <normalised orig="cal" auto="true">call</normalised> their sins to remembrance,<lb/>
+but it makes them discouraged<lb/>
+and unwilling to come to Christ, it makes<lb/>
+them think that they have no interest in<lb/>
+the covenant of grace; but this should<lb/>
+not be, the true effect that the consideration<lb/>
+of your former <normalised orig="sinfulnesse" auto="true">sinfulness</normalised> should<lb/>
+produce, should be your laying your<lb/>
+souls low, and making them humble, and<lb/>
+the more sensible of that indispensable<lb/>
+need you have of Christ, of going unto<lb/>
+him for salvation and comfort.<lb/>
+These are the Cautions necessary to be<lb/>
+premised; I come now to give you the<lb/>
+Reasons of the point, why it is the will<lb/>
+                  <fw type="pageNum" n="9">8</fw>
+                  <pb n="8"/>
+                  <lb/>
+of God, that people in a converted<lb/>
+estate, should often <normalised orig="cal" auto="true">call</normalised> to <normalised orig="minde" auto="true">mind</normalised> the sin<lb/>
+and misery they were in before conversion,<lb/>
+and 1. God will have it so, because<lb/>
+by so doing, you will be provoked the<lb/>
+more highly to <normalised orig="magnifie" auto="true">magnify</normalised> and admire the<lb/>
+<normalised orig="greatnesse" auto="true">greatness</normalised> and riches of Gods grace to<lb/>
+you; there are none in the World greater<lb/>
+admirers of Gods grace and mercy,<lb/>
+then those that are most studious of their<lb/>
+own sin and misery: thou wilt never<lb/>
+solemnly and <normalised orig="throughly" auto="true">thoroughly</normalised> <normalised orig="magnifie" auto="true">magnify</normalised> Gods<lb/>
+mercy, till thou art plunged into a deep<lb/>
+<normalised orig="sensiblenesse" auto="false">sensibleness</normalised> of thine own misery, till<lb/>
+the Lord <normalised orig="hath" auto="true">has</normalised> brought thee to see in what<lb/>
+a miserable and deplorable condition<lb/>
+thou <normalised orig="wert" auto="true">were</normalised> in before conversion, thou wilt<lb/>
+then admire and <normalised orig="magnifie" auto="true">magnify</normalised> the riches of<lb/>
+Gods free grace, in bringing thee out of<lb/>
+that condition, into the estate of grace, as<lb/>
+in 1 Tim.1.13. the Apostle Paul when he<lb/>
+would <normalised orig="magnifie" auto="true">magnify</normalised> the free grace of God to<lb/>
+him, saith he, <quote type="biblical" ana="1 Tim 1.13">I was a blasphemer, and a<lb/>
+persecutor, and injurious;</quote> and yet<lb/>
+through<lb/>
+the abundance of Gods free grace and mercy,<lb/>
+I have obtained mercy: the consideration<lb/>
+of his former <normalised orig="sinfulnesse" auto="true">sinfulness</normalised> did elevate and<lb/>
+<normalised orig="scrue" auto="true">screw</normalised> up his heart, to make him admire<lb/>
+the free grace of God to his soul; that man<lb/>
+can never prize liberty as he should do,<lb/>
+that never was in prison: But,<lb/>
+2. Another reason why God <normalised orig="wil" auto="true">will</normalised> have<lb/>
+                  <pb n="9"/>
+                  <lb/>
+it so is, because this will be as a spur to<lb/>
+quicken and engage men to be more eminent<lb/>
+in grace, after their conversion:<lb/>
+when a man <normalised orig="doth" auto="true">does</normalised> frequently and seriously<lb/>
+consider how <normalised orig="bad" auto="true">bade</normalised> and sinful he was<lb/>
+before conversion, it cannot but provoke<lb/>
+him now to be more humble and holy,<lb/>
+after his conversion. It is very observable<lb/>
+in Paul, that all those sins and <normalised orig="wickednesses" auto="false">wickedness</normalised><lb/>
+he was guilty of before conversion,<lb/>
+he did most of all strive against, and labour<lb/>
+to <normalised orig="excell" auto="true">excel</normalised> in the contrary graces after<lb/>
+conversion: as first before conversion<lb/>
+he did labour to hale others to prison, for<lb/>
+worshipping of Christ; but after his conversion,<lb/>
+he did labour to draw others to<lb/>
+Christ: Act. 26. 10, 11. <quote type="biblical" ana="Acts 26.10-11">Many of the Saints<lb/>
+did I shut up in prison, and gave my voice against<lb/>
+them, and punished them oft in every City, and I<lb/>
+was exceeding mad against them, and banished<lb/>
+them into other Cities:</quote> and now you<lb/>
+shall see that after conversion, Paul did labour<lb/>
+to outvie in grace, that evil course<lb/>
+he was in before; as before conversion,<lb/>
+he did imprison those that did belong to<lb/>
+Christ, so after conversion, he was shut<lb/>
+up himself in prison, for the cause of<lb/>
+Christ; before conversion, he gave his<lb/>
+voice against the people of God, but after<lb/>
+conversion, he did pray to God for them;<lb/>
+before conversion, he did punish them<lb/>
+often, but <normalised orig="afterward" auto="true">afterwards</normalised> he did preach to<lb/>
+                  <pb n="10"/>
+                  <lb/>
+them often; before conversion, he did<lb/>
+<normalised orig="compell" auto="true">compel</normalised> men to blaspheme Christ, but<lb/>
+after conversion, he was very earnest to<lb/>
+<normalised orig="perswade" auto="true">persuade</normalised> people to <normalised orig="beleive" auto="true">believe</normalised> in Christ; he<lb/>
+was exceeding mad against them before<lb/>
+conversion, but <normalised orig="afterward" auto="true">afterwards</normalised> <normalised orig="hee" auto="true">he</normalised> was so<lb/>
+exceeding zealous for the people of God,<lb/>
+that every one thought <normalised orig="hee" auto="true">he</normalised> had been<lb/>
+mad: and lastly, before conversion he<lb/>
+did persecute Saints to strange Cities,<lb/>
+but afterwards he did go preaching of the<lb/>
+Gospel to strange Cities: Oh my Beloved,<lb/>
+let <normalised orig="Pauls" auto="true">Paul's</normalised> pattern be your rask, <normalised orig="cal" auto="true">call</normalised><lb/>
+to <normalised orig="minde" auto="true">mind</normalised> your sin and <normalised orig="wickednesse" auto="true">wickedness</normalised> in<lb/>
+your unconverted condition, but so that<lb/>
+it may provoke you, that now you are<lb/>
+converted, you may labour to abound<lb/>
+in grace, as formerly you have abounded<lb/>
+in sin.<lb/>
+3. Another reason why God will<lb/>
+have us call to <normalised orig="minde" auto="true">mind</normalised> the sin and misery<lb/>
+we were in before conversion, is, because<lb/>
+this will be a means to kindle a great deal<lb/>
+of pity and compassion in our souls, towards<lb/>
+those that remain yet unconverted:<lb/>
+this the Apostle exhorts us to in Tit.3.2,3.<lb/>
+                  <quote type="biblical" ana="Titus 3.2">Speak <normalised orig="evill" auto="true">evil</normalised> of no man,</quote> <normalised orig="sayes" auto="true">says</normalised> he, <quote type="biblical" ana="Titus 3.2-3">be no brawler,<lb/>
+but gentle, <normalised orig="Shewing" auto="true">Showing</normalised> all <normalised orig="meeknesse" auto="true">meekness</normalised> unto all men,<lb/>
+for we our selves also were sometime foolish, disobedient,<lb/>
+deceived, serving divers lusts and<lb/>
+pleasures, living in malice and envy, <normalised orig="hatefull" auto="true">hateful</normalised>,<lb/>
+and hating one another;</quote> as if the Apostle<lb/>
+                  <pb n="11"/>
+                  <lb/>
+should have said, I Paul, and thou Titus,<lb/>
+we were sinful as <normalised orig="wel" auto="true">well</normalised> as they, and did<lb/>
+serve divers lusts as <normalised orig="wel" auto="true">well</normalised> as they once, let<lb/>
+us therefore be pitiful, and merciful,<lb/>
+and compassionate towards them, this<lb/>
+consideration <normalised orig="wil" auto="true">will</normalised> greatly provoke us to<lb/>
+commiserate poor sinful souls; the great<lb/>
+reason why we pity them no more then<lb/>
+we do, is because we do not <normalised orig="cal" auto="true">call</normalised> to mind<lb/>
+our own <normalised orig="sinfulnesse" auto="true">sinfulness</normalised>, and what we were before<lb/>
+conversion.<lb/>
+4. Another reason may be this,<lb/>
+because<lb/>
+the consideration of our former misery,<lb/>
+will greatly abate pride in the<lb/>
+hearts of converted men; this will be a<lb/>
+great means to abate and keep under<lb/>
+pride, and advance humility in the hearts<lb/>
+of Gods people: Beloved, a good man<lb/>
+naturally is apt to be proud, we are not<lb/>
+proud of our sins, but of our graces;<lb/>
+pride is apt to grow in the best mans<lb/>
+heart, and therefore God would have us<lb/>
+sometime look back upon what we were<lb/>
+in our unconverted estate, that so that<lb/>
+might abate the pride of our spirits: you<lb/>
+have an excellent place for this in<lb/>
+Ezek. 16.3,4,5. compared with the last<lb/>
+verse of that chapter. <normalised orig="Sayes" auto="true">Says</normalised> God there to<lb/>
+Jerusalem, <quote type="biblical" ana="Ezek 16.3-5">Thy Birth and thy Nativity is of<lb/>
+the land of Cannan; thy Father was an Amorite,<lb/>
+and thy mother an Hittite; and as for thy<lb/>
+Nativity, in the day that thou <normalised orig="wast" auto="false">were</normalised> born, thy<lb/>
+                     <pb n="12"/>
+                     <lb/>
+Navill was not cut, neither <normalised orig="wert" auto="true">were</normalised> thou washed in<lb/>
+water to supple thee, no eye pitied thee to do any<lb/>
+of these unto thee, but thou <normalised orig="wert" auto="true">were</normalised> cast out into<lb/>
+the open field, to the loathing of thy person in<lb/>
+the day that thou <normalised orig="wast" auto="false">were</normalised> born</quote>; <quote type="biblical" ana="Ezek 16.63">that thou <normalised orig="maist" auto="true">may</normalised><lb/>
+remember, and be confounded, and never open<lb/>
+thy mouth any more, because thy shame, when<lb/>
+I am pacified towards thee for all that thou <normalised orig="hast" auto="true">have</normalised><lb/>
+done, saith the Lord:</quote> They must<lb/>
+remember<lb/>
+their guilt and their shame when God<lb/>
+is pacified towards them, and when God<lb/>
+is reconciled to them; and so you have<lb/>
+another place for the same purpose, in<lb/>
+Ezek. 20. 43. <quote type="biblical" ana="Ezek 20.43">And there shall you remember<lb/>
+your <normalised orig="wayes" auto="true">ways</normalised>, and your doings, wherein you have<lb/>
+been defiled, and you <normalised orig="shal" auto="true">shall</normalised> loath your selves in your<lb/>
+sight, for <normalised orig="al" auto="true">all</normalised> the evil that you have committed.</quote>
+                  <lb/>
+I remember what Plutarch relates of one<lb/>
+Agathocles, who was advanced from a potters<lb/>
+son, a low, mean, and contemptible<lb/>
+condition, to be King of Sicilie, this man<lb/>
+when he might have been served every<lb/>
+day in golden dishes, yet he would <normalised orig="stil" auto="true">still</normalised><lb/>
+have his provisions brought in earthen<lb/>
+dishes, because <normalised orig="sayes" auto="true">says</normalised> he, I may remember<lb/>
+what I was, and what I am, a potters son,<lb/>
+that so I may not be too much lifted up<lb/>
+and exalted: why, so do you remember<lb/>
+what you were, your Father a potter, and<lb/>
+you a poor miserable <normalised orig="sinfull" auto="true">sinful</normalised> creature,<lb/>
+and this will abate the pride of your<lb/>
+hearts.<lb/>
+                  <pb n="13"/>
+                  <lb/>
+5. And lastly, God <normalised orig="wil" auto="true">will</normalised> have us <normalised orig="cal" auto="true">call</normalised><lb/>
+to <normalised orig="minde" auto="true">mind</normalised> our former <normalised orig="sinfulnesse" auto="true">sinfulness</normalised>, because<lb/>
+this <normalised orig="wil" auto="true">will</normalised> make us more watchful and<lb/>
+circumspect, that we do not run again<lb/>
+into those sins that we were guilty of<lb/>
+before conversion; God would not have<lb/>
+us do it, to drive us into despair, or<lb/>
+to question our evidences for heaven,<lb/>
+but to make us humble and watchful,<lb/>
+that we run not again into the same sins.<lb/>
+Thou <normalised orig="maist" auto="true">may</normalised> thus think with thy self,<lb/>
+Before conversion, I spent my <normalised orig="dayes" auto="true">days</normalised> in<lb/>
+sin and <normalised orig="wickednesse" auto="true">wickedness</normalised>, and consumed my<lb/>
+years in vanity and pleasures, in fulfilling<lb/>
+the lusts of the flesh and of the mind;<lb/>
+and the consideration of this, will lay an<lb/>
+engagement upon thy soul, to walk<lb/>
+more carefully, and prudently, and holily<lb/>
+in time to come; this the Apostle<lb/>
+makes use of, in Ephes. 5.8. <quote type="biblical" ana="Eph 5.8">You were sometimes<lb/>
+<normalised orig="darknesse" auto="true">darkness</normalised></quote> (saith he) <quote type="biblical" ana="Eph 5.8">but now are you light<lb/>
+in the Lord, walk therefore as children of the<lb/>
+light;</quote> we should now hate and <normalised orig="abhorre" auto="true">abhor</normalised><lb/>
+those sins that formerly we have delighted<lb/>
+in.<lb/>
+These are the reasons of the point; I<lb/>
+<normalised orig="shal" auto="true">shall</normalised> only make one short use of it;<lb/>
+which <normalised orig="shal" auto="true">shall</normalised> be of reprehension to those,<lb/>
+that (notwithstanding it is the will of<lb/>
+God, that men after conversion should<lb/>
+<normalised orig="cal" auto="true">call</normalised> to <normalised orig="minde" auto="true">mind</normalised> the sin they were guilty of<lb/>
+before conversion) do yet <normalised orig="crosse" auto="true">cross</normalised> this doctrine<lb/>
+                  <pb n="14"/>
+                  <lb/>
+either in their judgement, or practice.<lb/>
+1. This reproves those that do contradict<lb/>
+this Doctrine in their judgement, and<lb/>
+think that when once they are converted,<lb/>
+they must never look back upon their<lb/>
+former <normalised orig="wretchednesse" auto="true">wretchedness</normalised>, but only now live<lb/>
+in Divine raptures, and revelations, and<lb/>
+<normalised orig="spirituall" auto="true">spiritual</normalised> <normalised orig="joyes" auto="true">joys</normalised>, and comforts; for, 1. If<lb/>
+<normalised orig="Pauls" auto="true">Paul's</normalised> precept be warrantable, then this<lb/>
+opinion is unwarrantable, for he <normalised orig="tels" auto="true">tells</normalised> us<lb/>
+that we must remember what we were in<lb/>
+our unconverted estate, that we were at<lb/>
+that time without Christ, and without<lb/>
+hope, and without God in the World.<lb/>
+2. Paul <normalised orig="tels" auto="true">tells</normalised> the Ephesians, that were an<lb/>
+elected people, who were elected before<lb/>
+the beginning of the world, that they<lb/>
+must remember that they were dead in<lb/>
+trespasses and <normalised orig="sinnes" auto="true">sins</normalised> heretofore, though<lb/>
+now they were quickened: and if Paul<lb/>
+bids them call to <normalised orig="minde" auto="true">mind</normalised> their former<lb/>
+<normalised orig="sinfulnesse" auto="true">sinfulness</normalised>, then why should not we do<lb/>
+it?<lb/>
+2. This reproves those that though<lb/>
+they do not deny this Doctrine in judgement,<lb/>
+yet do not make it their practise, to<lb/>
+call to <normalised orig="minde" auto="true">mind</normalised> their former sins that they<lb/>
+were guilty of before conversion: I dare<lb/>
+warrant, that many of you can remember<lb/>
+what you have done, and what debts<lb/>
+have been owing you twenty years <normalised orig="agoe" auto="true">ago</normalised>,<lb/>
+                  <fw type="pageNum" n="16">15</fw>
+                  <pb n="15"/>
+                  <lb/>
+but yet cannot <normalised orig="cal" auto="true">call</normalised> to <normalised orig="minde" auto="true">mind</normalised> what sins<lb/>
+you have committed 20. <normalised orig="yeares" auto="true">years</normalised> <normalised orig="agoe" auto="true">ago</normalised>, it<lb/>
+may be some of you have been cheaters<lb/>
+and swearers, adulterers and prophaners,<lb/>
+and yet now you never think of it, but<lb/>
+imagine all is well: I <normalised orig="doe" auto="true">do</normalised> not know<lb/>
+how to <normalised orig="expresse" auto="true">express</normalised> what sad, <normalised orig="dismall" auto="true">dismal</normalised> and<lb/>
+deplorable condition thy poor soul is in,<lb/>
+thou that <normalised orig="dost" auto="true">do</normalised> never call to mind thy<lb/>
+former sins: But thus much shall suffice<lb/>
+for this first Doctrine.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

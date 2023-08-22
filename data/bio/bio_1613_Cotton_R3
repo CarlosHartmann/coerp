@@ -1,0 +1,1219 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mirror of martyrs</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ClCo1613t">Cotton, Clement</author>
+               <title type="main">The mirror of martyrs. In a short view lively expressing the force of their Faith, the <normalised orig="feruency" auto="true">fervency</normalised> of their <normalised orig="Loue" auto="true">Love</normalised>, the <normalised orig="wisedome" auto="true">wisdom</normalised> of their Sayings, the patience of their <normalised orig="Suffrings" auto="true">Sufferings</normalised>, &amp;c.. With their Prayers and preparation for their last farewell.</title>
+               <title type="short">Mirror of martyrs</title>
+               <date when="1613">1613</date>
+               <date type="this_edition" when="1613">1613</date>
+               <idno type="STC">5848</idno>
+               <note type="genre" subtype="biography">biography</note>
+               <note type="sample" target="#ClCo1613t_1613_biography_1">p.23, l.1 – p.61, l.9</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>duodecimo</notvariant></term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ClCo1613t_1613_biography_1">
+            <div>
+               <head>Robert <normalised orig="Glouer" auto="true">Glover</normalised> Gen.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Mr. <notvariant>Glover</notvariant> a day<lb/>
+or <normalised orig="twoo" auto="true">two</normalised> before <normalised orig="hee" auto="true">he</normalised><lb/>
+should <normalised orig="bee" auto="false">be</normalised> burnt, felt his<lb/>
+heart so lumpish and heavy,<lb/>
+that <normalised orig="hee" auto="true">he</normalised> found in <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+no <normalised orig="aptnes" auto="false">aptness</normalised> nor <normalised orig="willingnesse" auto="true">willingness</normalised><lb/>
+to die, but rather a<lb/>
+<normalised orig="dulnesse" auto="true">dullness</normalised> of Spirit full of<lb/>
+much discomfort to <normalised orig="beare" auto="true">bear</normalised><lb/>
+the bitter <normalised orig="Crosse" auto="true">Cross</normalised> of <normalised orig="Martyrdome" auto="true">Martyrdom</normalised><lb/>
+ready now to <normalised orig="bee" auto="false">be</normalised><lb/>
+<normalised orig="layd" auto="true">laid</normalised> <normalised orig="vppon" auto="true">upon</normalised> him: <normalised orig="Wherevpon" auto="true">Whereupon</normalised>,<lb/>
+                  <choice ana="illegible">
+                     <sic>*<notvariant>earing</notvariant></sic>
+                     <corr>fearing</corr>
+                  </choice> in <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+least the Lord had <normalised orig="vtterly" auto="true">utterly</normalised><lb/>
+<normalised orig="withdrawen" auto="true">withdrawn</normalised> his wonted favour<lb/>
+from him; <choice ana="illegible">
+                     <sic>*e</sic>
+                     <corr>he</corr>
+                  </choice> made<lb/>
+his <normalised orig="moane" auto="true">moan</normalised> to one <normalised orig="Avgvstine" auto="false">Augustine</normalised><lb/>
+                  <choice ana="illegible">
+                     <sic>B*<notvariant>rnhere</notvariant></sic>
+                     <corr><notvariant>Bernhere</notvariant></corr>
+                  </choice> his<lb/>
+<normalised orig="deere" auto="true">dear</normalised> friend, signifying <normalised orig="vnto" auto="true">unto</normalised><lb/>
+                  <pb n="2"/>
+                  <lb/>
+him how earnestly <normalised orig="hee" auto="true">he</normalised><lb/>
+had <normalised orig="praied" auto="true">prayed</normalised> <normalised orig="vnto" auto="true">unto</normalised> the Lord,<lb/>
+and yet could <normalised orig="receiue" auto="true">receive</normalised> no<lb/>
+motion nor <normalised orig="sence" auto="true">sense</normalised> of any<lb/>
+comfort from him.<lb/>
+To <normalised orig="whome" auto="true">whom</normalised> the <normalised orig="sayd" auto="true">said</normalised> Austen<lb/>
+answering, desired him<lb/>
+<normalised orig="patie~tly" auto="false">patiently</normalised> to <normalised orig="waite" auto="true">wait</normalised> the Lords<lb/>
+leisure, <normalised orig="howsoeuer" auto="true">howsoever</normalised> his present<lb/>
+feeling was; and to<lb/>
+play the man, nothing<lb/>
+doubting but the Lord in<lb/>
+due season would <normalised orig="satisfie" auto="true">satisfy</normalised><lb/>
+his desire with <normalised orig="plentie" auto="true">plenty</normalised> of<lb/>
+Consolation, whereof <normalised orig="hee" auto="true">he</normalised><lb/>
+<normalised orig="sayd" auto="true">said</normalised> <normalised orig="hee" auto="true">he</normalised> was right <normalised orig="certaine" auto="true">certain</normalised><lb/>
+and sure: and therefore desired<lb/>
+him <normalised orig="whensoeuer" auto="true">whenever</normalised> any<lb/>
+feeling of Gods heavenly<lb/>
+mercies should begin to<lb/>
+touch his heart, that <normalised orig="hee" auto="true">he</normalised><lb/>
+would <normalised orig="giue" auto="true">give</normalised> him some <normalised orig="signe" auto="true">sign</normalised><lb/>
+thereof.<lb/>
+                  <fw type="pageNum" n="25">24</fw>
+                  <pb n="3"/>
+                  <lb/>
+The next day when the<lb/>
+time of his <normalised orig="Martyrdome" auto="true">Martyrdom</normalised><lb/>
+was come, and as <normalised orig="hee" auto="true">he</normalised> was<lb/>
+going to the stake &amp; come<lb/>
+to the sight of it, albeit all<lb/>
+the night before <normalised orig="prayjng" auto="false">praying</normalised><lb/>
+for comfort and courage,<lb/>
+<normalised orig="hee" auto="true">he</normalised> felt no <normalised orig="answere" auto="true">answer</normalised> of his<lb/>
+<normalised orig="praier" auto="true">prayer</normalised>: <normalised orig="sodainely" auto="true">suddenly</normalised> he was<lb/>
+so mightily replenished<lb/>
+with the comfort of Gods<lb/>
+holy Spirit and heavenly<lb/>
+<normalised orig="joies" auto="false">joys</normalised>, that <normalised orig="hee" auto="true">he</normalised> cried out<lb/>
+clapping his hands to Austen<lb/>
+<normalised orig="sayjng" auto="false">saying</normalised> these words, <normalised orig="hee" auto="true">he</normalised><lb/>
+is come Austen, <normalised orig="hee" auto="true">he</normalised> is come,<lb/>
+<normalised orig="hee" auto="true">he</normalised> is come: and that with<lb/>
+such joy and <normalised orig="alacritie" auto="true">alacrity</normalised> as<lb/>
+one seeming rather to <normalised orig="bee" auto="false">be</normalised><lb/>
+risen from some deadly<lb/>
+danger to liberty of life,<lb/>
+then as one passing out of<lb/>
+this world by any <normalised orig="paines" auto="true">pains</normalised> of<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="26">C</fw>
+                  <pb n="4"/>
+                  <lb/>
+death.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>M. <normalised orig="Iohn" auto="true">John</normalised> <notvariant>Lambart</notvariant>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+<normalised orig="IOhn" auto="true">John</normalised> <notvariant>Lambart</notvariant> having<lb/>
+his <normalised orig="nether" auto="false">neither</normalised> parts<lb/>
+consumed with fire, lifting<lb/>
+<normalised orig="vp" auto="true">up</normalised> such hands as <normalised orig="hee" auto="true">he</normalised> had,<lb/>
+and his fingers ends flaming<lb/>
+with fire, <normalised orig="cryed" auto="true">cried</normalised> to the<lb/>
+people, None but Christ,<lb/>
+None but Christ.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Adam <notvariant>Damplip</notvariant>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+THis good man <normalised orig="beejng" auto="false">beeing</normalised><lb/>
+advertised by his<lb/>
+keeper that his execution<lb/>
+drew <normalised orig="neere" auto="true">near</normalised>, was never seen<lb/>
+to <normalised orig="quaile" auto="true">quail</normalised>, but was as <normalised orig="merrie" auto="true">merry</normalised>,<lb/>
+and <normalised orig="eate" auto="true">eat</normalised> his supper<lb/>
+                  <pb n="5"/>
+                  <lb/>
+that night as <normalised orig="chearefully" auto="true">cheerfully</normalised><lb/>
+as ever <normalised orig="hee" auto="true">he</normalised> did in all his<lb/>
+life; at which his keeper<lb/>
+and the rest of the prisoners<lb/>
+<normalised orig="wondring" auto="true">wondering</normalised>, asked him<lb/>
+how <normalised orig="hee" auto="true">he</normalised> could take such<lb/>
+<normalised orig="newes" auto="true">news</normalised> so <normalised orig="chearefully" auto="true">cheerfully</normalised>: Ah<lb/>
+my <normalised orig="Maisters" auto="true">Masters</normalised> <normalised orig="sayth" auto="true">saith</normalised> he, <normalised orig="doe" auto="false">do</normalised> <normalised orig="yee" auto="true">ye</normalised><lb/>
+<normalised orig="thinke" auto="true">think</normalised> I <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> thus long<lb/>
+Gods prisoner in the <normalised orig="Marshalsey" auto="false">Marshalcy</normalised>,<lb/>
+and <normalised orig="haue" auto="true">have</normalised> not yet learned<lb/>
+to die? Yes, yes, I doubt<lb/>
+not but God will strengthen<lb/>
+me therein.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head><notvariant>Kerby</notvariant> Martyr.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+ONe <notvariant>Kerby</notvariant> <normalised orig="beeing" auto="true">being</normalised><lb/>
+<normalised orig="councelled" auto="false">counselled</normalised> by M.<lb/>
+<notvariant>Winkfield</notvariant> to <normalised orig="pittie" auto="true">pity</normalised><lb/>
+<normalised orig="himselfe" auto="true">himself</normalised>, and to take no<lb/>
+more <normalised orig="vppon" auto="true">upon</normalised> him then <normalised orig="hee" auto="true">he</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum" n="28">C2</fw>
+                  <pb n="6"/>
+                  <lb/>
+should <normalised orig="bee" auto="false">be</normalised> able to <normalised orig="performe" auto="true">perform</normalised>:<lb/>
+the fire saith <normalised orig="hee" auto="true">he</normalised><lb/>
+is hot, the <normalised orig="terrour" auto="true">terror</normalised> is great,<lb/>
+the <normalised orig="paine" auto="true">pain</normalised> <normalised orig="wilbe" auto="true">will be</normalised> <normalised orig="extreame" auto="true">extreme</normalised>,<lb/>
+and life is sweet. To whom<lb/>
+<notvariant>Kerby</notvariant> answered, M.<lb/>
+<notvariant>Winkfield</notvariant> be at my burning,<lb/>
+and you shall say, there<lb/>
+<normalised orig="standeth" auto="true">stands</normalised> a Christian <normalised orig="Souldier" auto="true">Soldier</normalised><lb/>
+in the fire. For I know that<lb/>
+Fire, and Water, Sword, and<lb/>
+all other things are in the <normalised orig="ha~ds" auto="false">hands</normalised><lb/>
+of God, who will suffer no more<lb/>
+to <normalised orig="bee" auto="false">be</normalised> <normalised orig="layd" auto="true">laid</normalised> <normalised orig="vppon" auto="true">upon</normalised> <normalised orig="vs" auto="false">us</normalised> then <normalised orig="hee" auto="true">he</normalised><lb/>
+will <normalised orig="giue" auto="true">give</normalised> strength to <normalised orig="beare" auto="true">bear</normalised>.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Thomas <notvariant>Bilney</notvariant>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Mr. Thomas <notvariant>Bilney</notvariant><lb/>
+<normalised orig="beeing" auto="true">being</normalised> put in<lb/>
+mind, that though the fire<lb/>
+which he should suffer the<lb/>
+                  <pb n="7"/>
+                  <lb/>
+next day should be of great<lb/>
+heat <normalised orig="vnto" auto="true">unto</normalised> his body, yet<lb/>
+the comfort of Gods spirit<lb/>
+should <normalised orig="coole" auto="true">cool</normalised> it to his <normalised orig="euerlasting" auto="true">everlasting</normalised><lb/>
+comfort and refreshing:<lb/>
+At those words<lb/>
+putting his finger towards<lb/>
+the flame of the candle <normalised orig="the~" auto="true">then</normalised><lb/>
+burning before them (as<lb/>
+also <normalised orig="hee" auto="true">he</normalised> <normalised orig="diuers" auto="true">divers</normalised> times did)<lb/>
+and feeling the heat thereof,<lb/>
+O <normalised orig="sayd" auto="true">said</normalised> <normalised orig="hee" auto="true">he</normalised> I <normalised orig="feele" auto="true">feel</normalised> by experience<lb/>
+and <normalised orig="haue" auto="true">have</normalised> <normalised orig="knowne" auto="true">known</normalised> it long<lb/>
+by Philosophy, that fire by gods<lb/>
+ordinance is naturally hot, but<lb/>
+yet I am <normalised orig="perswaded" auto="true">persuaded</normalised> by Gods<lb/>
+holy word, and by <choice ana="print">
+                     <sic><notvariant>th'experience</notvariant></sic>
+                     <corr>the experience</corr>
+                  </choice>
+                  <lb/>
+of some spoken of in the<lb/>
+same, that in the flame they<lb/>
+felt no heat, and in the fire they<lb/>
+felt no consumption: And I<lb/>
+constantly <normalised orig="beleeue" auto="true">believe</normalised>; that <normalised orig="howsoeuer" auto="true">howsoever</normalised><lb/>
+the stubble of this my body<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="30">C3</fw>
+                  <pb n="8"/>
+                  <lb/>
+<normalised orig="shalbe" auto="true">shall be</normalised> wasted by it, yet my<lb/>
+<normalised orig="Soule" auto="true">Soul</normalised> and Spirit shall be purged<lb/>
+thereby. A <normalised orig="paine" auto="true">pain</normalised> for the<lb/>
+time: after which notwithstanding<lb/>
+<normalised orig="followeth" auto="true">follows</normalised> <normalised orig="vnspeakeable" auto="true">unspeakable</normalised><lb/>
+<normalised orig="Ioy" auto="true">Joy</normalised>. And then entreated<lb/>
+notably <normalised orig="vpon" auto="true">upon</normalised> the first and<lb/>
+second verses of the 43<lb/>
+Chap. of <notvariant>Isaias</notvariant>, which <normalised orig="sente~ces" auto="false">sentences</normalised><lb/>
+for the joy &amp; <normalised orig="co~fort" auto="false">comfort</normalised><lb/>
+some of his friends <normalised orig="tooke" auto="true">took</normalised><lb/>
+in them, caused them to be<lb/>
+<normalised orig="faire" auto="true">fair</normalised> written out; the comfort<lb/>
+whereof they left not<lb/>
+to their <normalised orig="dyjng" auto="false">dying</normalised> day. The<lb/>
+<normalised orig="sayd" auto="true">said</normalised> <notvariant>Bilney</notvariant> <normalised orig="beeing" auto="true">being</normalised> visited<lb/>
+by certain of his <normalised orig="frie~ds" auto="false">friends</normalised><lb/>
+the night before he <normalised orig="suffred" auto="true">suffered</normalised>,<lb/>
+they found him eating an<lb/>
+<notvariant>Alebrew</notvariant> with such a <normalised orig="cherefull" auto="false">cheerful</normalised><lb/>
+heart and quiet <normalised orig="minde" auto="true">mind</normalised>,<lb/>
+as made them wonder<lb/>
+thereat, saying, they were<lb/>
+                  <fw type="pageNum" n="31">30</fw>
+                  <pb n="9"/>
+                  <lb/>
+not a <choice ana="illegible">
+                     <sic>l*<notvariant>ttle</notvariant></sic>
+                     <corr>little</corr>
+                  </choice> glad so see him<lb/>
+at that time so <normalised orig="cheerefully" auto="true">cheerfully</normalised><lb/>
+to refresh <normalised orig="himselfe" auto="true">himself</normalised>. To<lb/>
+<normalised orig="whome" auto="true">whom</normalised> <normalised orig="hee" auto="true">he</normalised> made this <normalised orig="answere" auto="true">answer</normalised>,<lb/>
+Oh <normalised orig="sayd" auto="true">said</normalised> he, I follow the<lb/>
+example of the <normalised orig="Husbandmen" auto="false">Husbandman</normalised><lb/>
+in the <normalised orig="Countrie" auto="true">Country</normalised>, who <normalised orig="hauing" auto="true">having</normalised> a<lb/>
+ruinous house to dwell in, <normalised orig="doe" auto="false">do</normalised><lb/>
+yet bestow cost as long as they<lb/>
+<normalised orig="remaine" auto="true">remain</normalised> in it, to <normalised orig="vphold" auto="true">uphold</normalised> the<lb/>
+same: And so do I now with<lb/>
+this ruinous house of my body;<lb/>
+refreshing the same as you see,<lb/>
+with these good creatures of<lb/>
+God.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head><normalised orig="Iames" auto="true">James</normalised> <notvariant>Baynam</notvariant>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+THis <notvariant>Baynam</notvariant> as <normalised orig="hee" auto="true">he</normalised><lb/>
+stood at the stake in<lb/>
+the midst of the flaming<lb/>
+fire, which fire had <normalised orig="halfe" auto="true">half</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum" n="32">C4</fw>
+                  <pb n="10"/>
+                  <lb/>
+consumed his <normalised orig="armes" auto="true">arms</normalised> and<lb/>
+his <normalised orig="legges" auto="true">legs</normalised>, <normalised orig="hee" auto="true">he</normalised> was heard<lb/>
+to <normalised orig="speake" auto="true">speak</normalised> these words, O<lb/>
+<normalised orig="yee" auto="true">ye</normalised> <notvariant>Papists</notvariant>. Behold <normalised orig="yee" auto="true">ye</normalised> <normalised orig="looke" auto="true">look</normalised><lb/>
+for Miracles, and <normalised orig="heere" auto="true">here</normalised> <normalised orig="yee" auto="true">ye</normalised><lb/>
+may see a Miracle: for in this<lb/>
+fire I <normalised orig="feele" auto="true">feel</normalised> no more <normalised orig="paine" auto="true">pain</normalised> then<lb/>
+if I were in a bed of down; but it<lb/>
+is to me as sweet as a bed of<lb/>
+Roses.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Henry <notvariant>Voes</notvariant>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+THe like <normalised orig="speach" auto="true">speech</normalised> I <normalised orig="finde" auto="true">find</normalised><lb/>
+of a young man burnt<lb/>
+at <normalised orig="Bruxels" auto="false">Brussels</normalised>, who when the<lb/>
+fire was kindled at his feet,<lb/>
+<normalised orig="sayd" auto="true">said</normalised>, me thinks you strew Roses<lb/>
+<normalised orig="vnder" auto="true">under</normalised> my <normalised orig="feete" auto="true">feet</normalised>.<lb/>
+                  <pb n="11"/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Hugh <notvariant>Laverocke</notvariant>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+THis <notvariant>Laverocke</notvariant> a lame<lb/>
+<normalised orig="Creple" auto="false">Cripple</normalised>, &amp; <normalised orig="Iohn" auto="true">John</normalised> <notvariant>Apprice</notvariant><lb/>
+a blind man, being<lb/>
+chained both of them to<lb/>
+the stake; <notvariant>Laverock</notvariant><lb/>
+casting away his Crutch,<lb/>
+and comforting his fellow<lb/>
+Martyr, <normalised orig="sayd" auto="true">said</normalised>, Be of good<lb/>
+comfort my brother, for my L.<lb/>
+of London is our good <normalised orig="Phisition" auto="true">Physician</normalised>,<lb/>
+<normalised orig="Hee" auto="true">He</normalised> will shortly cure <normalised orig="vs" auto="false">us</normalised><lb/>
+both: thee of thy <normalised orig="blindnes" auto="true">blindness</normalised>,<lb/>
+and me of my <normalised orig="lamenesse" auto="true">lameness</normalised>.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>William Hunter.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+WIlliam <normalised orig="Hvnter" auto="false">Hunter</normalised><lb/>
+<normalised orig="appre~tice" auto="false">apprentice</normalised> of<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="34">C5</fw>
+                  <pb n="12"/>
+                  <lb/>
+the age of 19 <normalised orig="yeares" auto="true">years</normalised> standing<lb/>
+at the stake, <normalised orig="sayd" auto="true">said</normalised>, Son<lb/>
+of God shine <normalised orig="vppon" auto="true">upon</normalised> me: and<lb/>
+<normalised orig="jmediately" auto="false">immediately</normalised> the Son in the<lb/>
+Element shone out of a<lb/>
+<normalised orig="darke" auto="true">dark</normalised> cloud (for it was a<lb/>
+<normalised orig="glomie" auto="false">gloomy</normalised> day) so full in his<lb/>
+face, that <normalised orig="hee" auto="true">he</normalised> was constrained<lb/>
+to <normalised orig="turne" auto="true">turn</normalised> his face an other<lb/>
+way. The <normalised orig="sayd" auto="true">said</normalised> William<lb/>
+<normalised orig="Hvnter" auto="false">Hunter</normalised> <normalised orig="beeing" auto="true">being</normalised><lb/>
+brought <normalised orig="downe" auto="true">down</normalised> from London<lb/>
+to be burnt: remained<lb/>
+by the way two <normalised orig="dayes" auto="true">days</normalised> at<lb/>
+<notvariant>Burntwood</notvariant>, whether his Father<lb/>
+and Mother came to<lb/>
+comfort him, who <normalised orig="heartely" auto="true">heartily</normalised><lb/>
+desired of God that <normalised orig="hee" auto="true">he</normalised><lb/>
+might <normalised orig="co~tinue" auto="false">continue</normalised> in the good<lb/>
+way <normalised orig="hee" auto="true">he</normalised> had begun, <normalised orig="vnto" auto="true">unto</normalised><lb/>
+the end; and his mother<lb/>
+<normalised orig="sayd" auto="true">said</normalised> <normalised orig="vnto" auto="true">unto</normalised> him, that <normalised orig="shee" auto="true">she</normalised> was<lb/>
+glad <normalised orig="shee" auto="true">she</normalised> was <normalised orig="euer" auto="true">ever</normalised> so happy as<lb/>
+                  <fw type="pageNum" n="35">34</fw>
+                  <pb n="13"/>
+                  <lb/>
+to <normalised orig="beare" auto="true">bear</normalised> such a <normalised orig="Sonne" auto="true">Son</normalised> who<lb/>
+could find in his heart to loose<lb/>
+his life for Christs sake. Then<lb/>
+said William to his mother:<lb/>
+For my little <normalised orig="paine" auto="true">pain</normalised> which<lb/>
+I shall suffer which is also but<lb/>
+for a moment, Christ <normalised orig="hath" auto="false">has</normalised> promised<lb/>
+me Mother (saith he)<lb/>
+a <normalised orig="Crowne" auto="true">Crown</normalised> of life. And may<lb/>
+not you <normalised orig="bee" auto="false">be</normalised> glad of that Mother?<lb/>
+With that his Mother<lb/>
+<normalised orig="kneeled" auto="false">knelled</normalised> <normalised orig="downe" auto="true">down</normalised> on her<lb/>
+knees, <normalised orig="sayjng" auto="false">saying</normalised>, I pray GOD<lb/>
+strengthen thee my <normalised orig="Sonne" auto="true">Son</normalised> <normalised orig="vnto" auto="true">unto</normalised><lb/>
+the end. And I <normalised orig="thinke" auto="true">think</normalised><lb/>
+thee as well bestowed as any<lb/>
+Child that <normalised orig="euer" auto="true">ever</normalised> I bare. At<lb/>
+which words M. <notvariant>Higbed</notvariant><lb/>
+(one that was then to suffer<lb/>
+for the same cause) <normalised orig="tooke" auto="true">took</normalised><lb/>
+her in his <normalised orig="armes" auto="true">arms</normalised>, <normalised orig="sayjng" auto="false">saying</normalised>, I<lb/>
+<normalised orig="rejoyce" auto="true">rejoice</normalised> much to see you<lb/>
+in this mind, and you <normalised orig="haue" auto="true">have</normalised><lb/>
+                  <fw type="pageNum" n="36">35</fw>
+                  <pb n="14"/>
+                  <lb/>
+good cause so to <normalised orig="doe" auto="false">do</normalised>.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Robert Samuel.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+Mr. Robert <normalised orig="Samvel" auto="false">Samuel</normalised><lb/>
+Minister, was<lb/>
+kept in <normalised orig="streight" auto="true">straight</normalised> prison by<lb/>
+the Bishops Chancellor of<lb/>
+Norwich: Wherein<lb/>
+<normalised orig="hee" auto="true">he</normalised> was chained <normalised orig="boult" auto="true">bolt</normalised> <normalised orig="vpright" auto="true">upright</normalised><lb/>
+to a great post, in<lb/>
+such sort, that standing only<lb/>
+on tip-toe, <normalised orig="hee" auto="true">he</normalised> was <normalised orig="faine" auto="true">fine</normalised><lb/>
+to stay <normalised orig="vp" auto="true">up</normalised> the whole <normalised orig="poyse" auto="true">poise</normalised><lb/>
+of his body thereby. And<lb/>
+to make amends, they added<lb/>
+a far greater torment,<lb/>
+keeping him without meat<lb/>
+and <normalised orig="drinke" auto="true">drink</normalised>, whereby <normalised orig="hee" auto="true">he</normalised><lb/>
+was <normalised orig="miserablie" auto="true">miserably</normalised> vexed with<lb/>
+hunger and thirst, saving<lb/>
+that <normalised orig="hee" auto="true">he</normalised> had allowed him<lb/>
+                  <pb n="15"/>
+                  <lb/>
+every day 2 or 3 mouthfuls<lb/>
+of bread and 3 spoonfuls<lb/>
+of water, rather to <normalised orig="reserue" auto="true">reserve</normalised><lb/>
+him to further torment,<lb/>
+then to <normalised orig="preserue" auto="true">preserve</normalised> his<lb/>
+life. O the worthy constancy<lb/>
+of the Martyr! O <normalised orig="pitilesse" auto="true">pitiless</normalised><lb/>
+hearts of the <notvariant>Papists</notvariant>,<lb/>
+worthy to be complained<lb/>
+of before god &amp; nature!<lb/>
+O the <normalised orig="wonderfull" auto="true">wonderful</normalised> strength<lb/>
+of Christ in his Martyrs!<lb/>
+How oft-times would <normalised orig="hee" auto="true">he</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="drunke" auto="true">drunk</normalised> his <normalised orig="owne" auto="true">own</normalised><lb/>
+water, but his body was so<lb/>
+<normalised orig="dryed" auto="true">dried</normalised> <normalised orig="vp" auto="true">up</normalised> with long <normalised orig="emptines" auto="false">emptiness</normalised>,<lb/>
+that <normalised orig="hee" auto="true">he</normalised> was not able<lb/>
+to make water, no not so<lb/>
+much as one drop.<lb/>
+Now after he had <normalised orig="beene" auto="true">been</normalised><lb/>
+thus long famished with<lb/>
+hunger (see a strange thing<lb/>
+that happened to him, of<lb/>
+                  <fw type="pageNum" n="38">37</fw>
+                  <pb n="16"/>
+                  <lb/>
+which <normalised orig="himselfe" auto="true">himself</normalised> was the reporter)<lb/>
+he fell as it were into<lb/>
+a slumber, at which time<lb/>
+one clad all in white, seemed<lb/>
+to stand before him:<lb/>
+which <normalised orig="ministred" auto="true">ministered</normalised> comfort<lb/>
+<normalised orig="vnto" auto="true">unto</normalised> him, by these words,<lb/>
+<normalised orig="Samuell" auto="false">Samuel</normalised>, <normalised orig="Samuell" auto="false">Samuel</normalised> be of good<lb/>
+<normalised orig="cheare" auto="true">cheer</normalised>, and take a good heart<lb/>
+<normalised orig="vnto" auto="true">unto</normalised> thee: for after this day,<lb/>
+thou shalt never hunger nor<lb/>
+thirst: Which thing came<lb/>
+even to <normalised orig="passe" auto="true">pass</normalised> accordingly:<lb/>
+for speedily after <normalised orig="hee" auto="true">he</normalised> was<lb/>
+burned, and from the time<lb/>
+till <normalised orig="hee" auto="true">he</normalised> should suffer he felt<lb/>
+neither hunger nor thirst.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Cut. Simpson, Deacon.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+<normalised orig="CVtbert" auto="false">cutbert</normalised> <notvariant>Sympsons</notvariant> patience<lb/>
+was thus commended<lb/>
+                  <pb n="17"/>
+                  <lb/>
+by Bishop Boner:<lb/>
+<normalised orig="ye" auto="false">you</normalised> see saith Boner what a<lb/>
+personable man this is: &amp;<lb/>
+touching his patience, I<lb/>
+say <normalised orig="vnto" auto="true">unto</normalised> you, that if <normalised orig="hee" auto="true">he</normalised><lb/>
+were not an <normalised orig="Hereticke" auto="true">Heretic</normalised>, I<lb/>
+would <normalised orig="affirme" auto="true">affirm</normalised> that he were<lb/>
+a man of the greatest patience<lb/>
+that ever yet came before<lb/>
+me. For I tell you, <normalised orig="hee" auto="true">he</normalised><lb/>
+<normalised orig="hath" auto="false">has</normalised> been thrice racked in<lb/>
+one day. Also in my house<lb/>
+<normalised orig="hee" auto="true">he</normalised> <normalised orig="hath" auto="false">has</normalised> felt some sorrow,<lb/>
+and yet I never saw his patience<lb/>
+broken.<lb/>
+The day before he was <normalised orig="co~de~ned" auto="false">condemned</normalised><lb/>
+(being in the <normalised orig="stockes" auto="true">stocks</normalised><lb/>
+in the <notvariant>Bish</notvariant>: <notvariant>colehouse</notvariant>) <notvariant>Cloney</notvariant><lb/>
+his keeper came in with<lb/>
+the <normalised orig="keyes" auto="true">keys</normalised> about 9 of the<lb/>
+<normalised orig="clocke" auto="true">clock</normalised> at night after his <normalised orig="vsuall" auto="true">usual</normalised><lb/>
+manner, to view his<lb/>
+prison, and to see whether<lb/>
+                  <fw type="pageNum" n="40">39</fw>
+                  <pb n="18"/>
+                  <lb/>
+all were present: who when<lb/>
+he spied the <normalised orig="sayd" auto="true">said</normalised> <notvariant>Cutbert</notvariant><lb/>
+to be there, departed again,<lb/>
+locking the <normalised orig="dores" auto="true">doors</normalised> after<lb/>
+him.<lb/>
+Within 2 <normalised orig="houres" auto="true">hours</normalised> after at<lb/>
+a 11 of the <normalised orig="clocke" auto="true">clock</normalised> towards<lb/>
+midnight (whether awake<lb/>
+or in a slumber I cannot<lb/>
+say) <normalised orig="hee" auto="true">he</normalised> heard one <normalised orig="comming" auto="true">coming</normalised><lb/>
+in, first opening the<lb/>
+outward <normalised orig="doore" auto="true">door</normalised>, then the second;<lb/>
+and after the third<lb/>
+<normalised orig="doore" auto="true">door</normalised>, and so looking in<lb/>
+to the said <normalised orig="Cvtbert" auto="false">Cutbert</normalised>, having<lb/>
+no Candle nor <normalised orig="Linke" auto="true">Link</normalised><lb/>
+that <normalised orig="hee" auto="true">he</normalised> could see, but giving<lb/>
+a <normalised orig="brightnes" auto="true">brightness</normalised> and light<lb/>
+most <choice ana="illegible">
+                     <sic>c*<notvariant>fortable</notvariant></sic>
+                     <corr><normalised orig="co~fortable" auto="false">comfortable</normalised></corr>
+                  </choice> &amp; <normalised orig="joyfull" auto="true">joyful</normalised><lb/>
+to his heart, saying, Ha,<lb/>
+<normalised orig="vnto" auto="true">unto</normalised> him; and departed away<lb/>
+<normalised orig="againe" auto="true">again</normalised>. Who it was<lb/>
+<normalised orig="hee" auto="true">he</normalised> could not tell. But this<lb/>
+                  <pb n="19"/>
+                  <lb/>
+<normalised orig="hee" auto="true">he</normalised> declared 4 or 5 times<lb/>
+with his <normalised orig="owne" auto="true">own</normalised> mouth to<lb/>
+one M. <notvariant>Avsten</notvariant>, to his<lb/>
+wife, &amp; Thomas <notvariant>Sampson</notvariant>,<lb/>
+besides many others<lb/>
+in <notvariant>Newgate</notvariant>, a little before<lb/>
+his death. At the sight<lb/>
+whereof <normalised orig="hee" auto="true">he</normalised> received such<lb/>
+a <normalised orig="joyfull" auto="true">joyful</normalised> comfort, that <normalised orig="hee" auto="true">he</normalised><lb/>
+also expressed no little joy<lb/>
+and solace in telling of it.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head><normalised orig="Iohn" auto="true">John</normalised> Rough.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+Mr. <normalised orig="Iohn" auto="true">John</normalised> <notvariant>Rovgh</notvariant><lb/>
+Minister, having<lb/>
+<normalised orig="bin" auto="false">been</normalised> at the burning of one<lb/>
+<notvariant>Avsto</notvariant> in <notvariant>Smithfield</notvariant>, returning<lb/>
+homeward <normalised orig="mette" auto="true">met</normalised><lb/>
+M. <notvariant>Farrar</notvariant> a <normalised orig="Marchant" auto="true">Merchant</normalised><lb/>
+of Halifax, who asked where<lb/>
+<normalised orig="hee" auto="true">he</normalised> had <normalised orig="beene" auto="true">been</normalised>? I <normalised orig="haue" auto="true">have</normalised> <normalised orig="bin" auto="false">been</normalised><lb/>
+                  <pb n="20"/>
+                  <lb/>
+saith he where I would not<lb/>
+for one of mine eyes but I<lb/>
+had <normalised orig="bin" auto="false">been</normalised>. Where <normalised orig="haue" auto="true">have</normalised> you<lb/>
+been <normalised orig="sayd" auto="true">said</normalised> M. <notvariant>Farrar</notvariant>?<lb/>
+Forsooth saith <normalised orig="hee" auto="true">he</normalised>, I <normalised orig="haue" auto="true">have</normalised><lb/>
+been to <normalised orig="learne" auto="true">learn</normalised> the way. And<lb/>
+so told him the whole matter<lb/>
+of the burning of <notvariant>Avsto</notvariant>,<lb/>
+where shortly after<lb/>
+<normalised orig="hee" auto="true">he</normalised> was burned <normalised orig="himselfe" auto="true">himself</normalised>.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>D. Rowland Taylor.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+Mr. Doctor Taylor<lb/>
+<normalised orig="beeing" auto="true">being</normalised> come<lb/>
+to <notvariant>Chelmesford</notvariant> in the way<lb/>
+towards his <normalised orig="Martyrdome" auto="true">Martyrdom</normalised>,<lb/>
+was <normalised orig="receiued" auto="true">received</normalised> there of the<lb/>
+<normalised orig="Sheriffe" auto="true">Sheriff</normalised> of <normalised orig="Svffolke" auto="false">Suffolk</normalised> to<lb/>
+conduct him to <notvariant>Hadley</notvariant><lb/>
+to be burnt. At supper the<lb/>
+<normalised orig="Sheriffe" auto="true">Sheriff</normalised> of Essex <normalised orig="labored" auto="true">laboured</normalised><lb/>
+                  <pb n="21"/>
+                  <lb/>
+him with might and<lb/>
+maine to <normalised orig="haue" auto="true">have</normalised> him <normalised orig="returne" auto="true">return</normalised><lb/>
+to the <normalised orig="vnitie" auto="true">unity</normalised> of the <normalised orig="Catholique" auto="true">Catholic</normalised><lb/>
+<normalised orig="Romish" auto="true">Roman</normalised> Church, affirming<lb/>
+that that which he<lb/>
+<normalised orig="spake" auto="false">spoke</normalised> proceeded of a good<lb/>
+heart &amp; good will towards<lb/>
+him, and <normalised orig="therevpon" auto="true">thereupon</normalised> drank<lb/>
+to him: The Yeomen of<lb/>
+the Guard also <normalised orig="sayd" auto="true">said</normalised>, <normalised orig="vpon" auto="true">upon</normalised><lb/>
+that condition M. Doctor<lb/>
+we all drink to you. When<lb/>
+they had all <normalised orig="dranke" auto="true">drank</normalised>, and<lb/>
+the Cup was come to him,<lb/>
+<normalised orig="hee" auto="true">he</normalised> stayed a while as one<lb/>
+<normalised orig="studyjng" auto="false">studying</normalised> what <normalised orig="answere" auto="true">answer</normalised> <normalised orig="hee" auto="true">he</normalised><lb/>
+might <normalised orig="giue" auto="true">give</normalised>. At length he<lb/>
+<normalised orig="spake" auto="false">spoke</normalised> thus to them, M.<lb/>
+<normalised orig="Sheriffe" auto="true">Sheriff</normalised>, and my <normalised orig="Maisters" auto="true">Masters</normalised><lb/>
+all, I <normalised orig="heartely" auto="true">heartily</normalised> <normalised orig="thanke" auto="true">thank</normalised> you<lb/>
+of your good will. I <normalised orig="haue" auto="true">have</normalised><lb/>
+given <normalised orig="eare" auto="true">ear</normalised> to your words.<lb/>
+And to be <normalised orig="plaine" auto="true">plain</normalised> with you<lb/>
+                  <fw type="pageNum" n="44">43</fw>
+                  <pb n="22"/>
+                  <lb/>
+I <normalised orig="doe" auto="false">do</normalised> <normalised orig="perceiue" auto="true">perceive</normalised> that I <normalised orig="haue" auto="true">have</normalised><lb/>
+<normalised orig="bin" auto="false">been</normalised> <normalised orig="deceiued" auto="true">deceived</normalised> my <normalised orig="selfe" auto="true">self</normalised>, and<lb/>
+am like to <normalised orig="deceiue" auto="true">deceive</normalised> a great<lb/>
+many at <notvariant>Hadley</notvariant> of their<lb/>
+expectation. At which<lb/>
+<normalised orig="speach" auto="true">speech</normalised> they all <normalised orig="reioyced" auto="true">rejoiced</normalised>,<lb/>
+yea good M. Doctor <normalised orig="sayd" auto="true">said</normalised><lb/>
+the <normalised orig="Sheriffe" auto="true">Sheriff</normalised>, <normalised orig="jt" auto="true">it</normalised> is the <notvariant>comfortablest</notvariant><lb/>
+word you <normalised orig="spake" auto="false">spoke</normalised><lb/>
+yet. Why should <normalised orig="yee" auto="true">ye</normalised> cast<lb/>
+away your <normalised orig="selfe" auto="true">self</normalised> in <normalised orig="vaine" auto="true">vain</normalised>,<lb/>
+play a wise mans part, and<lb/>
+I dare warrant you, you<lb/>
+shall <normalised orig="haue" auto="true">have</normalised> favour. And<lb/>
+then they began to pray<lb/>
+him to <normalised orig="explaine" auto="true">explain</normalised> his meaning<lb/>
+further <normalised orig="vnto" auto="true">unto</normalised> them.<lb/>
+Then <normalised orig="sayd" auto="true">said</normalised> Doctor Taylor,<lb/>
+I will tell you how I am<lb/>
+<normalised orig="deceiued" auto="true">deceived</normalised> my <normalised orig="selfe" auto="true">self</normalised>, and how<lb/>
+I <normalised orig="thinke" auto="true">think</normalised> I shall <normalised orig="deceiue" auto="true">deceive</normalised> a<lb/>
+great many. I am as you see<lb/>
+a man that <normalised orig="hath" auto="false">has</normalised> a great <normalised orig="Carkasse" auto="true">Carcass</normalised>,<lb/>
+                  <fw type="pageNum" n="45">44</fw>
+                  <pb n="23"/>
+                  <lb/>
+                  <choice ana="print-error">
+                     <sic><notvariant>whicht</notvariant></sic>
+                     <corr>which</corr>
+                  </choice>
+                  <lb/>
+                  <choice ana="print-error">
+                     <sic><notvariant>Ithough</notvariant></sic>
+                     <corr>I though</corr>
+                  </choice> should<lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> buried in <notvariant>Hadley</notvariant><lb/>
+Church-yard, had I <normalised orig="dyed" auto="false">died</normalised> in<lb/>
+my bed as I well hoped I should<lb/>
+<normalised orig="haue" auto="true">have</normalised> done: but therein I see I<lb/>
+was <normalised orig="deceiued" auto="true">deceived</normalised>: And there are<lb/>
+a great many of <normalised orig="Wormes" auto="true">Worms</normalised> in<lb/>
+<notvariant>Hadley</notvariant> Church-yard that<lb/>
+should <normalised orig="haue" auto="true">have</normalised> had <normalised orig="iolly" auto="true">jolly</normalised> feeding<lb/>
+<normalised orig="vppon" auto="true">upon</normalised> this <normalised orig="Carkasse" auto="true">Carcass</normalised>, which<lb/>
+they <normalised orig="haue" auto="true">have</normalised> long looked for. But<lb/>
+now I know wee <normalised orig="bee" auto="false">be</normalised> <normalised orig="deceiued" auto="true">deceived</normalised>,<lb/>
+both I and they: for this <normalised orig="Carkasse" auto="true">Carcass</normalised><lb/>
+must be burnt to ashes,<lb/>
+and so shall they loose their bait<lb/>
+and feeding which they expected.<lb/>
+The same Morning in<lb/>
+which he was called <normalised orig="vp" auto="true">up</normalised> by<lb/>
+the <normalised orig="Sheriffe" auto="true">Sheriff</normalised> to <normalised orig="goe" auto="true">go</normalised> to his<lb/>
+burning about 3 of the<lb/>
+<normalised orig="clocke" auto="true">clock</normalised> in the morning, being<lb/>
+<normalised orig="sodainely" auto="true">suddenly</normalised> <normalised orig="awaked" auto="true">awoke</normalised> out<lb/>
+                  <pb n="24"/>
+                  <lb/>
+of his sound <normalised orig="sleepe" auto="true">sleep</normalised>, he sate<lb/>
+<normalised orig="vp" auto="true">up</normalised> in his bed and putting<lb/>
+on his Shirt, <normalised orig="hee" auto="true">he</normalised> had these<lb/>
+words; speaking somewhat<lb/>
+<normalised orig="thicke" auto="true">thick</normalised> after his accustomed<lb/>
+manner, Ah <normalised orig="horson" auto="true">whoreson</normalised><lb/>
+<normalised orig="theeues" auto="true">thieves</normalised>, ah <normalised orig="horson" auto="true">whoreson</normalised> <normalised orig="theeues" auto="true">thieves</normalised>,<lb/>
+<normalised orig="robbe" auto="true">rob</normalised> God of his <normalised orig="honor" auto="true">honour</normalised>, <normalised orig="robbe" auto="true">rob</normalised><lb/>
+God of his <normalised orig="honor" auto="true">honour</normalised>.<lb/>
+<normalised orig="Beeing" auto="true">Being</normalised> risen and <normalised orig="tyjng" auto="false">tying</normalised><lb/>
+his points, he cast his arms<lb/>
+about a <normalised orig="balke" auto="false">balk</normalised> which was in<lb/>
+the chamber between M.<lb/>
+<notvariant>Bradfords</notvariant> bed and his,<lb/>
+and clasping his hands about<lb/>
+it; o M. Bradford<lb/>
+<normalised orig="sayd" auto="true">said</normalised> he, what a great swing<lb/>
+should I <normalised orig="giue" auto="true">give</normalised>, if I were hanged?<lb/>
+<normalised orig="Beejng" auto="false">beeing</normalised> come within 2<lb/>
+miles of <notvariant>Hadley</notvariant>, he desired<lb/>
+to light off his horse<lb/>
+to make water: Which<lb/>
+                  <fw type="pageNum" n="47">46</fw>
+                  <pb n="25"/>
+                  <lb/>
+done, <normalised orig="hee" auto="true">he</normalised> <normalised orig="lept" auto="true">leapt</normalised> and <normalised orig="fecht" auto="false">fetched</normalised> a<lb/>
+<normalised orig="friske" auto="true">frisk</normalised> or <normalised orig="twaine" auto="true">twain</normalised> as men <normalised orig="co~monly" auto="false">commonly</normalised><lb/>
+do in <normalised orig="daunsing" auto="true">dancing</normalised>, why<lb/>
+M. Doctor <normalised orig="sayd" auto="true">said</normalised> the <normalised orig="Sheriffe" auto="true">Sheriff</normalised>,<lb/>
+how <normalised orig="doe" auto="false">do</normalised> <normalised orig="ye" auto="false">you</normalised> now? well<lb/>
+I <normalised orig="thanke" auto="true">thank</normalised> God M. <normalised orig="Sheriffe" auto="true">Sheriff</normalised><lb/>
+<normalised orig="sayd" auto="true">said</normalised> he, never better, for<lb/>
+now I know I am almost at<lb/>
+home, I <normalised orig="lacke" auto="true">lack</normalised> but 2 stiles to go<lb/>
+<normalised orig="ouer" auto="true">over</normalised> and I am <normalised orig="euen" auto="true">even</normalised> at my Fathers<lb/>
+house. But M. <normalised orig="Sheriffe" auto="true">Sheriff</normalised>,<lb/>
+shall wee not <normalised orig="goe" auto="true">go</normalised><lb/>
+through <notvariant>Hadley</notvariant>? Yes,<lb/>
+you shall <normalised orig="sayd" auto="true">said</normalised> the <normalised orig="Sheriffe" auto="true">Sheriff</normalised>.<lb/>
+<normalised orig="The~" auto="true">Then</normalised> said he, O God I <normalised orig="thanke" auto="true">thank</normalised><lb/>
+                  <choice ana="illegible">
+                     <sic>*<normalised orig="hee" auto="true">he</normalised></sic>
+                     <corr>thee</corr>
+                  </choice> that I shall yet once ere I<lb/>
+<normalised orig="dye" auto="false">die</normalised> see my <normalised orig="flocke" auto="true">flock</normalised>, whom thou<lb/>
+Lord <normalised orig="knowest" auto="true">know</normalised> I <normalised orig="haue" auto="true">have</normalised> most<lb/>
+<normalised orig="deerely" auto="true">dearly</normalised> <normalised orig="loued" auto="true">loved</normalised>, &amp; truly taught.<lb/>
+Good Lord <normalised orig="blesse" auto="true">bless</normalised> them, and<lb/>
+<normalised orig="keepe" auto="true">keep</normalised> <normalised orig="the~" auto="true">then</normalised> <normalised orig="stedfast" auto="true">steadfast</normalised> in thy truth.<lb/>
+At the time of his degrading<lb/>
+by Bishop Boner,<lb/>
+                  <pb n="26"/>
+                  <lb/>
+<normalised orig="bejng" auto="false">beeing</normalised> furnished fully with<lb/>
+all his attire according to<lb/>
+their ridiculous <normalised orig="custome" auto="true">custom</normalised>,<lb/>
+<normalised orig="hee" auto="true">he</normalised> set his hands by his<lb/>
+side walking <normalised orig="vp" auto="true">up</normalised> and down,<lb/>
+and <normalised orig="sayd" auto="true">said</normalised>: How say <normalised orig="ye" auto="false">you</normalised> now<lb/>
+my Lord, am I not a goodly<lb/>
+<normalised orig="foole" auto="true">fool</normalised>? How say <normalised orig="ye" auto="false">you</normalised> my <normalised orig="maisters" auto="true">masters</normalised>?<lb/>
+If I were now in Cheap,<lb/>
+should I not <normalised orig="haue" auto="true">have</normalised> <normalised orig="boyes" auto="true">boys</normalised> enough<lb/>
+to laugh at these <notvariant>apish</notvariant> <normalised orig="toyes" auto="true">toys</normalised>,<lb/>
+and toying <notvariant>trumperies</notvariant>? when<lb/>
+all his trinkets were taken<lb/>
+from him, <normalised orig="hee" auto="true">he</normalised> <normalised orig="sayd" auto="true">said</normalised>, good<lb/>
+Lord deliver me from you:<lb/>
+and <normalised orig="gojng" auto="false">going</normalised> from them <normalised orig="vp" auto="true">up</normalised><lb/>
+to his chamber, <normalised orig="hee" auto="true">he</normalised> <normalised orig="sayd" auto="true">said</normalised>,<lb/>
+good Lord <normalised orig="deliuer" auto="true">deliver</normalised> me from<lb/>
+you, good Lord <normalised orig="deliuer" auto="true">deliver</normalised> <normalised orig="mee" auto="true">me</normalised><lb/>
+from you.<lb/>
+                  <fw type="pageNum" n="49">48</fw>
+                  <pb n="27"/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head><normalised orig="Iohn" auto="true">John</normalised> <normalised orig="Leafe" auto="true">Leaf</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+THis <normalised orig="Iohn" auto="true">John</normalised> <normalised orig="Leafe" auto="true">Leaf</normalised> <normalised orig="aprentise" auto="false">apprentice</normalised><lb/>
+to one <normalised orig="Hvmphrey" auto="false">Humphrey</normalised><lb/>
+<normalised orig="Gawdy" auto="true">Gaudy</normalised> tallow<lb/>
+Chandler, who was burned<lb/>
+with M. <normalised orig="Iohn" auto="true">John</normalised> Bradford,<lb/>
+had 2 <normalised orig="bils" auto="true">bills</normalised> sent him<lb/>
+into the Counter in <notvariant>breadstreet</notvariant><lb/>
+after his judgement,<lb/>
+                  <choice ana="print">
+                     <sic><notvariant>th'one</notvariant></sic>
+                     <corr>the one</corr>
+                  </choice> containing a recantation,<lb/>
+                  <choice ana="print">
+                     <sic><normalised orig="th'other" auto="true">the other</normalised></sic>
+                     <corr>the other</corr>
+                  </choice> his confession:<lb/>
+to know to which<lb/>
+of them <normalised orig="hee" auto="true">he</normalised> would subscribe.<lb/>
+Hearing first the<lb/>
+bill of his recantation read<lb/>
+<normalised orig="vnto" auto="true">unto</normalised> him, (because <normalised orig="hee" auto="true">he</normalised><lb/>
+could <normalised orig="nether" auto="false">neither</normalised> write nor read<lb/>
+<normalised orig="himselfe" auto="true">himself</normalised>) that <normalised orig="hee" auto="true">he</normalised> refused:<lb/>
+and when <normalised orig="hee" auto="true">he</normalised> heard <choice ana="print">
+                     <sic><normalised orig="th'other" auto="true">the other</normalised></sic>
+                     <corr>the other</corr>
+                  </choice>
+                  <lb/>
+read <normalised orig="vnto" auto="true">unto</normalised> him, which<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="50">D</fw>
+                  <pb n="28"/>
+                  <lb/>
+<normalised orig="hee" auto="true">he</normalised> liked well <choice ana="illegible">
+                     <sic>of*</sic>
+                     <corr>off</corr>
+                  </choice>, in stead of<lb/>
+a pen, he <normalised orig="tooke" auto="true">took</normalised> a <normalised orig="pinne" auto="true">pin</normalised>, and so<lb/>
+pricking his hand, sprinkled the<lb/>
+blood <normalised orig="vppon" auto="true">upon</normalised> the <normalised orig="sayd" auto="true">said</normalised> bill, willing<lb/>
+the reader thereof to <normalised orig="shew" auto="true">show</normalised><lb/>
+the Bishop, that <normalised orig="hee" auto="true">he</normalised> had sealed<lb/>
+the same with his blood already.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Richard Woodman.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+THe conflicts <choice ana="print-error">
+                     <sic><notvariant>whieh</notvariant></sic>
+                     <corr>which</corr>
+                  </choice>
+                  <lb/>
+Richard Woodman had<lb/>
+with the <normalised orig="feare" auto="true">fear</normalised> of death, recorded<lb/>
+in his <normalised orig="owne" auto="true">own</normalised> words,<lb/>
+as <normalised orig="followeth" auto="true">follows</normalised>.<lb/>
+Then 3 <normalised orig="daies" auto="true">days</normalised> after, my<lb/>
+Lord Chamberlain sent 3<lb/>
+of his men to take <normalised orig="mee" auto="true">me</normalised>,<lb/>
+whose names were <normalised orig="Deane" auto="true">Dean</normalised>,<lb/>
+<normalised orig="Ieffrey" auto="false">Jeffrey</normalised>, and <normalised orig="Frauncis" auto="false">Francis</normalised>, I being<lb/>
+at plough with my<lb/>
+                  <pb n="29"/>
+                  <lb/>
+<normalised orig="folkes" auto="true">folks</normalised>, right in the way as<lb/>
+they were <normalised orig="comming" auto="true">coming</normalised> to my<lb/>
+house, least mistrusting<lb/>
+them of all other, came <normalised orig="vnto" auto="true">unto</normalised><lb/>
+them and asked them<lb/>
+how they did. And they<lb/>
+said they arrested me in the<lb/>
+King and <normalised orig="Queenes" auto="true">Queens</normalised> name,<lb/>
+and that I must <normalised orig="goe" auto="true">go</normalised> with<lb/>
+them to my Lord <normalised orig="Chamberlaine" auto="false">Chamberlain</normalised><lb/>
+their <normalised orig="Maister" auto="true">Master</normalised>.<lb/>
+Which words made my<lb/>
+flesh to tremble and quake<lb/>
+in regard the thing was <normalised orig="sodaine" auto="true">sudden</normalised>.<lb/>
+But I answered<lb/>
+them, that I would <normalised orig="goe" auto="true">go</normalised> with<lb/>
+them. Yet I desired them<lb/>
+to go with me to my house<lb/>
+that I might break my fast,<lb/>
+and put on some other<lb/>
+<normalised orig="geare" auto="true">gear</normalised>: And they <normalised orig="sayd" auto="true">said</normalised> I<lb/>
+should. Then I <normalised orig="remembred" auto="true">remembered</normalised><lb/>
+my <normalised orig="selfe" auto="true">self</normalised>, saying in my<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="52">D2</fw>
+                  <pb n="30"/>
+                  <lb/>
+heart, why am I thus <normalised orig="afrayd" auto="true">afraid</normalised>?<lb/>
+They can lay none <normalised orig="euill" auto="true">evil</normalised> to my<lb/>
+charge, If they kill me for well<lb/>
+<normalised orig="dooing" auto="true">doing</normalised>, I may <normalised orig="thinke" auto="true">think</normalised> my <normalised orig="selfe" auto="true">self</normalised><lb/>
+happy. I <normalised orig="remembred" auto="true">remembered</normalised> how I<lb/>
+was contented gladly to <normalised orig="dye" auto="false">die</normalised><lb/>
+before, in that <normalised orig="quarrell" auto="true">quarrel</normalised>, and so<lb/>
+<normalised orig="haue" auto="true">have</normalised> continued <normalised orig="euer" auto="true">ever</normalised> since, and<lb/>
+should I now <normalised orig="feare" auto="true">fear</normalised> to die? God<lb/>
+forbid I should, for then were<lb/>
+all my labour in <normalised orig="vaine" auto="true">vain</normalised>. So by<lb/>
+and by I was <normalised orig="perswaded" auto="true">persuaded</normalised> I<lb/>
+praise <choice ana="typeset-error">
+                     <sic/>
+                     <corr>god</corr>
+                  </choice>, <normalised orig="co~sidering" auto="false">considering</normalised> it was<lb/>
+but the <normalised orig="frailtie" auto="true">frailty</normalised> of my flesh<lb/>
+which was <normalised orig="loth" auto="true">loath</normalised> to <normalised orig="forgoe" auto="true">forgo</normalised><lb/>
+my wife, children, &amp; goods:<lb/>
+for I saw nothing but present<lb/>
+death before mine<lb/>
+<normalised orig="eies" auto="true">eyes</normalised>. And as <normalised orig="soone" auto="true">soon</normalised> as I was<lb/>
+<normalised orig="perswaded" auto="true">persuaded</normalised> in mine heart to<lb/>
+die, I regarded nothing in this<lb/>
+world, but was as <normalised orig="merrie" auto="true">merry</normalised>, glad,<lb/>
+and <normalised orig="ioyfull" auto="true">joyful</normalised> I praise God as <normalised orig="euer" auto="true">ever</normalised><lb/>
+                  <pb n="31"/>
+                  <lb/>
+I was. This <normalised orig="battaile" auto="true">battle</normalised> lasted<lb/>
+but a quarter of an <normalised orig="houre" auto="true">hour</normalised>, but<lb/>
+it was sharper for the time then<lb/>
+death I dare say.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>M. <normalised orig="Glouer" auto="true">Glover</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+RObert <notvariant>Glover</notvariant><lb/>
+had a <normalised orig="contrarie" auto="true">contrary</normalised> effect<lb/>
+in his troubles, as his <normalised orig="owne" auto="true">own</normalised><lb/>
+words <normalised orig="testifye" auto="true">testify</normalised>. After I<lb/>
+came into prison <normalised orig="sayth" auto="true">saith</normalised> <normalised orig="hee" auto="true">he</normalised><lb/>
+and had reposed my <normalised orig="selfe" auto="true">self</normalised> a<lb/>
+while, I wept for joy and<lb/>
+<normalised orig="gladnes" auto="true">gladness</normalised> my <normalised orig="bellyfull" auto="false">bellyful</normalised>, musing<lb/>
+much of the great<lb/>
+mercies of God, and as it<lb/>
+were, saying thus <normalised orig="vnto" auto="true">unto</normalised> my<lb/>
+<normalised orig="selfe" auto="true">self</normalised>, O Lord who am I, on<lb/>
+<normalised orig="whome" auto="true">whom</normalised> thou <normalised orig="should'st" auto="true">should</normalised> bestow<lb/>
+thus thy great <normalised orig="mercie" auto="true">mercy</normalised>, to <normalised orig="bee" auto="false">be</normalised><lb/>
+<normalised orig="numbred" auto="true">numbered</normalised> among thy Saints,<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="54">D3</fw>
+                  <pb n="32"/>
+                  <lb/>
+which suffer for thy <normalised orig="Gospell" auto="true">Gospel</normalised><lb/>
+sake? And so beholding on<lb/>
+the one side my <normalised orig="jmperfection" auto="false">imperfection</normalised>,<lb/>
+<normalised orig="vnablenes" auto="false">unableness</normalised>, <normalised orig="sinnefull" auto="true">sinful</normalised><lb/>
+<normalised orig="miserie" auto="true">misery</normalised>, and <normalised orig="vnworthines" auto="true">unworthiness</normalised>;<lb/>
+and on <choice ana="print">
+                     <sic><normalised orig="th'other" auto="true">the other</normalised></sic>
+                     <corr>the other</corr>
+                  </choice> side the<lb/>
+<normalised orig="greatnes" auto="true">greatness</normalised> of Gods <normalised orig="mercie" auto="true">mercy</normalised>,<lb/>
+to be called to so high promotion,<lb/>
+I was as it were amazed<lb/>
+and overcome for a<lb/>
+while with joy and <normalised orig="gladnes" auto="true">gladness</normalised>,<lb/>
+concluding thus with my<lb/>
+<normalised orig="selfe" auto="true">self</normalised> in mine heart, O Lord<lb/>
+thou <normalised orig="shewest" auto="true">show</normalised> power in <normalised orig="weakenes" auto="true">weakness</normalised>,<lb/>
+<normalised orig="wisedome" auto="true">wisdom</normalised> in <normalised orig="foolishnes" auto="false">foolishness</normalised>,<lb/>
+<normalised orig="Mercie" auto="true">Mercy</normalised> in <normalised orig="sinfulnesse" auto="true">sinfulness</normalised>: who<lb/>
+shall let thee to choose where<lb/>
+and whom thou wilt? As I<lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="euer" auto="true">ever</normalised> zealously <normalised orig="loued" auto="true">loved</normalised> the<lb/>
+profession of thy word, so <normalised orig="haue" auto="true">have</normalised><lb/>
+I <normalised orig="euer" auto="true">ever</normalised> thought <normalised orig="myselfe" auto="true">myself</normalised> <normalised orig="vnworthie" auto="true">unworthy</normalised><lb/>
+to <normalised orig="bee" auto="false">be</normalised> partaker of <choice ana="print">
+                     <sic><notvariant>th'afflictions</notvariant></sic>
+                     <corr>the afflictions</corr>
+                  </choice>
+                  <lb/>
+of the same.<lb/>
+                  <pb n="33"/>
+                  <lb/>
+The same Robert<lb/>
+<notvariant>Glover</notvariant>, at an other time<lb/>
+was much discouraged by<lb/>
+Satan, not to persevere in<lb/>
+his <normalised orig="suffring" auto="true">suffering</normalised>, suggesting to<lb/>
+him his <normalised orig="vnworthines" auto="true">unworthiness</normalised> to<lb/>
+suffer for Christ and his<lb/>
+<normalised orig="Gospell" auto="true">Gospel</normalised>, but these his suggestions<lb/>
+were thus repelled<lb/>
+by him.<lb/>
+What were all those <normalised orig="whome" auto="true">whom</normalised><lb/>
+GOD in former time chose<lb/>
+to be his witnesses? were they<lb/>
+not men <normalised orig="subiect" auto="true">subject</normalised> to <normalised orig="sinne" auto="true">sin</normalised> and<lb/>
+imperfection as other men <normalised orig="bee" auto="false">be</normalised>?<lb/>
+                  <quote type="biblical" ana="Jn 1.16">All wee</quote> <normalised orig="sayth" auto="true">saith</normalised> <normalised orig="Iohn" auto="true">John</normalised> <quote type="biblical" ana="Jn 1.16"><normalised orig="haue" auto="true">have</normalised> <normalised orig="receiued" auto="true">received</normalised><lb/>
+of his <normalised orig="fulnes" auto="true">fulness</normalised>.</quote> They were<lb/>
+no <notvariant>bringers</notvariant> of any <normalised orig="goodnes" auto="true">goodness</normalised> to<lb/>
+GOD: they were altogether<lb/>
+<normalised orig="receiuers" auto="true">receivers</normalised>. They chose not<lb/>
+GOD first, but <normalised orig="hee" auto="true">he</normalised> chose<lb/>
+them. They <normalised orig="loued" auto="true">loved</normalised> not GOD<lb/>
+first, but <normalised orig="hee" auto="true">he</normalised> <normalised orig="loued" auto="true">loved</normalised> them, yea,<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="56">D4</fw>
+                  <pb n="34"/>
+                  <lb/>
+when they were enemies to<lb/>
+him, and full of <normalised orig="sinne" auto="true">sin</normalised>. <normalised orig="Hee" auto="true">He</normalised> is<lb/>
+and <normalised orig="wilbe" auto="true">will be</normalised> the same God still.<lb/>
+As rich in <normalised orig="mercie" auto="true">mercy</normalised>, as mighty,<lb/>
+as ready, as willing to <normalised orig="forgiue" auto="true">forgive</normalised><lb/>
+<normalised orig="sinnes" auto="true">sins</normalised> now without respect of<lb/>
+                  <choice ana="illegible">
+                     <sic><notvariant>pers</notvariant>*<notvariant>ns</notvariant></sic>
+                     <corr>persons</corr>
+                  </choice>, as <normalised orig="hee" auto="true">he</normalised> was then; and<lb/>
+so <normalised orig="wilbe" auto="true">will be</normalised> to the worlds end, to all<lb/>
+that call <normalised orig="vppon" auto="true">upon</normalised> him. It is no<lb/>
+<normalised orig="arrogancie" auto="true">arrogance</normalised>, nor presumption in<lb/>
+any man to <normalised orig="burthen" auto="true">burden</normalised> God with<lb/>
+his promise, <normalised orig="chalenging" auto="false">challenging</normalised> his <normalised orig="ayd" auto="true">aid</normalised><lb/>
+and assistance in all perils and<lb/>
+<normalised orig="daungers" auto="true">dangers</normalised>; Calling <normalised orig="vpon" auto="true">upon</normalised> him<lb/>
+in the name of Christ, for whose<lb/>
+                  <choice ana="illegible">
+                     <sic><notvariant>sak</notvariant>*</sic>
+                     <corr>sake</corr>
+                  </choice>, <normalised orig="whosoeuer" auto="true">whosoever</normalised> <normalised orig="commeth" auto="true">comes</normalised> to<lb/>
+the Father, is sure to <normalised orig="receiue" auto="true">receive</normalised><lb/>
+more then <normalised orig="hee" auto="true">he</normalised> can wish or desire.<lb/>
+I also answered the <normalised orig="enemie" auto="true">enemy</normalised><lb/>
+on this manner: I am<lb/>
+a sinner, and therefore <normalised orig="vnworthy" auto="true">unworthy</normalised><lb/>
+to be a Martyr. What<lb/>
+                  <pb n="35"/>
+                  <lb/>
+then? must I deny GODS<lb/>
+word, because I am a sinner;<lb/>
+and not worthy to <normalised orig="professe" auto="true">profess</normalised> it?<lb/>
+What bring I to <normalised orig="passe" auto="true">pass</normalised> in so <normalised orig="dooing" auto="true">doing</normalised>,<lb/>
+but adding <normalised orig="sinne" auto="true">sin</normalised> to <normalised orig="sinne" auto="true">sin</normalised>?<lb/>
+What is a greater <normalised orig="sinne" auto="true">sin</normalised>, then to<lb/>
+deny the truth <choice ana="print-error">
+                     <sic><notvariant>af</notvariant></sic>
+                     <corr>of</corr>
+                  </choice> Christs <normalised orig="Gospell" auto="true">Gospel</normalised>?<lb/>
+I might also by the like<lb/>
+reason, <normalised orig="forbeare" auto="true">forbear</normalised> to <normalised orig="doe" auto="false">do</normalised> any of<lb/>
+GODS <normalised orig="commaundements" auto="true">commandments</normalised>,<lb/>
+when I am <normalised orig="prouoked" auto="true">provoked</normalised> to pray,<lb/>
+                  <choice ana="print">
+                     <sic><notvariant>th'enemie</notvariant></sic>
+                     <corr>the <normalised orig="enemie" auto="true">enemy</normalised></corr>
+                  </choice> may say <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="mee" auto="true">me</normalised>,<lb/>
+thou art not worthy to pray,<lb/>
+and therefore I shall not pray.<lb/>
+I shall not <normalised orig="forbeare" auto="true">forbear</normalised> to <normalised orig="steale" auto="true">steal</normalised>,<lb/>
+&amp;c. because I am not worthy<lb/>
+to do any of GODS <normalised orig="commaundements" auto="true">commandments</normalised>.<lb/>
+These be <normalised orig="delusio~s" auto="false">delusions</normalised><lb/>
+of the <normalised orig="Deuill" auto="true">Devil</normalised>, which must<lb/>
+be <normalised orig="ouercome" auto="true">overcome</normalised> by continuance of<lb/>
+prayer, and with the word of<lb/>
+GOD applied according to<lb/>
+the measure of <normalised orig="euery" auto="true">every</normalised> mans gift.<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="58">D5</fw>
+                  <pb n="36"/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>George Wise-heart.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+THis Wise-heart<lb/>
+a <normalised orig="Scottishman" auto="true">Scotsman</normalised> (rightly<lb/>
+so called in regard of that<lb/>
+true <normalised orig="wisedome" auto="true">wisdom</normalised> of the spirit<lb/>
+wherewith his heart was filled,)<lb/>
+<normalised orig="beejng" auto="false">beeing</normalised> come to the<lb/>
+place of execution, the<lb/>
+hangman came <normalised orig="vnto" auto="true">unto</normalised> him<lb/>
+<normalised orig="vppon" auto="true">upon</normalised> his knees, craving<lb/>
+<normalised orig="forgiuenesse" auto="true">forgiveness</normalised> of him. To<lb/>
+<normalised orig="whome" auto="true">whom</normalised> he answered, come<lb/>
+<normalised orig="hether" auto="true">hither</normalised> to me: when <normalised orig="hee" auto="true">he</normalised> was<lb/>
+come <normalised orig="nie" auto="false">nigh</normalised> him, <normalised orig="hee" auto="true">he</normalised> kissed<lb/>
+his <normalised orig="cheeke" auto="true">cheek</normalised>, and <normalised orig="sayd" auto="true">said</normalised>, <normalised orig="loe" auto="true">lo</normalised> here<lb/>
+is a <normalised orig="signe" auto="true">sign</normalised> that I <normalised orig="forgiue" auto="true">forgive</normalised> thee;<lb/>
+my heart <normalised orig="doe" auto="false">do</normalised> thine office. And<lb/>
+by and by <normalised orig="hee" auto="true">he</normalised> was put <normalised orig="vpon" auto="true">upon</normalised> the<lb/>
+Gibbet and martyred.<lb/>
+                  <pb n="37"/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Walter Mill.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+WAlter Mill a<lb/>
+Scottish Minister<lb/>
+<normalised orig="beejng" auto="false">beeing</normalised> disturbed in his<lb/>
+<normalised orig="praier" auto="true">prayer</normalised> in the time of his examination,<lb/>
+having ended<lb/>
+the same, <normalised orig="sayd" auto="true">said</normalised>; wee ought<lb/>
+more to <normalised orig="obay" auto="true">obey</normalised> GOD then<lb/>
+Men. I <normalised orig="serue" auto="true">serve</normalised> one more<lb/>
+<normalised orig="mightie" auto="true">mighty</normalised>, even <choice ana="print">
+                     <sic><notvariant>th'omnipotent</notvariant></sic>
+                     <corr>the omnipotent</corr>
+                  </choice>
+                  <lb/>
+Lord. And where <normalised orig="ye" auto="false">you</normalised><lb/>
+call me S<hi rend="high">r</hi>. Walter, they <normalised orig="vsually" auto="true">usually</normalised><lb/>
+call <normalised orig="mee" auto="true">me</normalised> Walter,<lb/>
+and not S<hi rend="high">r</hi>. Walter. I<lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> one of the Popes<lb/>
+Knights too long.<lb/>
+<normalised orig="Beejng" auto="false">beeing</normalised> <normalised orig="threatned" auto="true">threatened</normalised> with<lb/>
+the sentence of death: I<lb/>
+know I must die once saith<lb/>
+he, and therefore as Christ<lb/>
+                  <pb n="38"/>
+                  <lb/>
+said to <notvariant>Iudas</notvariant>, <quote type="biblical" ana="Jn 13.27">
+                     <lb/>
+                     <notvariant>Quod</notvariant> <notvariant>facis</notvariant>,<lb/>
+<notvariant>fac</notvariant> <notvariant>citius</notvariant>.
+                     <lb/>
+                  </quote> <normalised orig="Ye" auto="false">You</normalised> shall know, that<lb/>
+I will not recant the truth; for<lb/>
+I am <normalised orig="Corne" auto="true">Corn</normalised>, I am no <normalised orig="Chaffe" auto="true">Chafe</normalised>:<lb/>
+I will not be <normalised orig="blowne" auto="true">blown</normalised> away with<lb/>
+the wind, nor burst with the<lb/>
+<normalised orig="flaile" auto="true">flail</normalised>: I will abide both.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Patrick <notvariant>Hamleton</notvariant>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+Mr. Patrick <notvariant>Hamleton</notvariant><lb/>
+<normalised orig="beejng" auto="false">beeing</normalised> in the fire,<lb/>
+was <choice ana="illegible">
+                     <sic>*<notvariant>eard</notvariant></sic>
+                     <corr>heard</corr>
+                  </choice> by <normalised orig="certaine" auto="true">certain</normalised> <normalised orig="faithfull" auto="true">faithful</normalised><lb/>
+men of credit then <normalised orig="aliue" auto="true">alive</normalised>,<lb/>
+there to cite and <normalised orig="appeale" auto="true">appeal</normalised><lb/>
+the black <normalised orig="frier" auto="true">friar</normalised> campbell<lb/>
+that accused him, to <normalised orig="appeare" auto="true">appear</normalised><lb/>
+before the high GOD as<lb/>
+<normalised orig="generall" auto="true">general</normalised> <normalised orig="Iudge" auto="true">Judge</normalised> of all men, to<lb/>
+<normalised orig="answere" auto="true">answer</normalised> to the <normalised orig="innocency" auto="true">innocence</normalised> of his<lb/>
+death, and whether his accusation<lb/>
+were <normalised orig="iust" auto="true">just</normalised> or no, between<lb/>
+                  <pb n="39"/>
+                  <lb/>
+that and a <normalised orig="certaine" auto="true">certain</normalised> day of the<lb/>
+next <normalised orig="moneth" auto="true">month</normalised> which <normalised orig="hee" auto="true">he</normalised> there<lb/>
+named. <normalised orig="Moreouer" auto="true">Moreover</normalised>, by the<lb/>
+same <normalised orig="witnesse" auto="true">witness</normalised> it is testified, that<lb/>
+the <normalised orig="sayd" auto="true">said</normalised> Fryer <normalised orig="dyed" auto="false">died</normalised> immediately<lb/>
+before the same day came,<lb/>
+without remorse of conscience<lb/>
+that <normalised orig="hee" auto="true">he</normalised> had persecuted the<lb/>
+<normalised orig="poore" auto="true">poor</normalised> Innocent.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Divine message</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="WiFe1600">Fenner, William</author>
+               <title type="main">"The epistle to the godly Reader of these pious Sermons."/"No title" In: Fenner, William. A divine message to the elect Soul [...]</title>
+               <title type="short">Preface Divine message</title>
+               <date when="1645">1645</date>
+               <date type="this_edition" when="1645">1645</date>
+               <idno type="Wing">F685A</idno>
+               <note type="genre" subtype="preface_sermon">sermon preface</note>
+               <note type="sample" target="#WiFe1600_1645_preface_sermon_1">full text</note>
+               <note type="sample" target="#WiFe1600_1645_preface_sermon_2">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="WiFe1600_1645_preface_sermon_1">
+            <div>
+               <head>THE EPISTLE TO <lb/>
+the godly Reader of <lb/>
+these pious Sermons.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+THE Author of <lb/>
+these ensuing <lb/>
+Sermons, M<hi rend="high">r.</hi>
+                  <lb/>
+William Fenner, <lb/>
+was so deservedly famous <lb/>
+in the Church of God, and <lb/>
+so well known unto me in <lb/>
+particular, and one to <lb/>
+whom I was so much obliged <lb/>
+when he was living, as <lb/>
+that I could not <normalised orig="thinke" auto="true">think</normalised> it <lb/>
+sufficient to give a bare <lb/>
+                  <pb n="1"/>
+                  <lb/>
+Imprimatur unto his Sermons, <lb/>
+but have added this <lb/>
+Testimony also, that thereby <lb/>
+all good people might <lb/>
+<normalised orig="bee" auto="true">be</normalised> encouraged to read <lb/>
+these works of his, whose <lb/>
+life and conversation was <lb/>
+a <normalised orig="continuall" auto="true">continual</normalised> Sermon, and <lb/>
+who spent <normalised orig="himselfe" auto="true">himself</normalised> in studying <lb/>
+and preaching, and <lb/>
+whose memory will <normalised orig="bee" auto="true">be</normalised> <lb/>
+ever <normalised orig="pretious" auto="true">precious</normalised> unto <lb/>
+                  <lb/>
+Your loving friend, <lb/>
+                  <lb/>
+Edm. Calamy.<lb/>
+               </p>
+            </div>
+         </div>
+         <div xml:id="WiFe1600_1645_preface_sermon_2"/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,641 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermon by Richard Allestry</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="RiAl1621">Allestree, Richard</author>
+               <title type="main">
+A sermon preached at Hampton-Court on the 29th of May, 1662. Being The Anniversary of His Sacred Majesty's most happy Return.
+</title>
+               <title type="short">Sermon by Richard Allestry</title>
+               <date when="1662">1662</date>
+               <date type="this_edition" when="1662">1662</date>
+               <idno type="Wing">A1164</idno>
+               <note type="genre" subtype="sermon">sermon</note>
+               <note type="sample" target="#RiAl1621_1662_sermon_1">p.4, l.1 – p.23, l.9</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="RiAl1621_1662_sermon_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+           1. <quote type="biblical" ana="Jer 50.4">They shall seek the Lord their God</quote> is my<lb/>
+first part, and the Lord's prime direction<lb/>
+for the repairing of a broken Nation. Neither<lb/>
+indeed can any other course be taken;<lb/>
+for till we have found him, while he<lb/>
+does hide his face, nothing but darkness<lb/>
+dwells upon the land; or if any light do<lb/>
+break out, <normalised orig="'tis" auto="true">it is</normalised> but the kindlings of his anger:<lb/>
+so he expresses, <normalised orig="Deut" auto="true">Deuteronomy</normalised>.31.17 <quote type="biblical" ana="Deut 31.16-17">This people<lb/>
+will forsake me and break my Covenant; then my<lb/>
+anger shall be kindled against them, and I will<lb/>
+forsake them, and hide my face from them, and<lb/>
+they shall be devoured, and many evils and troubles<lb/>
+shall befall them, so that they will say in that<lb/>
+day, Are not these evils come upon us because<lb/>
+our God is not amongst us?</quote> This absence is<lb/>
+<normalised orig="onely" auto="true">only</normalised> another word for desolation: <quote type="biblical" ana="Jer 6.8">Be thou<lb/>
+instructed, o Jerusalem,</quote> saith God by Jeremy,<lb/>
+c. 6.8. <quote type="biblical" ana="Jer 6.8">lest my soul depart from thee, and I make<lb/>
+thee desolate, a land not inhabited</quote>: As if without<lb/>
+him there were nothing else but solitude<lb/>
+in Cities and in Courts, and all were<lb/>
+desert where he does not dwell. Yea there<lb/>
+is something beyond desolation, Hos. 9.<lb/>
+11, 12. <quote type="biblical" ana="Hos 9.11-12">As for Ephraim, their glory shall flee<lb/>
+away like a bird from the birth and from the<lb/>
+                     <pb n="1"/>
+                     <lb/>
+womb, and from the conception: though they<lb/>
+bring up their children, yet will I bereave them<lb/>
+that there shall not be a man, NoValue yea<lb/>
+<normalised orig="wo" auto="true">woe</normalised> also to them when I depart from them.</quote> And it<lb/>
+must needs be so; for let our state be never<lb/>
+so calamitous, if God be not departed, there is<lb/>
+comfort in it, and a deliverer at hand: If<lb/>
+we are <quote type="psalm" ana="Ps 44.19">in the place of dragons</quote>, his presence<lb/>
+will make heaven there; and although we<lb/>
+be <quote type="psalm" ana="Ps 44.19">covered with the shadow of death</quote>, if the<lb/>
+light of his Countenance break in, we are<lb/>
+in glory; and the brightness of that will<lb/>
+soon damp and shine out the fiery trial.<lb/>
+But if the Lord depart, then there is no redemption<lb/>
+possible: <quote type="psalm" ana="Ps 71.11">God <normalised orig="hath" auto="true">has</normalised> forsaken him,<lb/>
+persecute him and take him, for there is none to<lb/>
+deliver him,</quote>. But if there were deliverance<lb/>
+some other way, yet the want of<lb/>
+God's presence is an evil, such as nothing in<lb/>
+the whole world can make good: the presence<lb/>
+of an angel in his stead does not.<lb/>
+When the Lord said to Israel, <quote type="biblical" ana="Ex 33.3-4">I will not go up<lb/>
+in the midst of thee, but I will send an Angel with<lb/>
+thee, and drive out the Amorite, the Hittite, &amp;c.<lb/>
+yet when the people heard these evil tidings, they<lb/>
+mourned, and no man did put on his Ornaments,</quote>
+                  <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="6">B3</fw>
+                  <pb n="2"/>
+                  <lb/>
+Exod.33.4. Nay more, I shall not speak a<lb/>
+contradiction if I shall say, that the most intimate<lb/>
+presence of the <normalised orig="Godhead" auto="true">Godhood</normalised> does not supply<lb/>
+God's absence; and such a small withdrawing<lb/>
+of himself as may consist with<lb/>
+being united hypostatically, was too much for<lb/>
+him to bear who was Immanuel, when he<lb/>
+complained God was not with him: I mean our<lb/>
+Saviour on the Cross. He, who although<lb/>
+he did beseech against his cup with fervencies<lb/>
+that did breath out in heats of<lb/>
+bloody sweat, with agonies of prayer; yet when<lb/>
+he fell down under it, did <normalised orig="chearfully" auto="true">cheerfully</normalised> submit<lb/>
+to it, saying, <quote type="biblical" ana="Lk 22.42">Not my will, but thy will be<lb/>
+done;</quote> yet when God hides himself, he does<lb/>
+expostulate with him, crying out, <quote type="biblical" ana="Mt 27.46">My God,<lb/>
+my God, why <normalised orig="hast" auto="true">have</normalised> thou forsaken me?</quote> His God<lb/>
+could no more forsake him, then himself<lb/>
+could be not himself: and yet the apprehension<lb/>
+of that which could not be was<lb/>
+even insufferable to him, to whom nothing<lb/>
+could be insufferable. He seems to<lb/>
+feel a very contradiction while he but<lb/>
+seems to feel the want of the Lord's presence.<lb/>
+Such is the sad importance of God's not<lb/>
+being with us; and this same instance tells<lb/>
+                  <pb n="3"/>
+                  <lb/>
+us what drives him away. <normalised orig="'Twas" auto="true">It was</normalised> sin that<lb/>
+he withdrew from then: Christ did but<lb/>
+take on him our guilt, and upon that the<lb/>
+Lord forsook him: God could no more endure<lb/>
+to behold wickedness in him, then<lb/>
+the Sun could to see God suffer; Iniquity<lb/>
+<normalised orig="eclips'd" auto="true">eclipsed</normalised> them both, and sin did separate<lb/>
+betwixt him and himself, and made that<lb/>
+person who was God cry out, <quote type="biblical" ana="Mt 27.46">My God, my<lb/>
+God, why <normalised orig="hast" auto="true">have</normalised> thou forsaken me?</quote> And it will<lb/>
+<normalised orig="doe" auto="true">do</normalised> the same betwixt God and a people.<lb/>
+Isa. 59. 1, 2. <quote type="biblical" ana="Isa 59.1-2">Behold, the Lord's hand is not<lb/>
+<normalised orig="shortned" auto="true">shortened</normalised> that it cannot save, nor his ear heavy<lb/>
+that it cannot hear; but your iniquities have<lb/>
+separated between you and your God, and your<lb/>
+sins have hid his face from you, that he will not<lb/>
+hear.</quote> His face is clothed with light, we<lb/>
+know; but when Wickedness over-spreads<lb/>
+a people, those deeds of darkness put out the<lb/>
+light of his countenance. His hand although<lb/>
+it be not <normalised orig="shortned" auto="true">shortened</normalised>, yet it contracts and shuts<lb/>
+it self, not <normalised orig="onely" auto="true">only</normalised> to grasp and withhold his<lb/>
+mercies from them, but to smite: Iniquity<lb/>
+builds such a wall of separation as does<lb/>
+shut out omnipresence, and makes him who<lb/>
+is every where, not be with such a people;<lb/>
+                  <pb n="4"/>
+                  <lb/>
+not be in hearing of their needs; for when<lb/>
+their sins do cry, no prayers can be <normalised orig="hearkned" auto="true">hearkened</normalised><lb/>
+to; <quote type="biblical" ana="Isa 59.2">he will not hear you</quote>, saith the Prophet.<lb/>
+And that gives us the very NoValue of<lb/>
+the Lord's departure from a people, and<lb/>
+the manner of it.<lb/>
+He is taking away his peace and mercies<lb/>
+from a Nation when he will hear no<lb/>
+prayers for it; and He declares that he will<lb/>
+hear no prayers when he withdraws once<lb/>
+from his house of prayer, and makes his offices<lb/>
+to cease. The place appointed for<lb/>
+these offices, the Sanctuary, he calls, we<lb/>
+know, the tabernacle of meeting, that is,<lb/>
+where he would meet his votaries, and<lb/>
+hear and bless them; calls it his house,<lb/>
+his dwelling-place, his court, his presence, and<lb/>
+his throne: and if so, when he is not to<lb/>
+be found in these, when he no longer <normalised orig="dwels" auto="true">dwells</normalised><lb/>
+nor meets in them, we may be sure that<lb/>
+he <normalised orig="hath" auto="true">has</normalised> left the land. The Psalmist, when<lb/>
+he does complain men had <quote type="psalm" ana="Ps 74.3-4">done evil in the<lb/>
+Sanctuary, the adversaries roared in the midst<lb/>
+of the Congregations, and set up their banners<lb/>
+there for trophies</quote>; <quote type="psalm" ana="Ps 74.6-7">they broke down all the carved<lb/>
+work thereof with axes and hammers, and<lb/>
+                     <pb n="5"/>
+                     <lb/>
+had defiled the dwelling places of God's name<lb/>
+even to the ground, and burnt up all the houses<lb/>
+of God in the land</quote>; he does suppose that<lb/>
+God was then departed when they had left<lb/>
+him no abiding place: and therefore he cries<lb/>
+out, <quote type="psalm" ana="Ps 74.1-2">O God, wherefore art thou absent from us so<lb/>
+long? Remember <normalised orig="Sion" auto="true">Zion</normalised> where thou <normalised orig="hast" auto="true">have</normalised> dwelt.</quote>
+                  <lb/>
+But <normalised orig="'tis" auto="true">it is</normalised> not only upon these Analogies I build<lb/>
+this method of departure; we shall <normalised orig="finde" auto="true">find</normalised><lb/>
+exactly in Ezekiel's Vision of that case to<lb/>
+which my Text <normalised orig="referres" auto="true">refers</normalised>: it begins chap. 9.3.<lb/>
+                  <quote type="biblical" ana="Ezek 9.3">And the glory of the God of Israel</quote> (i.e. the shining<lb/>
+cloud, the token of his presence in the<lb/>
+Sanctuary,) <quote type="biblical" ana="Ezek 9.3">went up from the Cherub whereupon<lb/>
+he was, to the threshold of the House,</quote> as going<lb/>
+out; and then ver. 8. he does refuse to be<lb/>
+entreated for the land: after that ch. 10.18<lb/>
+                  <quote type="biblical" ana="Ezek 10.18">The glory went from off the threshold to<lb/>
+the midst of the City;</quote> and chap. 11.23. it went<lb/>
+from thence to the mountain without the City,<lb/>
+and so away: And then nothing but desolation<lb/>
+dwelt upon the land, until the<lb/>
+counsel of my Text was followed, and<lb/>
+they did seek the Lord their God: for then<lb/>
+the glory did return into the Sanctuary just<lb/>
+as it went away, as you may find it ch. 43.<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="10">C</fw>
+                  <pb n="6"/>
+                  <lb/>
+And having seen when and how God forsakes<lb/>
+a people, and for what, that does direct<lb/>
+us how to seek him, and it is thus;<lb/>
+When men forsake those paths in which<lb/>
+they did not <normalised orig="onely" auto="true">only</normalised> <normalised orig="erre" auto="true">err</normalised> and <normalised orig="goe" auto="true">go</normalised> astray, but<lb/>
+did walk contrary to God, so that they did<lb/>
+forsake each other; and do return, walk in<lb/>
+his <normalised orig="waies" auto="true">ways</normalised>, the <normalised orig="waies" auto="true">ways</normalised> of his Commandments, and<lb/>
+return also to his Church, and seek him in<lb/>
+his house, fall low before his footstool, <normalised orig="begge" auto="true">beg</normalised><lb/>
+of him to meet in his tabernacle, renew his<lb/>
+Worship, and all invitations of him to return<lb/>
+into his dwelling-place. For sure as it<lb/>
+is in vain to seek him but in his own <normalised orig="waies" auto="true">ways</normalised>,<lb/>
+nor can we hope to meet him but in his<lb/>
+Tabernacle of meeting; so also Scripture calls<lb/>
+both these to seek the Lord, and promises<lb/>
+to both the finding him. To the first, <normalised orig="Deut" auto="true">Deuteronomy</normalised>. <lb/>
+4.29,30. <quote type="biblical" ana="Deut 4.29-30">If from thy tribulation thou shalt seek<lb/>
+the Lord thy God, thou shalt find him, if thou<lb/>
+seek him with all thy heart, and with all thy soul,<lb/>
+if thou turn to the Lord thy God, and shalt be<lb/>
+obedient unto his voice.</quote> And to the second,<lb/>
+Jer. 29. 12. speaking of this sad state to<lb/>
+which my Text relates, <quote type="biblical" ana="Jer 29.12-14">Then shall <normalised orig="ye" auto="true">you</normalised> call<lb/>
+upon me, and <normalised orig="ye" auto="true">you</normalised> shall go and pray unto me; and<lb/>
+                     <pb n="7"/>
+                     <lb/>
+I will hearken unto you, and I will be found of<lb/>
+you, saith the Lord, and I will turn away your<lb/>
+captivity.</quote> I could produce you instances<lb/>
+of Asa making all his people swear to seek the<lb/>
+Lord: but because my Text speaks of David,<lb/>
+he shall be the great explication, as he<lb/>
+was the practice of this duty in both senses.<lb/>
+In the former, 119. <normalised orig="Psal" auto="true">Psalm</normalised>. <quote type="psalm" ana="Ps 119.117">I have sought<lb/>
+thy Commandments above gold or precious stone;</quote>
+                  <lb/>
+more then that which does make and does<lb/>
+adorn my Crown, then that which furnishes<lb/>
+all the necessities and all the <normalised orig="pomps" auto="true">pumps</normalised> of Royalty.<lb/>
+And for the other, <normalised orig="Psal" auto="true">Psalm</normalised>.63. 1,2. <quote type="psalm" ana="Ps 63.1-2">O God, thou<lb/>
+art my God, early will I seek thee: my soul <normalised orig="thirsteth" auto="true">thirsts</normalised><lb/>
+for thee, my flesh <normalised orig="longeth" auto="true">longs</normalised> for thee in a dry<lb/>
+and thirsty land where no water is: To see thy<lb/>
+power and thy glory, as I have seen thee in the<lb/>
+Sanctuary.</quote> His very words do seem to labour<lb/>
+too, and he does seek expressions to tell<lb/>
+us how he seeks. The hot fits of a thirsty<lb/>
+palate that call so oft and so impetuously<lb/>
+are in his soul; it <normalised orig="hath" auto="true">has</normalised> a pious fever, which<lb/>
+cannot be <normalised orig="allay'd" auto="true">allayed</normalised> but by pouring out of his<lb/>
+soul to God in the Temple, by breathing out<lb/>
+its heats in his devotion offices. Nay more,<lb/>
+he longs, <normalised orig="hath" auto="true">has</normalised> that I know not whether appetite,<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="12">C2</fw>
+                  <pb n="8"/>
+                  <lb/>
+or passion, which is not to be understood,<lb/>
+but <normalised orig="onely" auto="true">only</normalised> suffered; to which all the<lb/>
+unreasonable violences which passion can be<lb/>
+heated into, all the defaillances nature can be<lb/>
+<normalised orig="opprest" auto="true">oppressed</normalised> into, are natural; it is the bodies <normalised orig="Extasie" auto="true">Ecstasy</normalised>.<lb/>
+Now this he had towards the worship<lb/>
+of the Sanctuary; his very flesh found<lb/>
+rapture in those exercises, and when he was<lb/>
+in a barren and dry land, was driven from<lb/>
+the plenties of a Court, and from the glories<lb/>
+of a throne into a desert solitude, he found<lb/>
+no other wants but of God's house; did<lb/>
+mind, pant, and long after nothing else, did<lb/>
+neither thirst for his necessities, not long for<lb/>
+his own Crown, but for the Tabernacle only.<lb/>
+And besides the Religion of this, he had reason<lb/>
+of State too to be thus affected; this<lb/>
+was the best means to engage his Subjects<lb/>
+to him and secure his Throne. He knew, if<lb/>
+by establishing God's worship and by going with<lb/>
+the multitude, as he did use, to the exercises<lb/>
+of it; if by royal example and encouragements<lb/>
+of <normalised orig="vertue" auto="true">virtue</normalised>, and by discountenancing and chastising<lb/>
+impiety, by doing as he did profess<lb/>
+to <normalised orig="doe" auto="true">do</normalised> Ps 101 (that directory for a Court)<lb/>
+he could people his land with holy living, and<lb/>
+                  <fw type="pageNum" n="13">12</fw>
+                  <pb n="9"/>
+                  <lb/>
+his Temple with holy Worship; he knew he<lb/>
+should then have good Subjects, loyal to<lb/>
+him and at peace with themselves. If they<lb/>
+will seek their God, then they will seek their<lb/>
+King. The Lord saw his dependence,<lb/>
+and therefore counselled this course should<lb/>
+be taken. The Master of our <normalised orig="Politicks" auto="true">Politics</normalised> discerned<lb/>
+it too, and therefore does advise that<lb/>
+the first and chiefest <normalised orig="publick" auto="true">public</normalised> cares should<lb/>
+be about things of Religion, that and the same<lb/>
+profession of it being NoValue,<lb/>
+the cement of Communities, and the very foundation of all legislative,<lb/>
+and indeed all power in the Magistrate:<lb/>
+and in the people NoValue,<lb/>
+<normalised orig="'tis" auto="true">it is</normalised> a most efficacious philtre,<lb/>
+a charm, a Gordian knot of kindness. And as a<lb/>
+Jew observed of their own Nation, NoValue,<lb/>
+To have one<lb/>
+and the same opinions of God, and not to differ<lb/>
+in their rites from one another, breeds the best<lb/>
+harmony in <normalised orig="mens" auto="true">men's</normalised> affections. When on the<lb/>
+other side no obligations, though the most<lb/>
+signal and divine, will hold them in obedience<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="14">C3</fw>
+                  <pb n="10"/>
+                  <lb/>
+and peace, if their ambitions or interests <lb/>
+look another way: and if at any time<lb/>
+present advantage, or an expectation, or some<lb/>
+passion do <normalised orig="encline" auto="true">incline</normalised> them to seek David their<lb/>
+King; yet the appearance of a change of<lb/>
+Interest, that expectation defeated, or a<lb/>
+cross animosity will burst those bonds, unless<lb/>
+Religion and Communion in Worship help<lb/>
+to twist them. David had had experience<lb/>
+of this.<lb/>
+Abner knew of God's oath to David that<lb/>
+after Saul he should be King over all Israel;<lb/>
+but he was otherwise concerned, and therefore<lb/>
+he made Ishbosheth King, maintained<lb/>
+a long and a sore <normalised orig="warre" auto="true">war</normalised> even against what<lb/>
+he knew God was engaged to bring about,<lb/>
+and <quote type="biblical" ana="2 Sam 3.6">made himself strong for the house of Saul</quote>,<lb/>
+2 Sam. 2, 3. ch. But when a quarrel happened<lb/>
+betwixt Ishbosheth and him, then, <quote type="biblical" ana="2 Sam 3.9-10">So <normalised orig="doe" auto="true">do</normalised><lb/>
+God to Abner and more also, except as the Lord<lb/>
+<normalised orig="hath" auto="true">has</normalised> sworn to David, even so I <normalised orig="doe" auto="true">do</normalised> to him, to<lb/>
+set up the throne of David over Israel and over<lb/>
+Judah.</quote>
+                  <lb/>
+                  <quote type="biblical" ana="2 Sam 3.12">And he sent Messengers to him saying,<lb/>
+Whose is the land? make but thy league with<lb/>
+me.</quote> c.3. 9, 10, 11, 12. Do but look forward,<lb/>
+and you find when Abner was cut off, and<lb/>
+                  <pb n="11"/>
+                  <lb/>
+Ishbosheth was slain, and Israel had no leader,<lb/>
+then they <quote type="biblical" ana="2 Sam 5.1-2">came to David, saying, Behold,<lb/>
+we are thy bone and thy flesh, and the Lord said<lb/>
+to thee, Thou shalt feed my people Israel</quote>, c.5.1,2.<lb/>
+They knew all that before, yet would not<lb/>
+let him <normalised orig="doe" auto="true">do</normalised> it, till they had no other leader.<lb/>
+Nay, when they had done that, by<lb/>
+Absalom's insinuations (who in a way of<lb/>
+treacherous pity did instill dislikes against<lb/>
+the government, and did <normalised orig="remonstrae" auto="false">remonstrate</normalised> in<lb/>
+good wishes, as some men do in prayers,<lb/>
+c.15.3,4) they were all drawn into rebellion<lb/>
+against this David, and made him <normalised orig="flie" auto="true">fly</normalised><lb/>
+out of the land, and became Subjects to<lb/>
+that Absalom. When he was dead indeed<lb/>
+they speak of <quote type="biblical" ana="2 Sam 19.10">bringing back the King</quote>, c. 19.<lb/>
+10. and when his own Judah had done it,<lb/>
+<normalised orig="quarrell'd" auto="true">quarrelled</normalised> ver. 43. because that <quote type="biblical" ana="2 Sam 19.43">their advice<lb/>
+was not first had</quote>: and though Judah had nothing<lb/>
+but their service, for, <quote type="biblical" ana="2 Sam 19.42">Have we eaten<lb/>
+at all of the Kings cost, or <normalised orig="hath" auto="true">has</normalised> he given us any<lb/>
+gift?</quote> say they, ver.42. yet Israel is angry, because<lb/>
+he came not back upon their score,<lb/>
+for they forsooth <quote type="biblical" ana="2 Sam 19.43">have ten parts in him</quote>, v.43.<lb/>
+and yet the next day every man of Israel<lb/>
+went after him that said, <quote type="biblical" ana="2 Sam 20.1">We have no part<lb/>
+                     <pb n="12"/>
+                     <lb/>
+in David, Sheba a man of Belial,</quote> ch. 20. 1.<lb/>
+Thus no allegiance, no tie however sacred<lb/>
+and divine will hold them who follow<lb/>
+not upon God's score. Nay at the last, because<lb/>
+that Rehoboam would not ease their<lb/>
+taxes, all Israel cry out, <quote type="biblical" ana="1 Kings 12.16">What portion have we<lb/>
+in David? see to thine own house, David.</quote> And<lb/>
+to make this secession perpetual (which all<lb/>
+the former did not prove) Jeroboam did use<lb/>
+no other policy, but to change the Worship<lb/>
+and the Priests: He knew he should divide<lb/>
+their hearts and Nations for ever, when<lb/>
+he had altered once the Service and the<lb/>
+Officers; and if he could but keep them<lb/>
+from seeking God at Jerusalem, he was secure<lb/>
+they would not seek David their King. And<lb/>
+so it proved. Now the Lord to prevent divisions<lb/>
+had provided so <normalised orig="farre" auto="true">far</normalised> Uniformity in<lb/>
+his worship, that he required a single Unity;<lb/>
+and that it might be but in one manner,<lb/>
+he let it be but in one place.<lb/>
+And truly, when men once depart from<lb/>
+Uniformity, what measures can they set<lb/>
+themselves of changing? what shall confine<lb/>
+or put shores to them? what principle<lb/>
+can they proceed upon which shall<lb/>
+                  <pb n="13"/>
+                  <lb/>
+engage them to stay any where? and why<lb/>
+may not divisions be as infinite as <normalised orig="mens" auto="true">men's</normalised><lb/>
+<normalised orig="phansies" auto="true">fancies</normalised>? And though, when those are<lb/>
+but in circumstantial things, those who<lb/>
+are strong, and know them to be such, are<lb/>
+no otherwise concerned to contend for<lb/>
+them then on Authorities behalf, (to which<lb/>
+every change is a Convulsion <normalised orig="fitt" auto="true">fit</normalised>,) and on<lb/>
+the account of decency, and of compliance<lb/>
+with the universal Church: yet<lb/>
+when others do dogmatize, and put conscience<lb/>
+in the not doing them, and stand at such<lb/>
+a distance from them as to <normalised orig="chuse" auto="true">choose</normalised> <normalised orig="Schisme" auto="true">Schism</normalised>,<lb/>
+Disobedience, and Sedition rather, and therefore<lb/>
+must needs look upon damnation in<lb/>
+them; these differences make as great a<lb/>
+<normalised orig="gulfe" auto="true">gulf</normalised> and <normalised orig="chasme" auto="false">chasm</normalised> as that which does divide<lb/>
+Dives from Abraham's <normalised orig="bosome" auto="true">bosom</normalised>. It is one<lb/>
+God, one Faith, one Worship makes hearts one.<lb/>
+Hands lifted up together in the Temple<lb/>
+they will <normalised orig="joyn" auto="true">join</normalised> and clasp: and so Religion<lb/>
+does <normalised orig="fulfill" auto="true">fulfil</normalised> its name a religando, binds Prince<lb/>
+and Subjects all together; and they who<lb/>
+thus do seek the Lord their God, will also<lb/>
+seek David their King, God's next direction,<lb/>
+and my second part.<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="18">D</fw>
+                  <pb n="14"/>
+                  <lb/>
+2. And here three things offer themselves,<lb/>
+a King, their King, and David their<lb/>
+King.<lb/>
+I am not here to read a Lecture of State<lb/>
+policy upon a vie of Governments; why<lb/>
+seek a King, not any other sort of Government;<lb/>
+and why their King, one that already<lb/>
+was so by the right of Succession, not<lb/>
+whom addresses or election should make so.<lb/>
+And though I think 'twere <normalised orig="easie" auto="true">easy</normalised> to demonstrate<lb/>
+<normalised orig="onely" auto="true">only</normalised> Monarchy had ever a divine or<lb/>
+natural original, and that elective Monarchy<lb/>
+is most unsafe and <normalised orig="burthensome" auto="true">burdensome</normalised>, full of dangerous<lb/>
+and <normalised orig="uneasie" auto="true">uneasy</normalised> consequences, and this<lb/>
+so much to sight, that choice for the most<lb/>
+part bounds it self, proves but a ceremony<lb/>
+of Succession: yet this I need not <normalised orig="doe" auto="true">do</normalised>, for<lb/>
+I am dealing with the Jews, who had<lb/>
+God's judgement in the case, and his appointment<lb/>
+too; and to me that is argument<lb/>
+enough. And when God <normalised orig="hath" auto="true">has</normalised> <normalised orig="declar'd" auto="true">declared</normalised>, <quote type="biblical" ana="Prov 28.2">for<lb/>
+the transgressions of a land many are the Princes<lb/>
+thereof;</quote> many at once, as in a Common-wealth,<lb/>
+or many several families successively,<lb/>
+for so God reckons also one or many; <normalised orig="'tis" auto="true">it is</normalised><lb/>
+still, we see, David their King, while <normalised orig="'tis" auto="true">it is</normalised> in<lb/>
+                  <pb n="15"/>
+                  <lb/>
+David's line, and so the King does <normalised orig="truely" auto="true">truly</normalised> never<lb/>
+die, while his race lives. If either of<lb/>
+these many be God's punishment, for the<lb/>
+sins of a land, I will not say that they who<lb/>
+love the many Princes love the transgressions<lb/>
+which God plagues so; but I will say,<lb/>
+they who do <normalised orig="chuse" auto="true">choose</normalised> that which God calls<lb/>
+his plague, that quarrel for his vengeance,<lb/>
+and with great strife and hazard take his<lb/>
+indignation by force, I can but pity them in<lb/>
+their own options and enjoyments: but,<lb/>
+O my soul, enter not thou into their counsels.<lb/>
+As for seeking their King, I shall content<lb/>
+my self with that which Calvin <normalised orig="saies" auto="true">says</normalised> upon<lb/>
+the words; Nam alitervere et ex animo Deum<lb/>
+quærere non potuit, quin <normalised orig="se" auto="true">see</normalised> etiam subjiceret legitimo<lb/>
+imperio cui subjectus erat: For they could<lb/>
+not otherwise truly and with all their heart seek<lb/>
+God, except they did subject themselves to his<lb/>
+Government to whom they did of right belong<lb/>
+as Subjects. And I shall <normalised orig="adde" auto="true">add</normalised> that they who<lb/>
+do forsake their King, will soon forsake their<lb/>
+God. The Rabbines say it more severely<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="20">D2</fw>
+                  <pb n="16"/>
+                  <lb/>
+of Israel, that they at once rejected three things,<lb/>
+the <normalised orig="Kingdome" auto="true">Kingdom</normalised> of the house of David, and the<lb/>
+<normalised orig="Kingdome" auto="true">Kingdom</normalised> of Heaven, and the Sanctuary. And<lb/>
+truly, if we do consult that State from the<lb/>
+beginning, we shall find that when they<lb/>
+were without their King, they <normalised orig="alwaies" auto="true">always</normalised> were<lb/>
+without their God.<lb/>
+Moses was the first King in Jeshurun, and<lb/>
+he was <normalised orig="onely" auto="true">only</normalised> gone into the Mount for<lb/>
+forty <normalised orig="daies" auto="true">days</normalised>, and they set up a golden Calf;<lb/>
+they make themselves a God if they want<lb/>
+him whom the Lord makes so, as he does<lb/>
+the Magistrate: if they have not a Prince,<lb/>
+that NoValue living Image of God,<lb/>
+then they must have an Idol. When Moses<lb/>
+his next successor was dead, we read that<lb/>
+the man <quote type="biblical" ana="Judg 17.5">Micah had an house of Gods, and consecrated<lb/>
+one of his sons to be his Priest</quote>: and<lb/>
+truly he might make his Priest who made<lb/>
+his Deities. And the account of this is given,<lb/>
+                  <quote type="biblical" ana="Judg 17.6">In those <normalised orig="daies" auto="true">days</normalised> there was no King in Israel</quote>,<lb/>
+Jud.17.5,6. The very same is said ch.18.1<lb/>
+to preface the Idolatry of the Tribe of Dan.<lb/>
+There was no heir of restraint, as it is worded<lb/>
+ver.7. It seems, to curb impiety is the<lb/>
+Princes Inheritance, which till it be <normalised orig="supprest" auto="true">suppressed</normalised>,<lb/>
+                  <pb n="17"/>
+                  <lb/>
+he <normalised orig="hath" auto="true">has</normalised> not what he is heir to. But<lb/>
+Vice will know no boundaries if there be<lb/>
+no King, whose sword is the <normalised orig="onely" auto="true">only</normalised> mound<lb/>
+and <normalised orig="sence" auto="true">sense</normalised> against it: for if we <normalised orig="reade" auto="true">read</normalised> on<lb/>
+there, 19, 20, 21 ch. we shall find those<lb/>
+dismal tragedies of Lust and <normalised orig="Warre" auto="true">War</normalised>, the one<lb/>
+of which did sin to death the Levites wife;<lb/>
+the other, besides 40000. slain of them<lb/>
+who had a righteous cause, and whom God<lb/>
+did bid fight, destroyed also a Tribe in<lb/>
+Israel: these all sprang from the same occasion,<lb/>
+for so the story closes it, <quote type="biblical" ana="Judg 21.25">In those<lb/>
+<normalised orig="daies" auto="true">days</normalised> there was no King in Israel</quote>, ch.21.25.<lb/>
+Just upon this, when God in their necessities<lb/>
+did raise them Judges, that is,<lb/>
+Kings, read all their story, you will find to<lb/>
+almost every several Judge there did succeed<lb/>
+a several Idolatry: God still complaining,<lb/>
+                  <quote type="biblical" ana="Judg 4.1">the children of Israel did evil again after<lb/>
+the death</quote> of such an one, till he raised them<lb/>
+another. Those 450. years being divided<lb/>
+all betwixt their Princes and their Idols.<lb/>
+After them Jeroboam, he that made the<lb/>
+great secession of that people from their<lb/>
+Prince, <normalised orig="hath" auto="true">has</normalised> got no other character from<lb/>
+God but this, the <quote type="biblical" ana="1 Kings 16.26">Man that did make Israel<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="22">D3</fw>
+                     <pb n="18"/>
+                     <lb/>
+to sin</quote>, at once against God and against their<lb/>
+King. Yea upon this account they are<lb/>
+<normalised orig="reckon'd" auto="true">reckoned</normalised> by God to sin after both their Idolatry<lb/>
+and State were ended, when their calves<lb/>
+and their <normalised orig="Kingdome" auto="true">Kingdom</normalised> were destroyed. Ezek. 4.<lb/>
+4,5. the Lord does bid the Prophet <quote type="biblical" ana="Ezek 4.4-5">lie on<lb/>
+his left side 390. <normalised orig="daies" auto="true">days</normalised>, to bear the iniquity of<lb/>
+Israel according to the number of the years of<lb/>
+their iniquity.</quote> But this was more then the<lb/>
+years of their State, which were <normalised orig="onely" auto="true">only</normalised> 255.<lb/>
+390 years indeed there were betwixt the<lb/>
+falling off of the ten Tribes, and the destruction<lb/>
+of Jerusalem by the King of Babel;<lb/>
+but those ten Tribes were gone, their <normalised orig="Kingdome" auto="true">Kingdom</normalised><lb/>
+perfectly <normalised orig="destroy'd" auto="true">destroyed</normalised> above 130. years<lb/>
+before: but their iniquity was not, it seems,<lb/>
+that does outlive their State, so long as that<lb/>
+God's Temple, that King's house did stand from<lb/>
+which they did divide. As if Seditious and<lb/>
+<normalised orig="Schismaticks" auto="true">Schismatics</normalised> sin longer then they are, even<lb/>
+while they are whom they do sin against<lb/>
+in separating from.<lb/>
+<normalised orig="'Tis" auto="true">It is</normalised> true, there was an Ahaz and Manasseh<lb/>
+in the house of David, but Hezekiah and Josiah<lb/>
+did succeed. Mischief did not appear<lb/>
+<normalised orig="entail'd" auto="true">entailed</normalised> on Monarchy, as <normalised orig="'tis" auto="true">it is</normalised> upon rebellion and<lb/>
+                  <pb n="19"/>
+                  <lb/>
+having no King. It does appear their Kings<lb/>
+were guards also to God and his Religion,<lb/>
+the great <normalised orig="defendors" auto="true">defenders</normalised> of his Faith and Worship.<lb/>
+God and the Prince for the most part stood<lb/>
+and fell together: Therefore S. Paul did<lb/>
+afterwards advise <quote type="biblical" ana="1 Tim 2.2">to pray for Kings, that we<lb/>
+might live in godliness and honesty</quote>; and still<lb/>
+they were the same who sought the Lord<lb/>
+their God, and David the King.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="catechism_1597_Dering_R3">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Necessarie" auto="true">Necessary</normalised> Catechism or Instruction</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name><notvariant>Leonie</notvariant> <notvariant>Mohr</notvariant></name>
+            </respStmt>
+            <respStmt>
+               <resp>Proofreading</resp>
+               <name>Andre von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Proofreading</resp>
+               <name>Tina <notvariant>Rath</notvariant></name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="EdDe1540"><notvariant>Dering</notvariant>, Edward</author>
+               <title type="main">
+A <normalised orig="Briefe" auto="true">Brief</normalised> and <normalised orig="necessarie" auto="true">necessary</normalised> <normalised orig="Catechisme" auto="true">Catechism</normalised> or Instruction, very <normalised orig="needfull" auto="true">needful</normalised> to be known of all <normalised orig="Housholders" auto="true">Householders</normalised>. <normalised orig="Wherby" auto="true">Whereby</normalised> they may teach and instruct <normalised orig="theyr" auto="true">their</normalised> <normalised orig="familie" auto="true">family</normalised> in such <normalised orig="poynts" auto="true">points</normalised> of Christian Religion as is most <normalised orig="meete" auto="true">meet</normalised>.
+</title>
+               <title type="short"><normalised orig="Necessarie" auto="true">Necessary</normalised> Catechism or Instruction</title>
+               <date when="1597">1597</date>
+               <date type="this_edition" when="1597">1597</date>
+               <idno type="M."><notvariant>Derings</notvariant> <normalised orig="workes" auto="true">works</normalised> (1597). The English Experience. Its record in early printed books published in facsimile, Number 448. Amsterdam: Theatrvm Orbis Terrarvm, 1972.</idno>
+               <note type="genre" subtype="catechism">catechism</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>octavo</notvariant></term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+
+        <div xml:id="sample1">
+            
+            <head>A <normalised orig="briefe" auto="true">brief</normalised> <normalised orig="Catechisme" auto="true">Catechism</normalised>, <normalised orig="contayning" auto="true">containing</normalised> a declaration of
+the true way to life <normalised orig="euerlasting" auto="true">everlasting</normalised>. Very meet to be known
+of <normalised orig="euery" auto="true">every</normalised> one, before they be admitted to the Lords
+Supper.</head>
+            <sp who="a">
+               <p>Question.<lb/>
+WHat is the chiefest thing which <normalised orig="euery" auto="true">every</normalised> one ought<lb/>
+to be most <normalised orig="carefull" auto="true">careful</normalised> of as long as they <normalised orig="liue" auto="true">live</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><normalised orig="Aunswere" auto="true">Answer</normalised>.<lb/>
+<normalised orig="Euery" auto="true">Every</normalised> one ought to <normalised orig="bee" auto="true">be</normalised> most <normalised orig="carefull" auto="true">careful</normalised> of these two<lb/>
+<normalised orig="poynts" auto="true">points</normalised>. First and <normalised orig="chiefely" auto="true">chiefly</normalised> <normalised orig="howe" auto="false">how</normalised> we can be <normalised orig="saued" auto="true">saved</normalised> in the<lb/>
+day of <normalised orig="iudgement" auto="true">judgment</normalised>, before Gods <normalised orig="iudgement" auto="true">judgment</normalised> <normalised orig="seate" auto="true">seat</normalised>, and so<lb/>
+come to life <normalised orig="euerlasting" auto="true">everlasting</normalised>. Secondly how to <normalised orig="liue" auto="true">live</normalised> according<lb/>
+to Gods holy will during our life. In which two<lb/>
+<normalised orig="poynts" auto="true">points</normalised> <normalised orig="wholy" auto="true">wholly</normalised> <normalised orig="standeth" auto="true">stands</normalised> the glory of God, so much as of<lb/>
+man ought to be sought for.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. <normalised orig="Howe" auto="false">How</normalised> can we know this, how we are discharged before<lb/>
+Gods <normalised orig="iudgement" auto="true">judgment</normalised> <normalised orig="seate" auto="true">seat</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. We can <normalised orig="neuer" auto="true">never</normalised> know how we be discharged before<lb/>
+the <normalised orig="iudgement" auto="true">judgment</normalised> seat of God, <normalised orig="vntill" auto="true">until</normalised> such time as wee<lb/>
+know our own miserable estate, by reason of the <normalised orig="greatnes" auto="true">greatness</normalised><lb/>
+of our <normalised orig="sinnes" auto="true">sins</normalised>, and the horrible punishment which<lb/>
+we <normalised orig="deserue" auto="true">deserve</normalised> for them.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. How <normalised orig="doost" auto="true">dost</normalised> thou know the <normalised orig="greatnes" auto="true">greatness</normalised> of thy <normalised orig="sinne" auto="true">sin</normalised>, &amp; the<lb/>
+horrible punishment due to the same?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The <normalised orig="greatnes" auto="true">greatness</normalised> of my <normalised orig="sinne" auto="true">sin</normalised>, and the horrible punishment<lb/>
+thereof, I know by the law of God, rightly<lb/>
+<normalised orig="vnderstood" auto="true">understood</normalised>, the <normalised orig="summe" auto="true">sum</normalised> whereof is contained in the ten<lb/>
+<normalised orig="commaundements" auto="true">commandments</normalised>.<lb/>
+               </p>
+            </sp>
+            <pb n="1"/>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. <choice ana="illegible">
+                     <sic>*<notvariant>ehearse</notvariant></sic>
+                     <corr>Rehearse</corr>
+                  </choice> the <normalised orig="tenne" auto="true">ten</normalised> <normalised orig="commaundements" auto="true">commandments</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. <quote type="biblical" ana="Ex 20.1-17">God <normalised orig="spake" auto="true">spoke</normalised> all these words and said, I am the Lord<lb/>
+thy God, which brought thee out of the Land of <normalised orig="Egipt" auto="true">Egypt</normalised>,<lb/>
+out of the house of bondage.<lb/>
+1.Thou shalt <normalised orig="haue" auto="true">have</normalised> none other Gods but <normalised orig="mee" auto="true">me</normalised>.<lb/>
+2.Thou shalt not make to thy <normalised orig="selfe" auto="true">self</normalised> any <normalised orig="grauen" auto="true">graven</normalised> image,<lb/>
+nor the <normalised orig="likenes" auto="true">likeness</normalised> of any thing that is in <normalised orig="heauen" auto="true">heaven</normalised> <normalised orig="aboue" auto="true">above</normalised>, nor<lb/>
+in the earth beneath, nor in the water <normalised orig="vnder" auto="true">under</normalised> the earth,<lb/>
+thou shalt not bow <normalised orig="downe" auto="true">down</normalised> to them nor worship them;<lb/>
+For I the Lord thy God am a <normalised orig="iealous" auto="true">jealous</normalised> God, and <normalised orig="visite" auto="true">visit</normalised> the<lb/>
+<normalised orig="sinnes" auto="true">sins</normalised> of the Fathers <normalised orig="vpon" auto="true">upon</normalised> the children <normalised orig="vnto" auto="true">unto</normalised> the third &amp;<lb/>
+fourth generation of them that hate me, and <normalised orig="shew" auto="true">show</normalised> <normalised orig="mercie" auto="true">mercy</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised> thousands, in them that <normalised orig="loue" auto="true">love</normalised> <normalised orig="mee" auto="true">me</normalised> and <normalised orig="keepe" auto="true">keep</normalised> my<lb/>
+<normalised orig="commaundements" auto="true">commandments</normalised>.<lb/>
+3.Thou shalt not take the name of the Lord thy God<lb/>
+in <normalised orig="vaine" auto="true">vain</normalised>; for the Lord will not hold him <normalised orig="guiltlesse" auto="true">guiltless</normalised> that<lb/>
+<normalised orig="taketh" auto="true">takes</normalised> his name in <normalised orig="vaine" auto="true">vain</normalised>.<lb/>
+4.Remember thou <normalised orig="keepe" auto="true">keep</normalised> holy the <normalised orig="Sabaoth" auto="true">Sabbath</normalised> day, <normalised orig="sixe" auto="true">six</normalised><lb/>
+<normalised orig="dayes" auto="true">days</normalised> shalt thou labour and <normalised orig="doe" auto="true">do</normalised> all that thou <normalised orig="hast" auto="true">have</normalised> to <normalised orig="doe" auto="true">do</normalised>.<lb/>
+But the <normalised orig="seauenth" auto="true">seventh</normalised> day is the <normalised orig="Sabaoth" auto="true">Sabbath</normalised> of the <normalised orig="Lorde" auto="true">Lord</normalised> thy<lb/>
+God: In it thou shalt <normalised orig="doe" auto="true">do</normalised> no manner of work, thou and<lb/>
+thy <normalised orig="sonne" auto="true">son</normalised>, and thy daughter, thy man <normalised orig="seruaunt" auto="true">servant</normalised>, and thy<lb/>
+<normalised orig="maide" auto="true">maid</normalised> <normalised orig="seruaunt" auto="true">servant</normalised>, thy <normalised orig="Cattell" auto="true">Cattle</normalised>, &amp; the Stranger that is within<lb/>
+thy gates. For in <normalised orig="sixe" auto="true">six</normalised> <normalised orig="dayes" auto="true">days</normalised> the Lord made <normalised orig="heauen" auto="true">heaven</normalised> &amp;<lb/>
+earth; the sea, and all that in them is, and rested the <normalised orig="seauenth" auto="true">seventh</normalised><lb/>
+day: <normalised orig="wherfore" auto="true">wherefore</normalised> the Lord blessed the <normalised orig="seauenth" auto="true">seventh</normalised> day,<lb/>
+and hallowed it.<lb/>
+5.Honour thy Father and thy Mother, that thy <normalised orig="daies" auto="true">days</normalised><lb/>
+may be long in the land which the Lord thy God <normalised orig="giueth" auto="true">gives</normalised><lb/>
+thee.<lb/>
+6.Thou shalt <normalised orig="doe" auto="true">do</normalised> no <normalised orig="murther" auto="true">murder</normalised>.<lb/>
+7.Thou shalt not commit <normalised orig="adulterie" auto="true">adultery</normalised>.<lb/>
+8.Thou shalt not <normalised orig="steale" auto="true">steal</normalised>.<lb/>
+                     <pb n="2"/>
+                     <lb/>
+9.Thou shalt not <normalised orig="beare" auto="true">bear</normalised> false <normalised orig="witnes" auto="true">witness</normalised> against thy neighbour.<lb/>
+10.Thou shalt not <normalised orig="couet" auto="true">covet</normalised> thy neighbours house, thou<lb/>
+shalt not <normalised orig="couet" auto="true">covet</normalised> thy neighbours wife, nor his man <normalised orig="seruant" auto="true">servant</normalised>,<lb/>
+nor his <normalised orig="mayde" auto="true">maid</normalised>, nor his <normalised orig="Oxe" auto="true">Ox</normalised>, nor his <normalised orig="Asse" auto="true">Ass</normalised>, nor any<lb/>
+thing that is his.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What is the first <normalised orig="comaundement" auto="true">commandment</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. 1. <quote type="biblical" ana="Ex 20.3">Thou shalt <normalised orig="haue" auto="true">have</normalised> none other Gods but me.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What is the meaning of this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The Lord God <notvariant>straightly</notvariant> <normalised orig="chargeth" auto="true">charge</normalised> <normalised orig="vs" auto="true">us</normalised> in this first<lb/>
+<normalised orig="commaundement" auto="true">commandment</normalised>, that we worship God alone, which<lb/>
+worship <normalised orig="standeth" auto="true">stands</normalised> in <normalised orig="foure" auto="true">four</normalised> <normalised orig="poynts" auto="true">points</normalised>. First, that wee <normalised orig="loue" auto="true">love</normalised><lb/>
+God <normalised orig="aboue" auto="true">above</normalised> all. Secondly, that we <normalised orig="feare" auto="true">fear</normalised> God <normalised orig="aboue" auto="true">above</normalised> all.<lb/>
+Thirdly, that we make our prayers to none but to God.<lb/>
+Fourthly, that we acknowledge God alone to <normalised orig="bee" auto="true">be</normalised> the<lb/>
+guider and <normalised orig="gouernour" auto="true">governor</normalised> of all things of <normalised orig="who~" auto="true">whom</normalised> we <normalised orig="receiue" auto="true">receive</normalised><lb/>
+all the benefits we <normalised orig="haue" auto="true">have</normalised>, and therefore that we trust &amp;<lb/>
+stay <normalised orig="vpon" auto="true">upon</normalised> him alone.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What is the second <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. 2. <quote type="biblical" ana="Ex 20.4">Thou shalt not make to thy <normalised orig="selfe" auto="true">self</normalised> any <normalised orig="grauen" auto="true">graven</normalised><lb/>
+Image, nor the <normalised orig="likenes" auto="true">likeness</normalised> of anything that is in <normalised orig="heauen" auto="true">heaven</normalised> <normalised orig="aboue" auto="true">above</normalised>,</quote>
+                  <lb/>
+&amp;c.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What is the meaning of this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. In this second <normalised orig="commaundement" auto="true">commandment</normalised>, <normalised orig="bee" auto="true">be</normalised> contained<lb/>
+three things. First, that wee should not <normalised orig="thinke" auto="true">think</normalised> God to<lb/>
+be like either man or woman, or any other thing, and<lb/>
+therefore that we make no Image of GOD in any case.<lb/>
+Secondly, that wee make no Image of any other thing,<lb/>
+<normalised orig="eyther" auto="true">either</normalised> to worship the Image it <normalised orig="selfe" auto="true">self</normalised>, either God, Saint,<lb/>
+or <normalised orig="Angell" auto="true">Angel</normalised>, by the Image; neither yet to this end, to <normalised orig="bee" auto="true">be</normalised><lb/>
+the better put in mind of God by the image. <normalised orig="Thirdlie" auto="true">Thirdly</normalised>,<lb/>
+that wee worship not GOD in any other <normalised orig="outwarde" auto="true">outward</normalised><lb/>
+worship, according to our <normalised orig="owne" auto="true">own</normalised> fantasies, but as God<lb/>
+                  <pb n="3"/>
+                  <lb/>
+<normalised orig="commaundeth" auto="true">commands</normalised> <normalised orig="vs" auto="true">us</normalised> in his word.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What is the third <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. 3. <quote type="biblical" ana="Ex 20.7">Thou shalt not take the name of the Lord thy<lb/>
+God in <normalised orig="vaine" auto="true">vain</normalised>,</quote> &amp;c.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What is the meaning of this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. God <normalised orig="chargeth" auto="true">charge</normalised> <normalised orig="vs" auto="true">us</normalised> in this third <normalised orig="commaundement" auto="true">commandment</normalised>,<lb/>
+these three things. First, that we <normalised orig="vse" auto="true">use</normalised> with most high <normalised orig="reuerence" auto="true">reverence</normalised><lb/>
+the name of God, <normalised orig="whensoeuer" auto="true">whenever</normalised> we either <normalised orig="speake" auto="true">speak</normalised><lb/>
+or think <normalised orig="vpon" auto="true">upon</normalised> him. Secondly, that wee <normalised orig="neuer" auto="true">never</normalised> blaspheme<lb/>
+the name of God, by <normalised orig="Coniuring" auto="true">Conjuring</normalised>, Witch-craft, <normalised orig="sorcerie" auto="true">sorcery</normalised>,<lb/>
+or Charming, or any such like, neither by cursing or<lb/>
+banning. Thirdly, that wee <normalised orig="neuer" auto="true">never</normalised> <normalised orig="sweare" auto="true">swear</normalised> by the name<lb/>
+of God, in our common <normalised orig="talke" auto="true">talk</normalised>, although the matter be<lb/>
+<normalised orig="neuer" auto="true">never</normalised> so true: But <normalised orig="onely" auto="true">only</normalised> where the glory of GOD is<lb/>
+sought, or the <normalised orig="saluation" auto="true">salvation</normalised> of our brethren, or also before<lb/>
+a Magistrate in witnessing the truth, when we are <normalised orig="thervnto" auto="true">thereunto</normalised><lb/>
+lawfully called. In which causes wee must <normalised orig="onelie" auto="true">only</normalised><lb/>
+<normalised orig="sweare" auto="true">swear</normalised> by the name of God: but as for Saints, Angels,<lb/>
+<normalised orig="Roode" auto="true">Rood</normalised>, <normalised orig="Booke" auto="true">Book</normalised>, <normalised orig="Crosse" auto="true">Cross</normalised>, <normalised orig="Masse" auto="true">Mass</normalised>, or any other thing, we<lb/>
+ought in no case by them to <normalised orig="sweare" auto="true">swear</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What is the fourth <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. 4. <quote type="biblical" ana="Ex 20.8">Remember that thou <normalised orig="keepe" auto="true">keep</normalised> holy the <normalised orig="Sabaoth" auto="true">Sabbath</normalised><lb/>
+day.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What is the meaning of this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The hallowing of the <normalised orig="Sabaoth" auto="true">Sabbath</normalised> day, is to rest <normalised orig="fro~" auto="true">from</normalised><lb/>
+our labours in our calling: and in one place to assemble<lb/>
+our <normalised orig="selues" auto="true">selves</normalised> together, and with <normalised orig="feare" auto="true">fear</normalised> &amp; <normalised orig="reuerence" auto="true">reverence</normalised> to hear,<lb/>
+<normalised orig="marke" auto="true">mark</normalised>, and lay <normalised orig="vp" auto="true">up</normalised> in our harts the word of God preached<lb/>
+<normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>: To pray altogether, that which wee<lb/>
+<normalised orig="vnderstand" auto="true">understand</normalised> with one consent. And at the times <normalised orig="appoynted" auto="true">appointed</normalised><lb/>
+to <normalised orig="vse" auto="true">use</normalised> the Sacraments in faith and repentance, and<lb/>
+all our life long to rest from <normalised orig="wickednes" auto="true">wickedness</normalised>, that the <normalised orig="Lorde" auto="true">Lord</normalised><lb/>
+by his holy spirit may <normalised orig="worke" auto="true">work</normalised> in <normalised orig="vs" auto="true">us</normalised> his good <normalised orig="worke" auto="true">work</normalised>, and<lb/>
+                  <pb n="4"/>
+                  <lb/>
+so begin in this life the <normalised orig="euerlasting" auto="true">everlasting</normalised> rest.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the <normalised orig="fift" auto="true">fifth</normalised> <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. 5. <quote type="biblical" ana="Ex 20.12">Honour thy Father and thy mother.</quote> &amp;c.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the meaning of this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The meaning of the <normalised orig="fift" auto="true">fifth</normalised> <normalised orig="commaundement" auto="true">commandment</normalised> is, that<lb/>
+we should honour (that is to say) <normalised orig="loue" auto="true">love</normalised>, <normalised orig="feare" auto="true">fear</normalised>, obey, and<lb/>
+<normalised orig="relieue" auto="true">relieve</normalised> our Parents, or any other that are <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> in<lb/>
+their <normalised orig="steede" auto="true">steed</normalised>. As our Princes, Rulers, and Magistrates,<lb/>
+our Pastors and Teachers, our <normalised orig="Maisters" auto="true">Masters</normalised>, and all others<lb/>
+which are <normalised orig="aboue" auto="true">above</normalised> <normalised orig="vs" auto="true">us</normalised>, in any calling, placed by God, the<lb/>
+aged &amp; gray-headed: and that all <normalised orig="superiours" auto="true">superiors</normalised> <normalised orig="shew" auto="true">show</normalised> them<lb/>
+<normalised orig="selues" auto="true">selves</normalised> indeed Parents, in defending and guiding <normalised orig="theyr" auto="true">their</normalised><lb/>
+<normalised orig="inferiours" auto="true">inferiors</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the <normalised orig="sixt" auto="true">sixth</normalised> <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. 6. <quote type="biblical" ana="Ex 20.13">Thou shalt <normalised orig="doe" auto="true">do</normalised> no <normalised orig="murther" auto="true">murder</normalised>.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the meaning of this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. First, the Lord God <normalised orig="forbiddeth" auto="true">forbids</normalised> <normalised orig="vs" auto="true">us</normalised> in this <normalised orig="sixt" auto="true">sixth</normalised> <normalised orig="co~maundement" auto="true">commandment</normalised>,<lb/>
+all killing, fighting, &amp; quarrelling, and<lb/>
+<normalised orig="reproches" auto="true">reproaches</normalised>, <normalised orig="mockes" auto="true">mocks</normalised>, and taunts. Secondly, <normalised orig="hee" auto="true">he</normalised> <normalised orig="forbiddeth" auto="true">forbids</normalised><lb/>
+all killing in <normalised orig="hart" auto="true">heart</normalised>, that is, all anger and malice, all<lb/>
+desire of <normalised orig="reuenge" auto="true">revenge</normalised>. Thirdly, on the other side <normalised orig="hee" auto="true">he</normalised> <normalised orig="commaundeth" auto="true">commands</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised> to <normalised orig="preserue" auto="true">preserve</normalised> life, by exercising the <normalised orig="workes" auto="true">works</normalised><lb/>
+of <normalised orig="mercie" auto="true">mercy</normalised> and compassion towards our brethren, yea <normalised orig="euen" auto="true">even</normalised><lb/>
+towards our enemies. Fourthly, to <normalised orig="loue" auto="true">love</normalised> one another<lb/>
+inwardly in <normalised orig="hart" auto="true">heart</normalised>, as our <normalised orig="selues" auto="true">selves</normalised>: yea, <normalised orig="euen" auto="true">even</normalised> our enemies<lb/>
+and them that hate <normalised orig="vs" auto="true">us</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the <normalised orig="seauenth" auto="true">seventh</normalised> <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. 7. <quote type="biblical" ana="Ex 20.14">Thou shalt not commit adultery.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the meaning of this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. Wee are forbidden in this <normalised orig="seauenth" auto="true">seventh</normalised> <normalised orig="commaundement" auto="true">commandment</normalised>,<lb/>
+first all <normalised orig="adulterie" auto="true">adultery</normalised>, fornication, and all other<lb/>
+<normalised orig="vncleanes" auto="false">uncleanness</normalised> in our bodies. Secondly, all <normalised orig="vnpure" auto="true">impure</normalised> thoughts,<lb/>
+and <normalised orig="lustes" auto="true">lusts</normalised> of the <normalised orig="hart" auto="true">heart</normalised>. Thirdly, all other things which<lb/>
+                  <pb n="5"/>
+                  <lb/>
+might <normalised orig="intise" auto="false">entice</normalised> to such <normalised orig="vncleannes" auto="true">uncleanness</normalised>, as all <normalised orig="vnchaste" auto="true">unchaste</normalised> <normalised orig="behauiour" auto="true">behaviour</normalised>,<lb/>
+filthy <normalised orig="talke" auto="true">talk</normalised> and songs, wanton <normalised orig="apparrell" auto="true">apparel</normalised>, lewd &amp;<lb/>
+idle pastimes, gluttony, <normalised orig="drunkennes" auto="true">drunkenness</normalised>, houses of open<lb/>
+<normalised orig="whoredome" auto="true">whoredom</normalised>, &amp; <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> <normalised orig="els" auto="true">else</normalised> may allure <normalised orig="vs" auto="true">us</normalised> to <normalised orig="vncleannesse" auto="true">uncleanness</normalised>.<lb/>
+Fourthly, on the other side he <normalised orig="commaundeth" auto="true">commands</normalised> <normalised orig="vs" auto="true">us</normalised> to<lb/>
+<normalised orig="keepe" auto="true">keep</normalised> our bodies and <normalised orig="soules" auto="true">souls</normalised> <normalised orig="chast" auto="true">chaste</normalised> and pure, as temples<lb/>
+of the holy Ghost. Or if the <normalised orig="gyft" auto="true">gift</normalised> of chastity be not <normalised orig="giuen" auto="true">given</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised>, then to <normalised orig="vse" auto="true">use</normalised> the lawful remedy appointed by God,<lb/>
+which is marriage.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the <normalised orig="eyght" auto="true">eight</normalised> <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. 8. <quote type="biblical" ana="Ex 20.15">Thou shalt not <normalised orig="steale" auto="true">steal</normalised>.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the meaning of this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. In this <normalised orig="eyght" auto="true">eight</normalised> <normalised orig="commandement" auto="true">commandment</normalised> the Lord God <normalised orig="forbiddeth" auto="true">forbids</normalised><lb/>
+all stealing and robbing in <normalised orig="outwarde" auto="true">outward</normalised> <normalised orig="deedes" auto="true">deeds</normalised>.<lb/>
+Secondly, he <normalised orig="forbiddeth" auto="true">forbids</normalised> all stealing in <normalised orig="hart" auto="true">heart</normalised>, that is, all<lb/>
+desire of any mans goods wrongfully. Thirdly <normalised orig="hee" auto="true">he</normalised> <normalised orig="forbiddeth" auto="true">forbids</normalised><lb/>
+all deceit and <normalised orig="wrongfull" auto="true">wrongful</normalised> dealing. Fourthly on<lb/>
+the other side, he <normalised orig="chargeth" auto="true">charge</normalised> <normalised orig="vs" auto="true">us</normalised>, that wee <normalised orig="bee" auto="true">be</normalised> contented<lb/>
+with that portion of goods which the <normalised orig="Lorde" auto="true">Lord</normalised> <normalised orig="giueth" auto="true">gives</normalised> <normalised orig="vs" auto="true">us</normalised>:<lb/>
+to apply our <normalised orig="selues" auto="true">selves</normalised> in our vocation and calling, to <normalised orig="gette" auto="true">get</normalised><lb/>
+our <normalised orig="owne" auto="true">own</normalised> <normalised orig="lyuing" auto="true">living</normalised>, and <normalised orig="liue" auto="true">live</normalised> of that which is our <normalised orig="owne" auto="true">own</normalised>, &amp;<lb/>
+also to be helpfull <normalised orig="vnto" auto="true">unto</normalised> others.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the ninth <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. 9. <quote type="biblical" ana="Ex 20.16">Thou shalt not <normalised orig="beare" auto="true">bear</normalised> false <normalised orig="witnesse" auto="true">witness</normalised>,</quote> &amp;c. <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the meaning of this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The <normalised orig="Lorde" auto="true">Lord</normalised> God in this ninth <normalised orig="commaundement" auto="true">commandment</normalised><lb/>
+<normalised orig="dooth" auto="true">doth</normalised> <normalised orig="commaunde" auto="true">command</normalised> <normalised orig="vs" auto="true">us</normalised>: First, that wee should <normalised orig="neuer" auto="true">never</normalised><lb/>
+speak falsely in <normalised orig="witnesse" auto="true">witness</normalised> bearing. Secondly, that not only<lb/>
+in <normalised orig="witnesse" auto="true">witness</normalised> bearing, but also in no other matter wee<lb/>
+should <normalised orig="neuer" auto="true">never</normalised> lie, flatter or dissemble. <normalised orig="Thirdlie" auto="true">Thirdly</normalised>, that we<lb/>
+should <normalised orig="neuer" auto="true">never</normalised> tell false tales behind our neighbours back,<lb/>
+or <normalised orig="heare" auto="true">hear</normalised> them of others, that wee <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="neuer" auto="true">never</normalised> <normalised orig="beleeue" auto="true">believe</normalised><lb/>
+any <normalised orig="euill" auto="true">evil</normalised> spoken behind <normalised orig="theyr" auto="true">their</normalised> backs, <normalised orig="vntil" auto="true">until</normalised> we fully<lb/>
+                  <pb n="6"/>
+                  <lb/>
+<normalised orig="knowe" auto="true">know</normalised> the <normalised orig="certaintie" auto="true">certainty</normalised>. Fourthly, in <normalised orig="priuate" auto="true">private</normalised> offences, to<lb/>
+<normalised orig="speake" auto="true">speak</normalised> nothing, although it be true, to the hurting of<lb/>
+our brothers good name, if by <normalised orig="priuate" auto="true">private</normalised> admonition <normalised orig="hee" auto="true">he</normalised><lb/>
+may be <normalised orig="wonne" auto="true">won</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the tenth <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. 10. <quote type="biblical" ana="Ex 20.17">Thou shalt not <normalised orig="couet" auto="true">covet</normalised> thy neighbours house,</quote>
+                  <lb/>
+&amp;c.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the meaning of this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. <normalised orig="Heere" auto="true">Here</normalised> the Lord in <normalised orig="plaine" auto="true">plain</normalised> words <normalised orig="dooth" auto="true">doth</normalised> forbid all<lb/>
+inward desire, <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> is <normalised orig="vnthankfull" auto="true">unthankful</normalised> to be done, although<lb/>
+wee <normalised orig="neuer" auto="true">never</normalised> consent <normalised orig="vnto" auto="true">unto</normalised> it, as the rebellion of<lb/>
+the flesh, all corruption of the old man, all blot of <normalised orig="originall" auto="true">original</normalised><lb/>
+<normalised orig="sinne" auto="true">sin</normalised> so that by this <normalised orig="commaundement" auto="true">commandment</normalised> most <normalised orig="cleerly" auto="true">clearly</normalised><lb/>
+we may see the image of that man that <normalised orig="pleaseth" auto="true">pleases</normalised> God,<lb/>
+<normalised orig="euen" auto="true">even</normalised> such a one, in whom nothing is impure, <normalised orig="neyther" auto="true">neither</normalised> in<lb/>
+will nor nature.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. <normalised orig="Canst" auto="true">Can</normalised> thou <normalised orig="fulfill" auto="true">fulfil</normalised> all these <normalised orig="commaundements" auto="true">commandments</normalised>, without<lb/>
+breaking any one of them?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. These are the <normalised orig="commandements" auto="true">commandments</normalised> of almighty God,<lb/>
+the perfect fulfilling whereof no flesh can <normalised orig="attaine" auto="true">attain</normalised> <normalised orig="vnto" auto="true">unto</normalised>,<lb/>
+no, although I <normalised orig="doe" auto="true">do</normalised> all that I can: yet I break them daily,<lb/>
+both in thought, word, and deed.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what punishment <normalised orig="doth" auto="false">does</normalised> God <normalised orig="appoynt" auto="true">appoint</normalised> for breaking any<lb/>
+one of these?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The punishment for the breaking of the least <normalised orig="co~maundement" auto="true">commandment</normalised>,<lb/>
+<normalised orig="euen" auto="true">even</normalised> in thought, yea, if it were but<lb/>
+once broken in all my life, is the <normalised orig="euerlasting" auto="true">everlasting</normalised> curse of<lb/>
+God, which <normalised orig="containeth" auto="true">contains</normalised> all the torments that can be <normalised orig="deuised" auto="true">devised</normalised><lb/>
+both of <normalised orig="soule" auto="true">soul</normalised> and body, and in the Scripture is called<lb/>
+by <normalised orig="diuers" auto="true">divers</normalised> names, to <normalised orig="expresse" auto="true">express</normalised> the <normalised orig="paine" auto="true">pain</normalised>, as hell fire,<lb/>
+the <normalised orig="worme" auto="true">worm</normalised> that <normalised orig="neuer" auto="true">never</normalised> <normalised orig="dieth" auto="true">dies</normalised>, <normalised orig="vtter" auto="true">utter</normalised> <normalised orig="darknesse" auto="true">darkness</normalised>, burning<lb/>
+lake, second death, damnation, and such like.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Is there nothing which a man can do in this world, to<lb/>
+                  <lb/>
+                  <fw type="pageNum">B.</fw>
+                  <pb n="7"/>
+                  <lb/>
+                  <choice ana="print">
+                     <sic>to <normalised orig="serue" auto="true">serve</normalised></sic>
+                     <corr><normalised orig="serue" auto="true">serve</normalised></corr>
+                  </choice> as a sufficient <normalised orig="recompence" auto="true">recompense</normalised> to God for one <normalised orig="sinne" auto="true">sin</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. No, although I should <normalised orig="giue" auto="true">give</normalised> all my goods to the<lb/>
+<normalised orig="poore" auto="true">poor</normalised>, or suffer my body to <normalised orig="bee" auto="true">be</normalised> whipped all my life<lb/>
+long, or suffer any other punishment which might <normalised orig="bee" auto="true">be</normalised><lb/>
+<normalised orig="deuised" auto="true">devised</normalised> it is not sufficient for one of my least sins.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Yea, but God is <normalised orig="mercifull" auto="true">merciful</normalised>, will <normalised orig="hee" auto="true">he</normalised> therefore punish sin<lb/>
+so sharply <normalised orig="thinkest" auto="true">think</normalised> thou?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. Our God indeed is <normalised orig="mercifull" auto="true">merciful</normalised>, but <normalised orig="hee" auto="true">he</normalised> is also <normalised orig="iust" auto="true">just</normalised><lb/>
+and true, and therefore must <normalised orig="needes" auto="true">needs</normalised> of <normalised orig="iustice" auto="true">justice</normalised> and truth<lb/>
+punish mans <normalised orig="sinne" auto="true">sin</normalised>, with that punishment which he <normalised orig="hath" auto="true">has</normalised><lb/>
+appointed<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Seeing then this punishment must <normalised orig="needes" auto="true">needs</normalised> <normalised orig="bee" auto="true">be</normalised> suffered,<lb/>
+are we in our <normalised orig="selues" auto="true">selves</normalised> able to suffer and <normalised orig="ouer-come" auto="false">over-come</normalised> it?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. None is able to suffer &amp; <normalised orig="ouercome" auto="true">overcome</normalised> this great punishment<lb/>
+of sin, being <normalised orig="onely" auto="true">only</normalised> man.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Is there then no <normalised orig="meanes" auto="true">means</normalised> at all whereby wee may be <normalised orig="saued" auto="true">saved</normalised><lb/>
+from these <normalised orig="paines" auto="true">pains</normalised> <normalised orig="euerlasting" auto="true">everlasting</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The <normalised orig="paynes" auto="true">pains</normalised> which our <normalised orig="sinnes" auto="true">sins</normalised> <normalised orig="deserue" auto="true">deserve</normalised>, must needs<lb/>
+be suffered by man, because GOD of his <normalised orig="iustice" auto="true">justice</normalised> must<lb/>
+<normalised orig="needes" auto="true">needs</normalised> punish <normalised orig="sinne" auto="true">sin</normalised> in man, which was committed by<lb/>
+man; and <normalised orig="therfore" auto="true">therefore</normalised> our <normalised orig="Sauiour" auto="true">Saviour</normalised> Christ being <normalised orig="euerlasting" auto="true">everlasting</normalised><lb/>
+God, became also man and <normalised orig="hath" auto="true">has</normalised> fully suffered <normalised orig="whatsoeuer" auto="true">whatsoever</normalised><lb/>
+was due for mans <normalised orig="sinne" auto="true">sin</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Are not then all people discharged, seeing the punishment<lb/>
+is <normalised orig="payd" auto="true">paid</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. None are discharged <normalised orig="sauing" auto="false">saving</normalised> those that take hold<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> Christ, and his merits with a true <normalised orig="fayth" auto="true">faith</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What <normalised orig="callest" auto="true">call</normalised> thou this true faith?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. <normalised orig="Thys" auto="true">This</normalised> true and <normalised orig="lyuely" auto="true">lively</normalised> faith is a full <normalised orig="perswasion" auto="true">persuasion</normalised><lb/>
+and assurance of my <normalised orig="hart" auto="true">heart</normalised> grounded <normalised orig="vpon" auto="true">upon</normalised> the promise<lb/>
+of God, and wrought in me by the holy ghost, <normalised orig="wherby" auto="true">whereby</normalised><lb/>
+I am fully assured, that what <normalised orig="soeuer" auto="true">soever</normalised> Christ <normalised orig="hath" auto="true">has</normalised><lb/>
+wrought for mans <normalised orig="saluation" auto="true">salvation</normalised>, <normalised orig="pertaineth" auto="true">pertains</normalised> not <normalised orig="onely" auto="true">only</normalised> to others,<lb/>
+                  <pb n="8"/>
+                  <lb/>
+but <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="euen" auto="true">even</normalised></corr>
+                  </choice> to me, and is <normalised orig="wholy" auto="true">wholly</normalised> mine, as surely as if<lb/>
+I performed the same in mine <normalised orig="owne" auto="true">own</normalised> person.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. How can it be that thy <normalised orig="sinnes" auto="true">sins</normalised> are <normalised orig="forgiuen" auto="true">forgiven</normalised> thee, &amp; yet<lb/>
+according to Gods truth fully punished, with the punishment<lb/>
+which God <normalised orig="hath" auto="true">has</normalised> appointed for <normalised orig="sinnes" auto="true">sins</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. By <normalised orig="thys" auto="true">this</normalised> my true <normalised orig="fayth" auto="true">faith</normalised>, I see my <normalised orig="sinnes" auto="true">sins</normalised> both to be<lb/>
+<normalised orig="forgyuen" auto="true">forgiven</normalised>, and yet fully <choice ana="print">
+                     <sic><notvariant>funished</notvariant></sic>
+                     <corr>punished</corr>
+                  </choice>, for in <normalised orig="IESVS" auto="false">JESUS</normalised> Christ<lb/>
+to <normalised orig="satis-fie" auto="false">satisfy</normalised> Gods <normalised orig="iustice" auto="true">justice</normalised> they <normalised orig="bee" auto="true">be</normalised> fully punished, and<lb/>
+yet to me they be <normalised orig="forgiuen" auto="true">forgiven</normalised>, because in me, they be not<lb/>
+punished but in Christ for <normalised orig="mee" auto="true">me</normalised>, to set <normalised orig="foorth" auto="true">forth</normalised> Gods mercy,<lb/>
+and therefore shall <normalised orig="neuer" auto="true">never</normalised> be <normalised orig="layde" auto="true">laid</normalised> to my charge. In<lb/>
+this manner therefore I see the Lord my God to be both<lb/>
+<normalised orig="mercifull" auto="true">merciful</normalised> and <normalised orig="iust" auto="true">just</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Yea, but although the punishment of thy <normalised orig="sinnes" auto="true">sins</normalised> <normalised orig="bee" auto="true">be</normalised><lb/>
+<normalised orig="payde" auto="true">paid</normalised> in Christ, yet seeing there can no <normalised orig="vnrighteousnes" auto="false">unrighteousness</normalised> <choice ana="illegible">
+                     <sic>*well</sic>
+                     <corr>dwell</corr>
+                  </choice>
+                  <lb/>
+with GOD, how <normalised orig="canst" auto="true">can</normalised> thou stand before Gods <normalised orig="iudgement" auto="true">judgment</normalised> seat<lb/>
+as righteous and <normalised orig="iust" auto="true">just</normalised>, seeing thou <normalised orig="hast" auto="true">have</normalised> no <normalised orig="righteousnes" auto="true">righteousness</normalised>, but<lb/>
+such as is stained with so many <normalised orig="sinnes" auto="true">sins</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. I stand as <normalised orig="iust" auto="true">just</normalised> and righteous before the throne of<lb/>
+God, not clothed with mine <normalised orig="owne" auto="true">own</normalised> <normalised orig="righteousnes" auto="true">righteousness</normalised> which<lb/>
+I <normalised orig="haue" auto="true">have</normalised> wrought in mine <normalised orig="owne" auto="true">own</normalised> person: but with the<lb/>
+<normalised orig="righteousnesse" auto="true">righteousness</normalised> of <normalised orig="Iesus" auto="true">Jesus</normalised> Christ. Which <normalised orig="righteousnesse" auto="true">righteousness</normalised><lb/>
+being taken hold <normalised orig="vpon" auto="true">upon</normalised> by a true faith, is made mine;<lb/>
+thus am I <normalised orig="iust" auto="true">just</normalised> in the sight of God, not in respect of mine<lb/>
+<normalised orig="owne" auto="true">own</normalised> <normalised orig="workes" auto="true">works</normalised>, which I <normalised orig="haue" auto="true">have</normalised> wrought, but taking <normalised orig="holde" auto="true">hold</normalised><lb/>
+<normalised orig="vpon" auto="true">upon</normalised> <normalised orig="Christes" auto="true">Christ's</normalised> works to be mine by <normalised orig="fayth" auto="true">faith</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. <normalised orig="Dooth" auto="true">Doth</normalised> not this make men <normalised orig="runne" auto="true">run</normalised> into all <normalised orig="sinne" auto="true">sin</normalised> &amp; <normalised orig="wickednesse" auto="true">wickedness</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. No, for <normalised orig="thys" auto="true">this</normalised> true <normalised orig="fayth" auto="true">faith</normalised> as <normalised orig="soone" auto="true">soon</normalised> as it is wrought<lb/>
+in <normalised orig="vs" auto="true">us</normalised> through the holy Ghost, <normalised orig="dooth" auto="true">doth</normalised> frame our harts a<lb/>
+new, and <normalised orig="causeth" auto="true">causes</normalised> <normalised orig="vs" auto="true">us</normalised> to detest, hate, <normalised orig="loth" auto="true">loath</normalised>, and <normalised orig="abhorre" auto="true">abhor</normalised><lb/>
+<normalised orig="sinne" auto="true">sin</normalised> in all men, but especially in our <normalised orig="selues" auto="true">selves</normalised>, and <normalised orig="maketh" auto="true">makes</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised> to <normalised orig="haue" auto="true">have</normalised> our whole delight and <normalised orig="ioy" auto="true">joy</normalised> in those <normalised orig="thinges" auto="true">things</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum">B2</fw>
+                  <pb n="9"/>
+                  <lb/>
+which be agreeable to Gods will, and <normalised orig="causeth" auto="true">causes</normalised> <normalised orig="vs" auto="true">us</normalised> also to<lb/>
+<normalised orig="expresse" auto="true">express</normalised> the same in our life and <normalised orig="conuersation" auto="true">conversation</normalised>, or <normalised orig="els" auto="true">else</normalised> it is<lb/>
+no true <normalised orig="fayth" auto="true">faith</normalised>, but a dead faith.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Rehearse the <normalised orig="summe" auto="true">sum</normalised> of this faith.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. I <normalised orig="Beleeue" auto="true">Believe</normalised> in God the Father <normalised orig="almightie" auto="true">almighty</normalised>, maker of<lb/>
+<normalised orig="heauen" auto="true">heaven</normalised> and earth. And in <normalised orig="Iesus" auto="true">Jesus</normalised> Christ his <normalised orig="onlie" auto="true">only</normalised><lb/>
+<normalised orig="sonne" auto="true">son</normalised> our Lord: which was <normalised orig="conceiued" auto="true">conceived</normalised> by the<lb/>
+holy Ghost, borne of the virgin Mary. He suffered <normalised orig="vnder" auto="true">under</normalised><lb/>
+Pontius Pilate, was crucified, dead, &amp; buried, he descended<lb/>
+into hell, and the third day he rose <normalised orig="againe" auto="true">again</normalised> <normalised orig="fro~" auto="true">from</normalised> death.<lb/>
+<normalised orig="Hee" auto="true">He</normalised> ascended into <normalised orig="heauen" auto="true">heaven</normalised>, and <normalised orig="sitteth" auto="true">sits</normalised> on the right hand<lb/>
+of God the Father almighty. From thence <normalised orig="shal" auto="true">shall</normalised> he come,<lb/>
+to <normalised orig="iudge" auto="true">judge</normalised> both the <normalised orig="quicke" auto="true">quick</normalised> and the dead. I <normalised orig="beleeue" auto="true">believe</normalised> in the<lb/>
+holy Ghost. The holy <normalised orig="Catholike" auto="true">Catholic</normalised> Church, the communion<lb/>
+of Saints, the <normalised orig="forgiuenesse" auto="true">forgiveness</normalised> of <normalised orig="sinnes" auto="true">sins</normalised>, the resurrection<lb/>
+of the body, and the life <normalised orig="euerlasting" auto="true">everlasting</normalised>. So be it.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What is the effect of this <normalised orig="Creede" auto="true">Creed</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. This <normalised orig="Creede" auto="true">Creed</normalised> <normalised orig="containeth" auto="true">contains</normalised> <normalised orig="foure" auto="true">four</normalised> <normalised orig="especiall" auto="true">especial</normalised> points.<lb/>
+First, what we ought to <normalised orig="beleeue" auto="true">believe</normalised> concerning God the father.<lb/>
+Secondly, concerning God the <normalised orig="sonne" auto="true">son</normalised>. <normalised orig="Thirdlie" auto="true">Thirdly</normalised>,<lb/>
+concerning God the holy Ghost. Fourthly, concerning<lb/>
+Gods people, called the Church.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what <normalised orig="beleeuest" auto="true">believe</normalised> thou in the first part, concerning God<lb/>
+the Father?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. First, I <normalised orig="beleeue" auto="true">believe</normalised> that GOD the Father thorough<lb/>
+Christ, into whose body I am <normalised orig="graffed" auto="true">gruffed</normalised> by faith, is not<lb/>
+<normalised orig="onely" auto="true">only</normalised> a father of other <normalised orig="faithfull" auto="true">faithful</normalised>, but <normalised orig="euen" auto="true">even</normalised> my father, &amp;<lb/>
+<normalised orig="therfore" auto="true">therefore</normalised> <normalised orig="loueth" auto="true">loves</normalised> me. Secondly, that he is almighty, that<lb/>
+is, that he <normalised orig="hath" auto="true">has</normalised> all power in his <normalised orig="hande" auto="true">hand</normalised>, guiding and ruling<lb/>
+all things, so that nothing can <normalised orig="bee" auto="true">be</normalised> done in <normalised orig="heauen" auto="true">heaven</normalised>,<lb/>
+earth, or hell, without his <normalised orig="prouidence" auto="true">providence</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What <normalised orig="beleeuest" auto="true">believe</normalised> thou in the <normalised orig="seconde" auto="true">second</normalised> part, concerning<lb/>
+                  <pb n="10"/>
+                  <lb/>
+God the <normalised orig="Sonne" auto="true">Son</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. I <normalised orig="beleeue" auto="true">believe</normalised> that <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, one God in substance<lb/>
+with the Father and the holy Ghost, <normalised orig="tooke" auto="true">took</normalised> flesh of the<lb/>
+Virgin, and is become perfect man, as I am in all things,<lb/>
+<normalised orig="sinne" auto="true">sin</normalised> <normalised orig="onely" auto="true">only</normalised> excepted, and in my nature <normalised orig="hath" auto="true">has</normalised> wrought<lb/>
+for me, <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> was <normalised orig="needefull" auto="true">needful</normalised> for my <normalised orig="saluation" auto="true">salvation</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What meanest thou, when thou <notvariant>sayest</notvariant>: <normalised orig="Hee" auto="true">He</normalised> suffered<lb/>
+<normalised orig="vnder" auto="true">under</normalised> Pontius Pilate?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. Because that manner of death which men <normalised orig="doe" auto="true">do</normalised> suffer<lb/>
+by the sentence of the <normalised orig="Iudge" auto="true">Judge</normalised>, and <normalised orig="vnder" auto="true">under</normalised> the <normalised orig="tytle" auto="true">title</normalised> of<lb/>
+<normalised orig="Iustice" auto="true">Justice</normalised>, is more <normalised orig="shamefull" auto="true">shameful</normalised>, <normalised orig="slaunderous" auto="true">slanderous</normalised>, and terrible, then<lb/>
+if a man should <normalised orig="dye" auto="true">die</normalised> naturally in his bed: Therefore<lb/>
+Christ <normalised orig="tooke" auto="true">took</normalised> on him our person, to <normalised orig="shew" auto="true">show</normalised> him <normalised orig="selfe" auto="true">self</normalised> before<lb/>
+an earthly <normalised orig="Iudge" auto="true">Judge</normalised>, and to be condemned by the<lb/>
+mouth of Pilate, he being then <normalised orig="Iudge" auto="true">Judge</normalised>, that thereby we<lb/>
+might be cleared before the <normalised orig="iudgment" auto="true">judgment</normalised> <normalised orig="seate" auto="true">seat</normalised> of God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What meanest thou when thou <normalised orig="sayst" auto="true">say</normalised>, Christ was crucified,<lb/>
+dead, and buried?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An, First, I <normalised orig="meane" auto="true">mean</normalised> in that he was crucified, that he suffered<lb/>
+the death of the <normalised orig="Crosse" auto="true">Cross</normalised>, which was an <normalised orig="abhominable" auto="true">abominable</normalised><lb/>
+and cursed death, to <normalised orig="deliuer" auto="true">deliver</normalised> <choice ana="illegible">
+                     <sic>m*</sic>
+                     <corr>me</corr>
+                  </choice> from the curse<lb/>
+which was due for my <normalised orig="sinnes" auto="true">sins</normalised>. Secondly, for as much as<lb/>
+death was a punishment due <normalised orig="vnto" auto="true">unto</normalised> man for <normalised orig="sinne" auto="true">sin</normalised>, therefore<lb/>
+our <normalised orig="Sauiour" auto="true">Saviour</normalised> did suffer death, and by suffering, <normalised orig="ouercame" auto="true">overcame</normalised><lb/>
+death. For in his death <normalised orig="doeth" auto="true">doth</normalised> <normalised orig="lye" auto="true">lie</normalised> the <normalised orig="principall" auto="true">principal</normalised><lb/>
+point of our <normalised orig="saluation" auto="true">salvation</normalised>, for if he had not been truly dead,<lb/>
+we should be yet <normalised orig="subiect" auto="true">subject</normalised> to <normalised orig="eternall" auto="true">eternal</normalised> death and damnation.<lb/>
+Thirdly, he was buried for the more greater confirmation<lb/>
+of his death and resurrection. And to the intent<lb/>
+to make it more certainly <normalised orig="knowne" auto="true">known</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>, it pleased<lb/>
+him also to be buried after the common manner of men,<lb/>
+and that by two notable persons <notvariant>Nichodemus</notvariant> and <normalised orig="Ioseph" auto="true">Joseph</normalised><lb/>
+of <notvariant>Aramathia</notvariant>, which was done also by the will<lb/>
+                  <lb/>
+                  <fw type="pageNum">B3</fw>
+                  <pb n="11"/>
+                  <lb/>
+and consent of Pilate, who caused the body to be <normalised orig="deliuered" auto="true">delivered</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised> them.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What meanest thou concerning this, that Christ descended<lb/>
+into hell?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. Where it is <normalised orig="sayd" auto="true">said</normalised> that Christ descended into hell,<lb/>
+thereby I <normalised orig="beleeue" auto="true">believe</normalised> that Christ did not <normalised orig="onely" auto="true">only</normalised> suffer in his<lb/>
+body, the punishment due to my body, but also in his<lb/>
+<normalised orig="soule" auto="true">soul</normalised> the punishment due to my <normalised orig="soule" auto="true">soul</normalised>, which was the<lb/>
+torments of hell, second death, <normalised orig="sorrowes" auto="true">sorrows</normalised> of death and<lb/>
+<normalised orig="abiection" auto="false">abjection</normalised> from God: as it <normalised orig="doeth" auto="true">doth</normalised> <normalised orig="appeare" auto="true">appear</normalised>, by the anguish<lb/>
+of his <normalised orig="soule" auto="true">soul</normalised> in the Garden, when drops of blood issued<lb/>
+out of his body, and also <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="Crosse" auto="true">Cross</normalised>, by his lamentable<lb/>
+cry to his Father. For in a miserable case had wee<lb/>
+<normalised orig="beene" auto="true">been</normalised>, if he had suffered only the punishment due to our<lb/>
+bodies, and not to our <normalised orig="soules" auto="true">souls</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What <normalised orig="fruite" auto="true">fruit</normalised> <normalised orig="hast" auto="true">have</normalised> thou by this death of Christ?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. First, I <normalised orig="beleeue" auto="true">believe</normalised> that this death and punishment,<lb/>
+which Christ suffered, is the appeasing of Gods wrath,<lb/>
+and a full satisfaction to God for all my <normalised orig="sinnes" auto="true">sins</normalised>. Secondly,<lb/>
+that as he is dead for <normalised orig="sinne" auto="true">sin</normalised>, so he will cause <normalised orig="sinne" auto="true">sin</normalised> to die<lb/>
+in my <normalised orig="mortall" auto="true">mortal</normalised> body.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what profit <normalised orig="hast" auto="true">have</normalised> thou by the <normalised orig="rysing" auto="true">rising</normalised> <normalised orig="againe" auto="true">again</normalised> of Christ?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. First, I am assured by his <normalised orig="rysing" auto="true">rising</normalised> from death, that<lb/>
+he <normalised orig="hath" auto="true">has</normalised> <normalised orig="ouer-come" auto="false">over-come</normalised> death, hell, and <normalised orig="sinne" auto="true">sin</normalised>, and <normalised orig="hath" auto="true">has</normalised><lb/>
+finished my <normalised orig="iustification" auto="true">justification</normalised>. Secondly, that as <normalised orig="hee" auto="true">he</normalised> is <normalised orig="rysen" auto="true">risen</normalised><lb/>
+from death: so he <normalised orig="causeth" auto="true">causes</normalised> me as a member of him, to<lb/>
+rise from <normalised orig="sinne" auto="true">sin</normalised>, and delight in <normalised orig="righteousnes" auto="true">righteousness</normalised>. Thirdly,<lb/>
+his rising <normalised orig="againe" auto="true">again</normalised>, is a sure pledge to me, that my <normalised orig="bodie" auto="true">body</normalised><lb/>
+shall in like manner rise <normalised orig="againe" auto="true">again</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What is the meaning of this, that Christ ascended<lb/>
+into <normalised orig="heauen" auto="true">heaven</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. Christ as touching his <normalised orig="manhead" auto="false">manhood</normalised> is <normalised orig="onely" auto="true">only</normalised> in <normalised orig="heauen" auto="true">heaven</normalised>,<lb/>
+but in his <normalised orig="Godhead" auto="true">Godhood</normalised> and comfort of his holy spirit,<lb/>
+                  <pb n="12"/>
+                  <lb/>
+he is with <normalised orig="vs" auto="true">us</normalised> to the <normalised orig="ende" auto="true">end</normalised> of the world.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What good <notvariant>gettest</notvariant> thou by the ascending of Christ<lb/>
+into <normalised orig="heauen" auto="true">heaven</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. First, Christ his ascending into <normalised orig="heauen" auto="true">heaven</normalised>, is a sure<lb/>
+pledge <normalised orig="vnto" auto="true">unto</normalised> me, that I shall in like manner as a member<lb/>
+of him, by his power, be <normalised orig="receiued" auto="true">received</normalised> into <normalised orig="heauen" auto="true">heaven</normalised>, in the<lb/>
+same nature wherein he is ascended. Secondly, Christ<lb/>
+<normalised orig="hauing" auto="true">having</normalised> ascended into <normalised orig="heauen" auto="true">heaven</normalised>, <normalised orig="maketh" auto="true">makes</normalised> <normalised orig="continuall" auto="true">continual</normalised> intercession<lb/>
+for me.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is the meaning of this, That Christ <normalised orig="sitteth" auto="true">sits</normalised> at the<lb/>
+right hand of God the Father?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. Christ <normalised orig="sitteth" auto="true">sits</normalised> at the right hand of the father, that is,<lb/>
+<normalised orig="hath" auto="true">has</normalised> all power <normalised orig="giuen" auto="true">given</normalised> him of the Father <normalised orig="ouer" auto="true">over</normalised> all things.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What <normalised orig="fruite" auto="true">fruit</normalised> <normalised orig="doest" auto="false">do</normalised> thou <normalised orig="receiue" auto="true">receive</normalised> by this, That Christ<lb/>
+shall come to <normalised orig="iudge" auto="true">judge</normalised> the <normalised orig="quike" auto="true">quick</normalised> and the dead?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. To me that am a member of Christ, it is a singular<lb/>
+comfort, when I know assuredly, that none shall<lb/>
+be my <normalised orig="Iudge" auto="true">Judge</normalised> but he, that is my <normalised orig="Sauiour" auto="true">Saviour</normalised>. But terrible it<lb/>
+will be to those that flee from Christ, when they shall<lb/>
+see him come to <normalised orig="iudge" auto="true">judge</normalised> them, whom they in <normalised orig="theyr" auto="true">their</normalised> life<lb/>
+time refused.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what <normalised orig="beleeuest" auto="true">believe</normalised> thou in the third part concerning God<lb/>
+the holy Ghost?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. I <normalised orig="beleeue" auto="true">believe</normalised> that God the holy Ghost <normalised orig="sealeth" auto="true">seals</normalised> into<lb/>
+my heart all <normalised orig="Christes" auto="true">Christ's</normalised> benefits to be mine, and <normalised orig="maketh" auto="true">makes</normalised><lb/>
+<normalised orig="sinne" auto="true">sin</normalised> to <normalised orig="dye" auto="true">die</normalised> in me, and <normalised orig="stirreth" auto="true">stirs</normalised> me <normalised orig="vp" auto="true">up</normalised> to <normalised orig="righteousnesse" auto="true">righteousness</normalised><lb/>
+and <normalised orig="holines" auto="true">holiness</normalised> of life.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Seeing there is but one <normalised orig="onely" auto="true">only</normalised> God, why <normalised orig="namest" auto="true">name</normalised> thou<lb/>
+the Father, the <normalised orig="Sonne" auto="true">Son</normalised>, and the holy Ghost?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. Because God <normalised orig="hath" auto="true">has</normalised> so opened <normalised orig="himselfe" auto="true">himself</normalised> in his<lb/>
+word, that these three sundry persons are in substance<lb/>
+but one true and <normalised orig="euerlasting" auto="true">everlasting</normalised> God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Now let <normalised orig="vs" auto="true">us</normalised> come to the fourth part: what <normalised orig="callest" auto="true">call</normalised> thou<lb/>
+                  <lb/>
+                  <fw type="pageNum">B4</fw>
+                  <pb n="13"/>
+                  <lb/>
+the <normalised orig="Catholick" auto="true">Catholic</normalised> Church?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The <normalised orig="Catholicke" auto="true">Catholic</normalised> church, is the whole company<lb/>
+of <normalised orig="faithfull" auto="true">faithful</normalised> people which <normalised orig="euer" auto="true">ever</normalised> were since the beginning<lb/>
+of the world in all places, which also be now and <normalised orig="shal" auto="true">shall</normalised> be<lb/>
+to the end of the world. Of the which number I <normalised orig="beleeue" auto="true">believe</normalised><lb/>
+that I am one. I <normalised orig="beleeue" auto="true">believe</normalised> that God <normalised orig="knoweth" auto="true">knows</normalised> them all,<lb/>
+and <normalised orig="hath" auto="true">has</normalised> a most tender care <normalised orig="ouer" auto="true">over</normalised> them.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What <normalised orig="callest" auto="true">call</normalised> thou the Communion of Saints?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The communion of Saints, is the society that all<lb/>
+we which <normalised orig="beleeue" auto="true">believe</normalised> <normalised orig="haue" auto="true">have</normalised> one with another, as members<lb/>
+of one head <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, <normalised orig="wherby" auto="true">whereby</normalised> we are ready to communicate<lb/>
+all Gods benefits, both <normalised orig="spirituall" auto="true">spiritual</normalised> and temporal,<lb/>
+to the <normalised orig="mutuall" auto="true">mutual</normalised> health and comfort one of another, according<lb/>
+to the measure which we <normalised orig="haue" auto="true">have</normalised> <normalised orig="receiued" auto="true">received</normalised> of God<lb/>
+in this life.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is it to <normalised orig="beleeue" auto="true">believe</normalised> The <normalised orig="forgiuenes" auto="true">forgiveness</normalised> of <normalised orig="sinnes" auto="true">sins</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. I <normalised orig="beleeue" auto="true">believe</normalised> that <normalised orig="Iesus" auto="true">Jesus</normalised> Christ <normalised orig="hath" auto="true">has</normalised> <normalised orig="wholy" auto="true">wholly</normalised> appeased<lb/>
+God for my <normalised orig="sinnes" auto="true">sins</normalised>, and <normalised orig="payd" auto="true">paid</normalised> the full punishment due to<lb/>
+them, and <choice ana="illegible">
+                     <sic>there*ore</sic>
+                     <corr>therefore</corr>
+                  </choice> that they be freely <normalised orig="forgiuen" auto="true">forgiven</normalised> me, and<lb/>
+shall <normalised orig="neuer" auto="true">never</normalised> be <normalised orig="layd" auto="true">laid</normalised> to my charge.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what <normalised orig="beleeuest" auto="true">believe</normalised> thou of The rising <normalised orig="againe" auto="true">again</normalised> of the body.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. I <normalised orig="beleeue" auto="true">believe</normalised> that after this life ended, my <normalised orig="soule" auto="true">soul</normalised> shall<lb/>
+<normalised orig="goe" auto="true">go</normalised> to God that <normalised orig="gaue" auto="true">gave</normalised> it, and my body shall rest in the<lb/>
+<normalised orig="graue" auto="true">grave</normalised>, <normalised orig="vntill" auto="true">until</normalised> the <normalised orig="appoynted" auto="true">appointed</normalised> time: and then I shall see<lb/>
+God in my flesh, and mine eyes shall <normalised orig="looke" auto="true">look</normalised> <normalised orig="vpon" auto="true">upon</normalised> him,<lb/>
+and this my body shall be made like to the glorious body<lb/>
+of Christ, without all corruption.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what is that thou <notvariant>sayest</notvariant> of Life <normalised orig="euerlasting" auto="true">everlasting</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. I <normalised orig="beleeue" auto="true">believe</normalised> that when God shall <normalised orig="rayse" auto="true">raise</normalised> <normalised orig="againe" auto="true">again</normalised> this<lb/>
+my body, and <normalised orig="ioyne" auto="true">join</normalised> it <normalised orig="againe" auto="true">again</normalised> together with my <normalised orig="soule" auto="true">soul</normalised>,<lb/>
+that then I shall <normalised orig="liue" auto="true">live</normalised> with Christ, for <normalised orig="euer" auto="true">ever</normalised> in his <normalised orig="euerlasting" auto="true">everlasting</normalised><lb/>
+<normalised orig="kingdome" auto="true">kingdom</normalised> of glory.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. By what <normalised orig="meanes" auto="true">means</normalised> <normalised orig="doe" auto="true">do</normalised> we <normalised orig="attayne" auto="true">attain</normalised> to this which thou <normalised orig="hast" auto="true">have</normalised><lb/>
+                  <pb n="14"/>
+                  <lb/>
+<normalised orig="heere" auto="true">here</normalised> confessed?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The holy Ghost <normalised orig="hath" auto="true">has</normalised> <normalised orig="appoynted" auto="true">appointed</normalised> the preaching<lb/>
+of the word to be the ordinary <normalised orig="meanes" auto="true">means</normalised>, whereby <normalised orig="hee" auto="true">he</normalised><lb/>
+<normalised orig="worketh" auto="true">works</normalised> in our hearts this true and <normalised orig="liuely" auto="true">lively</normalised> <normalised orig="fayth" auto="true">faith</normalised>, and<lb/>
+without this preaching of the word, wee can <normalised orig="neuer" auto="true">never</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="fayth" auto="true">faith</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. After that God by the <normalised orig="meanes" auto="true">means</normalised> of his <normalised orig="worde" auto="true">word</normalised> <normalised orig="hath" auto="true">has</normalised><lb/>
+wrought in our harts faith, by what <normalised orig="meanes" auto="true">means</normalised> <normalised orig="afterward" auto="true">afterwards</normalised> <normalised orig="doeth" auto="true">doth</normalised><lb/>
+he strengthen the same?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. This <normalised orig="fayth" auto="true">faith</normalised> <normalised orig="doth" auto="false">does</normalised> God strengthen in <normalised orig="vs" auto="true">us</normalised> by the <normalised orig="selfe" auto="true">self</normalised><lb/>
+same preaching of the word, and also by the <normalised orig="vse" auto="true">use</normalised> of the<lb/>
+Sacraments.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What <normalised orig="callest" auto="true">call</normalised> thou the Sacraments?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. Sacraments be outward <normalised orig="signes" auto="true">signs</normalised> ordained of God<lb/>
+for the greater assurance and <normalised orig="strengthning" auto="true">strengthening</normalised> of our <normalised orig="fayth" auto="true">faith</normalised><lb/>
+being <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> sure pledges of those benefits of our <normalised orig="saluation" auto="true">salvation</normalised><lb/>
+which we <normalised orig="receiue" auto="true">receive</normalised> in Christ to be ours, and are<lb/>
+represented <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> by the outward <normalised orig="signes" auto="true">signs</normalised> of water in<lb/>
+<normalised orig="baptisme" auto="true">baptism</normalised>, and bread and wine in the supper of the Lord.<lb/>
+They <normalised orig="serue" auto="true">serve</normalised> also for a <normalised orig="marke" auto="true">mark</normalised> of our profession, whereby<lb/>
+we differ from other people which be heathen.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. How many Sacraments be there?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. There be two Sacraments, that is to say, <normalised orig="Baptisme" auto="true">Baptism</normalised><lb/>
+and the Supper of the Lord.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what strength of faith <normalised orig="hast" auto="true">have</normalised> thou through <normalised orig="baptisme" auto="true">baptism</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. I am taught and assured by <normalised orig="Baptisme" auto="true">Baptism</normalised>, that my<lb/>
+<normalised orig="sinnes" auto="true">sins</normalised> are <normalised orig="forgiuen" auto="true">forgiven</normalised> me: For as the water <normalised orig="washeth" auto="true">washes</normalised> away<lb/>
+the <normalised orig="filthines" auto="false">filthiness</normalised> of the body, <normalised orig="euen" auto="true">even</normalised> so should I through the<lb/>
+holy Ghost be there fully certified and <normalised orig="perswaded" auto="true">persuaded</normalised>, that<lb/>
+the blood of Christ being sprinkled <normalised orig="vpon" auto="true">upon</normalised> my <normalised orig="soule" auto="true">soul</normalised> by<lb/>
+the hand of <normalised orig="fayth" auto="true">faith</normalised>, <normalised orig="hath" auto="true">has</normalised> washed away both the <normalised orig="guiltinesse" auto="true">guiltiness</normalised><lb/>
+of my <normalised orig="sinne" auto="true">sin</normalised>, and the punishment due to the same:<lb/>
+the <normalised orig="fruite" auto="true">fruit</normalised> and effect whereof, <normalised orig="appeareth" auto="true">appears</normalised> <normalised orig="heerein" auto="true">herein</normalised>, that<lb/>
+                  <lb/>
+                  <fw type="pageNum">B5</fw>
+                  <pb n="15"/>
+                  <lb/>
+through the power of <normalised orig="Christes" auto="true">Christ's</normalised> death and resurrection,<lb/>
+I am dead as touching <normalised orig="sinne" auto="true">sin</normalised>, and <normalised orig="raysed" auto="true">raised</normalised> <normalised orig="vp" auto="true">up</normalised> <normalised orig="againe" auto="true">again</normalised> in<lb/>
+<normalised orig="newnes" auto="true">newness</normalised> of life: which two things in whom so <normalised orig="euer" auto="true">ever</normalised> they<lb/>
+<normalised orig="appeare" auto="true">appear</normalised> not, they may well <normalised orig="haue" auto="true">have</normalised> the name and <normalised orig="tytle" auto="true">title</normalised> of<lb/>
+<normalised orig="Baptisme" auto="true">Baptism</normalised>, but indeed they are no Christians.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. What strength of <normalised orig="fayth" auto="true">faith</normalised> <normalised orig="doe" auto="true">do</normalised> we <normalised orig="finde" auto="true">find</normalised> in the <normalised orig="vse" auto="true">use</normalised> of the<lb/>
+Lords Supper?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The Supper of the Lord, through the holy Ghost,<lb/>
+<normalised orig="doeth" auto="true">doth</normalised> strengthen my <normalised orig="fayth" auto="true">faith</normalised>, that I should not doubt,<lb/>
+but as surely as I <normalised orig="receaue" auto="true">receive</normalised> the bread and the wine into my <normalised orig="bodie" auto="true">body</normalised>,<lb/>
+to become <normalised orig="whollie" auto="true">wholly</normalised> <normalised orig="myne" auto="true">mine</normalised>, so my <normalised orig="soule" auto="true">soul</normalised> <normalised orig="receaueth" auto="false">received</normalised><lb/>
+<normalised orig="withall" auto="true">withal</normalised> Christ, with <normalised orig="hys" auto="true">his</normalised> passion and <normalised orig="righteousnesse" auto="true">righteousness</normalised><lb/>
+to be wholly mine, as surely as if I had wrought them<lb/>
+mine <normalised orig="owne" auto="true">own</normalised> <normalised orig="selfe" auto="true">self</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Are not then the bread and wine in the supper of the<lb/>
+Lord turned into the body and blood of Christ?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. The bread and wine as touching their nature and<lb/>
+substance are not turned: but as touching the <normalised orig="vse" auto="true">use</normalised> of<lb/>
+them, they differ from common bread and wine, in that<lb/>
+they are <normalised orig="appoynted" auto="true">appointed</normalised> of God, to <normalised orig="serue" auto="true">serve</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> as <normalised orig="Seales" auto="true">Seals</normalised><lb/>
+and pledges of those <normalised orig="benefites" auto="true">benefits</normalised> which Christ in his body<lb/>
+wrought for <normalised orig="vs" auto="true">us</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. In what manner <normalised orig="oughtest" auto="true">ought</normalised> thou to prepare thy <normalised orig="selfe" auto="true">self</normalised> to<lb/>
+the <normalised orig="receauing" auto="true">receiving</normalised> of these <normalised orig="misteries" auto="true">mysteries</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. In preparing my <normalised orig="selfe" auto="true">self</normalised> to <normalised orig="receaue" auto="true">receive</normalised> the Supper of the<lb/>
+Lord, I ought <normalised orig="dilligently" auto="false">diligently</normalised> to <normalised orig="obserue" auto="true">observe</normalised> these three things.<lb/>
+First, to examine my <normalised orig="selfe" auto="true">self</normalised>, whether I <normalised orig="stande" auto="true">stand</normalised> in <normalised orig="fayth" auto="true">faith</normalised><lb/>
+or no, which I shall know if I <normalised orig="feele" auto="true">feel</normalised> my heart assured<lb/>
+by the <normalised orig="spyrite" auto="false">spirit</normalised> of GOD that the punishment of my<lb/>
+<normalised orig="sinnes" auto="true">sins</normalised> is <normalised orig="fullie" auto="true">fully</normalised> discharged in Christ, and that <normalised orig="whatsoeuer" auto="true">whatsoever</normalised><lb/>
+<normalised orig="hee" auto="true">he</normalised> <normalised orig="hath" auto="true">has</normalised> done, <normalised orig="pertayneth" auto="true">pertains</normalised> not <normalised orig="onely" auto="true">only</normalised> to others, but<lb/>
+<normalised orig="euen" auto="true">even</normalised> to <normalised orig="mee" auto="true">me</normalised>. <normalised orig="Secondlie" auto="true">Secondly</normalised>, to examine my <normalised orig="selfe" auto="true">self</normalised> whether<lb/>
+I <normalised orig="finde" auto="true">find</normalised> my heart <normalised orig="inwardlie" auto="true">inwardly</normalised> <normalised orig="sorrie" auto="true">sorry</normalised> for my <normalised orig="sinnes" auto="true">sins</normalised>,<lb/>
+                  <pb n="16"/>
+                  <lb/>
+with an inward hatred and loathing of <normalised orig="sinne" auto="true">sin</normalised>, and an<lb/>
+earnest desire and a sure purpose, wholly to <normalised orig="conforme" auto="true">conform</normalised><lb/>
+my <normalised orig="selfe" auto="true">self</normalised> to the will of Gods word. Thirdly, if <normalised orig="anie" auto="true">any</normalised> offence<lb/>
+be betwixt others and <normalised orig="mee" auto="true">me</normalised>, that I reconcile my<lb/>
+<normalised orig="selfe" auto="true">self</normalised> <normalised orig="vnto" auto="true">unto</normalised> them. All these <normalised orig="thinges" auto="true">things</normalised>, although they ought<lb/>
+<normalised orig="earnestlie" auto="true">earnestly</normalised> to be considered in the whole course of our<lb/>
+life: yet then especially when wee come to the Supper<lb/>
+of the Lord.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Now seeing we be <normalised orig="saued" auto="true">saved</normalised> by <normalised orig="Christes" auto="true">Christ's</normalised> <normalised orig="workes" auto="true">works</normalised>, without<lb/>
+our <normalised orig="deseruings" auto="true">deservings</normalised>: <notvariant>whereto</notvariant> then now <normalised orig="serueth" auto="true">serves</normalised> our well <normalised orig="dooing" auto="true">doing</normalised>, or<lb/>
+what <normalised orig="auayleth" auto="true">avails</normalised> it to <normalised orig="doe" auto="true">do</normalised> good <normalised orig="workes" auto="true">works</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. We must <normalised orig="doe" auto="true">do</normalised> good works not to <normalised orig="deserue" auto="true">deserve</normalised> our<lb/>
+<normalised orig="saluation" auto="true">salvation</normalised> by them, but by our works to <normalised orig="glorifie" auto="true">glorify</normalised> God, in<lb/>
+walking as <normalised orig="becometh" auto="true">becomes</normalised> Gods children, declaring thereby<lb/>
+our <normalised orig="thankfulnes" auto="true">thankfulness</normalised> to God for our redemption. Secondly,<lb/>
+by our <normalised orig="workes" auto="true">works</normalised> to make our election more <normalised orig="certaine" auto="true">certain</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised> our <normalised orig="selues" auto="true">selves</normalised>. Thirdly, to win others to Christ by our<lb/>
+holy life and <normalised orig="conuersation" auto="true">conversation</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what <normalised orig="workes" auto="true">works</normalised> <normalised orig="callest" auto="true">call</normalised> thou good works?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. Our <normalised orig="workes" auto="true">works</normalised> can <normalised orig="neuer" auto="true">never</normalised> be acceptable and good<lb/>
+in the sight of God, <normalised orig="vnlesse" auto="true">unless</normalised> in <normalised orig="dooing" auto="true">doing</normalised> them wee <normalised orig="keepe" auto="true">keep</normalised><lb/>
+these two things: First, that they be framed according<lb/>
+to the rule of Gods <normalised orig="lawes" auto="true">laws</normalised> and <normalised orig="commaundements" auto="true">commandments</normalised>, and<lb/>
+not after our <normalised orig="owne" auto="true">own</normalised> <normalised orig="deuises" auto="true">devises</normalised>. Secondly, that they <normalised orig="proceede" auto="true">proceed</normalised><lb/>
+from an heart purged by <normalised orig="fayth" auto="true">faith</normalised>. If <normalised orig="eyther" auto="true">either</normalised> of these<lb/>
+two <normalised orig="poynts" auto="true">points</normalised> be lacking, our <normalised orig="workes" auto="true">works</normalised> are <normalised orig="abhominable" auto="true">abominable</normalised> in<lb/>
+the eyes of God, although they <normalised orig="appeare" auto="true">appear</normalised> <normalised orig="neuer" auto="true">never</normalised> so glorious<lb/>
+in the sight of men.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Because prayer is our <normalised orig="especiall" auto="true">especial</normalised> <normalised orig="meanes" auto="true">means</normalised> which God will<lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="vse" auto="true">use</normalised> to increase our <normalised orig="fayth" auto="true">faith</normalised>, tell me what <normalised orig="belongeth" auto="true">belongs</normalised> to<lb/>
+true prayer?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. It is requisite in true prayer, that we <normalised orig="obserue" auto="true">observe</normalised> these<lb/>
+<normalised orig="fiue" auto="true">five</normalised> <normalised orig="thinges" auto="true">things</normalised>: First, that wee make our prayers <normalised orig="onelie" auto="true">only</normalised><lb/>
+                  <pb n="17"/>
+                  <lb/>
+to God through Christ, and not to Saints, Secondly,<lb/>
+that we be inwardly touched with <normalised orig="neede" auto="true">need</normalised> of the thing<lb/>
+we <normalised orig="aske" auto="true">ask</normalised>, <normalised orig="hauing" auto="true">having</normalised> our mind <normalised orig="wholy" auto="true">wholly</normalised> bent <normalised orig="therevpon" auto="true">thereupon</normalised>, and<lb/>
+not carried with by-thoughts. Thirdly, that our prayers<lb/>
+be grounded <normalised orig="vpon" auto="true">upon</normalised> Gods promises, with full assurance<lb/>
+that they <normalised orig="shalbe" auto="true">shall be</normalised> <normalised orig="graunted" auto="true">granted</normalised>, so far as the Lord <normalised orig="doeth" auto="true">doth</normalised> know<lb/>
+them to be meet and <normalised orig="needfull" auto="true">needful</normalised> for <normalised orig="vs" auto="true">us</normalised>. Fourthly, that we<lb/>
+continue in prayer, although we <normalised orig="haue" auto="true">have</normalised> not our requests<lb/>
+at the first. Fiftly, that we <normalised orig="aske" auto="true">ask</normalised> not those things which<lb/>
+we <normalised orig="thinke" auto="true">think</normalised> good in our <normalised orig="owne" auto="true">own</normalised> <normalised orig="fantasie" auto="true">fantasy</normalised>, but <normalised orig="onely" auto="true">only</normalised> that<lb/>
+which God <normalised orig="commaundeth" auto="true">commands</normalised> <normalised orig="vs" auto="true">us</normalised> to <normalised orig="aske" auto="true">ask</normalised> of him: All which<lb/>
+things be contained in the Lords prayer.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Rehearse the Lords prayer?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. <quote type="biblical" ana="Mt 6.9-13">Our Father which art in <normalised orig="heauen" auto="true">heaven</normalised>, hallowed be thy name:<lb/>
+Thy <normalised orig="kingdome" auto="true">kingdom</normalised> come, thy will be done in earth as it is <normalised orig="heauen" auto="true">heaven</normalised>.<lb/>
+<normalised orig="Giue" auto="true">Give</normalised> <normalised orig="vs" auto="true">us</normalised> this day our daily bread, and <normalised orig="forgiue" auto="true">forgive</normalised> <normalised orig="vs" auto="true">us</normalised> our trespasses,<lb/>
+as we <normalised orig="forgiue" auto="true">forgive</normalised> them that <normalised orig="trespasse" auto="true">trespass</normalised> against <normalised orig="vs" auto="true">us</normalised>. And <normalised orig="leade" auto="true">lead</normalised> <normalised orig="vs" auto="true">us</normalised> not<lb/>
+into temptation, but <normalised orig="deliuer" auto="true">deliver</normalised> <normalised orig="vs" auto="true">us</normalised> from <normalised orig="evill" auto="true">evil</normalised>. For thine is the<lb/>
+<normalised orig="kingdome" auto="true">kingdom</normalised>, the power and the glory, for <normalised orig="euer" auto="true">ever</normalised> &amp; <normalised orig="euer" auto="true">ever</normalised>, Amen.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. what <normalised orig="doest" auto="false">do</normalised> thou desire of God in this prayer?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. First, I desire of our <normalised orig="heauenly" auto="true">heavenly</normalised> Father, that his name<lb/>
+may be hallowed, first in his excellent works, which is<lb/>
+when we acknowledge his mercy, <normalised orig="wisedome" auto="true">wisdom</normalised>, <normalised orig="iustice" auto="true">justice</normalised>,<lb/>
+and <normalised orig="prouidence" auto="true">providence</normalised>, that he alone <normalised orig="worketh" auto="true">works</normalised> all things, and<lb/>
+that <normalised orig="onely" auto="true">only</normalised> the Lord God be had in honour, all other set<lb/>
+aside. Secondly, that his name may be glorified in our<lb/>
+godly <normalised orig="lyuing" auto="true">living</normalised> and <normalised orig="conuersation" auto="true">conversation</normalised>. In the second petition,<lb/>
+we desire that GOD his <normalised orig="kingdome" auto="true">kingdom</normalised> may come, that<lb/>
+is, that <normalised orig="hee" auto="true">he</normalised> will declare him <normalised orig="selfe" auto="true">self</normalised> to be King <normalised orig="ouer" auto="true">over</normalised> his<lb/>
+Church, in <normalised orig="guyding" auto="true">guiding</normalised> and defending it, in increasing<lb/>
+of the number of the <normalised orig="faythfull" auto="true">faithful</normalised>, in thrusting forth<lb/>
+Labourers into the <normalised orig="Harueste" auto="false">Harvest</normalised>, and blessing <normalised orig="theyr" auto="true">their</normalised> labours,<lb/>
+and suppressing the rage of the wicked tyrants.<lb/>
+                  <pb n="18"/>
+                  <lb/>
+Secondly, that he will exercise his <normalised orig="kingdome" auto="true">kingdom</normalised> <normalised orig="seuerally" auto="true">severally</normalised><lb/>
+in <normalised orig="euery" auto="true">every</normalised> one of <normalised orig="vs" auto="true">us</normalised>, killing <normalised orig="sinne" auto="true">sin</normalised> in <normalised orig="vs" auto="true">us</normalised>, and all worldly<lb/>
+care, and renewing <normalised orig="vs" auto="true">us</normalised> to <normalised orig="righteousnesse" auto="true">righteousness</normalised> of <normalised orig="lyfe" auto="true">life</normalised>. In <choice ana="print">
+                     <sic>the the</sic>
+                     <corr>the</corr>
+                  </choice>
+                  <lb/>
+third petition wee desire that Gods will may <normalised orig="bee" auto="true">be</normalised><lb/>
+done, that is, that wee may willingly in all things <normalised orig="resigne" auto="true">resign</normalised><lb/>
+our <normalised orig="selues" auto="true">selves</normalised> to Gods will without murmuring or<lb/>
+grudging. In the fourth petition, wee pray that <normalised orig="hee" auto="true">he</normalised><lb/>
+will <normalised orig="gyue" auto="true">give</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>, walking <normalised orig="faythfully" auto="true">faithfully</normalised> in our calling,<lb/>
+our <normalised orig="daylie" auto="true">daily</normalised> bread, that is, all <normalised orig="thinges" auto="true">things</normalised> <normalised orig="needefull" auto="true">needful</normalised> for our<lb/>
+<normalised orig="lyuing" auto="true">living</normalised> for this present <normalised orig="lyfe" auto="true">life</normalised>. In the <normalised orig="fift" auto="true">fifth</normalised> petition wee<lb/>
+pray that our <normalised orig="sinnes" auto="true">sins</normalised> may <normalised orig="bee" auto="true">be</normalised> <normalised orig="forgyuen" auto="true">forgiven</normalised> <normalised orig="vs" auto="true">us</normalised>, that <normalised orig="hee" auto="true">he</normalised><lb/>
+will not lay to our charge our <normalised orig="sinnes" auto="true">sins</normalised>, nor the punishment<lb/>
+due to them, but that <normalised orig="hee" auto="true">he</normalised> will accept the death<lb/>
+and passion of Christ, as the full satisfaction for our<lb/>
+<normalised orig="sinnes" auto="true">sins</normalised>, and that wee may <normalised orig="heereof" auto="true">hereof</normalised> <normalised orig="haue" auto="true">have</normalised> full assurance<lb/>
+in our conscience, that the punishment of our<lb/>
+<normalised orig="sinnes" auto="true">sins</normalised> is <normalised orig="fullie" auto="true">fully</normalised> discharged in <normalised orig="Christe" auto="true">Christ</normalised>, and therefore<lb/>
+<normalised orig="freelie" auto="true">freely</normalised> <normalised orig="forgyuen" auto="true">forgiven</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>, as <normalised orig="surelie" auto="true">surly</normalised> as wee <normalised orig="doe" auto="true">do</normalised> <normalised orig="forgyue" auto="true">forgive</normalised><lb/>
+others: and that wee may <normalised orig="loue" auto="true">love</normalised> one another,<lb/>
+from the <normalised orig="bottome" auto="true">bottom</normalised> of our hearts, all desire of<lb/>
+<normalised orig="reuenge" auto="true">revenge</normalised> set aside. In the <normalised orig="sixt" auto="true">sixth</normalised> and last petition, wee<lb/>
+<normalised orig="doe" auto="true">do</normalised> pray GOD that <normalised orig="hee" auto="true">he</normalised> will not <normalised orig="leade" auto="true">lead</normalised> <normalised orig="vs" auto="true">us</normalised> into temptation,<lb/>
+but <normalised orig="deliuer" auto="true">deliver</normalised> <normalised orig="vs" auto="true">us</normalised>, that is, that <normalised orig="hee" auto="true">he</normalised> will not<lb/>
+bring <normalised orig="vs" auto="true">us</normalised> further into the <normalised orig="battaile" auto="true">battle</normalised> with our <normalised orig="spyrituall" auto="false">spiritual</normalised><lb/>
+enemies, then we by his holy <normalised orig="spyrit" auto="true">spirit</normalised> shall be able to <normalised orig="preuaile" auto="false">prevail</normalised><lb/>
+and <normalised orig="ouercome" auto="true">overcome</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. And why is this added: <quote type="biblical" ana="Mt 6.13">For thine is the <normalised orig="kingdome" auto="true">kingdom</normalised>,<lb/>
+the power and the glory, for <normalised orig="euer" auto="true">ever</normalised> and <normalised orig="euer" auto="true">ever</normalised>, Amen.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. Not <normalised orig="onelie" auto="true">only</normalised> to kindle in our hearts to desire<lb/>
+the <normalised orig="glorie" auto="true">glory</normalised> of GOD: but also to <normalised orig="teache" auto="true">teach</normalised> <normalised orig="vs" auto="true">us</normalised> that <normalised orig="thys" auto="true">this</normalised><lb/>
+prayer is grounded <normalised orig="vppon" auto="true">upon</normalised> none other, then on God<lb/>
+<normalised orig="onelie" auto="true">only</normalised>: and that wee should not <normalised orig="thinke" auto="true">think</normalised> the kingdom<lb/>
+of God to be <normalised orig="weake" auto="true">weak</normalised> and <normalised orig="voide" auto="true">void</normalised> of force and might.<lb/>
+                  <pb n="19"/>
+                  <lb/>
+Also, that <normalised orig="hee" auto="true">he</normalised> is <normalised orig="onely" auto="true">only</normalised> to <normalised orig="bee" auto="true">be</normalised> honoured, <normalised orig="praysed" auto="true">praised</normalised>, and<lb/>
+glorified, and that his power is infinite, <normalised orig="perpetuall" auto="true">perpetual</normalised>, and<lb/>
+<normalised orig="euerlasting" auto="true">everlasting</normalised>. And in this word Amen, is expressed the<lb/>
+<normalised orig="feruent" auto="true">fervent</normalised> desire to <normalised orig="obtaine" auto="true">obtain</normalised> those things which we <normalised orig="aske" auto="true">ask</normalised> of<lb/>
+God, and our hope is confirmed, that those things which<lb/>
+we <normalised orig="aske" auto="true">ask</normalised> are <normalised orig="graunted" auto="true">granted</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>, by which our consciences<lb/>
+are pacified, and so we end our prayers.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p><notvariant>Qu</notvariant>. Tell me now <normalised orig="briefely" auto="true">briefly</normalised> the effect of all thou <normalised orig="hast" auto="true">have</normalised> <normalised orig="sayd" auto="true">said</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>An. By the <normalised orig="tenne" auto="true">ten</normalised> <normalised orig="commaundements" auto="true">commandments</normalised>, I see my miserable<lb/>
+estate, that I <normalised orig="deserue" auto="true">deserve</normalised> death, damnation, and the curse<lb/>
+of God, which must needs be <normalised orig="payd" auto="true">paid</normalised>, because God is <normalised orig="iust" auto="true">just</normalised>,<lb/>
+and whereas I my <normalised orig="selfe" auto="true">self</normalised> am not able to pay it, the <normalised orig="holie" auto="true">holy</normalised><lb/>
+Ghost through the preaching of the <normalised orig="Gospell" auto="true">Gospel</normalised>, <normalised orig="worketh" auto="true">works</normalised><lb/>
+in me <normalised orig="fayth" auto="true">faith</normalised>, which <normalised orig="assureth" auto="true">assures</normalised> <normalised orig="mee" auto="true">me</normalised>, that the <normalised orig="sonne" auto="true">son</normalised> of God<lb/>
+being made man for me, <normalised orig="hath" auto="true">has</normalised> <normalised orig="euen" auto="true">even</normalised> in my nature suffered<lb/>
+<normalised orig="whatsoeuer" auto="true">whatsoever</normalised> my <normalised orig="sinnes" auto="true">sins</normalised> <normalised orig="deserued" auto="true">deserved</normalised>, and <normalised orig="hath" auto="true">has</normalised> made me with<lb/>
+him the <normalised orig="childe" auto="true">child</normalised> of GOD, and <normalised orig="heyre" auto="true">heir</normalised> of <normalised orig="euerlasting" auto="true">everlasting</normalised> life.<lb/>
+<normalised orig="Wherof" auto="true">Whereof</normalised> least I should doubt or <normalised orig="wauer" auto="true">waver</normalised>, he <normalised orig="hath" auto="true">has</normalised> appointed<lb/>
+two Sacraments, as outward <normalised orig="signes" auto="true">signs</normalised> and tokens to be<lb/>
+<normalised orig="seene" auto="true">seen</normalised> and felt of me: that as surely as I see my <normalised orig="selfe" auto="true">self</normalised> made<lb/>
+partaker of them outwardly: so the holy Ghost <normalised orig="inwardlie" auto="true">inwardly</normalised><lb/>
+instructing <normalised orig="mee" auto="true">me</normalised>, I should not doubt, but <normalised orig="inwardlie" auto="true">inwardly</normalised> to<lb/>
+be partaker of Christ <normalised orig="himselfe" auto="true">himself</normalised>, with all his benefits, his<lb/>
+<normalised orig="ransome" auto="true">ransom</normalised>, <normalised orig="righteousnesse" auto="true">righteousness</normalised> and <normalised orig="holinesse" auto="true">holiness</normalised> to <normalised orig="bee" auto="true">be</normalised> mine, that<lb/>
+in him, &amp; through him, I shall <normalised orig="haue" auto="true">have</normalised> life <normalised orig="euerlasting" auto="true">everlasting</normalised>. And<lb/>
+thus beeing borne a <normalised orig="newe" auto="true">new</normalised> into this <normalised orig="liuely" auto="true">lively</normalised> hope, by the<lb/>
+holy God, my <normalised orig="wayes" auto="true">ways</normalised> should <normalised orig="bee" auto="true">be</normalised> directed and guided by<lb/>
+the same spirit, to walk in <normalised orig="holinesse" auto="true">holiness</normalised> and <normalised orig="righteousnesse" auto="true">righteousness</normalised>,<lb/>
+all the <normalised orig="dayes" auto="true">days</normalised> of my <normalised orig="lyfe" auto="true">life</normalised>,<lb/>
+Amen.<lb/>
+               </p>
+            </sp>
+            <pb n="20"/>
+        </div>  
+<div>
+   <head>A Prayer containing
+      the <normalised orig="summe" auto="true">sum</normalised> and effect of this
+      <normalised orig="Catechisme" auto="true">Catechism</normalised>.</head>
+           <p>
+O <normalised orig="Mercifull" auto="true">Merciful</normalised> and <normalised orig="heauenly" auto="true">heavenly</normalised> father, for so much as at
+<normalised orig="euery" auto="true">every</normalised> light occasion, I am <normalised orig="with-drawne" auto="false">with-drawn</normalised> from thy
+holy <normalised orig="Lawes" auto="true">Laws</normalised>, to the vanities of this life, <normalised orig="vnto" auto="true">unto</normalised> all sin
+and <normalised orig="wickednes" auto="true">wickedness</normalised>: I beseech thee in mercy set before mine
+eyes <normalised orig="alwaies" auto="true">always</normalised> the remembrance of thy <normalised orig="iudgement" auto="true">judgment</normalised> seat, &amp;
+my last end: whereby I may be daily stirred <normalised orig="vp" auto="true">up</normalised> to consider
+in what great danger I <normalised orig="stande" auto="true">stand</normalised>, through the horrible
+punishment due to my <normalised orig="sinnes" auto="true">sins</normalised>, that daily groaning <normalised orig="vnder" auto="true">under</normalised>
+the <normalised orig="burthen" auto="true">burden</normalised> of them: I may <normalised orig="flie" auto="true">fly</normalised> for succour to thy <normalised orig="beloued" auto="true">beloved</normalised>
+<normalised orig="sonne" auto="true">son</normalised> <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, who <normalised orig="hath" auto="true">has</normalised> fully <normalised orig="payde" auto="true">paid</normalised>, suffered &amp;
+<normalised orig="ouercome" auto="true">overcome</normalised>, the punishment due to them: and through
+the working of thy holy Spirit in me, I may be fully assured
+in my <normalised orig="soule" auto="true">soul</normalised> and conscience, that the curse, condemnation,
+and death which these my <normalised orig="sinnes" auto="true">sins</normalised> <normalised orig="deserue" auto="true">deserve</normalised>, is fully
+<normalised orig="payde" auto="true">paid</normalised>, suffered, and <normalised orig="ouercome" auto="true">overcome</normalised> in Christ, that his <normalised orig="righteousnesse" auto="true">righteousness</normalised>,
+obedience, and <normalised orig="holinesse" auto="true">holiness</normalised> is mine, and <normalised orig="whatsoeuer" auto="true">whatsoever</normalised>
+he <normalised orig="hath" auto="true">has</normalised> wrought for mans <normalised orig="saluatio~" auto="true">salvation</normalised>, is <normalised orig="wholy" auto="true">wholly</normalised> mine.
+Strengthen <normalised orig="thys" auto="true">this</normalised> <normalised orig="fayth" auto="true">faith</normalised> in me daily more and more, that I
+may inwardly <normalised orig="feele" auto="true">feel</normalised> comfort and consolation in this, that
+I <normalised orig="feele" auto="true">feel</normalised> thy <normalised orig="holie" auto="true">holy</normalised> Spirit <normalised orig="beare" auto="true">bear</normalised> record <normalised orig="vnto" auto="true">unto</normalised> my <normalised orig="spyrite" auto="false">spirit</normalised>, that
+I am thy child, grafted into the body of thy <normalised orig="sonne" auto="true">son</normalised>, and
+made with him fellow <normalised orig="heire" auto="true">heir</normalised> of thy <normalised orig="euerlasting" auto="true">everlasting</normalised> kingdom.
+So <normalised orig="worke" auto="true">work</normalised> in <normalised orig="mee" auto="true">me</normalised> by thy holy Spirit, that daily more and
+more I may <normalised orig="feele" auto="true">feel</normalised> <normalised orig="sinne" auto="true">sin</normalised> die in <normalised orig="mee" auto="true">me</normalised>, that I <normalised orig="doe" auto="true">do</normalised> not delight
+therein, but daily may <normalised orig="groane" auto="true">groan</normalised> <normalised orig="vnder" auto="true">under</normalised> the <normalised orig="burthen" auto="true">burden</normalised> <normalised orig="therof" auto="true">thereof</normalised>,
+<normalised orig="vtterly" auto="true">utterly</normalised> hate, detest, and loath <normalised orig="sinne" auto="true">sin</normalised>, set my <normalised orig="selfe" auto="true">self</normalised> and all the
+<pb n="21"/>
+powers of my <normalised orig="soule" auto="true">soul</normalised> and <normalised orig="bodie" auto="true">body</normalised> against <normalised orig="sinne" auto="true">sin</normalised>, and <normalised orig="haue" auto="true">have</normalised>
+my full delight, <normalised orig="ioy" auto="true">joy</normalised>, comfort, &amp; pleasure in those things
+which be agreeable to thy will, that I may <normalised orig="walke" auto="true">walk</normalised> as <normalised orig="becommeth" auto="true">becomes</normalised>
+the Children of light, looking still for that
+good time, when it <normalised orig="shal" auto="true">shall</normalised> please thee to call me to thine
+<normalised orig="euerlasting" auto="true">everlasting</normalised> <normalised orig="kingdome" auto="true">kingdom</normalised>, and <normalised orig="ioy" auto="true">joy</normalised> <normalised orig="eternall" auto="true">eternal</normalised>. This
+in mercy <normalised orig="graunt" auto="true">grant</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="mee" auto="true">me</normalised> for <normalised orig="Iesus" auto="true">Jesus</normalised>
+<normalised orig="Christes" auto="true">Christ's</normalised> sake, my <normalised orig="onely" auto="true">only</normalised> Lord
+and <normalised orig="Sauiour" auto="true">Saviour</normalised>,
+Amen. 
+</p>
+        </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,396 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Golden grove</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JeTa1613">Taylor, Jeremy</author>
+               <title type="main">"No title" In: Taylor, Jeremy. The golden grove, or, A <normalised orig="manuall" auto="true">manual</normalised> of Daily Prayers and <normalised orig="Letanies" auto="true">Litanies</normalised>, Fitted to the <normalised orig="dayes" auto="true">days</normalised> of the Week. [...]</title>
+               <title type="short">Preface Golden grove</title>
+               <date when="1654">1654</date>
+               <date type="this_edition" when="1654">1654</date>
+               <idno type="Wing">T336</idno>
+               <note type="genre" subtype="preface_catechism">catechism preface</note>
+               <note type="sample" target="#JeTa1613_1654_preface_catechism_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="JeTa1613_1654_preface_catechism_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+TO <lb/>
+The Pious and Devout <lb/>
+READER.<lb/>
+                  <lb/>
+IN this sad declension of <lb/>
+Religion, the Seers who <lb/>
+are appointed to be the <lb/>
+Watchmen of the Church, cannot <lb/>
+but observe that the Supplanters <lb/>
+and Underminers are <lb/>
+gone out, and are digging down <lb/>
+the Foundations: and having <lb/>
+<normalised orig="destroy'd" auto="true">destroyed</normalised> all <normalised orig="publick" auto="true">public</normalised> Forms of <lb/>
+Ecclesiastical Government, <normalised orig="discountenanc'd" auto="true">discountenanced</normalised> <lb/>
+an excellent <normalised orig="Liturgie" auto="true">Liturgy</normalised>, <lb/>
+taken off the hinges of Unity, <lb/>
+<normalised orig="disgrac'd" auto="true">disgraced</normalised> the Articles of Religion, <lb/>
+polluted <normalised orig="publick" auto="true">public</normalised> Assemblies, <lb/>
+taken away all cognisance <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 2</fw>
+                  <pb n="1"/>
+                  <lb/>
+of Schism, by mingling all Sects, <lb/>
+and giving countenance to that, <lb/>
+against which all Power ought <lb/>
+to stand upon their guard. There <lb/>
+is now nothing left, but that we <lb/>
+take care that men be Christians: <lb/>
+For concerning the Ornament <lb/>
+and Advantages of Religion, <lb/>
+we cannot make that provision <lb/>
+we desire; Incertis de salute, <lb/>
+de gloria <normalised orig="minime" auto="true">minim</normalised> certandum: For <lb/>
+since they, who have seen Jerusalem <lb/>
+in prosperity, and have forgotten <lb/>
+the order of the Morning <lb/>
+and Evening Sacrifice, and the <lb/>
+beauty of the Temple, will be <lb/>
+tempted to neglect so excellent a <lb/>
+ministration, &amp; their assembling <lb/>
+themselves together for peace, <lb/>
+and holy Offices, and be content <lb/>
+with any thing that is brought to<lb/>
+                  <pb n="2"/>
+                  <lb/>
+them, though it be but the husks <lb/>
+and acorns of Prodigals and <lb/>
+Swine, so they may enjoy their <lb/>
+Lands and their Money with it; <lb/>
+we must now take care that the <lb/>
+young men who were born in <lb/>
+the Captivity, may be taught <lb/>
+how to worship the God of Israel <lb/>
+after the manner of their <lb/>
+fore-fathers, till it shall please <lb/>
+God that Religion shall return <lb/>
+into the Land, and dwell safely <lb/>
+and grow <choice ana="illegible">
+                     <sic>pr*sperously</sic>
+                     <corr>prosperously</corr>
+                  </choice>. <lb/>
+But never did the excellency <lb/>
+of <normalised orig="Episcopall" auto="true">Episcopal</normalised> Government <normalised orig="appeare" auto="true">appear</normalised> <lb/>
+so demonstratively and <lb/>
+conspicuously as now: Under <lb/>
+their conduct and order we had <lb/>
+a Church so united, so orderly, <lb/>
+so <normalised orig="govern'd" auto="true">governed</normalised>, a Religion so <normalised orig="setled" auto="true">settled</normalised>, <lb/>
+Articles so true, sufficient, and <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 3</fw>
+                  <pb n="3"/>
+                  <lb/>
+<normalised orig="confess'd" auto="true">confessed</normalised>, Canons so prudent <lb/>
+and so <normalised orig="obey'd" auto="true">obeyed</normalised>, Devotions so regular <lb/>
+and constant, Sacraments <lb/>
+so <normalised orig="adorn'd" auto="true">adorned</normalised> and <normalised orig="ministred" auto="true">ministered</normalised>, Churches <lb/>
+so beauteous and religious, <lb/>
+Circumstances of Religion so <lb/>
+grave and prudent, so useful and <lb/>
+apt for edification, that the enemies <lb/>
+of our Church, who serve <lb/>
+the Pope in all things, and Jesus <lb/>
+Christ in some, who dare <lb/>
+transgress an Institution and Ordinance <lb/>
+of Christ, but dare not <lb/>
+break a Canon of the Pope, did <lb/>
+despair of prevailing against Us <lb/>
+and Truth, and knew no hopes <lb/>
+but by setting their faces against <lb/>
+us to destroy this Government, <lb/>
+and then they knew they should <lb/>
+triumph without any enemy: <lb/>
+So Balaam the son of Bosor was<lb/>
+                  <pb n="4"/>
+                  <lb/>
+sent for, to curse the people of <lb/>
+the Lord, in hope that the son of <lb/>
+Zippor might prevail against <lb/>
+them that had long prospered <lb/>
+under the conduct of Moses and <lb/>
+Aaron. <lb/>
+But now in stead of this excellency <lb/>
+of Condition and Constitution <lb/>
+of Religion, the people <lb/>
+are fallen under the harrows and <lb/>
+saws of impertinent and ignorant <lb/>
+Preachers, who think all <lb/>
+Religion is a Sermon, and all <lb/>
+Sermons ought to be libels against <lb/>
+Truth and old <normalised orig="Governours" auto="true">Governors</normalised>, <lb/>
+and expound Chapters <lb/>
+that the meaning may never be <lb/>
+understood, and pray, that they <lb/>
+may be thought able to talk, but <lb/>
+not to hold their peace, they casting <lb/>
+not to obtain any thing but <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 4</fw>
+                  <pb n="5"/>
+                  <lb/>
+Wealth and Victory, Power and <lb/>
+Plunder; and the people have <lb/>
+<normalised orig="reap'd" auto="true">reaped</normalised> the fruits apt to grow upon <lb/>
+such Crabstocks: they grow <lb/>
+idle and false, hypocrites and <lb/>
+careless, they deny themselves <lb/>
+nothing that is pleasant, they despise <lb/>
+Religion, forget Government; <lb/>
+and some never think of <lb/>
+Heaven; and they that do, think <lb/>
+to go thither in such paths which <lb/>
+all the ages of the Church did <lb/>
+give men warning of, lest they <lb/>
+should that way go to the Devil. <lb/>
+But when men have <normalised orig="try'd" auto="true">tried</normalised> all <lb/>
+that they can, it is to be <normalised orig="suppos'd" auto="true">supposed</normalised> <lb/>
+they will return to the <choice ana="illegible">
+                     <sic>excel*ency</sic>
+                     <corr>excellency</corr>
+                  </choice>
+                  <lb/>
+and advantages of the Christian <lb/>
+Religion, as it is taught by <lb/>
+the Church of England; for by <lb/>
+                  <pb n="6"/>
+                  <lb/>
+destroying it, no end can be <lb/>
+<normalised orig="serv'd" auto="true">served</normalised> but of Sin and Folly, Faction, <lb/>
+and Death eternal. For besides <lb/>
+that, no Church that is enemy <lb/>
+to this, does worship God <lb/>
+in that truth of Propositions, in <lb/>
+that unblameable and pious <normalised orig="Liturgie" auto="true">Liturgy</normalised>, <lb/>
+and in preaching the necessities <lb/>
+of holy life, so much as <lb/>
+the Church of England does; <lb/>
+besides this (I say) it cannot be <lb/>
+persecuted by any <normalised orig="Governour" auto="true">Governor</normalised> <lb/>
+that understands his own interest, <lb/>
+unless he be <choice ana="illegible">
+                     <sic>fi*st</sic>
+                     <corr>first</corr>
+                  </choice> <normalised orig="abus'd" auto="true">abused</normalised> by <lb/>
+false Preachers, and then prefers <lb/>
+his secret opinion before his <lb/>
+<normalised orig="publick" auto="true">public</normalised> Advantage. For no <lb/>
+Church in the World is so great <lb/>
+a friend to Loyalty and Obedience, <lb/>
+as she, and her Sisters of <lb/>
+the same <normalised orig="perswasion" auto="true">persuasion</normalised>. They that <lb/>
+                  <pb n="7"/>
+                  <lb/>
+hate Bishops have <normalised orig="destroy'd" auto="true">destroyed</normalised> <lb/>
+Monarchy, and they that would <lb/>
+erect an Ecclesiastical Monarchy, <lb/>
+must consequently subject <lb/>
+the Temporal to it. And both <lb/>
+one and the other would be Supreme <lb/>
+in Consciences; and they <lb/>
+that govern there, with an opinion <lb/>
+that in all things they <lb/>
+ought to be attended to, will let <lb/>
+their Prince govern others, so <lb/>
+long as he will be <normalised orig="rul'd" auto="true">ruled</normalised> by them: <lb/>
+And certainly, for a Prince to <lb/>
+persecute the Protestant Religion, <lb/>
+is as if a Physician should <lb/>
+<normalised orig="endevour" auto="true">endeavour</normalised> to destroy all Medicaments, <lb/>
+and Fathers kill their <lb/>
+Sons, and the Master of Ceremonies <lb/>
+destroy all Formalities <lb/>
+and Courtships; and as if the <lb/>
+Pope should root out all the <normalised orig="Ecclesiastick" auto="true">Ecclesiastic</normalised> <lb/>
+                  <pb n="8"/>
+                  <lb/>
+State. Nothing so <lb/>
+combines with Government, <lb/>
+if it be of Gods appointment, <lb/>
+as the Religion of the Church of <lb/>
+England, because nothing does <lb/>
+more adhere to the Word of <lb/>
+God, and disregard the crafty advantages <lb/>
+of the world. If any <lb/>
+man shall not decline to try his <lb/>
+Title by the Word of God, it is <lb/>
+certain there is not in the world <lb/>
+a better guard for it, then the true <lb/>
+Protestant Religion, as it is <lb/>
+taught in our Church. But let <lb/>
+things be as it please God; it is <lb/>
+certain, that in that day when <lb/>
+Truth gets her Victory, in that <lb/>
+day we shall prevail against all <lb/>
+Gods enemies and ours, not in <lb/>
+the purchases and perquisites of <lb/>
+the world, but in the rewards <lb/>
+                  <pb n="9"/>
+                  <lb/>
+and returns of Holiness and Patience, <lb/>
+and Faith and Charity; <lb/>
+for by these we worship God, <lb/>
+                  <choice ana="illegible">
+                     <sic>a*d</sic>
+                     <corr>and</corr>
+                  </choice> against this interest we cannot <lb/>
+serve any thing else. <lb/>
+In the mean time we must by <lb/>
+all means secure the foundation, <lb/>
+and take care that Religion may <lb/>
+be <normalised orig="convey'd" auto="true">conveyed</normalised> in all its material <lb/>
+parts, the same as it was, but <lb/>
+by new and permitted instruments. <lb/>
+For let us secure that our <lb/>
+young men be good Christians, <lb/>
+it is <normalised orig="easie" auto="true">easy</normalised> to make them good <lb/>
+Protestants, unless they be <normalised orig="abus'd" auto="true">abused</normalised> <lb/>
+with prejudice, and suck <lb/>
+<normalised orig="venome" auto="true">venom</normalised> with their milk; they <lb/>
+cannot leave our Communion, <lb/>
+till they have reason to reprove <lb/>
+our Doctrine. <lb/>
+There is therefore in the following <lb/>
+                  <pb n="10"/>
+                  <lb/>
+pages a Compendium <lb/>
+of what we are to Believe, what <lb/>
+to Do, and what to Desire; It is <lb/>
+indeed very little, but it is enough <lb/>
+to begin with, and will <lb/>
+serve all persons so long as they <lb/>
+need milk, and not strong meat. <lb/>
+And he that <normalised orig="hath" auto="true">has</normalised> given the following <lb/>
+Assistances to thee, desires <lb/>
+to be even a door-keeper in <lb/>
+Gods House, and to be a servant <lb/>
+of the meanest of Gods servants, <lb/>
+and thinks it a worthy <normalised orig="imployment" auto="true">employment</normalised> <lb/>
+to teach the most ignorant, <lb/>
+and make them to know <lb/>
+Christ; though <choice ana="illegible">
+                     <sic>b*</sic>
+                     <corr>but</corr>
+                  </choice> in the first <lb/>
+rudiments of a holy Institution. <lb/>
+This <normalised orig="onely" auto="true">only</normalised> he affirms, That <lb/>
+there is more solid comfort and <lb/>
+material support to a Christian <lb/>
+spirit in one Article of Faith, in <lb/>
+                  <pb n="11"/>
+                  <lb/>
+one period of the Lords Prayer, <lb/>
+in one holy Lesson, then in all <lb/>
+the disputes of impertinent people, <lb/>
+who take more pains to <lb/>
+prove there is a Purgatory, then <lb/>
+to <normalised orig="perswade" auto="true">persuade</normalised> men to avoid Hell: <lb/>
+And that a plain Catechism can <lb/>
+more instruct a soul, then the <lb/>
+whole <normalised orig="dayes" auto="true">days</normalised> prate which some <lb/>
+daily spit forth, to bid men get <lb/>
+Christ, and persecute his Servants. <lb/>
+Christian Religion is admirable <lb/>
+for its <normalised orig="wisdome" auto="true">wisdom</normalised>, for its <lb/>
+simplicity; and he that presents <lb/>
+the following papers to thee, designs <lb/>
+to teach thee as the Church <lb/>
+was taught in the early <normalised orig="dayes" auto="true">days</normalised> of <lb/>
+the Apostles. To believe the <lb/>
+Christian Faith, and to understand <lb/>
+it; to represent plain Rules <lb/>
+                  <pb n="12"/>
+                  <lb/>
+of Good Life; to describe <lb/>
+<normalised orig="easie" auto="true">easy</normalised> <normalised orig="Formes" auto="true">Forms</normalised> of Prayer; to <lb/>
+bring into your Assemblies <lb/>
+<normalised orig="Hymnes" auto="true">Hymns</normalised> of Glorification and <lb/>
+Thanksgiving, and Psalms of <lb/>
+Prayer. By these <normalised orig="easie" auto="true">easy</normalised> paths <lb/>
+they lead Christs little ones into <lb/>
+the Fold of their great Bishop; <lb/>
+and if by this any service <lb/>
+be done to God, any <normalised orig="ministery" auto="true">ministry</normalised> <lb/>
+to the Soul of a <normalised orig="Childe" auto="true">Child</normalised> <lb/>
+or an ignorant Woman, it is <lb/>
+hoped that God will accept <lb/>
+it: and it is reward enough, <lb/>
+if by my <normalised orig="Ministery" auto="true">Ministry</normalised> GOD <lb/>
+will bring it to <normalised orig="passe" auto="true">pass</normalised>, that any <lb/>
+Soul shall be instructed, and <lb/>
+brought into that state of <lb/>
+good things, that it shall <normalised orig="rejoyce" auto="true">rejoice</normalised> <lb/>
+for ever. <lb/>
+                  <pb n="13"/>
+                  <lb/>
+But do thou pray for him <lb/>
+that desires this to thee, and <lb/>
+<normalised orig="endevours" auto="true">endeavours</normalised> it. <lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

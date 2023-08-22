@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bio_1591_Stubbes_R3">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Crystall" auto="true">Crystal</normalised> <normalised orig="glasse" auto="true">glass</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="PhSt1555"><normalised orig="Stubbes" auto="true">Stubs</normalised>, Phillip</author>
+               <title type="main">A <normalised orig="crystall" auto="true">crystal</normalised> <normalised orig="glasse" auto="true">glass</normalised>, for Christian Women. Wherein they may see most <normalised orig="wonderfull" auto="true">wonderful</normalised> and rare examples of a right <normalised orig="vertuous" auto="true">virtuous</normalised> Life and Christian Death, as in the discourse following may <normalised orig="appeare" auto="true">appear</normalised>.</title>
+               <title type="short"><normalised orig="Crystall" auto="true">Crystal</normalised> <normalised orig="glasse" auto="true">glass</normalised></title>
+               <date when="1591">1591</date>
+               <date type="this_edition" when="1591">1591</date>
+               <idno type="STC">23381</idno>
+               <note type="genre" subtype="biography">biography</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="sample">
+            <div>
+               <head>A
+<normalised orig="CRYSTALL" auto="true">CRYSTAL</normalised> <normalised orig="GLASSE" auto="true">GLASS</normalised>,
+for Christian Women.
+Wherein they may see most <normalised orig="wonderfull" auto="true">wonderful</normalised> and rare
+examples of a right <normalised orig="vertuous" auto="true">virtuous</normalised> Life and Christian
+Death, as in the discourse following
+may <normalised orig="appeare" auto="true">appear</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+CAlling to remembrance (most Christian Reader)<lb/>
+the <normalised orig="finall" auto="true">final</normalised> end of mans Creation, which<lb/>
+is to <normalised orig="glorifie" auto="true">glorify</normalised> God, and to <normalised orig="edifie" auto="true">edify</normalised> one another<lb/>
+in the way of <normalised orig="Godlinesse" auto="true">Godliness</normalised>, I thought it my<lb/>
+duty, as well in respect of the one, as in regard<lb/>
+of the other, to publish this rare and <normalised orig="wonderfull" auto="true">wonderful</normalised><lb/>
+example, of the <normalised orig="vertuous" auto="true">virtuous</normalised> Life, and Christian<lb/>
+Death of <normalised orig="Mistris" auto="true">Mistress</normalised> Katherine Stubs: who <normalised orig="whilest" auto="true">whilst</normalised> she<lb/>
+lived was a mirror of woman-hood: and now being dead, is a<lb/>
+perfect pattern of true Christianity. She was descended of<lb/>
+honest and wealthy Parents: her Father had borne divers<lb/>
+Offices of worship in his Company, amongst whom he lived<lb/>
+in great account, credit, and estimation all his <normalised orig="dayes" auto="true">days</normalised>, he was<lb/>
+zealous in the truth, and of a sound Religion. Her mother was<lb/>
+a Dutch woman, both discreet and wise, of a singular good<lb/>
+grace and modesty: and which did most <normalised orig="adorne" auto="true">adorn</normalised> her, she was<lb/>
+both religious and also zealous.<lb/>
+This couple living together in the city of London, many<lb/>
+years, it pleased God to bless them with children, of whom<lb/>
+this Katherine was youngest but one, but as <choice ana="illegible">
+                     <sic>*e</sic>
+                     <corr>she</corr>
+                  </choice> was the youngest<lb/>
+save one by course of nature, so was she not inferior to any<lb/>
+of the rest, but rather excelled them all (without comparison) by<lb/>
+many degrees, in the endowments and qualities of the mind.<lb/>
+At fifteen <normalised orig="yeares" auto="true">years</normalised> of age, her Father being dead, her Mother<lb/>
+bestowed her in Marriage to one Master Phillip Stubs,<lb/>
+                  <lb/>
+                  <fw type="pageNum">A2</fw>
+                  <pb n="1"/>
+                  <lb/>
+with whom she lived <normalised orig="foure" auto="true">four</normalised> years and almost a <normalised orig="halfe" auto="true">half</normalised>, very honestly<lb/>
+and godly, with rare commendation of all <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice> that knew<lb/>
+her, as well for her singular <normalised orig="wisdome" auto="true">wisdom</normalised>, as also for her modesty,<lb/>
+<normalised orig="courtesie" auto="true">curtsy</normalised>, <normalised orig="gentlenesse" auto="true">gentleness</normalised>, affability, and good government, and<lb/>
+above all, for her fervent <normalised orig="zeale" auto="true">zeal</normalised> which she did <normalised orig="beare" auto="true">bear</normalised> to the truth,<lb/>
+wherein she seemed to <normalised orig="surpasse" auto="true">surpass</normalised> many: <normalised orig="insomuch" auto="true">inasmuch</normalised>, that if she<lb/>
+chanced at any time to be in place where either <choice ana="illegible">
+                     <sic>*<notvariant>apis</notvariant>*s</sic>
+                     <corr>Papists</corr>
+                  </choice> or<lb/>
+Atheists were, and <choice ana="illegible">
+                     <sic>hear*</sic>
+                     <corr>heard</corr>
+                  </choice> them talk of Religion, what countenance<lb/>
+or credit <choice ana="illegible">
+                     <sic>*ever</sic>
+                     <corr><notvariant>soever</notvariant></corr>
+                  </choice> they seemed to be of, she would not yield<lb/>
+a <choice ana="illegible">
+                     <sic>*t</sic>
+                     <corr><normalised orig="iot" auto="true">jot</normalised></corr>
+                  </choice>, or give place to them at <normalised orig="al" auto="false">all</normalised>, but would most <choice ana="illegible">
+                     <sic>might*<normalised orig="ly" auto="true">lie</normalised></sic>
+                     <corr>mightily</corr>
+                  </choice> <normalised orig="justifie" auto="true">justify</normalised> <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>
+                  <lb/>
+the truth of God against blasphemous untruths, and<lb/>
+convince them, yea, and confound them by the testimonies of<lb/>
+the word of God. Which thing, how could it be otherwise?<lb/>
+For her whole heart was bent to seek the Lord, her whole<lb/>
+delight was to be conversant in the Scriptures, and to meditate<lb/>
+upon them day and night. <normalised orig="Insomuch" auto="true">Inasmuch</normalised> as you could <normalised orig="seldome" auto="true">seldom</normalised><lb/>
+or never have come into her house, and have found her without<lb/>
+a Bible, or some other good book in her hand. And when she<lb/>
+was not <choice ana="illegible">
+                     <sic>read*</sic>
+                     <corr>reading</corr>
+                  </choice>, she would spend her time in conferring, talking<lb/>
+and reasoning with her Husband of the word of God,<lb/>
+and of Religion: asking him what is the sense of this place,<lb/>
+and what is the sense of that? How expound you this place, and<lb/>
+how expound you that? What observe you of this place, and<lb/>
+what observe you of that? So as she seemed to be ravished<lb/>
+with the same spirit that David was, when he said, <quote type="psalm" ana="Ps 69.9">The <normalised orig="zeale" auto="true">zeal</normalised><lb/>
+of thy house <normalised orig="hath" auto="false">has</normalised> eaten me up.</quote> 
+                  <lb/>
+She followed the <normalised orig="Commandement" auto="true">Commandment</normalised> of our Saviour Christ,<lb/>
+who <normalised orig="biddeth" auto="true">bids</normalised> us search the Scriptures, for in them you hope<lb/>
+to have <normalised orig="eternall" auto="true">eternal</normalised> life: She obeyed the <choice ana="illegible">
+                     <sic><notvariant>Comman</notvariant>*<notvariant>ement</notvariant></sic>
+                     <corr><normalised orig="Commandement" auto="true">Commandment</normalised></corr>
+                  </choice> of the<lb/>
+Apostle who <normalised orig="biddeth" auto="true">bids</normalised> women to be silent, and to learn of their<lb/>
+Husbands at home. She would never suffer any disorder or<lb/>
+abuse in her house <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice> to be <notvariant>unreproved</notvariant> or <notvariant>unreformed</notvariant>. And so<lb/>
+gentle was she <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>, and courteous of nature, that she was never<lb/>
+heard to give <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice> to any the <normalised orig="Lye" auto="false">Lie</normalised> in all her life, not so much as<lb/>
+(thou) to any in anger <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>. She was never known to <choice ana="illegible">
+                     <sic>*a*l</sic>
+                     <corr>fall</corr>
+                  </choice> out<lb/>
+with any of her neighbours, nor with the least child that lived:<lb/>
+much less to <normalised orig="scould" auto="true">scold</normalised> or brawl, as many will now <choice ana="illegible">
+                     <sic><notvariant>ada</notvariant>*es</sic>
+                     <corr><normalised orig="adaies" auto="true">adays</normalised></corr>
+                  </choice> for<lb/>
+every trifle, or rather for no cause at all. And so <notvariant>solitarily</notvariant> was<lb/>
+she given, that she would very <normalised orig="seldome" auto="true">seldom</normalised> or never, and not then<lb/>
+neither, except her husband were in company, go abroad with<lb/>
+any, either to Banquet or Feast, Gossip or make merry as<lb/>
+they <normalised orig="tearm" auto="true">term</normalised> it: <normalised orig="Insomuch" auto="true">Inasmuch</normalised>, that she was noted by some (though<lb/>
+most <notvariant>untruly</notvariant>) to <normalised orig="doe" auto="false">do</normalised> it in contempt and <normalised orig="disdaine" auto="true">disdain</normalised> of others.<lb/>
+                  <pb n="2"/>
+                  <lb/>
+When her husband was abroad in London, or elsewhere,<lb/>
+there was not the dearest friend she had in the world that could<lb/>
+get her abroad to dinner or supper, or to <normalised orig="plaies" auto="true">plays</normalised> or <normalised orig="enterludes" auto="true">interludes</normalised>,<lb/>
+nor to any other pastimes, or disports whatsoever: neither<lb/>
+was she given to pamper her body with delicate meats, wine<lb/>
+or strong <choice ana="illegible">
+                     <sic>*r*<notvariant>nk</notvariant></sic>
+                     <corr>drink</corr>
+                  </choice>, but rather refrain them altogether, saying,<lb/>
+that she would eat to live, and not live to eat. And as she excelled<lb/>
+in the gift of sobriety, so she <choice ana="illegible">
+                     <sic>s*pa*ed</sic>
+                     <corr>surpassed</corr>
+                  </choice> in the virtue of<lb/>
+humility: For it is well known to divers yet <choice ana="illegible">
+                     <sic>l*<notvariant>ving</notvariant></sic>
+                     <corr>living</corr>
+                  </choice>, that she<lb/>
+utterly <normalised orig="abhored" auto="true">abhorred</normalised> all kind of pride, as well of <normalised orig="apparell" auto="true">apparel</normalised> as otherwise.<lb/>
+She could never abide to <normalised orig="heare" auto="true">hear</normalised> any filthy or unseemly<lb/>
+<normalised orig="talke" auto="true">talk</normalised> of <choice ana="illegible">
+                     <sic><notvariant>scurr</notvariant>*l*y</sic>
+                     <corr><notvariant>scurrility</notvariant></corr>
+                  </choice>, <normalised orig="bawdery" auto="false">bawdry</normalised>, or <normalised orig="uncleannesse" auto="true">uncleanness</normalised>, neither swearing,<lb/>
+nor blaspheming, cursing nor banning, but would <choice ana="illegible">
+                     <sic><notvariant>repr</notvariant>*b*</sic>
+                     <corr><notvariant>reprobe</notvariant></corr>
+                  </choice>
+                  <lb/>
+them sharply, <normalised orig="shewing" auto="true">showing</normalised> them the vengeance of God due for<lb/>
+such <choice ana="illegible">
+                     <sic><notvariant>dese</notvariant>*ts</sic>
+                     <corr>deserts</corr>
+                  </choice>: and what is more, there was never one filthy,<lb/>
+<normalised orig="uncleane" auto="true">unclean</normalised>, <notvariant>undecent</notvariant>, or unseemly word heard to come out of<lb/>
+her mouth, nor ever once to curse or ban, to swear or blaspheme<lb/>
+God any <normalised orig="maner" auto="true">manner</normalised> of way: but <normalised orig="alwaies" auto="true">always</normalised> her speeches were<lb/>
+such as both might glorify God <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>, and minister grace to the hearers,<lb/>
+as the Apostle <normalised orig="speaketh" auto="true">speaks</normalised>. And for her conversation, there<lb/>
+was never any man or woman that ever opened their mouths<lb/>
+against her, or that did or could accuse her of the least shadow<lb/>
+of dishonesty, so contentedly she lived, and so <notvariant>circumspectly</notvariant> she<lb/>
+walked, eschewing even the outward appearance or <normalised orig="shew" auto="true">show</normalised> of<lb/>
+<normalised orig="evill" auto="true">evil</normalised>.<lb/>
+<normalised orig="Againe" auto="true">Again</normalised>, for true love and loyalty to her husband and his<lb/>
+Friends, she was (let me <normalised orig="speake" auto="true">speak</normalised> without offence) I think<lb/>
+the rarest Paragon in the world: for she was so <normalised orig="farre" auto="true">far</normalised> from<lb/>
+<normalised orig="disswading" auto="true">dissuading</normalised> her Husband to be <normalised orig="beneficiall" auto="true">beneficial</normalised> to his Friends, that<lb/>
+she would rather <normalised orig="perswade" auto="true">persuade</normalised> him to be more <normalised orig="beneficiall" auto="true">beneficial</normalised> unto<lb/>
+them. If she saw her Husband to be merry, then was she<lb/>
+merry: if he were heavy, or passionate, she would endeavour<lb/>
+to make him <choice ana="illegible">
+                     <sic>*lad</sic>
+                     <corr>glad</corr>
+                  </choice>: if he were angry, she would quickly<lb/>
+please him: so wisely she demeaned her self towards him.<lb/>
+She would never contrary him in anything, but by wise<lb/>
+<normalised orig="counsell" auto="true">counsel</normalised>, and <choice ana="illegible">
+                     <sic>*a*e</sic>
+                     <corr>sage</corr>
+                  </choice> advice, with all humility and submission,<lb/>
+seek to <normalised orig="perswade" auto="true">persuade</normalised> him: And also, so little was she given to this<lb/>
+world, that some of her neighbours marvelling why she was<lb/>
+no more <normalised orig="carefull" auto="true">careful</normalised> of it, would <normalised orig="aske" auto="true">ask</normalised> her sometimes, saying,<lb/>
+<normalised orig="Mistris" auto="true">Mistress</normalised> Stubs, why are you no more <normalised orig="carefull" auto="true">careful</normalised> for the things of<lb/>
+this life, but sit <normalised orig="alwaies" auto="true">always</normalised> poring upon a Book, and reading?<lb/>
+To whom she would answer: If I should be a friend unto<lb/>
+this world, I should be an enemy unto God, for God and the<lb/>
+                  <lb/>
+                  <fw type="pageNum">A3</fw>
+                  <pb n="3"/>
+                  <lb/>
+world are two contraries. Christ <normalised orig="biddeth" auto="true">bids</normalised> me, <quote type="biblical" ana="1 Jn 2.15">Love not the<lb/>
+world nor any thing in the world</quote>, affirming that if I love the<lb/>
+world, <quote type="biblical" ana="1 Jn 2.15">The love of the Father is not in me</quote>. Again, Christ <normalised orig="biddeth" auto="true">bids</normalised><lb/>
+me, <quote type="biblical" ana="Mt 6.33">first seek the <normalised orig="Kingdome" auto="true">Kingdom</normalised> of Heaven, and the righteousness thereof,<lb/>
+and all these worldly things shall be given to me</quote>, <quote type="biblical" ana="1 Tim 6.6">Godliness<lb/>
+is great riches, if a man be content with that he <normalised orig="hath" auto="false">has</normalised></quote>. I have<lb/>
+chosen with good Mary the better part, which shall never be<lb/>
+taken from me. Gods treasury (she would say) is never drawn<lb/>
+dry. I have enough in this live, God make me <normalised orig="thankfull" auto="true">thankful</normalised>,<lb/>
+and I know I have but a short time to live here, and it<lb/>
+<normalised orig="standeth" auto="true">stands</normalised> me upon to have a regard to my salvation in the life<lb/>
+to come.<lb/>
+Thus this godly young Gentlewoman held on her course<lb/>
+three or <normalised orig="foure" auto="true">four</normalised> <normalised orig="yeares" auto="true">years</normalised> after she was married. At which time, it<lb/>
+pleased God, that she conceived with a man-child; after which<lb/>
+conception she would say to her husband, and many other good<lb/>
+neighbours and friends yet living, not once nor twice, but many<lb/>
+times, that she should never <normalised orig="beare" auto="true">bear</normalised> more children, and that<lb/>
+Child should be her death, and that she should live but to bring<lb/>
+that child into the world, which thing no doubt was revealed<lb/>
+unto her by the Spirit of God; for according to her <normalised orig="Prophesie" auto="true">Prophecy</normalised>,<lb/>
+so it came to <normalised orig="passe" auto="true">pass</normalised>.<lb/>
+The time of her account being come, she was delivered of a<lb/>
+goodly man-child, with as much speed, and as safely, in all <normalised orig="womens" auto="true">women's</normalised><lb/>
+judgment, as any could be. And after her delivery <normalised orig="shee" auto="true">she</normalised><lb/>
+grew so strong, that she was able within four or five <normalised orig="dayes" auto="true">days</normalised> to<lb/>
+sit up in her bed, and to <normalised orig="walke" auto="true">walk</normalised> up and down her chamber, and<lb/>
+within a fortnight <choice ana="illegible">
+                     <sic>a*<notvariant>ter</notvariant></sic>
+                     <corr>after</corr>
+                  </choice> to go abroad being <normalised orig="throughly" auto="true">thoroughly</normalised> well,<lb/>
+and past all danger as every one thought.<lb/>
+But presently upon this sudden recovery, it pleased God to<lb/>
+visit her again with an exceeding hot and burning Quotidian<lb/>
+Ague: in which she languished for the space of six weeks, or<lb/>
+thereabout: During all which time, she was never <normalised orig="seene" auto="true">seen</normalised> nor<lb/>
+perceived to sleep one hour together, neither night nor day, and<lb/>
+yet the Lord preserved her (which was miraculous) in her perfect<lb/>
+understanding, sense &amp; memory, to the last breath, praised<lb/>
+be his holy Name therefore. In all her sickness, which was<lb/>
+both long and grievous, she never <normalised orig="shewed" auto="true">showed</normalised> any <normalised orig="signe" auto="true">sign</normalised> of discontentment<lb/>
+or impatience, neither was there ever heard one<lb/>
+word to come forth of her mouth sounding either of indiscretion<lb/>
+or infidelity, or mistrust or distrust, or of any doubting or<lb/>
+wavering, but <normalised orig="alwaies" auto="true">always</normalised> remained <normalised orig="faithfull" auto="true">faithful</normalised> and resolute in her<lb/>
+God: and so desirous she was to be with y<hi rend="high">e</hi> Lord, y<hi rend="high">t</hi> these golden<lb/>
+                  <pb n="4"/>
+                  <lb/>
+Sentences were never out of her mouth, <quote type="biblical" ana="Phil 1.23">I desire to be dissolved<lb/>
+and to be with Christ</quote>; and, <quote type="biblical" ana="Rom 7.24">O miserable wretch that I am;<lb/>
+who shall deliver me from this body subject to sin?</quote> Come quickly<lb/>
+Lord Jesus, come quickly; <quote type="psalm" ana="Ps 42.1">Like as the <normalised orig="Hart" auto="false">Heart</normalised> <normalised orig="desireth" auto="true">desires</normalised> the Water<lb/>
+springs, so <normalised orig="doth" auto="false">does</normalised> my soul thirst after thee O God</quote>; <quote type="psalm" ana="Ps 84.10">I had rather be a<lb/>
+<normalised orig="doore-keeper" auto="true">doorkeeper</normalised> in the house of my God, then to dwell in the tents of<lb/>
+the wicked</quote>: with many other heavenly Sentences, which lest<lb/>
+I should seem tedious I willingly omit. She would <normalised orig="alwaies" auto="true">always</normalised><lb/>
+pray in <normalised orig="sicknesse" auto="true">sickness</normalised> absolutely, that God would take her out of<lb/>
+this miserable world. And when her Husband and others<lb/>
+would desire her to pray for health, if it were the will of God:<lb/>
+she would answer, I beseech you pray not that I should live<lb/>
+for I think it long to be with my God: Christ is to me life, and<lb/>
+death is to me advantage: yea, the day of death is the birthday<lb/>
+of everlasting life, and I cannot enter into life, but by<lb/>
+death, therefore is death the door or entrance into everlasting<lb/>
+life. I know, and am certainly <normalised orig="perswaded" auto="true">persuaded</normalised> by the Spirit of<lb/>
+God, that the sentence is given already by that great <normalised orig="Iudge" auto="true">Judge</normalised>,<lb/>
+in the high Court or Parliament of Heaven, that I shall now<lb/>
+depart out of this life: and therefore pray not for me, that I<lb/>
+might live here, but pray to God, to give me strength and patience<lb/>
+to persevere to the end and to close up mine eyes in the<lb/>
+justifying faith of the blood of my Christ.<lb/>
+Sometimes she would speak very softly to her self, &amp; sometimes<lb/>
+very audibly, these words, doubling them an hundred<lb/>
+times together, O my God, why not now, why not now? O<lb/>
+my good God, I am ready for thee, I am prepared, O receive<lb/>
+me now for Christ his sake. O send thy messenger death to<lb/>
+fetch me, send thy Sergeant to arrest me, thy <normalised orig="Pursevant" auto="false">Pursuivant</normalised> to<lb/>
+                  <choice ana="print-error">
+                     <sic><notvariant>tach</notvariant></sic>
+                     <corr>teach</corr>
+                  </choice> me, thy Herald to summon me, O send thy <normalised orig="Iaylor" auto="true">Jailer</normalised> to deliver<lb/>
+my <normalised orig="soule" auto="true">soul</normalised> out of prison, for my body is nothing else but a<lb/>
+stinking prison to my <normalised orig="soule" auto="true">soul</normalised>: O send thy holy Angels to conduct<lb/>
+my <normalised orig="soule" auto="true">soul</normalised> into the everlasting <normalised orig="Kingdome" auto="true">Kingdom</normalised> of heaven.<lb/>
+<notvariant>Othersome</notvariant> times she would lie as if she were in a slumber,<lb/>
+her eyes closed, &amp; her lips uttering these words very softly to<lb/>
+her self, O my sweet <normalised orig="Iesus" auto="true">Jesus</normalised>, O my love <normalised orig="Iesus" auto="true">Jesus</normalised>, why not now<lb/>
+sweet <normalised orig="Iesus" auto="true">Jesus</normalised>, why not now? O sweet <normalised orig="Iesus" auto="true">Jesus</normalised> pray for me, pray<lb/>
+for me sweet <normalised orig="Iesus" auto="true">Jesus</normalised>; repeating them many times together.<lb/>
+These, and infinite the like, were her daily speeches, and <normalised orig="continuall" auto="true">continual</normalised><lb/>
+meditations; and never <normalised orig="worser" auto="true">worse</normalised> word was there heard<lb/>
+to come forth of her mouth, during all the time of her <normalised orig="sicknes" auto="true">sickness</normalised>.<lb/>
+She was accustomed many times, as she lay, very suddenly<lb/>
+to fall into a sweet smiling, and sometimes into a most hearty<lb/>
+                  <pb n="5"/>
+                  <lb/>
+laughter, her face appearing right fair, amiable, and lovely:<lb/>
+and her countenance seemed as though she greatly <normalised orig="rejoyced" auto="true">rejoiced</normalised> at<lb/>
+some glorious sight. And when her Husband would <normalised orig="aske" auto="true">ask</normalised> her<lb/>
+why she smiled and laughed so? she would answer O, if you<lb/>
+saw such glorious and heavenly sights as I see, you would rejoice<lb/>
+and laugh with me: for I see a vision of the <normalised orig="joyes" auto="true">joys</normalised> of heaven,<lb/>
+and of the glory that I shall go unto; and I see infinite<lb/>
+millions of Angels attendant upon me, and watching over<lb/>
+me, ready to carry my soul into the <normalised orig="Kingdome" auto="true">Kingdom</normalised> of Heaven.<lb/>
+In regard whereof, she was willing to forsake her <normalised orig="selfe" auto="true">self</normalised>, her<lb/>
+Husband, her child, and all the world besides. And so calling<lb/>
+for her child which the Nurse brought unto her, she took it up<lb/>
+in her arms and kissed it, and said God <normalised orig="blesse" auto="true">bless</normalised> thee, my sweet<lb/>
+Babe, and make thee an heir of the <normalised orig="Kingdome" auto="true">Kingdom</normalised> of Heaven: and<lb/>
+kissing it <normalised orig="againe" auto="true">again</normalised>, delivered it to the Nurse, with these words,<lb/>
+to her husband standing by; Beloved Husband, I bequeath<lb/>
+this my child unto you, he is no longer mine, he is the Lords<lb/>
+and yours, I forsake him, you, and all the world, yea, and mine<lb/>
+<normalised orig="owne" auto="true">own</normalised> <normalised orig="selfe" auto="true">self</normalised>, and esteem all things but dung, that I may win<lb/>
+<normalised orig="Iesus" auto="true">Jesus</normalised> Christ: and I pray you, sweet Husband, bring up this<lb/>
+Child in good letters, in Learning and Discipline, and above<lb/>
+all things, see that he be brought up and instructed in the exercise<lb/>
+of true Religion.<lb/>
+The child being taken away, she espied a little Puppy, or,<lb/>
+Bitch, (which in her health she loved well) lying upon her bed<lb/>
+she had no sooner espied her, but she beat her away, and calling<lb/>
+her Husband to her, said, good Husband, you and I have offended<lb/>
+God grievously, in receiving this Bitch many a time<lb/>
+into our bed: we would have been <normalised orig="loth" auto="true">loath</normalised> to have received a Christian<lb/>
+<normalised orig="soule" auto="true">soul</normalised>, purchased with the <normalised orig="pretious" auto="true">precious</normalised> blood of <normalised orig="Iesus" auto="true">Jesus</normalised> Christ,<lb/>
+into our bed, and to have nourished him in our bosoms, and<lb/>
+to have fed him at our table, as we have done this filthy Cur<lb/>
+many times: the Lord give me grace to repent it, and all other<lb/>
+vanities: And afterwards she could not abide to look upon the<lb/>
+Bitch any more.<lb/>
+Having thus godly disposed all things, <normalised orig="shee" auto="true">she</normalised> fell into a<lb/>
+Trance, or <normalised orig="swound" auto="true">swooned</normalised>, for almost the space of a quarter of an<lb/>
+<normalised orig="houre" auto="true">hour</normalised>, and so as every one thought <normalised orig="shee" auto="true">she</normalised> had been dead: but <normalised orig="afterward" auto="true">afterwards</normalised><lb/>
+<normalised orig="shee" auto="true">she</normalised> coming to her <normalised orig="selfe" auto="true">self</normalised>, <normalised orig="spake" auto="false">spoke</normalised> to them that were<lb/>
+present, (as there were many, both <normalised orig="worshipfull" auto="true">worshipful</normalised> and others)<lb/>
+saying, right <normalised orig="worshipfull" auto="true">worshipful</normalised>, and my good <normalised orig="neighbors" auto="true">neighbours</normalised> and friends,<lb/>
+I <normalised orig="thanke" auto="true">thank</normalised> you all for the great pains you have taken with me<lb/>
+in this bed of my sickness: and whereas I am not able<lb/>
+                  <pb n="6"/>
+                  <lb/>
+to requite you, I beseech the Lord requite you in the kingdom<lb/>
+of Heaven, and for that my <normalised orig="houre-glasse" auto="false">hourglass</normalised> is run out, and that<lb/>
+my time of departure hence is at hand, I am <normalised orig="perswaded" auto="true">persuaded</normalised> for<lb/>
+three causes to make a confession of my Faith before you all.<lb/>
+The first cause that <normalised orig="moveth" auto="true">moves</normalised> me thereto is, for that those (if<lb/>
+there be any such here) that are not yet <normalised orig="throughly" auto="true">thoroughly</normalised> resolved in<lb/>
+the truth of God, may hear and learn what the spirit of God<lb/>
+<normalised orig="hath" auto="false">has</normalised> taught me, out of his blessed and <normalised orig="alsaving" auto="false">allsaving</normalised> Word.<lb/>
+The second cause that <normalised orig="moveth" auto="true">moves</normalised> me, is, for that none of you<lb/>
+shall judge that I <normalised orig="dyed" auto="false">died</normalised> not a perfect Christian, and a perfect<lb/>
+member of the <normalised orig="mysticall" auto="true">mystical</normalised> body of <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, and so by your<lb/>
+rash judgment might <normalised orig="incurre" auto="true">incur</normalised> the displeasure of God.<lb/>
+The third and last cause is, for that as you have been witnesses<lb/>
+of part of my Life, so you might be witnesses of part<lb/>
+of may Faith and <normalised orig="Beleefe" auto="true">Belief</normalised> also.<lb/>
+And this is my confession, I would not have you to think<lb/>
+that it is I that speak unto you, But the Spirit of God that<lb/>
+<normalised orig="dwelleth" auto="true">dwells</normalised> in me and all the elect of God, <normalised orig="unlesse" auto="true">unless</normalised> they be reprobates.<lb/>
+For S. Paul saith <notvariant>Rom</notvariant>. 8. <quote type="biblical" ana="Rom 8.9">If any one have not the spirit of<lb/>
+Christ dwelling in him, he is none of his.</quote> This blessed Spirit<lb/>
+<normalised orig="hath" auto="false">has</normalised> knocked at the door of my heart, and my God <normalised orig="hath" auto="false">has</normalised> given<lb/>
+me grace to open the <normalised orig="doore" auto="true">door</normalised> of my heart, and he <normalised orig="dwelleth" auto="true">dwells</normalised><lb/>
+in me plentifully. And therefore I pray you lend your patience<lb/>
+a little and imprint my words in your hearts: for they<lb/>
+are not the words of flesh and blood, but the Spirit of God,<lb/>
+by whom we are sealed to the day of our redemption.<lb/>
+               </p>
+            </div>
+            <div>
+               <head>A most heavenly confession of the Christian Faith
+made by the blessed Servant of God, <normalised orig="Mistris" auto="true">Mistress</normalised>
+Katherine Stubs, a little before she died</head>
+               <p>
+                  <lb/>
+                  <lb/>
+ALthough the Majesty of God be both infinite and unspeakable,<lb/>
+and therefore according to his excellent dignity,<lb/>
+can never be conceived in heart, nor expressed in<lb/>
+word: yet to the end you may know what God is, in<lb/>
+whom I <normalised orig="beleeve" auto="true">believe</normalised>, as far as he <normalised orig="hath" auto="false">has</normalised> revealed himself to us in<lb/>
+his holy Word, I will define him unto you, as the Spirit<lb/>
+of God shall illuminate my heart.<lb/>
+I <normalised orig="beleeve" auto="true">believe</normalised> therefore with my heart, and freely <normalised orig="confesse" auto="true">confess</normalised> with<lb/>
+my mouth here before you all, that this God in whom I believe,<lb/>
+is a most glorious spirit or spiritual substance, a divine essence.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>A most <normalised orig="wonderfull" auto="true">wonderful</normalised> Conflict between Satan and
+her <normalised orig="soule" auto="true">soul</normalised>, and of her valiant Conquest in the
+same, by the power of Christ.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+HOw now Satan what <normalised orig="makest" auto="true">make</normalised> thou here? Art thou<lb/>
+come to tempt the Lords servant? I tell thee (thou<lb/>
+Hell hound) thou <normalised orig="hast" auto="true">have</normalised> no part nor portion in me,<lb/>
+nor by the grace of God, never shalt have, I was,<lb/>
+now am, and shall be the Lords for ever: yea Satan, I was,<lb/>
+chosen an elect of Christ unto everlasting salvation, before the<lb/>
+foundation of the world was laid, and therefore thou must get<lb/>
+thee packing, thou damned Dog, and go shake your ears, for in<lb/>
+me thou <normalised orig="hast" auto="true">have</normalised> nought. But &gt;w<hi rend="high">t</hi> <normalised orig="dost" auto="false">do</normalised> thou lay to my charge, thou<lb/>
+<normalised orig="foule" auto="true">foul</normalised> Fiend? Ah, that I am a sinner &amp; therefore shall be damned,<lb/>
+I <normalised orig="confesse" auto="true">confess</normalised> indeed that I am a sinner, and a grievous sinner,<lb/>
+both by original sin, and actual sin and that I may thank thee<lb/>
+for, &amp; therefore Satan I bequeath my sin to thee, from whence<lb/>
+it first came, and I appeal to the mercy of God in Christ Jesus.<lb/>
+                  <quote type="biblical" ana="1 Tim 1.15">Christ came to save sinners</quote> (as he himself <normalised orig="sayeth" auto="true">says</normalised>) <quote type="biblical" ana="Lk 5.32">&amp; not the righteous.</quote>
+                  <lb/>
+                  <quote type="biblical" ana="Jn 1.29">Behold the Lamb of God,</quote> saith <normalised orig="Iohn" auto="true">John</normalised>, <quote type="biblical" ana="Jn 1.29">that <normalised orig="taketh" auto="true">takes</normalised> away the<lb/>
+sins of the world.</quote> And in another place he <normalised orig="crieth" auto="true">cries</normalised> out, <quote type="biblical" ana="1 Jn 1.7">The blood<lb/>
+of Jesus Christ <normalised orig="doth" auto="false">does</normalised> cleanse us from all sins</quote>. And therefore Satan<lb/>
+I constantly <normalised orig="beleeve" auto="true">believe</normalised> my sins are washed away in the precious<lb/>
+blood of <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, &amp; shall never be imputed to me any more.<lb/>
+But <choice ana="illegible">
+                     <sic>w*at</sic>
+                     <corr>what</corr>
+                  </choice> <normalised orig="saiest" auto="true">says</normalised> thou now Satan? <normalised orig="Dost" auto="false">Do</normalised> thou <normalised orig="aske" auto="true">ask</normalised> me how<lb/>
+I dare come to him for mercy, he being a righteous God, and I<lb/>
+a miserable sinner? I tel thee Satan, I am bold through Christ<lb/>
+to come unto him, being assured &amp; certain of pardon &amp; remission<lb/>
+of all my sins, for his Names sake. For <normalised orig="doth" auto="false">does</normalised> not the Lord bid<lb/>
+all that be heavy laden with the <normalised orig="burthen" auto="true">burden</normalised> of sin, to come unto<lb/>
+him, &amp; he will ease them? Christs arms were spread wide open,<lb/>
+Satan, upon the Cross (with that she spread her own arms) to<lb/>
+<normalised orig="imbrace" auto="true">embrace</normalised> me and all penitent sinners: and therefore Satan, I<lb/>
+will not fear to present my self before his foot-stool, in full assurance<lb/>
+of his mercy for Christ his sake. What more, Satan?<lb/>
+<normalised orig="Dost" auto="false">Do</normalised> thou say it is written, that God will reward every one<lb/>
+according to his deserts? so it is written again, thou <normalised orig="deceitfull" auto="true">deceitful</normalised><lb/>
+Devil, that Christs righteousness is my righteousness, his<lb/>
+works my works, his deserts my deserts, his merits my merits,<lb/>
+and his precious blood a full satisfaction for my sins.<lb/>
+                  <pb n="7"/>
+                  <lb/>
+O but God is a just God thou <normalised orig="sayest" auto="true">say</normalised>, and therefore in<lb/>
+<normalised orig="Iustice" auto="true">Justice</normalised> must needs condemn me.<lb/>
+I grant Satan that he is a just God, and therefore he cannot<lb/>
+in justice punish me for my sins, which he <normalised orig="hath" auto="false">has</normalised> punished<lb/>
+                  <choice ana="illegible">
+                     <sic>*<notvariant>lready</notvariant></sic>
+                     <corr>already</corr>
+                  </choice> in his own <normalised orig="Sonne" auto="true">Son</normalised>, it is against the Law of <normalised orig="Iustice" auto="true">Justice</normalised><lb/>
+                  <choice ana="illegible">
+                     <sic>*o</sic>
+                     <corr>to</corr>
+                  </choice> punish one fault twice. I was and am a great debtor unto<lb/>
+God the Father, but <normalised orig="Iesus" auto="true">Jesus</normalised> Christ <normalised orig="hath" auto="false">has</normalised> paid the debt for me:<lb/>
+and therefore it stands not with the justice of God to require<lb/>
+it again. And therefore avoid Satan, avoid thou Firebrand<lb/>
+of Hell, avoid thou damned Dog, and tempt me no more: for<lb/>
+he that is with me, is mightier then thou, even the mighty and<lb/>
+victorious Lion of the Tribe of <notvariant>Judah</notvariant>, who <normalised orig="hath" auto="false">has</normalised> bruised thy<lb/>
+head, and <normalised orig="hath" auto="false">has</normalised> promised to be with his children to the end of<lb/>
+the world. Avoid therefore thou <choice ana="print">
+                     <sic><notvariant>dastard</notvariant></sic>
+                     <corr>bastard</corr>
+                  </choice>, avoid thou cowardly<lb/>
+                  <choice ana="illegible">
+                     <sic><normalised orig="sould" auto="true">sold</normalised>*er</sic>
+                     <corr><normalised orig="souldier" auto="true">soldier</normalised></corr>
+                  </choice>, remove thy <choice ana="illegible">
+                     <sic>*<notvariant>ege</notvariant></sic>
+                     <corr>siege</corr>
+                  </choice>, &amp; yield the field won, and get thee<lb/>
+packing, or else I will call upon my grand Captain, Christ<lb/>
+<normalised orig="Iesus" auto="true">Jesus</normalised>, the valiant Michael, who beat thee in heaven, and threw<lb/>
+thee down to <normalised orig="Hel" auto="true">Hell</normalised>, with all thy hellish train and devilish <normalised orig="crue" auto="true">crew</normalised>.<lb/>
+She had scarcely pronounced these last words but she <normalised orig="fel" auto="true">fell</normalised> suddenly<lb/>
+into a sweet smiling laughter: saying, now he is gone<lb/>
+now he is gone, do you not see him fly like a coward and run<lb/>
+away like a <choice ana="illegible">
+                     <sic>b*<notvariant>aten</notvariant></sic>
+                     <corr>beaten</corr>
+                  </choice> Cock? he <normalised orig="hath" auto="false">has</normalised> lost the field, and I have<lb/>
+won the victory, even the Garland and crown of everlasting<lb/>
+life and that not by my own power and strength, but by power<lb/>
+and might of <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, who <normalised orig="hath" auto="false">has</normalised> sent his holy Angels<lb/>
+to keep me. And speaking to them that were by, she said, Oh<lb/>
+would God you saw but what I see, for behold, I see infinite<lb/>
+millions of most glorious Angels stand about me with fiery<lb/>
+Chariots ready to defend me as they did the good Prophet <notvariant>Eliseus</notvariant>.<lb/>
+The holy Angels: these <normalised orig="ministring" auto="true">ministering</normalised> spirits are appointed<lb/>
+of God to carry my soul into the <normalised orig="Kingdome" auto="true">Kingdom</normalised> of Heaven,<lb/>
+where I shall behold the Lord face to face, &amp; shall see him not<lb/>
+with other but with the same <normalised orig="eys" auto="true">eyes</normalised>. Now I am happy &amp; blessed<lb/>
+for ever, for I have fought the good fight, and by the might of<lb/>
+Christ have won the victory. Now from henceforth I <normalised orig="shal" auto="true">shall</normalised> never<lb/>
+<normalised orig="tast" auto="true">taste</normalised> neither of hunger nor cold, pain nor woe, misery nor<lb/>
+                  <choice ana="illegible">
+                     <sic>a*<notvariant>fl</notvariant>*<notvariant>ction</notvariant></sic>
+                     <corr>affliction</corr>
+                  </choice>, vexation nor trouble, fear nor dread, nor any other<lb/>
+calamity, nor adversity whatsoever: From henceforth is laid<lb/>
+up a Crown of Life, which Christ shall give to all them which<lb/>
+love him, And as I am now in possession thereof by hope, so<lb/>
+shall I be anon in full fruition thereof, by presence of my soul,<lb/>
+and hereafter of my body also, when the Lord shall please.<lb/>
+Then she <normalised orig="spake" auto="false">spoke</normalised> softly to her self as <normalised orig="followeth" auto="true">follows</normalised>: Come sweet<lb/>
+Christ <normalised orig="Iesus" auto="true">Jesus</normalised>.<lb/>
+                  <lb/>
+                  <fw type="pageNum">C3</fw>
+                  <pb n="8"/>
+                  <lb/>
+come my love <normalised orig="Iesus" auto="true">Jesus</normalised>, O <choice ana="illegible">
+                     <sic>s*<notvariant>nd</notvariant></sic>
+                     <corr>send</corr>
+                  </choice> thy <normalised orig="Pursevant" auto="false">Pursuivant</normalised> sweet <normalised orig="Iesus" auto="true">Jesus</normalised>, to<lb/>
+fetch me: O sweet <normalised orig="Iesus" auto="true">Jesus</normalised>, <choice ana="illegible">
+                     <sic>*<notvariant>gthen</notvariant></sic>
+                     <corr>strengthen</corr>
+                  </choice> thy servant and keep thy<lb/>
+promise. Then sung she a <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice> Psalm most sweetly and with a<lb/>
+<normalised orig="chearfull" auto="true">cheerful</normalised> voice: which done, she desired her Husband that the<lb/>
+133 Psalm might be sung before her to Church. And <choice ana="illegible">
+                     <sic><notvariant>fu</notvariant>*<normalised orig="ther" auto="true">there</normalised></sic>
+                     <corr>further</corr>
+                  </choice>
+                  <lb/>
+she desired him he would not mourn for her, <normalised orig="alledging" auto="true">alleging</normalised><lb/>
+the Apostle Paul where he saith <quote type="biblical" ana="1 Thess 4.13">Brethren, I would not have you<lb/>
+to mourn, as men without hope</quote>, for them that <normalised orig="dye" auto="false">die</normalised> in the Lord: affirming,<lb/>
+that she was not in case to be mourned for, but rather<lb/>
+to be <normalised orig="rejoyced" auto="true">rejoiced</normalised> of, for that she should <normalised orig="passe" auto="true">pass</normalised> (as she said) from<lb/>
+Earth to Heaven, from men to holy Angels, <notvariant>Cherubims</notvariant> and<lb/>
+<notvariant>Seraphims</notvariant>, to holy Saints, Patriarchs, and Fathers, yea to<lb/>
+God himself. After which words, very suddenly she seemed as<lb/>
+it were greatly to <normalised orig="rejoyce" auto="true">rejoice</normalised>, and looked cheerfully, as though she<lb/>
+had seen some glorious sight: And lifting up her whole body,<lb/>
+and stretching forth both her arms, as though she would <normalised orig="imbrace" auto="true">embrace</normalised><lb/>
+some glorious and pleasant thing, said: I thank my God<lb/>
+through <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, he is come, he is come, my good <normalised orig="Iaylor" auto="true">Jailer</normalised><lb/>
+is come to let my <normalised orig="soule" auto="true">soul</normalised> out of prison. O sweet death, thou art<lb/>
+welcome, welcome sweet death: never was there any guest so<lb/>
+welcome unto me as thou art welcome, the messenger of everlasting<lb/>
+life: welcome the <normalised orig="doore" auto="true">door</normalised> and entrance into everlasting<lb/>
+glory. welcome I say and thrice welcome my good <normalised orig="Iaylor" auto="true">Jailer</normalised>, <normalised orig="doe" auto="false">do</normalised><lb/>
+thy office quickly, and set my soul at liberty: Strike sweet<lb/>
+death, strike my heart, I fear not that stroke: now it is. Father<lb/>
+into thy blessed hands I commend my spirit: sweet <normalised orig="Iesus" auto="true">Jesus</normalised>, into<lb/>
+thy hands I commend my spirit: blessed spirit of God, I commit<lb/>
+my soul into thy hands: O most holy, blessed and glorious<lb/>
+<normalised orig="Trinitie" auto="true">Trinity</normalised>, three persons and one true and everlasting God, into<lb/>
+thy blessed hands I commit my soul and body: at which<lb/>
+words her breath stayed, and so moving neither hand nor foot<lb/>
+she slept sweetly in the Lord.<lb/>
+Thus <normalised orig="hast" auto="true">have</normalised> thou heard (gentle Reader) the discourse of the<lb/>
+<normalised orig="vertuous" auto="true">virtuous</normalised> life and Christian death of this blessed and <normalised orig="faithfull" auto="true">faithful</normalised><lb/>
+servant of God, <normalised orig="Mistris" auto="true">Mistress</normalised> Katherine Stubs: which is so much the<lb/>
+more <normalised orig="wonderfull" auto="true">wonderful</normalised>, in that she was but young and tender in<lb/>
+<normalised orig="yeeres" auto="true">years</normalised>, not <normalised orig="halfe" auto="true">half</normalised> a <normalised orig="yeere" auto="true">year</normalised> above the number of twenty, when she<lb/>
+departed this life. The Lord give us grace to follow her example,<lb/>
+that we may come to those unspeakable joys wherein<lb/>
+she now <normalised orig="resteth" auto="true">rests</normalised>, through <normalised orig="Iesus" auto="true">Jesus</normalised> Christ our Lord: To whom<lb/>
+with the Father and the holy Ghost, be <normalised orig="al" auto="false">all</normalised> honour, praise, dominion<lb/>
+and thanksgiving, both now and evermore. Amen.<lb/>
+FINIS.<lb/>
+                  <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

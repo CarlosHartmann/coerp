@@ -1,0 +1,607 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Sermones" auto="false">Sermons</normalised> preached by <normalised orig="Iohn" auto="true">John</normalised> <notvariant>Donne</notvariant></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="IzWa1593">Walton, <notvariant>Izaak</notvariant></author>
+               <title type="main"><notvariant>LXXX</notvariant> sermons preached by that learned and reverend divine, <normalised orig="Iohn" auto="true">John</normalised> <notvariant>Donne</notvariant>, Dr in divinity, Late <normalised orig="Deane" auto="true">Dean</normalised> of the <normalised orig="Cathedrall" auto="true">Cathedral</normalised> Church of S. <normalised orig="Pauls" auto="true">Paul's</normalised> London.</title>
+               <title type="short"><normalised orig="Sermones" auto="false">Sermons</normalised> preached by <normalised orig="Iohn" auto="true">John</normalised> <notvariant>Donne</notvariant></title>
+               <date when="1640">1640</date>
+               <date type="this_edition" when="1640">1640</date>
+               <idno type="STC">7038</idno>
+               <note type="genre" subtype="biography">biography</note>
+               <note type="sample" target="#IzWa1593_1640_biography_1"/>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>sexto</notvariant></term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="IzWa1593_1640_biography_1">
+            <div>
+               <head>THE LIFE AND DEATH<lb/>
+OF<lb/>
+D<hi rend="high">r</hi> <notvariant>DONNE</notvariant>, LATE <normalised orig="DEANE" auto="true">DEAN</normalised><lb/>
+OF S<hi rend="high">t</hi> <normalised orig="Pauls" auto="true">Paul's</normalised> LONDON.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+IF that great Master of Language and Art, Sir Henry <notvariant>Wootton</notvariant>,<lb/>
+Provost of Eaton <normalised orig="Colledge" auto="true">College</normalised>, (lately deceased) had lived to<lb/>
+see the publication of these Sermons, he had presented the<lb/>
+world with the Authors life exactly written. It was a Work<lb/>
+worthy his undertaking, and he fit to undertake it; betwixt<lb/>
+whom and our Author, there was such a friendship contracted<lb/>
+in their youths, that nothing but death could force the separation.<lb/>
+And though their bodies were divided, that learned Knights love followed<lb/>
+his friends fame beyond the <normalised orig="forgetfull" auto="true">forgetful</normalised> grave, which he testified by <normalised orig="intreating" auto="true">entreating</normalised><lb/>
+me (whom he acquainted with his <normalised orig="designe" auto="true">design</normalised>) to inquire of <normalised orig="certaine" auto="true">certain</normalised> particulars<lb/>
+that concerned it: Not doubting but my knowledge of the Author, and love<lb/>
+to his memory, would make my diligence <normalised orig="usefull" auto="true">useful</normalised>. I did prepare them in a<lb/>
+readiness to be augmented, and rectified by his <normalised orig="powerfull" auto="true">powerful</normalised> pen; but then death<lb/>
+prevented his intentions.<lb/>
+When I heard that sad <normalised orig="newes" auto="true">news</normalised>, and likewise that these Sermons were to be<lb/>
+<normalised orig="publisht" auto="true">published</normalised> without the Authors life, (which I thought was rare) indignation<lb/>
+or <normalised orig="griefe" auto="true">grief</normalised> (I know not whether) transported me so far, that I re-viewed my forsaken<lb/>
+Collections, and resolved the world should see the best picture of the<lb/>
+Author that my <normalised orig="artlesse" auto="true">artless</normalised> <normalised orig="Pensil" auto="true">Pencil</normalised> (guided by the hand of Truth) could present<lb/>
+to it.<lb/>
+If I be demanded, as once <notvariant>Pompeys</notvariant> <normalised orig="poore" auto="true">poor</normalised> <normalised orig="Bondman" auto="true">Bondsman</normalised> was, (<normalised orig="whilest" auto="true">whilst</normalised> he was<lb/>
+alone on the Sea shore gathering the pieces of an old Boat to <normalised orig="burne" auto="true">burn</normalised> the body<lb/>
+of his dead Master). What art thou that <normalised orig="preparest" auto="false">prepares</normalised> the <normalised orig="funeralls" auto="true">funerals</normalised> of <notvariant>Pompey</notvariant> the<lb/>
+great? Who I am that so officiously set the Authors <normalised orig="memorie" auto="true">memory</normalised> on fire? I hope<lb/>
+the question <normalised orig="hath" auto="false">has</normalised> in it more of wonder than <normalised orig="disdaine" auto="true">disdain</normalised>.<lb/>
+Wonder indeed the Reader may, that I (who <normalised orig="professe" auto="true">profess</normalised> my <normalised orig="selfe" auto="true">self</normalised> <normalised orig="artlesse" auto="true">artless</normalised>)<lb/>
+should presume with my faint light to <normalised orig="shew" auto="true">show</normalised> forth his life, whose very name<lb/>
+makes it illustrious; but be this to the disadvantage of the person represented,<lb/>
+<normalised orig="certaine" auto="true">certain</normalised> I am, it is much to the advantage of the beholder; who shall see the<lb/>
+Authors picture in a <normalised orig="naturall" auto="true">natural</normalised> <normalised orig="dresse" auto="true">dress</normalised>, which ought to beget faith in what is<lb/>
+spoken, for he that wants skill to deceive, may safely be <choice ana="illegible">
+                     <sic><notvariant>tr</notvariant>*<notvariant>sted</notvariant></sic>
+                     <corr>trusted</corr>
+                  </choice>.<lb/>
+And though it may be my fortune to fall under some censures for this undertaking,<lb/>
+yet I am pleased in a <normalised orig="beliefe" auto="true">belief</normalised> I have, that if the Authors glorious<lb/>
+                  <pb n="1"/>
+                  <lb/>
+spirit (which is now in heaven) can have the <normalised orig="leasure" auto="true">leisure</normalised> to look <normalised orig="downe" auto="true">down</normalised>, and see<lb/>
+his meanest friend in the midst of his officious duty, he will not <normalised orig="disdaine" auto="true">disdain</normalised> my<lb/>
+well meaning sacrifice to his memory. For whilst his conversation made me<lb/>
+(and many others) happy below, I know his humility and gentleness was<lb/>
+eminent: And I have heard Divines say, those <normalised orig="vertues" auto="true">virtues</normalised> that are but sparks on<lb/>
+earth, become great and glorious flames in heaven.<lb/>
+He was borne in London, of good and <normalised orig="vertuous" auto="true">virtuous</normalised> Parents; And though<lb/>
+his own learning and other multiplied merits, may justly <normalised orig="seeme" auto="true">seem</normalised> sufficient to<lb/>
+<normalised orig="dignifie" auto="true">dignify</normalised> both <normalised orig="himselfe" auto="true">himself</normalised> and <normalised orig="posteritie" auto="true">posterity</normalised>; yet Reader be pleased to know, that his<lb/>
+Father was <notvariant>masculinely</notvariant> and lineally descended from a very ancient Family<lb/>
+in Wales, where many of his name now live, that have and deserve great reputation<lb/>
+in that <normalised orig="Countrey" auto="true">Country</normalised>.<lb/>
+By his Mother he was descended from the Family of the famous Sir Thomas<lb/>
+More, sometimes Lord Chancellor of England; and also from that worthy<lb/>
+and laborious Judge <notvariant>Rastall</notvariant>, who left behind him the vast Statutes of the<lb/>
+<normalised orig="Lawes" auto="true">Laws</normalised> of this <normalised orig="Kingdome" auto="true">Kingdom</normalised>, most exactly abridged.<lb/>
+He had his first breeding in his Fathers house, where a private Tutor had<lb/>
+the care of him, till he was nine <normalised orig="yeares" auto="true">years</normalised> of age; he was then sent to the <normalised orig="Universitie" auto="false">University</normalised><lb/>
+of Oxford, having at that time a command of the French and <normalised orig="Latine" auto="true">Latin</normalised><lb/>
+Tongues, when others can scarce speak their <normalised orig="owne" auto="true">own</normalised>.<lb/>
+There he remained in <normalised orig="Hart" auto="false">Heart</normalised> Hall, (having for the advancement of his studies,<lb/>
+Tutors in <normalised orig="severall" auto="true">several</normalised> Sciences to instruct him) till time made him capable,<lb/>
+and his learning <normalised orig="exprest" auto="true">expressed</normalised> in many <normalised orig="publique" auto="true">public</normalised> Exercises, declared him fit to receive<lb/>
+his first Degree in the <normalised orig="Schooles" auto="true">Schools</normalised>, which he forbore by advise from his<lb/>
+friends, who being of the <normalised orig="Romish" auto="false">Roman</normalised> <normalised orig="perswasion" auto="true">persuasion</normalised>, were <notvariant>conscionably</notvariant> averse to<lb/>
+some parts of the Oath, <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="tendred" auto="true">tendered</normalised> and taken at those times.<lb/>
+About the fourteenth <normalised orig="yeare" auto="true">year</normalised> of his age, he was transplanted from Oxford<lb/>
+to Cambridge, where (that he might receive nourishment from both <normalised orig="soiles" auto="true">soils</normalised>)<lb/>
+he staid till his seventeenth <normalised orig="yeare" auto="true">year</normalised>. All which time he was a most laborious<lb/>
+Student, often changing his studies, but endeavouring to take no Degree for<lb/>
+the reasons formerly mentioned.<lb/>
+About his seventeenth <normalised orig="yeare" auto="true">year</normalised> he was removed to London, and <normalised orig="entred" auto="true">entered</normalised> into<lb/>
+<notvariant>Lincolnes</notvariant> <normalised orig="Inne" auto="true">Inn</normalised>, with an intent to study the Law, where he gave great testimonies<lb/>
+of wit, learning, and improvement in that profession, which never<lb/>
+served him for any use, but <normalised orig="onely" auto="true">only</normalised> for ornament.<lb/>
+His Father died before his admission into that Society, and (being a Merchant)<lb/>
+left him his Portion in money (which was 3000.li.) His Mother, and<lb/>
+those to whose care he was committed, were watchful to improve his knowledge,<lb/>
+and to that end appointed him there also Tutors in <normalised orig="severall" auto="true">several</normalised> Sciences,<lb/>
+as the <normalised orig="Mathematicks" auto="true">Mathematics</normalised> and others, to attend and instruct him. But with these<lb/>
+Arts they were advised to instill <normalised orig="certaine" auto="true">certain</normalised> particular principles of the <normalised orig="Romish" auto="false">Roman</normalised><lb/>
+Church, of which those Tutors (though secretly) <normalised orig="profest" auto="true">professed</normalised> themselves to be<lb/>
+members.<lb/>
+They had almost obliged him to their faith, having for their advantage,<lb/>
+besides their opportunity, the example of his most <normalised orig="deare" auto="true">dear</normalised> and pious Parents,<lb/>
+which was a <normalised orig="powerfull" auto="true">powerful</normalised> <normalised orig="perswasion" auto="true">persuasion</normalised>, and did work upon him, as he <normalised orig="professeth" auto="true">professes</normalised><lb/>
+                  <pb n="2"/>
+                  <lb/>
+in his PREFACE to his Pseudo Martyr.<lb/>
+He was now <normalised orig="entred" auto="true">entered</normalised> into the nineteenth <normalised orig="yeare" auto="true">year</normalised> of his age, and being unresolved<lb/>
+in his Religion, (though his youth and strength promised him a long<lb/>
+life) yet he thought it necessary to <normalised orig="rectifie" auto="true">rectify</normalised> all scruples which concerned that:<lb/>
+And therefore waving the Law, and betrothing <normalised orig="himselfe" auto="true">himself</normalised> to no art or profession,<lb/>
+that might justly denominate him, he began to survey the body of Divinity,<lb/>
+controverted between the Reformed and Roman Church. And as Gods<lb/>
+blessed Spirit did then awaken him to the search; and in that industry did never forsake<lb/>
+him, (they be his <normalised orig="owne" auto="true">own</normalised> words) So he calls the same Spirit to witness to his Protestation,<lb/>
+that in that search and disquisition he proceeded with humility and diffidence in <normalised orig="himselfe" auto="true">himself</normalised>,<lb/>
+by the safest way of frequent Prayers, and indifferent affection to both parties. And<lb/>
+indeed, Truth had too much light about her, to be hid from so sharp an Inquirer;<lb/>
+and he had too much ingenuity, not to acknowledge he had seen her.<lb/>
+Being to undertake this search, he <normalised orig="beleeved" auto="true">believed</normalised> the learned Cardinal <notvariant>Bellarinine</notvariant><lb/>
+to be the best defender of the Roman cause: and therefore undertook the examination<lb/>
+of his reasons. The cause was <normalised orig="waighty" auto="true">weighty</normalised>, and <normalised orig="wilfull" auto="true">wilful</normalised> <normalised orig="delaies" auto="true">delays</normalised> had been<lb/>
+inexcusable towards God and his own conscience; he <normalised orig="therfore" auto="true">therefore</normalised> proceeded with<lb/>
+all moderate haste; And before he <normalised orig="entred" auto="true">entered</normalised> into the twentieth <normalised orig="yeare" auto="true">year</normalised> of his age,<lb/>
+did <normalised orig="shew" auto="true">show</normalised> the <normalised orig="Deane" auto="true">Dean</normalised> of Gloucester all the <normalised orig="Cardinalls" auto="true">Cardinals</normalised> Works marked with<lb/>
+many <normalised orig="waighty" auto="true">weighty</normalised> Observations under his own hand, which Works were bequeathed<lb/>
+by him at his death as a Legacy to a most <normalised orig="deare" auto="true">dear</normalised> friend.<lb/>
+About the twentieth <normalised orig="yeare" auto="true">year</normalised> of his age, he resolved to <normalised orig="travell" auto="true">travel</normalised>; And the <normalised orig="Earle" auto="true">Earl</normalised><lb/>
+of Essex going to <notvariant>Cales</notvariant>, and after the <normalised orig="Iland" auto="true">Island</normalised> voyages, he took the advantage of<lb/>
+those opportunities, waited upon his Lordship, and saw the expeditions of<lb/>
+those happy and unhappy <normalised orig="imployments" auto="true">employments</normalised>.<lb/>
+But he returned not into England, till he had staid a convenient time, first<lb/>
+in Italy, and then in <normalised orig="Spaine" auto="true">Spain</normalised>, where he made many <normalised orig="usefull" auto="true">useful</normalised> Observations of<lb/>
+those Countries, their <normalised orig="Lawes" auto="true">Laws</normalised>, and Government, and returned into England<lb/>
+perfect in their Languages.<lb/>
+Not long after his <normalised orig="returne" auto="true">return</normalised>, that exemplary pattern of gravity and <normalised orig="wisdome" auto="true">wisdom</normalised>,<lb/>
+the Lord <notvariant>Elsmore</notvariant>, Lord Keeper of the great <normalised orig="Seale" auto="true">Seal</normalised>, and after Chancellor of England,<lb/>
+taking notice of his Learning, Languages, and other abilities, and much<lb/>
+affecting both his person and condition, received him to be his <normalised orig="chiefe" auto="true">chief</normalised> <normalised orig="Secretarie" auto="true">Secretary</normalised>,<lb/>
+supposing it might be an Introduction to some more <normalised orig="waighty" auto="true">weighty</normalised> <normalised orig="imployment" auto="true">employment</normalised><lb/>
+in the State, for which his Lordship often protested he thought him<lb/>
+very fit.<lb/>
+Nor did his Lordship account him so much to be his servant, as to forget<lb/>
+<normalised orig="hee" auto="false">he</normalised> had <normalised orig="beene" auto="true">been</normalised> his friend; and to <normalised orig="testifie" auto="true">testify</normalised> it, <normalised orig="hee" auto="false">hoe</normalised> used him <normalised orig="alwayes" auto="true">always</normalised> with much<lb/>
+<normalised orig="curtesie" auto="true">courtesy</normalised>, appointing him a place at his <normalised orig="owne" auto="true">own</normalised> Table, unto which he esteemed<lb/>
+his company and discourse a great ornament.<lb/>
+He continued that employment with much love and approbation, being<lb/>
+daily <normalised orig="usefull" auto="true">useful</normalised> (and not mercenary) to his friends, for the space of five <normalised orig="yeares" auto="true">years</normalised>:<lb/>
+In which time, he (I dare not say unfortunately) fell into such a liking, as<lb/>
+(with her approbation) increased into a love with a young Gentlewoman,<lb/>
+who lived in that Family, <normalised orig="Neece" auto="true">Niece</normalised> to the Lady <notvariant>Elsmore</notvariant>, Daughter to Sir George<lb/>
+More, Chancellor of the Garter, and Lieutenant of the Tower.<lb/>
+                  <pb n="3"/>
+                  <lb/>
+Sir George had some <choice ana="illegible">
+                     <sic>*<notvariant>ation</notvariant></sic>
+                     <corr>intimation</corr>
+                  </choice> of their increasing love; and the better to<lb/>
+prevent it; did <choice ana="illegible">
+                     <sic>*move</sic>
+                     <corr>remove</corr>
+                  </choice> his Daughter to his <normalised orig="owne" auto="true">own</normalised> house; but too late; by reason<lb/>
+of some <normalised orig="faithfull" auto="true">faithful</normalised> promises interchangeably past, and <notvariant>inviolably</notvariant> to be<lb/>
+kept between them.<lb/>
+Their love (a passion, which of all other Mankind is least able to command,<lb/>
+and wherein most errors are committed) was in them so <normalised orig="powerfull" auto="true">powerful</normalised>,<lb/>
+that they resolved, and did marry without the approbation of those friends<lb/>
+that might justly <normalised orig="claime" auto="true">claim</normalised> an interest in the advising and disposing of them.<lb/>
+Being married, the <normalised orig="newes" auto="true">news</normalised> was (in favour to M. <notvariant>Donne</notvariant>, and with his allowance)<lb/>
+by the Right Honourable Henry then <normalised orig="Earle" auto="true">Earl</normalised> of Northumberland, secretly<lb/>
+and certainly intimated to Sir George More, to whom it was so immeasurably<lb/>
+unwelcome, that (as though his passion of anger and <notvariant>inconsideration</notvariant> should<lb/>
+exceed theirs of love and error) he <normalised orig="ingaged" auto="true">engaged</normalised> his sister the Lady <choice ana="illegible">
+                     <sic><notvariant>Elsm</notvariant>*re</sic>
+                     <corr><notvariant>Elsmore</notvariant></corr>
+                  </choice> to <normalised orig="joyn" auto="true">join</normalised><lb/>
+with him to procure her Lord to discharge M. <notvariant>Donne</notvariant> the place he held under<lb/>
+his Lordship. And although Sir George were <normalised orig="remembred" auto="true">remembered</normalised> that Errors might<lb/>
+be <normalised orig="over-punisht" auto="false">over-punished</normalised>, and therefore was desired to <normalised orig="forbeare" auto="true">forbear</normalised>, till second considerations<lb/>
+had <normalised orig="cleered" auto="true">cleared</normalised> some scruples, yet he was <normalised orig="restlesse" auto="true">restless</normalised> <normalised orig="untill" auto="true">until</normalised> his suit was granted;<lb/>
+and the punishment executed; The Lord Chancellor then (at M. <notvariant>Donnes</notvariant><lb/>
+<notvariant>dismission</notvariant>) protesting, he thought him a Secretary fitter for a King then a<lb/>
+Subject.<lb/>
+But this <normalised orig="physick" auto="true">physic</normalised> of M. <notvariant>Donnes</notvariant> <notvariant>dismission</notvariant> was not strong enough to purge<lb/>
+out all Sir George his choler, who was not satisfied, till M. <notvariant>Donne</notvariant>, and his <notvariant>Compupill</notvariant><lb/>
+in Cambridge that married him, M. Samuel Brooke, (who was after D.<lb/>
+in D. and Master of Trinity <normalised orig="Colledge" auto="true">College</normalised> in that University) and his brother M.<lb/>
+Christopher Brook of <notvariant>Lincolns</notvariant> <normalised orig="Inne" auto="true">Inn</normalised>, (who gave M. <notvariant>Donne</notvariant> his Wife, and witnessed<lb/>
+the <normalised orig="Mariage" auto="true">Marriage</normalised>) were all committed to <normalised orig="severall" auto="true">several</normalised> Prisons.<lb/>
+M. <notvariant>Donne</notvariant> was first <normalised orig="inlarged" auto="true">enlarged</normalised>, who neither gave rest to his body; his <normalised orig="braine" auto="true">brain</normalised>,<lb/>
+nor any friend, in whom he might hope to have any interest, <normalised orig="untill" auto="true">until</normalised> he had<lb/>
+procured the <normalised orig="inlargement" auto="true">enlargement</normalised> of his two imprisoned friends.<lb/>
+He was now at liberty, but his <normalised orig="dayes" auto="true">days</normalised> were still <normalised orig="cloudie" auto="true">cloudy</normalised>, and being past this<lb/>
+trouble, others did still multiply, for his Wife (to her <normalised orig="extreame" auto="true">extreme</normalised> sorrow) was<lb/>
+detained from him. And though with <notvariant>Iacob</notvariant>, he endured not a hard service for<lb/>
+her, yet he lost a good one, and was forced to get possession of her by a long<lb/>
+suit in Law, which proved very chargeable, and more troublesome.<lb/>
+It was not long, but that Time and M. <notvariant>Donnes</notvariant> behaviour (which when it<lb/>
+would <normalised orig="intice" auto="true">entice</normalised>, had a strange kind of irresistible art) had so <notvariant>dispassioned</notvariant> his<lb/>
+Father in Law, That as the world had approved his Daughters choice, so he<lb/>
+also could not choose but see a more then ordinary merit in his new <normalised orig="Sonne" auto="true">Son</normalised>,<lb/>
+which melted him into so much remorse, that he secretly laboured his sons<lb/>
+<normalised orig="restauration" auto="true">restoration</normalised> into his place, <choice ana="illegible">
+                     <sic>*sing</sic>
+                     <corr>using</corr>
+                  </choice> his <normalised orig="owne" auto="true">own</normalised>, and his sisters power, but with no<lb/>
+<normalised orig="successe" auto="true">success</normalised>; The Lord Chancellor replying, That although he was <normalised orig="unfainedly" auto="false">unfeignedly</normalised><lb/>
+sorry for what he had done, yet it stood not with his credit to discharge and<lb/>
+re-admit servants, at the request of passionate Petitioners.<lb/>
+Within a short time, Sir George appeared to be so far reconciled, as to wish<lb/>
+their <normalised orig="happinesse" auto="true">happiness</normalised>; (or say so) And being asked for his paternal blessing, did not<lb/>
+deny it; but refused to contribute any <normalised orig="meanes" auto="true">means</normalised> that might conduce to their<lb/>
+<normalised orig="livelyhood" auto="true">livelihood</normalised>.<lb/>
+                  <pb n="4"/>
+                  <lb/>
+M. <notvariant>Donnes</notvariant> Portion was the greatest part spent in many and chargeable<lb/>
+travels, the rest <normalised orig="disburst" auto="true">disbursed</normalised> in some few Books, and <normalised orig="deare" auto="true">dear</normalised> bought experience;<lb/>
+he out of all <normalised orig="imployment" auto="true">employment</normalised>, that might <normalised orig="yeeld" auto="true">yield</normalised> a support for <normalised orig="himselfe" auto="true">himself</normalised> and Wife,<lb/>
+who had been curiously and plentifully educated; his nature generous, and<lb/>
+                  <choice ana="illegible">
+                     <sic>h*</sic>
+                     <corr>her</corr>
+                  </choice> accustomed to confer, not to receive <normalised orig="curtesies" auto="true">courtesies</normalised>. These and other considerations,<lb/>
+but chiefly that his <normalised orig="deare" auto="true">dear</normalised> Wife was to bear a part in his sufferings,<lb/>
+surrounded him with many and sad thoughts, and some apparent apprehensions<lb/>
+of want.<lb/>
+But his sorrow was lessened, and his wants prevented by the seasonable<lb/>
+                  <choice ana="illegible">
+                     <sic>c*<notvariant>esies</notvariant></sic>
+                     <corr><normalised orig="curtesies" auto="true">courtesies</normalised></corr>
+                  </choice> of their noble Kinsman Sir Francis <notvariant>Wally</notvariant> of <notvariant>Pixford</notvariant>, who <normalised orig="intreated" auto="true">entreated</normalised><lb/>
+them to a co-habitation with him; where they remained with very much<lb/>
+<normalised orig="freedome" auto="true">freedom</normalised> to themselves, and <normalised orig="equall" auto="true">equal</normalised> content to him for many <normalised orig="yeares" auto="true">years</normalised>. And as<lb/>
+their charge increased, (she had yearly a child) so did his love and bounty.<lb/>
+With him they <choice ana="illegible">
+                     <sic><notvariant>contin</notvariant>*ed</sic>
+                     <corr>continued</corr>
+                  </choice> till his death: a little before which time Sir Francis<lb/>
+was so happy as to make a perfect reconciliation betwixt that good man<lb/>
+Sir George More and his forsaken <normalised orig="sonne" auto="true">son</normalised> and daughter, Sir George then giving<lb/>
+Bond to pay M. <notvariant>Donne</notvariant> 800. l. at a certain day as a Portion with his wife, and<lb/>
+to pay him for their maintenance 20. l. quarterly, (as the Interest of it) <normalised orig="untill" auto="true">until</normalised><lb/>
+the said Portion were paid.<lb/>
+Most of those <normalised orig="yeares" auto="true">years</normalised> that he lived with Sir Francis, he studied the Civil and<lb/>
+Canon <normalised orig="Lawes" auto="true">Laws</normalised>: In which he acquired such a perfection as was judged to<lb/>
+hold some proportion with many, who had made that study the <normalised orig="imployment" auto="true">employment</normalised><lb/>
+of their whole life.<lb/>
+Sir Francis being dead, and that happy family dissolved; M. <notvariant>Donne</notvariant> <normalised orig="tooke" auto="true">took</normalised> a<lb/>
+house at <notvariant>Micham</notvariant> (<normalised orig="neere" auto="true">near</normalised> unto Croydon in Surrey) where his wife and family<lb/>
+remained constantly: and for <normalised orig="himselfe" auto="true">himself</normalised> (having occasions to be often in<lb/>
+London) he <normalised orig="tooke" auto="true">took</normalised> lodgings <normalised orig="neere" auto="true">near</normalised> unto White-hall, where he was frequently<lb/>
+visited by men of greatest learning and judgement in this <normalised orig="Kingdome" auto="true">Kingdom</normalised>; his<lb/>
+company being loved, and much desired by many of the Nobility of this<lb/>
+Nation, who used him in their counsels of greatest considerations.<lb/>
+Nor did our <normalised orig="owne" auto="true">own</normalised> Nobility <normalised orig="onely" auto="true">only</normalised> favour him, but his acquaintance and<lb/>
+friendship was usually sought for by most Ambassadors of <normalised orig="forraigne" auto="true">foreign</normalised> Nations,<lb/>
+and by many other strangers, whose learning or employment occasioned<lb/>
+their stay in this <normalised orig="Kingdome" auto="true">Kingdom</normalised>.<lb/>
+He was much importuned by friends to make his residence in London,<lb/>
+which he could not <normalised orig="doe" auto="false">do</normalised>, having <normalised orig="setled" auto="true">settled</normalised> his dear wife and children at <notvariant>Micham</notvariant>,<lb/>
+whither he often retired <normalised orig="himselfe" auto="true">himself</normalised>, and then studied incessantly some Points of<lb/>
+<normalised orig="Controversie" auto="true">Controversy</normalised>. But at last the <normalised orig="perswasion" auto="true">persuasion</normalised> of friends was so <normalised orig="powerfull" auto="true">powerful</normalised>, as to<lb/>
+cause the <normalised orig="removall" auto="true">removal</normalised> of <normalised orig="himselfe" auto="true">himself</normalised> and family to London; where that honourable<lb/>
+Gentleman Sir Robert <notvariant>Drury</notvariant> assigned him a very convenient house <normalised orig="rentfree" auto="false">rent free</normalised>,<lb/>
+next his own in <notvariant>Drury-lane</notvariant>, and was also a daily <notvariant>cherisher</notvariant> of his studies,<lb/>
+and such a friend as <normalised orig="sympathiz'd" auto="true">sympathised</normalised> with him and his; in their joy and sorrow.<lb/>
+Divers of the Nobility were <normalised orig="watchfull" auto="true">watchful</normalised> and solicitous to the King for some<lb/>
+preferment for him. His Majesty had formerly both <normalised orig="knowne" auto="true">known</normalised>, and much valued<lb/>
+him, and had given him some hopes of a State employment, being much<lb/>
+pleased that M. <notvariant>Donne</notvariant> attended him, especially at his <normalised orig="meales" auto="true">meals</normalised>, where there was<lb/>
+                  <lb/>
+                  <fw type="pageNum">B</fw>
+                  <pb n="5"/>
+                  <lb/>
+usually many deep discourses of Learning, and often friendly disputes of Religion<lb/>
+betwixt the King and those Divines whose places required their attendance<lb/>
+on his <normalised orig="Majestie" auto="true">Majesty</normalised>: Particularly, the Right Reverend Bishop <notvariant>Montague</notvariant>,<lb/>
+then <normalised orig="Deane" auto="true">Dean</normalised> of the <normalised orig="Chappel" auto="true">Chapel</normalised>, (who was the publisher of the eloquent and<lb/>
+learned Works of his <normalised orig="Majestie" auto="true">Majesty</normalised>) and the most learned Doctor <normalised orig="Andrewes" auto="false">Andrews</normalised>, then<lb/>
+his Majesties <notvariant>Almoner</notvariant>, and at his death Bishop of Winchester.<lb/>
+About this time grew many disputes in England, that concerned the<lb/>
+Oath of Supremacy and <normalised orig="Allegeance" auto="true">Allegiance</normalised>, in which the King had appeared and<lb/>
+<normalised orig="ingaged" auto="true">engaged</normalised> <normalised orig="himselfe" auto="true">himself</normalised> by his <normalised orig="publique" auto="true">public</normalised> writings now extant. And his <normalised orig="Majestie" auto="true">Majesty</normalised><lb/>
+occasionally talking with M. <notvariant>Donne</notvariant> concerning many of those Arguments<lb/>
+urged by the <notvariant>Romanists</notvariant>, apprehended such a validity and <normalised orig="cleerenesse" auto="false">clearness</normalised> in his<lb/>
+answers, that he commanded him to state the Points, and bring his Reasons<lb/>
+to him in writing; to which he presently <normalised orig="applyed" auto="true">applied</normalised> <normalised orig="himselfe" auto="true">himself</normalised>, and within <normalised orig="sixe" auto="true">six</normalised><lb/>
+weeks brought them to his <normalised orig="Majestie" auto="true">Majesty</normalised> <normalised orig="fairely" auto="true">fairly</normalised> written under his <normalised orig="owne" auto="true">own</normalised> hand, as<lb/>
+they be now printed in his Pseudo-Martyr.<lb/>
+When the King had read and considered that Book, he <normalised orig="perswaded" auto="true">persuaded</normalised> M.<lb/>
+<notvariant>Donne</notvariant> to enter into the <normalised orig="Ministery" auto="true">Ministry</normalised>, to which he appeared (and was) <normalised orig="un-inclinable" auto="false">uninclinable</normalised>,<lb/>
+apprehending it (such was his mistaking modesty) too weighty for his<lb/>
+abilities. But from that time, though many friends mediated with his <normalised orig="Majestie" auto="true">Majesty</normalised><lb/>
+to prefer him to some civil employment, (to which his education had<lb/>
+<notvariant>apted</notvariant> him) yet the King denied their requests, and (having a discerning spirit)<lb/>
+<normalised orig="replyed" auto="true">replied</normalised>, I know M. <notvariant>Donne</notvariant> is a learned man, an excellent Divine, and will prove a<lb/>
+<normalised orig="powerfull" auto="true">powerful</normalised> Preacher. After that, as he <normalised orig="professeth" auto="true">professes</normalised>, the King descended almost to<lb/>
+a solicitation of him to enter into sacred Orders, which though he denied<lb/>
+not, he deferred for the space of three <normalised orig="yeares" auto="true">years</normalised>: All which time he <normalised orig="applyed" auto="true">applied</normalised> <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+to an incessant study of <normalised orig="Textuall" auto="false">Textual</normalised> Divinity, and attained a greater perfection<lb/>
+in the learned Languages, Greek and Hebrew.<lb/>
+<normalised orig="Forwardnesse" auto="true">Forwardness</normalised> and <notvariant>inconsideration</notvariant> could not in him (as in many others)<lb/>
+argue an <normalised orig="insufficiencie" auto="true">insufficiency</normalised>; for he considered long, and had many <notvariant>strifes</notvariant> within<lb/>
+<normalised orig="himselfe" auto="true">himself</normalised> concerning the <normalised orig="strictnesse" auto="true">strictness</normalised> of life, and <normalised orig="competencie" auto="true">competency</normalised> of learning required<lb/>
+in such as enter into sacred Orders: And <normalised orig="doubtlesse" auto="true">doubtless</normalised> (considering his<lb/>
+<normalised orig="owne" auto="true">own</normalised> demerits) did with meek Moses humbly <normalised orig="aske" auto="true">ask</normalised> God, Who am I? And if<lb/>
+he had consulted with flesh and <normalised orig="bloud" auto="true">blood</normalised>, he had not put his hand to that holy<lb/>
+plough: But God who is able to <normalised orig="prevaile" auto="true">prevail</normalised>, <normalised orig="wrastled" auto="true">wrestled</normalised> with him, as the Angel<lb/>
+did with <notvariant>Iacob</notvariant>, and marked him for his <normalised orig="owne" auto="true">own</normalised>, marked him with a blessing,<lb/>
+a blessing of obedience to the motions of his blessed Spirit; And then as he<lb/>
+had formerly asked God humbly with Moses, Who am I? So now (being inspired<lb/>
+with the apprehension of Gods mercies) he did ask King <notvariant>Davids</notvariant> <normalised orig="thankfull" auto="true">thankful</normalised><lb/>
+question, Lord who am I that thou art so <normalised orig="mindfull" auto="true">mindful</normalised> of me? So <normalised orig="mindfull" auto="true">mindful</normalised> of me as<lb/>
+to lead me for more then forty years through a <normalised orig="wildernesse" auto="true">wilderness</normalised> of the many temptations<lb/>
+and various <notvariant>turnings</notvariant> of a dangerous life? So <normalised orig="mindfull" auto="true">mindful</normalised> as to move the<lb/>
+<normalised orig="learnedst" auto="true">learned</normalised> of Kings to descend to move me to serve at thine Altar? So merciful<lb/>
+to me as to move my heart to embrace this holy motion? Thy motions I will<lb/>
+embrace, take the cup of salvation, call upon thy Name, and preach thy <normalised orig="Gospell" auto="true">Gospel</normalised>.<lb/>
+Such <notvariant>strifes</notvariant> as these S. Augustine had when S. <notvariant>Ambrose</notvariant> <normalised orig="indeavoured" auto="true">endeavoured</normalised> his conversion<lb/>
+                  <pb n="6"/>
+                  <lb/>
+to Christianity, with which he <normalised orig="confesseth" auto="true">confesses</normalised> he acquainted his <normalised orig="deare" auto="true">dear</normalised><lb/>
+friend <notvariant>Alippius</notvariant>. Our learned Author (a man fit to write after no <normalised orig="meane" auto="true">mean</normalised> Copy)<lb/>
+did the like; and declaring his intentions to his <normalised orig="deare" auto="true">dear</normalised> friend D. King the then<lb/>
+worthy Bishop of London, (who was <normalised orig="Chaplaine" auto="true">Chaplain</normalised> to the Lord Chancellor in<lb/>
+the time of his being his Lordships Secretary) That Reverend Bishop most<lb/>
+gladly received the <normalised orig="newes" auto="true">news</normalised>, and with all convenient speed ordained him Deacon<lb/>
+and Priest.<lb/>
+Now the English Church had gained a second S. Augustine, for I think none<lb/>
+was so like him before his conversion, none so like S. <notvariant>Ambrose</notvariant> after it. And if<lb/>
+his youth had the infirmities of the one Father, his age had the <notvariant>excellencies</notvariant> of<lb/>
+the other, the learning and <normalised orig="holinesse" auto="true">holiness</normalised> of both.<lb/>
+Now all his studies (which were occasionally diffused) were <normalised orig="concentred" auto="true">concentrated</normalised> in<lb/>
+Divinity; Now he had a new calling, new thoughts, new <normalised orig="imployment" auto="true">employment</normalised> for<lb/>
+his wit and eloquence. Now all his earthly affections were changed into divine<lb/>
+love, and all the faculties of his <normalised orig="soule" auto="true">soul</normalised> were <normalised orig="ingaged" auto="true">engaged</normalised> in the conversion of<lb/>
+others; in preaching glad tidings, remission to repenting sinners, and peace to<lb/>
+each troubled <normalised orig="soule" auto="true">soul</normalised>: To this he <normalised orig="applyed" auto="true">applied</normalised> <normalised orig="himselfe" auto="true">himself</normalised> with all care and diligence;<lb/>
+and such a change was wrought in him, that he was <quote type="psalm" ana="Ps 84.10">gladder to be a <normalised orig="doore-keeper" auto="true">doorkeeper</normalised><lb/>
+in the house of God, </quote> then to enjoy any <normalised orig="temporall" auto="true">temporal</normalised> employment.<lb/>
+Presently after he <normalised orig="entred" auto="true">entered</normalised> into his holy Profession, the King made him his<lb/>
+<normalised orig="Chaplaine" auto="true">Chaplain</normalised> in Ordinary, and gave him other <normalised orig="incouragements" auto="true">encouragements</normalised>, promising to<lb/>
+take a particular care of him.<lb/>
+And though his long familiarity with persons of greatest quality was such<lb/>
+as might have given some men <normalised orig="boldnesse" auto="true">boldness</normalised> enough to have preached to any<lb/>
+eminent Auditory; yet his modesty was such, that he could not be <normalised orig="perswaded" auto="true">persuaded</normalised><lb/>
+to it, but went usually to preach in some private Churches, in Villages <normalised orig="neere" auto="true">near</normalised><lb/>
+London, till his <normalised orig="Majestie" auto="true">Majesty</normalised> appointed him a day to preach to him. And though<lb/>
+his <normalised orig="Majestie" auto="true">Majesty</normalised> and others expected much from him, yet he was so happy (which<lb/>
+few are) as to <normalised orig="satisfie" auto="true">satisfy</normalised> and exceed their expectations: preaching the Word so,<lb/>
+as <normalised orig="shewed" auto="true">showed</normalised> he was <normalised orig="possest" auto="true">possessed</normalised> with those <normalised orig="joyes" auto="true">joys</normalised> that he laboured to distill into<lb/>
+others: A Preacher in earnest, weeping sometimes for his Auditory, sometimes<lb/>
+with them, <normalised orig="alwayes" auto="true">always</normalised> preaching to <normalised orig="himselfe" auto="true">himself</normalised>, like an Angel from a cloud,<lb/>
+though in none: carrying some (as S. Paul was) to heaven, in holy raptures;<lb/>
+enticing others, by a sacred art and courtship, to amend their lives; and all this<lb/>
+with a most particular grace, and <normalised orig="un-imitable" auto="false">inimitable</normalised> fashion of speaking.<lb/>
+That Summer, the same month in which he was ordained Priest, (and<lb/>
+made the Kings <normalised orig="Chaplaine" auto="true">Chaplain</normalised>) his <normalised orig="Majestie" auto="true">Majesty</normalised> (going his <normalised orig="Progresse" auto="true">Progress</normalised>) was <normalised orig="intreated" auto="true">entreated</normalised><lb/>
+to receive an entertainment in the University of Cambridge, and M. <notvariant>Donne</notvariant><lb/>
+attending his <normalised orig="Majestie" auto="true">Majesty</normalised> there, his <normalised orig="Majestie" auto="true">Majesty</normalised> was pleased to recommend him to<lb/>
+be made Doctor in Divinity, Doctor <notvariant>Harsnet</notvariant> (after Archbishop of York)<lb/>
+being then their <normalised orig="Vice-Chancellour" auto="false">vice-chancellor</normalised>, who knowing him to be the Author of<lb/>
+the Pseudo-Martyr, did propose it to the University, and they presently granted<lb/>
+it, expressing a <normalised orig="gladnesse" auto="true">gladness</normalised> they had an occasion to entitle and write him<lb/>
+Theirs.<lb/>
+His abilities and industry in his profession were so eminent, and he so much<lb/>
+loved by many persons of quality, that within one <normalised orig="yeare" auto="true">year</normalised> after his entrance<lb/>
+                  <lb/>
+                  <fw type="pageNum">B2</fw>
+                  <pb n="7"/>
+                  <lb/>
+into Sacred Orders, he had fourteen <notvariant>Advowsons</notvariant> of <normalised orig="severall" auto="true">several</normalised> Benefices sent<lb/>
+unto him; but they (being in the <normalised orig="Countrey" auto="true">Country</normalised>) could not draw him from his<lb/>
+long loved friends and London, to which he had a <normalised orig="naturall" auto="true">natural</normalised> inclination, having<lb/>
+received his birth and breeding in it: desiring rather some preferment<lb/>
+that might <normalised orig="fixe" auto="true">fix</normalised> him to an employment in that place.<lb/>
+Immediately after his <normalised orig="returne" auto="true">return</normalised> from Cambridge, his wife died, leaving him<lb/>
+a man of an <normalised orig="unsetled" auto="true">unsettled</normalised> estate: And (having buried five) the <normalised orig="carefull" auto="true">careful</normalised> father of<lb/>
+seven children then living, to whom he made a voluntary promise (being<lb/>
+then but forty two years of age) never to bring them under the subjection of<lb/>
+a Step-mother: which promise he most faithfully kept, burying with his<lb/>
+<normalised orig="teares" auto="true">tears</normalised> all his <notvariant>sublunary</notvariant> <normalised orig="joyes" auto="true">joys</normalised> in his most <normalised orig="deare" auto="true">dear</normalised> and deserving Wives grave, living<lb/>
+a most retired and solitary life.<lb/>
+In this <normalised orig="retirednesse" auto="true">retiredness</normalised>, he was importuned by the grave <notvariant>Benchers</notvariant> of <notvariant>Lincolns</notvariant><lb/>
+<normalised orig="Inne" auto="true">Inn</normalised>, (once the friends of his youth) to accept of their Lecture, which (by<lb/>
+reason of M. <notvariant>Gatakers</notvariant> <normalised orig="removall" auto="true">removal</normalised>) was then void; of which he accepted, being<lb/>
+glad to renew his <notvariant>intermitted</notvariant> friendship with them, whom he so much loved,<lb/>
+and where he had been a <notvariant>Saul</notvariant>, (not so far as to persecute Christianity, yet<lb/>
+in his irregular youth to neglect the practise of it) to become a Paul, and<lb/>
+preach salvation to his brethren.<lb/>
+Nor did he preach <normalised orig="onely" auto="true">only</normalised>, but as S. Paul advised his Corinthians to be followers<lb/>
+of him as he was of Christ; so he also was an ocular direction to them by<lb/>
+a holy and <normalised orig="harmlesse" auto="true">harmless</normalised> conversation.<lb/>
+Their love to him was <normalised orig="exprest" auto="true">expressed</normalised> many <normalised orig="wayes" auto="true">ways</normalised>; for (besides the <normalised orig="faire" auto="true">fair</normalised> lodgings<lb/>
+that were provided and <normalised orig="furnisht" auto="true">furnished</normalised> for him) other <normalised orig="curtesies" auto="true">courtesies</normalised> were daily accumulated,<lb/>
+so many, and so freely, as though they meant their gratitude (if possible)<lb/>
+should exceed, or at least <normalised orig="equall" auto="true">equal</normalised> his merit. In this love-strife of desert and liberality,<lb/>
+they continued for the space of three <normalised orig="yeares" auto="true">years</normalised>; he constantly and faithfully<lb/>
+preaching, they liberally requiting him. About which time the <normalised orig="Emperour" auto="true">Emperor</normalised><lb/>
+of Germany died, and the <notvariant>Palsgrave</notvariant> was elected and crowned King of<lb/>
+<notvariant>Bohemia</notvariant>, the unhappy beginning of much trouble in those <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>.<lb/>
+King <normalised orig="Iames" auto="false">James</normalised>, whose Motto, <notvariant>Beati</notvariant> <notvariant>Pacifici</notvariant>, did truly characterize his disposition,<lb/>
+endeavoured to compose the differences of that discomposed State, and<lb/>
+to that end sent the <normalised orig="Earle" auto="true">Earl</normalised> of <normalised orig="Carlile" auto="true">Carlisle</normalised>, (then <notvariant>Vicount</notvariant> Doncaster) his <normalised orig="Ambassadour" auto="true">Ambassador</normalised><lb/>
+to those <normalised orig="unsetled" auto="true">unsettled</normalised> Princes, and (by a <normalised orig="speciall" auto="true">special</normalised> command from his <normalised orig="Majestie" auto="true">Majesty</normalised>)<lb/>
+D. <notvariant>Donne</notvariant> was appointed to attend the <notvariant>Embassage</notvariant> of the said <normalised orig="Earle" auto="true">Earl</normalised> to<lb/>
+the Prince of the Union: For which the <normalised orig="Earle" auto="true">Earl</normalised> (that had long <normalised orig="knowne" auto="true">known</normalised> and<lb/>
+loved him) was most glad: So were many of the Doctors friends, who feared<lb/>
+his studies, and <normalised orig="sadnesse" auto="true">sadness</normalised> for his wives death, would as <notvariant>Iacob</notvariant> <normalised orig="sayes" auto="true">says</normalised>, make his<lb/>
+<normalised orig="dayes" auto="true">days</normalised> few, and (respecting his bodily health) <normalised orig="evill" auto="true">evil</normalised> too.<lb/>
+At his going, he left his friends of <notvariant>Lincolnes</notvariant> <normalised orig="Inne" auto="true">Inn</normalised>, and they him with many<lb/>
+<notvariant>reluctations</notvariant>; For though he could not say, as S. Paul to his <notvariant>Ephesians</notvariant>,<lb/>
+                  <quote type="biblical" ana="Acts 20.25">Behold, you to whom I have <normalised orig="preacht" auto="true">preached</normalised> the <normalised orig="kingdome" auto="true">kingdom</normalised> of God, shall henceforth see my face no<lb/>
+more;</quote> yet he (being in a Consumption) questioned it, and they feared it, considering<lb/>
+his troubled <normalised orig="minde" auto="true">mind</normalised>, which, with the <normalised orig="helpe" auto="true">help</normalised> of his <notvariant>un-intermitted</notvariant> studies,<lb/>
+<normalised orig="hastned" auto="true">hastened</normalised> the <normalised orig="decayes" auto="true">decays</normalised> of his <normalised orig="weake" auto="true">weak</normalised> body; But God turned it to the best,<lb/>
+for this <normalised orig="imployment" auto="true">employment</normalised> did not <normalised orig="onely" auto="true">only</normalised> divert him from those serious studies and<lb/>
+                  <pb n="8"/>
+                  <lb/>
+sad thoughts, but gave him a new and true occasion of joy, to be an <normalised orig="eye-witnesse" auto="false">eye-witness</normalised><lb/>
+of the health of his honoured <normalised orig="Mistris" auto="true">Mistress</normalised>, the <normalised orig="Queene" auto="true">Queen</normalised> of <notvariant>Bohemia</notvariant>, in a <normalised orig="forraigne" auto="true">foreign</normalised><lb/>
+Land, (who having formerly <normalised orig="knowne" auto="true">known</normalised> him a Courtier) was most glad<lb/>
+to see him in a <normalised orig="Canonicall" auto="true">Canonical</normalised> habit, and more glad to be an <normalised orig="eare-witnesse" auto="false">ear-witness</normalised> of his<lb/>
+most excellent and <normalised orig="powerfull" auto="true">powerful</normalised> preaching.<lb/>
+Within fourteen <normalised orig="moneths" auto="true">months</normalised> he returned to his friends of <notvariant>Lincolnes</notvariant> <normalised orig="Inne" auto="true">Inn</normalised>,<lb/>
+with his <normalised orig="sorrowes" auto="true">sorrows</normalised> much moderated, and his health improved.<lb/>
+About a <normalised orig="yeare" auto="true">year</normalised> after his <normalised orig="returne" auto="true">return</normalised> from Germany, D<hi rend="high">r</hi>. <choice ana="illegible">
+                     <sic>*<notvariant>ary</notvariant></sic>
+                     <corr><notvariant>Cary</notvariant></corr>
+                  </choice> was made Bishop<lb/>
+of Exeter, and by his <choice ana="illegible">
+                     <sic><notvariant>remo</notvariant>*all</sic>
+                     <corr><normalised orig="removall" auto="true">removal</normalised></corr>
+                  </choice>; the <normalised orig="Deanry" auto="true">Deanery</normalised> of S. <normalised orig="Pauls" auto="true">Paul's</normalised> being vacant, the King<lb/>
+appointed Doctor <notvariant>Donne</notvariant> to <normalised orig="waite" auto="false">wait</normalised> on him at dinner the next day; And his<lb/>
+Majesty (being set <normalised orig="downe" auto="true">down</normalised>) before he eat any meat, said (after his pleasant<lb/>
+manner) Doctor <notvariant>Donne</notvariant>, I have invited you to dinner. And though you sit not <normalised orig="downe" auto="true">down</normalised> with<lb/>
+me, yet I will <choice ana="illegible">
+                     <sic>ca*e</sic>
+                     <corr><normalised orig="carye" auto="true">carry</normalised></corr>
+                  </choice> to you of a dish that I know you love; you love London well, I <normalised orig="doe" auto="false">do</normalised> therefore<lb/>
+make you <normalised orig="Deane" auto="true">Dean</normalised> of <normalised orig="Pauls" auto="true">Paul's</normalised>; take your <normalised orig="meate" auto="true">meat</normalised> home to your study, say grace, and much<lb/>
+good may it <normalised orig="doe" auto="false">do</normalised> you.<lb/>
+Immediately after he came to his <normalised orig="Deanry" auto="true">Deanery</normalised>, he <normalised orig="imployed" auto="true">employed</normalised> workmen to <normalised orig="repaire" auto="true">repair</normalised><lb/>
+the <normalised orig="Chappel" auto="true">Chapel</normalised> belonging to his house; Suffering (as holy David once vowed)<lb/>
+his eyes and temples to take no rest, <normalised orig="untill" auto="true">until</normalised> he had first beautified the house of God.<lb/>
+The next quarter following, when his Father in Law Sir George More, who<lb/>
+now admired and dearly loved him, came to pay him the conditioned <normalised orig="sum" auto="false">some</normalised><lb/>
+of twenty pound, he denied to receive it. And said to his Father, (as good <notvariant>Iacob</notvariant><lb/>
+said when he heard <normalised orig="Ioseph" auto="false">Joseph</normalised> his <normalised orig="sonne" auto="true">son</normalised> lived). <quote type="biblical" ana="Gen 45.28">It is enough</quote>, you have been <normalised orig="kinde" auto="true">kind</normalised><lb/>
+to me, and <normalised orig="carefull" auto="true">careful</normalised> of mine, I am, I <normalised orig="thanke" auto="true">thank</normalised> my God, provided for, and will<lb/>
+receive this money no longer; And not long after freely gave up his bond of<lb/>
+eight hundred pound.<lb/>
+Presently after he was <normalised orig="setled" auto="true">settled</normalised> in his <normalised orig="Deanry" auto="true">Deanery</normalised>, the Vicarage of S. <notvariant>Dunstans</notvariant> in<lb/>
+London fell to him by the death of Doctor White, The <notvariant>advowson</notvariant> being formerly<lb/>
+given to him by the right <normalised orig="Honorable" auto="true">Honourable</normalised> Richard <normalised orig="Earle" auto="true">Earl</normalised> of Dorset a little before<lb/>
+his death, And confirmed to him by his Brother the right <normalised orig="Honorable" auto="true">Honourable</normalised><lb/>
+Edward <normalised orig="Earle" auto="true">Earl</normalised> of Dorset that now lives.<lb/>
+By these and another <normalised orig="Ecclesiasticall" auto="true">Ecclesiastical</normalised> Endowment (which fell to him about<lb/>
+the same time) he was <normalised orig="inabled" auto="true">enabled</normalised> to be charitable to the <normalised orig="poore" auto="true">poor</normalised>, and to make such<lb/>
+provision for his Children; that at his death they were not left scandalous to<lb/>
+his profession and quality.<lb/>
+The next Parliament following he was chosen <notvariant>Prolocutor</notvariant> to the Convocation,<lb/>
+and about that time, by the appointment of his Majesty, (his gracious<lb/>
+Master) did preach many occasional Sermons: All which he performed not<lb/>
+<normalised orig="onely" auto="true">only</normalised> with the approbation, but to the admiration of the representative body<lb/>
+of the Clergy of this <normalised orig="Kingdome" auto="true">Kingdom</normalised>.<lb/>
+He was once (and but once) clouded with the Kings displeasure; It was<lb/>
+about this time, occasioned by some malicious <notvariant>whisperer</notvariant>, which assured the<lb/>
+King Doctor <notvariant>Donne</notvariant> had <normalised orig="preacht" auto="true">preached</normalised> a Sermon that implied a dislike of his government,<lb/>
+particularly of his late Directions that the Evening Lectures on<lb/>
+<normalised orig="Sundaies" auto="true">Sundays</normalised>, should be turned into <normalised orig="Catechizing" auto="true">Catechising</normalised>, expounding the <normalised orig="Commandements" auto="true">Commandments</normalised>,<lb/>
+<normalised orig="Beliefe" auto="true">Belief</normalised>, and Lords Prayer. His Majesty was the more <notvariant>inclinable</notvariant> to <normalised orig="beleeve" auto="true">believe</normalised><lb/>
+this, for that about the same time a person of the Nobility of great note<lb/>
+                  <lb/>
+                  <fw type="pageNum">B3</fw>
+                  <pb n="9"/>
+                  <lb/>
+in the <normalised orig="Kingdome" auto="true">Kingdom</normalised>, and favour with the King (whom his Majesty knew Doctor<lb/>
+<notvariant>Donne</notvariant> loved very much) was discarded the Court, and presently after<lb/>
+committed to prison, which begot many <normalised orig="rumors" auto="true">rumours</normalised> in the multitude.<lb/>
+The King suffered not the <normalised orig="Sunne" auto="true">Sun</normalised> to set, till he had <normalised orig="searcht" auto="true">searched</normalised> out the truth of<lb/>
+this report, but sent presently for Doctor <notvariant>Donne</notvariant>, and required his answer to<lb/>
+the accusation: which was so satisfactory, That the King said he was glad he<lb/>
+rested not under that <normalised orig="suspition" auto="true">suspicion</normalised>. Doctor <notvariant>Donne</notvariant> protested his answer was <normalised orig="faithfull" auto="true">faithful</normalised><lb/>
+and free from all Collusion. And therefore begged of his Majesty, that<lb/>
+he might not rise (being then kneeling) before he had (as in like cases he <normalised orig="alwayes" auto="true">always</normalised><lb/>
+had from God) some assurance that he stood <normalised orig="cleere" auto="true">clear</normalised> and <normalised orig="faire" auto="true">fair</normalised> in his Majesties<lb/>
+opinion. The King with his own hand, did, or offered to raise him<lb/>
+from his knees, and protested he was truly satisfied, that he was an honest<lb/>
+man, and loved him. Presently his Majesty called some Lords of his <normalised orig="Councell" auto="true">Council</normalised><lb/>
+into his Chamber, and said with much <normalised orig="earnestnesse" auto="true">earnestness</normalised>, My Doctor is an honest<lb/>
+man; And my Lords, I was never more joyed in any thing that I have done,<lb/>
+then in making him a Divine.<lb/>
+He was made <normalised orig="Deane" auto="true">Dean</normalised> in the fiftieth <normalised orig="yeare" auto="true">year</normalised> of his age; And in the fifty fourth<lb/>
+<normalised orig="yeare" auto="true">year</normalised>, a dangerous <normalised orig="sicknesse" auto="true">sickness</normalised> <normalised orig="seised" auto="true">seized</normalised> him, which turned to a spotted <normalised orig="Feaver" auto="true">Fever</normalised>, and<lb/>
+ended in a Cough, that inclined him to a Consumption. But God (as <notvariant>Iob</notvariant><lb/>
+thankfully <normalised orig="acknowledgeth" auto="true">acknowledges</normalised>) preserved his spirit, keeping his <normalised orig="intellectualls" auto="false">intellectuals</normalised> as<lb/>
+<normalised orig="cleere" auto="true">clear</normalised> and perfect, as when that <normalised orig="sicknesse" auto="true">sickness</normalised> first <normalised orig="seised" auto="true">seized</normalised> his body. And as his<lb/>
+health increased, so did his <normalised orig="thankfulnesse" auto="true">thankfulness</normalised>, testified in his <normalised orig="booke" auto="true">book</normalised> of Devotions,<lb/>
+A book that may not <notvariant>unfitly</notvariant> be called, A composition of holy <normalised orig="Extasies" auto="true">Ecstasies</normalised>, occasioned,<lb/>
+and <notvariant>appliable</notvariant> to the Emergencies of that <normalised orig="sicknesse" auto="true">sickness</normalised>, which <normalised orig="booke" auto="true">book</normalised> (being Meditations<lb/>
+in his <normalised orig="sicknesse" auto="true">sickness</normalised>) he writ on his <normalised orig="sicke" auto="true">sick</normalised> bed; herein imitating the holy<lb/>
+Patriarchs, who were wont in that place to build their Altars where they had<lb/>
+received their blessing.<lb/>
+This <normalised orig="sicknesse" auto="true">sickness</normalised> brought him to the gates of death, and he saw the grave so<lb/>
+ready to <normalised orig="devoure" auto="true">devour</normalised> him, that he calls his recovery <normalised orig="supernaturall" auto="true">supernatural</normalised>. But God restored<lb/>
+his health, and continued it <normalised orig="untill" auto="true">until</normalised> the fifty-ninth <normalised orig="yeare" auto="true">year</normalised> of his life. And<lb/>
+then in August 1630. being with his daughter <normalised orig="Mistris" auto="true">Mistress</normalised> <notvariant>Harvy</notvariant> at <notvariant>Abrey-Hatch</notvariant><lb/>
+in Essex, he fell into a <normalised orig="Feaver" auto="true">Fever</normalised>, which with the <normalised orig="helpe" auto="true">help</normalised> of his constant infirmity,<lb/>
+vapours from the <normalised orig="spleene" auto="true">spleen</normalised>, hastened him into so visible a Consumption, that his<lb/>
+beholders might say (as S. Paul of <normalised orig="himselfe" auto="true">himself</normalised>) he dyes daily, And he might say<lb/>
+with <notvariant>Iob</notvariant>, <quote type="biblical" ana="Job 30.15-16">My welfare <normalised orig="passeth" auto="true">passes</normalised> away as a cloud; The <normalised orig="dayes" auto="true">days</normalised> of affliction have taken hold<lb/>
+of me.</quote>
+                  <lb/>
+                  <quote type="biblical" ana="Job 7.3">And weary nights are appointed for me.</quote>
+                  <lb/>
+This <normalised orig="sicknesse" auto="true">sickness</normalised> continued long, not <normalised orig="onely" auto="true">only</normalised> <normalised orig="weakning" auto="true">weakening</normalised>, but wearing him<lb/>
+so much, that my desire is, he may now take some rest: And that thou<lb/>
+judge it no impertinent digression (before I <normalised orig="speake" auto="true">speak</normalised> of his death) to <normalised orig="looke" auto="true">look</normalised><lb/>
+<normalised orig="backe" auto="true">back</normalised> with me upon some observations of his life, which (while a gentle<lb/>
+slumber <normalised orig="seises" auto="false">seizes</normalised> him) may (I hope fitly) exercise thy Consideration.<lb/>
+His marriage was the remarkable error of his life, which (though he had<lb/>
+a wit apt enough, and very able to <normalised orig="maintaine" auto="true">maintain</normalised> paradoxes; And though his<lb/>
+wives competent <normalised orig="yeares" auto="true">years</normalised>, and other reasons might be justly urged to moderate<lb/>
+a severe censure; yet) he never seemed to <normalised orig="justifie" auto="true">justify</normalised>, and <normalised orig="doubtlesse" auto="true">doubtless</normalised> had repented<lb/>
+it, if God had not <normalised orig="blest" auto="true">blessed</normalised> them with a <normalised orig="mutuall" auto="true">mutual</normalised>, and so <normalised orig="cordiall" auto="true">cordial</normalised> an affection,<lb/>
+                  <pb n="10"/>
+                  <lb/>
+as in the midst of their sufferings made their bread of sorrow taste more pleasantly<lb/>
+then the banquet of <normalised orig="fooles" auto="true">fools</normalised>.<lb/>
+The recreations of his youth were Poetry, in which he was so happy, as if<lb/>
+nature with all her varieties had been made to exercise his great wit, and high<lb/>
+fancy. And in those pieces which were <normalised orig="carelesly" auto="true">carelessly</normalised> scattered in his younger <normalised orig="daies" auto="true">days</normalised><lb/>
+(most of them being written before the twentieth <normalised orig="yeare" auto="true">year</normalised> of his age) it may <normalised orig="appeare" auto="true">appear</normalised><lb/>
+by his choice Metaphors, that all the Arts <normalised orig="joyned" auto="true">joined</normalised> to assist him with their<lb/>
+utmost skill.<lb/>
+It is a truth, that in his <normalised orig="penitentiall" auto="true">penitential</normalised> <normalised orig="yeares" auto="true">years</normalised>, viewing some of those pieces<lb/>
+loosely scattered in his youth, he <normalised orig="wisht" auto="true">wished</normalised> they had been abortive, or so <normalised orig="shortliv'd" auto="true">short-lived</normalised>,<lb/>
+that he had witnessed their <normalised orig="funeralls" auto="true">funerals</normalised>: But though he was no friend to<lb/>
+them, he was not so <normalised orig="falne" auto="true">fallen</normalised> out with heavenly Poetry, as to forsake it, no not<lb/>
+in his declining age, witnessed then by many divine Sonnets, and other high,<lb/>
+holy, and harmonious <notvariant>composures</notvariant>; yea even on his former sick bed, he<lb/>
+wrote this heavenly <normalised orig="Hymne" auto="true">Hymn</normalised>, expressing the great joy he then had in the assurance<lb/>
+of Gods mercy to him.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

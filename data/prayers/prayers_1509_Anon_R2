@@ -1,0 +1,170 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ad <notvariant>laudem</notvariant> <notvariant>dei</notvariant> et <normalised orig="honore~" auto="false">honorem</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="Anon">Anonymous</author>
+               <title type="main">Ad <notvariant>laudem</notvariant> <notvariant>dei</notvariant> et <notvariant>honore~</notvariant> <notvariant>tua~que</notvariant> non <notvariant>immerito</notvariant> <notvariant>flos</notvariant> virgo maria <notvariant>ecce</notvariant> <notvariant>manuale</notvariant> <notvariant>quoddam</notvariant> <notvariant>secunduz</notvariant> <notvariant>vsu~</notvariant> <notvariant>matris</notvariant> <notvariant>eccl~ie</notvariant> <notvariant>Eboracen~</notvariant>. <notvariant>nouis</notvariant> <notvariant>tande~</notvariant> ex <notvariant>repetita</notvariant> <notvariant>p~olectione</notvariant> <notvariant>bona</notvariant> <notvariant>que</notvariant> <notvariant>maturitate</notvariant> <notvariant>elimatu~</notvariant> est. A <notvariant>mendis</notvariant> <notvariant>penitus</notvariant> (<notvariant>mea</notvariant> <notvariant>sente~tia</notvariant>) <notvariant>alienu~</notvariant> <notvariant>vigiliis</notvariant> <notvariant>lugubrationibusque</notvariant> &amp; <notvariant>industria</notvariant> <notvariant>bona</notvariant> <notvariant>ita</notvariant> <notvariant>nu~c</notvariant> <notvariant>redactu~</notvariant> <notvariant>Vt</notvariant> <normalised orig="i~" auto="true">in</normalised> <notvariant>cymbalis</notvariant> <notvariant>iubilato~is</notvariant> <notvariant>omnis</notvariant> <notvariant>choris</notvariant> <notvariant>laudet</notvariant> <notvariant>dn~z</notvariant></title>
+               <title type="short">Ad <notvariant>laudem</notvariant> <notvariant>dei</notvariant> et <notvariant>honore~</notvariant></title>
+               <date when="1509">1509</date>
+               <date type="this_edition" when="1509">1509</date>
+               <idno type="STC">16160</idno>
+               <note type="genre" subtype="prayer">prayer</note>
+               <note type="sample" target="#Anon_1509_prayer_1"/>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>octavo</notvariant></term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new"><notvariant>pilcrows</notvariant></term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="Anon_1509_prayer_1">
+            <div>
+               <head>Or.</head>
+               <p>
+                  <lb/>
+                  <notvariant>DEus</notvariant> a <notvariant>quo</notvariant> <choice ana="print">
+                        <sic><notvariant>scta~</notvariant></sic>
+                        <corr><notvariant>sanctam</notvariant></corr>
+                     </choice> <notvariant>desideria</notvariant> <notvariant>recta</notvariant> <lb/>
+                     <choice ana="print">
+                        <sic>2silia</sic>
+                        <corr><notvariant>consilia</notvariant></corr>
+                     </choice> &amp; <notvariant>iusta</notvariant> <notvariant>su~t</notvariant> <choice ana="print">
+                        <sic><notvariant>op~a</notvariant></sic>
+                        <corr>opera</corr>
+                     </choice> da <notvariant>seruis</notvariant> <notvariant>tuis</notvariant> <notvariant>illaz</notvariant> <lb/>
+<notvariant>qua~</notvariant> <notvariant>mu~dus</notvariant> dare <normalised orig="no~" auto="true">no</normalised> <notvariant>potest</notvariant> <notvariant>pacem</notvariant>: <notvariant>vt</notvariant> et <notvariant>corda</notvariant> <notvariant>nostra</notvariant> <lb/>
+                     <choice ana="print">
+                        <sic><notvariant>ma~dats</notvariant></sic>
+                        <corr><notvariant>ma~datis</notvariant></corr>
+                     </choice> <notvariant>tuis</notvariant> <notvariant>dedita</notvariant>: &amp; <notvariant>hostiu~</notvariant> <notvariant>sublata</notvariant> <notvariant>formidine</notvariant> <lb/>
+<notvariant>te~pora</notvariant> <notvariant>sint</notvariant> <notvariant>tua</notvariant> <choice ana="print">
+                        <sic><notvariant>p~tectione</notvariant></sic>
+                        <corr><notvariant>protectione</notvariant></corr>
+                     </choice> <notvariant>transq</notvariant><hi rend="high">e</hi><notvariant>lla</notvariant>. Per <choice ana="print">
+                        <sic><notvariant>xp~m</notvariant></sic>
+                        <corr><notvariant>christum</notvariant></corr>
+                     </choice>.
+                  <lb/>
+<normalised orig="ye" auto="true">you</normalised> shall <normalised orig="knele" auto="true">kneel</normalised> <normalised orig="downe" auto="true">down</normalised> <normalised orig="deuoutly" auto="true">devoutly</normalised> on your <normalised orig="knese" auto="false">knees</normalised> &amp;<lb/>
+                  <pb n="4"/>
+                  <lb/>
+make a <normalised orig="specyall" auto="true">special</normalised> <normalised orig="praer" auto="false">prayer</normalised> <normalised orig="vnto" auto="true">unto</normalised> our blessed lady saint <lb/>
+Mary &amp; to all the <normalised orig="felawshyp" auto="true">fellowship</normalised> of <normalised orig="heuen" auto="true">heaven</normalised> / for all the <lb/>
+<normalised orig="bretheren" auto="true">brethren</normalised> &amp; sisters of our <normalised orig="moder" auto="true">mother</normalised> <normalised orig="chirche" auto="true">church</normalised> <normalised orig="saynt" auto="true">saint</normalised> Peter <lb/>
+of <normalised orig="yorke" auto="true">york</normalised>. <normalised orig="saynt" auto="true">saint</normalised> <normalised orig="John~" auto="false">John</normalised> of <normalised orig="Beuerlay" auto="false">Beverley</normalised>. <normalised orig="saynt" auto="true">saint</normalised> <notvariant>wilfred</notvariant> <lb/>
+of <notvariant>Ryppon</notvariant>: &amp; saint Mary of <normalised orig="Suthwell" auto="false">southwell</normalised>. and <lb/>
+<normalised orig="specyally" auto="false">specially</normalised> for all those that be <normalised orig="seke" auto="true">seek</normalised> in this <normalised orig="parisshe" auto="true">parish</normalised> <lb/>
+or in any other that god of his <normalised orig="goodnes" auto="true">goodness</normalised> / <normalised orig="releas" auto="false">release</normalised> <lb/>
+them of their <normalised orig="peynes" auto="false">pains</normalised> in <normalised orig="theyr" auto="true">their</normalised> <normalised orig="sekenes" auto="false">sickness</normalised> and <normalised orig="turne" auto="true">turn</normalised> <lb/>
+them to the way that is <normalised orig="moste" auto="true">most</normalised> to <normalised orig="goddes" auto="true">gods</normalised> <normalised orig="plesure" auto="true">pleasure</normalised> &amp; <lb/>
+welfare of <normalised orig="theyre" auto="true">their</normalised> <normalised orig="soules" auto="true">souls</normalised>. we shall <normalised orig="praye" auto="true">pray</normalised> for all <lb/>
+those that <normalised orig="duely" auto="true">duly</normalised> &amp; truly <normalised orig="payes" auto="true">pays</normalised> <normalised orig="theyr" auto="true">their</normalised> <normalised orig="tendes" auto="true">tends</normalised> and <normalised orig="theyr" auto="true">their</normalised> <lb/>
+<normalised orig="offerynges" auto="false">offerings</normalised> to god and to the holy <normalised orig="Chirche" auto="true">Church</normalised> <lb/>
+that god do them <normalised orig="mede" auto="false">made</normalised> in the <normalised orig="blisse" auto="true">bliss</normalised> of <normalised orig="heuen" auto="true">heaven</normalised> that <lb/>
+<normalised orig="euer" auto="true">ever</normalised> shall last: &amp; they that dose <normalised orig="nat" auto="true">not</normalised> so: that god of <lb/>
+his mercy <normalised orig="brynge" auto="true">bring</normalised> <normalised orig="theym" auto="true">them</normalised> <normalised orig="sone" auto="true">son</normalised> to <normalised orig="amendemente" auto="true">amendment</normalised>. <lb/>
+we shall pray also for all true <normalised orig="pylgrymes" auto="false">pilgrims</normalised> &amp; <notvariant>palmers</notvariant> <lb/>
+where so <normalised orig="euer" auto="true">ever</normalised> they be on water or on <normalised orig="londe" auto="true">land</normalised> <lb/>
+that god of his <normalised orig="goodnes" auto="true">goodness</normalised> <normalised orig="grau~t" auto="true">grant</normalised> <normalised orig="the~" auto="true">them</normalised> <normalised orig="parte" auto="true">part</normalised> of our <lb/>
+good prayers &amp; <normalised orig="vs" auto="true">us</normalised> <normalised orig="parte" auto="true">part</normalised> of <normalised orig="theyr" auto="true">their</normalised> good <normalised orig="pylgrimages" auto="false">pilgrimages</normalised>. <lb/>
+we shall also <normalised orig="praye" auto="true">pray</normalised> for all <normalised orig="lande" auto="true">land</normalised> <normalised orig="tylla~d" auto="false">tilland</normalised>, that <lb/>
+god for his <normalised orig="goodnes" auto="true">goodness</normalised> &amp; for his grace &amp; <normalised orig="thrugh" auto="false">through</normalised> our <lb/>
+good prayers <choice ana="print-error">
+                     <sic><notvariant>mayteyne</notvariant></sic>
+                     <corr><normalised orig="maynteyne" auto="true">maintain</normalised></corr>
+                  </choice> them that they may be <lb/>
+<normalised orig="saued" auto="true">saved</normalised> <normalised orig="frome" auto="false">from</normalised> all <normalised orig="euyll" auto="true">evil</normalised> <normalised orig="wyndes" auto="false">winds</normalised> and <normalised orig="weders" auto="false">weathers</normalised> &amp; from <lb/>
+all <normalised orig="dredfull" auto="false">dreadful</normalised> <normalised orig="stormes" auto="true">storms</normalised> that god <normalised orig="sende" auto="true">send</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="corne" auto="true">corn</normalised> &amp; <normalised orig="catell" auto="true">cattle</normalised> <lb/>
+for to <normalised orig="lyue" auto="true">live</normalised> <normalised orig="vpon" auto="true">upon</normalised> to <normalised orig="goddes" auto="true">gods</normalised> <choice ana="print-error">
+                     <sic><notvariant>pleasue</notvariant></sic>
+                     <corr>pleasure</corr>
+                  </choice> &amp; the welfare <lb/>
+of our <normalised orig="sowles" auto="true">souls</normalised>. we shall pray also for all women <lb/>
+that be with <normalised orig="chylde" auto="true">child</normalised> in this <normalised orig="parysshe" auto="true">parish</normalised> or any <lb/>
+other that god <normalised orig="conforte" auto="false">comfort</normalised> them and <normalised orig="sende" auto="true">send</normalised> the <choice ana="print-error">
+                     <sic><notvariant>chil</notvariant></sic>
+                     <corr><normalised orig="childe" auto="true">child</normalised></corr>
+                  </choice>
+                  <lb/>
+<normalised orig="Cristendom" auto="false">Christendom</normalised> and the <normalised orig="moder" auto="true">mother</normalised> <normalised orig="Purificacion" auto="false">Purification</normalised> of holy <lb/>
+                  <pb n="5"/>
+                  <lb/>
+<normalised orig="chirche" auto="true">church</normalised> / and <normalised orig="releacynge" auto="false">releasing</normalised> of <normalised orig="peyne" auto="true">pain</normalised> in <lb/>
+<normalised orig="theyr" auto="true">their</normalised> <normalised orig="trauelynge" auto="false">travelling</normalised>. we shall pray <normalised orig="specyally" auto="false">specially</normalised> for <normalised orig="theym" auto="true">them</normalised> <lb/>
+that this <normalised orig="daye" auto="true">day</normalised> gave <normalised orig="brede" auto="true">breed</normalised> to this <normalised orig="chirche" auto="true">church</normalised>: for to be <lb/>
+made holy <normalised orig="brede" auto="true">breed</normalised> of. For them that it began and <lb/>
+<normalised orig="lengest" auto="false">longest</normalised> <normalised orig="upholdes" auto="false">upholds</normalised>. For them and for us and for all <lb/>
+them that <normalised orig="nede" auto="true">need</normalised> <normalised orig="hathe" auto="true">has</normalised> of good prayers. In <normalised orig="worshyp" auto="true">worship</normalised> of <lb/>
+our lady <normalised orig="saynt" auto="true">saint</normalised> Mary and of her .v. <normalised orig="Ioyes" auto="true">Joys</normalised>. Every man <lb/>
+and woman say in the <normalised orig="honoure" auto="true">honour</normalised> of <normalised orig="hir" auto="true">his</normalised> .v. <normalised orig="tymes" auto="true">times</normalised> Ave <lb/>
+maria <lb/>
+                  <notvariant>NoValue</notvariant>
+                  <lb/>
+                  <notvariant>GRatiam</notvariant> <notvariant>tuam</notvariant> <notvariant>quesumus</notvariant> <notvariant>domine</notvariant> <notvariant>mentibus</notvariant> <notvariant>nostris</notvariant> <lb/>
+<notvariant>infunde</notvariant>: <notvariant>ut</notvariant> <notvariant>qui</notvariant> <notvariant>angelo</notvariant> <notvariant>nunciante</notvariant> <notvariant>Christi</notvariant> <notvariant>filii</notvariant> <lb/>
+<notvariant>tui</notvariant> <notvariant>incarnationem</notvariant> <notvariant>cognouimus</notvariant>: per <notvariant>passionem</notvariant> <notvariant>eius</notvariant> et <lb/>
+<notvariant>crucem</notvariant> ad <notvariant>resurrectionis</notvariant> <notvariant>gloriam</notvariant> <notvariant>perducamur</notvariant>. Per <lb/>
+<notvariant>eundem</notvariant> <notvariant>christum</notvariant> <notvariant>dominum</notvariant> nostrum. Amen.<lb/>
+<normalised orig="ye" auto="true">you</normalised> shall make a <normalised orig="speciall" auto="true">special</normalised> prayer for your <normalised orig="faders" auto="true">father's</normalised> <lb/>
+<normalised orig="sowles" auto="true">souls</normalised>: for your <normalised orig="moders" auto="true">mothers</normalised> <normalised orig="sowles" auto="true">souls</normalised>: <normalised orig="godfaders" auto="false">godfathers</normalised> <normalised orig="sowles" auto="true">souls</normalised> and <lb/>
+godmothers <normalised orig="sowles" auto="true">souls</normalised>: <normalised orig="broders" auto="false">brothers</normalised> <normalised orig="sowles" auto="true">souls</normalised> and sisters <normalised orig="sowles" auto="true">souls</normalised>: <lb/>
+and for all your elders <normalised orig="sowles" auto="true">souls</normalised>: and for all the <normalised orig="sowles" auto="true">souls</normalised> <lb/>
+that <normalised orig="ye" auto="true">you</normalised> or I be <normalised orig="bownde" auto="false">bound</normalised> to <normalised orig="praye" auto="true">pray</normalised> for. and <normalised orig="specyally" auto="false">specially</normalised> for <lb/>
+all the <normalised orig="sowles" auto="true">souls</normalised> whose bones are <normalised orig="buryed" auto="true">buried</normalised> in this <normalised orig="chirche" auto="true">church</normalised> <lb/>
+or in this <normalised orig="chirche" auto="true">church</normalised> <normalised orig="yerde" auto="false">yard</normalised>: or in any other holy place. <lb/>
+and in <normalised orig="especyall" auto="true">especial</normalised> for all the <normalised orig="sowles" auto="true">souls</normalised> that <normalised orig="bydes" auto="true">bids</normalised> the great <lb/>
+mercy of almighty god in the <normalised orig="bytter" auto="true">bitter</normalised> <normalised orig="peynes" auto="false">pains</normalised> of Purgatory: <lb/>
+that god for his great mercy <normalised orig="releas" auto="false">release</normalised> them of <normalised orig="theyr" auto="true">their</normalised> <lb/>
+<normalised orig="peyne" auto="true">pain</normalised> if it be his <normalised orig="blessyd" auto="true">blessed</normalised> <normalised orig="wyll" auto="true">will</normalised>. And that our prayers <lb/>
+may <normalised orig="sumwhat" auto="true">somewhat</normalised> <normalised orig="stande" auto="true">stand</normalised> them in <normalised orig="stede" auto="true">stead</normalised>: Every man and <lb/>
+woman of your <normalised orig="charite" auto="true">charity</normalised> / <normalised orig="helpe" auto="true">help</normalised> them with a <notvariant>Pater</notvariant> <notvariant>noster</notvariant> <lb/>
+and an Ave maria. <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

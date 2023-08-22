@@ -1,0 +1,135 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Holy state</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author"/>
+               <title type="main">"No title" In: Fuller, Thomas. The holy state.</title>
+               <title type="short">Preface Holy state</title>
+               <date when="1642">1642</date>
+               <date type="this_edition" when="1652">1652</date>
+               <idno type="Wing">F2445</idno>
+               <note type="genre" subtype="preface_treatise_doctrinal">doctrinal treatise preface</note>
+               <note type="sample" target="#_1652_preface_treatise_doctrinal_1"/>
+               <note type="sample" target="#_1652_preface_treatise_doctrinal_1"/>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="_1652_preface_treatise_doctrinal_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+To the Reader. <lb/>
+                  <lb/>
+WHo is not sensible with sorrow of the distractions <lb/>
+of this age? To write books therefore <lb/>
+may seem unseasonable, especially in a <lb/>
+time wherein the <normalised orig="Presse" auto="true">Press</normalised>, like an unruly <lb/>
+horse, <normalised orig="hath" auto="true">has</normalised> cast off his bridle of being Licensed, <lb/>
+and some serious books, which dare <normalised orig="flie" auto="true">fly</normalised> abroad, are <lb/>
+hooted at by a flock of Pamphlets. <lb/>
+But be pleased to know that when I left my home, it <lb/>
+was fair weather, and my journey was half past, before I <lb/>
+discovered the tempest, and had gone so <normalised orig="farre" auto="true">far</normalised> in this <lb/>
+Work, that I could neither go backward with credit, nor <lb/>
+forward with comfort. <lb/>
+As for the matter of this Book, therein I am resident on <lb/>
+my Profession; <normalised orig="Holinesse" auto="true">Holiness</normalised> in the latitude thereof falling <lb/>
+under the <normalised orig="cognizance" auto="true">cognisance</normalised> of a Divine. For curious method, <lb/>
+expect none, Essays for the most part not being placed as <lb/>
+at a Feast,but placing themselves as at an Ordinary. <lb/>
+The characters I have conformed to the then standing <lb/>
+Laws of the Realm, (a <normalised orig="twelvemoneth" auto="false">twelvemonth</normalised> ago were they sent <lb/>
+to the <normalised orig="Presse" auto="true">Press</normalised>) since which time the <normalised orig="wisdome" auto="true">wisdom</normalised> of the King <lb/>
+and State <normalised orig="hath" auto="true">has</normalised> thought fitting to alter many things, and I <lb/>
+expect the discretion of the Reader should make his alterations <lb/>
+accordingly. And I conjure thee by all Christian <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 3</fw>
+                  <pb n="1"/>
+                  <lb/>
+ingenuity, that if lightning here on some passages, rather <lb/>
+harsh-sounding then ill-intended, to construe the same by <lb/>
+the <normalised orig="generall" auto="true">general</normalised> drift and main scope which is aimed at. <lb/>
+Nor let it render the <normalised orig="modestie" auto="true">modesty</normalised> of this Book suspected, <lb/>
+because it presumes to appear in company <normalised orig="unmann'd" auto="true">unmanned</normalised> by <lb/>
+any Patron: If right, it will defend it self; if wrong, none <lb/>
+can defend it: Truth needs not, Falsehood deserves not a <lb/>
+Supporter. And indeed the matter of this Work is too <lb/>
+high for a subjects, the workmanship thereof too low for a <lb/>
+Princes <normalised orig="patranage" auto="false">patronage</normalised>. <lb/>
+And now I will turn my pen into prayer, That God <lb/>
+would be pleased to discloud these gloomy <normalised orig="dayes" auto="true">days</normalised> with the <lb/>
+beams of his mercy: which if I may be so happy as to see, <lb/>
+it will then encourage me to count it <normalised orig="freedome" auto="true">freedom</normalised> to serve <lb/>
+two <normalised orig="apprentiships" auto="false">apprenticeships</normalised> (God spinning out the thick <normalised orig="thred" auto="false">thread</normalised> of <lb/>
+my life so long) in writing the <normalised orig="Ecclesiasticall" auto="true">Ecclesiastical</normalised> History <lb/>
+from Christs time to our <normalised orig="dayes" auto="true">days</normalised>, if I shall from remoter <lb/>
+parts be so planted, as to enjoy the benefit of walking, and <lb/>
+standing Libraries, without which advantages the best <lb/>
+<normalised orig="vigilancie" auto="true">vigilance</normalised> <normalised orig="doth" auto="true">does</normalised> but vainly dream to undertake such a task. <lb/>
+Mean time I will stop the leakage of my soul, and what <lb/>
+heretofore <normalised orig="hath" auto="true">has</normalised> run out in writing, shall hereafter (God <lb/>
+willing) be improved in constant preaching, in what <lb/>
+place <normalised orig="soever" auto="true">however</normalised> Gods providence, and friends good will shall <lb/>
+fix <lb/>
+                  <lb/>
+Thine in all Christian offices. <lb/>
+                  <lb/>
+Thomas Fuller<lb/>
+ /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

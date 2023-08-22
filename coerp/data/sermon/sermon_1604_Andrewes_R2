@@ -1,0 +1,819 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermon by D. <normalised orig="Andrewes" auto="true">Andrews</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="LaAn1555"><normalised orig="Andrewes" auto="true">Andrews</normalised>, Lancelot</author>
+               <title type="main">
+The <normalised orig="copie" auto="true">copy</normalised> of a Sermon preached on good Friday last before the Kings <normalised orig="Maiestie" auto="true">Majesty</normalised>, by D. <normalised orig="Andrewes" auto="true">Andrews</normalised> <normalised orig="Deane" auto="true">Dean</normalised> of Westminster. 6. April 1604.
+</title>
+               <title type="short">Sermon by D. <normalised orig="Andrewes" auto="true">Andrews</normalised></title>
+               <date when="1604">1604</date>
+               <date type="this_edition" when="1604">1604</date>
+               <idno type="STC">597</idno>
+               <note type="genre" subtype="sermon">sermon</note>
+               <note type="sample" target="#LaAn1555_1604_sermon_1"/>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="LaAn1555_1604_sermon_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+To enter then this Comparison, and to<lb/>
+<normalised orig="shew" auto="true">show</normalised> it for such. That, are we to <normalised orig="doe" auto="true">do</normalised>, three<lb/>
+sundry <normalised orig="wayes" auto="true">ways</normalised>: For three sundry <normalised orig="wayes" auto="true">ways</normalised>, in<lb/>
+three sundry words, are these Sufferings of<lb/>
+his here expressed: all three within the <normalised orig="compasse" auto="true">compass</normalised><lb/>
+of the Verse.<lb/>
+The first is NoValue Mac-ob (which we <normalised orig="reade" auto="true">read</normalised><lb/>
+<normalised orig="Sorow" auto="true">Sorrow</normalised>,) taken from a wound or stripe, as all<lb/>
+<normalised orig="doe" auto="true">do</normalised> agree.<lb/>
+The second is NoValue Gholel we <normalised orig="reade" auto="true">read</normalised> Done<lb/>
+to me, taken from a word that <normalised orig="signifieth" auto="true">signifies</normalised> Melting<lb/>
+in a <normalised orig="fornace" auto="true">furnace</normalised>; as S. Hierom <normalised orig="noteth" auto="true">notes</normalised> out of<lb/>
+the Chaldæe (who so <normalised orig="translateth" auto="true">translated</normalised> it.)<lb/>
+The third is NoValue Hoga where we <normalised orig="reade" auto="true">read</normalised><lb/>
+Afflicted, from a word which <normalised orig="importeth" auto="true">imports</normalised><lb/>
+Renting off, or <normalised orig="bereauing" auto="true">bereaving</normalised>. The old <normalised orig="Latine" auto="true">Latin</normalised><lb/>
+<normalised orig="turneth" auto="true">turns</normalised> it, Vindemiauit me, As a Vine whose<lb/>
+fruit is all plucked off. The <normalised orig="Greeke" auto="true">Greek</normalised> with<lb/>
+Theodoret, NoValue as a Vine or tree,<lb/>
+whose <normalised orig="leaues" auto="true">leaves</normalised> are all beaten off, and it left naked<lb/>
+and bare.<lb/>
+                  <lb/>
+                  <fw type="pageNum">B3</fw>
+                  <pb n="1"/>
+                  <lb/>
+In these three are comprised his Sufferings,<lb/>
+Wounded, Melted, &amp; Bereft, <normalised orig="leafe" auto="true">leaf</normalised> and<lb/>
+fruit, (that is) all <normalised orig="maner" auto="true">manner</normalised> of comfort.<lb/>
+Of all that is pœnal, or can be <normalised orig="suffred" auto="true">suffered</normalised>,<lb/>
+the <normalised orig="co~mon" auto="true">common</normalised> <normalised orig="diuision" auto="true">division</normalised> is, Sensus, &amp; Damni, <normalised orig="Griefe" auto="true">Grief</normalised><lb/>
+for that we <normalised orig="feele" auto="true">feel</normalised>, or, for that we forgo. For<lb/>
+that we <normalised orig="feele" auto="true">feel</normalised>, in the two former, Wounded in<lb/>
+body, Melted in <normalised orig="Soule" auto="true">Soul</normalised>: For that we <normalised orig="forgoe" auto="true">forgo</normalised>,<lb/>
+in the last; Bereft all, left neither fruit, nor<lb/>
+so much as a <normalised orig="leafe" auto="true">leaf</normalised> to hang on him.<lb/>
+According to these three, To consider<lb/>
+his Sufferings, &amp; to begin first with the first.<lb/>
+The <normalised orig="paines" auto="true">pains</normalised> of his Body, his wounds and<lb/>
+his stripes.<lb/>
+Our very eye will <normalised orig="soone" auto="true">soon</normalised> tell <normalised orig="vs" auto="true">us</normalised>, No place<lb/>
+was left in his Body, where he might <normalised orig="bee" auto="true">be</normalised><lb/>
+smitten, &amp; was not. His Skin and flesh rent<lb/>
+with the whips &amp; scourges, His hands and<lb/>
+feet wounded with the <normalised orig="nailes" auto="true">nails</normalised>, His head with<lb/>
+the <normalised orig="thornes" auto="true">thorns</normalised>, His very Heart with the <normalised orig="speare" auto="true">spear</normalised><lb/>
+point; All his <normalised orig="sences" auto="true">senses</normalised>, all his parts <normalised orig="loden" auto="true">laden</normalised> with<lb/>
+<normalised orig="whatsoeuer" auto="true">whatsoever</normalised> wit or malice could <normalised orig="inuent" auto="true">invent</normalised>. His<lb/>
+blessed Body <normalised orig="giuen" auto="true">given</normalised> as an <normalised orig="Anuile" auto="true">Anvil</normalised> to <normalised orig="bee" auto="true">be</normalised><lb/>
+beaten <normalised orig="vpon" auto="true">upon</normalised>, with the violent <normalised orig="handes" auto="true">hands</normalised> of<lb/>
+those barbarous miscreants, <normalised orig="til" auto="true">till</normalised> they brought<lb/>
+                  <pb n="2"/>
+                  <lb/>
+him into this case, of Si fuerit sicut. For, Pilates<lb/>
+(<quote type="biblical" ana="Jn 19.5">
+                     <lb/>
+                     Ecce Homo!
+                     <lb/>
+                  </quote>) His <normalised orig="shewing" auto="true">showing</normalised> him with<lb/>
+an Ecce, as if he should say, Behold, <normalised orig="looke" auto="true">look</normalised> if<lb/>
+<normalised orig="euer" auto="true">ever</normalised> you saw the like <normalised orig="ruefull" auto="true">rueful</normalised> spectacle. This<lb/>
+very <normalised orig="shewing" auto="true">showing</normalised> of his, <normalised orig="sheweth" auto="true">shows</normalised> <normalised orig="plainely" auto="true">plainly</normalised>, <normalised orig="hee" auto="true">he</normalised><lb/>
+was then come into a <normalised orig="wofull" auto="true">woeful</normalised> plight; So <normalised orig="wofull" auto="true">woeful</normalised>,<lb/>
+as Pilate <normalised orig="verrily" auto="false">verily</normalised> <normalised orig="beleeued" auto="true">believed</normalised>, his very sight<lb/>
+so <normalised orig="pitifull" auto="true">pitiful</normalised>, as, it would <normalised orig="haue" auto="true">have</normalised> <normalised orig="moued" auto="true">moved</normalised> the hardest<lb/>
+heart of them all to <normalised orig="haue" auto="true">have</normalised> relented, and<lb/>
+said, This is <normalised orig="ynough" auto="true">enough</normalised>, we desire no more.<lb/>
+And this for the wounds of his Body, (for<lb/>
+on this we stand not.)<lb/>
+In this one <normalised orig="peraduenture" auto="true">peradventure</normalised> some Sicut may<lb/>
+be found, in the <normalised orig="Paines" auto="true">Pains</normalised> of the Body: but in<lb/>
+the second, the Sorrow of the <normalised orig="Soule" auto="true">Soul</normalised>, I am<lb/>
+sure, none. And <normalised orig="indeede" auto="true">indeed</normalised>, the <normalised orig="Paine" auto="true">Pain</normalised> of the<lb/>
+Body is but the Body of <normalised orig="Paine" auto="true">Pain</normalised>: the very<lb/>
+<normalised orig="soule" auto="true">soul</normalised> of <normalised orig="Sorow" auto="true">Sorrow</normalised> and <normalised orig="Paine" auto="true">Pain</normalised>, is the <normalised orig="soules" auto="true">souls</normalised> Sorrow<lb/>
+and <normalised orig="Paine" auto="true">Pain</normalised>. <normalised orig="Giue" auto="true">Give</normalised> me any <normalised orig="griefe" auto="true">grief</normalised>, <normalised orig="saue" auto="true">save</normalised> the<lb/>
+<normalised orig="griefe" auto="true">grief</normalised> of the <normalised orig="minde" auto="true">mind</normalised>, saith the Wiseman. For<lb/>
+(saith Solomon) <quote type="biblical" ana="Prov 18.14">The spirit of a man will sustain<lb/>
+all his other infirmities, but a wounded spirit,<lb/>
+who can <normalised orig="beare" auto="true">bear</normalised>?</quote> And of this, this of his <normalised orig="Soule" auto="true">Soul</normalised>,<lb/>
+I dare make a Case, Si fuerit sicut.
+                  <lb/>
+He began to be troubled in <normalised orig="Soule" auto="true">Soul</normalised>, saith S.<lb/>
+                  <pb n="3"/>
+                  <lb/>
+<normalised orig="Iohn" auto="true">John</normalised>: To be in an <normalised orig="agonie" auto="true">agony</normalised>, saith S. Luke: To be<lb/>
+in anguish of <normalised orig="minde" auto="true">mind</normalised> and <normalised orig="deepe" auto="true">deep</normalised> <normalised orig="distresse" auto="true">distress</normalised>, saith S.<lb/>
+<normalised orig="Marke" auto="true">Mark</normalised>. To <normalised orig="haue" auto="true">have</normalised> his <normalised orig="Soule" auto="true">Soul</normalised> round about on<lb/>
+<normalised orig="euery" auto="true">every</normalised> side <normalised orig="inuironed" auto="true">environed</normalised> with <normalised orig="Sorow" auto="true">Sorrow</normalised>, and that,<lb/>
+<normalised orig="Sorow" auto="true">Sorrow</normalised> to the death, Here is trouble, anguish,<lb/>
+<normalised orig="agonie" auto="true">agony</normalised>, <normalised orig="sorow" auto="true">sorrow</normalised> and deadly <normalised orig="sorow" auto="true">sorrow</normalised>: but it must<lb/>
+be such, as <normalised orig="neuer" auto="true">never</normalised> the like; So it was too.<lb/>
+The <normalised orig="æstimate" auto="false">estimate</normalised> whereof we may take from<lb/>
+the second word, of Melting, that is, from<lb/>
+his sweat in the Garden; strange and the<lb/>
+like whereof was <normalised orig="neuer" auto="true">never</normalised> heard or <normalised orig="seene" auto="true">seen</normalised>.<lb/>
+No <normalised orig="maner" auto="true">manner</normalised> violence <normalised orig="offred" auto="true">offered</normalised> him in Body;<lb/>
+no man touching him, or being <normalised orig="neere" auto="true">near</normalised> him,<lb/>
+in a <normalised orig="colde" auto="true">cold</normalised> night (for they were <normalised orig="faine" auto="true">fain</normalised> to <normalised orig="haue" auto="true">have</normalised><lb/>
+a fire within <normalised orig="doores" auto="true">doors</normalised>) lying abroad in the<lb/>
+<normalised orig="ayre" auto="true">air</normalised>, and <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="colde" auto="true">cold</normalised> earth, to be all of a<lb/>
+sweat, and that Sweat to the Blood; and not<lb/>
+as they call it, Diaphoreticus, a <normalised orig="thinne" auto="true">thin</normalised> faint<lb/>
+Sweat; but Grumosus, of great Drops, and<lb/>
+those, so many, so plenteous, as they went<lb/>
+through his <normalised orig="apparell" auto="true">apparel</normalised> and all; and through all,<lb/>
+streamed to the ground, &amp; that in great<lb/>
+abundance; <normalised orig="Reade" auto="true">Read</normalised>, Enquire, and Consider,<lb/>
+                  Si fuerit sudor sicut sudor iste. If <normalised orig="euer" auto="true">ever</normalised><lb/>
+there were Sweat like this Sweat of his? <normalised orig="Neuer" auto="true">Never</normalised><lb/>
+                  <pb n="4"/>
+                  <lb/>
+the like Sweat <normalised orig="certainely" auto="true">certainly</normalised>, and therefore<lb/>
+<normalised orig="neuer" auto="true">never</normalised> the like Sorrow. Our translation is,<lb/>
+Done <normalised orig="vnto" auto="true">unto</normalised> me: but we said, the word properly<lb/>
+<normalised orig="signifieth" auto="true">signifies</normalised> (and so S. <normalised orig="Hierome" auto="true">Jerome</normalised> &amp; the Chaldey<lb/>
+Paraphrast read it) Melted me. And truly<lb/>
+it should <normalised orig="seeme" auto="true">seem</normalised> by this <normalised orig="fearefull" auto="true">fearful</normalised> Sweat of<lb/>
+his, <normalised orig="hee" auto="true">he</normalised> was <normalised orig="neere" auto="true">near</normalised> some <normalised orig="fornace" auto="true">furnace</normalised>, the feeling<lb/>
+whereof, was able to cast him into that<lb/>
+Sweat, and to <normalised orig="turne" auto="true">turn</normalised> his Sweat into drops of<lb/>
+Blood. And sure it was so: For see, <normalised orig="euen" auto="true">even</normalised> in<lb/>
+the very next <normalised orig="wordes" auto="true">words</normalised> of all to this verse, he<lb/>
+<normalised orig="complaineth" auto="true">complains</normalised> of it, <quote type="biblical" ana="Lam 1.13">
+                     <lb/>
+                     Ignem misit in ossibus meis
+                     <lb/>
+                  </quote>,<lb/>
+That a fire was sent into his bones which<lb/>
+melted him, and made that bloody Sweat to<lb/>
+distill from him. That <normalised orig="houre" auto="true">hour</normalised>, what his feelings<lb/>
+were, it is dangerous to define: wee<lb/>
+know them not, we may be too bold to determine<lb/>
+of them. To very good purpose it<lb/>
+was, that the ancient Fathers of the <normalised orig="Greeke" auto="true">Greek</normalised><lb/>
+Church in their <normalised orig="Liturgie" auto="true">Liturgy</normalised>, after they <normalised orig="haue" auto="true">have</normalised> recounted<lb/>
+all the particular <normalised orig="Paines" auto="true">Pains</normalised> as they are<lb/>
+set <normalised orig="downe" auto="true">down</normalised> in his Passion, and by all, and by<lb/>
+<normalised orig="euery" auto="true">every</normalised> one of them, called for mercy; <normalised orig="doe" auto="true">do</normalised>, after<lb/>
+all, shut <normalised orig="vp" auto="true">up</normalised> all with his, NoValue
+                  <lb/>
+By thine <normalised orig="vnknowen" auto="true">unknown</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum">C</fw>
+                  <pb n="5"/>
+                  <lb/>
+<normalised orig="Sorowes" auto="true">Sorrows</normalised> and Sufferings felt by thee,<lb/>
+but not distinctly <normalised orig="knowen" auto="true">known</normalised> by <normalised orig="vs" auto="true">us</normalised>, <normalised orig="haue" auto="true">have</normalised> mercy<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> <normalised orig="vs" auto="true">us</normalised> and <normalised orig="saue" auto="true">save</normalised> <normalised orig="vs" auto="true">us</normalised>.<lb/>
+Now, though this suffice not, nothing<lb/>
+<normalised orig="neere" auto="true">near</normalised>; yet let it suffice, (the time being<lb/>
+short) for his <normalised orig="paines" auto="true">pains</normalised> of Body and <normalised orig="Soule" auto="true">Soul</normalised>: for<lb/>
+those of the Body, it may be some may <normalised orig="haue" auto="true">have</normalised><lb/>
+endured the like; but the <normalised orig="sorrowes" auto="true">sorrows</normalised> of his<lb/>
+<normalised orig="Soule" auto="true">Soul</normalised> are <normalised orig="vnknowen" auto="true">unknown</normalised> <normalised orig="sorowes" auto="true">sorrows</normalised>: &amp; for them,<lb/>
+none <normalised orig="euer" auto="true">ever</normalised> <normalised orig="haue" auto="true">have</normalised>, <normalised orig="euer" auto="true">ever</normalised> <normalised orig="haue" auto="true">have</normalised>, or <normalised orig="euer" auto="true">ever</normalised> shall suffer<lb/>
+the like; the like, or <normalised orig="neere" auto="true">near</normalised> the like in any<lb/>
+degree.<lb/>
+And now to the third. It was said before,<lb/>
+To be in <normalised orig="distresse" auto="true">distress</normalised>, such <normalised orig="distresse" auto="true">distress</normalised> as this was,<lb/>
+&amp; to find none to comfort, nay not so much<lb/>
+as to regard him, is all that can be <normalised orig="sayd" auto="true">said</normalised>, to<lb/>
+make his <normalised orig="sorow" auto="true">sorrow</normalised> a Non sicut. Comfort is it,<lb/>
+by which in the midst of all our <normalised orig="sorowes" auto="true">sorrows</normalised>, we<lb/>
+are Confortati, that is, strengthened &amp; made<lb/>
+the better able to <normalised orig="beare" auto="true">bear</normalised> them all out. And<lb/>
+who is there, <normalised orig="euen" auto="true">even</normalised> the poorest creature among<lb/>
+<normalised orig="vs" auto="true">us</normalised>, but in some degree <normalised orig="findeth" auto="true">finds</normalised> some<lb/>
+<normalised orig="co~fort" auto="true">comfort</normalised>, or some regard at some bodies <normalised orig="ha~ds" auto="true">hands</normalised>?<lb/>
+For if that be not left, the state of that <normalised orig="partie" auto="true">party</normalised><lb/>
+is here in the third word said to be like the<lb/>
+                  <pb n="6"/>
+                  <lb/>
+tree, whose <normalised orig="leaues" auto="true">leaves</normalised> and whose fruit are all<lb/>
+beaten off quite, and it <normalised orig="selfe" auto="true">self</normalised> left bare and naked<lb/>
+both <choice ana="illegible">
+                     <sic>o*</sic>
+                     <corr>of</corr>
+                  </choice> the one and of the other.<lb/>
+And such was our <normalised orig="Sauiours" auto="true">Saviours</normalised> case in these<lb/>
+his <normalised orig="Sorowes" auto="true">Sorrows</normalised> this day, and that so, as what is<lb/>
+left the meanest of the sons of men, was not<lb/>
+left him: Not a <normalised orig="leafe" auto="true">leaf</normalised>. Not a <normalised orig="leafe" auto="true">leaf</normalised>! <normalised orig="Leaues" auto="true">Leaves</normalised> I<lb/>
+may <normalised orig="wel" auto="true">well</normalised> call all humane Comforts and Regards,<lb/>
+whereof he was then left <normalised orig="cleane" auto="true">clean</normalised> desolate.<lb/>
+1. His <normalised orig="owne" auto="true">own</normalised>, they among whom he<lb/>
+had gone about all his life long, healing<lb/>
+them, teaching them, feeding them, doing<lb/>
+them all the good he could, it is they that<lb/>
+cry, <quote type="biblical" ana="Jn 18.40">Not him, no, but Barabbas rather</quote>; <quote type="biblical" ana="Jn 19.15">Away<lb/>
+with him,</quote>
+                  <lb/>
+                  <quote type="biblical" ana="Mt 27.25">his blood <normalised orig="bee" auto="true">be</normalised> <normalised orig="vpon" auto="true">upon</normalised> <normalised orig="vs" auto="true">us</normalised> and our children.</quote>
+                  <lb/>
+It is they that in the <normalised orig="middest" auto="true">midst</normalised> of his <normalised orig="sorowes" auto="true">sorrows</normalised>,<lb/>
+shake their head at him and cry, Ah<lb/>
+thou wretch: they that in his most disconsolate<lb/>
+estate &amp; cry, Eli, Eli, in most barbarous<lb/>
+<normalised orig="maner" auto="true">manner</normalised> deride him, and say, Stay, and you <normalised orig="shal" auto="true">shall</normalised><lb/>
+see Elias come presently and take him <normalised orig="downe" auto="true">down</normalised>.<lb/>
+And this was their Regard.<lb/>
+But these were but withered <normalised orig="leaues" auto="true">leaves</normalised>. They<lb/>
+then that on earth were <normalised orig="neerest" auto="true">nearest</normalised> him of all,<lb/>
+the greenest <normalised orig="leaues" auto="true">leaves</normalised> &amp; likest to hand on, and<lb/>
+                  <lb/>
+                  <fw type="pageNum">C2</fw>
+                  <pb n="7"/>
+                  <lb/>
+to <normalised orig="giue" auto="true">give</normalised> him some shade: <normalised orig="euen" auto="true">even</normalised> of them, some<lb/>
+bought and sold him, others denied &amp; forswore<lb/>
+him, but all <normalised orig="fel" auto="true">fell</normalised> away &amp; <normalised orig="forsooke" auto="true">forsook</normalised> him.<lb/>
+                  NoValue (saith Theodoret) not a <normalised orig="leafe" auto="true">leaf</normalised> left.<lb/>
+But, <normalised orig="leaues" auto="true">leaves</normalised> are but <normalised orig="leaues" auto="true">leaves</normalised>, and so are all<lb/>
+earthly <normalised orig="stayes" auto="true">stays</normalised>. The fruit then, the true fruit<lb/>
+of the Vine indeed, the true comfort in all<lb/>
+<normalised orig="heauinesse" auto="true">heaviness</normalised> is Desuper, from <normalised orig="aboue" auto="true">above</normalised>, is <normalised orig="diuine" auto="true">divine</normalised><lb/>
+consolation. But Videmiauit me, (saith  the<lb/>
+<normalised orig="Latine" auto="true">Latin</normalised> text) <normalised orig="euen" auto="true">even</normalised> that was in this his <normalised orig="Sorow" auto="true">Sorrow</normalised>,<lb/>
+this day, bereft him too. And that was his<lb/>
+most <normalised orig="sorowfull" auto="true">sorrowful</normalised> complaint of all others: not<lb/>
+that his friends <normalised orig="vpon" auto="true">upon</normalised> earth, but that his Father<lb/>
+from <normalised orig="heauen" auto="true">heaven</normalised> had forsaken him, that<lb/>
+neither <normalised orig="heauen" auto="true">heaven</normalised> nor earth <normalised orig="yeelded" auto="true">yielded</normalised> him any<lb/>
+regard; but that <normalised orig="betweene" auto="true">between</normalised> the passioned<lb/>
+powers of his <normalised orig="soule" auto="true">soul</normalised>, and <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> might<lb/>
+any <normalised orig="waies" auto="true">ways</normalised> refresh him, there was a <normalised orig="Trauerse" auto="true">Traverse</normalised><lb/>
+<normalised orig="drawen" auto="true">drawn</normalised>, &amp; he left in the estate of a weather-beaten<lb/>
+tree, all desolate and <normalised orig="forlorne" auto="true">forlorn</normalised>. <normalised orig="Euident" auto="true">Evident</normalised>,<lb/>
+too <normalised orig="euident" auto="true">evident</normalised>, by that his most dreadful<lb/>
+<normalised orig="crie" auto="true">cry</normalised>, which at once <normalised orig="moued" auto="true">moved</normalised> all the powers in<lb/>
+<normalised orig="heauen" auto="true">heaven</normalised> and earth, <quote type="biblical" ana="Mt 27.46">My God, my God, why <normalised orig="hast" auto="true">have</normalised><lb/>
+thou forsaken me?</quote> Weigh well that <normalised orig="crie" auto="true">cry</normalised>, consider<lb/>
+it well, and tell me, Si fuerit <normalised orig="clamor" auto="true">clamour</normalised> sicut<lb/>
+                     <pb n="8"/>
+                     <lb/>
+<normalised orig="clamor" auto="true">clamour</normalised> iste, If <normalised orig="euer" auto="true">ever</normalised> there were <normalised orig="crie" auto="true">cry</normalised>, like to<lb/>
+that of his: <normalised orig="Neuer" auto="true">Never</normalised> the like <normalised orig="crie" auto="true">cry</normalised>, and therefore<lb/>
+<normalised orig="neuer" auto="true">never</normalised> the like <normalised orig="sorow" auto="true">sorrow</normalised>.<lb/>
+It is strange, very strange, that of none of<lb/>
+the Martyrs the like can be read; who yet<lb/>
+endured most exquisite <normalised orig="paines" auto="true">pains</normalised> in their <normalised orig="Martyrdomes" auto="false">Martyrdoms</normalised>;<lb/>
+yet wee see with what courage,<lb/>
+with what <normalised orig="chearefulnes" auto="false">cheerfulness</normalised>, how <normalised orig="euen" auto="true">even</normalised> singing<lb/>
+they are reported to <normalised orig="haue" auto="true">have</normalised> passed through<lb/>
+their torments. Will <normalised orig="ye" auto="true">you</normalised> know the reason?<lb/>
+S. Augustine <normalised orig="setteth" auto="true">sets</normalised> it <normalised orig="downe" auto="true">down</normalised>, <normalised orig="Martyres" auto="true">Martyrs</normalised> non<lb/>
+eripuit, sed nunquid deseruit? He <normalised orig="deliuered" auto="true">delivered</normalised><lb/>
+not his Martyrs, but did he forsake them?<lb/>
+He <normalised orig="deliuered" auto="true">delivered</normalised> not their bodies, but he <normalised orig="forsooke" auto="true">forsook</normalised><lb/>
+not their <normalised orig="soules" auto="true">souls</normalised>, but distilled into <normalised orig="the~" auto="true">them</normalised><lb/>
+the dew of his <normalised orig="heauenly" auto="true">heavenly</normalised> comfort; an abundant<lb/>
+supply for all they could endure. Not<lb/>
+so here, Vindemiauit me (saith the Prophet)<lb/>
+                  Dereliquisti me (<normalised orig="sayeth" auto="true">says</normalised> <normalised orig="hee" auto="true">he</normalised> <normalised orig="himselfe" auto="true">himself</normalised>:) No<lb/>
+comfort, no supply at all.<lb/>
+Leo it is that first said it, (and all <normalised orig="antiquitie" auto="true">antiquity</normalised><lb/>
+allow of it,) Non soluit Vnionem, sed subtraxit<lb/>
+visione. The <normalised orig="Vnion" auto="true">Union</normalised> was not <normalised orig="dissolued" auto="true">dissolved</normalised>;<lb/>
+True, but the <normalised orig="beames" auto="true">beams</normalised>, the influence was restrained,<lb/>
+and for any comfort from thence,<lb/>
+                  <lb/>
+                  <fw type="pageNum">C3</fw>
+                  <pb n="9"/>
+                  <lb/>
+his <normalised orig="Soule" auto="true">Soul</normalised> was, <normalised orig="euen" auto="true">even</normalised> as a scorched heath<lb/>
+ground, without so much as any drop of<lb/>
+dew of <normalised orig="Diuine" auto="true">Divine</normalised> comfort: as a naked tree, no<lb/>
+fruit to refresh him within, no <normalised orig="leafe" auto="true">leaf</normalised> to <normalised orig="giue" auto="true">give</normalised><lb/>
+him shadow without: The power of <normalised orig="darknesse" auto="true">darkness</normalised><lb/>
+let loose to afflict him: the influence<lb/>
+of comfort, restrained to <normalised orig="relieue" auto="true">relieve</normalised> him. It is a<lb/>
+                  Non sicut this, It cannot be expressed as it<lb/>
+should, and as other things may; In silence<lb/>
+we may admire it, but all our words <normalised orig="wil" auto="true">will</normalised> not<lb/>
+reach it. And though to draw it so <normalised orig="farre" auto="true">far</normalised> as<lb/>
+some <normalised orig="doe" auto="true">do</normalised>, is little better then <normalised orig="blasphemie" auto="true">blasphemy</normalised>;<lb/>
+Yet on the other side, to <normalised orig="shrinke" auto="true">shrink</normalised> it so short,<lb/>
+as other some <normalised orig="doe" auto="true">do</normalised>, cannot be but with derogation<lb/>
+to his <normalised orig="loue" auto="true">love</normalised>, who to kindle our <normalised orig="loue" auto="true">love</normalised><lb/>
+and <normalised orig="louing" auto="true">loving</normalised> Regard, would come to a Non<lb/>
+sicut in his suffering: For, so it was, and so<lb/>
+we must allow it to be. This in respect of<lb/>
+his Passion. Dolor.
+                  <lb/>
+Now in respect of his Person, Dolor meus.<lb/>
+Whereof, if it please you to take a view, <normalised orig="euen" auto="true">even</normalised><lb/>
+of the Person thus wounded, thus afflicted<lb/>
+and forsaken, you shall then <normalised orig="haue" auto="true">have</normalised> a perfect<lb/>
+                  Non sicut. And in deed, the Person is here<lb/>
+a weighty circumstance, it is thrice repeated,<lb/>
+                  <pb n="10"/>
+                  <lb/>
+                  Meus, Mihi, Me. And we may not <normalised orig="leaue" auto="true">leave</normalised> it<lb/>
+out. For, as is the Person, so is the Passion;<lb/>
+and any one, <normalised orig="euen" auto="true">even</normalised> the very least degree of<lb/>
+wrong or disgrace, offered to a Person of<lb/>
+<normalised orig="excellencie" auto="true">excellency</normalised>, is more then a <normalised orig="hundreth" auto="true">hundredth</normalised> times<lb/>
+more, to one of <normalised orig="meane" auto="true">mean</normalised> <normalised orig="conditio~" auto="true">condition</normalised>: So <normalised orig="weightie" auto="true">weighty</normalised><lb/>
+is the circumstance of the Person. Consider<lb/>
+then, how great the Person was; And I<lb/>
+rest fully assured, here may we boldly challenge,<lb/>
+and say, Si fuerit sicut.<lb/>
+                  <quote type="biblical" ana="Jn 19.5">
+                     <lb/>
+                     Ecce Homo
+                     <lb/>
+                  </quote> saith Pilate first, A man he<lb/>
+is, as we are: and were he but a man, Nay,<lb/>
+were he not a man, but some <normalised orig="poore" auto="true">poor</normalised> <normalised orig="dumbe" auto="true">dumb</normalised><lb/>
+creature, it were great ruth to see him so<lb/>
+handled, as he was.<lb/>
+A man saith Pilate, and a <normalised orig="Iust" auto="true">Just</normalised> man, saith<lb/>
+Pilates wife. <quote type="biblical" ana="Mt 27.19"><normalised orig="Haue" auto="true">Have</normalised> thou nothing to <normalised orig="doe" auto="true">do</normalised> with that <normalised orig="Iust" auto="true">Just</normalised> man.</quote> And that is one degree further.<lb/>
+For though we <normalised orig="pitie" auto="true">pity</normalised> the punishment<lb/>
+<normalised orig="euen" auto="true">even</normalised> of <normalised orig="malefactours" auto="true">malefactors</normalised> <normalised orig="themselues" auto="true">themselves</normalised>: yet <normalised orig="euer" auto="true">ever</normalised>,<lb/>
+most compassion we <normalised orig="haue" auto="true">have</normalised> of them that suffer,<lb/>
+and be innocent. And he was Innocent:<lb/>
+Pilate, and Herode, and the Prince of this<lb/>
+world, his very enemies, being his <normalised orig="Iudges" auto="true">Judges</normalised>.<lb/>
+Now, among the Innocent, the more<lb/>
+                  <pb n="11"/>
+                  <lb/>
+Noble the Person, the more <normalised orig="heauie" auto="true">heavy</normalised> the spectacle:<lb/>
+and <normalised orig="neuer" auto="true">never</normalised> <normalised orig="doe" auto="true">do</normalised> our bowels <normalised orig="earne" auto="true">earn</normalised> so much,<lb/>
+as <normalised orig="ouer" auto="true">over</normalised> such. Alas, alas for that noble<lb/>
+Prince, (<normalised orig="sayeth" auto="true">says</normalised> this Prophet,) (the stile<lb/>
+of mourning for the death of a great Personage.)<lb/>
+And, he that <normalised orig="suffereth" auto="true">suffers</normalised> here, is such,<lb/>
+<normalised orig="euen" auto="true">even</normalised> a <normalised orig="principall" auto="true">principal</normalised> Person among the <normalised orig="sonnes" auto="true">sons</normalised><lb/>
+of men, of the race <normalised orig="Royall" auto="true">Royal</normalised>, descended from<lb/>
+Kings; Pilate stiled him so in his Title, and<lb/>
+he would not alter it.<lb/>
+Three degrees. But, yet we are not at<lb/>
+our true Quantus. For he is yet more: More,<lb/>
+then the highest of the <normalised orig="sonnes" auto="true">sons</normalised> of men: for<lb/>
+he is the <normalised orig="Sonne" auto="true">Son</normalised> of the most<lb/>
+high God. Pilate saw no further, but<lb/>
+                  <quote type="biblical" ana="Jn 19.5">
+                     <lb/>
+                     Ecce Homo
+                     <lb/>
+                  </quote>; The Centurion did, <normalised orig="Vere" auto="true">Very</normalised> Filius<lb/>
+Dei erat hic. Now <normalised orig="truely" auto="true">truly</normalised> this was the<lb/>
+<normalised orig="Sonne" auto="true">Son</normalised> of God. And here, all <normalised orig="wordes" auto="true">words</normalised> forsake<lb/>
+<normalised orig="vs" auto="true">us</normalised>, and <normalised orig="euery" auto="true">every</normalised> tongue <normalised orig="becommeth" auto="true">becomes</normalised><lb/>
+<normalised orig="speechlesse" auto="true">speechless</normalised>.<lb/>
+We <normalised orig="haue" auto="true">have</normalised> no way to <normalised orig="expresse" auto="true">express</normalised> it, but à Minore<lb/>
+ad Maius. (Thus,) Of this <normalised orig="booke" auto="true">book</normalised>, the<lb/>
+<normalised orig="booke" auto="true">book</normalised> of Lamentations, one <normalised orig="speciall" auto="true">special</normalised> occasion<lb/>
+was, the death of King Iosias; But behold,<lb/>
+a greater then Iosias is here.<lb/>
+                  <lb/>
+Of King Iosias (as a <normalised orig="speciall" auto="true">special</normalised> reason of<lb/>
+mourning) the Prophet saith, <quote type="biblical" ana="Lam 4.20">
+                     <lb/>
+                     Spiritus oris<lb/>
+nostri, <normalised orig="Christus" auto="true">Christ's</normalised> Domini, The very breath of<lb/>
+our <normalised orig="nosethrils" auto="false">nostrils</normalised>, The Lords Anointed</quote>; (for so are all good Kings in their <normalised orig="Subiects" auto="true">Subjects</normalised> <normalised orig="accompts" auto="true">accounts</normalised>)<lb/>
+He is gone. But behold, here is not<lb/>
+                  <normalised orig="Christus" auto="true">Christ's</normalised> Domini, but <normalised orig="Christus" auto="true">Christ's</normalised> Dominus, The<lb/>
+Lords Christ, but the Lord Christ <normalised orig="himselfe" auto="true">himself</normalised>:<lb/>
+And that, not <normalised orig="comming" auto="true">coming</normalised> to an Honourable<lb/>
+death in <normalised orig="battaile" auto="true">battle</normalised>, as Iosias did, But, to a most<lb/>
+vile <normalised orig="reprochfull" auto="true">reproachful</normalised> death, the death of malefactors<lb/>
+in the highest degree. And not<lb/>
+<normalised orig="slaine" auto="true">slain</normalised> outright, as Iosias was: but mangled<lb/>
+and massacred in most <normalised orig="pitifull" auto="true">pitiful</normalised> strange <normalised orig="maner" auto="true">manner</normalised>;<lb/>
+wounded in body, wounded in Spirit,<lb/>
+left <normalised orig="vtterly" auto="true">utterly</normalised> desolate. O consider this well,<lb/>
+and <normalised orig="confesse" auto="true">confess</normalised> the Case is <normalised orig="truely" auto="true">truly</normalised> put, <quote type="biblical" ana="Lam 1.12">
+                     <lb/>
+                     Si fuerit<lb/>
+Dolor sicut Dolor meus.
+                     <lb/>
+                  </quote>  <normalised orig="Neuer" auto="true">Never</normalised>, <normalised orig="neuer" auto="true">never</normalised> the like<lb/>
+Person: And if, as the Person is, the Passion<lb/>
+be, <normalised orig="Neuer" auto="true">Never</normalised> the like Passion to his.<lb/>
+It is <normalised orig="truely" auto="true">truly</normalised> affirmed, that any one, <normalised orig="euen" auto="true">even</normalised><lb/>
+the least drop of Blood, <normalised orig="euen" auto="true">even</normalised> the least pain,<lb/>
+yea of the body <normalised orig="onely" auto="true">only</normalised>, of this so great a Person;<lb/>
+any Dolor with this Meus, had <normalised orig="bene" auto="true">been</normalised> enough<lb/>
+to make a Non sicut of it. That is<lb/>
+                  <lb/>
+                  <fw type="pageNum">D</fw>
+                  <pb n="12"/>
+                  <lb/>
+enough, but that is not all: for <normalised orig="adde" auto="true">add</normalised> now the<lb/>
+three other degrees; <normalised orig="Adde" auto="true">Add</normalised> to this Person,<lb/>
+those Wounds, that Sweat, and that Cry, and<lb/>
+put all together: And, I make no manner<lb/>
+question, the like was not, shall not, cannot<lb/>
+<normalised orig="euer" auto="true">ever</normalised> be. It is <normalised orig="farre" auto="true">far</normalised> <normalised orig="aboue" auto="true">above</normalised> all that <normalised orig="euer" auto="true">ever</normalised> were,<lb/>
+or can be. Abyssus est: Men may drowsily<lb/>
+<normalised orig="heare" auto="true">hear</normalised> it, and coldly affect it: But Principalities<lb/>
+and Powers, stand abashed at it. And<lb/>
+for the Quality, both of the Passion &amp; of the<lb/>
+Person, That <normalised orig="Neuer" auto="true">Never</normalised> the like; thus much.<lb/>
+                  <lb/>
+NOW to proceed to the Cause, and<lb/>
+to consider it: for without it, we<lb/>
+shall <normalised orig="haue" auto="true">have</normalised> but <normalised orig="halfe" auto="true">half</normalised> a Regard, and<lb/>
+<normalised orig="scarse" auto="true">scarce</normalised> that. In deed, set the Cause aside, and<lb/>
+the Passion (as rare as it is,) is yet but a <normalised orig="dul" auto="true">dull</normalised><lb/>
+and <normalised orig="heauy" auto="true">heavy</normalised> fight: we lift not much <normalised orig="looke" auto="true">look</normalised> <normalised orig="vpon" auto="true">upon</normalised><lb/>
+spectacles of that kind, though <normalised orig="neuer" auto="true">never</normalised> so<lb/>
+strange: they fill <normalised orig="vs" auto="true">us</normalised> <normalised orig="ful" auto="true">full</normalised> of <normalised orig="pensiue" auto="true">pensive</normalised> thoughts,<lb/>
+and make <normalised orig="vs" auto="true">us</normalised> <normalised orig="Melancholique" auto="true">Melancholic</normalised>; and so <normalised orig="doeth" auto="true">doth</normalised><lb/>
+this, till <normalised orig="vpon" auto="true">upon</normalised> examination of the Cause, we<lb/>
+<normalised orig="finde" auto="true">find</normalised> it <normalised orig="toucheth" auto="true">touches</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="neere" auto="true">near</normalised>; And so <normalised orig="neere" auto="true">near</normalised> so<lb/>
+                  <pb n="13"/>
+                  <lb/>
+many <normalised orig="wayes" auto="true">ways</normalised>, as we cannot <normalised orig="chuse" auto="true">choose</normalised>, but <normalised orig="haue" auto="true">have</normalised><lb/>
+some Regard of it.<lb/>
+What was done to Him we see. Let there<lb/>
+now be a Quæst of <normalised orig="Inquirie" auto="true">Inquiry</normalised>, to <normalised orig="finde" auto="true">find</normalised> who<lb/>
+was the doer of it. Who? who, but the<lb/>
+Power of <normalised orig="darkenesse" auto="true">darkness</normalised>, wicked Pilate, bloody<lb/>
+Caiphas, the <normalised orig="enuious" auto="true">envious</normalised> Priests, the barbarous<lb/>
+<normalised orig="Souldiers" auto="true">Soldiers</normalised>? None of these are returned<lb/>
+here. We are too low, by a great <normalised orig="deale" auto="true">deal</normalised>,<lb/>
+if we <normalised orig="thinke" auto="true">think</normalised> to <normalised orig="finde" auto="true">find</normalised> it among men. Quæ<lb/>
+fecit mihi Deus. It was God that did it. An<lb/>
+<normalised orig="houre" auto="true">hour</normalised> of that day was the <normalised orig="houre" auto="true">hour</normalised> of the<lb/>
+Power of <normalised orig="darkenesse" auto="true">darkness</normalised>: but the whole day it<lb/>
+<normalised orig="selfe" auto="true">self</normalised>, is said here <normalised orig="plainely" auto="true">plainly</normalised>, was the day of the<lb/>
+wrath of God. God was a doer in it; Wherewith<lb/>
+God <normalised orig="hath" auto="true">has</normalised> afflicted me.<lb/>
+God <normalised orig="afflicteth" auto="true">afflicts</normalised> some in Mercy: and others<lb/>
+in wrath. This was in his wrath. In<lb/>
+his wrath God is not alike to all; Some he<lb/>
+<normalised orig="afflicteth" auto="true">afflicts</normalised> in his more gentle and <normalised orig="milde" auto="true">mild</normalised>: others<lb/>
+in his fierce wrath. This was in the<lb/>
+very <normalised orig="fiercenesse" auto="true">fierceness</normalised> of his wrath. His Sufferings,<lb/>
+his <normalised orig="Sweate" auto="true">Sweat</normalised>, and Cry, <normalised orig="shew" auto="true">show</normalised> as much;<lb/>
+They could not come, but from a wrath,<lb/>
+                  Si fuerit sicut, (For we are not past Non<lb/>
+                     <lb/>
+                     <fw type="pageNum">D2</fw>
+                     <pb n="14"/>
+                     <lb/>
+sicut, no not here in this part: it <normalised orig="followeth" auto="true">follows</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised> still, and will not <normalised orig="leaue" auto="true">leave</normalised> <normalised orig="vs" auto="true">us</normalised> in any point,<lb/>
+not to the end.)<lb/>
+The Cause then in God, was wrath.<lb/>
+What caused this wrath? God is not wroth,<lb/>
+but with <normalised orig="sinne" auto="true">sin</normalised>; Nor <normalised orig="grieuously" auto="true">grievously</normalised> wroth, but<lb/>
+with <normalised orig="grieuous" auto="true">grievous</normalised> <normalised orig="sinne" auto="true">sin</normalised>. And in christ<lb/>
+there was no <normalised orig="grieuous" auto="true">grievous</normalised> <normalised orig="sinne" auto="true">sin</normalised>, Nay, no <normalised orig="sinne" auto="true">sin</normalised><lb/>
+at all. God did it, (the text is <normalised orig="plaine" auto="true">plain</normalised>.) And<lb/>
+in his fierce wrath he did it. For what cause?<lb/>
+For, God forbid God should <normalised orig="doe" auto="true">do</normalised> as did<lb/>
+Annas the high Priest, cause him to be smitten<lb/>
+without cause. God forbid (saith Abraham)<lb/>
+the <normalised orig="Iudge" auto="true">Judge</normalised> of the world should <normalised orig="doe" auto="true">do</normalised><lb/>
+wrong to any. To any, but specially to his<lb/>
+<normalised orig="owne" auto="true">own</normalised> <normalised orig="Sonne" auto="true">Son</normalised>: That his <normalised orig="Sonne" auto="true">Son</normalised>, of whom<lb/>
+with <normalised orig="thundring" auto="true">thundering</normalised> <normalised orig="voyce" auto="true">voice</normalised> from <normalised orig="Heauen" auto="true">Heaven</normalised>, he <normalised orig="testifieth" auto="true">testifies</normalised><lb/>
+all his <normalised orig="ioy" auto="true">joy</normalised> and delight were in Him,<lb/>
+in him <normalised orig="onely" auto="true">only</normalised> he was <normalised orig="wel" auto="true">well</normalised> pleased. And how<lb/>
+then could his wrath <normalised orig="waxe" auto="true">wax</normalised> hot, to <normalised orig="doe" auto="true">do</normalised> all<lb/>
+this <normalised orig="vnto" auto="true">unto</normalised> him?<lb/>
+There is no way to <normalised orig="preserue" auto="true">preserve</normalised> Gods <normalised orig="Iustice" auto="true">Justice</normalised>,<lb/>
+and Christs <normalised orig="Innocency" auto="true">Innocence</normalised> both, but to say as<lb/>
+the Angel said of him to the Prophet Daniel,<lb/>
+The Messias shall be slain NoValue ve-en lo,<lb/>
+                  <pb n="15"/>
+                  <lb/>
+<normalised orig="shalbe" auto="true">shall be</normalised> <normalised orig="slaine" auto="true">slain</normalised>, but not for <normalised orig="himselfe" auto="true">himself</normalised>. Not for<lb/>
+<normalised orig="himselfe" auto="true">himself</normalised>? for whom then? for some others.<lb/>
+He <normalised orig="tooke" auto="true">took</normalised> <normalised orig="vpon" auto="true">upon</normalised> him the person of others;<lb/>
+and so doing, <normalised orig="Iustice" auto="true">Justice</normalised> may <normalised orig="haue" auto="true">have</normalised> her course and <normalised orig="proceede" auto="true">proceed</normalised>.<lb/>
+Pity it is to see a man pay that he <normalised orig="neuer" auto="true">never</normalised><lb/>
+<normalised orig="tooke" auto="true">took</normalised>: but if he will become a Surety, if he<lb/>
+will take on him the person of the Debtor,<lb/>
+so he must. Pity to see a <normalised orig="sillie" auto="true">silly</normalised> <normalised orig="poore" auto="true">poor</normalised> <normalised orig="Lambe" auto="true">Lamb</normalised><lb/>
+lie bleeding to death; but if it must be a Sacrifice,<lb/>
+(such is the nature of a sacrifice) so it<lb/>
+must. And so Christ, though without <normalised orig="sinne" auto="true">sin</normalised><lb/>
+in <normalised orig="himselfe" auto="true">himself</normalised>, yet as a <normalised orig="Suretie" auto="true">Surety</normalised>, as a Sacrifice,<lb/>
+may <normalised orig="iustly" auto="true">justly</normalised> suffer for others, if he will take<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> him their persons; and so, God may<lb/>
+<normalised orig="iustly" auto="true">justly</normalised> <normalised orig="giue" auto="true">give</normalised> way to his wrath against him.<lb/>
+And who be those others? The Prophet<lb/>
+<normalised orig="Esay" auto="true">Essay</normalised> <normalised orig="telleth" auto="true">tells</normalised> <normalised orig="vs" auto="true">us</normalised>, and <normalised orig="telleth" auto="true">tells</normalised> it <normalised orig="vs" auto="true">us</normalised> <normalised orig="seuen" auto="true">seven</normalised> times<lb/>
+<normalised orig="ouer" auto="true">over</normalised> for failing, <quote type="biblical" ana="Isa 53.4-6">He <normalised orig="tooke" auto="true">took</normalised> <normalised orig="vpon" auto="true">upon</normalised> him our infirmities,<lb/>
+and bare our maladies: He was wounded<lb/>
+for our iniquities, and broken for our transgressions.<lb/>
+The chastisement of our peace was<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> him, and with his stripes were we healed.<lb/>
+All wee as <normalised orig="sheepe" auto="true">sheep</normalised> were gone astray, and turned<lb/>
+<normalised orig="euery" auto="true">every</normalised> man to his <normalised orig="owne" auto="true">own</normalised> way: and the Lord <normalised orig="hath" auto="true">has</normalised><lb/>
+                     <lb/>
+                     <fw type="pageNum">D3</fw>
+                     <pb n="16"/>
+                     <lb/>
+<normalised orig="layd" auto="true">laid</normalised> <normalised orig="vpon" auto="true">upon</normalised> him the iniquities of <normalised orig="vs" auto="true">us</normalised> all.</quote>  All,<lb/>
+all, <normalised orig="euen" auto="true">even</normalised> those, that <normalised orig="passe" auto="true">pass</normalised> to and fro, and for<lb/>
+all this, Regard neither him nor his Passion.<lb/>
+The short is: It was wee, that for our<lb/>
+<normalised orig="sinnes" auto="true">sins</normalised>, our many, great, and <normalised orig="grieuous" auto="true">grievous</normalised> sins,<lb/>
+(Si fuerint sicut, the like <normalised orig="wherof" auto="true">whereof</normalised> <normalised orig="neuer" auto="true">never</normalised> were)<lb/>
+should <normalised orig="haue" auto="true">have</normalised> <normalised orig="swet" auto="true">sweat</normalised> this Sweat, and <normalised orig="haue" auto="true">have</normalised> <normalised orig="cryed" auto="true">cried</normalised><lb/>
+this Cry; should <normalised orig="haue" auto="true">have</normalised> <normalised orig="bene" auto="true">been</normalised> smitten with<lb/>
+these <normalised orig="sorrowes" auto="true">sorrows</normalised> by the fierce wrath of God,<lb/>
+had not he stepped <normalised orig="betweene" auto="true">between</normalised> the blow and<lb/>
+<normalised orig="vs" auto="true">us</normalised>, and latched it in his <normalised orig="owne" auto="true">own</normalised> body and<lb/>
+<normalised orig="soule" auto="true">soul</normalised>, <normalised orig="euen" auto="true">even</normalised> the dint of the <normalised orig="fiercenesse" auto="true">fierceness</normalised> of the<lb/>
+wrath of God. O the Non sicut of our sins,<lb/>
+that could not otherwise be answered!<lb/>
+To <normalised orig="returne" auto="true">return</normalised> then a true verdict. It is we,<lb/>
+(we wretched sinners that we are) that are<lb/>
+to be found the principals in this <normalised orig="acte" auto="true">act</normalised>; and<lb/>
+those on whom wee <normalised orig="seeke" auto="true">seek</normalised> to shift it, to <normalised orig="deriue" auto="true">derive</normalised><lb/>
+it from our <normalised orig="selues" auto="true">selves</normalised>, Pilate and Caiaphas<lb/>
+and the rest, but <normalised orig="instrumentall" auto="true">instrumental</normalised> causes <normalised orig="onely" auto="true">only</normalised>.<lb/>
+And it is not the executioner that <normalised orig="killeth" auto="true">kills</normalised><lb/>
+the man properly, (that is, They:) No, nor<lb/>
+the <normalised orig="Iudge" auto="true">Judge</normalised>, (which is God in this case:) <normalised orig="onely" auto="true">only</normalised><lb/>
+<normalised orig="sinne" auto="true">sin</normalised>, Solum peccatum homicida est, <normalised orig="Sinne" auto="true">Sin</normalised><lb/>
+<normalised orig="onely" auto="true">only</normalised> is the <normalised orig="murtherer" auto="true">murderer</normalised>, (to say the <normalised orig="trueth" auto="true">truth</normalised>;)<lb/>
+                  <pb n="17"/>
+                  <lb/>
+and our <normalised orig="sinnes" auto="true">sins</normalised> the <normalised orig="murtherers" auto="true">murderers</normalised> of the <normalised orig="Sonne" auto="true">Son</normalised><lb/>
+of God: and the Non sicut of them, the true<lb/>
+cause of the Non sicut both of Gods wrath,<lb/>
+and of his <normalised orig="sorowfull" auto="true">sorrowful</normalised> sufferings.<lb/>
+Which <normalised orig="bringeth" auto="true">brings</normalised> home this our text to<lb/>
+<normalised orig="vs" auto="true">us</normalised>, <normalised orig="euen" auto="true">even</normalised> into our <normalised orig="owne" auto="true">own</normalised> <normalised orig="bosomes" auto="true">bosoms</normalised>; and <normalised orig="applieth" auto="true">applies</normalised><lb/>
+it most effectually, to <normalised orig="mee" auto="true">me</normalised> that <normalised orig="speake" auto="true">speak</normalised>,<lb/>
+and to you that <normalised orig="heare" auto="true">hear</normalised>, to <normalised orig="euery" auto="true">every</normalised> one of <normalised orig="vs" auto="true">us</normalised>;<lb/>
+and that with the Prophet Nathans application,<lb/>
+                  <quote type="biblical" ana="2 Sam 12.7">
+                     <lb/>
+                     Tu es homo, Thou art the Man</quote>, <normalised orig="euen" auto="true">even</normalised><lb/>
+thou, for whom God in his fierce wrath<lb/>
+thus afflicted him. <normalised orig="Sinne" auto="true">Sin</normalised> then was the cause<lb/>
+on our part, why we, or some other for <normalised orig="vs" auto="true">us</normalised>.<lb/>
+But yet, what was the cause why <normalised orig="Hee" auto="true">He</normalised> on<lb/>
+his part? what was that that <normalised orig="mooued" auto="true">moved</normalised> him<lb/>
+thus to become our <normalised orig="Suretie" auto="true">Surety</normalised>, and to take <normalised orig="vpon" auto="true">upon</normalised><lb/>
+him our debt and danger? that <normalised orig="mooued" auto="true">moved</normalised><lb/>
+him thus to lay <normalised orig="downe" auto="true">down</normalised> his <normalised orig="Soule" auto="true">Soul</normalised>, a sacrifice<lb/>
+for our <normalised orig="sinne" auto="true">sin</normalised>? Sure, Oblatus est quia voluit,<lb/>
+saith <normalised orig="Esay" auto="true">Essay</normalised> <normalised orig="againe" auto="true">again</normalised>, Offered he was for no other<lb/>
+cause, but because he would: For <normalised orig="vnlesse" auto="true">unless</normalised><lb/>
+he would, he needed not: Needed<lb/>
+not, for any <normalised orig="necessitie" auto="true">necessity</normalised> of <normalised orig="Iustice" auto="true">Justice</normalised>; for no<lb/>
+<normalised orig="Lambe" auto="true">Lamb</normalised> was <normalised orig="euer" auto="true">ever</normalised> more innocent: not for any<lb/>
+<normalised orig="necessitie" auto="true">necessity</normalised> of constraint; For <normalised orig="twelue" auto="true">twelve</normalised> legions<lb/>
+                  <pb n="18"/>
+                  <lb/>
+of Angels were ready at his command:<lb/>
+But, because he would.<lb/>
+And why would <normalised orig="hee" auto="true">he</normalised>? No reason can<lb/>
+be <normalised orig="giuen" auto="true">given</normalised>, but, because <normalised orig="hee" auto="true">he</normalised> Regarded <normalised orig="vs" auto="true">us</normalised>:<lb/>
+(<normalised orig="Marke" auto="true">Mark</normalised> that reason.) And what were we?<lb/>
+Verily, <normalised orig="vtterly" auto="true">utterly</normalised> <normalised orig="vnworthy" auto="true">unworthy</normalised> <normalised orig="euen" auto="true">even</normalised> his least regard;<lb/>
+not worth the taking <normalised orig="vp" auto="true">up</normalised>, not worth<lb/>
+the looking after: <normalised orig="Cum" auto="true">Come</normalised> inimici essemus, (saith<lb/>
+the Apostle) we were his enemies when he<lb/>
+did it; without all desert before, and without<lb/>
+all regard after he had done and suffered<lb/>
+all this for <normalised orig="vs" auto="true">us</normalised>: and yet <normalised orig="hee" auto="true">he</normalised> would Regard<lb/>
+<normalised orig="vs" auto="true">us</normalised>, that so little regard him. For<lb/>
+when he saw <normalised orig="vs" auto="true">us</normalised> (a sort of <normalised orig="forlorne" auto="true">forlorn</normalised> sinners)<lb/>
+                  Non priùs natos, quàm damnatos, Damned<lb/>
+as fast as borne, as being by nature children<lb/>
+of wrath, and yet still heaping <normalised orig="vp" auto="true">up</normalised> wrath against<lb/>
+the day of wrath, by the <normalised orig="errours" auto="true">errors</normalised> of<lb/>
+our life, till the time of our passing hence:<lb/>
+and then the fierce wrath of God, ready to<lb/>
+<normalised orig="ouerwhelme" auto="true">overwhelm</normalised> <normalised orig="vs" auto="true">us</normalised>, and to make <normalised orig="vs" auto="true">us</normalised> endure the<lb/>
+<normalised orig="terrour" auto="true">terror</normalised> &amp; torments of a <normalised orig="neuer" auto="true">never</normalised> dying death,<lb/>
+(another Non sicut yet) When (I say) he<lb/>
+saw <normalised orig="vs" auto="true">us</normalised> in this case, <normalised orig="hee" auto="true">he</normalised> was <normalised orig="mooued" auto="true">moved</normalised> with<lb/>
+compassion <normalised orig="ouer" auto="true">over</normalised> <normalised orig="vs" auto="true">us</normalised>, and <normalised orig="vndertooke" auto="true">undertook</normalised> all this<lb/>
+                  <pb n="19"/>
+                  <lb/>
+for <normalised orig="vs" auto="true">us</normalised>. <normalised orig="Euen" auto="true">Even</normalised> then, in his <normalised orig="loue" auto="true">love</normalised> he regarded<lb/>
+<normalised orig="vs" auto="true">us</normalised>, and so regarded <normalised orig="vs" auto="true">us</normalised>, that he regarded not<lb/>
+<normalised orig="himselfe" auto="true">himself</normalised>, to regard <normalised orig="vs" auto="true">us</normalised>.<lb/>
+Bernard <normalised orig="sayth" auto="true">saith</normalised> most <normalised orig="truely" auto="true">truly</normalised>, Dilexisti me<lb/>
+Domine, magis quàm te, quando mori voluisti<lb/>
+pro me: In <normalised orig="suffring" auto="true">suffering</normalised> all this for <normalised orig="vs" auto="true">us</normalised>, thou <normalised orig="shewedst" auto="true">showed</normalised><lb/>
+(Lord) that wee were more <normalised orig="deare" auto="true">dear</normalised> to<lb/>
+thee, that thou <normalised orig="regardest" auto="true">regard</normalised> <normalised orig="vs" auto="true">us</normalised> more, then<lb/>
+thine <normalised orig="owne" auto="true">own</normalised> <normalised orig="selfe" auto="true">self</normalised>: And shall this Regard<lb/>
+<normalised orig="finde" auto="true">find</normalised> no regard at our hands?<lb/>
+It was <normalised orig="Sinne" auto="true">Sin</normalised> then, and the <normalised orig="hainousnesse" auto="false">heinousness</normalised><lb/>
+of <normalised orig="Sinne" auto="true">Sin</normalised> in <normalised orig="vs" auto="true">us</normalised>, that <normalised orig="prouoked" auto="true">provoked</normalised> wrath and<lb/>
+the <normalised orig="fiercenesse" auto="true">fierceness</normalised> of his wrath in God: It was<lb/>
+<normalised orig="loue" auto="true">love</normalised>, and the <normalised orig="greatnes" auto="true">greatness</normalised> of his <normalised orig="loue" auto="true">love</normalised> in Christ,<lb/>
+that caused him to suffer these <normalised orig="Sorrowes" auto="true">Sorrows</normalised>,<lb/>
+and the <normalised orig="grieuousnes" auto="true">grievousness</normalised> of these <normalised orig="Sorrowes" auto="true">Sorrows</normalised>, and<lb/>
+all for our sakes.<lb/>
+And indeed, but <normalised orig="onely" auto="true">only</normalised> to <normalised orig="testifie" auto="true">testify</normalised> the Non<lb/>
+sicut of this his <normalised orig="Loue" auto="true">Love</normalised>, all this needed not,<lb/>
+that was done to him. One, any one, <normalised orig="euen" auto="true">even</normalised><lb/>
+the very least of all the <normalised orig="paines" auto="true">pains</normalised> <normalised orig="hee" auto="true">he</normalised> endured,<lb/>
+had <normalised orig="bene" auto="true">been</normalised> <normalised orig="ynough" auto="true">enough</normalised>; <normalised orig="ynough" auto="true">enough</normalised>, in respect<lb/>
+of the Meus: <normalised orig="ynough" auto="true">enough</normalised>, in respect of the Non<lb/>
+sicut of his Person. For that which <normalised orig="setteth" auto="true">sets</normalised><lb/>
+the high price on this Sacrifice, is this; That<lb/>
+                  <lb/>
+                  <fw type="pageNum">E</fw>
+                  <pb n="20"/>
+                  <lb/>
+he which <normalised orig="offereth" auto="true">offers</normalised> it <normalised orig="vnto" auto="true">unto</normalised> God, is God. But,<lb/>
+if little had <normalised orig="bene" auto="true">been</normalised> suffered, little would the<lb/>
+<normalised orig="Loue" auto="true">Love</normalised> <normalised orig="haue" auto="true">have</normalised> <normalised orig="bene" auto="true">been</normalised> thought, that suffered so<lb/>
+little; and as little Regard would <normalised orig="haue" auto="true">have</normalised> <normalised orig="bene" auto="true">been</normalised><lb/>
+had of it. To awake our Regard then, or to<lb/>
+<normalised orig="leaue" auto="true">leave</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="excuselesse" auto="false">excuseless</normalised>, if we continue <normalised orig="regardlesse" auto="true">regardless</normalised>;<lb/>
+all this he bare for <normalised orig="vs" auto="true">us</normalised>: that he might<lb/>
+as <normalised orig="truely" auto="true">truly</normalised> make a Case of Si fuerit Amor, sicut<lb/>
+Amor meus, as he did before, of <quote type="biblical" ana="Lam 1.12">
+                     <lb/>
+                     Si fuerit<lb/>
+Dolor, sicut Dolor meus.
+                     <lb/>
+                  </quote> We say we will Regard<lb/>
+<normalised orig="Loue" auto="true">Love</normalised>; if we will, here it is to Regard.<lb/>
+So <normalised orig="haue" auto="true">have</normalised> we the Causes all three: Wrath<lb/>
+in God: <normalised orig="Sinne" auto="true">Sin</normalised> in our <normalised orig="selues" auto="true">selves</normalised>: <normalised orig="Loue" auto="true">Love</normalised> in Him.<lb/>
+Yet <normalised orig="haue" auto="true">have</normalised> we not all we should. For, what<lb/>
+of all this? What good? Cui bono?  That,<lb/>
+that is it indeed that we will Regard, if any<lb/>
+thing: as being matter of Benefit, the <normalised orig="onely" auto="true">only</normalised><lb/>
+thing in a manner the world <normalised orig="regardeth" auto="true">regards</normalised>,<lb/>
+which <normalised orig="bringeth" auto="true">brings</normalised> <normalised orig="vs" auto="true">us</normalised> about to the very first<lb/>
+words <normalised orig="againe" auto="true">again</normalised>. For the very first words<lb/>
+which we <normalised orig="reade" auto="true">read</normalised>, <quote type="biblical" ana="Lam 1.12"><normalised orig="Haue" auto="true">Have</normalised> <normalised orig="ye" auto="true">you</normalised> no regard?</quote> are in<lb/>
+the <normalised orig="Originall" auto="true">Original</normalised>, NoValue lo alechem, which<lb/>
+the <normalised orig="Seuentie" auto="true">Seventy</normalised> <normalised orig="turne" auto="true">turn</normalised> (word for word) NoValue
+                  <lb/>
+and the <normalised orig="Latine" auto="true">Latin</normalised> likewise, <normalised orig="Nonne" auto="true">Nun</normalised> ad vos<lb/>
+pertinet? Perteines it not to you, that you<lb/>
+                  <pb n="21"/>
+                  <lb/>
+Regard it no better? For these two, <normalised orig="Perteining" auto="true">Pertaining</normalised>,<lb/>
+and Regarding, are folded one in<lb/>
+another, and <normalised orig="goe" auto="true">go</normalised> together so commonly,<lb/>
+as one is taken often for the other. Then<lb/>
+to be sure to bring <normalised orig="vs" auto="true">us</normalised> to Regard, he <normalised orig="vrgeth" auto="true">urges</normalised><lb/>
+this, Perteines not all this to you? Is it not for<lb/>
+your good? Is not the benefit yours? Matters<lb/>
+of <normalised orig="benefite" auto="true">benefit</normalised>, they <normalised orig="perteine" auto="true">pertain</normalised> to you, and<lb/>
+without them, <normalised orig="Loue" auto="true">Love</normalised>, and all the rest, may<lb/>
+<normalised orig="pertaine" auto="true">pertain</normalised> to whom they will.<lb/>
+Consider then, the inestimable <normalised orig="benefite" auto="true">benefit</normalised><lb/>
+that <normalised orig="groweth" auto="true">grows</normalised> <normalised orig="vnto" auto="true">unto</normalised> you, from this incomparable<lb/>
+<normalised orig="Loue" auto="true">Love</normalised>. It is not impertinent this; <normalised orig="Euen" auto="true">Even</normalised><lb/>
+this; That to <normalised orig="vs" auto="true">us</normalised> hereby, all is turned<lb/>
+about <normalised orig="cleane" auto="true">clean</normalised> contrary: That by his Stripes,<lb/>
+we are healed: by his Sweat, we refreshed:<lb/>
+By his forsaking, wee <normalised orig="receiued" auto="true">received</normalised> to Grace:<lb/>
+That this day, to Him the day of the <normalised orig="fiercenesse" auto="true">fierceness</normalised><lb/>
+of Gods wrath: is to <normalised orig="vs" auto="true">us</normalised> the Day of<lb/>
+the <normalised orig="fulnesse" auto="true">fullness</normalised> of Gods <normalised orig="fauour" auto="true">favour</normalised>, (as the Apostle<lb/>
+<normalised orig="calleth" auto="true">calls</normalised> it) A day of <normalised orig="Saluation" auto="true">Salvation</normalised>. In respect<lb/>
+of that <normalised orig="hee" auto="true">he</normalised> suffered, (I <normalised orig="denie" auto="true">deny</normalised> not) an <normalised orig="euill" auto="true">evil</normalised><lb/>
+day: a day of <normalised orig="heauinesse" auto="true">heaviness</normalised>: But, in respect of<lb/>
+that, which He, by it <normalised orig="hath" auto="true">has</normalised> obtained for <normalised orig="vs" auto="true">us</normalised>:<lb/>
+It is, (as we <normalised orig="truely" auto="true">truly</normalised> call it,) A good Day, a<lb/>
+                  <lb/>
+                  <fw type="pageNum">E2</fw>
+                  <pb n="22"/>
+                  <lb/>
+Day of <normalised orig="Ioy" auto="true">Joy</normalised> and <normalised orig="Iubilee" auto="true">Jubilee</normalised>. For it <normalised orig="doeth" auto="true">doth</normalised> not<lb/>
+<normalised orig="onely" auto="true">only</normalised> <normalised orig="ridde" auto="true">rid</normalised> <normalised orig="vs" auto="true">us</normalised> of that wrath, which pertained<lb/>
+to <normalised orig="vs" auto="true">us</normalised> for our <normalised orig="Sinnes" auto="true">Sins</normalised>: but, further it <normalised orig="maketh" auto="true">makes</normalised><lb/>
+that <normalised orig="pertaine" auto="true">pertain</normalised> to <normalised orig="vs" auto="true">us</normalised>, whereto we had no<lb/>
+<normalised orig="maner" auto="true">manner</normalised> of right at all.<lb/>
+For, not <normalised orig="onely" auto="true">only</normalised> by his death, as by the<lb/>
+death of our sacrifice; by the blood of his<lb/>
+<normalised orig="Crosse" auto="true">Cross</normalised>, as by the blood of the Paschal<lb/>
+<normalised orig="Lambe" auto="true">Lamb</normalised>, the Destroyer <normalised orig="passeth" auto="true">passes</normalised> <normalised orig="ouer" auto="true">over</normalised> <normalised orig="vs" auto="true">us</normalised>, and<lb/>
+we shall not perish: But also by his death,<lb/>
+as by the death of our High Priest (for <normalised orig="hee" auto="true">he</normalised><lb/>
+is Priest and Sacrifice both) we are restored<lb/>
+from our exile, <normalised orig="euen" auto="true">even</normalised> to our former forfeited<lb/>
+estate in the <normalised orig="lande" auto="true">land</normalised> of Promise. Or rather<lb/>
+(as the Apostle <normalised orig="sayeth" auto="true">says</normalised>) Non sicut delictum,<lb/>
+sic donum: Not to the same estate,<lb/>
+but to one nothing like it: (that is) One<lb/>
+<normalised orig="farre" auto="true">far</normalised> better, then the estate our <normalised orig="sinnes" auto="true">sins</normalised> bereft<lb/>
+<normalised orig="vs" auto="true">us</normalised>: For they <normalised orig="depriued" auto="true">deprived</normalised> <normalised orig="vs" auto="true">us</normalised> of Paradise, a place<lb/>
+on earth: but by the purchase of his Blood,<lb/>
+wee are entitled to a <normalised orig="farre" auto="true">far</normalised> higher, <normalised orig="euen" auto="true">even</normalised> the<lb/>
+kingdom of <normalised orig="Heauen" auto="true">Heaven</normalised>: &amp; his blood, nor <normalised orig="onely" auto="true">only</normalised><lb/>
+the blood of Remission to <normalised orig="acquite" auto="true">acquit</normalised> <normalised orig="vs" auto="true">us</normalised> of<lb/>
+our <normalised orig="sinnes" auto="true">sins</normalised>; but the blood of the Testament<lb/>
+too, to bequeath <normalised orig="vs" auto="true">us</normalised>, and <normalised orig="giue" auto="true">give</normalised> <normalised orig="vs" auto="true">us</normalised> estate, in<lb/>
+                  <pb n="23"/>
+                  <lb/>
+that <normalised orig="heauenly" auto="true">heavenly</normalised> inheritance.<lb/>
+Now <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> else, this (I am sure) is<lb/>
+a Non sicut: as that which the eye, by all it<lb/>
+can see; the <normalised orig="eare" auto="true">ear</normalised>, by all it can <normalised orig="heare" auto="true">hear</normalised>; the<lb/>
+heart, by all it can <normalised orig="conceiue" auto="true">conceive</normalised>, cannot <normalised orig="patterne" auto="true">pattern</normalised><lb/>
+it, or set the like by it. <normalised orig="Pertaines" auto="true">Pertains</normalised> not this <normalised orig="vnto" auto="true">unto</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised> neither? Is not this worth the regard?<lb/>
+Sure if any thing be worthy the regard, this<lb/>
+is most worthy of our very worthiest and<lb/>
+best Regard.<lb/>
+Thus <normalised orig="haue" auto="true">have</normalised> we considered and <normalised orig="seene" auto="true">seen</normalised>, not<lb/>
+so much as in this sight we might or should,<lb/>
+but as much as the time will <normalised orig="giue" auto="true">give</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="leaue" auto="true">leave</normalised>.<lb/>
+And now, lay all these before you, (<normalised orig="euery" auto="true">every</normalised><lb/>
+one of them a Non sicut of it self) the <normalised orig="paines" auto="true">pains</normalised><lb/>
+of his Body, esteemed by Pilates Ecce; the<lb/>
+<normalised orig="sorrowes" auto="true">sorrows</normalised> of his <normalised orig="Soule" auto="true">Soul</normalised>, by his <normalised orig="sweate" auto="true">sweat</normalised> in the<lb/>
+Garden; the <normalised orig="comfortlesse" auto="true">comfortless</normalised> estate of his <normalised orig="Sorrowes" auto="true">Sorrows</normalised>,<lb/>
+by his <normalised orig="crie" auto="true">cry</normalised> on the <normalised orig="Crosse" auto="true">Cross</normalised>: And with<lb/>
+these, his Person, as being the <normalised orig="Sonne" auto="true">Son</normalised> of the<lb/>
+great and <normalised orig="eternall" auto="true">eternal</normalised> God. Then <normalised orig="ioyne" auto="true">join</normalised> to<lb/>
+these, the Cause: In God, his fierce wrath:<lb/>
+In <normalised orig="vs" auto="true">us</normalised>, our heinous <normalised orig="sinnes" auto="true">sins</normalised> <normalised orig="deseruing" auto="true">deserving</normalised> it: In<lb/>
+him, his exceeding great <normalised orig="Loue" auto="true">Love</normalised>, both suffering<lb/>
+that for <normalised orig="vs" auto="true">us</normalised> which we had <normalised orig="deserued" auto="true">deserved</normalised>; and<lb/>
+                  <lb/>
+                  <fw type="pageNum">E3</fw>
+                  <pb n="24"/>
+                  <lb/>
+procuring for <normalised orig="vs" auto="true">us</normalised>, that wee could <normalised orig="neuer" auto="true">never</normalised> <normalised orig="deserue" auto="true">deserve</normalised>:<lb/>
+making that to <normalised orig="appertaine" auto="true">appertain</normalised> to <normalised orig="himselfe" auto="true">himself</normalised>,<lb/>
+which of right pertained to <normalised orig="vs" auto="true">us</normalised>; and<lb/>
+making that <normalised orig="pertaine" auto="true">pertain</normalised> to <normalised orig="vs" auto="true">us</normalised>, which pertained<lb/>
+to him <normalised orig="onely" auto="true">only</normalised>, and not to <normalised orig="vs" auto="true">us</normalised> at all, but by his<lb/>
+<normalised orig="meanes" auto="true">means</normalised> alone. And after their view in <normalised orig="seuerall" auto="true">several</normalised>,<lb/>
+lay them all together, so many Non<lb/>
+sicuts into one, and tell me, if his Complaint<lb/>
+<normalised orig="bee" auto="true">be</normalised> not <normalised orig="Iust" auto="true">Just</normalised>, and his Request most Reasonable.<lb/>
+Yes sure, his Complaint is <normalised orig="Iust" auto="true">Just</normalised>, <normalised orig="Haue" auto="true">Have</normalised> <normalised orig="ye" auto="true">you</normalised><lb/>
+no Regard? None? and yet <normalised orig="neuer" auto="true">never</normalised> the like?<lb/>
+None? and it <normalised orig="pertaines" auto="true">pertains</normalised> <normalised orig="vnto" auto="true">unto</normalised> you? No Regard? <lb/>
+ /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

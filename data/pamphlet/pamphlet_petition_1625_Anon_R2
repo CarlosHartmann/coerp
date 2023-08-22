@@ -1,0 +1,1341 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Humble petition</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="Anon">Anonymous</author>
+               <title type="main">An humble petition to the Kings most excellent <normalised orig="Maiestie" auto="true">Majesty</normalised>.</title>
+               <title type="short">Humble petition</title>
+               <date when="1625">1625</date>
+               <date type="this_edition" when="1625">1625</date>
+               <idno type="STC">14425</idno>
+               <note type="genre" subtype="pamphlet_petition">petition pamphlet</note>
+               <note type="sample" target="#Anon_1625_pamphlet_petition_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                     <item>
+                        <term type="due_to">damage</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="Anon_1625_pamphlet_petition_1">
+            <div>
+               <head>TO THE HIGH AND <lb/>
+<normalised orig="MIGHTIE" auto="true">MIGHTY</normalised> PRINCE, JAMES, <lb/>
+BY THE GRACE OF GOD, OF <lb/>
+Great <normalised orig="Brittaine" auto="true">Britain</normalised>, France, and Ireland, King; Defender <lb/>
+of the Faith; and in all causes, and <normalised orig="ouer" auto="true">over</normalised> all persons, <lb/>
+as well <normalised orig="Ecclesiasticall" auto="true">Ecclesiastical</normalised> as <normalised orig="Ciuill" auto="true">Civil</normalised>, within his <normalised orig="Maiesties" auto="true">Majesties</normalised> <lb/>
+<normalised orig="Realmes" auto="true">Realms</normalised> and Dominions, next and <normalised orig="immediatly" auto="true">immediately</normalised> <lb/>
+<normalised orig="vnder" auto="true">under</normalised> God, and according to the <lb/>
+Word of God, <normalised orig="Supreame" auto="true">Supreme</normalised><lb/>
+<normalised orig="Gouernour" auto="true">Governor</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+MOst Noble King, Most Gracious <lb/>
+<normalised orig="Soueraigne" auto="true">Sovereign</normalised>, as Daniel said to Darius, <lb/>
+so say I to your high <normalised orig="Maiestie" auto="true">Majesty</normalised>, <quote type="biblical" ana="Dan 6.21">O King <lb/>
+<normalised orig="liue" auto="true">live</normalised> for <normalised orig="euer" auto="true">ever</normalised></quote>. And this wishing, <quote type="biblical" ana="Rom 9.1">I <lb/>
+say the truth in Christ, I <normalised orig="lye" auto="true">lie</normalised> not</quote>: My <lb/>
+hearts desire, and prayer to God for <lb/>
+your <normalised orig="Maiestie" auto="true">Majesty</normalised> being not <normalised orig="onely" auto="true">only</normalised> that you may be <lb/>
+<normalised orig="euerlastingly" auto="true">everlastingly</normalised> <normalised orig="saued" auto="true">saved</normalised> in the World to come, but that <lb/>
+also in this World, and in these your Earthly <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>, <lb/>
+with the assurance of the <normalised orig="Kingdome" auto="true">Kingdom</normalised> of <lb/>
+<normalised orig="Glorie" auto="true">Glory</normalised>, you may be <normalised orig="preuented" auto="true">prevented</normalised> with the blessings of <lb/>
+<normalised orig="goodnesse" auto="true">goodness</normalised> belonging to this Life, and that the <lb/>
+<normalised orig="Crowne" auto="true">Crown</normalised> of pure Gold, that God <normalised orig="hath" auto="true">has</normalised> set <normalised orig="vpon" auto="true">upon</normalised> your <lb/>
+<normalised orig="Royall" auto="true">Royal</normalised> Head, may there <normalised orig="remaine" auto="true">remain</normalised> accompanied with <lb/>
+all Peace, <normalised orig="Prosperitie" auto="true">Prosperity</normalised>, and Honour, meet for a Prince <lb/>
+of so great <normalised orig="Maiestie" auto="true">Majesty</normalised>, <normalised orig="maugre" auto="true">meagre</normalised> the Head of all your <lb/>
+Enemies, Papists, and other <normalised orig="whatsoeuer" auto="true">whatsoever</normalised>. And now <lb/>
+O Sacred King, as Paul <normalised orig="craued" auto="true">craved</normalised> King Agrippa his <lb/>
+patience, for hearing of him, because he knew <lb/>
+him to be expert in all the <normalised orig="customes" auto="true">customs</normalised> of the <normalised orig="Iewes" auto="true">Jews</normalised>, <lb/>
+so <normalised orig="doe" auto="true">do</normalised> I most humbly <normalised orig="craue" auto="true">crave</normalised> your Princely grace, <lb/>
+and <normalised orig="pacience" auto="true">patience</normalised>, for me to write a few Words <normalised orig="vnto" auto="true">unto</normalised> <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="2">A2</fw>
+                  <pb n="1"/>
+                  <lb/>
+your <normalised orig="Highnesse" auto="true">Highness</normalised>, because we <normalised orig="doe" auto="true">do</normalised> all know you to be <lb/>
+much more expert, in all <normalised orig="customes" auto="true">customs</normalised> and matters of <lb/>
+the Christians, then <normalised orig="euer" auto="true">ever</normalised> was Agrippa in the customs <lb/>
+of the <normalised orig="Iewes" auto="true">Jews</normalised>. <lb/>
+2 Whereas therefore by that <normalised orig="priuiledge" auto="true">privilege</normalised> that all <lb/>
+your <normalised orig="Subiects" auto="true">Subjects</normalised> <normalised orig="doe" auto="true">do</normalised> <normalised orig="preferre" auto="true">prefer</normalised> their Suits, to your High <lb/>
+Court of Parliament for this your Kingdom of England, <lb/>
+I <normalised orig="haue" auto="true">have</normalised> presumed to direct certain <normalised orig="Supplicatorie" auto="true">Supplicatory</normalised> <lb/>
+<normalised orig="Aduertisements" auto="false">Advertisements</normalised> thereunto, in them humbly <normalised orig="crauing" auto="true">craving</normalised> <lb/>
+their Honourable and Christian mediation to your <lb/>
+Sacred <normalised orig="Maiestie" auto="true">Majesty</normalised> for <normalised orig="diuers" auto="true">divers</normalised> things concerning Gods <lb/>
+<normalised orig="Glorie" auto="true">Glory</normalised>, the Peace and Honour of your <normalised orig="Maiestie" auto="true">Majesty</normalised>, <lb/>
+and of your Princely <normalised orig="posteritie" auto="true">posterity</normalised>, and also the good of <lb/>
+this your whole <normalised orig="Kingdome" auto="true">Kingdom</normalised>. I <normalised orig="doe" auto="true">do</normalised> most humbly beseech <lb/>
+your <normalised orig="Maiestie" auto="true">Majesty</normalised> to take no offence at my said so <lb/>
+doing: For as the two Tribes of Reuben and Gad, and <lb/>
+the <normalised orig="halfe" auto="true">half</normalised> tribe of Manasses, to purge <normalised orig="themselues" auto="true">themselves</normalised> from <lb/>
+all <normalised orig="suspition" auto="true">suspicion</normalised> of rebellion <normalised orig="conceiued" auto="true">conceived</normalised> against them by <lb/>
+the rest of the Israelites, for their making an Altar <lb/>
+beyond <normalised orig="Iordan" auto="false">Jordan</normalised>, <normalised orig="vsed" auto="true">used</normalised> a most <normalised orig="graue" auto="true">grave</normalised> and religious <lb/>
+protestation, saying, <quote type="biblical" ana="Josh 22.22">The Lord God of Gods he <normalised orig="knoweth" auto="true">knows</normalised></quote>
+                  <lb/>
+&amp; c. and may it also please your <normalised orig="Maiestie" auto="true">Majesty</normalised> to <lb/>
+know, that I <normalised orig="haue" auto="true">have</normalised> not written any thing to your <lb/>
+said High Court, of any contempt or neglect of <lb/>
+your <normalised orig="Maiestie" auto="true">Majesty</normalised>, but rather with the more <normalised orig="awfull" auto="true">awful</normalised> regard <lb/>
+thereof. For being my <normalised orig="selfe" auto="true">self</normalised> much too base and <lb/>
+<normalised orig="altogither" auto="true">altogether</normalised> <normalised orig="vnworthy" auto="true">unworthy</normalised> to <normalised orig="craue" auto="true">crave</normalised> so great things of <lb/>
+your <normalised orig="Maiestie" auto="true">Majesty</normalised> as follow in these <normalised orig="Aduertisements" auto="false">Advertisements</normalised>, I <lb/>
+therefore thought good to <normalised orig="craue" auto="true">crave</normalised> their help for mediation <lb/>
+in them, who can much better plead such <lb/>
+matters with a Prince of such <normalised orig="Maiestie" auto="true">Majesty</normalised>, and whom I <lb/>
+cannot but assure my <normalised orig="selfe" auto="true">self</normalised>, your <normalised orig="Maiestie" auto="true">Majesty</normalised> will much <lb/>
+more respect. <lb/>
+                  <pb n="2"/>
+                  <lb/>
+3 <normalised orig="Againe" auto="true">Again</normalised>, I may truly say, and my labours following <lb/>
+will <normalised orig="testifie" auto="true">testify</normalised> with me, that the Lord <normalised orig="hath" auto="true">has</normalised> not <lb/>
+<normalised orig="giuen" auto="true">given</normalised> me the tongue of the Learned (as he had to <lb/>
+Isaiah) to <normalised orig="speake" auto="true">speak</normalised> a word in season: and that (as Moses <lb/>
+<normalised orig="spake" auto="true">spoke</normalised> of <normalised orig="himselfe" auto="true">himself</normalised>, as the Lords first calling of <lb/>
+him) I am not Eloquent, neither heretofore <normalised orig="haue" auto="true">have</normalised> <lb/>
+<normalised orig="beene" auto="true">been</normalised>, but as slow to <normalised orig="speake" auto="true">speak</normalised>, so rude also to write, <lb/>
+especially not being now acquainted with the <lb/>
+Court language of our time. In which respect I cannot <lb/>
+but acknowledge my <normalised orig="selfe" auto="true">self</normalised> as <normalised orig="vnfit" auto="true">unfit</normalised>, as <normalised orig="vnworthy" auto="true">unworthy</normalised> <lb/>
+to <normalised orig="deale" auto="true">deal</normalised> in so great matters, as afterwards I <lb/>
+<normalised orig="haue" auto="true">have</normalised> dealt in with them, that are much better able <lb/>
+to handle the same, then such a one as I am. Though <lb/>
+also I had <normalised orig="beene" auto="true">been</normalised> better able to manage such a matter <lb/>
+according to the <normalised orig="waight" auto="true">weight</normalised> of it, yet two being better <lb/>
+then one, in other <normalised orig="affaires" auto="true">affairs</normalised>, and a three-fold <normalised orig="Corde" auto="false">Cord</normalised>, <lb/>
+not being quickly broken, I was the bolder to <normalised orig="craue" auto="true">crave</normalised> <lb/>
+their <normalised orig="ayd" auto="true">aid</normalised> to your <normalised orig="Maiestie" auto="true">Majesty</normalised> herein: and that so much <lb/>
+the more in respect of their <normalised orig="qualitie" auto="true">quality</normalised>, as well as of <lb/>
+their number to whom I <normalised orig="haue" auto="true">have</normalised> petitioned. For as <lb/>
+your <normalised orig="Maiestie" auto="true">Majesty</normalised> is the Head of this your <normalised orig="Kingdome" auto="true">Kingdom</normalised>, so <lb/>
+your Nobles of the <normalised orig="vpper" auto="true">upper</normalised> House of Parliament, are <lb/>
+as it were the Shoulders and <normalised orig="Armes" auto="true">Arms</normalised>, and the <normalised orig="Gentrie" auto="true">Gentry</normalised> <lb/>
+of the <normalised orig="nether" auto="true">neither</normalised> House (as it were likewise) the Thighs <lb/>
+and <normalised orig="Legges" auto="true">Legs</normalised> thereof, and both the whole Body: As <lb/>
+the Body cannot be without the Head for <normalised orig="gouernement" auto="true">government</normalised> <lb/>
+thereof, so the Head cannot be without the <lb/>
+Body to support it: As one Member cannot say to <lb/>
+another, I <normalised orig="haue" auto="true">have</normalised> no need of thee; so, and much <normalised orig="lesse" auto="true">less</normalised> <lb/>
+can the Head and the Body so say to each other. In <lb/>
+respect therefore that the Head <normalised orig="hath" auto="true">has</normalised> need of the <lb/>
+Body, as well as the Body of the Head, I thought <lb/>
+that the Petition of the whole Body would be <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="4">A3</fw>
+                  <pb n="3"/>
+                  <lb/>
+more regarded by the Head, then the Petition of <lb/>
+one Member alone, though the said Petition concerned <lb/>
+the good both of the Head, and also of the <lb/>
+Body. <lb/>
+4 Finally, I feared the more to direct my said <normalised orig="Aduertisements" auto="false">Advertisements</normalised> <lb/>
+<normalised orig="immediatly" auto="true">immediately</normalised> to your <normalised orig="Maiestie" auto="true">Majesty</normalised>, because I <lb/>
+<normalised orig="haue" auto="true">have</normalised> learned how dangerous it is to <normalised orig="speake" auto="true">speak</normalised> or write <lb/>
+<normalised orig="euen" auto="true">even</normalised> to Religious Kings any thing that either may <lb/>
+be <normalised orig="distastfull" auto="true">distasteful</normalised> <normalised orig="vnto" auto="true">unto</normalised> them, or that <normalised orig="hath" auto="true">has</normalised> any <normalised orig="Aduersaries" auto="true">Adversaries</normalised> <lb/>
+about them, by the hard <normalised orig="successe" auto="true">success</normalised> of Hanani the <lb/>
+Prophet with Asa, for <normalised orig="deliuering" auto="true">delivering</normalised> nothing but that <lb/>
+which he had <normalised orig="receiued" auto="true">received</normalised> <normalised orig="immediatly" auto="true">immediately</normalised> from the Lord <lb/>
+<normalised orig="himselfe" auto="true">himself</normalised>. Notwithstanding, most <normalised orig="gratious" auto="true">gracious</normalised> Liege, I <lb/>
+<normalised orig="haue" auto="true">have</normalised> taken heart to write these few Lines, as it were <lb/>
+<normalised orig="Dedicatorie" auto="false">Dedicatory</normalised> to the <normalised orig="Aduertisements" auto="false">Advertisements</normalised> <normalised orig="themselues" auto="true">themselves</normalised>, by <lb/>
+them in all <normalised orig="humilitie" auto="true">humility</normalised> to <normalised orig="craue" auto="true">crave</normalised> your <normalised orig="Maiesties" auto="true">Majesties</normalised> vouchsafing <lb/>
+to <normalised orig="reade" auto="true">read</normalised> the said <normalised orig="Aduertisements" auto="false">Advertisements</normalised>, for the better <lb/>
+preparing you, the more <normalised orig="gratiously" auto="true">graciously</normalised> to accept the <lb/>
+mediation of your Parliament for the matter of <lb/>
+them: Least if you should <normalised orig="onely" auto="true">only</normalised> <normalised orig="heare" auto="true">hear</normalised> of the said <lb/>
+<normalised orig="Aduertisements" auto="false">Advertisements</normalised> by Information of some <normalised orig="Aduersaries" auto="true">Adversaries</normalised> <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> such matters, and should not <normalised orig="reade" auto="true">read</normalised> them <lb/>
+your <normalised orig="selfe" auto="true">self</normalised>, your <normalised orig="Maiesties" auto="true">Majesties</normalised> indignation should be the <lb/>
+greater against them, and the <normalised orig="Authour" auto="true">Author</normalised> of them. I <lb/>
+<normalised orig="haue" auto="true">have</normalised> also the more presumed <normalised orig="vpon" auto="true">upon</normalised> your <normalised orig="Maiesties" auto="true">Majesties</normalised> <lb/>
+grace by the reading of them, because of your grace <lb/>
+towards some (I <normalised orig="meane" auto="true">mean</normalised> Papists and Papists Friends) <lb/>
+for the better reclaiming of them, that being <normalised orig="Aduersaries" auto="true">Adversaries</normalised> <lb/>
+to God, and to his Gospel, cannot therefore <lb/>
+but be <normalised orig="Aduersaries" auto="true">Adversaries</normalised> to your <normalised orig="selfe" auto="true">self</normalised>, a Friend of God <lb/>
+and of his Gospel. I <normalised orig="haue" auto="true">have</normalised> likewise the more <normalised orig="beene" auto="true">been</normalised> <lb/>
+emboldened thus to <normalised orig="doe" auto="true">do</normalised>, because I may say to your <lb/>
+<normalised orig="Maiestie" auto="true">Majesty</normalised> as the Woman of Tekoah said <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Dauid" auto="true">David</normalised>, <lb/>
+                  <fw type="pageNum" n="5">4</fw>
+                  <pb n="4"/>
+                  <lb/>
+                  <quote type="biblical" ana="2 Sam 14.20">My Lord is wise, according to the <normalised orig="wisedome" auto="true">wisdom</normalised> of an Angel of <lb/>
+God, to <normalised orig="vnderstand" auto="true">understand</normalised> all things that are done in the Earth</quote>, or <lb/>
+in the Land.<lb/>
+5 For my better encouragement also, me <normalised orig="thinkes" auto="true">thinks</normalised> <lb/>
+I <normalised orig="heare" auto="true">hear</normalised> your <normalised orig="Maiestie" auto="true">Majesty</normalised> in some sort to <normalised orig="speake" auto="true">speak</normalised> to me, <lb/>
+and to any other petitioning in like matters, as <normalised orig="somtime" auto="true">sometime</normalised> <lb/>
+Ahashuerosh holding forth his Golden <normalised orig="Scepter" auto="true">Sceptre</normalised> <lb/>
+in his Hand, <normalised orig="spake" auto="true">spoke</normalised> to <normalised orig="Queene" auto="true">Queen</normalised> Ester, <normalised orig="euen" auto="true">even</normalised> then when <lb/>
+in opposition to his greatest <normalised orig="Fauourite" auto="true">Favourite</normalised> Haman, she <lb/>
+came to <normalised orig="begge" auto="true">beg</normalised> the life of her <normalised orig="selfe" auto="true">self</normalised>, and of her People: <lb/>
+What is thy request, and what is thy petition, <lb/>
+that it may be granted <normalised orig="vnto" auto="true">unto</normalised> thee? And hereof I <lb/>
+<normalised orig="haue" auto="true">have</normalised> yet the more hope, because the matters wherein, <lb/>
+in the <normalised orig="Supplicatorie" auto="true">Supplicatory</normalised> Treatise following, I <normalised orig="haue" auto="true">have</normalised> <lb/>
+<normalised orig="craued" auto="true">craved</normalised> the mediation of the Parliament to your <lb/>
+<normalised orig="Highnesse" auto="true">Highness</normalised>, <normalised orig="doe" auto="true">do</normalised> not <normalised orig="concerne" auto="true">concern</normalised> any Strangers in your <lb/>
+<normalised orig="Kingdome" auto="true">Kingdom</normalised> (such as the <normalised orig="Iewes" auto="true">Jews</normalised> were in the <normalised orig="Kingdomes" auto="true">Kingdoms</normalised> <lb/>
+and <normalised orig="Prouinces" auto="true">Provinces</normalised> of Ahashuerosh) but your <normalised orig="owne" auto="true">own</normalised> <lb/>
+<normalised orig="naturall" auto="true">natural</normalised> <normalised orig="Subiects" auto="true">Subjects</normalised>, <normalised orig="euen" auto="true">even</normalised> them of whom you may say <lb/>
+as <normalised orig="Dauid" auto="true">David</normalised> said, That they are your Brethren, your <lb/>
+Bones, and your Flesh: and not <normalised orig="onely" auto="true">only</normalised> their present <lb/>
+<normalised orig="Liues" auto="true">Lives</normalised> &amp; States, but also their <normalised orig="euerlasting" auto="true">everlasting</normalised> <normalised orig="Saluation" auto="true">Salvation</normalised>: <lb/>
+neither them only, but also your <normalised orig="Maiestie" auto="true">Majesty</normalised>, and your <lb/>
+<normalised orig="Royall" auto="true">Royal</normalised> <normalised orig="Posteritie" auto="true">Posterity</normalised>. <lb/>
+6 In consideration therefore of these things, I <lb/>
+<normalised orig="doe" auto="true">do</normalised> most humbly beseech your <normalised orig="Maiestie" auto="true">Majesty</normalised>, the more <lb/>
+seriously to consider all the particulars following, <lb/>
+and the <normalised orig="seuerall" auto="true">several</normalised> reasons of them: Your <normalised orig="Maiestie" auto="true">Majesty</normalised> is <lb/>
+styled to be the Defender of the Faith, and so <normalised orig="haue" auto="true">have</normalised> <lb/>
+long <normalised orig="shewed" auto="true">showed</normalised> your <normalised orig="selfe" auto="true">self</normalised> to be, both in your Kingdom <lb/>
+of Scotland, and also since your <normalised orig="aduancement" auto="true">advancement</normalised> to the <lb/>
+<normalised orig="Crowne" auto="true">Crown</normalised> and Diadems of these your <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>: <lb/>
+and that as by your <normalised orig="Gouernement" auto="true">Government</normalised>, so also by your <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="6">A4</fw>
+                  <pb n="5"/>
+                  <lb/>
+learned Writings, <normalised orig="euen" auto="true">even</normalised> to <normalised orig="Foraine" auto="true">Foreign</normalised> Princes, for the <lb/>
+exciting and <normalised orig="prouoking" auto="true">provoking</normalised> of them the better to <normalised orig="oppugne" auto="true">oppugn</normalised> <lb/>
+the Pope, the Antichrist, and Man of <normalised orig="Sinne" auto="true">Sin</normalised>, <lb/>
+and to <normalised orig="maintaine" auto="true">maintain</normalised> the Gospel within their <normalised orig="owne" auto="true">own</normalised> <lb/>
+Territories. As therefore you <normalised orig="haue" auto="true">have</normalised> hitherto thus <lb/>
+worthily defended the Faith, so also I beseech you <lb/>
+to <normalised orig="shew" auto="true">show</normalised> your <normalised orig="selfe" auto="true">self</normalised> the <normalised orig="Defendor" auto="true">Defender</normalised> of the <normalised orig="meanes" auto="true">means</normalised> of <lb/>
+Faith, the Gospel, and Preaching thereof, and of the <lb/>
+<normalised orig="Faithfull" auto="true">Faithful</normalised>, and of them that most sincerely Preach <lb/>
+and <normalised orig="professe" auto="true">profess</normalised> the same: such as for whose <choice ana="print-error">
+                     <sic>enlargemen</sic>
+                     <corr>enlargement</corr>
+                  </choice>
+                  <lb/>
+and encouragement in the <normalised orig="Aduertisements" auto="false">Advertisements</normalised> to <lb/>
+the Parliament, I <normalised orig="haue" auto="true">have</normalised> <normalised orig="craued" auto="true">craved</normalised> their mediation to your <lb/>
+<normalised orig="Maiestie" auto="true">Majesty</normalised>. As <normalised orig="vnder" auto="true">under</normalised> the Old Testament, the <normalised orig="Arke" auto="true">Arc</normalised> of <lb/>
+God was the <normalised orig="Glorie" auto="true">Glory</normalised> of Israel: so now <normalised orig="vnder" auto="true">under</normalised> the <lb/>
+New Testament, the Gospel is the <normalised orig="Glorie" auto="true">Glory</normalised> of <normalised orig="euerie" auto="true">every</normalised> <lb/>
+<normalised orig="Kingdome" auto="true">Kingdom</normalised>, where it is established. As then the Prophets <lb/>
+were the Charets of Israel, and the Horse-men <lb/>
+thereof: so now be the Preachers of the Gospel, <lb/>
+<normalised orig="wheresoeuer" auto="true">wheresoever</normalised> the Gospel is Preached, and <normalised orig="hath" auto="true">has</normalised> free <lb/>
+passage.<lb/>
+7 On the <normalised orig="contrarie" auto="true">contrary</normalised>, I humbly beseech your <normalised orig="Maiestie" auto="true">Majesty</normalised> <lb/>
+likewise to oppose your <normalised orig="selfe" auto="true">self</normalised> to the Opposites <lb/>
+both of the Gospel, &amp; also of the sincere Preachers, <lb/>
+and Professors thereof: according to the Kingly president <lb/>
+of the Kingly Prophet <normalised orig="Dauid" auto="true">David</normalised>, who not <normalised orig="onely" auto="true">only</normalised> <lb/>
+propounded to <normalised orig="himselfe" auto="true">himself</normalised> the singing of <normalised orig="Mercie" auto="true">Mercy</normalised> and <lb/>
+<normalised orig="Iudgement" auto="true">Judgment</normalised>, and  the <normalised orig="behauing" auto="true">behaving</normalised> <normalised orig="himselfe" auto="true">himself</normalised> (touching his <lb/>
+own Person) wisely in the perfect way, &amp;c. but also <lb/>
+did set his Eyes <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="Faithfull" auto="true">Faithful</normalised> in the Land, &amp;c. <lb/>
+and likewise did vow to bend <normalised orig="himselfe" auto="true">himself</normalised> against the <lb/>
+<normalised orig="Haughtie" auto="true">Haughty</normalised>, Proud, <normalised orig="Froward" auto="true">Foreward</normalised>, Wicked, <normalised orig="Deceitfull" auto="true">Deceitful</normalised>, and <lb/>
+<normalised orig="Lyars" auto="true">Liars</normalised>, <normalised orig="vntill" auto="true">until</normalised> he had destroyed and cut off all the <lb/>
+wicked Doers from the <normalised orig="Citie" auto="true">City</normalised> of the Lord. For the <lb/>
+                  <pb n="6"/>
+                  <lb/>
+said Kingly Prophet did not write the same so much <lb/>
+for a commendation of <normalised orig="himselfe" auto="true">himself</normalised>, as for a President <lb/>
+and direction to all other Princes to <normalised orig="doe" auto="true">do</normalised> the like.<lb/>
+As all <normalised orig="vngodlinesse" auto="true">ungodliness</normalised>, and <normalised orig="vngodly" auto="true">ungodly</normalised> men are opposite <lb/>
+to the Gospel, and sincere Preachers and Professors <lb/>
+thereof, so especially and most of all are <normalised orig="Poperie" auto="true">Popery</normalised> and <lb/>
+all Papists, both <normalised orig="Iesuites" auto="true">Jesuits</normalised>, and other <normalised orig="Romish" auto="true">Roman</normalised> Priests, <lb/>
+either openly or secretly spreading, and teaching <normalised orig="Poperie" auto="true">Popery</normalised>, <lb/>
+and also all other <normalised orig="Masse-mungers" auto="false">mass-mongers</normalised>, <normalised orig="Masse-haunters" auto="false">mass-haunters</normalised>, <lb/>
+and <normalised orig="Masse-louers" auto="false">mass-lovers</normalised>. And this (dread  <normalised orig="Soueraigne" auto="true">Sovereign</normalised>) <lb/>
+is the <normalised orig="chiefe" auto="true">chief</normalised> <normalised orig="subiect" auto="true">subject</normalised> matter of the First part of the <lb/>
+<normalised orig="Supplicatorie" auto="true">Supplicatory</normalised> Treatise following, to your <normalised orig="Maiesties" auto="true">Majesties</normalised> <lb/>
+High Court of Parliament, <normalised orig="euen" auto="true">even</normalised> for their humble <lb/>
+mediation to your <normalised orig="Highnesse" auto="true">Highness</normalised>, to defend, <normalised orig="maintaine" auto="true">maintain</normalised>, <lb/>
+and enlarge the Gospel, and Preachers, and Professors <lb/>
+thereof: as likewise to <normalised orig="oppugne" auto="true">oppugn</normalised> and <normalised orig="represse" auto="true">repress</normalised> all <lb/>
+<normalised orig="Poperie" auto="true">Popery</normalised>, with all the <normalised orig="Fauourites" auto="true">Favourites</normalised>, and Furtherers <lb/>
+thereof, of what <normalised orig="kinde" auto="true">kind</normalised>, <normalised orig="sorte" auto="true">sort</normalised>, and state <normalised orig="soeuer" auto="true">soever</normalised>: who <lb/>
+<normalised orig="hauing" auto="true">having</normalised> an <normalised orig="Inche" auto="true">Inch</normalised> <normalised orig="giuen" auto="true">given</normalised> them, will take an Elle: and <lb/>
+being a little <normalised orig="yeelded" auto="true">yielded</normalised> <normalised orig="vnto" auto="true">unto</normalised>, will <normalised orig="encroche" auto="false">encroach</normalised> further. <lb/>
+And these things your <normalised orig="Maiestie" auto="true">Majesty</normalised> much better then <lb/>
+my <normalised orig="selfe" auto="true">self</normalised> <normalised orig="knoweth" auto="true">knows</normalised> to belong to all Princes, as whom <lb/>
+God <normalised orig="hauing" auto="true">having</normalised> honoured with his <normalised orig="owne" auto="true">own</normalised> Name, and <lb/>
+called Gods, he would also <normalised orig="haue" auto="true">have</normalised> to be like <normalised orig="vnto" auto="true">unto</normalised> <lb/>
+him, and <normalised orig="altogeather" auto="true">altogether</normalised> for him, as sitting not <normalised orig="vpon" auto="true">upon</normalised> <lb/>
+their <normalised orig="owne" auto="true">own</normalised> Thrones, but <normalised orig="vpon" auto="true">upon</normalised> his Throne: not to <lb/>
+<normalised orig="doe" auto="true">do</normalised> what <normalised orig="themselues" auto="true">themselves</normalised> list, but to execute <normalised orig="Iudgement" auto="true">Judgment</normalised> <lb/>
+and <normalised orig="Iustice" auto="true">Justice</normalised>, whereof God his only Word is the only <lb/>
+Rule: so much the more because the People <normalised orig="ouer" auto="true">over</normalised> <lb/>
+whom the Lord <normalised orig="hath" auto="true">has</normalised> set them, are not their <normalised orig="owne" auto="true">own</normalised>, <lb/>
+but the Lords: and whom therefore they are so <choice ana="illegible">
+                     <sic>*o</sic>
+                     <corr>to</corr>
+                  </choice>
+                  <lb/>
+<normalised orig="gouerne" auto="true">govern</normalised>, that they may <normalised orig="leade" auto="true">lead</normalised> a quiet and peaceable <lb/>
+life: First, in all <normalised orig="godlinesse" auto="true">godliness</normalised>: Secondly, in all <normalised orig="honestie" auto="true">honesty</normalised> <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="8">B</fw>
+                  <pb n="7"/>
+                  <lb/>
+because without <normalised orig="godlinesse" auto="true">godliness</normalised>, and <normalised orig="obseruation" auto="true">observation</normalised> of all <lb/>
+duties of the First Table, and without <normalised orig="honestie" auto="true">honesty</normalised> consisting <lb/>
+in the duties of the Second Table, there is <lb/>
+no good peace, no good quiet. <lb/>
+8 Your <normalised orig="Maiestie" auto="true">Majesty</normalised> <normalised orig="knoweth" auto="true">knows</normalised> how lately both <normalised orig="Poperie" auto="true">Popery</normalised> <lb/>
+and Papists <normalised orig="haue" auto="true">have</normalised> <normalised orig="encreased" auto="true">increased</normalised>, and lifted <normalised orig="vp" auto="true">up</normalised> their <lb/>
+<normalised orig="Hornes" auto="true">Horns</normalised>: and that not only since, but also by the restraint <lb/>
+of Preaching the Gospel. In deed your <normalised orig="Maiestie" auto="true">Majesty</normalised> <lb/>
+<normalised orig="hath" auto="true">has</normalised> most wisely and Christianly of late discerned <lb/>
+the want of <normalised orig="Catechizing" auto="true">Catechising</normalised> the People, to be <lb/>
+one <normalised orig="meanes" auto="true">means</normalised> thereof: yet the former is the chiefest, <lb/>
+as the sequent <normalised orig="Aduertisements" auto="false">Advertisements</normalised> <normalised orig="doe" auto="true">do</normalised> more largely <lb/>
+declare. Who also were so <normalised orig="carefull" auto="true">careful</normalised> to <normalised orig="catechize" auto="false">catechise</normalised> and <lb/>
+instruct your People in the Principles of Religion, <lb/>
+according to your late and most <normalised orig="Royall" auto="true">Royal</normalised> and Christian <lb/>
+command in that <normalised orig="behalfe" auto="true">behalf</normalised>, as those Ministers that <lb/>
+were silenced and <normalised orig="depriued" auto="true">deprived</normalised>? <lb/>
+9 That <normalised orig="Poperie" auto="true">Popery</normalised> and Papists are both <normalised orig="aduerse" auto="true">adverse</normalised>, and <lb/>
+also <normalised orig="contrarie" auto="true">contrary</normalised> to the Truth of God, and all <normalised orig="godlinesse" auto="true">godliness</normalised>, <lb/>
+and therefore Enemies also to the Peace and <lb/>
+<normalised orig="tranquilitie" auto="true">tranquillity</normalised> of all Kings and <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>, May it <lb/>
+please your <normalised orig="Maiestie" auto="true">Majesty</normalised>, according to your admirable <lb/>
+Learning, to examine the same by the Doctrine <lb/>
+both of the Law, and also of the Gospel. <lb/>
+                  <lb/>
+Touching the Law, None are so ignorant of the <lb/>
+true God, as the Papists are generally by the <normalised orig="subtletie" auto="true">subtlety</normalised> <lb/>
+of their Teachers, that to hold the People in Ignorance <lb/>
+and <normalised orig="blindnesse" auto="true">blindness</normalised>, make them <normalised orig="beleeue" auto="true">believe</normalised> and teach <lb/>
+them for a Principle, that Ignorance is the Mother of <lb/>
+<normalised orig="Deuotion" auto="true">Devotion</normalised>. None <normalised orig="haue" auto="true">have</normalised> more gods in the presence <lb/>
+of God, and whom they <normalised orig="doe" auto="true">do</normalised> <normalised orig="feare" auto="true">fear</normalised>, <normalised orig="loue" auto="true">love</normalised>, <normalised orig="beleeue" auto="true">believe</normalised>, <lb/>
+and call <normalised orig="vpon" auto="true">upon</normalised> before or more then God. <lb/>
+                  <fw type="pageNum" n="9">8</fw>
+                  <pb n="8"/>
+                  <lb/>
+None make so many <normalised orig="Grauen" auto="true">Graven</normalised> and painted Images <lb/>
+to fall <normalised orig="downe" auto="true">down</normalised> before them, and to worship them. <lb/>
+Neither <normalised orig="doe" auto="true">do</normalised> any for Doctrines of men, so teach <lb/>
+their <normalised orig="owne" auto="true">own</normalised> <normalised orig="Commandements" auto="true">Commandments</normalised>, and impose <normalised orig="vpon" auto="true">upon</normalised> <lb/>
+men so many Superstitions, and so many abominable <lb/>
+Rites, and Ceremonies of their <normalised orig="owne" auto="true">own</normalised> <normalised orig="inuention" auto="true">invention</normalised> <lb/>
+as the Papists. <lb/>
+None <normalised orig="doe" auto="true">do</normalised> so take in <normalised orig="vaine" auto="true">vain</normalised> the Name of God by <lb/>
+common swearing, and swearing by them that are <lb/>
+no gods, as the Papists. Neither be any such <normalised orig="Couenant" auto="true">Covenant</normalised> <lb/>
+breakers, making no conscience of their Oaths, <lb/>
+and teaching that no Faith is to be kept with those <lb/>
+whom they <normalised orig="doe" auto="true">do</normalised> account for <normalised orig="Heretickes" auto="true">Heretics</normalised>, as the Papists. <lb/>
+Neither finally <normalised orig="doe" auto="true">do</normalised> any so pray without any <lb/>
+<normalised orig="vnderstanding" auto="true">understanding</normalised> in an <normalised orig="vnknowne" auto="true">unknown</normalised> Tongue, and <normalised orig="vse" auto="true">use</normalised> so <lb/>
+many repetitions in their Prayers, as thinking with <lb/>
+the Heathen, they shall be heard for their much <lb/>
+speaking, and pray by numbers, and according to the <lb/>
+number of their <normalised orig="Beades" auto="true">Beads</normalised>, as the Papists. <lb/>
+None <normalised orig="doe" auto="true">do</normalised> so profane the Lords day, by their abominable <lb/>
+Idolatry, and Superstitions on that day, by <lb/>
+their <normalised orig="libertie" auto="true">liberty</normalised> <normalised orig="giuen" auto="true">given</normalised> to all men for all <normalised orig="lewde" auto="true">lewd</normalised>, licentious, <lb/>
+and <normalised orig="lasciuious" auto="true">lascivious</normalised> exercises, by their <normalised orig="multiplicitie" auto="true">multiplicity</normalised> of <lb/>
+other Holy <normalised orig="dayes" auto="true">days</normalised>, in disgrace of the Lords day, and <lb/>
+finally by their more <normalised orig="Solemne" auto="true">Solemn</normalised> <normalised orig="obseruations" auto="true">observations</normalised> of their <lb/>
+such Holy <normalised orig="dayes" auto="true">days</normalised>, then of the Lords day, as the Papists. <lb/>
+None <normalised orig="doe" auto="true">do</normalised> so <normalised orig="transgresse" auto="true">transgress</normalised>, and teach men to <normalised orig="transgresse" auto="true">transgress</normalised> <lb/>
+the Fifth <normalised orig="Commandement" auto="true">Commandment</normalised>, especially touching <lb/>
+the <normalised orig="loyaltie" auto="true">loyalty</normalised> of <normalised orig="Subiects" auto="true">Subjects</normalised> <normalised orig="vnto" auto="true">unto</normalised> their Princes, <lb/>
+teaching the <normalised orig="murthering" auto="false">murdering</normalised> of Princes to be meritorious <lb/>
+of <normalised orig="Heauen" auto="true">Heaven</normalised>, and Canonizing notorious Rebels <lb/>
+and <normalised orig="Traytours" auto="true">Traitors</normalised> for Saints, as the Papists. There <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="10">B2</fw>
+                  <pb n="9"/>
+                  <lb/>
+best <normalised orig="Loyaltie" auto="true">Loyalty</normalised> is no better then <normalised orig="Diuelish" auto="true">Devilish</normalised> <normalised orig="Treacherie" auto="true">Treachery</normalised>. <lb/>
+As touching <normalised orig="Murther" auto="true">Murder</normalised> of <normalised orig="Soules" auto="true">Souls</normalised>, it is the whole <lb/>
+scope of their Religion, to make men the Children <lb/>
+of Hell and Perdition. Touching <normalised orig="Murther" auto="true">Murder</normalised> of <normalised orig="Bodyes" auto="true">Bodies</normalised>, <lb/>
+What Nation was <normalised orig="euer" auto="true">ever</normalised> so bloody as the generation <lb/>
+of Papists? The Massacre in France some <normalised orig="fiftie" auto="true">fifty</normalised> <lb/>
+<normalised orig="yeeres" auto="true">years</normalised> since; The <normalised orig="cruell" auto="true">cruel</normalised>, bloody, and treacherous <lb/>
+<normalised orig="warres" auto="true">wars</normalised> there the last <normalised orig="yeere" auto="true">year</normalised>; The innumerable <normalised orig="murthers" auto="true">murders</normalised> <lb/>
+<normalised orig="euen" auto="true">even</normalised> of Millions in the West Indies, and daily <lb/>
+most lamentable experience <normalised orig="teacheth" auto="true">teaches</normalised> this. And if <lb/>
+they <normalised orig="feare" auto="true">fear</normalised> not to <normalised orig="murther" auto="true">murder</normalised> Princes <normalised orig="euen" auto="true">even</normalised> of their own <lb/>
+Nation and Religion, How can they <normalised orig="feare" auto="true">fear</normalised> to shed <lb/>
+the blood of other? They <normalised orig="haue" auto="true">have</normalised> all the <normalised orig="wayes" auto="true">ways</normalised> that <lb/>
+may be of <normalised orig="murthering" auto="false">murdering</normalised>, by stabbing, by shooting, by <lb/>
+<normalised orig="poysoning" auto="true">poisoning</normalised>, by witchcraft, &amp;c. <lb/>
+Touching <normalised orig="Adulterie" auto="true">Adultery</normalised>, oh what an Adulterous generation <lb/>
+are they? The Popes <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> Adulterers, <lb/>
+and Incestuous; Their Cardinals, their Bishops, <lb/>
+their Priests for all bodily <normalised orig="filthinesse" auto="true">filthiness</normalised>, most beastly; <lb/>
+sometime also <normalised orig="Sodomiticall" auto="true">Sodomytical</normalised>. Their Monasteries, <lb/>
+and pretended Houses of most <normalised orig="Deuotion" auto="true">Devotion</normalised> and <normalised orig="Holinesse" auto="true">Holiness</normalised>, <lb/>
+<normalised orig="haue" auto="true">have</normalised> been Houses of most <normalised orig="abhominable" auto="true">abominable</normalised> <normalised orig="Adulterie" auto="true">Adultery</normalised>, <lb/>
+as <normalised orig="hath" auto="true">has</normalised> appeared by thousands of <normalised orig="Sculles" auto="true">Sculls</normalised>, and <lb/>
+other Bones of young Infants, found in Ponds belonging <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> them. They allowed <normalised orig="euerie" auto="true">every</normalised> Priest, for <lb/>
+a <normalised orig="certaine" auto="true">certain</normalised> price to <normalised orig="haue" auto="true">have</normalised> his Whore, and if being demanded <lb/>
+the said price, he answered that he had not <lb/>
+had any Whore, reply was made, that that was no <lb/>
+matter, for as much as he might <normalised orig="haue" auto="true">have</normalised> had his Whore <lb/>
+if he would. What else <normalised orig="doe" auto="true">do</normalised> all their filthy <normalised orig="Stewes" auto="true">Stews</normalised> <lb/>
+in Rome, and almost <normalised orig="euerie" auto="true">every</normalised> where else <normalised orig="witnesse" auto="true">witness</normalised>? Is <lb/>
+not also the restraint of their <normalised orig="Clergie" auto="true">Clergy</normalised> from <normalised orig="Mariage" auto="true">Marriage</normalised> <lb/>
+a <normalised orig="plaine" auto="true">plain</normalised> breach of the <normalised orig="Commandement" auto="true">Commandment</normalised> against <lb/>
+                  <fw type="pageNum" n="11">10</fw>
+                  <pb n="10"/>
+                  <lb/>
+<normalised orig="Adulterie" auto="true">Adultery</normalised>? The same likewise may be said of the <lb/>
+Popes Dispensation for <normalised orig="Mariage" auto="true">Marriage</normalised> within the degrees <lb/>
+of Kindred forbidden by the Lord <normalised orig="himselfe" auto="true">himself</normalised>. <lb/>
+Touching Theft, that is their <normalised orig="chiefe" auto="true">chief</normalised> maintenance. <lb/>
+No <normalised orig="Theeues" auto="true">Thieves</normalised>, no Robbers by the High-way, no <normalised orig="Vsurers" auto="true">Usurers</normalised>, <lb/>
+no Extortioners, are so notorious <normalised orig="Theeues" auto="true">Thieves</normalised>, as <lb/>
+the whole Popish <normalised orig="Clergie" auto="true">Clergy</normalised>, from the Pope <normalised orig="himselfe" auto="true">himself</normalised>, <lb/>
+to the poorest Hedge-Priest. They <normalised orig="robbe" auto="true">rob</normalised> not only <lb/>
+particular and <normalised orig="priuate" auto="true">private</normalised> persons, but also Kings, and <lb/>
+whole <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>, and that <normalised orig="vnder" auto="true">under</normalised> pretence of doing <lb/>
+good. Omnia Venalia Romæ: Pardon for <normalised orig="Sinnes" auto="true">Sins</normalised>, <lb/>
+<normalised orig="Libertie" auto="true">Liberty</normalised> to <normalised orig="Sinne" auto="true">Sin</normalised>, and <normalised orig="Heauen" auto="true">Heaven</normalised> and Hell are by them <lb/>
+sold (or pretended to be sold) for Money, to such <lb/>
+<normalised orig="Fooles" auto="true">Fools</normalised> as will <normalised orig="beleeue" auto="true">believe</normalised> them. <lb/>
+They are also <normalised orig="guiltie" auto="true">guilty</normalised> of bearing false <normalised orig="witnesse" auto="true">witness</normalised> <lb/>
+against God and Men, against the <normalised orig="liuing" auto="true">living</normalised> and the <lb/>
+dead; pronouncing some for Saints in <normalised orig="Heauen" auto="true">Heaven</normalised>, that <lb/>
+rather by their Life and Death (without secret and <lb/>
+<normalised orig="vnknowne" auto="true">unknown</normalised> repentance) are to be <normalised orig="iudged" auto="true">judged</normalised> companions <lb/>
+of the <normalised orig="Diuels" auto="true">Devils</normalised> in Hell: and condemning them <lb/>
+to be in Hell, whose <normalised orig="Soules" auto="true">Souls</normalised> rest from their labours <lb/>
+in <normalised orig="Heauen" auto="true">Heaven</normalised>: <normalised orig="deuising" auto="true">devising</normalised>, and imagining, and publishing <lb/>
+horrible <normalised orig="lyes" auto="true">lies</normalised> of them that by their Life and Death <lb/>
+<normalised orig="shewed" auto="true">showed</normalised> <normalised orig="themselues" auto="true">themselves</normalised> to be the Lords. <lb/>
+Being in so high degree Transgressors of all the <lb/>
+former <normalised orig="Commandements" auto="true">Commandments</normalised>, and by <normalised orig="authoritie" auto="true">authority</normalised> <normalised orig="iustifying" auto="true">justifying</normalised> <lb/>
+their said Transgressions, How can they be free <lb/>
+from Lust forbidden in the last, and the which is the <lb/>
+Root of all other Sins, and the which notwithstanding <lb/>
+they teach to be no <normalised orig="Sinne" auto="true">Sin</normalised> at all? <normalised orig="Doe" auto="true">Do</normalised> they not <lb/>
+also <normalised orig="transgresse" auto="true">transgress</normalised> the whole Law in teaching many <lb/>
+<normalised orig="Sinnes" auto="true">Sins</normalised> to be <normalised orig="Veniall" auto="true">Venial</normalised>, and not to <normalised orig="deserue" auto="true">deserve</normalised> Death, the <lb/>
+Lord <normalised orig="hauing" auto="true">having</normalised> said: Cursed is <normalised orig="euerie" auto="true">every</normalised> one that <normalised orig="abideth" auto="true">abides</normalised> not <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="12">B3</fw>
+                  <pb n="11"/>
+                  <lb/>
+in all things that are written in the <normalised orig="Booke" auto="true">Book</normalised> of the Law, to <lb/>
+<normalised orig="doe" auto="true">do</normalised> the same: and commanding all the People to <normalised orig="ratifie" auto="true">ratify</normalised> <lb/>
+the said Curse by saying, Amen? And the Apostle <lb/>
+also saying <normalised orig="indefinitiuely" auto="false">indefinitely</normalised>, that the wages of Sin <lb/>
+is Death? All which contrarieties, and repugnances <lb/>
+of <normalised orig="Poperie" auto="true">Popery</normalised> <normalised orig="vnto" auto="true">unto</normalised> the whole Decalogue, and to <normalised orig="euerie" auto="true">every</normalised> <lb/>
+one of the <normalised orig="Tenne" auto="true">Ten</normalised> <normalised orig="Commandements" auto="true">Commandments</normalised> considered, a <lb/>
+man may <normalised orig="iustly" auto="true">justly</normalised> wonder that any man should be so <lb/>
+mad as to be of that Religion, and so to oppose <lb/>
+<normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="vnto" auto="true">unto</normalised> God, and to contend with the <normalised orig="Almightie" auto="true">Almighty</normalised>. <lb/>
+10 Touching the <normalised orig="Gospell" auto="true">Gospel</normalised>, all their Religion is <lb/>
+most opposite thereunto, from the first Principle <lb/>
+thereof, to the smallest Point, and least Tittle of it. <lb/>
+They deny Predestination, with both the chiefest <lb/>
+Branches thereof; particular Election, and particular <lb/>
+Reprobation. As they <normalised orig="haue" auto="true">have</normalised> many gods, so they <normalised orig="haue" auto="true">have</normalised> <lb/>
+many <normalised orig="sauiours" auto="true">saviours</normalised>, many redeemers, many <normalised orig="mediatours" auto="true">mediators</normalised>, <lb/>
+many <normalised orig="aduocates" auto="true">advocates</normalised>, whereof they <normalised orig="preferre" auto="true">prefer</normalised> some <normalised orig="aboue" auto="true">above</normalised> <lb/>
+Christ <normalised orig="Iesus" auto="true">Jesus</normalised> <normalised orig="himselfe" auto="true">himself</normalised>. Touching <normalised orig="Iustification" auto="true">Justification</normalised>, they <lb/>
+directly contradict the Apostles Doctrine of <normalised orig="Iustification" auto="true">Justification</normalised> <lb/>
+by Faith, without <normalised orig="Workes" auto="true">Works</normalised> of the Law: and <lb/>
+<normalised orig="doe" auto="true">do</normalised> boldly <normalised orig="affirme" auto="true">affirm</normalised> that we are <normalised orig="iustified" auto="true">justified</normalised> as well by <lb/>
+<normalised orig="Workes" auto="true">Works</normalised> as by Faith, not before men (as <normalised orig="Iames" auto="true">James</normalised> <normalised orig="speaketh" auto="true">speaks</normalised>) <lb/>
+but before God <normalised orig="himselfe" auto="true">himself</normalised>. They further teach <lb/>
+that men may merit (<normalised orig="euen" auto="true">even</normalised> <normalised orig="Heauen" auto="true">Heaven</normalised>) not <normalised orig="onely" auto="true">only</normalised> for <lb/>
+<normalised orig="themselues" auto="true">themselves</normalised>, but also for other; that they may not <lb/>
+only <normalised orig="doe" auto="true">do</normalised> enough, but also more then enough, <normalised orig="euen" auto="true">even</normalised> <lb/>
+<normalised orig="Workes" auto="true">Works</normalised> of Supererogation, which they may spare <lb/>
+to lend <normalised orig="vnto" auto="true">unto</normalised> other: Whereas we are often in the <lb/>
+Scriptures taught the written Word to be sufficient <lb/>
+and to <normalised orig="containe" auto="true">contain</normalised> all things <normalised orig="necessarie" auto="true">necessary</normalised> for <normalised orig="Saluation" auto="true">Salvation</normalised>, <lb/>
+and that nothing must be added thereunto, or taken <lb/>
+                  <fw type="pageNum" n="13">12</fw>
+                  <pb n="12"/>
+                  <lb/>
+there-from, they deny all this, and boldly and <lb/>
+<normalised orig="saucely" auto="true">saucily</normalised> <normalised orig="affirme" auto="true">affirm</normalised>, That <normalised orig="vnwritten" auto="true">unwritten</normalised> Verities, and their <lb/>
+Popes Decrees, though <normalised orig="contrarie" auto="true">contrary</normalised> to the written <lb/>
+Word, are <normalised orig="equiualent" auto="true">equivalent</normalised>, and of <normalised orig="equall" auto="true">equal</normalised> force, <normalised orig="vertue" auto="true">virtue</normalised>, and <lb/>
+<normalised orig="necessitie" auto="true">necessity</normalised> with the said written Word: whereas the <lb/>
+Apostle <normalised orig="teacheth" auto="true">teaches</normalised>, that we are not sufficient of our <lb/>
+<normalised orig="selues" auto="true">selves</normalised> to <normalised orig="thinke" auto="true">think</normalised> a good thought, they <normalised orig="magnifie" auto="true">magnify</normalised> the <lb/>
+Free-will of man, and teach that a <normalised orig="meere" auto="true">mere</normalised> <normalised orig="Naturall" auto="true">Natural</normalised> <lb/>
+man is able to <normalised orig="thinke" auto="true">think</normalised>, <normalised orig="speake" auto="true">speak</normalised>, and <normalised orig="doe" auto="true">do</normalised> that which <lb/>
+cannot be <normalised orig="reiected" auto="true">rejected</normalised> by the Lord, but must be in <normalised orig="Iustice" auto="true">Justice</normalised> <lb/>
+accepted of him. In <normalised orig="diuers" auto="true">divers</normalised> respects also they deny <lb/>
+the Offices of Christ, and <normalised orig="doe" auto="true">do</normalised> destroy his <normalised orig="verie" auto="true">very</normalised> Natures. <lb/>
+To <normalised orig="speake" auto="true">speak</normalised> yet more, and to <normalised orig="adde" auto="true">add</normalised> yet one <lb/>
+word (that I may not be too tedious to your <normalised orig="Maiestie" auto="true">Majesty</normalised>) <lb/>
+for two Sacraments they make <normalised orig="seuen" auto="true">seven</normalised>, reckoning <lb/>
+<normalised orig="Mariage" auto="true">Marriage</normalised> for one, that is as well without as within <lb/>
+the Church of God: and the which <normalised orig="hath" auto="true">has</normalised> no outward <lb/>
+<normalised orig="Signe" auto="true">Sign</normalised> but of their <normalised orig="owne" auto="true">own</normalised> making: and from <lb/>
+which notwithstanding (as before I said) they debar <lb/>
+their whole Holy <normalised orig="Clergie" auto="true">Clergy</normalised>, and so <normalised orig="speake" auto="true">speak</normalised> pro and <lb/>
+contra, making it holy and <normalised orig="vnholy" auto="false">unholy</normalised>. How foully also <lb/>
+and <normalised orig="grosly" auto="true">grossly</normalised> <normalised orig="doe" auto="true">do</normalised> they corrupt the two Sacraments of <lb/>
+God, with additions of their <normalised orig="owne" auto="true">own</normalised> Spittle, <normalised orig="Creame" auto="true">Cream</normalised>, <lb/>
+Salt, <normalised orig="Oyle" auto="true">Oil</normalised>, Crosses, Water, and I know not what? <lb/>
+With-holding also the Cup in the Supper of the <lb/>
+Lord, from the Common People? Neither so only, <lb/>
+but also destroying the <normalised orig="verie" auto="true">very</normalised> Essence of the Sacrament <lb/>
+by their Transubstantiation, taking away the <lb/>
+outward Element thereof. Finally they hold no one <lb/>
+Article of the Faith, from the first to the last, Canonically, <lb/>
+Soundly, and Orthodoxally. All these things <lb/>
+and <normalised orig="diuers" auto="true">divers</normalised> other are so substantially and <normalised orig="aboundantly" auto="true">abundantly</normalised> <lb/>
+<normalised orig="proued" auto="true">proved</normalised> by our <normalised orig="Diuines" auto="true">Divines</normalised>, that they are not able <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="14">B4</fw>
+                  <pb n="13"/>
+                  <lb/>
+with any <normalised orig="modestie" auto="true">modesty</normalised> to <normalised orig="barke" auto="true">bark</normalised> against them. And for <lb/>
+the truth of all these things, I <normalised orig="doe" auto="true">do</normalised> <normalised orig="appeale" auto="true">appeal</normalised> to the <lb/>
+knowledge and conscience of your <normalised orig="owne" auto="true">own</normalised> Sacred <lb/>
+<normalised orig="Maiestie" auto="true">Majesty</normalised>, and therefore <normalised orig="doe" auto="true">do</normalised> but briefly now call <lb/>
+them to your <normalised orig="Maiesties" auto="true">Majesties</normalised> remembrance. <lb/>
+11 All the premises considered, I humbly beseech <lb/>
+your <normalised orig="Maiestie" auto="true">Majesty</normalised> to let your <normalised orig="Royall" auto="true">Royal</normalised> countenance be to <lb/>
+those last before described, As the North Wind is to the <lb/>
+<normalised orig="Raine" auto="true">Rain</normalised>, and as the roaring of the <normalised orig="Lyon" auto="true">Lion</normalised> to the other <normalised orig="Beastes" auto="true">Beasts</normalised> <lb/>
+of the <normalised orig="Wildernesse" auto="true">Wilderness</normalised>: But to the other, I <normalised orig="meane" auto="true">mean</normalised> the <lb/>
+sincere Preachers, and Professors of the Gospel, Let <lb/>
+your Grace be as the Dew <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="Grasse" auto="true">Grass</normalised>, as a Cloud of <lb/>
+the latter <normalised orig="Raine" auto="true">Rain</normalised>: And finally, Let the Light of your <lb/>
+Countenance be <normalised orig="vnto" auto="true">unto</normalised> them as life it <normalised orig="selfe" auto="true">self</normalised>. As your <normalised orig="Maiestie" auto="true">Majesty</normalised> <lb/>
+<normalised orig="seeth" auto="true">sees</normalised>, and by experience <normalised orig="hath" auto="true">has</normalised> found, what Papists <lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised>, and what they are (they being no <lb/>
+changelings) so also concerning the <normalised orig="foresaid" auto="true">aforesaid</normalised> Preachers, <lb/>
+and <normalised orig="Professours" auto="true">Professors</normalised> of the Word, how <normalised orig="soeuer" auto="true">soever</normalised> they <lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> lately much molested, and (as it were) <lb/>
+smitten on the <normalised orig="Cheeke" auto="true">Cheek</normalised> with Michaiah by Zedekiah, and <lb/>
+beaten also, and wounded by the Watchmen <normalised orig="themselues" auto="true">themselves</normalised> <lb/>
+(as <normalised orig="Salomon" auto="true">Solomon</normalised> <normalised orig="speaketh" auto="true">speaks</normalised>) yet (as Paul also <normalised orig="speaketh" auto="true">speaks</normalised> concerning <lb/>
+<normalised orig="himselfe" auto="true">himself</normalised>, so) you <normalised orig="haue" auto="true">have</normalised> <normalised orig="knowne" auto="true">known</normalised> their <quote type="biblical" ana="2 Tim 3.10">Doctrine, <lb/>
+manner of life, purpose, faith, long suffering, <normalised orig="charitie" auto="true">charity</normalised>, patience,</quote>
+                  <lb/>
+&amp;c. They <normalised orig="haue" auto="true">have</normalised> indeed by the said Watchmen, <lb/>
+and perhaps also by some Papists <normalised orig="beene" auto="true">been</normalised> accused (it <lb/>
+may be <normalised orig="euen" auto="true">even</normalised> to your <normalised orig="Maiestie" auto="true">Majesty</normalised>) for Rebels, <normalised orig="Traytors" auto="true">Traitors</normalised>, <lb/>
+Seditious, <normalised orig="Schismatickes" auto="true">Schismatics</normalised>, Troublers of Israel, Disturbers <lb/>
+of the Peace of the Church, &amp;c. But yet as our <lb/>
+late most Noble <normalised orig="Queene" auto="true">Queen</normalised> of blessed <normalised orig="memorie" auto="true">memory</normalised>, said <lb/>
+and wrote with her Diamond in a <normalised orig="Glasse-window" auto="false">Glass-window</normalised>, <lb/>
+in her troubles, <normalised orig="vnder" auto="true">under</normalised> her <normalised orig="vnnaturall" auto="true">unnatural</normalised> Sister <normalised orig="Queene" auto="true">Queen</normalised> <lb/>
+Mary (oh <normalised orig="diuelish" auto="true">devilish</normalised> Religion that <normalised orig="maketh" auto="true">makes</normalised> men and <lb/>
+                  <pb n="14"/>
+                  <lb/>
+women without <normalised orig="Naturall" auto="true">Natural</normalised> affections) as she (I say) <lb/>
+wrote in her troubles: Much suspected by me, nothing <lb/>
+<normalised orig="proued" auto="true">proved</normalised> can be. <normalised orig="Euen" auto="true">Even</normalised> so may the said Preachers, and <lb/>
+<normalised orig="Professours" auto="true">Professors</normalised> of the Word say for <normalised orig="themselues" auto="true">themselves</normalised>. For <lb/>
+who <normalised orig="euer" auto="true">ever</normalised> found any such thing in them, as whereof <lb/>
+they are so audatiously by their <normalised orig="Aduersaries" auto="true">Adversaries</normalised> <normalised orig="acoused" auto="false">accused</normalised>? <lb/>
+Nay rather as touching their <normalised orig="Loyaltie" auto="true">Loyalty</normalised>, as Moses wished <lb/>
+all the Lords People to <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> Prophets: so <lb/>
+may all truly <normalised orig="Loyall" auto="true">Loyal</normalised> to your <normalised orig="Maiestie" auto="true">Majesty</normalised>, wish all your <lb/>
+<normalised orig="Subiects" auto="true">Subjects</normalised> to be as <normalised orig="faithfull" auto="true">faithful</normalised> as the said Preachers, and <lb/>
+<normalised orig="Professours" auto="true">Professors</normalised> of the Gospel are: and not almost (as <lb/>
+Paul said to Agrippa) but altogether such as they are, <lb/>
+their troubles, &amp; manifold afflictions only excepted. <lb/>
+Oh then how happy should your <normalised orig="selfe" auto="true">self</normalised>, O Noble <lb/>
+King be: How happy your <normalised orig="Royall" auto="true">Royal</normalised> <normalised orig="Posteritie" auto="true">Posterity</normalised>? How <lb/>
+happy all your <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>. The <normalised orig="Aduertisements" auto="false">Advertisements</normalised> <lb/>
+following will <normalised orig="shew" auto="true">show</normalised> all that such Preachers and <normalised orig="Professours" auto="true">Professors</normalised> <lb/>
+<normalised orig="doe" auto="true">do</normalised>, for which they are so charged with <lb/>
+<normalised orig="disloyaltie" auto="true">disloyalty</normalised>, to be done not <normalised orig="onely" auto="true">only</normalised> of Conscience to <lb/>
+God, but also of <normalised orig="Loyaltie" auto="true">Loyalty</normalised> <normalised orig="vnto" auto="true">unto</normalised>, and of care and due <lb/>
+regard of your <normalised orig="Maiestie" auto="true">Majesty</normalised>. If all other <normalised orig="Subiects" auto="true">Subjects</normalised> were <lb/>
+such as they are, all other Princes should not be comparable <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> you. The <normalised orig="Barres" auto="true">Bars</normalised> of the Gates of your <lb/>
+<normalised orig="Kingdome" auto="true">Kingdom</normalised> so strengthened, the Children within the same <lb/>
+should also be blessed. Such Peace made within your <lb/>
+Borders, the Lord would likewise feed your People <lb/>
+with he finest of the <normalised orig="Wheate" auto="true">Wheat</normalised>, and that it might most <lb/>
+truly be said, that the Lord <normalised orig="hath" auto="true">has</normalised> not dealt so with any <lb/>
+Nation. O <normalised orig="deere" auto="true">dear</normalised> <normalised orig="Soueraigne" auto="true">Sovereign</normalised>, I beseech you according <lb/>
+to your excellent <normalised orig="Wisedome" auto="true">Wisdom</normalised>, vouchsafe the deeper <lb/>
+consideration of these things, and in respect of them, <lb/>
+the reading of the sequent <normalised orig="Aduertisements" auto="false">Advertisements</normalised>, without <lb/>
+any indignation, without any <normalised orig="preiudice" auto="true">prejudice</normalised>. <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="16">C</fw>
+                  <pb n="15"/>
+                  <lb/>
+12 <normalised orig="Feare" auto="true">Fear</normalised> not most Noble King, the <normalised orig="shewing" auto="true">showing</normalised> of<lb/>
+<normalised orig="fauour" auto="true">favour</normalised> to such Preachers, and Professors as for whom <lb/>
+I <normalised orig="doe" auto="true">do</normalised> supplicate. One word of your Princely mouth <lb/>
+without your Bishops, would enlarge them all, and <lb/>
+<normalised orig="cheere" auto="true">cheer</normalised>, and <normalised orig="reuiue" auto="true">revive</normalised> the Hearts of many thousands: <lb/>
+Neither would some of your Bishops repine any <lb/>
+whit at your said <normalised orig="fauor" auto="true">favour</normalised>. Nay more then that, I doubt <lb/>
+not but that many of them, <normalised orig="euen" auto="true">even</normalised> of the chiefest, <normalised orig="doe" auto="true">do</normalised> <lb/>
+desire it, and would be glad of it. Nothing but their <lb/>
+great Honours and Riches <normalised orig="doth" auto="true">does</normalised> hinder them from <lb/>
+<normalised orig="ioyning" auto="true">joining</normalised> with such Preachers, and <normalised orig="Professours" auto="true">Professors</normalised> in all <lb/>
+the <normalised orig="chiefe" auto="true">chief</normalised> matters, wherein they now differ, and hold <lb/>
+off one from another. Neither also <normalised orig="feare" auto="true">fear</normalised> you to execute <lb/>
+that <normalised orig="Iudgement" auto="true">Judgment</normalised> and <normalised orig="Iustice" auto="true">Justice</normalised> against the <normalised orig="foresaid" auto="true">aforesaid</normalised> <lb/>
+<normalised orig="chiefe" auto="true">chief</normalised> Enemies, the Enemies of God <normalised orig="himselfe" auto="true">himself</normalised>, of <lb/>
+Christ <normalised orig="Iesus" auto="true">Jesus</normalised>, of your <normalised orig="Maiestie" auto="true">Majesty</normalised>, of your <normalised orig="Royall" auto="true">Royal</normalised> <normalised orig="Posteritie" auto="true">Posterity</normalised>, <lb/>
+and of your <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>; <normalised orig="euen" auto="true">even</normalised> against the Papists, <lb/>
+and all their Friends, and <normalised orig="Fauourers" auto="true">Favourers</normalised>. If the Lord <lb/>
+bade Ioshua to be strong and of good courage, <normalised orig="euen" auto="true">even</normalised> <normalised orig="verie" auto="true">very</normalised> <lb/>
+<normalised orig="couragious" auto="true">courageous</normalised>, and not to be afraid, nor <normalised orig="dismaid" auto="true">dismayed</normalised> because he <lb/>
+had so commanded him, and that when he was to <lb/>
+destroy those wicked Nations, that had been the Inhabitants <lb/>
+of those Lands which the Lord for an heritage <lb/>
+<normalised orig="gaue" auto="true">gave</normalised> to the People of Israel, Ought not you <lb/>
+much more to be strong and <normalised orig="verie" auto="true">very</normalised> <normalised orig="couragious" auto="true">courageous</normalised>, without <lb/>
+all <normalised orig="feare" auto="true">fear</normalised> within your own <normalised orig="Kingdome" auto="true">Kingdom</normalised>, to subdue <lb/>
+such Enemies as all Papists &amp; their Friends are? You <lb/>
+are our Ioshua, and <normalised orig="therfore" auto="true">therefore</normalised> I am bold thus to encourage <lb/>
+your <normalised orig="Maiestie" auto="true">Majesty</normalised>, as the Lord did the Israelites Ioshua. <lb/>
+Let no man <normalised orig="perswade" auto="true">persuade</normalised> you, neither let your own <lb/>
+Heart say <normalised orig="vnto" auto="true">unto</normalised> you, as <normalised orig="Dauid" auto="true">David</normalised> said of the <normalised orig="Sonnes" auto="true">Sons</normalised> of <lb/>
+Zeruiah, that the said Papists and their Friends will be <lb/>
+too hard for you. For as Elisha said to his <normalised orig="seruant" auto="true">servant</normalised> greatly <lb/>
+                  <fw type="pageNum" n="17">16</fw>
+                  <pb n="16"/>
+                  <lb/>
+fearing when he saw the <normalised orig="citie" auto="true">city</normalised> Dotham besieged with <lb/>
+the Horses and Charets of the King of Syria, and as <lb/>
+Hezekiah in the like <normalised orig="streights" auto="true">straights</normalised> by Senacharib King of <lb/>
+Assyria, said to his People: Be strong and <normalised orig="couragious" auto="true">courageous</normalised>, be <lb/>
+not afraid nor <normalised orig="dismaid" auto="true">dismayed</normalised>, &amp;c. for there are more with <normalised orig="vs" auto="true">us</normalised>, <lb/>
+then against <normalised orig="vs" auto="true">us</normalised>; with him is an <normalised orig="arme" auto="true">arm</normalised> of flesh, but with <normalised orig="vs" auto="true">us</normalised> <lb/>
+is the Lord our God, to <normalised orig="helpe" auto="true">help</normalised> <normalised orig="vs" auto="true">us</normalised>, and to fight for <normalised orig="vs" auto="true">us</normalised>. As Elisha, <lb/>
+I say, said to his <normalised orig="Seruant" auto="true">Servant</normalised>, and Hezekiah to his People, <lb/>
+so <normalised orig="doe" auto="true">do</normalised> I boldly say to your <normalised orig="Maiestie" auto="true">Majesty</normalised>, in the name <lb/>
+of God, Be strong and <normalised orig="couragious" auto="true">courageous</normalised>, be not afraid nor <lb/>
+<normalised orig="dismaid" auto="true">dismayed</normalised>, &amp;c. for there are more with you then against <lb/>
+you, or then are with the said Papists, and their Pope, <lb/>
+though they should <normalised orig="haue" auto="true">have</normalised> all the World with them, <lb/>
+and the <normalised orig="Deuil" auto="true">Devil</normalised> also <normalised orig="himselfe" auto="true">himself</normalised>, and all his Angels. The <lb/>
+<normalised orig="seruants" auto="true">servants</normalised> of <normalised orig="Absolom" auto="true">Absalom</normalised> feared not <normalised orig="villanously" auto="true">villainously</normalised> to murder <lb/>
+Amnon, because he had commanded them so to <normalised orig="doe" auto="true">do</normalised>: <lb/>
+And will your <normalised orig="Maiestie" auto="true">Majesty</normalised> <normalised orig="feare" auto="true">fear</normalised> to <normalised orig="doe" auto="true">do</normalised> that good that <lb/>
+the Lord your God <normalised orig="hath" auto="true">has</normalised> commanded you? And <lb/>
+that for the good of your <normalised orig="selfe" auto="true">self</normalised>, of your <normalised orig="Posteritie" auto="true">Posterity</normalised>, of <lb/>
+your <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>, and of some of the Papists <normalised orig="themselues" auto="true">themselves</normalised>, <lb/>
+at least of such as are but hirelings to other? <lb/>
+Though of men you had more Enemies then <lb/>
+Friends, yet <normalised orig="fiue" auto="true">five</normalised> of your Friends, shall chase an hundred <lb/>
+of your enemies, and an hundred shall put to flight ten <lb/>
+thousand: because the Lord your God is he that shall <lb/>
+fight for you and if he be for you, who can be against you? <lb/>
+<normalised orig="Hath" auto="true">Has</normalised> God commanded you thus to <normalised orig="doe" auto="true">do</normalised>, and will he <lb/>
+not <normalised orig="beare" auto="true">bear</normalised> you out in so doing? <lb/>
+13 O dread <normalised orig="Soueraigne" auto="true">Sovereign</normalised>, for your better encouragement, <lb/>
+remember the <normalised orig="dayes" auto="true">days</normalised> of Old, meditate on  <lb/>
+all the Lords former <normalised orig="workes" auto="true">works</normalised>, and muse on the <normalised orig="workes" auto="true">works</normalised> of his <lb/>
+Hands, and consider how great things the Lord <normalised orig="hath" auto="true">has</normalised> done, <lb/>
+<normalised orig="euen" auto="true">even</normalised> for you: <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> things are written, are written<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="18">C2</fw>
+                  <pb n="17"/>
+                  <lb/>
+for your encouragement. The <normalised orig="Arme" auto="true">Arm</normalised> of the Lord is <lb/>
+not <normalised orig="shortned" auto="true">shortened</normalised>, neither is his <normalised orig="mercie" auto="true">mercy</normalised> and <normalised orig="goodnesse" auto="true">goodness</normalised> <lb/>
+<normalised orig="lesse" auto="true">less</normalised> then it was. But if you be of like courage for <lb/>
+the Lord, that Ioshua, Hezekiah, and such other <normalised orig="haue" auto="true">have</normalised> <lb/>
+<normalised orig="beene" auto="true">been</normalised>, the Lord will <normalised orig="doe" auto="true">do</normalised> as great things for you, as <lb/>
+he <normalised orig="hath" auto="true">has</normalised> in former times done for them and other; <lb/>
+The <normalised orig="Starres" auto="true">Stars</normalised> from <normalised orig="Heauen" auto="true">Heaven</normalised> shall fight in their courses, against <lb/>
+all your Siseraes. The Angels of the Lord shall <choice ana="illegible">
+                     <sic>e*pe</sic>
+                     <corr><normalised orig="encampe" auto="true">encamp</normalised></corr>
+                  </choice>
+                  <lb/>
+round about you, and slay your Enemies, rather then they <lb/>
+shall <normalised orig="preuaile" auto="true">prevail</normalised> against you or hinder you in your execution <lb/>
+of <normalised orig="Iudgement" auto="true">Judgment</normalised>, as <normalised orig="somtime" auto="true">sometime</normalised> an Angel in one <lb/>
+night slew an hundred <normalised orig="foure" auto="true">four</normalised> <normalised orig="skore" auto="false">score</normalised> <choice ana="illegible">
+                     <sic>*i</sic>
+                     <corr/>
+                  </choice> <normalised orig="fiue" auto="true">five</normalised> thousand of the <lb/>
+Assyrians. The Lord of Hosts also <normalised orig="himselfe" auto="true">himself</normalised> shall make <lb/>
+his holy <normalised orig="Arme" auto="true">Arm</normalised> bare, and <normalised orig="breake" auto="true">break</normalised> all the <normalised orig="Armes" auto="true">Arms</normalised> of them, that <lb/>
+shall resist you, and rise <normalised orig="vp" auto="true">up</normalised> against you. Nay more <lb/>
+then all this, The <normalised orig="feare" auto="true">fear</normalised> of the Lord shall so fall <normalised orig="vpon" auto="true">upon</normalised> <lb/>
+your <normalised orig="Maiesties" auto="true">Majesties</normalised> such Enemies, that they shall be one <lb/>
+against another, as the Children of Ammon, Moab, and <lb/>
+Mount Seir were <normalised orig="deuided" auto="true">divided</normalised> one against another. Remember <lb/>
+I beseech you that your <normalised orig="selfe" auto="true">self</normalised>, maintaining <lb/>
+and defending the Gospel, and Preachers, and <normalised orig="Professours" auto="true">Professors</normalised> <lb/>
+thereof in your <normalised orig="Kingdome" auto="true">Kingdom</normalised> of Scotland, had <lb/>
+greater and longer peace, then all the former Kings <lb/>
+of the same <normalised orig="Kingdome" auto="true">Kingdom</normalised>. Remember likewise the <lb/>
+great and admirable peace and <normalised orig="prosperitie" auto="true">prosperity</normalised> of most <lb/>
+<normalised orig="renowmed" auto="true">renowned</normalised> <normalised orig="Queene" auto="true">Queen</normalised> Elizabeth, by her <choice ana="illegible">
+                     <sic>*e*e*e</sic>
+                     <corr/>
+                  </choice> against <lb/>
+all Papists, and by her <normalised orig="gratious" auto="true">gracious</normalised> countenance to the <lb/>
+Preachers, and <normalised orig="Professours" auto="true">Professors</normalised> of the Gospel: For was <lb/>
+there <normalised orig="euer" auto="true">ever</normalised> any King of this Land so <normalised orig="beloued" auto="true">beloved</normalised> and <lb/>
+honoured of his <normalised orig="Subiects" auto="true">Subjects</normalised>, as she was of hers? Was <lb/>
+there <normalised orig="euer" auto="true">ever</normalised> any more feared, of Enemies abroad, or <lb/>
+at home? Was there <normalised orig="euer" auto="true">ever</normalised> any so <normalised orig="renowmed" auto="true">renowned</normalised> and honoured <lb/>
+of all <normalised orig="foreine" auto="false">foreign</normalised> Princes? If your <normalised orig="Maiestie" auto="true">Majesty</normalised> shall <lb/>
+                  <pb n="18"/>
+                  <lb/>
+once in truth <normalised orig="frowne" auto="true">frown</normalised> <normalised orig="vpon" auto="true">upon</normalised> the said Papists, especially <lb/>
+the chiefest of them, you shall quickly see how <lb/>
+they will fall before you, and be confounded. If also <lb/>
+you shall thus honour the Lord by executing <normalised orig="Iudgement" auto="true">Judgment</normalised> <lb/>
+and <normalised orig="Iustice" auto="true">Justice</normalised>, Will not the Lord honour you? <lb/>
+Yes <normalised orig="verely" auto="true">verily</normalised>: For he <normalised orig="hath" auto="true">has</normalised> promised so to <normalised orig="doe" auto="true">do</normalised>. And he <lb/>
+that <normalised orig="hath" auto="true">has</normalised> promised is <normalised orig="faithfull" auto="true">faithful</normalised>. <normalised orig="Hath" auto="true">Has</normalised> he said, and shall he <lb/>
+not <normalised orig="doe" auto="true">do</normalised> it? <normalised orig="Hath" auto="true">Has</normalised> he spoken, and shall he not make it good? <lb/>
+It <normalised orig="standeth" auto="true">stands</normalised> also <normalised orig="vpon" auto="true">upon</normalised> your Honour so to honour the <lb/>
+Lord, because he <normalised orig="hath" auto="true">has</normalised> <normalised orig="alreadie" auto="true">already</normalised> so honoured you with <lb/>
+his <normalised orig="owne" auto="true">own</normalised> Title and place, that you should so honour <lb/>
+him by so doing. If by any <normalised orig="contrarie" auto="true">contrary</normalised> <normalised orig="counsell" auto="true">counsel</normalised>, you <lb/>
+shall not so honour the Lord, then the Lord <normalised orig="keepe" auto="true">keep</normalised> <lb/>
+you from that which <normalised orig="followeth" auto="true">follows</normalised>. <quote type="biblical" ana="1 Sam 2.30">They that despise me <lb/>
+shall be lightly esteemed.</quote> Neither in this respect only <lb/>
+<normalised orig="doth" auto="true">does</normalised> it <normalised orig="behoue" auto="false">behoove</normalised> you so to <choice ana="typeset-error">
+                     <sic>hononr</sic>
+                     <corr>honour</corr>
+                  </choice> the Lord, but also <lb/>
+because that the <normalised orig="lenitie" auto="true">lenity</normalised> hitherto <normalised orig="vsed" auto="true">used</normalised> towards them <lb/>
+(though thereby the better to <normalised orig="reclaime" auto="true">reclaim</normalised> them) as also <lb/>
+the <normalised orig="seueritie" auto="true">severity</normalised> of some, <normalised orig="vnder" auto="true">under</normalised> colour of your <normalised orig="authoritie" auto="true">authority</normalised> <lb/>
+(though perhaps <normalised orig="falsly" auto="true">falsely</normalised>) against the former sincere <lb/>
+Preachers &amp; Professors of the Gospel, by other <lb/>
+Nations (Spaniards, French, and Flemmings) your <lb/>
+Princely name <normalised orig="hath" auto="true">has</normalised> <normalised orig="beene" auto="true">been</normalised> <normalised orig="disgrased" auto="false">disgraced</normalised>, reproached, and <lb/>
+contumeliously abused by Printed Letters, &amp; Books, <lb/>
+and Pictures, and otherwise; partly as if you did <normalised orig="vtterly" auto="true">utterly</normalised> <lb/>
+neglect Religion, and the whole cause thereof: <lb/>
+and partly as if the said Papists had <normalised orig="preuailed" auto="true">prevailed</normalised> in <normalised orig="peruerting" auto="false">perverting</normalised><lb/>
+of you, and making you one of them, <normalised orig="euen" auto="true">even</normalised> a <lb/>
+<normalised orig="Romish" auto="true">Roman</normalised> <normalised orig="Catholike" auto="true">Catholic</normalised>, which I hope is and <normalised orig="euer" auto="true">ever</normalised> will be <lb/>
+                  <choice ana="illegible">
+                     <sic>f*r*</sic>
+                     <corr/>
+                  </choice> from you. But in the <normalised orig="meane" auto="true">mean</normalised> while it <normalised orig="behoueth" auto="true">behooves</normalised> <lb/>
+you to be in the more <normalised orig="seuere" auto="true">severe</normalised> against them, and not to <lb/>
+vouchsafe them your <normalised orig="gratious" auto="true">gracious</normalised> countenance, as because <lb/>
+they <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> the <normalised orig="meanes" auto="true">means</normalised> of such dishonourable <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="20">C3</fw>
+                  <pb n="19"/>
+                  <lb/>
+and scandalous dealing with your <normalised orig="Maiestie" auto="true">Majesty</normalised>, so also <lb/>
+that you may stop such <normalised orig="foule" auto="true">foul</normalised> <normalised orig="mouthes" auto="true">mouths</normalised>, <normalised orig="restraine" auto="true">restrain</normalised> such <lb/>
+audacious Pens, and lastly stay the passage &amp; current <lb/>
+of them both from this your <normalised orig="Kingdome" auto="true">Kingdom</normalised>, to the further <lb/>
+<normalised orig="heartning" auto="true">heartening</normalised> of the Papists, and the discouragement <lb/>
+of your best affected <normalised orig="Subiects" auto="true">Subjects</normalised>: and also from <lb/>
+other <normalised orig="Kingdomes" auto="true">Kingdoms</normalised> to the great <normalised orig="preiudice" auto="true">prejudice</normalised> of your <lb/>
+<normalised orig="constancie" auto="true">constancy</normalised> in the Gospel, with all other Christian <lb/>
+Princes, &amp; their People. Finally as your <normalised orig="selfe" auto="true">self</normalised> would <lb/>
+not <normalised orig="haue" auto="true">have</normalised> your subordinate <normalised orig="Iudges" auto="true">Judges</normalised> to be <normalised orig="remisse" auto="true">remiss</normalised> in <lb/>
+the execution of <normalised orig="Iustice" auto="true">Justice</normalised> against contemners and <lb/>
+<normalised orig="transgressours" auto="true">transgressors</normalised> of your <normalised orig="owne" auto="true">own</normalised> <normalised orig="Lawes" auto="true">Laws</normalised>, so likewise, O <lb/>
+most Noble King know, and you <normalised orig="doe" auto="true">do</normalised> know as well <lb/>
+as any can tell you, that you ought not to be <normalised orig="remisse" auto="true">remiss</normalised> <lb/>
+in execution of <normalised orig="Iustice" auto="true">Justice</normalised> according to his <normalised orig="Lawes" auto="true">Laws</normalised>, that <lb/>
+is King of Kings, and Lord of Lords, and to whom the <lb/>
+mightiest Princes in the World are <normalised orig="Subiects" auto="true">Subjects</normalised>, as well <lb/>
+as the poorest, meanest, and basest <normalised orig="Subiects" auto="true">Subjects</normalised> of such <lb/>
+Princes. Let no man (<normalised orig="deere" auto="true">dear</normalised> <normalised orig="Soueraigne" auto="true">Sovereign</normalised>) suggest <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> you, that all the former abuses of your <normalised orig="Maiestie" auto="true">Majesty</normalised> <lb/>
+are from them that are reproachfully called Puritans, <lb/>
+as the Powder-Treason should <normalised orig="haue" auto="true">have</normalised> been ascribed <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> them, That which <normalised orig="hath" auto="true">has</normalised> <normalised orig="beene" auto="true">been</normalised> said before <lb/>
+may purge them from all such imputation: And all <lb/>
+such suggestions are from the <normalised orig="Deuil" auto="true">Devil</normalised>, who is a <normalised orig="Lyar" auto="true">Liar</normalised>, and <lb/>
+the Father thereof: And from his Curates here in the <lb/>
+Earth, the <normalised orig="Iesuites" auto="true">Jesuits</normalised>, <normalised orig="Romish" auto="true">Roman</normalised> Priests, and other Papists. <lb/>
+14 I will not here so <normalised orig="preiudice" auto="true">prejudice</normalised> your most Princely <lb/>
+and Christian <normalised orig="wisedome" auto="true">wisdom</normalised>, as to <normalised orig="aduise" auto="true">advise</normalised> you not to <lb/>
+regard flatterers, that shall <normalised orig="perswade" auto="true">persuade</normalised> you to neglect <lb/>
+the <normalised orig="premisses" auto="true">premises</normalised>, and by flattering speeches either <normalised orig="prouoke" auto="true">provoke</normalised> <lb/>
+you to do any thing that you ought not to do, <lb/>
+or hinder you from doing any thing belonging to <lb/>
+                  <fw type="pageNum" n="21">20</fw>
+                  <pb n="20"/>
+                  <lb/>
+your Princely Place and <normalised orig="Dignitie" auto="true">Dignity</normalised>: yet because such <lb/>
+Flatterers <normalised orig="doe" auto="true">do</normalised> as much abound in Princes Courts, for <lb/>
+the Courtly preferments there to be had, as <normalised orig="Waspes" auto="true">Wasps</normalised> <lb/>
+<normalised orig="doe" auto="true">do</normalised> <normalised orig="swarme" auto="true">swarm</normalised> in the Shops of Grocers and Apothecaries, <lb/>
+for the <normalised orig="sweetnesse" auto="true">sweetness</normalised> that is in such Shops, therefore <lb/>
+I beseech your <normalised orig="Maiestie" auto="true">Majesty</normalised>, to <normalised orig="giue" auto="true">give</normalised> me <normalised orig="leaue" auto="true">leave</normalised> to be <lb/>
+a little bold with you herein, that you may the better <lb/>
+beware of such miscreants: the rather because your <lb/>
+<normalised orig="selfe" auto="true">self</normalised> <normalised orig="haue" auto="true">have</normalised> <normalised orig="giuen" auto="true">given</normalised> a most Christian charge to your <lb/>
+Princely <normalised orig="Sonne" auto="true">Son</normalised>, in that <normalised orig="behalfe" auto="true">behalf</normalised>: And for the better <lb/>
+pressing of the said charge <normalised orig="haue" auto="true">have</normalised> called it a filthy vice, <lb/>
+and the pest of Princes, and the <normalised orig="wracke" auto="true">wrack</normalised> of Republikes. <lb/>
+And indeed it is a charge most worthy of all <lb/>
+regard by all Princes, because by such Flatterers <lb/>
+Princes oft times are both restrained from doing <lb/>
+good to them to whom otherwise they would <normalised orig="doe" auto="true">do</normalised> <lb/>
+good: and be also <normalised orig="ouercome" auto="true">overcome</normalised> to <normalised orig="doe" auto="true">do</normalised> that <normalised orig="euill" auto="true">evil</normalised>, which <lb/>
+they would not <normalised orig="doe" auto="true">do</normalised>, and which they ought not to <lb/>
+<normalised orig="doe" auto="true">do</normalised>. Achish King of Gath, acknowledged <normalised orig="Dauid" auto="true">David</normalised> to <lb/>
+<normalised orig="haue" auto="true">have</normalised> been <normalised orig="vpright" auto="true">upright</normalised>, and his going out and <normalised orig="comming" auto="true">coming</normalised> <lb/>
+in with him, in the Host, to <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> good in his <lb/>
+sight, <normalised orig="euen" auto="true">even</normalised> as of an Angel of God, yet because his <lb/>
+Lords did not <normalised orig="fauour" auto="true">favour</normalised> him, and the Princes of the <lb/>
+Philistimes had spoken against him, therefore he <lb/>
+could not, he durst not <normalised orig="doe" auto="true">do</normalised> that for him, that he <lb/>
+would. By the <normalised orig="flatterie" auto="true">flattery</normalised> of the Median and Persian <lb/>
+Princes, how hardly and with what <normalised orig="griefe" auto="true">grief</normalised> of Heart <lb/>
+was Darius <normalised orig="drawne" auto="true">drawn</normalised> to execute his wicked Decree, <lb/>
+made by their importune <normalised orig="flatterie" auto="true">flattery</normalised>, and to cast Daniel, <lb/>
+whom he <normalised orig="loued" auto="true">loved</normalised> most <normalised orig="deerely" auto="true">dearly</normalised>, into the Lyons Den. <lb/>
+To omit the <normalised orig="wofull" auto="true">woeful</normalised> <normalised orig="successe" auto="true">success</normalised> of the <normalised orig="flatterie" auto="true">flattery</normalised> of the <lb/>
+Princes of <normalised orig="Iuda" auto="true">Juda</normalised>, to Ioash the King of <normalised orig="Iuda" auto="true">Juda</normalised>, whereby he <lb/>
+fell from great <normalised orig="forwardnesse" auto="true">forwardness</normalised> in the worship of God, <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="22">C4</fw>
+                  <pb n="21"/>
+                  <lb/>
+into abominable Idolatry, and to <normalised orig="bloodie" auto="true">bloody</normalised> persecution, <lb/>
+<normalised orig="euen" auto="true">even</normalised> of the <normalised orig="Sonnes" auto="true">Sons</normalised> of Iehoiadah, not <normalised orig="remembring" auto="true">remembering</normalised> <lb/>
+the <normalised orig="kindnesse" auto="true">kindness</normalised> of Iehoiadah, whereby he had <normalised orig="beene" auto="true">been</normalised> <lb/>
+<normalised orig="preserued" auto="true">preserved</normalised> for, and <normalised orig="aduanced" auto="true">advanced</normalised> <normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="Kingdome" auto="true">Kingdom</normalised>, to <lb/>
+omit, I say, that their <normalised orig="flatterie" auto="true">flattery</normalised>, that did <normalised orig="vtterly" auto="true">utterly</normalised> <normalised orig="ouerthrow" auto="true">overthrow</normalised> <lb/>
+the said Ioash, the Lord forsaking him, <normalised orig="giuing" auto="true">giving</normalised> <lb/>
+him <normalised orig="ouer" auto="true">over</normalised> to his Enemies, to <normalised orig="fearefull" auto="true">fearful</normalised> diseases, and to <lb/>
+the <normalised orig="bloodie" auto="true">bloody</normalised> Hands of his <normalised orig="owne" auto="true">own</normalised> <normalised orig="Seruants" auto="true">Servants</normalised>, as he had<lb/>
+forsaken the Lord, and stoned to death Zechariah the <lb/>
+<normalised orig="Sonne" auto="true">Son</normalised> of Iehoiadah, <normalised orig="onely" auto="true">only</normalised> for exhorting the People <lb/>
+to repentance by the Spirit of the Lord. Rehoboam <lb/>
+the <normalised orig="Sonne" auto="true">Son</normalised> and <normalised orig="Heire" auto="true">Heir</normalised> of <normalised orig="Salomon" auto="true">Solomon</normalised>, <normalised orig="leauing" auto="true">leaving</normalised> the <normalised orig="counsell" auto="true">counsel</normalised> <lb/>
+of the <normalised orig="auncient" auto="true">ancient</normalised> Councellors of his Father <normalised orig="Salomon" auto="true">Solomon</normalised>, <lb/>
+and hearkening to the <normalised orig="contrarie" auto="true">contrary</normalised> <normalised orig="counsell" auto="true">counsel</normalised> of flattering <lb/>
+<normalised orig="Youthes" auto="true">Youths</normalised> that had <normalised orig="beene" auto="true">been</normalised> brought <normalised orig="vp" auto="true">up</normalised> with him, <lb/>
+did loose the greatest part of his <normalised orig="Kingdome" auto="true">Kingdom</normalised>, without<lb/>
+any <normalised orig="recouerie" auto="true">recovery</normalised> thereof afterwards. Finally <normalised orig="Dauid" auto="true">David</normalised>, a <lb/>
+man according to Gods <normalised orig="owne" auto="true">own</normalised> Heart, neither only a <lb/>
+valiant and potent King, but also an excellent &amp; holy <lb/>
+Prophet, was so notwithstanding <normalised orig="swaied" auto="true">swayed</normalised> with the <lb/>
+smooth yet slanderous words of Ziba against <normalised orig="faithfull" auto="true">faithful</normalised> <lb/>
+Mephibosheth, the <normalised orig="Sonne" auto="true">Son</normalised> of his <normalised orig="faithfull" auto="true">faithful</normalised> Friend <lb/>
+<normalised orig="Ionathan" auto="true">Jonathan</normalised>, and whom before <normalised orig="vpon" auto="true">upon</normalised> the Information of <lb/>
+him by Ziba, he had greatly graced, <normalised orig="euen" auto="true">even</normalised> <normalised orig="Dauid" auto="true">David</normalised>, I say, <lb/>
+<normalised orig="himselfe" auto="true">himself</normalised> was so <normalised orig="swaied" auto="true">swayed</normalised> by the <normalised orig="flatterie" auto="true">flattery</normalised> of Ziba, that <lb/>
+he <normalised orig="gaue" auto="true">gave</normalised> <normalised orig="verie" auto="true">very</normalised> hard sentence against the said Mephibosheth. <lb/>
+None therefore is so godly, so learned, so wise, <lb/>
+but he may be abused by Sycophants, that are more <lb/>
+dangerous to any, especially to Princes, then open <lb/>
+Enemies: neither <normalised orig="onely" auto="true">only</normalised> to Princes <normalised orig="themselues" auto="true">themselves</normalised>, but <lb/>
+also to their <normalised orig="Posteritie" auto="true">Posterity</normalised>, &amp; to their whole <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>. <lb/>
+I <normalised orig="feare" auto="true">fear</normalised> to <normalised orig="feare" auto="true">fear</normalised> that by such <normalised orig="meanes" auto="true">means</normalised> the most Noble <lb/>
+and Religious Prince and <normalised orig="Princesse" auto="true">Princess</normalised> Palatine, <normalised orig="haue" auto="true">have</normalised> <lb/>
+                  <fw type="pageNum" n="23">22</fw>
+                  <pb n="22"/>
+                  <lb/>
+had the <normalised orig="lesse" auto="true">less</normalised> <normalised orig="ayd" auto="true">aid</normalised>, and Spinola, and other their Enemies, <lb/>
+and the Enemies of Christ <normalised orig="Iesus" auto="true">Jesus</normalised> <normalised orig="haue" auto="true">have</normalised> had <lb/>
+the more <normalised orig="euen" auto="true">even</normalised> out of this Land, and from your <normalised orig="Maiesties" auto="true">Majesties</normalised> <lb/>
+<normalised orig="Subiects" auto="true">Subjects</normalised>. And this I <normalised orig="feare" auto="true">fear</normalised>, and other your <lb/>
+<normalised orig="Maiesties" auto="true">Majesties</normalised> <normalised orig="faithfull" auto="true">faithful</normalised> <normalised orig="Subiects" auto="true">Subjects</normalised> in <normalised orig="loyaltie" auto="true">loyalty</normalised> may the more <lb/>
+<normalised orig="feare" auto="true">fear</normalised>, in respect of your own most Princely words, <lb/>
+in open Parliament, and published in Print to all <lb/>
+the world, for maintaining their right in the <normalised orig="Countie" auto="true">County</normalised> <lb/>
+Palatine <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> it should cost you: nothing <lb/>
+for all that being <normalised orig="euer" auto="true">ever</normalised> since done in that <normalised orig="behalfe" auto="true">behalf</normalised>: <lb/>
+but rather their said whole <normalised orig="Countie" auto="true">County</normalised> for want of aid <lb/>
+being depopulated, laid waste, and <normalised orig="possest" auto="true">possessed</normalised> by their <lb/>
+Enemies. But this matter I <normalised orig="leaue" auto="true">leave</normalised> to your <normalised orig="Maiestie" auto="true">Majesty</normalised>, <lb/>
+whose <normalised orig="honor" auto="true">honour</normalised> it is to search out the depth thereof, &amp; <lb/>
+to whom by nature it <normalised orig="selfe" auto="true">self</normalised> it especially <normalised orig="belongeth" auto="true">belongs</normalised> <lb/>
+so to <normalised orig="doe" auto="true">do</normalised>. Although also some of the Papists against <lb/>
+whom I <normalised orig="haue" auto="true">have</normalised> before <normalised orig="perswaded" auto="true">persuaded</normalised> your <normalised orig="Maiestie" auto="true">Majesty</normalised> to <lb/>
+draw forth the Sword of <normalised orig="Iustice" auto="true">Justice</normalised>, are so close, secret, <lb/>
+and cunning by their going to Church, and by <lb/>
+their <normalised orig="glozing" auto="true">glossing</normalised> and flattering tongues that they can <lb/>
+hardly be discerned, yet as the <normalised orig="Aduertisements" auto="false">Advertisements</normalised> following <lb/>
+<normalised orig="doe" auto="true">do</normalised> set down some notes whereby they <lb/>
+may be discerned, so also your excellent <normalised orig="wisedom" auto="true">wisdom</normalised> <lb/>
+is able to <normalised orig="diue" auto="true">dive</normalised> much more deeply into them, and <lb/>
+therefore I leave this matter also to the honour of <lb/>
+your <normalised orig="Maiestie" auto="true">Majesty</normalised>. <lb/>
+15 Touching the <normalised orig="foresaid" auto="true">aforesaid</normalised> Preachers notwithstanding <lb/>
+of the Gospel commended to your <normalised orig="Maiesties" auto="true">Majesties</normalised> <lb/>
+grace and favour, and to the mediation of <lb/>
+your High Court of Parliament with your <normalised orig="Majestie" auto="true">Majesty</normalised> <lb/>
+in their <normalised orig="behalfe" auto="true">behalf</normalised>, give me leave I humbly beseech <lb/>
+you, to <normalised orig="informe" auto="true">inform</normalised> your <normalised orig="Maiestie" auto="true">Majesty</normalised> of one thing that in <lb/>
+<normalised orig="loyaltie" auto="true">loyalty</normalised>, I am <normalised orig="perswaded" auto="true">persuaded</normalised> you <normalised orig="haue" auto="true">have</normalised> not yet fully <normalised orig="vnderstood" auto="true">understood</normalised>, <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="24">D</fw>
+                  <pb n="23"/>
+                  <lb/>
+that is, That <normalised orig="vnder" auto="true">under</normalised> pretext of your <normalised orig="Royall" auto="true">Royal</normalised> <lb/>
+<normalised orig="authoritie" auto="true">authority</normalised>, some Prelates now dead, and some yet <normalised orig="liuing" auto="true">living</normalised> <lb/>
+<normalised orig="haue" auto="true">have</normalised> silenced &amp; <normalised orig="depriued" auto="true">deprived</normalised> more learned, godly, <lb/>
+and <normalised orig="painefull" auto="true">painful</normalised> Ministers within the space of <normalised orig="foure" auto="true">four</normalised> <lb/>
+<normalised orig="yeeres" auto="true">years</normalised>, then in three <normalised orig="skore" auto="false">score</normalised> <normalised orig="yeeres" auto="true">years</normalised> <normalised orig="haue" auto="true">have</normalised> been so molested, <lb/>
+and put out of ignorant, <normalised orig="vngodly" auto="true">ungodly</normalised>, and idle <lb/>
+ones. Nay I may almost say that more hundreds, at <lb/>
+least more <normalised orig="skores" auto="false">scores</normalised> of the former sort <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> cast <lb/>
+out as <normalised orig="vnsauorie" auto="true">unsavoury</normalised> Salt, then persons of the latter sort <lb/>
+since the first <normalised orig="yeere" auto="true">year</normalised> of most <normalised orig="renowmed" auto="true">renowned</normalised> <normalised orig="Queene" auto="true">Queen</normalised> Elizabeth. <lb/>
+If I should say also that some scandalous Ministers <lb/>
+no better then <normalised orig="Seminarie" auto="true">Seminary</normalised> Popish Priests, a little <lb/>
+before their preferment to Benefices, here in <lb/>
+England, being for some notorious offences by much <lb/>
+cost and labour at the last cast out of one <normalised orig="Diocesse" auto="true">Diocese</normalised>, <lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> restored and <normalised orig="prouided" auto="true">provided</normalised> for in another, I <lb/>
+should not greatly <normalised orig="erre" auto="true">err</normalised>. I may yet say somewhat <lb/>
+more, namely, That it <normalised orig="hath" auto="true">has</normalised> <normalised orig="beene" auto="true">been</normalised> an easier matter for <lb/>
+<normalised orig="diuers" auto="true">divers</normalised> such learned &amp; godly Ministers, to be <normalised orig="eiected" auto="false">ejected</normalised> <lb/>
+of all maintenance, and exposed with their <normalised orig="Wiues" auto="true">Wives</normalised> <lb/>
+and Children to extreme <normalised orig="penurie" auto="true">penury</normalised>, and contempt of  <lb/>
+all men (contempt <normalised orig="alwayes" auto="true">always</normalised> following <normalised orig="penurie" auto="true">penury</normalised>) at <lb/>
+the complaint of some one, or two, or three <normalised orig="lewde" auto="true">lewd</normalised>, <lb/>
+and base persons, and sometimes without the complaint <lb/>
+of any then for good Ministers to hold their <lb/>
+places, though <normalised orig="neuer" auto="true">never</normalised> so many honest, religious, and <lb/>
+otherwise <normalised orig="substanciall" auto="true">substantial</normalised> men <normalised orig="haue" auto="true">have</normalised> most earnestly and <lb/>
+humbly supplicated for them: as also then it <normalised orig="hath" auto="true">has</normalised> <lb/>
+been to <normalised orig="remoue" auto="true">remove</normalised> an <normalised orig="vnlearned" auto="true">unlearned</normalised>, idle, and most scandalous <lb/>
+Minister though <normalised orig="neuer" auto="true">never</normalised> so many <normalised orig="haue" auto="true">have</normalised> laboured <lb/>
+his <normalised orig="remoue" auto="true">remove</normalised>. Whether these things be not lamentable <lb/>
+and most lamentable, and whether they <normalised orig="doe" auto="true">do</normalised> not bewray <lb/>
+a greater regard of the <normalised orig="commandements" auto="true">commandments</normalised> of <lb/>
+                  <fw type="pageNum" n="25">24</fw>
+                  <pb n="24"/>
+                  <lb/>
+men, for <normalised orig="conformitie" auto="true">conformity</normalised>, then of Gods <normalised orig="Commandements" auto="true">Commandments</normalised> <lb/>
+for true <normalised orig="pietie" auto="true">piety</normalised>, I <normalised orig="referre" auto="true">refer</normalised> my <normalised orig="selfe" auto="true">self</normalised> to the <normalised orig="iudgement" auto="true">judgment</normalised> <lb/>
+of your Sacred <normalised orig="Maiestie" auto="true">Majesty</normalised>, this being also further <lb/>
+considered, that in complaints against <normalised orig="vnable" auto="true">unable</normalised>, or scandalous <lb/>
+Ministers all delay is <normalised orig="vsed" auto="true">used</normalised> &amp; all must be done <lb/>
+by degrees, and in course and <normalised orig="forme" auto="true">form</normalised> of Law: but <lb/>
+against good Ministers <normalised orig="euerie" auto="true">every</normalised> thing is done speedily <lb/>
+and with expedition, as if our <normalised orig="Sauiour" auto="true">Saviour</normalised> had said to <lb/>
+such Courts touching such Ministers, by way of <lb/>
+commanding as he said to <normalised orig="Iudas" auto="true">Judas</normalised> as a <normalised orig="Iudge" auto="true">Judge</normalised>, to hasten <lb/>
+his <normalised orig="owne" auto="true">own</normalised> <normalised orig="Iudgement" auto="true">Judgment</normalised>, by betraying our <normalised orig="Sauiour" auto="true">Saviour</normalised>, <lb/>
+                  <quote type="biblical" ana="Jn 13.27">That that thou doest <normalised orig="doe" auto="true">do</normalised> quickly.</quote> Neither is this all, <lb/>
+but this expedition is <normalised orig="vsed" auto="true">used</normalised> without Law, <normalised orig="contrarie" auto="true">contrary</normalised> to <lb/>
+Law; no man oft-times accusing such Ministers, or <lb/>
+<normalised orig="shewing" auto="true">showing</normalised> <normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="Plaintife" auto="true">Plaintiff</normalised> against them. Hereby as <lb/>
+<normalised orig="Poperie" auto="true">Popery</normalised> and Papists are in your <normalised orig="Maiesties" auto="true">Majesties</normalised> knowledge <lb/>
+greatly <normalised orig="encreased" auto="true">increased</normalised>, so Ignorance, <normalised orig="Atheisme" auto="true">Atheism</normalised>, <normalised orig="Profanenesse" auto="false">Profaneness</normalised>, <lb/>
+Blaspheming, all manner of Swearing, contempt <lb/>
+of the Word, Whoring, <normalised orig="Drunkennesse" auto="true">Drunkenness</normalised>, and <lb/>
+all <normalised orig="wickednesse" auto="true">wickedness</normalised> and abominations, are more multiplied, <lb/>
+then either your <normalised orig="Maiestie" auto="true">Majesty</normalised> <normalised orig="knoweth" auto="true">knows</normalised> or would <lb/>
+almost <normalised orig="beleeue" auto="true">believe</normalised>. <normalised orig="Verely" auto="true">Verily</normalised> if your <normalised orig="Maiestie" auto="true">Majesty</normalised> knew as <lb/>
+much herein, as other not altogether blind <normalised orig="doe" auto="true">do</normalised> see, I <lb/>
+hope your Christian Heart would be much <normalised orig="moued" auto="true">moved</normalised> <lb/>
+with a Christian commiseration of the lamentable <lb/>
+state of your People so ignorant, and by ignorance <lb/>
+strangers from the Life of God, and in <normalised orig="darkenesse" auto="true">darkness</normalised> <lb/>
+and in the power of Satan, &amp;c. Your <normalised orig="selfe" auto="true">self</normalised>, your <normalised orig="Royall" auto="true">Royal</normalised> <lb/>
+<normalised orig="Posteritie" auto="true">Posterity</normalised>, and the whole <normalised orig="Kingdome" auto="true">Kingdom</normalised> cannot be <lb/>
+without danger, so long as these things are suffered. <lb/>
+As therefore your <normalised orig="Maiestie" auto="true">Majesty</normalised> <normalised orig="regardeth" auto="true">regards</normalised> the <normalised orig="safetie" auto="true">safety</normalised> of <lb/>
+your own <normalised orig="royall" auto="true">royal</normalised> Person, of your <normalised orig="royall" auto="true">royal</normalised> <normalised orig="Posteritie" auto="true">Posterity</normalised>, &amp; <lb/>
+of all your <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>, so I humbly beseech you to <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="26">D2</fw>
+                  <pb n="25"/>
+                  <lb/>
+consider of these things, without reformation <lb/>
+whereof, you cannot but <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="feare" auto="true">fear</normalised>; or if you <lb/>
+<normalised orig="doe" auto="true">do</normalised> not <normalised orig="feare" auto="true">fear</normalised>, you cannot but be in <normalised orig="greate" auto="true">great</normalised> danger, <lb/>
+and <normalised orig="haue" auto="true">have</normalised> the more cause to <normalised orig="feare" auto="true">fear</normalised>. <lb/>
+16 In the consideration of the said things, and <lb/>
+for further examination of them, rely not too much <lb/>
+(my Lord O King) <normalised orig="vpon" auto="true">upon</normalised> your Prelates, by some of <lb/>
+whom your said People, are most of all held in ignorance. <lb/>
+For they (not all but the most part) multiplying <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> <normalised orig="themselues" auto="true">themselves</normalised> <normalised orig="Lyuing" auto="true">Living</normalised> <normalised orig="vpon" auto="true">upon</normalised> <normalised orig="Lyuing" auto="true">Living</normalised>, and <lb/>
+<normalised orig="climing" auto="true">climbing</normalised> to be Lords <normalised orig="ouer" auto="true">over</normalised> the Lords Heritage, <normalised orig="contrarie" auto="true">contrary</normalised> <lb/>
+to our <normalised orig="Sauiour" auto="true">Saviour</normalised> and the Apostles command, <lb/>
+<normalised orig="haue" auto="true">have</normalised> their Curates <normalised orig="vnder" auto="true">under</normalised> them, as <normalised orig="Seruants" auto="true">Servants</normalised> <normalised orig="vnto" auto="true">unto</normalised> <lb/>
+them, that dare not preach <normalised orig="oftner" auto="true">oftener</normalised>, neither otherwise <lb/>
+then their Masters please, and <normalised orig="enioyne" auto="true">enjoin</normalised> them, their <lb/>
+said Masters in the <normalised orig="meane" auto="true">mean</normalised> time <normalised orig="liuing" auto="true">living</normalised> idle, not labouring <lb/>
+but <normalised orig="loytering" auto="true">loitering</normalised>, eating, drinking, playing, maintaining <lb/>
+their <normalised orig="Sonnes" auto="true">Sons</normalised> and <normalised orig="Seruants" auto="true">Servants</normalised> as great Gentlemen, <lb/>
+or rather as swaggerers, and their <normalised orig="Wiues" auto="true">Wives</normalised> and Daughters <lb/>
+like <normalised orig="Ladyes" auto="true">Ladies</normalised>. Hereby Learning is not <normalised orig="aduanced" auto="true">advanced</normalised> <lb/>
+as they pretend, but <normalised orig="deiected" auto="true">dejected</normalised>, on the part both of <lb/>
+such Masters, and also of such <normalised orig="Seruants" auto="true">Servants</normalised>. Of such Masters, <lb/>
+because most of them spend not their time in <lb/>
+<normalised orig="studie" auto="true">study</normalised>, but (as I said) in gaming, and eating, and drinking: <lb/>
+and God <normalised orig="hath" auto="true">has</normalised> promised increase of Learning <lb/>
+to the right <normalised orig="vse" auto="true">use</normalised> of Learning, not to the hiding thereof <lb/>
+in a Napkin. On the part of such <normalised orig="Seruants" auto="true">Servants</normalised>, because <lb/>
+they for the most part <normalised orig="haue" auto="true">have</normalised> not wages sufficient to <lb/>
+buy <normalised orig="themselues" auto="true">themselves</normalised> and their <normalised orig="Wiues" auto="true">Wives</normalised> &amp; Children meat, <lb/>
+<normalised orig="drinke" auto="true">drink</normalised>, and <normalised orig="apparell" auto="true">apparel</normalised>: much <normalised orig="lesse" auto="true">less</normalised> can they furnish <lb/>
+<normalised orig="themselues" auto="true">themselves</normalised> with <normalised orig="Bookes" auto="true">Books</normalised> for <normalised orig="encrease" auto="true">increase</normalised> of their Learning. <lb/>
+By the former <normalised orig="meanes" auto="true">means</normalised> also the <normalised orig="Ministerie" auto="true">Ministry</normalised> is <lb/>
+brought into contempt, the number of such <normalised orig="Seruants" auto="true">Servants</normalised> <lb/>
+                  <fw type="pageNum" n="27">26</fw>
+                  <pb n="26"/>
+                  <lb/>
+being greater then of such Lordly Masters, and so <lb/>
+<normalised orig="beggerly" auto="true">beggarly</normalised> that no man <normalised orig="setteth" auto="true">sets</normalised> a Rush by them. The <lb/>
+state likewise of the Church is thereby turned into <lb/>
+a Common-wealth, according to that of Marcus <lb/>
+Antonius (though now as they say like a Dog returned <lb/>
+to his vomit, and like a Swine <normalised orig="vnto" auto="true">unto</normalised> his mire) in <lb/>
+that little <normalised orig="Booke" auto="true">Book</normalised> that he brought with him of his <lb/>
+Reason why he left his former <normalised orig="Archbishopricke" auto="true">Archbishopric</normalised>: <lb/>
+<normalised orig="euen" auto="true">even</normalised> to such a Common-wealth is the state of our <lb/>
+Church now brought that it nothing almost <normalised orig="differeth" auto="true">differs</normalised> <lb/>
+from the <normalised orig="Monarchicall" auto="true">Monarchical</normalised> state of the <normalised orig="Romish" auto="true">Roman</normalised> Synagogue. <lb/>
+And albeit I hope that some of the <normalised orig="chiefe" auto="true">chief</normalised> <lb/>
+Prelates, and some other of them be so sound in <lb/>
+most <normalised orig="fundamentall" auto="true">fundamental</normalised> Articles of the Faith, that if need <lb/>
+required, they would <normalised orig="giue" auto="true">give</normalised> their <normalised orig="liues" auto="true">lives</normalised> for the Gospel, <lb/>
+as Cranmer, Ridly, Latimer, Hooper, and other did in <lb/>
+the <normalised orig="bloodie" auto="true">bloody</normalised> and bitter Marian times, yet <normalised orig="euen" auto="true">even</normalised> such <lb/>
+would find it the harder so to <normalised orig="doe" auto="true">do</normalised>, the greater wealth <lb/>
+and honour that in the <normalised orig="meane" auto="true">mean</normalised> time they <normalised orig="enioy" auto="true">enjoy</normalised>. I <lb/>
+<normalised orig="doe" auto="true">do</normalised> also much <normalised orig="feare" auto="true">fear</normalised> that some other, especially such <lb/>
+as are most eager &amp; hot for the present <normalised orig="conformitie" auto="true">conformity</normalised>, <lb/>
+and against their Brethren, whom <normalised orig="reprochfully" auto="false">reproachfully</normalised> they <lb/>
+call Puritans, and whom they persecute as <normalised orig="euill" auto="true">evil</normalised> doers, <lb/>
+and more <normalised orig="sharpely" auto="true">sharply</normalised> then they <normalised orig="doe" auto="true">do</normalised> <normalised orig="knowne" auto="true">known</normalised> Papists, <lb/>
+would be more forward (if the times would <normalised orig="serue" auto="true">serve</normalised> <lb/>
+their <normalised orig="mindes" auto="true">minds</normalised>) to <normalised orig="aduance" auto="true">advance</normalised> <normalised orig="Poperie" auto="true">Popery</normalised> and all Idolatry, <lb/>
+then <normalised orig="euer" auto="true">ever</normalised> they had <normalised orig="beene" auto="true">been</normalised> to promote the Gospel. <lb/>
+If their Studies and Houses were diligently searched <lb/>
+by <normalised orig="faithfull" auto="true">faithful</normalised> Persons, I doubt not but that such Crucifixes, <lb/>
+and other like Monuments of <normalised orig="Poperie" auto="true">Popery</normalised> would <lb/>
+be found as should sufficiently <normalised orig="testifie" auto="true">testify</normalised> thus much. <lb/>
+17 But to <normalised orig="leaue" auto="true">leave</normalised> them, the Common sort of your <lb/>
+<normalised orig="Subiects" auto="true">Subjects</normalised> are so ignorant in the <normalised orig="verie" auto="true">very</normalised> Principles of <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="28">D3</fw>
+                  <pb n="27"/>
+                  <lb/>
+Religion, that not one of an hundred (I <normalised orig="speake" auto="true">speak</normalised> within <lb/>
+<normalised orig="compasse" auto="true">compass</normalised>) is able to <normalised orig="giue" auto="true">give</normalised> <normalised orig="accompt" auto="true">account</normalised> of Faith, or tell <lb/>
+the meaning in any sort of any <normalised orig="Commandement" auto="true">Commandment</normalised> <lb/>
+of the Law, or any Article of Faith, of any Petition <lb/>
+in the Lords Prayer, or scarce how many Sacraments <lb/>
+there are. O <normalised orig="deere" auto="true">dear</normalised> <normalised orig="Soueraigne" auto="true">Sovereign</normalised>, I beseech your <normalised orig="Maiestie" auto="true">Majesty</normalised> <lb/>
+consider how apt and fit such People are for <lb/>
+Sedition, and how easily by any Head they might be <lb/>
+<normalised orig="drawne" auto="true">drawn</normalised> into Rebellion. On the <normalised orig="contrarie" auto="true">contrary</normalised> where <lb/>
+there <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> most such Preachers of any continuance, <lb/>
+as <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> and are yet silenced and <normalised orig="depriued" auto="true">deprived</normalised>, <lb/>
+there is most knowledge of God, most <normalised orig="loyall" auto="true">loyal</normalised> <lb/>
+<normalised orig="loue" auto="true">love</normalised>, <normalised orig="dutie" auto="true">duty</normalised>, and allegiance to your <normalised orig="Maiestie" auto="true">Majesty</normalised>, and best <lb/>
+affection to your <normalised orig="Royall" auto="true">Royal</normalised> <normalised orig="Posteritie" auto="true">Posterity</normalised> at home and <lb/>
+abroad. And touching your <normalised orig="Royall" auto="true">Royal</normalised> <normalised orig="Posteritie" auto="true">Posterity</normalised> <lb/>
+abroad, the most Noble Prince and <normalised orig="Princesse" auto="true">Princess</normalised> Palatine <lb/>
+and their Princely Off-spring (all Branches of your <lb/>
+<normalised orig="Maiestie" auto="true">Majesty</normalised>) it is no small <normalised orig="griefe" auto="true">grief</normalised> of heart to your best <lb/>
+<normalised orig="Subiects" auto="true">Subjects</normalised>, so instructed (as before I said) in the knowledge <lb/>
+of God, not <normalised orig="onely" auto="true">only</normalised> to see their present hard <lb/>
+state, and their <normalised orig="disgracefull" auto="true">disgraceful</normalised> <normalised orig="vsage" auto="true">usage</normalised> by their Enemies in <lb/>
+other <normalised orig="Countreys" auto="true">Countries</normalised>, but also to <normalised orig="heare" auto="true">hear</normalised> the Ignorant sort <lb/>
+or rather the Hellish <normalised orig="rowt" auto="false">route</normalised> of Papists (though perhaps <lb/>
+                  ex ipsis Nobilibus, or lately Nobilitatis) and their adherents <lb/>
+at home, <normalised orig="prouoking" auto="true">provoking</normalised> the Ignorant and baser sort <lb/>
+both to be so forward in affording <normalised orig="helpe" auto="true">help</normalised> to the <normalised orig="Emperour" auto="true">Emperor</normalised>, <lb/>
+to Spinola, and to the rest of  their Enemies, <lb/>
+and likewise to be so <normalised orig="lauish" auto="true">lavish</normalised> in their Tongues, and <lb/>
+<normalised orig="blacke" auto="true">black</normalised> Mouthed like Rabsheka, and so <normalised orig="foule" auto="true">foul</normalised> Mouthed <lb/>
+like Shimei, in speaking so disgracefully, basely, and <lb/>
+contumeliously of them: The greatest Masters and <lb/>
+<normalised orig="Captaines" auto="true">Captains</normalised> notwithstanding of such <normalised orig="foule" auto="true">foul</normalised> speakers, <lb/>
+not being worthy to wipe their <normalised orig="Shooes" auto="true">Shoes</normalised>. Can such <lb/>
+                  <pb n="28"/>
+                  <lb/>
+be <normalised orig="faithfull" auto="true">faithful</normalised> to your <choice ana="print-error">
+                     <sic>Mtiestie</sic>
+                     <corr><normalised orig="Maiestie" auto="true">Majesty</normalised></corr>
+                  </choice> Nay rather they are all <lb/>
+<normalised orig="Traytours" auto="true">Traitors</normalised>, how great <normalised orig="soeuer" auto="true">soever</normalised> they be: and the Lord <lb/>
+reward them as <normalised orig="Traytours" auto="true">Traitors</normalised>; neither <normalised orig="onely" auto="true">only</normalised> them, but <lb/>
+also them that are confederates with them against <lb/>
+the said Princes, how eminent <normalised orig="soeuer" auto="true">soever</normalised>, and in what <lb/>
+grace <normalised orig="soeuer" auto="true">soever</normalised> they be for the present, <normalised orig="euen" auto="true">even</normalised> with your <lb/>
+<normalised orig="Maiestie" auto="true">Majesty</normalised>. O that your <normalised orig="Maiesties" auto="true">Majesties</normalised> indignation would <lb/>
+<normalised orig="breake" auto="true">break</normalised> forth like Fire, so to <normalised orig="represse" auto="true">repress</normalised>, and <normalised orig="euen" auto="true">even</normalised> cut <lb/>
+them <normalised orig="vp" auto="true">up</normalised> by the Root, that their place might be no <lb/>
+more <normalised orig="seene" auto="true">seen</normalised>, and that thereby the hearts of them may <lb/>
+be cheered, that <normalised orig="haue" auto="true">have</normalised> been and daily are <normalised orig="vnfaignedly" auto="false">unfeignedly</normalised> <lb/>
+by such things <normalised orig="grieued" auto="true">grieved</normalised> and deeply wounded. <lb/>
+18 I dare not by writing too much be too tedious <lb/>
+to your <normalised orig="Maiestie" auto="true">Majesty</normalised>, If it shall please you to vouchsafe <lb/>
+the reading of the <normalised orig="Supplicatorie" auto="true">Supplicatory</normalised> <normalised orig="Aduertisements" auto="false">Advertisements</normalised>, <lb/>
+your Princely <normalised orig="wisedome" auto="true">wisdom</normalised> is such, that by a little you <lb/>
+shall <normalised orig="vnderstand" auto="true">understand</normalised> much necessarily to be done for <lb/>
+the suppressing of <normalised orig="Poperie" auto="true">Popery</normalised>, &amp; of all the Friends thereof, <lb/>
+and for the enlargement of the Gospel, and the <lb/>
+sincere Preachers and <normalised orig="Professours" auto="true">Professors</normalised> thereof, and consequently <lb/>
+for the peace and <normalised orig="securitie" auto="true">security</normalised> of your <normalised orig="owne" auto="true">own</normalised> <lb/>
+<normalised orig="Royall" auto="true">Royal</normalised> Person, of your <normalised orig="Royall" auto="true">Royal</normalised> <normalised orig="Posteritie" auto="true">Posterity</normalised>, and of all <lb/>
+your Dominions for the time present and for the <lb/>
+time to come. The same I say for the second part of <lb/>
+the <normalised orig="Aduertisements" auto="false">Advertisements</normalised>, directed also to the High Court <lb/>
+of Parliament for their mediation with your <normalised orig="Maiestie" auto="true">Majesty</normalised>, <lb/>
+as also of my <normalised orig="Latine" auto="true">Latin</normalised> Petition to your Bishops. <lb/>
+All which I humbly submit to your <normalised orig="Maiesties" auto="true">Majesties</normalised> Christian <lb/>
+<normalised orig="wisedome" auto="true">wisdom</normalised> and consideration: only most humbly <lb/>
+desiring, that in them, and in all other matters of <lb/>
+the Churches of God committed to your feeding, <lb/>
+as also in all <normalised orig="affaires" auto="true">affairs</normalised> of your <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>, you will do <lb/>
+all according to the Word of God, whose <normalised orig="Lieuetenant" auto="true">Lieutenant</normalised>  <lb/>
+                  <pb n="29"/>
+                  <lb/>
+you are, and <normalised orig="vpon" auto="true">upon</normalised> whose Throne (as before I <lb/>
+said) you <normalised orig="doe" auto="true">do</normalised> sit to execute <normalised orig="Iudgement" auto="true">Judgment</normalised> and <normalised orig="Iustice" auto="true">Justice</normalised>, <lb/>
+whereof Gods Word (as before likewise I said) is<lb/>
+the only rule: that so it may be said in all Generations <lb/>
+succeeding, as it is said of <normalised orig="Dauid" auto="true">David</normalised>, That you <normalised orig="haue" auto="true">have</normalised> <lb/>
+fed them according to the <normalised orig="integritie" auto="true">integrity</normalised> of your heart, <lb/>
+and guided them by the <normalised orig="skilfulnesse" auto="false">skilfulness</normalised> of your hands. <lb/>
+As all men must <normalised orig="haue" auto="true">have</normalised> respect to the Word of God, <lb/>
+so especially must Princes, according to Gods charge <lb/>
+to Moses for direction of the King, <normalised orig="alwayes" auto="true">always</normalised>, and all <lb/>
+the <normalised orig="dayes" auto="true">days</normalised> of his life, to <normalised orig="haue" auto="true">have</normalised> the <normalised orig="Booke" auto="true">Book</normalised> of the Law <lb/>
+to <normalised orig="reade" auto="true">read</normalised> therein, as also according to the like charge <lb/>
+<normalised orig="afterward" auto="true">afterwards</normalised> <normalised orig="giuen" auto="true">given</normalised> <normalised orig="vnto" auto="true">unto</normalised> <choice ana="typeset-error">
+                     <sic>Ioshna</sic>
+                     <corr>Ioshua</corr>
+                  </choice>: In which respect as <normalised orig="Dauid" auto="true">David</normalised> <lb/>
+made Gods Testimonies his Councellors, so by <lb/>
+his <normalised orig="continuall" auto="true">continual</normalised> meditation, and keeping of them, he <lb/>
+was made wiser then his Enemies, and <normalised orig="vnderstood" auto="true">understood</normalised> <lb/>
+more then all his Teachers, then all his <normalised orig="Auncients" auto="true">Ancients</normalised>. <lb/>
+What Prince would <normalised orig="haue" auto="true">have</normalised> more <normalised orig="wisedome" auto="true">wisdom</normalised>, more <lb/>
+<normalised orig="vnderstanding" auto="true">understanding</normalised>? All <normalised orig="Policie" auto="true">Policy</normalised> without the Word, or <lb/>
+besides the Word is but <normalised orig="foolishnesse" auto="true">foolishness</normalised>, and no better <lb/>
+then <normalised orig="meere" auto="true">mere</normalised> <normalised orig="madnesse" auto="true">madness</normalised>. And therefore the Lord saith <lb/>
+that all the Wisemen (<normalised orig="euen" auto="true">even</normalised> the Noble Councellors  <lb/>
+of <normalised orig="Iuda" auto="true">Juda</normalised>) had <normalised orig="reiected" auto="true">rejected</normalised> the Law of the Lord; And <lb/>
+what <normalised orig="wisedom" auto="true">wisdom</normalised> is in them? Therefore also, as Bathsheba, <lb/>
+in her Golden Precepts to her <normalised orig="Sonne" auto="true">Son</normalised> <normalised orig="Salomon" auto="true">Solomon</normalised> <lb/>
+for his direction in his <normalised orig="Kingdome" auto="true">Kingdom</normalised> saith: <quote type="biblical" ana="Prov 31.4">It is not for <lb/>
+Kings, oh Lemuel, It is not for Kings to <normalised orig="drinke" auto="true">drink</normalised> Wine, nor <lb/>
+for Princes strong <normalised orig="drinke" auto="true">drink</normalised></quote>: so she <normalised orig="giueth" auto="true">gives</normalised> this reason, <quote type="biblical" ana="Prov 31.5">least <lb/>
+they <normalised orig="drinke" auto="true">drink</normalised> and forget the Law, and <normalised orig="peruert" auto="true">pervert</normalised> the <normalised orig="Iudgement" auto="true">Judgment</normalised> <lb/>
+of any of the afflicted</quote>. Thereby noting both that <lb/>
+<normalised orig="Iudgement" auto="true">Judgment</normalised> cannot rightly be executed, where the <lb/>
+Law is forgotten, as also that in <normalised orig="Iudgement" auto="true">Judgment</normalised> the afflicted <lb/>
+(such as the sincere Preachers and Professors of <lb/>
+                  <pb n="30"/>
+                  <lb/>
+the Gospel in these <normalised orig="dayes" auto="true">days</normalised> especially <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>
+                  <lb/>
+principally to be regarded. Therefore also the Magistrate <lb/>
+is called Lex loquens, not that <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> he <normalised orig="speaketh" auto="true">speaks</normalised> is <lb/>
+presently to be taken for Law (this is the <normalised orig="Prerogatiue" auto="true">Prerogative</normalised> <lb/>
+<normalised orig="Royall" auto="true">Royal</normalised> of God alone) but that he must <normalised orig="speake" auto="true">speak</normalised> nothing <lb/>
+but Law. What Law is so excellent, and therefore best <lb/>
+beseeming the <normalised orig="Excellencie" auto="true">Excellency</normalised> of Princes, as the Law of <lb/>
+God? Such as God <normalised orig="himselfe" auto="true">himself</normalised> is, such is his Law. <lb/>
+19 Thus O most dread <normalised orig="Soueraigne" auto="true">Sovereign</normalised> I <normalised orig="haue" auto="true">have</normalised> presumed <lb/>
+to write <normalised orig="vnto" auto="true">unto</normalised> your most excellent <normalised orig="Maiestie" auto="true">Majesty</normalised>, to <normalised orig="craue" auto="true">crave</normalised> <lb/>
+your gracious and Princely Protection of the <normalised orig="Aduertisements" auto="false">Advertisements</normalised> <lb/>
+following, against all malignant Flatterers, <lb/>
+and other accusers <normalised orig="whatsoeuer" auto="true">whatsoever</normalised>. Why I <normalised orig="haue" auto="true">have</normalised> not either <lb/>
+hereunto, or <normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="Aduertisements" auto="false">Advertisements</normalised> <normalised orig="themselues" auto="true">themselves</normalised>, or <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> my <normalised orig="Latine" auto="true">Latin</normalised> Petition to the Bishops affixed my <lb/>
+Name, I <normalised orig="haue" auto="true">have</normalised> <normalised orig="afterward" auto="true">afterwards</normalised> expressed my Reason both in <lb/>
+the <normalised orig="Aduertisements" auto="false">Advertisements</normalised> and also in the said Petition: It is <lb/>
+not in <normalised orig="feare" auto="true">fear</normalised> of your <normalised orig="Maiesties" auto="true">Majesties</normalised> indignation, neither of <lb/>
+the hard dealing of most of the Prelates (though some <lb/>
+of them be hard hearted enough, and would ere this <lb/>
+<normalised orig="haue" auto="true">have</normalised> broken out further, if by <normalised orig="feare" auto="true">fear</normalised> of your <normalised orig="Maiesties" auto="true">Majesties</normalised> <lb/>
+wrath they had not <normalised orig="beene" auto="true">been</normalised> restrained) but it is in <normalised orig="feare" auto="true">fear</normalised> <lb/>
+of the <normalised orig="bloodie" auto="true">bloody</normalised>, <normalised orig="cruell" auto="true">cruel</normalised>, and <normalised orig="mercilesse" auto="true">merciless</normalised> <normalised orig="broode" auto="true">brood</normalised> of Papists, <lb/>
+who if they could not take away my life, by any <lb/>
+colour of Law, in any <normalised orig="Iudiciall" auto="true">Judicial</normalised> Court, yet might and <lb/>
+would do it secretly and without knowledge (as some <lb/>
+lately meeting with other in the High-way, that <normalised orig="haue" auto="true">have</normalised> <lb/>
+commended Preaching, <normalised orig="haue" auto="true">have</normalised> said it had <normalised orig="beene" auto="true">been</normalised> a good <lb/>
+deed to <normalised orig="haue" auto="true">have</normalised> sheathed their Sword in their body) and <lb/>
+so escape all punishment of man: Yet whether they <lb/>
+take away my life, or the life of any other <normalised orig="neuer" auto="true">never</normalised> so secretly, <lb/>
+they shall (with God who being <normalised orig="euerie" auto="true">every</normalised> where, <lb/>
+<normalised orig="seeth" auto="true">sees</normalised> all things though <normalised orig="neuer" auto="true">never</normalised> so secret) be sure (without <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="32">E</fw>
+                  <pb n="31"/>
+                  <lb/>
+repentance in the <normalised orig="meane" auto="true">mean</normalised> time) <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>
+                  <lb/>
+without <normalised orig="Mercie" auto="true">Mercy</normalised>. If notwithstanding the <normalised orig="concealement" auto="true">concealment</normalised> <lb/>
+of my Name, I shall be by any <normalised orig="treacherie" auto="true">treachery</normalised> <normalised orig="discouered" auto="true">discovered</normalised>, I <lb/>
+shall (I hope) willingly submit my <normalised orig="selfe" auto="true">self</normalised>, my life, and all <lb/>
+that I <normalised orig="haue" auto="true">have</normalised> to your <normalised orig="Maiesties" auto="true">Majesties</normalised> pleasure: Yet let such as <lb/>
+shall with any malicious <normalised orig="minde" auto="true">mind</normalised> <normalised orig="discouer" auto="true">discover</normalised> me, take heed <lb/>
+to <normalised orig="themselues" auto="true">themselves</normalised>, for God will surely <normalised orig="finde" auto="true">find</normalised> them out <lb/>
+<normalised orig="wheresoeuer" auto="true">wheresoever</normalised> they shall be, and call them to <normalised orig="Iudgement" auto="true">Judgment</normalised>, <lb/>
+because I <normalised orig="haue" auto="true">have</normalised> done all that I <normalised orig="haue" auto="true">have</normalised> done with an <normalised orig="vpright" auto="true">upright</normalised> <lb/>
+heart to God, to your <normalised orig="Maiestie" auto="true">Majesty</normalised>, to your <normalised orig="Royall" auto="true">Royal</normalised> <lb/>
+<normalised orig="Posteritie" auto="true">Posterity</normalised>, to the Church of God. And therefore as I <lb/>
+do the rather humbly <normalised orig="craue" auto="true">crave</normalised> your Princely protection of <lb/>
+me being so <normalised orig="discouered" auto="true">discovered</normalised>, so I do the more hope thereof. <lb/>
+20 If by my <normalised orig="boldnesse" auto="true">boldness</normalised> in writing thus <normalised orig="vnto" auto="true">unto</normalised> your <lb/>
+<normalised orig="Maiestie" auto="true">Majesty</normalised>, without any <normalised orig="speciall" auto="true">special</normalised> calling for so doing, your <lb/>
+indignation shall be kindled against me, I <normalised orig="doe" auto="true">do</normalised> most <lb/>
+humbly <normalised orig="craue" auto="true">crave</normalised> the pacification thereof, by the consideration <lb/>
+of that <normalised orig="generall" auto="true">general</normalised> bond, wherein as a <normalised orig="Subiect" auto="true">Subject</normalised> I am <lb/>
+bound to wish all good to your <normalised orig="Maiestie" auto="true">Majesty</normalised>, to your <normalised orig="Posteritie" auto="true">Posterity</normalised>, <lb/>
+to your <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>. And albeit I hope some <lb/>
+other of <normalised orig="speciall" auto="true">special</normalised> calling, and of much better <normalised orig="abilitie" auto="true">ability</normalised> <lb/>
+then my <normalised orig="selfe" auto="true">self</normalised>, <normalised orig="haue" auto="true">have</normalised> spoken as plainly as I <normalised orig="haue" auto="true">have</normalised> written, <lb/>
+yet because words <normalised orig="doe" auto="true">do</normalised> often <normalised orig="diffluere" auto="false">deflower</normalised>, and litera scripta <lb/>
+manet, therefore I <normalised orig="hauing" auto="true">having</normalised> no <normalised orig="speciall" auto="true">special</normalised> calling to <normalised orig="speake" auto="true">speak</normalised>, <lb/>
+<normalised orig="haue" auto="true">have</normalised> the more presumed to write. If any other that <lb/>
+should <normalised orig="speake" auto="true">speak</normalised> or write <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> silent, and with-held <lb/>
+their Pens, and so I be one of the Stones that our <normalised orig="Sauiour" auto="true">Saviour</normalised> <lb/>
+saith would <normalised orig="speake" auto="true">speak</normalised>, the other holding their peace. <lb/>
+Yet I humbly beseech your <normalised orig="Maiestie" auto="true">Majesty</normalised>, that what I <normalised orig="haue" auto="true">have</normalised> <lb/>
+thus written, may not be the <normalised orig="lesse" auto="true">less</normalised>, but rather the more <lb/>
+regarded and accepted in that <normalised orig="behalfe" auto="true">behalf</normalised>. Wherein <normalised orig="soeuer" auto="true">soever</normalised> <lb/>
+either in this my Dedication writing to your <normalised orig="Maiestie" auto="true">Majesty</normalised>, <lb/>
+or in any thing written to the Parliament, I <normalised orig="haue" auto="true">have</normalised> failed <lb/>
+                  <pb n="32"/>
+                  <lb/>
+either for matter <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>
+                  <lb/>
+your <normalised orig="Maiesties" auto="true">Majesties</normalised> <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>
+                  <lb/>
+hope whereof I <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>
+                  <lb/>
+and therefore by the <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>
+                  <lb/>
+<normalised orig="haue" auto="true">have</normalised> comfort, <normalised orig="whosoeuer" auto="true">whosoever</normalised> <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>
+                  <lb/>
+<normalised orig="whatsoeuer" auto="true">whatsoever</normalised> else do befall me. <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice>
+                  <lb/>
+<normalised orig="dantly" auto="false">daintily</normalised> Paul <normalised orig="loued" auto="true">loved</normalised> the Corinthians <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice> were <lb/>
+<normalised orig="beloued" auto="true">beloved</normalised> of them, yet for my <choice ana="illegible">
+                     <sic>abun*</sic>
+                     <corr>abundant</corr>
+                  </choice> <normalised orig="loue" auto="true">love</normalised> to your <lb/>
+<normalised orig="Maiestie" auto="true">Majesty</normalised>, to your <normalised orig="Royall" auto="true">Royal</normalised> <normalised orig="Posteritie" auto="true">Posterity</normalised>, and to your <normalised orig="Kingdomes" auto="true">Kingdoms</normalised> <lb/>
+(in which my abundant <normalised orig="loue" auto="true">love</normalised> it may be in some <lb/>
+thing I <normalised orig="haue" auto="true">have</normalised> <normalised orig="ouer-shot" auto="false">over-shot</normalised> my <normalised orig="selfe" auto="true">self</normalised>) I <normalised orig="feare" auto="true">fear</normalised> no such thing <lb/>
+from your <normalised orig="Maiestie" auto="true">Majesty</normalised>. For my <normalised orig="plaine" auto="true">plain</normalised> and homely manner <lb/>
+of writing (I not being as I said acquainted with Court <lb/>
+Language, neither <normalised orig="haue" auto="true">have</normalised> been for many <normalised orig="yeers" auto="true">years</normalised>) I nothing <lb/>
+<normalised orig="feare" auto="true">fear</normalised> your displeasure, because the poorest of Gods <lb/>
+Children do daily present their Supplications to God <lb/>
+<normalised orig="himselfe" auto="true">himself</normalised>, the King of Kings in as <normalised orig="plaine" auto="true">plain</normalised> and course <lb/>
+words and phrases as I <normalised orig="haue" auto="true">have</normalised> now <normalised orig="vsed" auto="true">used</normalised> to your <normalised orig="Maiestie" auto="true">Majesty</normalised>. <lb/>
+21 To conclude all, as I began so I end with my <lb/>
+<normalised orig="heartie" auto="true">hearty</normalised> desire and prayer <normalised orig="againe" auto="true">again</normalised> to God for your <normalised orig="Maiestie" auto="true">Majesty</normalised> <lb/>
+to be <normalised orig="saued" auto="true">saved</normalised>: <normalised orig="euen" auto="true">even</normalised> here <normalised orig="alwayes" auto="true">always</normalised> to be <normalised orig="preserued" auto="true">preserved</normalised> <lb/>
+from all Enemies open and secret, especially from the <lb/>
+Enemies of your <normalised orig="euerlasting" auto="true">everlasting</normalised> <normalised orig="Saluation" auto="true">Salvation</normalised>: and that also <lb/>
+you may <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="haue" auto="true">have</normalised> an Heart <normalised orig="sutable" auto="true">suitable</normalised> to your most <lb/>
+eminent place for God, for <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, for his Gospel, <lb/>
+and for the sincere Preachers &amp; Professors <normalised orig="therof" auto="true">thereof</normalised>, within <lb/>
+your own Dominions, &amp; else-where: and lastly against <lb/>
+all the wicked &amp; <normalised orig="vngodly" auto="true">ungodly</normalised>, of what sort &amp; kind <normalised orig="soeuer" auto="true">soever</normalised>; <lb/>
+that so God may <normalised orig="haue" auto="true">have</normalised> the more <normalised orig="glorie" auto="true">glory</normalised> by you, his <lb/>
+Churches the more comfort, &amp; your <normalised orig="Maiestie" auto="true">Majesty</normalised> the longer <lb/>
+&amp; more prosperous life in this world, &amp; <normalised orig="euerlasting" auto="true">everlasting</normalised> <lb/>
+<normalised orig="happinesse" auto="true">happiness</normalised> &amp; <normalised orig="glorie" auto="true">glory</normalised> in the world to come, <normalised orig="euen" auto="true">even</normalised> in the <lb/>
+<normalised orig="Heauenly" auto="true">Heavenly</normalised> <normalised orig="Kingdome" auto="true">Kingdom</normalised> of Christ, &amp; of God, Amen, Amen.<lb/>
+And let all men say Amen. <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

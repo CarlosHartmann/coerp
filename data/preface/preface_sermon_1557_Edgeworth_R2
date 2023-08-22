@@ -1,0 +1,231 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>sermon  prefaces preached by <normalised orig="Maister" auto="true">Master</normalised> Roger Edgeworth</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="RoEd1560d">Edgeworth, Roger</author>
+               <title type="main">"The preface of the <normalised orig="aucthor" auto="true">author</normalised> to them that <normalised orig="shal" auto="true">shall</normalised> <normalised orig="rede" auto="true">read</normalised> these sermons <normalised orig="folowinge" auto="true">following</normalised>." In: Edgeworth, Roger. Sermons very <normalised orig="fruitfull" auto="true">fruitful</normalised>, godly, and learned [...]</title>
+               <title type="short">sermon  prefaces preached by <normalised orig="Maister" auto="true">Master</normalised> Roger Edgeworth</title>
+               <date when="1557">1557</date>
+               <date type="this_edition" when="1557">1557</date>
+               <idno type="STC">7482</idno>
+               <note type="genre" subtype="preface_sermon">sermon preface</note>
+               <note type="sample" target="#RoEd1560d_1557_preface_sermon_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation </term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="RoEd1560d_1557_preface_sermon_1">
+            <div>
+               <head>The preface of the <lb/>
+<normalised orig="aucthor" auto="true">author</normalised> to them that <normalised orig="shal" auto="true">shall</normalised> <normalised orig="rede" auto="true">read</normalised> these <lb/>
+sermons <normalised orig="folowinge" auto="true">following</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+IT is honourable <lb/>
+and <normalised orig="worthye" auto="true">worthy</normalised> <lb/>
+praise, to <normalised orig="confesse" auto="true">confess</normalised> <lb/>
+and declare the <lb/>
+<normalised orig="woorkes" auto="true">works</normalised> of <normalised orig="almightie" auto="true">almighty</normalised> <lb/>
+GOD, as <lb/>
+the blessed <normalised orig="Angell" auto="true">Angel</normalised> <lb/>
+<normalised orig="sayd" auto="true">said</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="holye" auto="true">holy</normalised> <lb/>
+Thoby. And <lb/>
+<normalised orig="therfore" auto="true">therefore</normalised> they that <lb/>
+<normalised orig="sawe" auto="true">saw</normalised> the miracle <lb/>
+done by our <normalised orig="sauioure" auto="true">saviour</normalised> <lb/>
+Christ <normalised orig="vpon" auto="true">upon</normalised> <lb/>
+the man that was both <normalised orig="deafe" auto="true">deaf</normalised> and <normalised orig="do~me" auto="false">domme</normalised>, and was restored <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> his sight, and also to his <normalised orig="speach" auto="true">speech</normalised>, although <lb/>
+they were <normalised orig="bidde" auto="true">bid</normalised> to make no <normalised orig="wordes" auto="true">words</normalised> thereof, yet <lb/>
+they <normalised orig="consideringe" auto="true">considering</normalised> the <normalised orig="excellencie" auto="true">excellency</normalised> of the miracle, and <lb/>
+<normalised orig="perceiuinge" auto="true">perceiving</normalised> the <normalised orig="humilitie" auto="true">humility</normalised> of the doer of the same, as <lb/>
+<normalised orig="intendinge" auto="true">intending</normalised> more the occultation of his <normalised orig="facte" auto="true">fact</normalised>, for the <lb/>
+<normalised orig="auoidinge" auto="true">avoiding</normalised> of <normalised orig="worldlie" auto="true">worldly</normalised> praise, to <normalised orig="geue" auto="true">give</normalised> <normalised orig="vs" auto="true">us</normalised> example of <lb/>
+like <normalised orig="humilitie" auto="true">humility</normalised>, then to hide his <normalised orig="gratious" auto="true">gracious</normalised> cure, as <normalised orig="thinkinge" auto="true">thinking</normalised> <lb/>
+they <normalised orig="shoulde" auto="true">should</normalised> not <normalised orig="haue" auto="true">have</normalised> done well to let <normalised orig="suche" auto="true">such</normalised> <lb/>
+a <normalised orig="marueilous" auto="true">marvelous</normalised> <normalised orig="worke" auto="true">work</normalised> vanish to <normalised orig="obliuion" auto="true">oblivion</normalised>, were the busier <lb/>
+to <normalised orig="diuulge" auto="true">divulge</normalised> and <normalised orig="publishe" auto="true">publish</normalised>, not <normalised orig="onelie" auto="true">only</normalised> that miracle, <lb/>
+but others <normalised orig="withall" auto="true">withal</normalised>, <normalised orig="sayinge" auto="true">saying</normalised>: <quote type="biblical" ana="Mk 7.37">
+                     <lb/>
+                     <normalised orig="Bene" auto="true">Been</normalised> omnia fecit, &amp; surdus fecit <lb/>
+audire, &amp; mutos loqui.
+                  </quote> This man <quote type="biblical" ana="Mk 7.37"><normalised orig="hath" auto="true">has</normalised> done all <normalised orig="thinges" auto="true">things</normalised> <lb/>
+                     <lb/>
+                     <fw type="pageNum">ii.</fw>
+                     <pb n="1"/>
+                     <lb/>
+<normalised orig="wel" auto="true">well</normalised></quote>, he <normalised orig="hath" auto="true">has</normalised> made <quote type="biblical" ana="Mk 7.37">the <normalised orig="deafe" auto="true">deaf</normalised> to <normalised orig="heare" auto="true">hear</normalised>, and the <normalised orig="do~me" auto="false">domme</normalised> <lb/>
+to <normalised orig="speake" auto="true">speak</normalised></quote>. So I <normalised orig="co~sidering" auto="true">considering</normalised> that it <normalised orig="hath" auto="true">has</normalised> pleased <normalised orig="almightie" auto="true">almighty</normalised> <lb/>
+God of his <normalised orig="plentuous" auto="true">plenteous</normalised> <normalised orig="mercie" auto="true">mercy</normalised> and <normalised orig="goodnes" auto="true">goodness</normalised>, to open <lb/>
+my mouth, and to make me occupied in <normalised orig="preachinge" auto="true">preaching</normalised> <lb/>
+his <normalised orig="holie" auto="true">holy</normalised> <normalised orig="worde" auto="true">word</normalised> <normalised orig="nowe" auto="true">now</normalised> by the space of <normalised orig="fortie" auto="true">forty</normalised> <lb/>
+<normalised orig="yeares" auto="true">years</normalised> and more, I <normalised orig="thoughte" auto="true">thought</normalised> it not good to <normalised orig="permitte" auto="true">permit</normalised> <lb/>
+such matters as I <normalised orig="haue" auto="true">have</normalised> (<normalised orig="throughe" auto="true">through</normalised> <normalised orig="Goddes" auto="true">Gods</normalised> <normalised orig="helpe" auto="true">help</normalised>) set <lb/>
+forth in my sermons, <normalised orig="vtterly" auto="true">utterly</normalised> to <normalised orig="rotte" auto="true">rot</normalised> and <normalised orig="perishe" auto="true">perish</normalised>, and <lb/>
+lest (as the <normalised orig="morall" auto="true">moral</normalised> <normalised orig="Poete" auto="true">Poet</normalised> <normalised orig="saieth" auto="true">says</normalised>) Deferar in uicum, uendente~ <lb/>
+thus &amp; arhoma, I <normalised orig="haue" auto="true">have</normalised> <normalised orig="therfore" auto="true">therefore</normalised> perusing, yea rather <normalised orig="superficiallie" auto="true">superficially</normalised> <lb/>
+<normalised orig="runninge" auto="true">running</normalised> <normalised orig="ouer" auto="true">over</normalised> <normalised orig="suche" auto="true">such</normalised> sermons as I <normalised orig="haue" auto="true">have</normalised> <lb/>
+preached in times past, <normalised orig="founde" auto="true">found</normalised> much good matter in <lb/>
+them, right <normalised orig="worthie" auto="true">worthy</normalised> to be had in <normalised orig="memorie" auto="true">memory</normalised>, and so <lb/>
+compact and set together, that <normalised orig="nowe" auto="true">now</normalised> in my <normalised orig="olde" auto="true">old</normalised> age <lb/>
+I <normalised orig="reioyce" auto="true">rejoice</normalised> in God that <normalised orig="gaue" auto="true">gave</normalised> me his <normalised orig="gratious" auto="true">gracious</normalised> gift, so to <lb/>
+<normalised orig="trauayle" auto="true">travail</normalised> in <normalised orig="suche" auto="true">such</normalised> <normalised orig="studie" auto="true">study</normalised> while I was <normalised orig="yonge" auto="true">young</normalised> and <normalised orig="lustie" auto="true">lusty</normalised>. <lb/>
+These my <normalised orig="longe" auto="true">long</normalised> labours <normalised orig="hath" auto="true">has</normalised> be in the <normalised orig="mooste" auto="true">most</normalised> <lb/>
+troubleous time, and <normalised orig="moste" auto="true">most</normalised> <normalised orig="cumbarde" auto="false">cumbered</normalised> with <normalised orig="errours" auto="true">errors</normalised> <lb/>
+and heresies, <normalised orig="chaunge" auto="true">change</normalised> of <normalised orig="mindes" auto="true">minds</normalised> and <normalised orig="scismes" auto="true">schism's</normalised> that <normalised orig="euer" auto="true">ever</normalised> <lb/>
+was in this <normalised orig="realme" auto="true">realm</normalised> for so <normalised orig="longe" auto="true">long</normalised> time together, <lb/>
+that any man can <normalised orig="rede" auto="true">read</normalised> of. While I was a <normalised orig="yonge" auto="true">young</normalised> student <lb/>
+in <normalised orig="diuinitie" auto="true">divinity</normalised>, <normalised orig="Luthers" auto="true">Luther's</normalised> heresies rose and were scattered <lb/>
+here in this <normalised orig="realme" auto="true">realm</normalised>, <normalised orig="whiche" auto="true">which</normalised> in <normalised orig="lesse" auto="true">less</normalised> space then <lb/>
+a man <normalised orig="woulde" auto="true">would</normalised> <normalised orig="thinke" auto="true">think</normalised>, had so sore infected the christen <lb/>
+<normalised orig="flocke" auto="true">flock</normalised>, first the youth, and <normalised orig="consequentlie" auto="true">consequently</normalised> the elders, <lb/>
+where the children <normalised orig="coulde" auto="true">could</normalised> <normalised orig="sette" auto="true">set</normalised> the fathers to <lb/>
+<normalised orig="scole" auto="true">school</normalised>, that the <normalised orig="kinges" auto="true">kings</normalised> <normalised orig="maiestie" auto="true">majesty</normalised>, and all the <normalised orig="catholike" auto="true">catholic</normalised> <lb/>
+<normalised orig="clerkes" auto="true">clerks</normalised> in the <normalised orig="realme" auto="true">realm</normalised> had <normalised orig="muche" auto="true">much</normalised> a do to <normalised orig="extinguishe" auto="true">extinguish</normalised> <lb/>
+them, which yet they could not so <normalised orig="perfitlie" auto="false">perfectly</normalised> <normalised orig="quenche" auto="true">quench</normalised>, <lb/>
+but that <normalised orig="euer" auto="true">ever</normalised> still when they might <normalised orig="haue" auto="true">have</normalised> any <normalised orig="maintenaunce" auto="true">maintenance</normalised> <lb/>
+by men or women of <normalised orig="greate" auto="true">great</normalised> power, they <lb/>
+                  <pb n="2"/>
+                  <lb/>
+<normalised orig="burste" auto="true">burst</normalised> out a <normalised orig="freshe" auto="true">fresh</normalised>, <normalised orig="euen" auto="true">even</normalised> like fire <normalised orig="hidde" auto="true">hid</normalised> <normalised orig="vnder" auto="true">under</normalised> <normalised orig="chaffe" auto="true">chafe</normalised>, <lb/>
+<normalised orig="whiche" auto="true">which</normalised> sometimes <normalised orig="amonge" auto="true">among</normalised> will flame <normalised orig="oute" auto="true">out</normalised> and do <lb/>
+hurt if it be not <normalised orig="loked" auto="true">looked</normalised> to. Against such <normalised orig="errours" auto="true">errors</normalised> with <lb/>
+their <normalised orig="appe~deceis" auto="false">appendecies</normalised> I <normalised orig="haue" auto="true">have</normalised> <normalised orig="inuehied" auto="false">envied</normalised> <normalised orig="ernestlie" auto="true">earnestly</normalised> and oft in <lb/>
+my sermons in disputations and <normalised orig="reasoninge" auto="true">reasoning</normalised> with <lb/>
+the <normalised orig="protestauntes" auto="false">protestants</normalised>, <normalised orig="vntill" auto="true">until</normalised> I <normalised orig="haue" auto="true">have</normalised> be put to silence, either <lb/>
+by general prohibitions to <normalised orig="preache" auto="true">preach</normalised>, or by name, <lb/>
+or by <normalised orig="captiuitie" auto="true">captivity</normalised> and imprisonment, of all <normalised orig="whiche" auto="true">which</normalised> (I <lb/>
+<normalised orig="thanke" auto="true">thank</normalised> God) I <normalised orig="haue" auto="true">have</normalised> had my <normalised orig="parte" auto="true">part</normalised>. And yet <normalised orig="euer" auto="true">ever</normalised> <normalised orig="whe~" auto="true">when</normalised> <lb/>
+I might <normalised orig="haue" auto="true">have</normalised> any <normalised orig="clere" auto="true">clear</normalised> time, I <normalised orig="haue" auto="true">have</normalised> <normalised orig="retourned" auto="true">returned</normalised> to the <lb/>
+same exercise more <normalised orig="vehementlie" auto="true">vehemently</normalised> then <normalised orig="afore" auto="true">before</normalised>, and so <lb/>
+will do while I may <normalised orig="haue" auto="true">have</normalised> strength to <normalised orig="speake" auto="true">speak</normalised>. And <lb/>
+because these sermons were made in <normalised orig="Englishe" auto="true">English</normalised>, and <lb/>
+<normalised orig="toucheth" auto="true">touches</normalised> sometimes <normalised orig="amonge" auto="true">among</normalised>, <normalised orig="suche" auto="true">such</normalised> heresies as <normalised orig="hath" auto="true">has</normalised> <lb/>
+troubled English <normalised orig="folke" auto="true">folk</normalised>, I thought it best to set them <lb/>
+forth in <normalised orig="suche" auto="true">such</normalised> language as might <normalised orig="presentlie" auto="true">presently</normalised> best <normalised orig="edifie" auto="true">edify</normalised> <lb/>
+the multitude. <normalised orig="Moreouer" auto="true">Moreover</normalised> <normalised orig="pleaseth" auto="true">pleases</normalised> you to be <normalised orig="aduertised" auto="true">advertised</normalised>, <lb/>
+that when I <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="preache" auto="true">preach</normalised> in any <normalised orig="sole~pne" auto="false">solemn</normalised> <lb/>
+and learned audience, I <normalised orig="euer" auto="true">ever</normalised> <normalised orig="fearinge" auto="true">fearing</normalised> the <normalised orig="labilitie" auto="true">liability</normalised> of <lb/>
+my <normalised orig="remembraunce" auto="true">remembrance</normalised>, <normalised orig="vsed" auto="true">used</normalised> to pen my sermons <normalised orig="muche" auto="true">much</normalised> <lb/>
+like as I <normalised orig="entended" auto="true">intended</normalised> to <normalised orig="vtter" auto="true">utter</normalised> them to the audience: others <lb/>
+I <normalised orig="scribled" auto="true">scribbled</normalised> <normalised orig="vp" auto="true">up</normalised> not so <normalised orig="perfitlie" auto="false">perfectly</normalised>, yet <normalised orig="sufficientlie" auto="true">sufficiently</normalised> for <lb/>
+me to <normalised orig="perceiue" auto="true">perceive</normalised> my matter and my <normalised orig="processe" auto="true">process</normalised>. And of <lb/>
+these two <normalised orig="sortes" auto="true">sorts</normalised> I <normalised orig="haue" auto="true">have</normalised> kept (as grace was) a <normalised orig="greate" auto="true">great</normalised> <lb/>
+multitude, <normalised orig="whiche" auto="true">which</normalised> <normalised orig="nowe" auto="true">now</normalised> <normalised orig="helpeth" auto="true">helps</normalised> me in this my enterprise <lb/>
+of <normalised orig="imprintinge" auto="false">imprinting</normalised> a <normalised orig="boke" auto="true">book</normalised> of my <normalised orig="saide" auto="true">said</normalised> exhortations. <lb/>
+<normalised orig="Moreouer" auto="true">Moreover</normalised> I <normalised orig="haue" auto="true">have</normalised> made innumerable exhortations <lb/>
+at my cures, and in other places where I <normalised orig="haue" auto="true">have</normalised> <lb/>
+dwelled, and in the <normalised orig="countreis" auto="true">countries</normalised> there <normalised orig="aboute" auto="true">about</normalised>, and in my <lb/>
+<normalised orig="iourneis" auto="false">journeys</normalised>, where it <normalised orig="hath" auto="true">has</normalised> <normalised orig="chaunced" auto="true">chanced</normalised> me to be on <lb/>
+<normalised orig="sondaies" auto="false">sundays</normalised>, or other <normalised orig="holie" auto="true">holy</normalised> <normalised orig="daies" auto="true">days</normalised>, of <normalised orig="whiche" auto="true">which</normalised> I <normalised orig="haue" auto="true">have</normalised> no <lb/>
+                  <pb n="3"/>
+                  <lb/>
+<normalised orig="signes" auto="true">signs</normalised> <normalised orig="remaininge" auto="false">remaining</normalised> in <normalised orig="writinge" auto="true">writing</normalised>, <normalised orig="althoughe" auto="true">although</normalised> I <normalised orig="thinke" auto="true">think</normalised> <lb/>
+<normalised orig="verelie" auto="true">verily</normalised> some of them were as <normalised orig="fruitfull" auto="true">fruitful</normalised>, as others in <lb/>
+<normalised orig="whiche" auto="true">which</normalised> I <normalised orig="toke" auto="true">took</normalised> more labours, I <normalised orig="praye" auto="true">pray</normalised> God they <normalised orig="maye" auto="true">may</normalised> <lb/>
+be written and <normalised orig="registred" auto="true">registered</normalised> in the <normalised orig="boke" auto="true">book</normalised> of life <normalised orig="euerlastinge" auto="true">everlasting</normalised>. <lb/>
+And when I <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="preache" auto="true">preach</normalised> oftentimes in <lb/>
+one place, I <normalised orig="vsed" auto="true">used</normalised> not to take <normalised orig="euery" auto="true">every</normalised> day a distinct epistle <lb/>
+or <normalised orig="gospell" auto="true">gospel</normalised>, or other text, but to take some <normalised orig="proces" auto="true">process</normalised> <lb/>
+of scripture, and to prosecute the same, part one day <lb/>
+and <normalised orig="parte" auto="true">part</normalised> another <normalised orig="daye" auto="true">day</normalised>, and so you shall <normalised orig="perceiue" auto="true">perceive</normalised> by <lb/>
+my declaration of the .vii. <normalised orig="giftes" auto="true">gifts</normalised> of the holy <normalised orig="Gooste" auto="true">Ghost</normalised>, <lb/>
+<normalised orig="whiche" auto="true">which</normalised> I preached at Redcliffe <normalised orig="crosse" auto="true">cross</normalised>, in the good <lb/>
+and <normalised orig="worshipfull" auto="true">worshipful</normalised> <normalised orig="citie" auto="true">city</normalised> of Bristow, in sundry sermons, <lb/>
+although I was interrupted many <normalised orig="yeares" auto="true">years</normalised> by the <normalised orig="confederacie" auto="true">confederacy</normalised> <lb/>
+of <normalised orig="Hughe" auto="true">Hugh</normalised> Lathamer, then <normalised orig="aspiringe" auto="true">aspiring</normalised> to a <lb/>
+<normalised orig="bisshopriche" auto="false">bishopric</normalised>, and after <normalised orig="beinge" auto="true">being</normalised> bishop of <normalised orig="worceter" auto="false">worcester</normalised>, <lb/>
+and ordinary of the greatest part of the <normalised orig="sayd" auto="true">said</normalised> Bristow, <lb/>
+and infecting the whole. And so by the exposition <lb/>
+of the first epistle of S. Peter, <normalised orig="whiche" auto="true">which</normalised> I preached also <lb/>
+in <normalised orig="manye" auto="true">many</normalised> sermons at the <normalised orig="cathedrall" auto="true">cathedral</normalised> <normalised orig="Churche" auto="true">Church</normalised> there, <lb/>
+where I am one of the Canons, in this also I was <normalised orig="manie" auto="true">many</normalised> <lb/>
+times and <normalised orig="longe" auto="true">long</normalised> <normalised orig="disco~tinued" auto="false">discontinued</normalised> by the odious <normalised orig="scisme" auto="true">schism</normalised> <lb/>
+that was <normalised orig="nowe" auto="true">now</normalised> lately, and by the doers of the same. <lb/>
+And in like <normalised orig="maner" auto="true">manner</normalised> in the <normalised orig="Cathedrall" auto="true">Cathedral</normalised> <normalised orig="Churche" auto="true">Church</normalised> of <lb/>
+<normalised orig="welles" auto="true">wells</normalised>, on the first and second <normalised orig="sondaies" auto="false">sundays</normalised> of <normalised orig="Aduent" auto="false">Advent</normalised>, on <lb/>
+<normalised orig="Axewednisdaye" auto="false">Ash-wednesday</normalised>, and others, and there I lacked no <lb/>
+trouble by bishop Barlowe and his officers, of which <lb/>
+<normalised orig="suche" auto="true">such</normalised> as be not <normalised orig="perfourmed" auto="true">performed</normalised>, I intend (if it shall please <lb/>
+God) to <normalised orig="perfourme" auto="true">perform</normalised> and <normalised orig="finishe" auto="true">finish</normalised> hereafter.<lb/>
+                  <lb/>
+Of all my <normalised orig="saied" auto="true">said</normalised> sermons you shall now <normalised orig="receiue" auto="true">receive</normalised> <lb/>
+in this <normalised orig="boke" auto="true">book</normalised>, as hereafter <normalised orig="foloweth" auto="true">follows</normalised>, <lb/>
+                  <pb n="4"/>
+                  <lb/>
+A Declaration of the <normalised orig="seuen" auto="true">seven</normalised> <normalised orig="giftes" auto="true">gifts</normalised> of the holy <normalised orig="gost" auto="true">ghost</normalised> <lb/>
+in <normalised orig="syxe" auto="true">six</normalised> sermons.<lb/>
+                  <lb/>
+An <normalised orig="homilie" auto="true">homily</normalised> of the articles of our Christen faith.<lb/>
+                  <lb/>
+An <normalised orig="homilie" auto="true">homily</normalised> of Ceremonies, and of mans <normalised orig="lawes" auto="true">laws</normalised>.<lb/>
+                  <lb/>
+A <normalised orig="parfite" auto="true">perfect</normalised> exposition of S. Peters <normalised orig="fyrst" auto="true">first</normalised> epistle, in <lb/>
+<normalised orig="twentie" auto="true">twenty</normalised> treatises or sermons.<lb/>
+                  <lb/>
+I <normalised orig="haue" auto="true">have</normalised> <normalised orig="besyde" auto="true">beside</normalised> these many sermons, made in <normalised orig="verie" auto="true">very</normalised> <lb/>
+<normalised orig="solempne" auto="true">solemn</normalised> audiences on the <normalised orig="dominicall" auto="false">dominical</normalised> epistles and <lb/>
+<normalised orig="gospelles" auto="true">gospels</normalised>, some in the <normalised orig="vniuersitie" auto="true">university</normalised> of <normalised orig="Oxforde" auto="true">Oxford</normalised>, some <lb/>
+at <normalised orig="Paules" auto="true">Paul's</normalised> <normalised orig="crosse" auto="true">cross</normalised> in London: some in the <normalised orig="courte" auto="true">court</normalised> <normalised orig="afore" auto="true">before</normalised> <lb/>
+my <normalised orig="mooste" auto="true">most</normalised> honourable <normalised orig="Lorde" auto="true">Lord</normalised> and <normalised orig="Maister" auto="true">Master</normalised> <normalised orig="kinge" auto="true">king</normalised> <lb/>
+Henry the <normalised orig="eighte" auto="true">eight</normalised>: some in the <normalised orig="cathedrall" auto="true">cathedral</normalised> <normalised orig="churche" auto="true">church</normalised> <lb/>
+of <normalised orig="welles" auto="true">wells</normalised>, where <normalised orig="hath" auto="true">has</normalised> <normalised orig="ben" auto="true">been</normalised> <normalised orig="euer" auto="true">ever</normalised> <normalised orig="sith" auto="true">since</normalised> I knew <lb/>
+it a <normalised orig="solempne" auto="true">solemn</normalised> and a well learned audience, <lb/>
+<normalised orig="whiche" auto="true">which</normalised> I purpose (God <normalised orig="willinge" auto="true">willing</normalised>) <lb/>
+to set forth hereafter, as <lb/>
+I <normalised orig="maye" auto="true">may</normalised> <normalised orig="haue" auto="true">have</normalised> <normalised orig="oportunitie" auto="true">opportunity</normalised>.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

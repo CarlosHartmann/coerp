@@ -1,0 +1,123 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface <normalised orig="Historie" auto="true">History</normalised> of <normalised orig="Iohn" auto="true">John</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ThBe1519">Bèze, Théodore de</author>
+               <title type="main">"No title" In: Anonymous. A discourse <normalised orig="wrytten" auto="true">written</normalised> by M. Theodore de Beza, <normalised orig="conteyning" auto="true">containing</normalised> in <normalised orig="briefe" auto="true">brief</normalised> the <normalised orig="Historie" auto="true">History</normalised> of the life and death of <normalised orig="Maister" auto="true">Master</normalised> <normalised orig="Iohn" auto="true">John</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised> [...]</title>
+               <title type="short">Preface <normalised orig="Historie" auto="true">History</normalised> of <normalised orig="Iohn" auto="true">John</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised></title>
+               <date when="1564">1564</date>
+               <date type="this_edition" when="1564">1564</date>
+               <idno type="STC">2017</idno>
+               <note type="genre" subtype="preface_biography">biography preface</note>
+               <note type="sample" target="#ThBe1519_1564_preface_biography_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ThBe1519_1564_preface_biography_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+The Printer to the<lb/>
+Reader.<lb/>
+                  <lb/>
+FRIEND READER<lb/>
+I offer <normalised orig="vnto" auto="true">unto</normalised> thee this present<lb/>
+gathering or <normalised orig="summe" auto="true">sum</normalised>, <normalised orig="contayning" auto="true">containing</normalised><lb/>
+the <normalised orig="Lyfe" auto="true">Life</normalised> and Death of<lb/>
+the <normalised orig="Faithfull" auto="true">Faithful</normalised> <normalised orig="seruant" auto="true">servant</normalised> of God,<lb/>
+<normalised orig="Maister" auto="true">Master</normalised> <normalised orig="Iohn" auto="true">John</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised>: by the<lb/>
+which thou shalt see <normalised orig="maruellous" auto="true">marvelous</normalised><lb/>
+examples of the <normalised orig="assaultes" auto="true">assaults</normalised>, that he <normalised orig="hath" auto="true">has</normalised> endured<lb/>
+for the Doctrine of the <normalised orig="Sonne" auto="true">Son</normalised> of God, and also what<lb/>
+assistance God <normalised orig="doth" auto="true">does</normalised> <normalised orig="giue" auto="true">give</normalised> to his, when his <normalised orig="honor" auto="true">honour</normalised> and<lb/>
+<normalised orig="glorye" auto="true">glory</normalised> <normalised orig="commeth" auto="true">comes</normalised> in question. In the <normalised orig="meane" auto="true">mean</normalised> time<lb/>
+<normalised orig="thinke" auto="true">think</normalised> it not <normalised orig="straunge" auto="true">strange</normalised> that this discourse <normalised orig="doth" auto="true">does</normalised> not<lb/>
+agree with the accustomed <normalised orig="forme" auto="true">form</normalised> of <normalised orig="Hystorians" auto="false">Historians</normalised>,<lb/>
+for the purpose of the <normalised orig="Auctor" auto="true">Author</normalised> who is Master Theodore<lb/>
+de Beza, a good <normalised orig="seruant" auto="true">servant</normalised> of God also, <choice ana="print-error">
+                     <sic>anda</sic>
+                     <corr>and a</corr>
+                  </choice> companion<lb/>
+of <normalised orig="Maister" auto="true">Master</normalised> <normalised orig="Iohn" auto="true">John</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised> in the <normalised orig="worke" auto="true">work</normalised> of the<lb/>
+<normalised orig="Lorde" auto="true">Lord</normalised>, was not to <normalised orig="publishe" auto="true">publish</normalised> it as an <normalised orig="Hystorie" auto="true">History</normalised>, but<lb/>
+<normalised orig="onely" auto="true">only</normalised> for a Preface to the Commentaries of the <normalised orig="saide" auto="true">said</normalised><lb/>
+<normalised orig="Caluin" auto="true">Calvin</normalised> <normalised orig="vppon" auto="true">upon</normalised> the <normalised orig="Booke" auto="true">Book</normalised> of Iosue, come to light <normalised orig="sith" auto="true">since</normalised><lb/>
+his death. I <normalised orig="haue" auto="true">have</normalised> thought good to <normalised orig="aduertise" auto="true">advertise</normalised> thee<lb/>
+hereof, to the <normalised orig="ende" auto="true">end</normalised> that thou shouldest not <normalised orig="thinke" auto="true">think</normalised>,<lb/>
+that the <normalised orig="memorie" auto="true">memory</normalised> of so great and <normalised orig="worthie" auto="true">worthy</normalised> a personage<lb/>
+<normalised orig="myght" auto="true">might</normalised> be satisfied with so <normalised orig="smalle" auto="true">small</normalised> a discourse,<lb/>
+                  <lb/>
+                  <fw type="pageNum">A.ij.</fw>
+                  <pb n="1"/>
+                  <lb/>
+(albeit that it is diligently and <normalised orig="truely" auto="true">truly</normalised> set forth) the<lb/>
+which shall <normalised orig="serue" auto="true">serve</normalised> thee <normalised orig="onely" auto="true">only</normalised> to this <choice ana="illegible">
+                     <sic><normalised orig="purpos" auto="true">purpose</normalised></sic>
+                     <corr>purpose</corr>
+                  </choice>, to<lb/>
+make thee to hope and <normalised orig="looke" auto="true">look</normalised> for an ample and<lb/>
+goodly <normalised orig="Hystorie" auto="true">History</normalised> of his <normalised orig="actes" auto="true">acts</normalised> and doings,<lb/>
+which shall greatly <normalised orig="profite" auto="true">profit</normalised> to the<lb/>
+<normalised orig="aduancement" auto="true">advancement</normalised> of the Church<lb/>
+of God: to whom be glory<lb/>
+and <normalised orig="honor" auto="true">honour</normalised> for <normalised orig="euer" auto="true">ever</normalised><lb/>
+and <normalised orig="euer" auto="true">ever</normalised>.<lb/>
+                  <choice ana="print">
+                     <sic>Sobeit</sic>
+                     <corr>So be it</corr>
+                  </choice>.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

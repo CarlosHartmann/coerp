@@ -1,0 +1,643 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface First <normalised orig="examinacyon" auto="true">examination</normalised> of Anne <normalised orig="Askewe" auto="true">Askew</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author"/>
+               <title type="main">"No title" In: The first <normalised orig="examinacyon" auto="true">examination</normalised> of Anne <normalised orig="Askewe" auto="true">Askew</normalised>, lately martyred in <normalised orig="Smythfelde" auto="true">Smithfeld</normalised>, by the <normalised orig="Romysh" auto="true">Roman</normalised> popes <normalised orig="vpholders" auto="true">upholders</normalised>, with the <normalised orig="Elucydacyon" auto="false">Elucidation</normalised> of <normalised orig="Iohan" auto="true">Johan</normalised> Bale.</title>
+               <title type="short">Preface First <normalised orig="examinacyon" auto="true">examination</normalised> of Anne <normalised orig="Askewe" auto="true">Askew</normalised></title>
+               <date when="1546">1546</date>
+               <date type="this_edition" when="1546">1546</date>
+               <idno type="STC">848</idno>
+               <note type="genre" subtype="preface_biography">biography preface</note>
+               <note type="sample" target="#_1546_preface_biography_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="contains" subtype="folio">symbols (leaves)</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="_1546_preface_biography_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+<normalised orig="Iohan" auto="true">Johan</normalised> Bale to the<lb/>
+Christen readers.<lb/>
+                  <lb/>
+<normalised orig="AMonge" auto="true">Among</normalised> other most <normalised orig="syngular" auto="true">singular</normalised><lb/>
+<normalised orig="offyces" auto="true">offices</normalised> (<normalised orig="dylygent" auto="true">diligent</normalised><lb/>
+reader) <normalised orig="whych" auto="true">which</normalised> the <normalised orig="lorde" auto="true">lord</normalised><lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="appoynted" auto="true">appointed</normalised> to be<lb/>
+done in the ernest <normalised orig="sprete" auto="true">spirit</normalised><lb/>
+of <notvariant>Helyas</notvariant>, by the <normalised orig="forero~ners" auto="false">forerunners</normalised><lb/>
+of <normalised orig="hys" auto="true">his</normalised> <normalised orig="lattre" auto="true">later</normalised> <normalised orig="aperaunce" auto="false">appearance</normalised>, <normalised orig="thys" auto="true">this</normalised> is one<lb/>
+<normalised orig="verye" auto="true">very</normalised> <normalised orig="specyall" auto="true">special</normalised> to be noted. They shall<lb/>
+<normalised orig="turne" auto="true">turn</normalised> the <normalised orig="hartes" auto="true">hearts</normalised> of their <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="auncye~t" auto="false">ancient</normalised></corr>
+                  </choice> elders<lb/>
+into the <normalised orig="chyldre~" auto="true">children</normalised>. Mala. 4. And the <normalised orig="vnbeleuers" auto="true">unbelievers</normalised><lb/>
+of their <normalised orig="tyme" auto="true">time</normalised>, to the <normalised orig="wysdome" auto="true">wisdom</normalised> of<lb/>
+those <normalised orig="ryghtouse" auto="false">righteous</normalised> fathers, as <normalised orig="ded" auto="true">did</normalised> <normalised orig="Iohan" auto="true">Johan</normalised><lb/>
+<normalised orig="Baptyst" auto="true">Baptist</normalised> <normalised orig="afore" auto="true">before</normalised> <normalised orig="hys" auto="true">his</normalised> first <normalised orig="co~mynge" auto="true">coming</normalised>, <notvariant>Luce</notvariant> 1.<lb/>
+That is (<normalised orig="sayth" auto="true">saith</normalised> <notvariant>Bedas</notvariant> ca. 68. de temporum<lb/>
+ratione) the <normalised orig="faythe" auto="true">faith</normalised> and <normalised orig="feruent" auto="true">fervent</normalised> <normalised orig="zele" auto="true">zeal</normalised><lb/>
+of the <normalised orig="prophetes" auto="true">prophets</normalised> and Apostles shall they<lb/>
+plant in their <normalised orig="hartes" auto="true">hearts</normalised>, <normalised orig="whych" auto="true">which</normalised> shall in those<lb/>
+<normalised orig="dayes" auto="true">days</normalised> <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="lyue" auto="true">live</normalised></corr>
+                  </choice> and be <normalised orig="amonge" auto="true">among</normalised> men <normalised orig="conuersaunt" auto="true">conversant</normalised>.<lb/>
+&amp; than <normalised orig="wyll" auto="true">will</normalised> <normalised orig="breake" auto="true">break</normalised> fourth (<normalised orig="sayth" auto="true">saith</normalised><lb/>
+he as a <normalised orig="verye" auto="true">very</normalised> true <normalised orig="prophete" auto="true">prophet</normalised>) <normalised orig="soche" auto="true">such</normalised> <normalised orig="horryble" auto="true">horrible</normalised><lb/>
+<normalised orig="persecucyon" auto="false">persecution</normalised>, as <normalised orig="wyll" auto="true">will</normalised> first of all take<lb/>
+from the <normalised orig="worlde" auto="true">world</normalised>, those <normalised orig="myghtye" auto="true">mighty</normalised> heliases<lb/>
+by <normalised orig="tryumphaunt" auto="false">triumphant</normalised> <normalised orig="martyrdome" auto="true">martyrdom</normalised>, to the<lb/>
+<normalised orig="terryfyenge" auto="false">terrifying</normalised> of other in the same <normalised orig="fayth" auto="true">faith</normalised>,<lb/>
+                  <lb/>
+                  <fw type="pageNum"><notvariant>ij</notvariant></fw>
+                  <pb n="1"/>
+                  <lb/>
+of whom some shall <normalised orig="becom" auto="true">become</normalised> through that<lb/>
+<normalised orig="occasyon" auto="true">occasion</normalised>, most <normalised orig="gloryouse" auto="true">glorious</normalised> martyrs <normalised orig="vnto" auto="true">unto</normalised><lb/>
+Christ also, &amp; some <normalised orig="verye" auto="true">very</normalised> <normalised orig="wycked" auto="true">wicked</normalised> <normalised orig="Apostataes" auto="true">Apostates</normalised><lb/>
+<normalised orig="forsakynge" auto="true">forsaking</normalised> <normalised orig="hys" auto="true">his</normalised> <normalised orig="lyuelye" auto="true">lively</normalised> <normalised orig="doctryne" auto="true">doctrine</normalised>. For<lb/>
+by the <normalised orig="seyd" auto="true">said</normalised> <notvariant>Bedas</notvariant> <normalised orig="testymonye" auto="true">testimony</normalised> in the <normalised orig="begynnynge" auto="true">beginning</normalised><lb/>
+of the same <normalised orig="chaptre" auto="true">chapter</normalised>, two most<lb/>
+<normalised orig="certayne" auto="true">certain</normalised> <normalised orig="sygnes" auto="true">signs</normalised> shall we <normalised orig="tha~" auto="true">then</normalised> <normalised orig="haue" auto="true">have</normalised> that<lb/>
+the <normalised orig="lattre" auto="true">later</normalised> <normalised orig="iudgement" auto="true">judgment</normalised> <normalised orig="daye" auto="true">day</normalised> is at <normalised orig="hande" auto="true">hand</normalised>.<lb/>
+The <normalised orig="returne" auto="true">return</normalised> of Israels <normalised orig="remnaunt" auto="true">remnant</normalised> <normalised orig="vnto" auto="true">unto</normalised><lb/>
+their <normalised orig="lorde" auto="true">lord</normalised> God, and the <normalised orig="horryble" auto="true">horrible</normalised> <normalised orig="persecucyon" auto="false">persecution</normalised><lb/>
+of Antichrist.<lb/>
+<normalised orig="Conferre" auto="true">Confer</normalised> with <normalised orig="thys" auto="true">this</normalised> treated scripture<lb/>
+and former <choice ana="illegible">
+                     <sic>proph*cye</sic>
+                     <corr><normalised orig="prophecye" auto="true">prophecy</normalised></corr>
+                  </choice> of that <normalised orig="vertuouse" auto="true">virtuous</normalised><lb/>
+man <notvariant>Bedas</notvariant>, the <normalised orig="worldes" auto="true">worlds</normalised> <normalised orig="alteracyon" auto="false">alteration</normalised><lb/>
+now, with the <normalised orig="terryble" auto="true">terrible</normalised> <choice ana="illegible">
+                     <sic><normalised orig="turmoylyng" auto="true">turmoiling</normalised>*s</sic>
+                     <corr><normalised orig="turmoylynges" auto="false">turmoilings</normalised></corr>
+                  </choice> of<lb/>
+our <normalised orig="tyme" auto="true">time</normalised>. And as in a most <normalised orig="clere" auto="true">clear</normalised> <normalised orig="myrrour" auto="true">mirror</normalised>,<lb/>
+<normalised orig="ye" auto="true">you</normalised> shall <normalised orig="wele" auto="true">well</normalised> <normalised orig="perceyue" auto="true">perceive</normalised> them at <normalised orig="thys" auto="true">this</normalised><lb/>
+present, to be in most <normalised orig="quyck" auto="false">quick</normalised> <normalised orig="workynge" auto="true">working</normalised>.<lb/>
+And as <normalised orig="concernynge" auto="true">concerning</normalised> the <normalised orig="Israelytes" auto="true">Israelites</normalised> or<lb/>
+<normalised orig="Iewes" auto="true">Jews</normalised>, I <normalised orig="haue" auto="true">have</normalised> both <normalised orig="seane" auto="true">seen</normalised> and <normalised orig="knowne" auto="true">known</normalised><lb/>
+of them in <normalised orig="Germanye" auto="false">Germany</normalised>, most <normalised orig="faythfull" auto="true">faithful</normalised><lb/>
+Christen <normalised orig="beleuers" auto="true">believers</normalised>. <choice ana="illegible">
+                     <sic>*ey*her</sic>
+                     <corr><normalised orig="Neyther" auto="true">Neither</normalised></corr>
+                  </choice> is it<lb/>
+in the <normalised orig="prophecye" auto="true">prophecy</normalised> (Osee 3.) that they<lb/>
+<normalised orig="shuld" auto="true">should</normalised> at that <normalised orig="daye" auto="true">day</normalised> be all <normalised orig="conuerted" auto="true">converted</normalised>,<lb/>
+                  <choice ana="print">
+                     <sic><normalised orig="nomore" auto="true">no more</normalised></sic>
+                     <corr>no more</corr>
+                  </choice> than they were at <normalised orig="Iohan" auto="true">Johan</normalised> Baptystes<lb/>
+<normalised orig="preachynge" auto="true">preaching</normalised>, <notvariant>Luce</notvariant> 1. For as <normalised orig="Esaye" auto="true">Essay</normalised><lb/>
+                  <choice ana="illegible">
+                     <sic>rep*rteth</sic>
+                     <corr><normalised orig="reporteth" auto="true">reports</normalised></corr>
+                  </choice>, though the <normalised orig="posteryte" auto="false">posterity</normalised> of <normalised orig="Iacob" auto="true">Jacob</normalised><lb/>
+be as the see <normalised orig="sande" auto="true">sand</normalised> (innumerable)<lb/>
+                  <pb n="2"/>
+                  <lb/>
+yet shall but a <normalised orig="remnaunt" auto="true">remnant</normalised> of them <normalised orig="conuert" auto="true">convert</normalised><lb/>
+than <normalised orig="vnto" auto="true">unto</normalised> their <normalised orig="lorde" auto="true">lord</normalised> God. <normalised orig="Esaie" auto="true">Essay</normalised><lb/>
+10. And though the <normalised orig="lorde" auto="true">lord</normalised> <normalised orig="hath" auto="true">has</normalised> <normalised orig="syfted" auto="false">sifted</normalised><lb/>
+that <normalised orig="howse" auto="true">house</normalised> of Israel (as <normalised orig="broused" auto="false">bruised</normalised> <normalised orig="corne" auto="true">corn</normalised><lb/>
+in a <normalised orig="syffe" auto="false">sieve</normalised>) <normalised orig="amonge" auto="true">among</normalised> all other <normalised orig="nacyons" auto="true">nations</normalised>,<lb/>
+Amos 9. Yet shall not that <normalised orig="remnaunt" auto="true">remnant</normalised> of<lb/>
+theirs <normalised orig="perysh" auto="true">perish</normalised>, but at that <normalised orig="daye" auto="true">day</normalised> be <normalised orig="saued" auto="true">saved</normalised>,<lb/>
+through the <normalised orig="onlye" auto="true">only</normalised> <normalised orig="eleccyon" auto="true">election</normalised> of<lb/>
+grace, Romano. 11. Now <normalised orig="concernynge" auto="true">concerning</normalised><lb/>
+the <normalised orig="afore" auto="true">before</normalised> <normalised orig="seyd" auto="true">said</normalised> <normalised orig="forero~ners" auto="false">forerunners</normalised>, in <normalised orig="thys" auto="true">this</normalised> most<lb/>
+<normalised orig="wonderfull" auto="true">wonderful</normalised> change of the <normalised orig="worlde" auto="true">world</normalised> before<lb/>
+the <normalised orig="lattre" auto="true">later</normalised> <normalised orig="ende" auto="true">end</normalised> <normalised orig="therof" auto="true">thereof</normalised>. I <normalised orig="thynke" auto="true">think</normalised> within<lb/>
+<normalised orig="thys" auto="true">this</normalised> <normalised orig="realme" auto="true">realm</normalised> of <normalised orig="Englande" auto="true">England</normalised>, <normalised orig="besydes" auto="true">besides</normalised> other<lb/>
+<normalised orig="nacyons" auto="true">nations</normalised> <normalised orig="abroade" auto="true">abroad</normalised>, the <normalised orig="sprete" auto="true">spirit</normalised> of <notvariant>Helyas</notvariant><lb/>
+was not all a <normalised orig="slepe" auto="true">sleep</normalised> in good <normalised orig="Wyllyam" auto="true">William</normalised><lb/>
+Tyndale, Robert Barnes, &amp; <normalised orig="soche" auto="true">such</normalised><lb/>
+other more, <normalised orig="whome" auto="true">whom</normalised> <normalised orig="Antichristes" auto="true">Antichrists</normalised> <normalised orig="vyolence" auto="true">violence</normalised><lb/>
+<normalised orig="hath" auto="true">has</normalised> sent <normalised orig="hens" auto="true">hence</normalised> in <normalised orig="fyre" auto="true">fire</normalised> to <normalised orig="heauen" auto="true">heaven</normalised>,<lb/>
+as <notvariant>Helyas</notvariant> went <normalised orig="afore" auto="true">before</normalised> in the frerye charett,<lb/>
+4. Regum 2.<lb/>
+These turned the <normalised orig="hartes" auto="true">hearts</normalised> of the fathers<lb/>
+into the <normalised orig="chyldren" auto="true">children</normalised>, <normalised orig="soche" auto="true">such</normalised> <normalised orig="tyme" auto="true">time</normalised> as<lb/>
+they <normalised orig="toke" auto="true">took</normalised> from a great <normalised orig="nombre" auto="true">number</normalised> of our<lb/>
+<normalised orig="nacyon" auto="true">nation</normalised>, by their <normalised orig="godlye" auto="true">godly</normalised> <normalised orig="preachynges" auto="true">preachings</normalised><lb/>
+and <normalised orig="writynges" auto="true">writings</normalised>, the corrupted <normalised orig="beleue" auto="true">believe</normalised> of<lb/>
+the pope &amp; <normalised orig="hys" auto="true">his</normalised> <normalised orig="mastrye" auto="true">mastery</normalised> workers (<normalised orig="whych" auto="true">which</normalised><lb/>
+were no fathers, but <normalised orig="cruell" auto="true">cruel</normalised> robbers &amp; destroyers,<lb/>
+<normalised orig="Ioa~" auto="true">Joan</normalised>.10.) <normalised orig="reducynge" auto="false">reducing</normalised> <normalised orig="the~" auto="true">them</normalised> <normalised orig="agayn" auto="true">again</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum"><notvariant>iij</notvariant></fw>
+                  <pb n="3"/>
+                  <lb/>
+to the true <normalised orig="faythe" auto="true">faith</normalised> of Abraham and Peter,<lb/>
+Gene. 15. and Math. 16. The pure<lb/>
+<normalised orig="beleue" auto="true">believe</normalised> in <normalised orig="Christes" auto="true">Christ's</normalised> <normalised orig="birthe" auto="true">birth</normalised> and <normalised orig="passyon" auto="true">passion</normalised>,<lb/>
+<normalised orig="whych" auto="true">which</normalised> Adam and <normalised orig="Noe" auto="true">No</normalised> sucked out of the<lb/>
+first <normalised orig="promes" auto="true">promise</normalised> of God, <normalised orig="Iacob" auto="true">Jacob</normalised> and Moses<lb/>
+out of the <normalised orig="seconde" auto="true">second</normalised>, <normalised orig="Dauid" auto="true">David</normalised> and the <normalised orig="prophetes" auto="true">prophets</normalised><lb/>
+out of the <normalised orig="thirde" auto="true">third</normalised>, and so fourth<lb/>
+the Apostles and fathers out of the other<lb/>
+scriptures, so <normalised orig="firmelye" auto="false">firmly</normalised> planted they in<lb/>
+the consciences of <normalised orig="manye" auto="true">many</normalised>, that no <normalised orig="cruell" auto="true">cruel</normalised><lb/>
+<normalised orig="kynde" auto="true">kind</normalised> of <normalised orig="deathe" auto="true">death</normalised> <normalised orig="coulde" auto="true">could</normalised> <normalised orig="auerte" auto="false">avert</normalised> <normalised orig="the~" auto="true">them</normalised> from<lb/>
+it. As we <normalised orig="haue" auto="true">have</normalised> for example their <normalised orig="constaunt" auto="true">constant</normalised><lb/>
+<normalised orig="dyscyples" auto="false">disciples</normalised>, and now <normalised orig="stronge" auto="true">strong</normalised> witnesses<lb/>
+of <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, <normalised orig="Iohan" auto="true">Johan</normalised> <notvariant>Lassels</notvariant> and<lb/>
+Anne <normalised orig="Askewe" auto="true">Askew</normalised>, with their other. <notvariant>ij</notvariant>. <normalised orig="companyons" auto="true">companions</normalised>,<lb/>
+<normalised orig="verye" auto="true">very</normalised> <normalised orig="gloryouse" auto="true">glorious</normalised> martyrs <normalised orig="afore" auto="true">before</normalised><lb/>
+God, what though they be not so <normalised orig="afore" auto="true">before</normalised><lb/>
+the <normalised orig="wronge" auto="true">wrong</normalised> <normalised orig="iudgynge" auto="true">judging</normalised> eyes of the <normalised orig="worlde" auto="true">world</normalised><lb/>
+whom the <normalised orig="bloudye" auto="true">bloody</normalised> <normalised orig="remnaunt" auto="true">remnant</normalised> of Antichrist<lb/>
+put <normalised orig="vnto" auto="true">unto</normalised> most <normalised orig="cruell" auto="true">cruel</normalised> <normalised orig="deathe" auto="true">death</normalised> in<lb/>
+<normalised orig="Smythfelde" auto="true">Smithfeld</normalised> at London, in the <normalised orig="yeare" auto="true">year</normalised> of<lb/>
+our <normalised orig="lorde" auto="true">lord</normalised>, M. D. XLVI. in <normalised orig="Iulye" auto="true">July</normalised>.<lb/>
+If they be <normalised orig="onlye" auto="true">only</normalised> (as was <normalised orig="Iohan" auto="true">Johan</normalised> <normalised orig="Baptyst" auto="true">Baptist</normalised>)<lb/>
+great <normalised orig="afore" auto="true">before</normalised> the <normalised orig="lorde" auto="true">lord</normalised> by the <normalised orig="holye" auto="true">holy</normalised><lb/>
+scriptures <normalised orig="allowaunce" auto="true">allowance</normalised>, <normalised orig="whych" auto="true">which</normalised> are <normalised orig="strongelye" auto="true">strongly</normalised><lb/>
+<normalised orig="adourned" auto="true">adorned</normalised> with the graces of <normalised orig="hys" auto="true">his</normalised><lb/>
+<normalised orig="sprete" auto="true">spirit</normalised>, as <normalised orig="faythe" auto="true">faith</normalised>, force, <normalised orig="vnderstandynge" auto="true">understanding</normalised>,<lb/>
+<normalised orig="wysdome" auto="true">wisdom</normalised>, <normalised orig="pacyence" auto="true">patience</normalised>, <normalised orig="loue" auto="true">love</normalised>, <normalised orig="longe" auto="true">long</normalised> <normalised orig="sufferaunce" auto="true">sufferance</normalised><lb/>
+                  <pb n="4"/>
+                  <lb/>
+and <normalised orig="soche" auto="true">such</normalised> <normalised orig="lyke" auto="true">like</normalised>. I dare <normalised orig="boldelye" auto="true">boldly</normalised> <normalised orig="afferme" auto="true">affirm</normalised><lb/>
+these 4. <normalised orig="myghtye" auto="true">mighty</normalised> witnesses also to be<lb/>
+the same, so well as the martyrs of the<lb/>
+<normalised orig="prymatyue" auto="true">primitive</normalised> or Apostles <normalised orig="churche" auto="true">church</normalised>. For so<lb/>
+<normalised orig="strongelye" auto="true">strongly</normalised> had these those <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="vertues" auto="true">virtues</normalised></corr>
+                  </choice> as<lb/>
+they, and so <normalised orig="boldelye" auto="true">boldly</normalised> <normalised orig="obiected" auto="true">objected</normalised> their <normalised orig="bodyes" auto="true">bodies</normalised><lb/>
+to the <normalised orig="deathe" auto="true">death</normalised> for the <normalised orig="vndefyled" auto="true">undefiled</normalised><lb/>
+Christen <normalised orig="beleue" auto="true">believe</normalised>, <normalised orig="agaynst" auto="true">against</normalised> the <choice ana="illegible">
+                     <sic>malygna*~t</sic>
+                     <corr><normalised orig="malygnau~t" auto="true">malignant</normalised></corr>
+                  </choice>
+                  <lb/>
+<normalised orig="Synagoge" auto="true">Synagogue</normalised> of <normalised orig="Sathan" auto="true">Satan</normalised>, as <normalised orig="euer" auto="true">ever</normalised> <normalised orig="ded" auto="true">did</normalised> they,<lb/>
+for no <normalised orig="tyrannye" auto="true">tyranny</normalised> <normalised orig="admyttynge" auto="false">admitting</normalised> <normalised orig="anye" auto="true">any</normalised> create<lb/>
+or <normalised orig="corruptyble" auto="true">corruptible</normalised> <normalised orig="substaunce" auto="true">substance</normalised> for their <normalised orig="eternall" auto="true">eternal</normalised><lb/>
+<normalised orig="lyuynge" auto="true">living</normalised> god. If their <normalised orig="blynde" auto="true">blind</normalised> <normalised orig="babyes" auto="true">babies</normalised><lb/>
+to <normalised orig="proue" auto="true">prove</normalised> them <normalised orig="vnlyke" auto="true">unlike</normalised>, do <normalised orig="obiect" auto="true">object</normalised> <normalised orig="agaynst" auto="true">against</normalised><lb/>
+me, the <normalised orig="myracles" auto="true">miracles</normalised> <normalised orig="shewed" auto="true">showed</normalised> at their <normalised orig="deathes" auto="true">deaths</normalised><lb/>
+more than at these, as that <normalised orig="vnfaythfull" auto="true">unfaithful</normalised><lb/>
+<normalised orig="generacyon" auto="true">generation</normalised> is <normalised orig="euer" auto="true">ever</normalised> <normalised orig="desyerouse" auto="false">desirous</normalised><lb/>
+of wonders, Math. 12. I <normalised orig="wolde" auto="true">would</normalised> but <normalised orig="knowe" auto="true">know</normalised><lb/>
+of <normalised orig="the~" auto="true">them</normalised>, what <normalised orig="myracles" auto="true">miracles</normalised> were <normalised orig="shewed" auto="true">showed</normalised><lb/>
+<normalised orig="whan" auto="true">when</normalised> <normalised orig="Iohan" auto="true">Johan</normalised> <normalised orig="Baptystes" auto="false">Baptists</normalised> head was cut of<lb/>
+in the <normalised orig="preson" auto="true">prison</normalised>? Marci 6. and <normalised orig="whan" auto="true">when</normalised> <normalised orig="Iames" auto="true">James</normalised><lb/>
+the Apostle was <normalised orig="byheaded" auto="false">beheaded</normalised> at <normalised orig="Hierusalem" auto="true">Jerusalem</normalised>?<lb/>
+<notvariant>Acto</notvariant>. 12. These 2. were excellent<lb/>
+<normalised orig="afore" auto="true">before</normalised> God, what though they were<lb/>
+but <normalised orig="myserable" auto="true">miserable</normalised> wretches, <normalised orig="lyght" auto="true">light</normalised> <normalised orig="fellawes" auto="true">fellows</normalised>,<lb/>
+<normalised orig="sedycyouse" auto="true">seditious</normalised> <normalised orig="heretykes" auto="true">heretics</normalised>, <normalised orig="busye" auto="true">busy</normalised> <normalised orig="knaues" auto="true">knaves</normalised>, and<lb/>
+<normalised orig="lowsye" auto="true">lousy</normalised> <normalised orig="beggers" auto="true">beggars</normalised> in the <normalised orig="syght" auto="true">sight</normalised> of noble <normalised orig="kyng" auto="true">king</normalised><lb/>
+Herode and <normalised orig="hys" auto="true">his</normalised> <normalised orig="honorable" auto="true">honourable</normalised> <normalised orig="counsell" auto="true">counsel</normalised> of<lb/>
+prelates. For had not rochettes and <normalised orig="syde" auto="true">side</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum">iiij</fw>
+                  <pb n="5"/>
+                  <lb/>
+<normalised orig="gownes" auto="true">gowns</normalised> <normalised orig="bene" auto="true">been</normalised> at <normalised orig="hande" auto="true">hand</normalised>, <normalised orig="haplye" auto="false">happily</normalised> they had<lb/>
+not so <normalised orig="lyghtlye" auto="true">lightly</normalised> <normalised orig="dyed" auto="true">died</normalised>.<lb/>
+If they allege <normalised orig="Steuen" auto="true">Steven</normalised>, to <normalised orig="maynteyne" auto="true">maintain</normalised><lb/>
+their purpose, that he at <normalised orig="hys" auto="true">his</normalised> <normalised orig="deathe" auto="true">death</normalised> <normalised orig="behelde" auto="true">beheld</normalised><lb/>
+<normalised orig="heauen" auto="true">heaven</normalised> open. I <normalised orig="aske" auto="true">ask</normalised> of <normalised orig="the~" auto="true">them</normalised> <normalised orig="agayne" auto="true">again</normalised><lb/>
+what they were <normalised orig="whych" auto="true">which</normalised> <normalised orig="se" auto="true">see</normalised> it more than<lb/>
+<normalised orig="hys" auto="true">his</normalised> <normalised orig="owne" auto="true">own</normalised> <normalised orig="persone" auto="true">person</normalised>? Sure I am that their<lb/>
+<normalised orig="wycked" auto="true">wicked</normalised> <normalised orig="predecessours" auto="true">predecessors</normalised> there present, <normalised orig="se" auto="true">see</normalised><lb/>
+it not. For they stopped their cares,<lb/>
+<normalised orig="whan" auto="true">when</normalised> he <normalised orig="tolde" auto="true">told</normalised> them <normalised orig="therof" auto="true">thereof</normalised>, <notvariant>Actorum</notvariant> 7.<lb/>
+If they yet <normalised orig="brynge" auto="true">bring</normalised> fourth the other <normalised orig="hystoryes" auto="true">histories</normalised><lb/>
+of Apostles and martyrs. I <normalised orig="answere" auto="true">answer</normalised><lb/>
+them, that all they are of no <normalised orig="soche" auto="true">such</normalised><lb/>
+<normalised orig="autoryte" auto="false">authority</normalised>, as these here <normalised orig="afore" auto="true">before</normalised>. The popes<lb/>
+martyrs in <normalised orig="dede" auto="true">deed</normalised>, were <normalised orig="moche" auto="true">much</normalised> fuller of<lb/>
+<normalised orig="myracles" auto="true">miracles</normalised> than <normalised orig="euer" auto="true">ever</normalised> were <normalised orig="Christes" auto="true">Christ's</normalised>, as<lb/>
+<normalised orig="hysselfe" auto="false">himself</normalised> <normalised orig="tolde" auto="true">told</normalised> <normalised orig="vs" auto="true">us</normalised> they <normalised orig="shulde" auto="true">should</normalised> be so, Mathei 24.<lb/>
+Yet wrought <normalised orig="fryre" auto="true">friar</normalised> Forest, <normalised orig="Iohan" auto="true">Johan</normalised><lb/>
+Fisher, and Thomas More no <normalised orig="myracles" auto="true">miracles</normalised>,<lb/>
+what though <normalised orig="manye" auto="true">many</normalised> be now <normalised orig="regestred" auto="true">registered</normalised><lb/>
+in their <normalised orig="lyues" auto="true">lives</normalised> and <normalised orig="legendes" auto="false">legends</normalised> by the<lb/>
+<normalised orig="fryres" auto="false">friars</normalised> of <normalised orig="Fraunce" auto="true">France</normalised>, <normalised orig="Italye" auto="true">Italy</normalised>, and <normalised orig="Spayne" auto="true">Spain</normalised>.<lb/>
+<normalised orig="Besydes" auto="true">Besides</normalised> that <normalised orig="Iohan" auto="true">Johan</normalised> Cochleus <normalised orig="hath" auto="true">has</normalised><lb/>
+written of them, ad Paulum Po~tificem,<lb/>
+ad regem Henricum, and also in their<lb/>
+defence <normalised orig="agaynst" auto="true">against</normalised> doctor Sampson. With<lb/>
+that Erasmus <normalised orig="ded" auto="true">did</normalised> also ad <choice ana="illegible">
+                        <sic>Hut*enu~</sic>
+                        <corr>Huttenu~.</corr>
+                     </choice> P.<lb/>
+M. ad Gasparem Agrippam, Albertus<lb/>
+                  <pb n="6"/>
+                  <lb/>
+Pighius, Riuius, Fichardus, &amp; a great<lb/>
+sort more. And as for the <normalised orig="holye" auto="true">holy</normalised> <normalised orig="mayde" auto="true">maid</normalised> of<lb/>
+<normalised orig="ke~t" auto="false">kent</normalised> with Doctor Bockynge, though they<lb/>
+wrought great wonders by their <normalised orig="lyfe" auto="true">life</normalised>,<lb/>
+yet <normalised orig="apered" auto="true">appeared</normalised> non at their <normalised orig="deathes" auto="true">deaths</normalised>. Of <normalised orig="hys" auto="true">his</normalised><lb/>
+<normalised orig="owne" auto="true">own</normalised> chosen martyrs, Christ <normalised orig="loketh" auto="true">looks</normalised> for<lb/>
+non other <normalised orig="myracle" auto="true">miracle</normalised>, but that <normalised orig="onlye" auto="true">only</normalised> they<lb/>
+<normalised orig="perseuer" auto="true">persevere</normalised> <normalised orig="faythfull" auto="true">faithful</normalised> to the <normalised orig="ende" auto="true">end</normalised>, Math.<lb/>
+10. And <normalised orig="neuer" auto="true">never</normalised> <normalised orig="denye" auto="true">deny</normalised> <normalised orig="hys" auto="true">his</normalised> <normalised orig="veryte" auto="true">verity</normalised> <normalised orig="afore" auto="true">before</normalised><lb/>
+men. <notvariant>Luce</notvariant> 12. For that <normalised orig="worthye" auto="true">worthy</normalised> <normalised orig="vyctorye" auto="true">victory</normalised><lb/>
+of the <normalised orig="synnefull" auto="true">sinful</normalised> <normalised orig="worlde" auto="true">world</normalised>, <normalised orig="standeth" auto="true">stands</normalised> in the<lb/>
+<normalised orig="inuyncyblenesse" auto="false">invincibleness</normalised> of <normalised orig="faythe" auto="true">faith</normalised>, and not in <normalised orig="myracles" auto="true">miracles</normalised><lb/>
+and wonders, as those <normalised orig="wauerynge" auto="false">wavering</normalised><lb/>
+<normalised orig="wittes" auto="true">wits</normalised> suppose, 1. <notvariant>Ioan</notvariant>. 5.<lb/>
+<normalised orig="Ryght" auto="true">Right</normalised> <normalised orig="wonderfullye" auto="true">wonderfully</normalised> <normalised orig="wyll" auto="true">will</normalised> <normalised orig="thys" auto="true">this</normalised> <normalised orig="apere" auto="true">appear</normalised><lb/>
+in the <notvariant>ij</notvariant>. <normalised orig="myghtye" auto="true">mighty</normalised> <normalised orig="conflyctes" auto="false">conflicts</normalised> here after<lb/>
+<normalised orig="folowynge" auto="true">following</normalised>, <normalised orig="whych" auto="true">which</normalised> the <normalised orig="faythfull" auto="true">faithful</normalised> <normalised orig="seruaunt" auto="true">servant</normalised><lb/>
+of <normalised orig="Iesu" auto="true">Jesus</normalised> Anne <normalised orig="Askewe" auto="true">Askew</normalised>, a <normalised orig="gentylwoman" auto="true">gentlewoman</normalised><lb/>
+<normalised orig="verye" auto="true">very</normalised> <normalised orig="yonge" auto="true">young</normalised>, <normalised orig="dayntye" auto="false">dainty</normalised>, and tender,<lb/>
+had with that <normalised orig="outragynge" auto="false">outraging</normalised> <normalised orig="Synagoge" auto="true">Synagogue</normalised>,<lb/>
+in her <notvariant>ij</notvariant>. <normalised orig="examynacyons" auto="true">examinations</normalised>, about<lb/>
+the xxv. <normalised orig="yeare" auto="true">year</normalised> of her age, whom she<lb/>
+sent <normalised orig="abroade" auto="true">abroad</normalised> by her <normalised orig="owne" auto="true">own</normalised> <normalised orig="hande" auto="true">hand</normalised> <normalised orig="writynge" auto="true">writing</normalised>.<lb/>
+The <normalised orig="handelynges" auto="true">handlings</normalised> of her other<lb/>
+<notvariant>iij</notvariant>. <normalised orig="companyons" auto="true">companions</normalised>, shall be <normalised orig="shewed" auto="true">showed</normalised> in<lb/>
+other <normalised orig="seuerall" auto="true">several</normalised> <normalised orig="treatyses" auto="false">treatises</normalised> at <normalised orig="layser" auto="true">leisure</normalised>. For<lb/>
+the <normalised orig="glorye" auto="true">glory</normalised> and great power of the<lb/>
+                  <lb/>
+                  <fw type="pageNum">v</fw>
+                  <pb n="7"/>
+                  <lb/>
+<normalised orig="lorde" auto="true">lord</normalised>. so <normalised orig="manyfestlye" auto="true">manifestly</normalised> <normalised orig="aperynge" auto="true">appearing</normalised> in <normalised orig="hys" auto="true">his</normalised> elect<lb/>
+vessels, <normalised orig="maye" auto="true">may</normalised> not now <normalised orig="perysh" auto="true">perish</normalised> at all<lb/>
+<normalised orig="handes" auto="true">hands</normalised>, &amp; be <normalised orig="vnthankefullye" auto="false">unthankfully</normalised> neglected<lb/>
+but be <normalised orig="spred" auto="true">spread</normalised> the <normalised orig="worlde" auto="true">world</normalised> <normalised orig="ouer" auto="true">over</normalised>, as <normalised orig="wele" auto="true">well</normalised> in<lb/>
+<normalised orig="Latyne" auto="true">Latin</normalised> as <normalised orig="Englysh" auto="true">English</normalised>, to the <normalised orig="perpetuall" auto="true">perpetual</normalised> <normalised orig="infamye" auto="true">infamy</normalised><lb/>
+of so <normalised orig="wyllfullye" auto="false">wilfully</normalised> <normalised orig="cruell" auto="true">cruel</normalised> and <normalised orig="spyghtfull" auto="true">spiteful</normalised><lb/>
+<normalised orig="tyrauntes" auto="true">tyrants</normalised>. <normalised orig="Nothynge" auto="true">Nothing</normalised> at all shall it<lb/>
+<normalised orig="terryfye" auto="false">terrify</normalised> <normalised orig="vs" auto="true">us</normalised>, nor yet in <normalised orig="anye" auto="true">any</normalised> <normalised orig="poynt" auto="true">point</normalised> <normalised orig="lett" auto="true">let</normalised> <normalised orig="vs" auto="true">us</normalised><lb/>
+of our purpose, that our <normalised orig="bokes" auto="true">books</normalised> are now in<lb/>
+<normalised orig="Englande" auto="true">England</normalised> <normalised orig="condempned" auto="true">condemned</normalised> and <normalised orig="brent" auto="true">burnt</normalised>, by<lb/>
+the <normalised orig="Byshoppes" auto="true">Bishops</normalised> and <normalised orig="prestes" auto="true">priests</normalised> with their<lb/>
+<normalised orig="frantyck" auto="true">frantic</normalised> <normalised orig="affynyte" auto="false">affinity</normalised>, the great <normalised orig="Antichristes" auto="true">Antichrists</normalised><lb/>
+<normalised orig="vpholders" auto="true">upholders</normalised>, <normalised orig="whych" auto="true">which</normalised> <normalised orig="seke" auto="true">seek</normalised> by all <normalised orig="practyses" auto="true">practises</normalised><lb/>
+<normalised orig="possyble" auto="true">possible</normalised> to <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="turne" auto="true">turn</normalised></corr>
+                  </choice> <normalised orig="ouer" auto="true">over</normalised> the <normalised orig="kynges" auto="true">kings</normalised> most noble<lb/>
+and <normalised orig="godlye" auto="true">godly</normalised> <normalised orig="enterpryse" auto="true">enterprise</normalised>. But it <normalised orig="wyll" auto="true">will</normalised><lb/>
+from <normalised orig="hens" auto="true">hence</normalised> forth <normalised orig="occasyon" auto="true">occasion</normalised> <normalised orig="vs" auto="true">us</normalised>, to set<lb/>
+fourth in the <normalised orig="Latyne" auto="true">Latin</normalised> also, that <normalised orig="afore" auto="true">before</normalised> we<lb/>
+wrote <normalised orig="onlye" auto="true">only</normalised> in the <normalised orig="Englysh" auto="true">English</normalised>, and so make<lb/>
+their <normalised orig="spirytuall" auto="true">spiritual</normalised> <normalised orig="wyckednesse" auto="true">wickedness</normalised> and treason<lb/>
+<normalised orig="knowne" auto="true">known</normalised> <normalised orig="moche" auto="true">much</normalised> farther of. What<lb/>
+<normalised orig="auayled" auto="true">availed</normalised> it Ioakim to <normalised orig="burne" auto="true">burn</normalised> Hieremyes<lb/>
+<normalised orig="prophecye" auto="true">prophecy</normalised> by the <normalised orig="vngracyouse" auto="false">ungracious</normalised> <normalised orig="counsell" auto="true">counsel</normalised><lb/>
+of <normalised orig="hys" auto="true">his</normalised> prelates? <normalised orig="Hiere" auto="true">Hear</normalised>. 36. <normalised orig="Eyther" auto="true">Either</normalised> yet Antiochus<lb/>
+to set <normalised orig="fyre" auto="true">fire</normalised> on the other scriptures?<lb/>
+1. Macha. 1.<lb/>
+After the Apostles were brought <normalised orig="afore" auto="true">before</normalised><lb/>
+the <normalised orig="counsell" auto="true">counsel</normalised> and <normalised orig="strayghtlye" auto="false">straightly</normalised> <normalised orig="co~maunded" auto="true">commanded</normalised><lb/>
+to cease from <normalised orig="preachynge" auto="true">preaching</normalised>, they preached<lb/>
+                  <pb n="8"/>
+                  <lb/>
+<normalised orig="moche" auto="true">much</normalised> more than <normalised orig="afore" auto="true">before</normalised>. <notvariant>Acto</notvariant>. 4. In<lb/>
+most <normalised orig="terryble" auto="true">terrible</normalised> <normalised orig="persecucyons" auto="false">persecutions</normalised> of the <normalised orig="prymatyue" auto="true">primitive</normalised><lb/>
+<normalised orig="churche" auto="true">church</normalised>, were the <normalised orig="examynacyons" auto="true">examinations</normalised> &amp;<lb/>
+answers, <normalised orig="tormentes" auto="true">torments</normalised> and <normalised orig="deathes" auto="true">deaths</normalised> of the<lb/>
+<normalised orig="constaunt" auto="true">constant</normalised> martyrs written, and sent <normalised orig="abroade" auto="true">abroad</normalised><lb/>
+all the whole <normalised orig="worlde" auto="true">world</normalised> <normalised orig="ouer" auto="true">over</normalised>, as<lb/>
+<normalised orig="testyfyeth" auto="true">testifies</normalised> <notvariant>Eusebius</notvariant> Cesariensis in <normalised orig="hys" auto="true">his</normalised><lb/>
+<normalised orig="ecclesyastyck" auto="false">ecclesiastic</normalised> <normalised orig="hystorye" auto="true">history</normalised>. Their <normalised orig="coppyes" auto="true">copies</normalised> <normalised orig="habounde" auto="false">abound</normalised><lb/>
+yet <normalised orig="euerye" auto="true">every</normalised> where. Great slaughter<lb/>
+&amp; <normalised orig="burnynge" auto="true">burning</normalised> <normalised orig="hath" auto="true">has</normalised> <normalised orig="bene" auto="true">been</normalised> here in <normalised orig="Englande" auto="true">England</normalised><lb/>
+for <normalised orig="Iohan" auto="true">Johan</normalised> <normalised orig="wycleues" auto="true">wicliffe</normalised> <normalised orig="bokes" auto="true">books</normalised>, <normalised orig="euer" auto="true">ever</normalised><lb/>
+<normalised orig="sens" auto="true">since</normalised> the <normalised orig="yeare" auto="true">year</normalised> of our <normalised orig="lorde" auto="true">lord</normalised>. M. CCC.<lb/>
+LXXXII. Yet <normalised orig="haue" auto="true">have</normalised> not one of them<lb/>
+<normalised orig="throughlye" auto="true">thoroughly</normalised> <normalised orig="peryshed" auto="true">perished</normalised>. I <normalised orig="haue" auto="true">have</normalised> at <normalised orig="thys" auto="true">this</normalised><lb/>
+<normalised orig="houre" auto="true">hour</normalised> the <normalised orig="tytles" auto="true">titles</normalised> of a C. and XLIIII.<lb/>
+of them, <normalised orig="whych" auto="true">which</normalised> are <normalised orig="manye" auto="true">many</normalised> more in <normalised orig="nombre" auto="true">number</normalised>.<lb/>
+For some of them <normalised orig="vndre" auto="true">under</normalised> one <normalised orig="tytle" auto="true">title</normalised> <normalised orig="comprehendeth" auto="true">comprehends</normalised><lb/>
+<notvariant>ij</notvariant>. <normalised orig="bokes" auto="true">books</normalised>, some <notvariant>iij</notvariant>. some iiij.<lb/>
+Yea, one of them <normalised orig="contayneth" auto="true">contains</normalised> xij. I <normalised orig="thynke" auto="true">think</normalised><lb/>
+not the <normalised orig="contrarye" auto="true">contrary</normalised>, but ere the <normalised orig="worlde" auto="true">world</normalised><lb/>
+be at a full <normalised orig="ende" auto="true">end</normalised>, God <normalised orig="wyll" auto="true">will</normalised> so <normalised orig="gloryfye" auto="true">glorify</normalised><lb/>
+that <normalised orig="twentye" auto="true">twenty</normalised> <normalised orig="tymes" auto="true">times</normalised> <normalised orig="condempned" auto="true">condemned</normalised> <normalised orig="heretyke" auto="true">heretic</normalised>,<lb/>
+execrated, cursed, <normalised orig="spytted" auto="true">spitted</normalised>, and spatled<lb/>
+at, that all your <normalised orig="popysh" auto="true">popish</normalised> writers before<lb/>
+<normalised orig="hys" auto="true">his</normalised> <normalised orig="tyme" auto="true">time</normalised> and after, <normalised orig="wyll" auto="true">will</normalised> be <normalised orig="reckened" auto="true">reckoned</normalised><lb/>
+but <normalised orig="vyle" auto="true">vile</normalised> <normalised orig="swyneheardes" auto="false">swineherds</normalised> to <normalised orig="hym" auto="true">him</normalised>, for the<lb/>
+good <normalised orig="fauer" auto="true">favour</normalised> he bare to <normalised orig="Christes" auto="true">Christ's</normalised> <normalised orig="holye" auto="true">holy</normalised><lb/>
+<normalised orig="Gospell" auto="true">Gospel</normalised>. A <normalised orig="verye" auto="true">very</normalised> <normalised orig="madnesse" auto="true">madness</normalised> is it to <normalised orig="stryue" auto="true">strive</normalised><lb/>
+                  <fw type="pageNum">6</fw>
+                  <pb n="9"/>
+                  <lb/>
+<normalised orig="agaynst" auto="true">against</normalised> God, <normalised orig="whan" auto="true">when</normalised> he <normalised orig="wyll" auto="true">will</normalised> <normalised orig="haue" auto="true">have</normalised> the <normalised orig="longe" auto="true">long</normalised><lb/>
+<normalised orig="hydden" auto="true">hidden</normalised> <normalised orig="inyquytees" auto="false">iniquities</normalised> <normalised orig="knowne" auto="true">known</normalised>. As the<lb/>
+<normalised orig="godlye" auto="true">godly</normalised> <normalised orig="wyse" auto="true">wise</normalised> man Gamaliel <normalised orig="sayd" auto="true">said</normalised>, <notvariant>Acto</notvariant>.<lb/>
+5. If <normalised orig="thys" auto="true">this</normalised> <normalised orig="enterpryse" auto="true">enterprise</normalised> that is now taken<lb/>
+<normalised orig="agaynst" auto="true">against</normalised> <normalised orig="yow" auto="true">you</normalised>, be of God, <normalised orig="ye" auto="true">you</normalised> shall <normalised orig="neuer" auto="true">never</normalised> be<lb/>
+able with all your <normalised orig="tyrannouse" auto="true">tyrannous</normalised> <normalised orig="practyses" auto="true">practises</normalised><lb/>
+to <normalised orig="dyssolue" auto="false">dissolve</normalised> it.<lb/>
+Now <normalised orig="concernynge" auto="true">concerning</normalised> that blessed woman<lb/>
+Anne <normalised orig="Askewe" auto="true">Askew</normalised>, <normalised orig="whych" auto="true">which</normalised> <normalised orig="latelye" auto="true">lately</normalised> suffered<lb/>
+the <normalised orig="tyrannye" auto="true">tyranny</normalised> of <normalised orig="thys" auto="true">this</normalised> <normalised orig="worlde" auto="true">world</normalised> for <normalised orig="ryghtwisnesse" auto="false">rightwiseness</normalised><lb/>
+sake. In <normalised orig="Lyncolne" auto="true">Lincoln</normalised> <normalised orig="shyre" auto="false">shire</normalised> was<lb/>
+she borne of a <normalised orig="verye" auto="true">very</normalised> <normalised orig="auncyent" auto="true">ancient</normalised> and noble<lb/>
+<normalised orig="stocke" auto="true">stock</normalised>, Sir <normalised orig="Wyllyam" auto="true">William</normalised> <normalised orig="Askewe" auto="true">Askew</normalised> a <normalised orig="worthye" auto="true">worthy</normalised><lb/>
+<normalised orig="knyght" auto="true">knight</normalised> <normalised orig="beynge" auto="true">being</normalised> her father. But no<lb/>
+<normalised orig="worthynesse" auto="true">worthiness</normalised> in the flesh, <normalised orig="neyther" auto="true">neither</normalised> yet <normalised orig="anye" auto="true">any</normalised><lb/>
+<normalised orig="worldlye" auto="true">worldly</normalised> <normalised orig="noblenesse" auto="true">nobleness</normalised> <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="auayleth" auto="true">avails</normalised></corr>
+                  </choice> to god<lb/>
+<normalised orig="warde" auto="true">ward</normalised>, <normalised orig="afore" auto="true">before</normalised> <normalised orig="whome" auto="true">whom</normalised> is no <normalised orig="acceptacyon" auto="false">acceptation</normalised><lb/>
+of <normalised orig="persone" auto="true">person</normalised>. <notvariant>Actorum</notvariant> 10. <normalised orig="Onlye" auto="true">Only</normalised> is it <normalised orig="faythe" auto="true">faith</normalised><lb/>
+with <normalised orig="hys" auto="true">his</normalised> true <normalised orig="loue" auto="true">love</normalised> and <normalised orig="feare" auto="true">fear</normalised>, <normalised orig="whych" auto="true">which</normalised><lb/>
+<normalised orig="maketh" auto="true">makes</normalised> <normalised orig="vs" auto="true">us</normalised> the accept, noble and <normalised orig="worthye" auto="true">worthy</normalised><lb/>
+<normalised orig="chyldren" auto="true">children</normalised> <normalised orig="vnto" auto="true">unto</normalised> God, <notvariant>Ioan</notvariant> 1. <normalised orig="Wherof" auto="true">Whereof</normalised><lb/>
+by <normalised orig="hys" auto="true">his</normalised> <normalised orig="gyft" auto="true">gift</normalised>, she had <normalised orig="wonderfull" auto="true">wonderful</normalised> <normalised orig="habundaunce" auto="true">abundance</normalised>.<lb/>
+<normalised orig="Soch" auto="true">Such</normalised> a won was she, as<lb/>
+was Lydia the purple <normalised orig="sellar" auto="true">cellar</normalised>, whose <normalised orig="harte" auto="true">heart</normalised><lb/>
+the <normalised orig="lorde" auto="true">lord</normalised> opened by the <normalised orig="godlye" auto="true">godly</normalised> <normalised orig="preachynge" auto="true">preaching</normalised><lb/>
+of <normalised orig="Paule" auto="true">Paul</normalised> at Thyatira, <notvariant>Acto</notvariant>.16.<lb/>
+For <normalised orig="dylygent" auto="true">diligent</normalised> <normalised orig="hede" auto="true">heed</normalised> <normalised orig="gaue" auto="true">gave</normalised> she to <normalised orig="hys" auto="true">his</normalised> <normalised orig="worde" auto="true">word</normalised><lb/>
+<normalised orig="whan" auto="true">when</normalised> it was ones taught without <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="superstycyon" auto="true">superstition</normalised></corr>
+                  </choice>,<lb/>
+                  <pb n="10"/>
+                  <lb/>
+&amp; <normalised orig="wolde" auto="true">would</normalised> no <normalised orig="lo~gar" auto="false">longer</normalised> be a false<lb/>
+<normalised orig="worshypper" auto="false">worshipper</normalised> or <normalised orig="ydolatour" auto="false">idolater</normalised> after the <normalised orig="wycked" auto="true">wicked</normalised><lb/>
+<normalised orig="scole" auto="true">school</normalised> of Antichrist. But became <normalised orig="fro~" auto="true">from</normalised><lb/>
+<normalised orig="thensfourth" auto="false">thenceforth</normalised> a true <normalised orig="worshypper" auto="false">worshipper</normalised>, <normalised orig="worshyppyng" auto="true">worshipping</normalised><lb/>
+her <normalised orig="lorde" auto="true">lord</normalised> God (<normalised orig="whych" auto="true">which</normalised> is a <normalised orig="sprete" auto="true">spirit</normalised> &amp;<lb/>
+not <normalised orig="breade" auto="true">bread</normalised>) in <normalised orig="sprete" auto="true">spirit</normalised> &amp; in <normalised orig="veryte" auto="true">verity</normalised>, <normalised orig="accordynge" auto="true">according</normalised><lb/>
+to that <normalised orig="worde" auto="true">word</normalised> of <normalised orig="hys" auto="true">his</normalised>, <notvariant>Ioan</notvariant>. 4. The<lb/>
+<normalised orig="Gospell" auto="true">Gospel</normalised> of Christ bare she in her <normalised orig="harte" auto="true">heart</normalised>,<lb/>
+as <normalised orig="ded" auto="true">did</normalised> the <normalised orig="holye" auto="true">holy</normalised> <normalised orig="mayde" auto="true">maid</normalised> Cecilia, &amp; <normalised orig="neuer" auto="true">never</normalised><lb/>
+after ceased <normalised orig="fro~" auto="true">from</normalised> the <normalised orig="stodye" auto="true">study</normalised> <normalised orig="therof" auto="true">thereof</normalised>, nor <normalised orig="fro~" auto="true">from</normalised><lb/>
+<normalised orig="godlye" auto="true">godly</normalised> <normalised orig="co~munycacyon" auto="false">communication</normalised> &amp; prayer, <normalised orig="tyll" auto="true">till</normalised> she<lb/>
+was <normalised orig="clerlye" auto="true">clearly</normalised> by most <normalised orig="cruell" auto="true">cruel</normalised> <normalised orig="tormentes" auto="true">torments</normalised>, taken<lb/>
+from <normalised orig="thys" auto="true">this</normalised> wretched <normalised orig="worlde" auto="true">world</normalised>.<lb/>
+By her do I here (<normalised orig="dere" auto="true">dear</normalised> <normalised orig="fryndes" auto="true">friends</normalised> in the<lb/>
+<normalised orig="lorde" auto="true">lord</normalised>) as <normalised orig="ded" auto="true">did</normalised> the <normalised orig="faythfull" auto="true">faithful</normalised> <normalised orig="Bretherne" auto="true">Brethren</normalised> in<lb/>
+<normalised orig="Fraunce" auto="true">France</normalised>, at the <normalised orig="cyties" auto="true">cities</normalised> of Lyons and Vienna<lb/>
+by a <normalised orig="lyke" auto="true">like</normalised> <normalised orig="faythfull" auto="true">faithful</normalised> <normalised orig="yonge" auto="true">young</normalised> woman<lb/>
+called <notvariant>Blandina</notvariant>. <normalised orig="Whych" auto="true">Which</normalised> was<lb/>
+there put to <normalised orig="deathe" auto="true">death</normalised> with <notvariant>iij</notvariant>. <normalised orig="myghtye" auto="true">mighty</normalised><lb/>
+<normalised orig="companyons" auto="true">companions</normalised> more <normalised orig="amonge" auto="true">among</normalised> other (as<lb/>
+<normalised orig="thys" auto="true">this</normalised> was) for her <normalised orig="Christe~" auto="true">Christen</normalised> <normalised orig="beleue" auto="true">believe</normalised>, about<lb/>
+the <normalised orig="yeare" auto="true">year</normalised> of our <normalised orig="lorde" auto="true">lord</normalised>, C. and LXX. in<lb/>
+the <normalised orig="prymatyue" auto="true">primitive</normalised> <normalised orig="sprynge" auto="true">spring</normalised> of their <normalised orig="Christyanyte" auto="false">Christianity</normalised>.<lb/>
+They wrote <normalised orig="vnto" auto="true">unto</normalised> their <normalised orig="Bretherne" auto="true">Brethren</normalised><lb/>
+in the <normalised orig="landes" auto="true">lands</normalised> of Asia &amp; Phrygia<lb/>
+<normalised orig="verye" auto="true">very</normalised> <normalised orig="farre" auto="true">far</normalised> of, her <normalised orig="myghtye" auto="true">mighty</normalised> <normalised orig="stronge" auto="true">strong</normalised> <normalised orig="sufferynges" auto="false">sufferings</normalised><lb/>
+for <normalised orig="Christes" auto="true">Christ's</normalised> <normalised orig="fayth" auto="true">faith</normalised>, <normalised orig="whych" auto="true">which</normalised> they <normalised orig="knewe" auto="true">knew</normalised><lb/>
+<normalised orig="nothynge" auto="true">nothing</normalised> of <normalised orig="afore" auto="true">before</normalised>. I write here <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="yow" auto="true">you</normalised><lb/>
+                  <fw type="pageNum">7</fw>
+                  <pb n="11"/>
+                  <lb/>
+in <normalised orig="Englande" auto="true">England</normalised> the double <normalised orig="processe" auto="true">process</normalised> of <normalised orig="thys" auto="true">this</normalised><lb/>
+noble woman, <normalised orig="wherof" auto="true">whereof</normalised> <normalised orig="ye" auto="true">you</normalised> are not <normalised orig="ignoraunt" auto="true">ignorant</normalised>,<lb/>
+for so <normalised orig="moche" auto="true">much</normalised> as it was there so <normalised orig="manyfestlye" auto="true">manifestly</normalised><lb/>
+done <normalised orig="amonge" auto="true">among</normalised> <normalised orig="yow" auto="true">you</normalised>. Coupled I<lb/>
+<normalised orig="haue" auto="true">have</normalised> these <notvariant>ij</notvariant>. examples <normalised orig="togyther" auto="true">together</normalised>, <normalised orig="bycause" auto="true">because</normalised><lb/>
+I <normalised orig="fynde" auto="true">find</normalised> them in so <normalised orig="manye" auto="true">many</normalised> <normalised orig="poyntes" auto="true">points</normalised> agree.<lb/>
+<notvariant>Blandina</notvariant> was <normalised orig="yonge" auto="true">young</normalised> and tender,<lb/>
+So was Anne <normalised orig="Askewe" auto="true">Askew</normalised> also. But that<lb/>
+<normalised orig="whych" auto="true">which</normalised> was <normalised orig="frayle" auto="true">frail</normalised> of nature in <normalised orig="the~" auto="true">them</normalised> both,<lb/>
+Christ made most <normalised orig="stronge" auto="true">strong</normalised> by <normalised orig="hys" auto="true">his</normalised> grace.<lb/>
+<notvariant>Blandina</notvariant> had <notvariant>iij</notvariant>. ernest <normalised orig="companyons" auto="true">companions</normalised> in<lb/>
+Christ, Maturus, Sanctes, and Attalus,<lb/>
+so <normalised orig="feruentlye" auto="true">fervently</normalised> <normalised orig="faythfull" auto="true">faithful</normalised> as her <normalised orig="selfe" auto="true">self</normalised>.<lb/>
+So had Anne <normalised orig="Askewe" auto="true">Askew</normalised> <notvariant>iij</notvariant>. <normalised orig="fyre" auto="true">fire</normalised> <normalised orig="fellawes" auto="true">fellows</normalised>,<lb/>
+a <normalised orig="gentylman" auto="true">gentleman</normalised> called <normalised orig="Iohan" auto="true">Johan</normalised> <notvariant>Lassels</notvariant> her<lb/>
+<normalised orig="instructour" auto="true">instructor</normalised>, a <normalised orig="preste" auto="true">pressed</normalised>, and a <normalised orig="tayler" auto="true">tailor</normalised> called<lb/>
+<normalised orig="Iohan" auto="true">Johan</normalised> Adlam, men in <normalised orig="Christes" auto="true">Christ's</normalised> <normalised orig="veryte" auto="true">verity</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="ende" auto="true">end</normalised> most <normalised orig="co~staunt" auto="false">constant</normalised>. With <normalised orig="Bla~dina" auto="false">Blandina</normalised><lb/>
+                  <choice ana="illegible">
+                     <sic>w*re</sic>
+                     <corr>were</corr>
+                  </choice> in <normalised orig="preson" auto="true">prison</normalised>, to the <normalised orig="nombre" auto="true">number</normalised> of x.<lb/>
+<normalised orig="whych" auto="true">which</normalised> <normalised orig="renyed" auto="true">renewed</normalised> the <normalised orig="truthe" auto="true">truth</normalised> and were <normalised orig="clerelye" auto="true">clearly</normalised><lb/>
+forsaken of God for it. How <normalised orig="manye" auto="true">many</normalised><lb/>
+fell <normalised orig="fro~" auto="true">from</normalised> Christ <normalised orig="besydes" auto="true">besides</normalised> Crome and Shaxton,<lb/>
+<normalised orig="whan" auto="true">when</normalised> Anne <normalised orig="Askewe" auto="true">Askew</normalised> <normalised orig="stode" auto="true">stood</normalised> fast by<lb/>
+<normalised orig="hym" auto="true">him</normalised>, I am <normalised orig="vncerteyne" auto="true">uncertain</normalised>. But I <choice ana="illegible">
+                     <sic>counse*l</sic>
+                     <corr><normalised orig="counsell" auto="true">counsel</normalised></corr>
+                  </choice>
+                  <lb/>
+them, as <normalised orig="saynt" auto="true">saint</normalised> <normalised orig="Iohan" auto="true">Johan</normalised> counselled the<lb/>
+Laodycyanes, in the <normalised orig="myserable" auto="true">miserable</normalised> estate<lb/>
+they are now in, to <normalised orig="bye" auto="true">be</normalised> them <choice ana="typeset-error">
+                     <sic/>
+                     <corr>through</corr>
+                  </choice>
+                  <lb/>
+<normalised orig="tryed" auto="true">tried</normalised> <normalised orig="golde" auto="true">gold</normalised> of Christ, least they <normalised orig="perysh" auto="true">perish</normalised><lb/>
+                  <pb n="12"/>
+                  <lb/>
+all <normalised orig="togyther" auto="true">together</normalised>. <notvariant>Apoca</notvariant>. 3. If they had not<lb/>
+<normalised orig="styll" auto="true">still</normalised> <normalised orig="remayned" auto="true">remained</normalised> in that <normalised orig="chauncell" auto="true">chancel</normalised>, <normalised orig="whome" auto="true">whom</normalised><lb/>
+Christ <normalised orig="commaunded" auto="true">commanded</normalised> <normalised orig="Iohan" auto="true">Johan</normalised> in no<lb/>
+<normalised orig="wyse" auto="true">wise</normalised> to measure, <notvariant>Apoca</notvariant>. 11. They had<lb/>
+<normalised orig="neuer" auto="true">never</normalised> so <normalised orig="shamefullye" auto="true">shamefully</normalised> blasphemed, <normalised orig="lyke" auto="true">like</normalised><lb/>
+as <notvariant>Bedas</notvariant> also <normalised orig="toucheth" auto="true">touches</normalised> in <normalised orig="hys" auto="true">his</normalised> former<lb/>
+<normalised orig="prophecye" auto="true">prophecy</normalised>.<lb/>
+Prompt was <notvariant>Blandina</notvariant>, and of most<lb/>
+<normalised orig="lustye" auto="true">lusty</normalised> <normalised orig="corage" auto="true">courage</normalised>, in renderynge her <normalised orig="lyfe" auto="true">life</normalised> for<lb/>
+the <normalised orig="lyberte" auto="true">liberty</normalised> of her <normalised orig="faythe" auto="true">faith</normalised>. No <normalised orig="lesse" auto="true">less</normalised> <normalised orig="lyuelye" auto="true">lively</normalised><lb/>
+and <normalised orig="quyck" auto="false">quick</normalised> was Anne <normalised orig="Askewe" auto="true">Askew</normalised> in all<lb/>
+her <normalised orig="enprysonynges" auto="false">imprisoning</normalised> and <normalised orig="torme~tes" auto="false">torments</normalised>. Great<lb/>
+was the <normalised orig="loue" auto="true">love</normalised>, <notvariant>Blandina</notvariant> had to Christ.<lb/>
+No <normalised orig="lesse" auto="true">less</normalised> was the <normalised orig="loue" auto="true">love</normalised> of Anne <normalised orig="Askewe" auto="true">Askew</normalised>.<lb/>
+<notvariant>Blandina</notvariant> <normalised orig="neuer" auto="true">never</normalised> <normalised orig="faynted" auto="true">fainted</normalised> in torment. No<lb/>
+more <normalised orig="ded" auto="true">did</normalised> Anne <normalised orig="Askewe" auto="true">Askew</normalised> in <normalised orig="sprete" auto="true">spirit</normalised>, <normalised orig="whan" auto="true">when</normalised><lb/>
+she was so <normalised orig="terrybly" auto="false">terribly</normalised> racked of Wrysleye<lb/>
+the <normalised orig="chaunceller" auto="false">chancellor</normalised> and <normalised orig="Ryche" auto="true">Rich</normalised>, that the <normalised orig="strynges" auto="true">strings</normalised><lb/>
+of her <normalised orig="armes" auto="true">arms</normalised> and eyes were <normalised orig="peryshed" auto="true">perished</normalised><lb/>
+<notvariant>Blandina</notvariant> <normalised orig="deryded" auto="true">derided</normalised> the <normalised orig="cruelte" auto="true">cruelty</normalised> of the <normalised orig="tyrauntes" auto="true">tyrants</normalised>.<lb/>
+So <normalised orig="ded" auto="true">did</normalised> Anne <normalised orig="Askewe" auto="true">Askew</normalised> the <normalised orig="madnesse" auto="true">madness</normalised><lb/>
+of the <normalised orig="Byshoppes" auto="true">Bishops</normalised> and their <normalised orig="speche" auto="true">speech</normalised><lb/>
+men. <normalised orig="Reade" auto="true">Read</normalised> <normalised orig="burnynge" auto="true">burning</normalised> plates of <normalised orig="yron" auto="true">iron</normalised> and<lb/>
+of <normalised orig="brasse" auto="true">brass</normalised> had <notvariant>Blandina</notvariant> put to her <normalised orig="sydes" auto="true">sides</normalised>.<lb/>
+So had Anne <normalised orig="Askewe" auto="true">Askew</normalised> the <normalised orig="flamynge" auto="false">flaming</normalised> <normalised orig="bra~des" auto="false">brands</normalised><lb/>
+of <normalised orig="fyre" auto="true">fire</normalised>. Full of God and <normalised orig="hys" auto="true">his</normalised> <normalised orig="veryte" auto="true">verity</normalised><lb/>
+was <notvariant>Blandina</notvariant>. So was Anne <normalised orig="Askewe" auto="true">Askew</normalised><lb/>
+to the <normalised orig="verye" auto="true">very</normalised> <normalised orig="ende" auto="true">end</normalised>. Christ <normalised orig="wonderfullye" auto="true">wonderfully</normalised><lb/>
+                  <fw type="pageNum">8</fw>
+                  <pb n="13"/>
+                  <lb/>
+<normalised orig="tryumphed" auto="true">triumphed</normalised> in <notvariant>Blandina</notvariant>. So <normalised orig="ded" auto="true">did</normalised> he in<lb/>
+Anne <normalised orig="Askewe" auto="true">Askew</normalised>, <normalised orig="whan" auto="true">when</normalised> she made no <normalised orig="noyse" auto="true">noise</normalised><lb/>
+on the <normalised orig="racke" auto="true">rack</normalised>, and so <normalised orig="ernestlye" auto="true">earnestly</normalised> <normalised orig="afterwarde" auto="true">afterward</normalised><lb/>
+<normalised orig="reioyced" auto="true">rejoiced</normalised> in <normalised orig="hym" auto="true">him</normalised>. <notvariant>Blandina</notvariant> was <normalised orig="geuen" auto="true">given</normalised><lb/>
+fourth to <normalised orig="wylde" auto="true">wild</normalised> <normalised orig="beastes" auto="true">beasts</normalised> to be <normalised orig="deuoured" auto="true">devoured</normalised>.<lb/>
+So was Anne <normalised orig="Askewe" auto="true">Askew</normalised> to <normalised orig="cruell" auto="true">cruel</normalised> <normalised orig="Byshoppes" auto="true">Bishops</normalised><lb/>
+&amp; <normalised orig="prestes" auto="true">priests</normalised>, whom Christ <normalised orig="calleth" auto="true">calls</normalised><lb/>
+<normalised orig="rauenynge" auto="true">ravening</normalised> <normalised orig="wolues" auto="true">wolves</normalised>, <normalised orig="deuourers" auto="true">devourers</normalised>, and <normalised orig="theues" auto="true">thieves</normalised>.<lb/>
+Math. 7. &amp; <notvariant>Ioan</notvariant>. 10. <notvariant>Blandina</notvariant><lb/>
+<normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="scaffolde" auto="true">scaffold</normalised> <normalised orig="boldelye" auto="true">boldly</normalised> reprehended<lb/>
+the <normalised orig="pagane" auto="true">pagan</normalised> <normalised orig="prestes" auto="true">priests</normalised> of their <normalised orig="errour" auto="true">error</normalised>.<lb/>
+So <normalised orig="ded" auto="true">did</normalised> Anne <normalised orig="Askewe" auto="true">Askew</normalised> <normalised orig="whan" auto="true">when</normalised> she was<lb/>
+fast <normalised orig="tyed" auto="true">tied</normalised> to the stake, with <normalised orig="stomack" auto="true">stomach</normalised> rebuke<lb/>
+that <normalised orig="blasphemouse" auto="true">blasphemous</normalised> <normalised orig="apostata" auto="true">apostate</normalised> Shaxto~<lb/>
+with the <normalised orig="Byshoppes" auto="true">Bishops</normalised> and <normalised orig="prestes" auto="true">priests</normalised> <normalised orig="generacyon" auto="true">generation</normalised>,<lb/>
+for their <normalised orig="manyfest" auto="true">manifest</normalised> <normalised orig="mayntenaunce" auto="true">maintenance</normalised><lb/>
+of <normalised orig="ydolatrye" auto="true">idolatry</normalised>.<lb/>
+<notvariant>Blandina</notvariant> at the stake <normalised orig="shewed" auto="true">showed</normalised> a <normalised orig="vysage" auto="true">visage</normalised><lb/>
+<normalised orig="vnterryfyed" auto="false">unterrified</normalised>. So <normalised orig="ded" auto="true">did</normalised> Anne <normalised orig="Askewe" auto="true">Askew</normalised> a<lb/>
+<normalised orig="countenaunce" auto="true">countenance</normalised> <normalised orig="stowte" auto="true">stout</normalised>, <normalised orig="myghtye" auto="true">mighty</normalised> and ernest<lb/>
+<normalised orig="Infatygable" auto="false">Infatigable</normalised> was the <normalised orig="sprete" auto="true">spirit</normalised> of <normalised orig="Bla~dina" auto="false">Blandina</normalised>.<lb/>
+So was the <normalised orig="sprete" auto="true">spirit</normalised> of Anne <normalised orig="Askewe" auto="true">Askew</normalised>.<lb/>
+The <normalised orig="loue" auto="true">love</normalised> of <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, the <normalised orig="gyft" auto="true">gift</normalised><lb/>
+of the <normalised orig="holye" auto="true">holy</normalised> Ghost, and hope of the <normalised orig="crowne" auto="true">crown</normalised><lb/>
+of <normalised orig="martyrdome" auto="true">martyrdom</normalised>, <normalised orig="greatlye" auto="true">greatly</normalised> <normalised orig="mytygated" auto="false">mitigated</normalised><lb/>
+the <normalised orig="payne" auto="true">pain</normalised> in <notvariant>Blandina</notvariant>. So <normalised orig="ded" auto="true">did</normalised> those <notvariant>iij</notvariant>.<lb/>
+<normalised orig="worthye" auto="true">worthy</normalised> graces, the <normalised orig="terrour" auto="true">terror</normalised> of all <normalised orig="tormentes" auto="true">torments</normalised><lb/>
+in Anne <normalised orig="Askewe" auto="true">Askew</normalised>. The <normalised orig="stronge" auto="true">strong</normalised><lb/>
+                  <pb n="14"/>
+                  <lb/>
+<normalised orig="sprete" auto="true">spirit</normalised> of Christ <normalised orig="gaue" auto="true">gave</normalised> <normalised orig="stomack" auto="true">stomach</normalised> to <notvariant>Blandina</notvariant>,<lb/>
+both to laugh and <normalised orig="daunce" auto="true">dance</normalised>. The same<lb/>
+<normalised orig="myghtye" auto="true">mighty</normalised> <normalised orig="sprete" auto="true">spirit</normalised> (&amp; not the popes desperate<lb/>
+<normalised orig="sprete" auto="true">spirit</normalised>) made Anne <normalised orig="Askewe" auto="true">Askew</normalised> both to <normalised orig="reioyce" auto="true">rejoice</normalised><lb/>
+and <normalised orig="synge" auto="true">singe</normalised> in the <normalised orig="preson" auto="true">prison</normalised>. So <normalised orig="bolde" auto="true">bold</normalised><lb/>
+was <notvariant>Blandina</notvariant> (<normalised orig="sayth" auto="true">saith</normalised> <notvariant>Eusebius</notvariant>) that<lb/>
+with a <normalised orig="presumpcyo~" auto="false">presumption</normalised> of <normalised orig="stomack" auto="true">stomach</normalised> she <normalised orig="co~moued" auto="false">commoved</normalised><lb/>
+with Christ <normalised orig="vnseane" auto="false">unseen</normalised>. I suppose Anne<lb/>
+Askewes <normalised orig="lattre" auto="true">later</normalised> <normalised orig="examynacyo~" auto="false">examination</normalised>, <normalised orig="wyll" auto="true">will</normalised> <normalised orig="shewe" auto="true">show</normalised><lb/>
+her, not to do <normalised orig="moche" auto="true">much</normalised> <normalised orig="lesse" auto="true">less</normalised>. <normalised orig="Gentyll" auto="true">Gentle</normalised> was<lb/>
+<normalised orig="Bla~dina" auto="false">Blandina</normalised> to the <choice ana="illegible">
+                     <sic>*hriste~</sic>
+                     <corr><normalised orig="Christe~" auto="true">Christen</normalised></corr>
+                  </choice> <normalised orig="beleuers" auto="true">believers</normalised>, &amp; <normalised orig="terryble" auto="true">terrible</normalised><lb/>
+to their <normalised orig="aduersaryes" auto="true">adversaries</normalised>. So was Anne<lb/>
+<normalised orig="Askewe" auto="true">Askew</normalised> <normalised orig="verye" auto="true">very</normalised> <normalised orig="lowlye" auto="true">lowly</normalised> to true teachers,<lb/>
+but <normalised orig="scornefull" auto="true">scornful</normalised> and <normalised orig="hygh" auto="true">high</normalised> <normalised orig="stomaked" auto="false">stomached</normalised> to the<lb/>
+<normalised orig="enemyes" auto="true">enemies</normalised> of <normalised orig="truthe" auto="true">truth</normalised>. <normalised orig="Manye" auto="true">Many</normalised> were <normalised orig="conuerted" auto="true">converted</normalised><lb/>
+by the <normalised orig="sufferaunce" auto="true">sufferance</normalised> of <notvariant>Blandina</notvariant>. A<lb/>
+<normalised orig="farre" auto="true">far</normalised> <normalised orig="greatter" auto="true">greater</normalised> <normalised orig="nombre" auto="true">number</normalised> by the <normalised orig="burnynge" auto="true">burning</normalised><lb/>
+of Anne <normalised orig="Askewe" auto="true">Askew</normalised>. Though <notvariant>Blandina</notvariant> were<lb/>
+<normalised orig="yonge" auto="true">young</normalised>, yet was she called the mother<lb/>
+of martyrs. <normalised orig="Manye" auto="true">Many</normalised> men <normalised orig="haue" auto="true">have</normalised> supposed<lb/>
+Anne <normalised orig="Askewe" auto="true">Askew</normalised>. for her Christen <normalised orig="constancye" auto="true">constancy</normalised><lb/>
+to be no <normalised orig="lesse" auto="true">less</normalised>. <notvariant>Blandina</notvariant> prayed for<lb/>
+her <normalised orig="persecuters" auto="true">persecutors</normalised>. So <normalised orig="ded" auto="true">did</normalised> Anne <normalised orig="Askewe" auto="true">Askew</normalised><lb/>
+most <normalised orig="feruentlye" auto="true">fervently</normalised>. The ashes of <notvariant>Blandina</notvariant><lb/>
+and of other martyrs, were <choice ana="illegible">
+                     <sic>th*wne</sic>
+                     <corr><normalised orig="throwne" auto="true">thrown</normalised></corr>
+                  </choice> into<lb/>
+the flood of Rhodanus. What was<lb/>
+done with the Ashes of Anne <normalised orig="Askewe" auto="true">Askew</normalised> &amp;<lb/>
+her <normalised orig="companyons" auto="true">companions</normalised>, I can not yet tell.<lb/>
+                  <pb n="15"/>
+                  <lb/>
+All these former <normalised orig="reportes" auto="true">reports</normalised> of <notvariant>Blandina</notvariant><lb/>
+and <normalised orig="manye" auto="true">many</normalised> more <normalised orig="besydes" auto="true">besides</normalised>, <normalised orig="hath" auto="true">has</normalised> <notvariant>Eusebius</notvariant><lb/>
+in Ecclesiastica historia, libro 5.<lb/>
+cap. 1. 2. &amp; 3. Hugo Floriacensis, Hermannus<lb/>
+Contractus, Vincentius, Antoninus,<lb/>
+Petrus Equilinus, and other <normalised orig="hystoryanes" auto="false">historians</normalised><lb/>
+more. And as <normalised orig="touchynge" auto="true">touching</normalised> Anne<lb/>
+<normalised orig="Askewe" auto="true">Askew</normalised>. these <notvariant>ij</notvariant>. <normalised orig="examynacyons" auto="true">examinations</normalised>, with<lb/>
+her other <normalised orig="knowne" auto="true">known</normalised> <normalised orig="handelynges" auto="true">handlings</normalised> in <normalised orig="Englande" auto="true">England</normalised>,<lb/>
+are <normalised orig="wytnesses" auto="true">witnesses</normalised> for her <normalised orig="suffycyent" auto="true">sufficient</normalised>.<lb/>
+Thus <normalised orig="hath" auto="true">has</normalised> not the <normalised orig="fyre" auto="true">fire</normalised> taken Anne <normalised orig="Askewe" auto="true">Askew</normalised><lb/>
+all whole from the <normalised orig="worlde" auto="true">world</normalised>, but left<lb/>
+her here <normalised orig="vnto" auto="true">unto</normalised> it more pure, <normalised orig="perfyght" auto="true">perfect</normalised>, &amp;<lb/>
+<normalised orig="precyouse" auto="true">precious</normalised> than <normalised orig="afore" auto="true">before</normalised>, as it <normalised orig="wyll" auto="true">will</normalised> also <normalised orig="Iohan" auto="true">Johan</normalised><lb/>
+<notvariant>Lassels</notvariant> within short space. So that<lb/>
+<normalised orig="concernynge" auto="true">concerning</normalised> her, it <normalised orig="maye" auto="true">may</normalised> <normalised orig="wele" auto="true">well</normalised> be <normalised orig="sayd" auto="true">said</normalised>,<lb/>
+that <normalised orig="Paule" auto="true">Paul</normalised> <normalised orig="verefyeth" auto="false">verified</normalised>, 2. Cor.12. The<lb/>
+strength of God is here made <normalised orig="perfyght" auto="true">perfect</normalised><lb/>
+by <normalised orig="weakenesse" auto="true">weakness</normalised>. <normalised orig="Whan" auto="true">When</normalised> she <normalised orig="semed" auto="true">seemed</normalised> most <normalised orig="feble" auto="true">feeble</normalised>,<lb/>
+than was she most <normalised orig="stro~ge" auto="true">strong</normalised>. And <normalised orig="gladlye" auto="true">gladly</normalised><lb/>
+she <normalised orig="reioyced" auto="true">rejoiced</normalised> in that <normalised orig="weakenesse" auto="true">weakness</normalised>, that<lb/>
+<normalised orig="Christes" auto="true">Christ's</normalised> power <normalised orig="myght" auto="true">might</normalised> <normalised orig="strongelye" auto="true">strongly</normalised> dwell<lb/>
+in her. Thus <normalised orig="choseth" auto="true">chooses</normalised> the <normalised orig="lorde" auto="true">lord</normalised>, the <normalised orig="folysh" auto="true">foolish</normalised><lb/>
+of <normalised orig="thys" auto="true">this</normalised> <normalised orig="worlde" auto="true">world</normalised> to <normalised orig="confounde" auto="true">confound</normalised> the <normalised orig="wyse" auto="true">wise</normalised>, &amp;<lb/>
+the <normalised orig="weake" auto="true">weak</normalised> to deface the <normalised orig="myghyte" auto="false">mighty</normalised>. Yea,<lb/>
+<normalised orig="thynges" auto="true">things</normalised> <normalised orig="despysed" auto="true">despised</normalised> &amp; thought <normalised orig="verye" auto="true">very</normalised> <normalised orig="vyle" auto="true">vile</normalised>,<lb/>
+to <normalised orig="brynge" auto="true">bring</normalised> <normalised orig="thynges" auto="true">things</normalised> <normalised orig="vnto" auto="true">unto</normalised> nought <normalised orig="whych" auto="true">which</normalised><lb/>
+the <normalised orig="worlde" auto="true">world</normalised> <normalised orig="hath" auto="true">has</normalised> in most <normalised orig="hyght" auto="true">hight</normalised> <normalised orig="reputacyo~" auto="false">reputation</normalised>.<lb/>
+                  <pb n="16"/>
+                  <lb/>
+I <normalised orig="thynke" auto="true">think</normalised> <normalised orig="yf" auto="true">if</normalised> <normalised orig="thys" auto="true">this</normalised> martyr were <normalised orig="ryghtlye" auto="true">rightly</normalised><lb/>
+conferred, with those <normalised orig="canonysed" auto="false">canonised</normalised> martyrs,<lb/>
+<normalised orig="whych" auto="true">which</normalised> <normalised orig="haue" auto="true">have</normalised> had, and yet <normalised orig="hath" auto="true">has</normalised> <normalised orig="styll" auto="true">still</normalised>,<lb/>
+<normalised orig="sensynges" auto="true">sensings</normalised> and <normalised orig="syngynges" auto="false">singings</normalised>, <normalised orig="massynges" auto="false">massings</normalised> &amp;<lb/>
+<normalised orig="ryngynges" auto="false">ringings</normalised> <normalised orig="i~" auto="true">in</normalised> the popes <normalised orig="Englysh" auto="true">English</normalised> <normalised orig="churche" auto="true">church</normalised>,<lb/>
+cause with cause and reason with reason,<lb/>
+(as <normalised orig="haplye" auto="false">happily</normalised> here after they shall) she<lb/>
+<normalised orig="shuld" auto="true">should</normalised> be a great <normalised orig="blemysh" auto="true">blemish</normalised> <normalised orig="vnto" auto="true">unto</normalised> them. An<lb/>
+example of <normalised orig="stronge" auto="true">strong</normalised> <normalised orig="sufferaunce" auto="true">sufferance</normalised> <normalised orig="myght" auto="true">might</normalised><lb/>
+<normalised orig="thys" auto="true">this</normalised> <normalised orig="holye" auto="true">holy</normalised> martyr be, <normalised orig="vnto" auto="true">unto</normalised> all them that<lb/>
+the <normalised orig="lorde" auto="true">lord</normalised> shall after <normalised orig="lyke" auto="true">like</normalised> <normalised orig="maner" auto="true">manner</normalised> put <normalised orig="forewarde" auto="true">foreward</normalised><lb/>
+in <normalised orig="thys" auto="true">this</normalised> <normalised orig="horryble" auto="true">horrible</normalised> <normalised orig="furye" auto="true">fury</normalised> of Antichrist,<lb/>
+to the <normalised orig="glorye" auto="true">glory</normalised> of <normalised orig="hys" auto="true">his</normalised> persecuted<lb/>
+<normalised orig="churche" auto="true">church</normalised>. Amen.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

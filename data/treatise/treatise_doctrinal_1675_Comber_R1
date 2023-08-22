@@ -1,0 +1,942 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Companion to the altar</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ThCo1645"><normalised orig="Comber" auto="true">Cumber</normalised>, Thomas</author>
+               <title type="main">A companion to the altar. Or, an help To the worthy receiving of the Lords supper. By Discourses and Meditations upon the whole communion office.To which is added, An essay upon the offices of Baptism and Confirmation.</title>
+               <title type="short">Companion to the altar</title>
+               <date when="1675">1675</date>
+               <date type="this_edition" when="1675">1675</date>
+               <idno type="Wing">C5450</idno>
+               <note type="genre" subtype="treatise_doctrinal">doctrinal treatise</note>
+               <note type="sample" target="#ThCo1645_1675_treatise_doctrinal_1">p.11, l.1 – p.32, l.8</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation or by section signs</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ThCo1645_1675_treatise_doctrinal_1">
+            <div>
+               <head>A Practical <normalised orig="Discoure" auto="false">discourse</normalised> of the Ten Commandments.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+3. It must not be expected that I should explain <lb/>
+the particular Commandments, which would too much <lb/>
+swell this work; Only I shall undertake two things. <lb/>
+First, To direct how to use them for our profit when <lb/>
+there is no Communion. Secondly, And chiefly, how <lb/>
+they may be used in private to help us in our Preparation <lb/>
+for the Blessed Sacrament. <lb/>
+As our natural Ignorance makes it necessary to teach <lb/>
+us this Law of God in our Catechism: So our aptness <lb/>
+to forget that which is good requires that it should be <lb/>
+repeated in our <normalised orig="publick" auto="true">public</normalised> Service. It is dangerous either <lb/>
+not to know or not to remember these holy Commandments, <lb/>
+which are proclaimed by our God, approved by <lb/>
+our own Consciences, &amp; established <lb/>
+with eternal rewards and punishments. <lb/>
+Whosoever therefore <lb/>
+thinks it a trouble to hear them <lb/>
+so often, neither considers the <lb/>
+weight of these divine Precepts, <lb/>
+nor observes that his own frequent breaches of them <lb/>
+do <normalised orig="shew" auto="true">show</normalised>, that they are not read often enough to fix them <lb/>
+so in his mind as to procure a sincere Obedience. For <lb/>
+till we do exactly observe them, We do not know or <lb/>
+remember them as we ought. Let us then endeavour <lb/>
+so often as we use them to receive benefit to our Souls <lb/>
+thereby. <lb/>
+And to that purpose, First, You must with great <lb/>
+humility receive them from the Mouth of the Minister, <lb/>
+as if they were spoken from <normalised orig="Moutn" auto="false">mount</normalised> Sinai by God himself, <lb/>
+(imitating the tenderness of good Josiah, 2 Chron. <lb/>
+                  <pb n="1"/>
+                  <lb/>
+34. 19.) and cast your selves down upon your knees, <lb/>
+for that is the most suitable posture for Criminals, who <lb/>
+are to petition for pardon; and thus listen to every Commandment <lb/>
+with diligent attention and a submissive Reverence. <lb/>
+Secondly, Apply them every one carefully to <lb/>
+your ways, for since you have neglected to follow the <lb/>
+direction of this holy Law as your <lb/>
+Guide, it now becomes your Accuser; <lb/>
+and it may be an excellent opportunity to bring you to <lb/>
+the knowledge of your sinful Estate, <lb/>
+and so unto repentance, because <lb/>
+your gracious God <normalised orig="doth" auto="true">does</normalised> allow <lb/>
+you the liberty of second thoughts, and will not <lb/>
+condemn you for these offences, if you condemn your <lb/>
+selves for them. Ask then your own heart seriously at <lb/>
+every one, Have I not been such an one? Done this <lb/>
+evil? Neglected this duty? And when your Conscience <lb/>
+Answers, Yes; then you must most passionately <lb/>
+cry out, Lord have mercy upon me, and forgive me this <lb/>
+or that sin. Thirdly, Let the discovery of so many <lb/>
+breaches, and the sight of so vast a heap of guilt make <lb/>
+you afraid to add Sin unto Sin, <lb/>
+and to break these holy bonds <lb/>
+any more, for therefore have <lb/>
+you lived at random, because you <lb/>
+have not considered your ways, <lb/>
+nor compared them strictly with <lb/>
+Gods sacred Law. But now that <lb/>
+you are freshly minded of your Duty, and reproved <lb/>
+for your former Neglect, It will be expected you shall <lb/>
+be more afraid to transgress hereafter, and therefore desiring <lb/>
+never more to offend, say, Lord incline my heart to <lb/>
+keep this Law. And thus the hearing of the Ten <lb/>
+Commandments may be an exercise of our Repentance, <lb/>
+                  <fw type="pageNum" n="13">12</fw>
+                  <pb n="2"/>
+                  <lb/>
+and a means of amendment every day. <lb/>
+4. It is of excellent use frequently to compare our <lb/>
+ways with <choice ana="print-error">
+                     <sic>GodsLaw</sic>
+                     <corr>Gods Law</corr>
+                  </choice>, for so it would be our guide before <lb/>
+we act, to put us upon our Duty; Our reprover <normalised orig="afterward" auto="true">afterwards</normalised>, <lb/>
+to bring us to Repentance; and our Monitor to <lb/>
+prevent the like misdoings for the future. But I am <lb/>
+the briefer in this consideration, because my main design <lb/>
+tends to the Holy Sacrament; And also because the <lb/>
+Church <normalised orig="hath" auto="true">has</normalised> here placed the Ten Commandments principally <lb/>
+as the Rule and Measure of that Examination <lb/>
+which St. Paul makes to be necessary before we eat <lb/>
+thereof, 1 Cor. 11. 28. For the same Apostle <normalised orig="teacheth" auto="true">teaches</normalised> <lb/>
+us, that <quote type="biblical" ana="Rom 3.20">by the Law is the knowledge of Sin</quote>, <normalised orig="Rom" auto="true">Room</normalised>. 3. <lb/>
+20. And experience also <normalised orig="sheweth" auto="true">shows</normalised> that there is no readier <lb/>
+way to discover our iniquities and humble us for <lb/>
+them, than the serious application of this exact Rule to <lb/>
+our perverse and crooked paths. I shall therefore, <lb/>
+Secondly, Give Directions how we may so try our ways <lb/>
+by them, as to prepare our selves for this Heavenly <lb/>
+Feast. To which purpose let it be considered, that this <lb/>
+duty of Self Examination, is never so necessary, as <lb/>
+now when we purpose to receive the Holy Communion: <lb/>
+For it is buy <normalised orig="hypocrisie" auto="true">hypocrisy</normalised> to seek a pardon for sins <lb/>
+which we never perceived our selves guilty of, and <lb/>
+foolish presumption to make a Covenant before we have <lb/>
+weighed the conditions to which we are to be obliged: <lb/>
+Until we see the number and apprehend the heinousness <lb/>
+of our transgressions, and fear the vengeance due <lb/>
+unto us for them, we are altogether unfit for the Commemoration <lb/>
+of his Death who suffered for our offences. <lb/>
+It is the sight and sense of sin alone that will <normalised orig="shew" auto="true">show</normalised> us <lb/>
+what need we have of so glorious a Redeemer. This <lb/>
+will <normalised orig="shew" auto="true">show</normalised> us our obligation to Jesus, and teach us heartily <lb/>
+to praise God for him, and passionately to beg an <lb/>
+interest in him: <normalised orig="whilest" auto="true">whilst</normalised> he that <normalised orig="doth" auto="true">does</normalised> not discern his <lb/>
+                  <pb n="3"/>
+                  <lb/>
+guilt, nor foresee his danger, is stupid and unmoved at <lb/>
+this amazing spectacle of bleeding, languishing, <lb/>
+dying Saviour, and <normalised orig="hath" auto="true">has</normalised> no love nor no fear, No tears <lb/>
+nor no desires, No relenting or indignation for what is <lb/>
+past, Nor any vows and wishes as to the time to come; <lb/>
+and shall be judged an unworthy Receiver. So that if <lb/>
+you desire comfort in, benefit from, or acceptance at <lb/>
+the holy Table, I charge you to be exceeding curious and <lb/>
+diligent in this Examination. <lb/>
+Thy Pythagoreans and better sort of Heathens did <lb/>
+strictly call themselves to an Account every night before <lb/>
+they went to sleep, where they had been? what evil <lb/>
+they had done? or what good they had left undone? <lb/>
+And shall not they condemn those Christians who will <lb/>
+not do the same once in a Month, or three or four times <lb/>
+in a Year; especially upon so solemn an occasion, and <lb/>
+for so excellent an end, as to procure a pardon sealed <lb/>
+for all their misdemeanours? The <lb/>
+<normalised orig="Rabbins" auto="true">Rabbis</normalised>, <normalised orig="perswade" auto="true">persuade</normalised> the devouter <lb/>
+Jews to spend a whole Month together <lb/>
+before the Feast of Expiation, in examining all <lb/>
+their lives, assuring them that all those offences which <lb/>
+they discover shall be forgiven them in that great day: <lb/>
+Which may more truly be applied to this Ordinance. <lb/>
+That holy <normalised orig="Anchoret" auto="true">Anchorite</normalised> which the Patriarch of Alexandria <lb/>
+found in the Egyptian <normalised orig="desarts" auto="true">deserts</normalised>, said, he had <normalised orig="imployment" auto="true">employment</normalised> <lb/>
+enough there (where he had nothing else to divert him) <lb/>
+for his whole life to judge and condemn himself. And <lb/>
+shall not we be justly condemned of the Lord, who <lb/>
+think a day or two, too much to be so <normalised orig="imployed" auto="true">employed</normalised>? But <lb/>
+I hope I need add no more to <normalised orig="perswade" auto="true">persuade</normalised> to so good a <lb/>
+work. And therefore supposing this a sufficient Conviction <lb/>
+to those who have any care of their Souls; I shall <lb/>
+proceed to direct how we must examine our selves by <lb/>
+these Commandments. <lb/>
+                  <fw type="pageNum" n="15">14</fw>
+                  <pb n="4"/>
+                  <lb/>
+5. When the Minister gives warning of an approaching <lb/>
+Communion, We must contrive to have at <lb/>
+least one whole day separated to this so necessary Trying <lb/>
+and judging our selves. And first, As this Law was <lb/>
+given in the Wilderness, Exod. 19. 1. So we cannot use <lb/>
+it in a crowd; but when we purpose thus to apply it, <lb/>
+we must retire from the World, and <lb/>
+lay aside all secular business, <normalised orig="Psal" auto="true">Psalm</normalised>. <lb/>
+4. 4. and carry our minds with <lb/>
+us into some place of privacy, that <lb/>
+we may wholly attend this great <lb/>
+work, which will take up our whole time, and <normalised orig="imploy" auto="true">employ</normalised> <lb/>
+all our faculties. For we <normalised orig="communciate" auto="true">communicate</normalised> so seldom, and <lb/>
+generally live so <normalised orig="carelesly" auto="true">carelessly</normalised> between one time and another; <lb/>
+that our Sins are numerous, our Consciences intricate, <lb/>
+and many things forgotten, and all confused; <lb/>
+So that it is not for us to <normalised orig="alledge" auto="true">allege</normalised> that the Primitive <lb/>
+Christians did not use such solemnity of Preparation; <lb/>
+For they lived strictly, received daily or weekly, and <lb/>
+kept their Souls always in good Order: For which <lb/>
+cause I suppose neither were the Commandments appointed <lb/>
+to be read in the <normalised orig="Antient" auto="true">Ancient</normalised> Liturgies. Did we <lb/>
+lead such lives, we might be accepted with lesser and <lb/>
+shorter preparatives. But most of our hearts will tell us <lb/>
+the case with us is far otherwise. Secondly, Having <lb/>
+thus chosen a time and place for the undisturbed proceeding <lb/>
+in this grand affair, we must resolve to spend <lb/>
+it Fasting, Dan. 9. 3. not only that we may not be diverted, <lb/>
+or lose any of this precious time by our meat, <lb/>
+but that our minds may be more spiritual, and more <lb/>
+clear, our body more gentle, and more at the command <lb/>
+of the Spirit; that our hearts may <lb/>
+be tender, and more apt to grieve <lb/>
+for Sin, and fear Gods wrath; as <lb/>
+                  <fw type="pageNum" n="16">15</fw>
+                  <pb n="5"/>
+                  <lb/>
+also that we may punish our flesh, for the gratifying of <lb/>
+which, most of our Sins have been committed; that <lb/>
+we may acknowledge our selves unworthy of our daily <lb/>
+bread; And finally declare that we desire peace with <lb/>
+God, more than our very food, and do so earnestly hunger <lb/>
+and thirst after Jesus, that we forget our bodily sustenance. <lb/>
+Thirdly, Begin this work with humble and <lb/>
+hearty Prayer to him that sees your heart, and must be <lb/>
+your Judge. Beseech him to help you to prevent his <lb/>
+judgment by condemning your selves. Desire him to <lb/>
+fix your thoughts, strengthen your memory, and to <lb/>
+work upon your affections; that you may perceive how <lb/>
+often, how heinously, and how long time you have offended, <lb/>
+and may with a relenting wounded heart bewail <lb/>
+the same. Fourthly, After this rise up, and meditate <lb/>
+how merciful thy God <normalised orig="hath" auto="true">has</normalised> been, in not summoning <lb/>
+thee to his Tribunal as yet, and in giving thee this <lb/>
+opportunity to prevent a sad and final Doom. Remember <lb/>
+thy heart is deceitful, and not willing to see its own <lb/>
+baseness, or to discover its own shame, nor apt to <lb/>
+censure it self aright. And yet <lb/>
+cursed are they that do <quote type="biblical" ana="Jer 48.10">this work <lb/>
+of the Lord deceitfully</quote>, Jer. 48. <lb/>
+10. for it will be their own <normalised orig="ruine" auto="true">ruin</normalised>. <lb/>
+Wherefore resolve to set about it <lb/>
+with all possible sincerity and strictness, <lb/>
+as believing thou <normalised orig="mayest" auto="true">may</normalised> never <lb/>
+have another opportunity, but that thy next <normalised orig="Inditement" auto="true">Indictment</normalised> <lb/>
+may be in another World; And in the mean time, <lb/>
+that an All-seeing God will come in at this Feast, to inquire <lb/>
+how faithfully thou <normalised orig="hast" auto="true">have</normalised> performed this Duty. <lb/>
+And then <normalised orig="fifthly" auto="true">fiftly</normalised>, Set your self seriously to look over all <lb/>
+the Records of your Memory and Conscience. Call to <lb/>
+mind all Places you have been in, all Companies and <lb/>
+Persons with which you have conversed. Reflect upon <lb/>
+                  <pb n="6"/>
+                  <lb/>
+your designs, your business, your pleasure and divertisements, <lb/>
+with all those circumstances which may represent <lb/>
+unto you, all your evil thoughts, words, and <lb/>
+actions, and may set before you all the good which you <lb/>
+have omitted. And if any seem <lb/>
+dubious, you must prove and try <lb/>
+them, Lam. 3. 40. That you may <lb/>
+condemn them in your judgment <lb/>
+as well as recollect them by your <lb/>
+memory. And do this as impartially <lb/>
+as is possible, judging the same of your own <lb/>
+Actions, as you would, if they were done by the worst <lb/>
+of your Enemies. For your better help wherein the following <lb/>
+Table is contrived. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Sect. 6. Brief heads of Self-Examination upon <lb/>
+every one of the Commandments.</head>
+               <p>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>I. Commandment.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Though I have not Atheistically denied the Being of <lb/>
+God or wickedly renounced him by <normalised orig="Apostasie" auto="true">Apostasy</normalised>; Yet, <lb/>
+Have I not loved, desired, and delighted in other <lb/>
+things more than God? <lb/>
+Have I not feared Men more than God; and sinned <lb/>
+against him to avoid their displeasure, or outward <lb/>
+Sufferings? <lb/>
+Have I not trusted in Man, and <normalised orig="relyed" auto="true">relied</normalised> on outward <lb/>
+means more than on God, in my wants, dangers, and <lb/>
+distresses? <lb/>
+Have I neither neglected lawful means, nor used unlawful <lb/>
+means to bring me out of them? <lb/>
+Have I not despaired of Gods mercy so as to neglect <lb/>
+my duty, or by presuming upon it, <normalised orig="incouraged" auto="true">encouraged</normalised> <lb/>
+my self to go on in Sin? <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="18">C</fw>
+                  <pb n="7"/>
+                  <lb/>
+Have I not been fearless of the divine <normalised orig="threatnings" auto="true">threatenings</normalised>; <lb/>
+And yet <normalised orig="disconetented" auto="false">discontented</normalised> with, impatient under, and <lb/>
+unreformed by Gods Corrections? <lb/>
+Have I not been unthankful for good things, or ascribed <lb/>
+the praise of what I am, have, or can do, to <lb/>
+fortune, my self, or any other Creature? <lb/>
+Lord have mercy, &amp;c. And <normalised orig="encline" auto="true">incline</normalised>, &amp;c. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>II. Commandment.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Though I have not worshipped God by Images; Yet, <lb/>
+Have I not entertained gross, and false Conceptions <lb/>
+of God; and worshipped him so as is unbecoming his <lb/>
+Divine Nature? <lb/>
+Have I not failed in any of the parts of Religious <lb/>
+Worship? <lb/>
+Have I not either omitted or <normalised orig="sleightly" auto="true">slightly</normalised> performed <lb/>
+Morning and Evening Prayer, and reading the Holy <lb/>
+Scriptures? <lb/>
+Have I not been indifferent and customary, as to my <lb/>
+coming to the <normalised orig="Publick" auto="true">Public</normalised> Worship? <lb/>
+Have I not behaved my self there without Reverence <lb/>
+or Devotion, forgetting the Presence of the Invisible <lb/>
+God, whom I serve? <lb/>
+Have I not by design or <normalised orig="carelesness" auto="true">carelessness</normalised> neglected the <lb/>
+Lords Supper, or come to it ignorantly, rashly, and <lb/>
+without preparation? <lb/>
+Have I not received it irreverently, and without spiritual <lb/>
+affection, or broken the vows and promises I then <lb/>
+made? <lb/>
+Lord have mercy, &amp;c. And <normalised orig="encline" auto="true">incline</normalised>, &amp;c. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>III. Commandment.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+If I have not openly blasphemed the Holy Name of God; <lb/>
+                  <pb n="8"/>
+                  <lb/>
+Have I not <normalised orig="sleightly" auto="true">slightly</normalised> or irreverently mentioned his <lb/>
+Holy Name, or Attributes? <lb/>
+Have I not <normalised orig="prophanely" auto="true">profanely</normalised> jested upon, or abused his <lb/>
+holy Word? <lb/>
+Have I not violated holy Places, Persons, Ordinances, <lb/>
+or any thing peculiarly dedicated to God? <lb/>
+Have I not taken Gods name in vain by common <lb/>
+Swearing, or by Cursing my self or others? <lb/>
+Have I not taken false, or unlawful Oaths; Or broken <lb/>
+my lawful Oaths or Vows; Especially my Baptismal <lb/>
+Vow? <lb/>
+Lord have mercy, &amp;c. And <normalised orig="encline" auto="true">incline</normalised>, &amp;c. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>IV. Commandment.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Have I not neglected the <normalised orig="publick" auto="true">public</normalised> worship of God on <lb/>
+the Sabbath Day? <lb/>
+Have I not <normalised orig="mispent" auto="true">misspent</normalised> any part thereof in vain sports, <lb/>
+idle discourses, complemental visits, or unnecessary <lb/>
+business? <lb/>
+Have I not permitted those under my charge to <normalised orig="prophane" auto="true">profane</normalised> <lb/>
+it? <lb/>
+Have I not forgotten to praise God for the Creation, <lb/>
+and Resurrection, especially on this Day? <lb/>
+Or for his other Mercies in his Son, or his Servants, <lb/>
+upon the Festivals of the Church? <lb/>
+Have I not <normalised orig="sleighted" auto="true">slighted</normalised> these solemnities, or abused <lb/>
+them by debauchery? <lb/>
+Lord have mercy, &amp;c. And <normalised orig="encline" auto="true">incline</normalised>, &amp;c. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>V. Commandment.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Have I not omitted, or acted contrary to my Duty in <lb/>
+those Relations wherein I stand? <lb/>
+Have I not censured, <normalised orig="envyed" auto="true">envied</normalised>, or railed against, my <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="20">C 2</fw>
+                  <pb n="9"/>
+                  <lb/>
+Domestical, Ecclesiastical, or civil <normalised orig="Governours" auto="true">Governors</normalised>; instead <lb/>
+of honouring, imitating, and praying for <lb/>
+them? <lb/>
+Have I not been undutiful to my Parents; disloyal to <lb/>
+my Prince; stubborn or unfaithful to my Master; <lb/>
+                  <choice ana="print-error">
+                     <sic>fractory</sic>
+                     <corr>refractory</corr>
+                  </choice> and unthankful to my Minister; peevish, and <lb/>
+unkind to my Yokefellow? <lb/>
+Have I been careful to instruct and <normalised orig="incourage" auto="true">encourage</normalised> in well <lb/>
+doing, To reprove and chastise for ill doing those <lb/>
+under my charge? <lb/>
+Lord have mercy, &amp;c. And <normalised orig="encline" auto="true">incline</normalised>, &amp;c. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>VI. Commandment.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+If I have not actually taken away the life of any person; <lb/>
+Yet, <lb/>
+Have I not made my Neighbours life grievous, concealed <lb/>
+designs against it; or willingly <normalised orig="hastned" auto="true">hastened</normalised> his <lb/>
+death, or wished it? <lb/>
+Have I not by fighting or quarrelling wounded or <lb/>
+maimed him, or drawn him to any vice, which might <lb/>
+destroy his health, or shorten his life? <lb/>
+Have I not been rashly and immoderately angry, or <lb/>
+used reviling and <normalised orig="quarrelsom" auto="true">quarrelsome</normalised> speeches, or harboured <lb/>
+thoughts and purposes of Malice and Revenge? <lb/>
+Have I not been intemperate in meat or drink; or <lb/>
+any other ways prejudiced my own health, or <normalised orig="indangered" auto="true">endangered</normalised> <lb/>
+my life? <lb/>
+Lord have mercy, &amp;c. And <normalised orig="encline" auto="true">incline</normalised>, &amp;c. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>VII. Commandmen.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+If I have escaped the grosser acts of Adultery and Fornication; <lb/>
+Yet, <lb/>
+Have I not neglected to use the means to preserve <lb/>
+my own and others Chastity? <lb/>
+                  <pb n="10"/>
+                  <lb/>
+Have I not by gluttony and drunkenness pampered <lb/>
+my body, or by cherishing unclean thoughts, purposes, <lb/>
+and desires, defiled my Soul? <lb/>
+Have I not run into any occasions, or used any provocations <lb/>
+of wantonness? <lb/>
+Have I not used or listened to, filthy talking, or been <lb/>
+guilty of immodest Garbs, or <normalised orig="unchast" auto="true">unchaste</normalised> behaviour? <lb/>
+Lord have mercy, &amp;c. And <normalised orig="encline" auto="true">incline</normalised>, &amp;c. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>VIII. Commandment.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+If I have not been guilty of notorious Felony and Robbery; <lb/>
+Yet, <lb/>
+Have I not by negligence in my particular Calling, <lb/>
+run into debt, without hopes or purposes of repayment? <lb/>
+Have I not wasted my own Estate, and <normalised orig="ruin'd" auto="true">ruined</normalised> my <lb/>
+Family, by idleness or prodigality? <lb/>
+Have I not cheated my neighbour in buying, or selling, <lb/>
+breaking my Covenants, fraudulent writings, or <lb/>
+falsifying my word? <lb/>
+Have I not by violence or oppression, exacted of <lb/>
+my <normalised orig="inferiours" auto="true">inferiors</normalised>, or by unreasonable usury taken advantage <lb/>
+of others necessity? <lb/>
+Have I not wasted or <normalised orig="imbezeled" auto="false">embezzled</normalised> that which was <lb/>
+committed to my trust, refused to restore the pledge, <lb/>
+abused what was lent, or denied that which was found <lb/>
+by me? <lb/>
+Lord have mercy, &amp;c. And <normalised orig="encline" auto="true">incline</normalised>, &amp;c. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>IX. Commandment.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+If I have not before a Magistrate directly sworn <normalised orig="falsly" auto="true">falsely</normalised>: <lb/>
+Yet, <lb/>
+Have I not accustomed my self to lying in my common <lb/>
+discourse? <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="22">C 3</fw>
+                  <pb n="11"/>
+                  <lb/>
+Have I not maliciously and uncharitably raised or <lb/>
+spread abroad evil and false reports of my Neighbour? <lb/>
+Have I not <normalised orig="incouraged" auto="true">encouraged</normalised> such ill-reports, nor published <lb/>
+the faults of another to his disgrace? <lb/>
+Have I not undervalued good, or flattered <normalised orig="bad" auto="true">bade</normalised> men, <lb/>
+and given a false Character to please a friend? <lb/>
+Have I not suffered an innocent persons good name <lb/>
+to be traduced, when I had opportunity or power to <lb/>
+clear it? <lb/>
+Have I not by pride conceived, or by boasting uttered <lb/>
+false things concerning my self? <lb/>
+Have I neither sought unjustly to uphold, or wilfully <lb/>
+to blast my own Credit? <lb/>
+Lord have mercy, &amp;c. And <normalised orig="encline" auto="true">incline</normalised>, &amp;c. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>X. Commandment.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Have I not secretly murmured at the Providence of <lb/>
+God, as if others had too much, and my self too <lb/>
+little? <lb/>
+Have I not greedily coveted the Estate, honours or <lb/>
+comforts of my neighbours, nor sought by evil means <lb/>
+to procure them to my self? <lb/>
+Have I not <normalised orig="envyed" auto="true">envied</normalised> any, so as to be grieved at their <lb/>
+prosperity, or to wish or rejoice in their losses and <lb/>
+calamities? <lb/>
+Have I not been apt to undervalue all my own things, <lb/>
+and neglected to give God thanks for them? <lb/>
+Have I not too passionately pursued riches and honours, <lb/>
+so as to neglect my Soul, and Religion upon <lb/>
+these accounts. <lb/>
+                  <lb/>
+7. Whosoever <normalised orig="hath" auto="true">has</normalised> particularly and seriously asked <lb/>
+his own Soul the foregoing Questions, will be far from <lb/>
+                  <pb n="12"/>
+                  <lb/>
+the vanity of the young Man in the Gospel, nor is it <lb/>
+likely that he will now have the confidence to say as he, <lb/>
+Matth. 19. 20. <quote type="biblical" ana="Mt 19.20">All these have I kept from my youth</quote>. <lb/>
+For his own Conscience will tell him in most inquiries <lb/>
+that He is the Man; And accordingly the Church <normalised orig="hath" auto="true">has</normalised> <lb/>
+provided the Publican Confession, Luke 18. 12. <quote type="psalm" ana="Ps 123.3">Lord <lb/>
+have mercy upon us</quote>. Which now may be fitly used, <lb/>
+First, As an humble and dolorous <choice ana="illegible">
+                     <sic>Con*ession</sic>
+                     <corr>Confession</corr>
+                  </choice>that we are <lb/>
+Guilty, very Guilty; For when the Prisoner falls down <lb/>
+and craves Mercy; It <normalised orig="shews" auto="true">shows</normalised> he is convinced of his <lb/>
+fault, and in that phrase is supposed to acknowledge it. <lb/>
+Secondly, As a passionate, and earnest Exclamation for <lb/>
+Pardon, which now appears infinitely needful, when <lb/>
+this black and dreadful Bill is set before us. Yet lest <lb/>
+all this should not be sufficient to produce that sorrow <lb/>
+and shame, which is necessary for this <choice ana="print-error">
+                     <sic>solemnConfession</sic>
+                     <corr>solemn Confession</corr>
+                  </choice>, <lb/>
+but our hearts remain still obdurate and unrelenting, <lb/>
+Let every one lay before himself these Considerations. <lb/>
+First, Meditate of the nature of all these Sins of which <lb/>
+thou art guilty: They are the Actions of a poor helpless <lb/>
+depending Creature done against the holy Will, and <lb/>
+most gentle and reasonable Commands, of that Majesty <lb/>
+who could destroy thee in a Moment, and whom <lb/>
+Angels and all the World besides exactly do obey. And <lb/>
+besides, thou <normalised orig="maist" auto="false">may</normalised> upbraid thy self with the folly of <lb/>
+Anger, the fury of Revenge, the filthiness of Lust, and <lb/>
+the shame of Lying, the beastliness of Drunkenness, <lb/>
+and the misery of Covetousness, the unreasonableness <lb/>
+of Pride, and the vanity of seeking humane Praise, the <lb/>
+<normalised orig="restlesness" auto="true">restlessness</normalised> of Ambition, and the vexation of a discontented <lb/>
+mind. Consider the malignity of all Sin, and <lb/>
+the baseness of every particular, and surely it will appear <lb/>
+it was impudence and ingratitude, simplicity and <lb/>
+madness in thee ever to commit them. Secondly, Meditate <lb/>
+of the number of them; And think that if there <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="24">C 4</fw>
+                  <pb n="13"/>
+                  <lb/>
+be so much evil in one Sin, How deplorable is thy Case <lb/>
+who <normalised orig="hast" auto="true">have</normalised> offended in so many kinds? Oh how often <lb/>
+<normalised orig="hast" auto="true">have</normalised> thou acted or designed, the greater and more notorious <lb/>
+wickednesses? And for (those which we account) <lb/>
+the lesser, What is wanting in the odiousness of the <lb/>
+single Acts thou <normalised orig="hast" auto="true">have</normalised> <normalised orig="supplyed" auto="true">supplied</normalised> by frequent repetitions, <lb/>
+Few days nay minutes passing in thy whole life, in which <lb/>
+thou <normalised orig="dost" auto="false">do</normalised> not sin in these instances. I doubt not but <lb/>
+thy memory now presents a vast number to thee; but <lb/>
+alas those that were never observed are far more, and <lb/>
+those that are forgotten are much more numerous than <lb/>
+both, Yet these are all noted in the Records of Heaven; <lb/>
+So that if thou <normalised orig="couldest" auto="true">could</normalised> apprehend this formidable Army, <lb/>
+it would lay thy confidence in the dust, and strike <lb/>
+thee with amazement to consider how may times thou <lb/>
+<normalised orig="hast" auto="true">have</normalised> deserved Condemnation. Thirdly, Meditate of <lb/>
+the Desert, of these Sins, viz. that <quote type="biblical" ana="Rom 6.23">the wages of</quote> (any, <lb/>
+the least unobserved, or forgotten) <quote type="biblical" ana="Rom 6.23">sin is death</quote>, <normalised orig="Rom" auto="true">Room</normalised>. <lb/>
+6. 23. And then how many times <normalised orig="hast" auto="true">have</normalised> thou deserved <lb/>
+to be cut off? Consider how thou art by these transgressions <lb/>
+exposed to the wrath of God, and to suffer all <lb/>
+those Temporal, Spiritual, and Eternal miseries, which <lb/>
+the Righteous Judge of all the World <normalised orig="hath" auto="true">has</normalised> <normalised orig="threatned" auto="true">threatened</normalised> <lb/>
+in his holy word. And if thy heart be apt to excuse <lb/>
+its faults, on pretence of a corrupt Nature, a violent <lb/>
+Temptation, or a sudden <normalised orig="surprize" auto="true">surprise</normalised>, and will not believe, <lb/>
+or fear that God is so highly displeased; then tell thy <lb/>
+own Soul that for one offence, the Angels were cast out <lb/>
+of Heaven, and Adam out of Paradise, and He that is <lb/>
+the lover of Men, for lighter or fewer Crimes, <normalised orig="doth" auto="true">does</normalised> lay <lb/>
+dreadful Plagues and Miseries upon thy Brethren; And <lb/>
+God is no respecter of Persons; He spared not his own <lb/>
+Son, when he stood in the place of Sinners, and shall <lb/>
+He spare thee? Oh look up to the Cross of Jesus, and <lb/>
+behold his Agonies and his Sorrow, hear his groans and <lb/>
+                  <pb n="14"/>
+                  <lb/>
+<normalised orig="cryes" auto="true">cries</normalised>, observe his anguish and his pains. Is not God <lb/>
+highly displeased with Sin, when he makes his own Son <lb/>
+the Example of his wrath, to his offending Servants? <lb/>
+In short know, that if Repentance do not now procure <lb/>
+thy Pardon, thou shalt have God and all Creatures thy <lb/>
+Enemies, and <normalised orig="maist" auto="false">may</normalised> justly expect Losses and Crosses, Poverty <lb/>
+and Reproach, Diseases and an evil Death; and <lb/>
+(which is more horrid) to be deprived of the aids of <lb/>
+Gods Spirit, and the offers of Grace, and to be left in thy <lb/>
+own hardness and impenitency, as one that <normalised orig="refuseth" auto="true">refuses</normalised> to <lb/>
+be reclaimed. And if any or all these have not yet <lb/>
+<normalised orig="faln" auto="true">fallen</normalised> upon thee, it is only because the Lord will try whether <lb/>
+at this time thou wilt seriously Repent; but thou <lb/>
+are not acquitted, though he do awhile forbear. <lb/>
+Fourthly, Meditate of those Aggravations which make <lb/>
+thy Sins worse than those of other Men, and that will <lb/>
+convince thee that thou <normalised orig="deservest" auto="true">deserve</normalised> no less. For First, <lb/>
+Have not many of them been committed against thy <lb/>
+knowledge, and reason; and in despite of all the checks <lb/>
+and reluctancies of thy Conscience? Secondly, And <lb/>
+although thou <normalised orig="hast" auto="true">have</normalised> made so many vows, and taken <lb/>
+so many resolutions, never to act them more; yea and <lb/>
+engaged this upon the holy Sacrament of Christs body <lb/>
+and blood: Yet <normalised orig="hast" auto="true">have</normalised> thou not entertained them again? <lb/>
+Thirdly, Have not all those mercies and favours spiritual <lb/>
+and temporal, wherewith thy Heavenly Father <normalised orig="hath" auto="true">has</normalised> <lb/>
+courted thy Love, been abused by thee, and cast away <lb/>
+upon thee, when all this could not prevail, to make thee <lb/>
+leave one lust, or <normalised orig="perswade" auto="true">persuade</normalised> thee to give over piercing <lb/>
+him that <normalised orig="hath" auto="true">has</normalised> died for thee? Fourthly, <normalised orig="Hast" auto="true">Have</normalised> thou not <lb/>
+proceeded in thy evil Courses, after all those Examples <lb/>
+of divine vengeance on others, and all those Calamities <lb/>
+which Sin <normalised orig="hath" auto="true">has</normalised> brought upon thy own self? <normalised orig="Hast" auto="true">Have</normalised> <lb/>
+thou feared any longer than the smart remained? <normalised orig="Hast" auto="true">Have</normalised> <lb/>
+thou not made the Almighty almost weary of Correcting <lb/>
+                  <fw type="pageNum" n="26">25</fw>
+                  <pb n="15"/>
+                  <lb/>
+thee? and <normalised orig="shewest" auto="true">show</normalised> thou <normalised orig="lovest" auto="true">love</normalised> thy Sin too well to <lb/>
+be easily torn from it? <normalised orig="Fifthly" auto="true">Fiftly</normalised>, And finally how mischievous <lb/>
+have the effects of thy transgressions been? <lb/>
+They have dishonoured God, disgraced thy Religion, <lb/>
+<normalised orig="incouraged" auto="true">encouraged</normalised> the wicked to persevere, incited the innocent <lb/>
+to follow thy steps, and offended weak and tender <lb/>
+<normalised orig="Chrisitans" auto="false">Christians</normalised>. This is indeed a sad story, and if we rightly <lb/>
+apprehend it, may make the best to cry out with trembling <lb/>
+and deep contrition, <quote type="psalm" ana="Ps 123.3">Lord have mercy upon us</quote>! <lb/>
+But lest this dismal Account which will scarce fetch one <lb/>
+sigh from a stupid Soul, should overwhelm others in <lb/>
+grief and desperation; I shall add, that we are not like <lb/>
+the Jew, who when the Law thundered from Mount <lb/>
+Eball, could only sign it with a deadful Amen, For we <lb/>
+look further, and beholding the Lamb of God, make <lb/>
+bold to crave mercy; the very acknowledgement of our <lb/>
+Sin being <normalised orig="wrapt" auto="true">wrapped</normalised> up in a Petition of Pardon; And the <lb/>
+right use of all this is, not to affright us from Jesus, but <lb/>
+to drive us to him; to <normalised orig="shew" auto="true">show</normalised> not only how little we deserve, <lb/>
+but how much we need a pardon; It is to represent <lb/>
+how far God can forgive, and how highly our dear <lb/>
+Redeemer <normalised orig="hath" auto="true">has</normalised> merited, seeing so great and deserved <lb/>
+vengeance is yet with-holden, and the Gate of Mercy <lb/>
+still kept open for such wretched Creatures. Our design <lb/>
+in this discovery of Sin is to convince us, that it <lb/>
+is high time to desist from adding to this inifinite heap, <lb/>
+that it is <normalised orig="extreamly" auto="true">extremely</normalised> necessary to seek for Absolution, <lb/>
+and that it will be an admirable <normalised orig="ingaging" auto="true">engaging</normalised> favour, if <lb/>
+we be again accepted. For Mount Sinah is the way to <lb/>
+<normalised orig="Sion" auto="true">Zion</normalised>, and the Law our School-master to bring us to <lb/>
+Christ. When therefore your heart is full of these <lb/>
+thoughts, and when hope and fear, sorrow and desire, <lb/>
+are <normalised orig="strugling" auto="true">struggling</normalised> within you, In the midst of these Passions, <lb/>
+bend your knees and begin to arraign your self at the <lb/>
+Bar of your merciful Judge, where humble Confession <lb/>
+                  <pb n="16"/>
+                  <lb/>
+is the readiest way to Remission. <lb/>
+Acknowledge therefore all you <lb/>
+have found, relate your shame and <lb/>
+indignation at your self, your <lb/>
+grief and anguish for all your misdoings, <lb/>
+<normalised orig="intreat" auto="true">entreat</normalised> as for your life, and with all earnestness <lb/>
+beg for pity and pardon; <normalised orig="remembring" auto="true">remembering</normalised> he never did <lb/>
+cast off any that thus came to him. Your Confession <lb/>
+it self will be no other than a larger Paraphrase, of <lb/>
+Lord have mercy, &amp;c. But if you require a form, the <lb/>
+Church <normalised orig="hath" auto="true">has</normalised> made excellent provision in that acknowledgment <lb/>
+before the Consecration, to <lb/>
+which the Reader is desired to <lb/>
+turn, and while his heart is in this <lb/>
+frame, with great Devotion to recite that Form. <lb/>
+8. But that this is not all the use of these Ten <lb/>
+Commandments, we may learn, from the other part of <lb/>
+the Versicle repeated after each of them, which is Davids <lb/>
+Prayer, <normalised orig="Psal" auto="true">Psalm</normalised>. 119. 36. viz. And incline our hearts <lb/>
+to keep this Law. Which minds us of the next part <lb/>
+of our Preparation for the Holy Sacrament to which <lb/>
+the Law is apt to minister, viz. Secondly, The Renewing <lb/>
+of our Covenant, and this will necessarily follow <lb/>
+our Confession if it be sincere and the language of <lb/>
+a contrite heart. Since we now have discovered the <lb/>
+vileness and danger of our sinful courses, We must needs <lb/>
+be full of indignation against those ways, and cannot <lb/>
+but wish we may never fall into the like circumstances <lb/>
+again. Nay God may expect that those who are so <lb/>
+drenched in tears, and amazed with fear, shall now <lb/>
+study how they may keep the right paths of his Law <lb/>
+hereafter. And this was the principal end why you <lb/>
+were put upon considering your ways, that you might <lb/>
+turn your feet to his Testimonies, <normalised orig="Psal" auto="true">Psalm</normalised>. 119. 59. And if <lb/>
+you be now desirous to do this, it is the best sign of <lb/>
+                  <fw type="pageNum" n="28">27</fw>
+                  <pb n="17"/>
+                  <lb/>
+your Repentance, the surest evidence of your pardon, <lb/>
+and the best <normalised orig="dispostion" auto="false">disposition</normalised> in the World for your reception <lb/>
+of these Mysteries; wherein it is Gods part to seal your <lb/>
+Absolution by the blood of his dear Son, and yours to <lb/>
+give up your self entirely to his Service for ever hereafter, <lb/>
+since he <normalised orig="hath" auto="true">has</normalised> so graciously quitted the old scores. <lb/>
+So that there is no doubt but the true Penitent <normalised orig="doth" auto="true">does</normalised> now <lb/>
+desire with all his Soul to forsake his Sins and do his <lb/>
+duty better. Only because he finds his heart averse, and <lb/>
+not easily inclined to this which (his Conscience tell <lb/>
+him) is his interest and his happiness; The Church <normalised orig="hath" auto="true">has</normalised> <lb/>
+added this short but significant Petition, to him that <lb/>
+can turn the heart, and work in us both to will and to do, <lb/>
+That he would <normalised orig="Encline" auto="true">Incline</normalised>, &amp;c. Which Prayer that it may <lb/>
+be said with Davids Spirit, We <lb/>
+must resolve to follow those good <lb/>
+inclinations when it <normalised orig="pleaseth" auto="true">pleases</normalised> God <lb/>
+to work them in us. And to that <lb/>
+purpose, before we make this our <lb/>
+solemn promise, we must labour <lb/>
+to bring our hearts to condemn the <normalised orig="wayes" auto="true">ways</normalised> of Sin, and <lb/>
+to approve of the ways of Holiness, lest we should <lb/>
+mock the Almighty, by begging his help in that which <lb/>
+we never intend to perform; and lest our vow should <lb/>
+vanish into Air, if we do not first consider the particulars <lb/>
+to which we bind our selves. And for our assistance <lb/>
+herein, viz. that our Engagement may be advised and <lb/>
+well grounded, and our Prayers for the divine Aid <lb/>
+may be hearty and sincere; We may after our Confession <lb/>
+(while our hearts are yet bleeding for our former offences) <lb/>
+enlarge our thoughts into these or the like Meditations. <lb/>
+9. First to alientate our affections from Sin, that <lb/>
+we may in earnest and for ever renounce it, Let every <lb/>
+one of us ask his Soul these Questions. <lb/>
+                  <fw type="pageNum" n="29">28</fw>
+                  <pb n="18"/>
+                  <lb/>
+First, How little of either true profit or solid pleasure <lb/>
+have I reaped from Sin? The gain is cursed and <lb/>
+<normalised orig="intangled" auto="true">entangled</normalised>, the delight short, and unsatisfying, ending <lb/>
+either in vexation or a restless desire, which stays longer <lb/>
+and wounds deeper than ever the <normalised orig="fantastick" auto="true">fantastic</normalised> pleasure <lb/>
+reached. How certain is it, that none of these purchases <lb/>
+can last <normalised orig="beyong" auto="false">beyond</normalised> the short duration of my frail life? <lb/>
+and how little security have I that my death shall not <lb/>
+be ere the next Morning? Secondly, How great a <lb/>
+trouble yet have I had all my life for this trifling and uncertain <lb/>
+reward? the gain was a shadow, but have I not <lb/>
+thereby lost my good name, or my health, my time, and <lb/>
+my parts, the love of my best friends, and the hopes of <lb/>
+Gods favour? Have not these Sins hindered my Prayers, <lb/>
+disquieted my Conscience, set my Neighbours <lb/>
+against me, and filled my ways with losses, crosses, mischiefs <lb/>
+and evil <normalised orig="Accidends" auto="false">Accidents</normalised>? Have they not often made <lb/>
+me ridiculous and base, hated and distrusted, and left <lb/>
+me full of fears and sad expectations, making my life <lb/>
+<normalised orig="uneasie" auto="true">uneasy</normalised>, and my death far more bitter and more terrible? <lb/>
+Thirdly, But these are but the beginnings of sorrow; <lb/>
+For is it not as sure as God is true, that if I persist in <lb/>
+them, I shall lose all my interest in my only Saviour? <lb/>
+forfeit all my hopes of Heaven? and sell my title to <lb/>
+the glorious Kingdom which is full of ravishing and <lb/>
+endless, pleasures, and all abundance of whatsoever heart <lb/>
+can wish? And besides this insupportable loss, shall not <lb/>
+my Soul be condemned in the last dreadful judgment, <lb/>
+and cast into the Region of horror and darkness, anguish <lb/>
+and torments that have no abatement, nor no <lb/>
+end? Why then, Oh my Soul wilt thou buy these vanities <lb/>
+so dear? and be so abused by thy Enemies, so ungrateful <lb/>
+to thy dying Redeemer, and so mischievous <lb/>
+and cruel to thy self? Wilt thou ever be so foolish and <lb/>
+so desperate to commit the like again? Saya then, O my <lb/>
+                  <fw type="pageNum" n="30">29</fw>
+                  <pb n="19"/>
+                  <lb/>
+Soul, I abhor and renounce these accursed delusions, <lb/>
+being almost enraged at my self that I have been <lb/>
+cheated with them so long; My reason is convinced, <lb/>
+and my will <normalised orig="perswaded" auto="true">persuaded</normalised>, that thy ways are the Right: <lb/>
+Therefore, O Lord <normalised orig="encline" auto="true">incline</normalised>, &amp;c. <lb/>
+10. Secondly, To engage our minds to all the <lb/>
+Duties of Religion and Piety, Justice, and Charity, that <lb/>
+we may unalterable <normalised orig="chuse" auto="true">choose</normalised> them, Let every one of us <lb/>
+meditate, <lb/>
+First, Why should I be backward to vow my obedience <lb/>
+to the Laws of God? Are they any thing else but <lb/>
+a method of living well and wisely, free from fears <lb/>
+and injury? Do they not teach me to bear my self so <lb/>
+that I may win the favour of God and good men, and <lb/>
+be safe in the best, and happy in the worst condition? <lb/>
+Can I <normalised orig="wsih" auto="false">wish</normalised> my dearest Friend, or my own Soul, a greater <lb/>
+felicity than to be meek and patient, grateful and contented, <lb/>
+temperate and industrious, just and bountiful, to <lb/>
+converse with God, rejoice with Angels, to imitate the <lb/>
+Saints, follow the blessed Jesus, and to seek Everlasting <lb/>
+Joy? Secondly, <normalised orig="Doth" auto="true">Does</normalised> God require any thing impossible, <lb/>
+unjust or unreasonable? Am I to bind my self to <lb/>
+any more than that which my Judgment and my Conscience <lb/>
+(when I am serious) tell me it is fit and expedient <lb/>
+for me to do, although it had never been commanded? <lb/>
+Is it any more than that which all the wisest <lb/>
+and best men, the friends of God and the Darlings <lb/>
+of Heaven have done with the greatest delight and <lb/>
+pleasure? and therefore it is the only proof of a generous <lb/>
+and noble Spirit. Thirdly, Is not my God the <lb/>
+best of all Masters? who covers the infirmities, and <lb/>
+<normalised orig="strenghtens" auto="false">strengths</normalised> the weaknesses of his Servants? Can I fail <lb/>
+to please him who begets the desire and enables for the <lb/>
+performance? and makes the way familiar and <normalised orig="easie" auto="true">easy</normalised>, <lb/>
+pleasant and inviting, and yet where there is a hearty <lb/>
+                  <fw type="pageNum" n="31">30</fw>
+                  <pb n="20"/>
+                  <lb/>
+endeavour <normalised orig="doth" auto="true">does</normalised> make many abatements, and accept the <lb/>
+will for the deed, and who begins <lb/>
+his assistances early, and continues <lb/>
+them till he <normalised orig="hath" auto="true">has</normalised> perfected <lb/>
+this excellent work? Fourthly, Finally <lb/>
+shall I not be rewarded with a glorious Crown in <lb/>
+Heaven, for being so wise as to <normalised orig="chuse" auto="true">choose</normalised> to be happy on <lb/>
+Earth? Is not this the sure way to the enjoyment of <lb/>
+God, the Society of Jesus, and the <normalised orig="Felloship" auto="true">Fellowship</normalised> of glorified <lb/>
+Saints and blessed Souls? to Eternal Peace, never-ceasing <lb/>
+Joy, to the most perfect and <normalised orig="compleat" auto="true">complete</normalised> felicity <lb/>
+which shall last for ever, though the <normalised orig="troule" auto="false">trouble</normalised> of gaining <lb/>
+it be but short, and transitory? Be wise therefore Oh <lb/>
+my Soul! and easily <normalised orig="perswaded" auto="true">persuaded</normalised> to <normalised orig="chuse" auto="true">choose</normalised> thine own happiness; <lb/>
+And say, I desire and long to be acquainted <lb/>
+with these paths of pleasantness, I <normalised orig="chuse" auto="true">choose</normalised> and love them <lb/>
+all. O Lord <normalised orig="encline" auto="true">incline</normalised> our hearts to keep these Laws. And <lb/>
+now I hope it may be time to bend your knees again, <lb/>
+and with a fresh bewailing of your transgressions, and <lb/>
+many <normalised orig="acknowledgments" auto="false">acknowledgements</normalised> of your Conviction, to renounce <lb/>
+and protest against all iniquity; especially, that <lb/>
+by which you have been most apt to fall; and also to <lb/>
+vow and engage, that you will lead a holy life; which <lb/>
+you must do most seriously as in the presence of God; <lb/>
+And finally looking unto Jesus the purchaser of Pardon, <lb/>
+and giver of all Grace, most humbly beg the holy <lb/>
+Spirit, that you may be enabled to keep this pious resolution, <lb/>
+since it is your wisdom and happiness never to <lb/>
+break it more; to which purpose say, Lord write all <lb/>
+these thy Laws in our hearts we beseech thee. That is, in <lb/>
+our memories and our affections, that we might not <lb/>
+offend against them. <normalised orig="Psal" auto="true">Psalm</normalised>. 119. 11. For if his Spirit <lb/>
+<normalised orig="ingrave" auto="true">engrave</normalised> them on our Souls, we shall with ease and pleasure <lb/>
+keep and do them. Ezek. 36. 26. Wherefore let <lb/>
+us beg this favour most earnestly, and let us not doubt of <lb/>
+                  <fw type="pageNum" n="32">31</fw>
+                  <pb n="21"/>
+                  <lb/>
+being heard. For this is the first and greatest part of <lb/>
+the new Covenant; God <normalised orig="hath" auto="true">has</normalised> <normalised orig="ingaged" auto="true">engaged</normalised>, He will put his <lb/>
+laws in our minds, and on our hearts will he write them, <lb/>
+Jerem. 31. 33. Heb. 8. 10. And further, if we so sincerely <lb/>
+pray for his grace of Obedience, it will <normalised orig="ingage" auto="true">engage</normalised> our <lb/>
+Heavenly Father still more effectually to grant the last <lb/>
+clause, viz. that our Sins and iniquities he will remember <lb/>
+no more. <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,963 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the opening of the lecture at Maldon in Essex</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="WiBr1735d">Bramston,William</author>
+               <title type="main">A sermon preached at the opening of the lecture at Maldon in Essex, lately established by the Lord Bishop of London in vindication of the antiquity of the doctrine of the Church of England.</title>
+               <title type="short">A sermon preached at the opening of the lecture at Maldon in Essex</title>
+               <date when="1697">1697</date>
+               <date type="this_edition" when="1697">1697</date>
+               <idno type="Wing">B4243</idno>
+               <note type="genre" subtype="pamphlet_sermon">sermon pamphlet</note>
+               <note type="sample" target="#WiBr1735d_1697_pamphlet_sermon_1"/>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="WiBr1735d_1697_pamphlet_sermon_1">
+            <div>
+               <head>
+                  <lb/>
+A<lb/>
+SERMON,<lb/>
+PREACHED<lb/>
+At the opening the Wednesday Lecture in<lb/>
+All-Saints Church in Maldon.</head>
+               <p>
+                  <lb/>
+Acts, Chap. 24. Verse 14.<lb/>
+                  <quote type="biblical" ana="Acts 24.14">But this I confess unto thee, that after the way which<lb/>
+they call <normalised orig="Heresie" auto="true">Heresy</normalised>, so worship I the God of my <lb/>
+Fathers</quote>.<lb/>
+IN the way to my Text, I judge it a reasonable tribute of <lb/>
+our gratitude to our Diocesan, to observe, how those blessed<lb/>
+Effects, and Influences of his paternal care and watchfulness,<lb/>
+which are conspicuous in all places of his Jurisdiction,<lb/>
+are in the most sensible manner made apparent to you,<lb/>
+the Inhabitants of this remote, and almost forgotten corner of <lb/>
+the Kingdom; and that in the occasion of our present meeting,<lb/>
+wherein you have restored to you a most laudable Privilege,<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="2">B</fw>
+                  <pb n="1"/>
+                  <lb/>
+which you have long wanted, your Weekly Lecture:<lb/>
+In which you must needs acknowledge your engagements to<lb/>
+your Bishop, who <normalised orig="hath" auto="true">has</normalised> made himself a debtor to many Brethren<lb/>
+for your sakes: Nor is the Benefaction its self more worthy of <lb/>
+your Gratitude, than the piety of his Lordships intention in this<lb/>
+Lecture, may be commanding of your Thankfulness: Our Bishops<lb/>
+Hopes and Counsels, and Prayers are, not only that you<lb/>
+may have the gracious Arguments of Virtue, Patience, Righteousness,<lb/>
+and <normalised orig="Holyness" auto="true">Holiness</normalised>, without which, <quote type="biblical" ana="Heb 12.14">No Man shall see the <lb/>
+Lord</quote>, unfolded, and recommended to your Practice in the most<lb/>
+<normalised orig="perswasive" auto="true">persuasive</normalised> Applications: but also, that you may continue in all<lb/>
+soundness of Doctrine, and become armed against the arts, and<lb/>
+surprises of false Teachers, who do either obtrude their own Traditions,<lb/>
+for the Commandments of God, or attempt to withdraw<lb/>
+the Affections of Men from our most excellent Church<lb/>
+by false and unwarrantable misinterpretations of her Doctrines.<lb/>
+I say our most Excellent Church, which is loaded by Rome, with<lb/>
+the imputations of <normalised orig="Heresie" auto="true">Heresy</normalised>, because the endeavours to <normalised orig="shrowd" auto="true">shroud</normalised><lb/>
+her Members from the taint of Rome's Defilements: And has<lb/>
+been reviled by another sort of mistaken Christians, as being<lb/>
+her self Popish, because she labours to preserve the Holy Services<lb/>
+of God clean, from the <normalised orig="unhallow'd" auto="true">unhallowed</normalised> violence of Man's Profaneness:<lb/>
+Now there cannot be a greater Service done to the Church<lb/>
+of Christ, than when his precious Depositum is kept unviolated,<lb/>
+or to the <choice ana="illegible">
+                     <sic>Ed*fication</sic>
+                     <corr>Edification</corr>
+                  </choice> of his Faithful, than, when the Instructions<lb/>
+tendered to them proceed purely from Truth and Soberness:<lb/>
+This being our Bishops (now <choice ana="illegible">
+                     <sic>Ch*ritable</sic>
+                     <corr>Charitable</corr>
+                  </choice>) intention in this Lecture<lb/>
+which I am to open, I have made choice of this passage of<lb/>
+St. Paul, who here answers the impeachment of the Jews, who<lb/>
+had centured his Labours in Christ, his professing, and propagating<lb/>
+the Christian Religion, (just as our Adversaries of the Church<lb/>
+of Rome do all our holy Ministrations, and Services in the support<lb/>
+of the Faith, and truth of the Blessed Jesus) as a work of<lb/>
+<normalised orig="Heresie" auto="true">Heresy</normalised>, with this Confession, <quote type="biblical" ana="Acts 24.14">But this I confess unto thee, that<lb/>
+                     <pb n="2"/>
+                     <lb/>
+after the way that they call <normalised orig="Heresie" auto="true">Heresy</normalised>, so worship I the God of my<lb/>
+Fathers.</quote> That which I shall endeavour at present, shall be the <lb/>
+vindication of the Doctrines and Measures of our Church, as<lb/>
+to some Matters of her Faith and Practice, which are quarrelled<lb/>
+at by our Roman Adversaries; which, in the most insolent Pomp.<lb/>
+and disdain, are exploded by them as Spots, and Deformities in<lb/>
+our Reformation. First, then, That wherewith they think<lb/>
+they shake us most, is this, that we are of a new Religion,<lb/>
+a novel and up-start Church, not able to make out a continuance<lb/>
+for two of sixteen Centuries.<lb/>
+This I take to be the most gainful plea of the Crafts-men<lb/>
+of their Diana, that by which she most fatally allures many<lb/>
+into the Labyrinth of her Delusions: Certainly as to her Doctrines,<lb/>
+the <normalised orig="Monstresities" auto="false">Monstrosities</normalised> of Transubstantiation, Purgatory, of <lb/>
+the Sacrifice of the Mass, and Prayers in a strange Language;<lb/>
+these can have no appearances so beautiful and tempting, as to<lb/>
+prove Charming in themselves, and captivate our Souls <normalised orig="englighten'd" auto="false">englightened</normalised><lb/>
+by the wisdom of the Gospel: But when they are told they embrace<lb/>
+a new Religion, a Religion not heard of in the Christian<lb/>
+World till these last two Hundred Years; this may possibly startle<lb/>
+ignorant Men, and justly requires our Consideration: In answering<lb/>
+therefore this Objection, I doubt not to expose the vanity,<lb/>
+and disappoint the impressions of such light pretences, and<lb/>
+manifest them to be no other but Noise and Cant. First, Then,<lb/>
+if by a new Church, they mean a Church introducing a new<lb/>
+Scheme of Faith and Belief; methinks that main part of old<lb/>
+essential Verities, wherein they and we agree, together with <lb/>
+our explicit belief of all the known Doctrines of the Scriptures, <lb/>
+and our implicit belief of all things therein contained, may in <lb/>
+great measure declare the Antiquity of ours; especially since we<lb/>
+retain all that Faith, and religiously adhere to all those Creeds,<lb/>
+which the third General Council held at Ephesus, adjudged to <lb/>
+be so material and comprehensive, as positively to forbid the <lb/>
+imposition or addition of any other, if that was the Old Faith<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="4">B2</fw>
+                  <pb n="3"/>
+                  <lb/>
+which was professed by the Primitive Fathers of that Council,<lb/>
+how can ours now be denominated a new one, who have neither<lb/>
+diminished nor added to the Articles of their Belief? The<lb/>
+Creeds confirmed, and authorized in that Council, were that of<lb/>
+the Apostles, and that of Nice, and therefore methinks the<lb/>
+Faith founded on them may with some face pretend to Antiquity.<lb/>
+Again, if by a new Church, they mean a National Church<lb/>
+of but late Strength and Establishment; we deny not the present<lb/>
+Church of England to be a new Church in such a sense; but<lb/>
+then we answer withal, that such a new Church may be said,<lb/>
+without a Paradox, to contain as Old a Religion as the ancientest<lb/>
+foundation of Christ, though not for the Age of its Establishment,<lb/>
+yet for the Antiquity of its Truths and Doctrines,<lb/>
+which only (properly speaking) can Entitle any National Church<lb/>
+a part of the ancient Church of Christ: And this is the highest<lb/>
+mark of Antiquity our Church pretends to assume, that<lb/>
+she now professes that very Faith which our Saviour taught, <lb/>
+which his Holy Apostles <normalised orig="profess'd" auto="true">professed</normalised>, and propagated in the first<lb/>
+Ages of Christianity. And let Men pretend what they will,<lb/>
+the only Demonstration and Test of any particular Churches<lb/>
+Antiquity (as it is a true or a corrupted part of the <normalised orig="Catholick" auto="true">Catholic</normalised><lb/>
+Church of Christ) must be the Antiquity of her Doctrines and<lb/>
+Principles, by reason as no Christian Church can be ancienter<lb/>
+than Christ, the Author and Finisher of our Faith: So again, <lb/>
+no particular Church, professing his ancient Faith and Truths,<lb/>
+can be said to introduce, or embrace a Religion younger than<lb/>
+that of Christ, because it then professes that very truth of <lb/>
+Christ, which has been professed by his Faithful in all Ages: <lb/>
+So that though the Church of England may be later than the <lb/>
+Church of Rome, in such respects as these; either, because<lb/>
+our Conversion to the Faith might possibly have been after<lb/>
+theirs; or again, because our particular establishment, as it <lb/>
+now stands, was enacted many Ages since the first settlement<lb/>
+                  <fw type="pageNum" n="5">4</fw>
+                  <pb n="4"/>
+                  <lb/>
+of a Christian Church at Rome: Yet our Religion now, may be<lb/>
+ancienter still, than their's at present; if they are now changed, <lb/>
+and degenerated (as <normalised orig="'tis" auto="true">it is</normalised> demonstrable they are) from that<lb/>
+Christian Purity, which anciently denominated them an uncorrupted<lb/>
+part of the <normalised orig="Catholick" auto="true">Catholic</normalised> Church; and we now faithfully<lb/>
+adhere with all Uprigthness and Integrity (which we are ready<lb/>
+to make appear we do) to that Faith of Christ which was once<lb/>
+delivered to the Saints; and as by many other Churches, so<lb/>
+anciently <normalised orig="maintain'd" auto="true">maintained</normalised> by the Church at Rome: For, as their new<lb/>
+corruptions, and additional definitions of Faith must fall short<lb/>
+of those Ages wherein Christianity flourished with all Truth<lb/>
+and Purity; and those can be no other than the Days of <lb/>
+Christ, and his Apostles; so the old truths retained and professed<lb/>
+by us, must have been then most triumphant and prevailing.<lb/>
+And therefore that which has puzzled so many weak<lb/>
+and unlearned People of our Communion, to wit, the question<lb/>
+about the Age of our Religion, and our Church, may easily<lb/>
+be resolved if they distinguish the Antiquity of Seat and Place<lb/>
+(which is nothing to the business) from the Antiquity of Truths<lb/>
+and Doctrines; and this distinction must be allowed good even<lb/>
+by our Adversaries themselves, if they consider, that the dispute<lb/>
+now is not about the Antiquity of particular Sees and <lb/>
+national Constitutions, but the Antiquity of Faith and Religion<lb/>
+its self, which I hope may be the same in a Church of Yesterday's<lb/>
+Conversion, as it was in Antioch, which had the honour<lb/>
+to give the first Name to Christians.<lb/>
+Did the Church of Rome at any time esteem her own Antiquity<lb/>
+lessened, upon such a Consideration as this, that St. Peter<lb/>
+erected his Apostolical Seat first at Antioch, before ever he<lb/>
+had arrived at Rome? Or will she acknowledge a deference due<lb/>
+to that Church in point of Faith and Purity, because she had<lb/>
+the happiness to be Christened before her? I doubt the Mother<lb/>
+and Mistress of all Churches, as she delights to stile her<lb/>
+self, <normalised orig="cou'd" auto="true">could</normalised> never stoop to such a Condescension: If my Faith<lb/>
+                  <fw type="pageNum" n="6">5</fw>
+                  <pb n="5"/>
+                  <lb/>
+be found, and perfect now, can it be believed the more new,<lb/>
+and up-start, because not professed by my Fore-fathers, who knew<lb/>
+not the Truths? Or does my late Conversion if good and upright<lb/>
+diminish, or derogate from the Antiquity of Truth its <lb/>
+self? The Antiquity of all other things is calculated from their<lb/>
+Original, and beginning in the World, and why the same<lb/>
+rule won't do in Faith and Religion I understand not. Indeed,<lb/>
+if any particular Church <normalised orig="cou'd" auto="true">could</normalised> make out a <normalised orig="continu'd" auto="true">continued</normalised> Succession<lb/>
+in all circumstances of Doctrine and Discipline, from the times<lb/>
+of the Apostles, unto this very day, this <normalised orig="wou'd" auto="true">would</normalised> no doubt be<lb/>
+an incomparable Argument both of her Antiquity, and of<lb/>
+God's especial Goodness and Providence over her: But the<lb/>
+present Roman Church can no more make out such a Succession<lb/>
+than the present Church of England; and if she <normalised orig="cou'd" auto="true">could</normalised>, still<lb/>
+such a Succession is not to be <normalised orig="esteem'd" auto="true">esteemed</normalised> the only mark of Truth<lb/>
+and Antiquity: And this I think cannot be more clearly illustrated<lb/>
+than from Matter of Fact, to which, we may appeal<lb/>
+in this case; for instance, there can be no Question, but the<lb/>
+ancient Faith of Christ is now professed by the true Faithful of <lb/>
+Christ, and shall continue to be so professed till the Day of Judgment;<lb/>
+and yet there is now no particular Church of the Faithful<lb/>
+that can make out such a Succession, nor any one Church<lb/>
+endowed with an assurance of continuing indefectibly in that<lb/>
+very State in which she is now, till the Day of Judgment.<lb/>
+I know the Church of Rome <normalised orig="wou'd" auto="true">would</normalised> fain have us believe her<lb/>
+inspired with these infallible Accomplishments, but she must<lb/>
+produce a better Scheme of her Perfections, than what we <lb/>
+meet in her Trent Definitions; or she will never <normalised orig="perswade" auto="true">persuade</normalised> us, <lb/>
+that she is any more like the Church <normalised orig="Establish'd" auto="true">Established</normalised> at Rome by <lb/>
+St. Peter, than St. Peter himself was like the most changed<lb/>
+and <choice ana="illegible">
+                     <sic>b*cksliding</sic>
+                     <corr>backsliding</corr>
+                  </choice> Apostle: For as to her Magnificent Stile in<lb/>
+writing her self the Church <normalised orig="Apostolick" auto="true">Apostolic</normalised>, this must appear rather<lb/>
+a Character of Ornament and <normalised orig="Shew" auto="true">Show</normalised>, than any certain signification<lb/>
+of her necessary continuance in Truth and Purity. For,<lb/>
+                  <pb n="6"/>
+                  <lb/>
+were not the <normalised orig="Apostolick" auto="true">Apostolic</normalised> Sees as liable to relapse, and degenerate, <lb/>
+as any founded by their Successors? Where is the glory<lb/>
+of Antioch, Ephesus, and Alexandria, which the Apostles themselves<lb/>
+planted and watered with the Dew of Heaven, which<lb/>
+those Heavenly Shepherds <normalised orig="nourish'd" auto="true">nourished</normalised> with the blessed Food of <lb/>
+Evangelical Righteousness? And notwithstanding all the applauses<lb/>
+with which the present Romanists exalt themselves; I <lb/>
+doubt not, but were St. Peter to arise this moment from the <lb/>
+Dead, and visit the Conclave, or inspect the Councils of Rome,<lb/>
+but he <normalised orig="wou'd" auto="true">would</normalised> be very much put to it, where to find Faith on <lb/>
+Earth. <lb/>
+I say therefore, her being founded by an Apostle (if we grant<lb/>
+thus much) can no more Entitle her indefectible in the Faith, <lb/>
+than it has the Churches of Antioch, Ephesus, and Alexandria, <lb/>
+which have either altogether failed, and forsaken the Name of <lb/>
+Christ; or are (at least according to their own Roman <normalised orig="Tenents" auto="true">Tenants</normalised>)<lb/>
+quite cut off for Schism or <normalised orig="Heresie" auto="true">Heresy</normalised> from the Communion of<lb/>
+what they call the true Church; let her <normalised orig="shew" auto="true">show</normalised> when, and<lb/>
+where, God has anointed her with this <normalised orig="Oyl" auto="true">Oil</normalised> of Perfection above<lb/>
+her Fellows: But now then, if an <normalised orig="Apostolick" auto="true">Apostolic</normalised> Church may thus<lb/>
+recoil, and become impure, (nay, since Christianity shall<lb/>
+not fail) why must not some Churches be most pure, which<lb/>
+yet are not Apostolical, I mean taught and instructed by the<lb/>
+lively voice of the Apostles? If this be <normalised orig="bad" auto="true">bade</normalised> arguing, what may<lb/>
+we think of all the Churches Converted, and founded many<lb/>
+Ages since the days of the Apostles? Or, if this be a good Inference,<lb/>
+what Objection can it be against any particular Church<lb/>
+which is found, and upright in all her Doctrines, that she has<lb/>
+not continued for ever, that she is yet but of a very late Birth<lb/>
+and Duration? If her Doctrines are as Old as the Scriptures,<lb/>
+can the Religion of such a Church fall short of the Age of the<lb/>
+Gospel? If her holy Principles flourished in the ancientest Creeds<lb/>
+and Councils, can she reasonably be <normalised orig="Reproach'd" auto="true">Reproached</normalised> for an Innovation<lb/>
+of Two Hundred Years ago? This is the very case of<lb/>
+                  <fw type="pageNum" n="8">7</fw>
+                  <pb n="7"/>
+                  <lb/>
+the Church of England, and for the truth of it, we appeal to<lb/>
+the Scriptures, to the ancientest Creeds, and Councils. Indeed,<lb/>
+the Church of Rome makes a great noise and show with the flourish<lb/>
+of her Succession; but if she means a Succession in purity<lb/>
+of Doctrines, we may easily convince her of Vanity and Tattle;<lb/>
+if she means a Succession in the outward circumstances, and appearances<lb/>
+of a Church, such as consists in true Pastors, Bishops,<lb/>
+and the like; I answer, that there may be such a visible<lb/>
+Succession, and yet that Church that enjoys it in many respects may<lb/>
+be very corrupt and unwarrantable; and this I think is sufficiently<lb/>
+<normalised orig="acknowledg'd" auto="true">acknowledged</normalised> by the Church of Rome her self, which does<lb/>
+so far acknowledge the Succession of the Greek Church, as to<lb/>
+receive those Ordained by her, into her Communion, with allowance<lb/>
+of Orders received before; and yet whoever considers<lb/>
+the terms in which the Eastern Church now stands, with<lb/>
+that at Rome, must see little reason to conclude much of its<lb/>
+Perfection, from the Argument of Succession; indeed, there<lb/>
+cannot be a true Church without true Pastors and Bishops, but<lb/>
+there may be true Pastors and Bishops, i.e. Pastors, and Bishops<lb/>
+rightly called, and truly ordained, without a true Church in other<lb/>
+respects: Such Succession will indeed prove the Antiquity<lb/>
+of the Seat and Place, and justly denominate it a part of the<lb/>
+<normalised orig="Catholick" auto="true">Catholic</normalised> Church of Christ; but it can be no convincing Demonstration<lb/>
+of the purity of its Faith and Doctrines: And therefore<lb/>
+it must follow, that, even from an erroneous Church, may<lb/>
+be derived a true <normalised orig="Ministery" auto="true">Ministry</normalised> and Ordination; but, yet it can be<lb/>
+no greater Argument, that such a particular Church, namely,<lb/>
+as the Church of Rome, is a pure Church now, because an other,<lb/>
+to wit the Church of England, who is really so, owes her<lb/>
+Orders or first Episcopal imposition to hers; than it can be, that<lb/>
+because such a particular Man, for his own personal Virtue and<lb/>
+Integrity, shall certainly go to Heaven, therefore he also shall do<lb/>
+so, who made him a Christian: And this I the gladlier mention,<lb/>
+because it plainly answers that <normalised orig="Sophistical" auto="true">Sophisticated</normalised> Induction of the Romanists,<lb/>
+                  <fw type="pageNum" n="9">8</fw>
+                  <pb n="8"/>
+                  <lb/>
+which infer that, because we say our Church derives<lb/>
+her Orders from her; therefore by proving our selves to be a<lb/>
+true Church, we must necessarily conclude their's to be so,<lb/>
+which is the same, as if a Man in declaring his Opinion of<lb/>
+their being Orthodox in some points and particulars, <normalised orig="shou'd" auto="true">should</normalised> be<lb/>
+concluded positively to maintain them to be most regular in all<lb/>
+others. A more rational Inference from what has been said in<lb/>
+this case of Succession, must certainly be this, that such a Local<lb/>
+Succession of Pastors, and a settled Establishment from the days<lb/>
+of the Apostles to this time, is not essential to the constitution<lb/>
+of a true Church; but rather on the other side, whatever<lb/>
+Church <normalised orig="hath" auto="true">has</normalised> a lawful Ministry, and a right Profession of found<lb/>
+Doctrine (let her Succession be never so inconsiderable, though<lb/>
+not exceeding two years) must have an equal Right and Title<lb/>
+to a Membership in the ancient Body of Christ, as any particular<lb/>
+Church of the most <choice ana="illegible">
+                     <sic>v*nerable</sic>
+                     <corr>venerable</corr>
+                  </choice> Succession: And the reason<lb/>
+of the thing is very plain, for, if a Church has a true Ministry,<lb/>
+and a right belief, now what signifies it how long she has <normalised orig="enjoy'd" auto="true">enjoyed</normalised><lb/>
+it; she can then want no means to bring Souls to Heaven,<lb/>
+and what advantage can the ancientest Constitution in the<lb/>
+World obtain above her: The Seat where the Religion is fixed<lb/>
+may be new, but the Religion <normalised orig="Establish'd" auto="true">Established</normalised>, as Old as Truth it<lb/>
+self: And thus I hope the Churches which were the earliest<lb/>
+planted in the World, were as true Churches the first day after<lb/>
+their Plantation, as when they had survived various Centuries:<lb/>
+So that it must be impertinent in our Adversaries to require us<lb/>
+to produce a Succession of Protestant Bishops, so long as there<lb/>
+<normalised orig="cou'd" auto="true">could</normalised> be no reason any Bishops <normalised orig="shou'd" auto="true">should</normalised> be called Protestant; i.e.<lb/>
+Such Bishops, who protest against Innovations and Corruptions<lb/>
+in the Religion of Christ, till they had defiled God's heavenly<lb/>
+Truths with their Traditionary Pollutions; or again, so long as<lb/>
+we prove our <choice ana="illegible">
+                     <sic>Protestan*</sic>
+                     <corr>Protestant</corr>
+                  </choice> Faith and Church to be no other, but<lb/>
+a Professor of that Faith, and a Member of that Apostolical<lb/>
+Church, which they have Corrupted; or lastly, so long as<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="10">C</fw>
+                  <pb n="9"/>
+                  <lb/>
+they are Corruptions introduced by them, which we disavow,<lb/>
+and protest against: Let them prove us defective in any one<lb/>
+essential point of a true Church, and we will yet thankfully receive<lb/>
+it, but this their own fruitless endeavour towards it, may<lb/>
+evince they cannot, and therefore to talk of Novelty and Innovations,<lb/>
+where the Truths are as ancient as the Gospel, and<lb/>
+the Apostles, must argue great Folly in them that urge it, but<lb/>
+more inconsideration in us <normalised orig="shou'd" auto="true">should</normalised> we regard it. As we are able<lb/>
+to <normalised orig="justifie" auto="true">justify</normalised> our cause from all their foulest Imputations, so shall<lb/>
+they never be able to prove our Religion a Novelty, though<lb/>
+its Establishment were but of Queen Elizabeth; for it is the<lb/>
+                  <choice ana="illegible">
+                     <sic>An*iquity</sic>
+                     <corr>Antiquity</corr>
+                  </choice> of true Faith only, that we contend for, which can<lb/>
+never be obscured by the latest Profession, because what was<lb/>
+truth in the Apostles time must be so now; and that Church,<lb/>
+which cleaves <normalised orig="stedfastly" auto="true">steadfastly</normalised> to that, (be its Succession never so<lb/>
+late) must be both <normalised orig="Catholick" auto="true">Catholic</normalised> and <normalised orig="Apostolick" auto="true">Apostolic</normalised> in the purest<lb/>
+meaning.<lb/>
+After all this stir of Novelty and Antiquity, I see no other<lb/>
+difference in our case, and that of the Romanists but this, that<lb/>
+our Religion is apparently conspicuous in the best and most<lb/>
+Apostolical Centuries; and their's manifest enough in the flourishing<lb/>
+Days of Ignorance and Superstition, when Scriptures<lb/>
+were banished, and the least appearance of such Truth, as seemed<lb/>
+to thwart the progress of an aspiring Monarchy, was silenced<lb/>
+and disabled: That which seems so much to take with inconsiderate <lb/>
+Men, to wit, such Queries as this, Had not God his<lb/>
+true Church in these days of Blindness and Ignorance, which<lb/>
+you Protestants allude to, if so, Then which <normalised orig="cou'd" auto="true">could</normalised> be this true<lb/>
+Church, but that at Rome, may easily be removed if they observe<lb/>
+First, That a local and visible Establishment, such as<lb/>
+can be pointed to (though we have many such to refer to in<lb/>
+the Eastern parts of Christendom, even in the blindest Ages,<lb/>
+besides that at Rome) is not essential to the proving of a true<lb/>
+Church, because the true Church of Christ was most illustrious<lb/>
+                  <pb n="10"/>
+                  <lb/>
+before it had enjoyed any Local Establishment whatever. Secondly,<lb/>
+If we consider, that though there were in those times<lb/>
+true Christians, yet it cannot be imagined that they <normalised orig="shou'd" auto="true">should</normalised> have<lb/>
+<normalised orig="appear'd" auto="true">appeared</normalised> forward to make Discoveries of themselves, in such<lb/>
+Seasons, when they <normalised orig="experienc'd" auto="true">experienced</normalised> the sharpest Eyes and heaviest<lb/>
+Hands ready to destroy them: So that though we must believe<lb/>
+God had always a true Church, yet we stand not <choice ana="illegible">
+                     <sic>*ecessitated</sic>
+                     <corr>necessitated</corr>
+                  </choice>
+                  <lb/>
+directly to know what numerical and individual People made<lb/>
+up that true Church, much less to confess it to have been the<lb/>
+present Establishment at Rome; no, we can no more be <normalised orig="oblig'd" auto="true">obliged</normalised><lb/>
+to such a Confession as this, than to acknowledge, that the visible<lb/>
+company of the Jews made up the true Church of God:<lb/>
+than, when they were even <normalised orig="swallow'd" auto="true">swallowed</normalised> up of Idolatry, and<lb/>
+none but the All-seeing Eye of God able to discover the 7000<lb/>
+Knees which had never bowed to Baal; it is no Tergiversation<lb/>
+therefore; it is no Shuffling, I say (though we can't point to it's<lb/>
+individual Members) to assert, That God had even then a true<lb/>
+Church, because he has <normalised orig="expresly" auto="true">expressly</normalised> told us, he will have a true<lb/>
+Church for ever; but it must be a most irrational consequence<lb/>
+to conclude, that it was the Roman, when it was the Roman<lb/>
+alone, from whence arose all those misty Tempests and Darkness,<lb/>
+which had obscured the Truth, nay, which had most<lb/>
+grievously then <normalised orig="oppress'd" auto="true">oppressed</normalised> and over-born her: If we are not<lb/>
+now able to name who those good Christians were, that then<lb/>
+made up the true Church; we may thank their Furnaces, Inquisitions,<lb/>
+and Expurgatory <normalised orig="Subtilties" auto="true">Subtleties</normalised>, which affrighted them<lb/>
+from the Light, and still took care to stifle the least occasions<lb/>
+of their manifestations. We confess, God had always his<lb/>
+true Church, and this is agreeable to his Word, but we acknowledge<lb/>
+not that it was the Church of Rome, for this reason,<lb/>
+because she was then, as she is now, most contradictory to<lb/>
+the Truths of his Word.<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="12">C2</fw>
+                  <pb n="11"/>
+                  <lb/>
+And thus I proceed to another Principle of our Church, impeached<lb/>
+of <normalised orig="Heresie" auto="true">Heresy</normalised> by that of Rome, and that is our ways<lb/>
+and methods of finding out the Truth: Now these are no other<lb/>
+than what depend upon these two divine Principles, Scripture<lb/>
+and Reason, which, as they are the immediate Gifts of God,<lb/>
+flowing from the Excellency and Perfections of his own blessed<lb/>
+Spirit, so methinks they may not improperly be <normalised orig="imploy'd" auto="true">employed</normalised> in<lb/>
+his Divine Service: The Religious Man, in Scripture, is frequently<lb/>
+                  <choice ana="print-error">
+                     <sic><normalised orig="Entituled" auto="true">Entitled</normalised></sic>
+                     <corr>Entitled</corr>
+                  </choice> the Wife and the Understanding Man; and<lb/>
+Wisdom, and Religion are generally used to denote one and<lb/>
+the same thing, but how there can be the greatest Wisdom<lb/>
+and Understanding where there must not be the least use or<lb/>
+pretences to Reason, I leave to these Despisers of Reason to illustrate.<lb/>
+The Wise Man tells us, A blind Sacrifice is an abomination<lb/>
+to the Lord, and we often meet the Holy Ghost in the<lb/>
+Scriptures, lashing at the Sacrifice of Fools, both which are <lb/>
+demonstratively comprehended in that rebuke of our Saviour<lb/>
+against the People of Samaria, saying, Te know not what <normalised orig="ye" auto="true">you</normalised><lb/>
+Worship; and now what can all these Passages suggest to us<lb/>
+but this, that whosoever will pay a fit and suitable Worship<lb/>
+to God, ought <normalised orig="throughly" auto="true">thoroughly</normalised> to know and understand the Nature<lb/>
+and Excellency of the Divine Majesty, as far as he has been<lb/>
+pleased to reveal himself; and then as one <normalised orig="wou'd" auto="true">would</normalised> think, nothing<lb/>
+can more effectually instruct us in this Celestial Knowledge,<lb/>
+than the very Writings and express Revelations of God<lb/>
+himself; so it seems to me next door to a contradiction, for<lb/>
+any Man to aver, that the most infallible way to come to a<lb/>
+right Knowledge and Understanding of God, is to set aside<lb/>
+our Reason, without which, <normalised orig="'tis" auto="true">it is</normalised> impossible to know or understand<lb/>
+at all; or again, to renounce the Scriptures which<lb/>
+are the only Books in the World, which his infallible Spirit<lb/>
+has left us for our surer guidance and direction to that blessed<lb/>
+Knowledge. <lb/>
+                  <pb n="12"/>
+                  <lb/>
+Perhaps, it may be suggested here, that the Mysteries and<lb/>
+sublime Articles of our Religion, such as the Incarnation, the<lb/>
+Trinity, and the Resurrection, which all infinitely transcend<lb/>
+the highest Capacities of our Reason, depend not on the use<lb/>
+of our Reason, but Faith, which is of those things which are<lb/>
+invisible, even to the most piercing Eye of Man's Reason;<lb/>
+so that we must leave our Reason in the way to our <normalised orig="embracements" auto="true">embraces</normalised><lb/>
+of them, but this no way weakens the force of our<lb/>
+Argument: For these Mysteries surpass indeed the comprehension<lb/>
+of our Reason, yet the authority upon which we receive<lb/>
+them into our Creed, lies open to our Reason, such as<lb/>
+is the voice of the Scriptures, and the example of the purest<lb/>
+Ages of the Church of Christ; which Reason recommends<lb/>
+to us as the surest guides, to direct us in all Matters of Religion:<lb/>
+And though indeed Reason cannot demonstrate to us<lb/>
+the ineffable ways and explications of these Truths, yet Reason<lb/>
+furnishes us with this Demonstration, that they ought to <lb/>
+be received for the Truths of Christ; upon this account,<lb/>
+because whatever is proposed to our belief upon such infallible<lb/>
+Evidences as the Revelation of God's Word, and the uninterrupted<lb/>
+Authority of his Primitive Church in all Ages, ought in <lb/>
+reason to be believed as true.<lb/>
+I acknowledge, were not these Articles of our Creed manifestly<lb/>
+contained either in the express Words, or in the necessary<lb/>
+conclusions of Scripture, or in the explications of the <lb/>
+purest Ages of our Religion, the belief of them <normalised orig="wou'd" auto="true">would</normalised> be irrational,<lb/>
+and these unwarrantably crowded upon the belief of a<lb/>
+Christian: And therefore, even in those very Articles, which exceed<lb/>
+our Reason, it is still Reason which must <normalised orig="justifie" auto="true">justify</normalised> our Faith:<lb/>
+What, is our Reason given us for no other end, than to consult<lb/>
+for the ease and satisfaction of our Bodies, or must that<lb/>
+most sublime faculty of our Souls be no ways <choice ana="print-error">
+                     <sic>interessd</sic>
+                     <corr><normalised orig="interess'd" auto="true">interessed</normalised></corr>
+                  </choice> or <normalised orig="engag'd" auto="true">engaged</normalised><lb/>
+for its own Happiness and Salvation?  Again, can we <lb/>
+think the Divine Wisdom had no design in dictating the Scriptures,<lb/>
+                  <pb n="13"/>
+                  <lb/>
+or has he <normalised orig="express'd" auto="true">expressed</normalised> his intention to reach only the Learned<lb/>
+and the Wise? Did not our Lord once make this the most<lb/>
+expressive Argument, that the Messiah was come, viz. The<lb/>
+poor have the Gospel Preached unto them? And must it not seem<lb/>
+very strange, that Matters <normalised orig="shou'd" auto="true">should</normalised> be so inverted since he is<lb/>
+gone, and this very Gospel left to us in Writing, that it is<lb/>
+to be inspected now only by Doctors and Philosophers? Though<lb/>
+the Poor have the Gospel still Preached unto them; yet the use<lb/>
+of the Scriptures may well be <normalised orig="registred" auto="true">registered</normalised> to make up those defects<lb/>
+and imperfections which our Preaching now abounds <lb/>
+with, in respect of those more powerful and efficacious Institutions<lb/>
+of Christ and his Apostles.<lb/>
+I know none of us who are able to Convert Three Thousand<lb/>
+with a Sermon; nor indeed, can we pretend to enforce<lb/>
+any thing worthy of belief in you that hear us, but what<lb/>
+we our selves fetch from that Fountain of heavenly Wisdom,<lb/>
+which is the written Word of God: And then, why every<lb/>
+Man may not as well Read, as hear the Gospel read to him;<lb/>
+I leave to that blessed Spirit to determine, which <normalised orig="exhorteth" auto="true">exhorts</normalised> all<lb/>
+Men to search the Scriptures. No doubt, as God has given<lb/>
+us Reason to make us capable of Understanding, and Glorifying<lb/>
+his Divine Majesty, so has he given us his Scriptures also, <lb/>
+on purpose to exalt and englighten our Reason, and convince<lb/>
+us all of the reasonableness of our Religious Services; and I<lb/>
+confess, I see not how that Man can be able to pay his reasonable<lb/>
+Service to God, who has taken up a belief in him<lb/>
+without Reason; for let the Religion professed by such a Man<lb/>
+be never so Holy and Pure, and true in its self, still in respect<lb/>
+of such a Professor, this must be <normalised orig="own'd" auto="true">owned</normalised> rather to Chance and<lb/>
+Fortune, than such a choice and wisdom as may affirm with <lb/>
+the <normalised orig="Bless'd" auto="true">Blessed</normalised> Jesus, <quote type="biblical" ana="Jn 4.22">We know what we Worship</quote>: For without Knowledge,<lb/>
+there can be no Belief, and without Belief, no true<lb/>
+coming unto God: But further, what reasonable Satisfaction<lb/>
+can this be to any Man, to encourage him in his Perseverance<lb/>
+                  <pb n="14"/>
+                  <lb/>
+in his Religion in times of <normalised orig="Tryals" auto="true">Trials</normalised> and Temptations; to consider,<lb/>
+he has taken up his Religion by Chance, and though<lb/>
+he knows not why, yet still he is to be sure that he is in the<lb/>
+right. <lb/>
+But can any thing here touch the Proselytes of Rome, who, <lb/>
+without troubling Scripture or Reason for the confirmations<lb/>
+of their Evidence, tell us, they enjoy a far more infallible<lb/>
+Rock, and certainty of their Faith, to wit, the Voice and<lb/>
+Testimony of the Church. In truth, if we search into this<lb/>
+Rock, it will appear no other than that Sandy Foundation,<lb/>
+which was the choice of the foolish Builder: Let us reason the<lb/>
+Case with some Roman Votary: Does thy Church, <normalised orig="sayest" auto="true">say</normalised> thou,<lb/>
+tell thee thy Faith is true, then let me ask thee how thou<lb/>
+<normalised orig="knowest" auto="true">know</normalised> that the Church which tells thee so is true her self;<lb/>
+doest thou appeal to the Marks and Notes of a true Church,<lb/>
+then I demand again, how dost thou know what peculiar<lb/>
+Marks and Notes are the Marks and Notes of the true Church?<lb/>
+Or again, how is it become certain to thee, that all these<lb/>
+peculiar Marks and Notes do particularly fit and agree with<lb/>
+thy particular Church in all respects? He that gets over these<lb/>
+Questions without Scripture and Reason, must be Master of <lb/>
+more than a Jesuitical flight and artifice; for this must be to<lb/>
+judge of Notes without Judgment, to pronounce a conclusion<lb/>
+without Premises; for where the conclusion is the result of <lb/>
+Premises, there must needs be reasoning: Indeed, this can be <lb/>
+no other, than to reply, Why she is true, because she is true:<lb/>
+And yet I dare boldly affirm, they shall never be able to get<lb/>
+further in the certainty of Faith, who shall first reject the<lb/>
+Scriptures as to ambiguous and unintelligible; and then renounce<lb/>
+their Reason as a thing dangerous, and reducing all to<lb/>
+a private Spirit. But they are not brought to a stand yet,<lb/>
+they have behind a glorious reserve, they will still tell us they<lb/>
+have Councils and Fathers on their side; but to express the<lb/>
+weakness of this hold, how many Volumes of <normalised orig="Learn'd" auto="true">Learned</normalised> Protestants<lb/>
+                  <fw type="pageNum" n="16">15</fw>
+                  <pb n="15"/>
+                  <lb/>
+are there extant, which remain so many monuments<lb/>
+of the groundless vanity of their Plea from Fathers? and if<lb/>
+the four first general Councils may be <normalised orig="allow'd" auto="true">allowed</normalised> worthy of the<lb/>
+name of Councils, we <normalised orig="defie" auto="true">defy</normalised> the most Artificial Crafts men of <lb/>
+them all to produce thence but one line which may appear<lb/>
+serviceable to the cause of Popery.<lb/>
+But to leave this Contest with the Learned, must it not be ridiculous<lb/>
+in any unlearned Man to renounce the Scriptures, which were<lb/>
+written on purpose for his Instruction in Religion, and which<lb/>
+he may of himself be able both to read and understand, as to<lb/>
+all matters of belief and practice, and betake himself to pleas<lb/>
+from Fathers and Councils, when he is not able so much as<lb/>
+to tell the Letters of that Language in which those Fathers and<lb/>
+Councils were written, when he can be able to judge neither<lb/>
+when those Fathers writ, nor yet what one Opinion they<lb/>
+have left behind them: must there not be a much more rational <lb/>
+satisfaction from such a plain Text of Scripture as this,<lb/>
+                  <quote type="biblical" ana="Mt 26.27">Drink <normalised orig="ye" auto="true">you</normalised> all of this</quote>, to invite us to receive the Cup, than a<lb/>
+Thousand pretended Quotations from such Fathers and Councils<lb/>
+which the <normalised orig="unlearn'd" auto="true">unlearned</normalised> are able neither to disprove nor comprehend,<lb/>
+to affright us from the Cup, that we <normalised orig="shou'd" auto="true">should</normalised> be deceived<lb/>
+by the plain real truths of the Gospel: <normalised orig="'tis" auto="true">it is</normalised> impossible<lb/>
+but the real Doctrines of fallible Men will be liable to deceive<lb/>
+us. But after all, is not this to relapse and be found tampering<lb/>
+with the dangerous consequences of protestant reasoning, thus<lb/>
+to <normalised orig="alledge" auto="true">allege</normalised> Councils and Fathers: For why does any Man appeal<lb/>
+to Councils and Fathers fancies, he makes them the measures<lb/>
+of his belief, at least of the truth of that point in which<lb/>
+he appeals to them? <normalised orig="wou'd" auto="true">would</normalised> he believe as he does, if he apprehended<lb/>
+he had no reason from their authorities to believe so,<lb/>
+and then how does his Faith differ more from that of a private<lb/>
+                  <choice ana="illegible">
+                     <sic>j*gment</sic>
+                     <corr>judgment</corr>
+                  </choice>, than the Faith of a credulous Protestant, who declaies <lb/>
+he believes thus and thus, because he judges the Scriptures<lb/>
+<normalised orig="enjoyn" auto="true">enjoin</normalised> him to believe thus and thus; all the difference<lb/>
+                  <pb n="16"/>
+                  <lb/>
+that I can perceive between the two Churches here is this;<lb/>
+The one, to wit, the Papist, Reasons from the Testimonies<lb/>
+of fallible Men; but the other, namely, the Protestant, from <lb/>
+the assurances of the infallible Dictates of God's Holy Spirit.<lb/>
+That which here determines the Belief in both, is no doubt<lb/>
+one and the same thing, viz. Man's private Judgment, which<lb/>
+influences the one to believe so and so, and the other to believe<lb/>
+thus and thus, because it appears most reasonable to<lb/>
+them to believe so: And I appeal to any one of that Church,<lb/>
+whether he <normalised orig="wou'd" auto="true">would</normalised> thus absolutely give up his Faith to the<lb/>
+Church, did he not think he had great reason so to do; and<lb/>
+then again, whether that Man which owns thus much, does<lb/>
+not in great measure acknowledge himself a Judge of the<lb/>
+Principles of his Religion; let them talk what they will,<lb/>
+the Papist judges for himself as well as the Protestant; for<lb/>
+if we are said to judge, when we declare to believe the<lb/>
+Scriptures upon the authority of an Universal Tradition, may<lb/>
+not they be said to judge, when they declare they believe<lb/>
+in the Church, upon the single authority of her own<lb/>
+assertion?<lb/>
+If they please, they may deny what both they and we<lb/>
+do practice; and indeed, what is not only undeniable, but<lb/>
+what the very Voice and Commandment of God has <normalised orig="enjoyn'd" auto="true">enjoined</normalised><lb/>
+us to perform; in one place, directing us to try all<lb/>
+things, and hold fast that which is good; in another place,<lb/>
+believe not every Spirit, but try the Spirits whether they<lb/>
+be of God or no: Again, be <normalised orig="ye" auto="true">you</normalised> ready to render a reason<lb/>
+of the hope that is in you, nay, lastly, we have the express<lb/>
+approbation of our Saviour himself, telling us, <quote type="biblical" ana="Mk 7.14">If the <lb/>
+Blind lead the Blind, they shall both fall into the Ditch</quote>, and again<lb/>
+                  <quote type="biblical" ana="Lk 12.57">why of your selves judge <normalised orig="ye" auto="true">you</normalised> not what is right</quote>: Can<lb/>
+any thing be more clear, than that the Holy Ghost in these<lb/>
+places excites us to respect our own Judgment and Reason<lb/>
+in the choice of our Religion: For, how shall that Man be<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="18">D</fw>
+                  <pb n="17"/>
+                  <lb/>
+able to render a Reason of his hope, who makes a Profession<lb/>
+                  <choice ana="illegible">
+                     <sic>o*</sic>
+                     <corr>of</corr>
+                  </choice> a hope upon no Reason at all? How shall he judge the<lb/>
+Spirits that tries them not? Or again, how shall he make<lb/>
+<normalised orig="tryals" auto="true">trials</normalised>, who professes to use neither Judgment nor Reason<lb/>
+in matters of Religion? Nay, further, how comes our Saviour<lb/>
+to wonder so much, why, Judge not of your selves<lb/>
+what is right; if nothing be more disagreeable to true Righteousness,<lb/>
+than a Man's own private Conclusions and Judgment.<lb/>
+I say again, these Texts must refer to the <normalised orig="tryals" auto="true">trials</normalised> of Religion,<lb/>
+and therefore we may bid much good may do them<lb/>
+with their implicit Faith, which is as much as to declare<lb/>
+as to my Religion, I believe what I know not, and I know<lb/>
+not what I must believe; which is to approve the Spirits<lb/>
+without trying; and to conclude them to be of God, without<lb/>
+so much as enquiring what kind of Spirits they are of <lb/>
+which belong to God: Nay, which is apparently to profess<lb/>
+Doctrines, which <normalised orig="'tis" auto="true">it is</normalised> impossible they <normalised orig="shou'd" auto="true">should</normalised> render a Reason<lb/>
+of, for without knowledge there can be no Reason<lb/>
+given, and no Man will pretend to know that explicitly,<lb/>
+of which he professes purely an implicit Belief, nay, perhaps<lb/>
+which he understands not that he does believe, till the<lb/>
+Church upon an occasion rubs up his Faith and Memory,<lb/>
+and tells him he must, and he does believe it. I am sure<lb/>
+this is such a kind of Faith, which Christ himself detested to <lb/>
+impose; for we may observe, that he never recommended any<lb/>
+thing to the belief of the Jews, but what he still confirmed<lb/>
+with such Tokens as might convince the meanest Spectators<lb/>
+of its Truth; nay, we find he taught his Disciples many <lb/>
+essential Doctrines before his Death, which they believed<lb/>
+not, but did not Anathematize their incredulity, till they<lb/>
+became able to bear them, till they had beheld that most<lb/>
+convincing Demonstration then remaining, even the <choice ana="illegible">
+                     <sic>irresi*ble</sic>
+                     <corr>irresistible</corr>
+                  </choice>
+                  <lb/>
+sign of his Resurrection: Nay, that nothing of certainty<lb/>
+                  <pb n="18"/>
+                  <lb/>
+might be wanting to the satisfying the Reason of <lb/>
+Man, even after that glorious Demonstration, he humbly<lb/>
+condescended to let mistrustful Thomas thrust his Fingers into<lb/>
+the very holes of the Nails, and behold the Prints in<lb/>
+his Side. <lb/>
+Is here any thing like the imposition of an implicit<lb/>
+Faith, or such a groundless Belief as obliges us not only<lb/>
+to abandon our Reason with all the strongest <choice ana="illegible">
+                     <sic>Convictio*s</sic>
+                     <corr>Convictions</corr>
+                  </choice>
+                  <lb/>
+of our Senses, but also to renounce the helps even of the <lb/>
+inspired Writings of that blessed Comforter, which was<lb/>
+sent on purpose to lead us into all Truth: Since Christ himself<lb/>
+was pleased thus meekly to condescend in the giving <lb/>
+satisfaction to our Infirmities, what kind of relation can that <lb/>
+Church bear to him, which disdains a submission to an Examination,<lb/>
+either by Reason, or the blessed Rule of God's<lb/>
+own Word: I am sure it must be a shrewd sign, that that <lb/>
+Church, which makes this refusal, is <normalised orig="reconcileable" auto="true">reconcilable</normalised> neither<lb/>
+to Reason nor Scripture; for were she agreeable to either,<lb/>
+why <normalised orig="shou'd" auto="true">should</normalised> she so imperiously decline a <normalised orig="tryal" auto="true">trial</normalised> by the two <lb/>
+most Godlike Principles we are enriched with, which certainly<lb/>
+Scripture and Reason may be acknowledged to be; neither<lb/>
+can it be any great disgrace to the purest Church to <lb/>
+be made appear conformable to them. I confess, I can't but<lb/>
+admire the <normalised orig="subtilty" auto="true">subtlety</normalised> of the Church of Rome, in usurping<lb/>
+thus an Authority above all Examination, since her Definitions<lb/>
+of Faith are such, as far transcend the Explications either<lb/>
+of Scripture or Reason, the clearest measures which God<lb/>
+has left us to examine by: Is it not much the wisest way to <lb/>
+put off such Commodities by the Gross, which we are satisfied<lb/>
+won't bear a particular inspection? Is there not much<lb/>
+greater security to such a Cause in an implicit Faith, which<lb/>
+swallows down all at a lump, than such an explicit one as<lb/>
+may be curious and inquisitive, and desire the satisfaction of <lb/>
+Sense and Reason; I see no false step here on their Churches<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="20">D2</fw>
+                  <pb n="19"/>
+                  <lb/>
+side, in point of Carnal Prudence and Worldly Policy, but<lb/>
+methinks that must be an unintelligible Devotion indeed,<lb/>
+which does thus contentedly ensnare his Soul for a Pig in a <lb/>
+Poke, for what he is neither to scruple, nor yet to understand.<lb/>
+And thus you see upon what contradictory and <normalised orig="irreconcileable" auto="true">irreconcilable</normalised> <lb/>
+positions the Church of England and the Church<lb/>
+of Rome are founded at present: that they are as far from<lb/>
+one another as Scripture and no Scripture, Reason and no<lb/>
+Reason, Antiquity and Innovations, Truth and <normalised orig="Falshoods" auto="true">Falsehoods</normalised>;<lb/>
+and as the Churches stand at variance, so have the faithful<lb/>
+Members of our Church upon all occasions and opportunities<lb/>
+<normalised orig="appear'd" auto="true">appeared</normalised> in defiance of Rome's Corruptions; it is not<lb/>
+many years since most of us beheld, and all of us heard<lb/>
+with what steadiness and Devotion, with what Resignation<lb/>
+to the will of God, and disdain to the pollutions of Men, <lb/>
+the Members of our Church, like so many Illustrious Confessors<lb/>
+withstood the attempts and <normalised orig="sollicitations" auto="true">solicitations</normalised>, the <normalised orig="threatnings" auto="true">threatenings</normalised><lb/>
+and invitations of the <normalised orig="Whorish" auto="true">Whoorish</normalised> Woman: Withstood<lb/>
+them, I say, even then, when many of the Members of our<lb/>
+separate Congregations, who had before <normalised orig="shew'd" auto="true">showed</normalised> themselves<lb/>
+most <normalised orig="uneasie" auto="true">uneasy</normalised> in their fears of Popery, gave life and boldness<lb/>
+to her growing hopes, by their unseasonable Addresses<lb/>
+and Compliances. I speak not this with a desire to make advantages<lb/>
+of the weakness, or by way of insult over the <lb/>
+inconstancy of our fellow Christians now in Charity.<lb/>
+I <normalised orig="perswade" auto="true">persuade</normalised> my self they were rather <normalised orig="outreach'd" auto="false">outreached</normalised> by the <lb/>
+policies, than <normalised orig="debauch'd" auto="true">debauched</normalised> by the principles of Rome, and there<lb/>
+is nothing we ought all more heartily to pray for, or more religiously<lb/>
+endeavour than a mutual forgetfulness of all infirmities:<lb/>
+but I speak it with hopes, that as such Protestants<lb/>
+must acknowledge their error in siding with Popery then;<lb/>
+so they will blush when they upbraid our Church as a <lb/>
+Daughter of Babylon now: if Men <normalised orig="wou'd" auto="true">would</normalised> but credit their<lb/>
+own eyes, or give place to the arguments presented to their<lb/>
+                  <fw type="pageNum" n="21">20</fw>
+                  <pb n="20"/>
+                  <lb/>
+own understandings, we need not appeal to other than our<lb/>
+adversaries themselves, whether they can still believe our divine<lb/>
+service to be (what some people do ignorantly miscall <lb/>
+it) Popery in English, who remember the toleration and liberty<lb/>
+given to every Soul, to run as far out of our Church<lb/>
+and the found of its divine service as they pleased, managed<lb/>
+by the artifice set on foot, and <normalised orig="carry'd" auto="true">carried</normalised> on by the influence<lb/>
+of the Papists: if the way to Rome lies through a Communion <lb/>
+with our Church as such Men dream, how come the Romanists<lb/>
+(who are no strangers to their own interests) to seduce<lb/>
+Men out of our Communion as the readiest road to<lb/>
+Popery; had they seen with some <normalised orig="Mens" auto="true">Men's</normalised> eyes amongst us, and<lb/>
+found any thing in our Communion which looks kind and<lb/>
+serviceable to the cause of their own superstitions, <normalised orig="'tis" auto="true">it is</normalised> not<lb/>
+to be believed they <normalised orig="wou'd" auto="true">would</normalised> so <normalised orig="publickly" auto="true">publicly</normalised> have tempted all Men<lb/>
+out of our Communion, with the alluring promises of the<lb/>
+royal favour; I take that liberty and toleration then given<lb/>
+by the Papistry, to be so manifest an argument and declaration,<lb/>
+of that opposition which our Church, in every particular <lb/>
+of its constitution bears to Popery, which, as every eye<lb/>
+might discern it, so every well-meaning Man ought to be<lb/>
+convinced by it, and retract his censures. The Papists knew<lb/>
+well enough there <normalised orig="wou'd" auto="true">would</normalised> be no enlarging their own, without<lb/>
+first thining our Churches, that the Mass Book <normalised orig="cou'd" auto="true">could</normalised><lb/>
+make no advances, whilst the Common-Prayer stood in reputation;<lb/>
+that the only probability they <normalised orig="cou'd" auto="true">could</normalised> have of making<lb/>
+any Proselytes must be to get Men as far out of the<lb/>
+bosom of our Church as possible.<lb/>
+Methinks the pretences of some in separation from us, <choice ana="illegible">
+                     <sic>wh*</sic>
+                     <corr>who</corr>
+                  </choice>
+                  <lb/>
+reproach our service for Popish, and the practices of the Papists<lb/>
+who were for drawing all Men out of our Communion<lb/>
+as a bar to Popery, are very hard to be reconciled. The<lb/>
+Conclusion from such considerations must be this, Either the<lb/>
+Papists understand not what makes up the Popish Religion,<lb/>
+                  <pb n="21"/>
+                  <lb/>
+or the divine service of our Church, which they appeared so<lb/>
+eager to suppress and disgrace, can be no friend to Popery.<lb/>
+No, be not deceived my Beloved, the infamous names and<lb/>
+characters, such as <normalised orig="Schismaticks" auto="true">Schismatics</normalised>, <normalised orig="Hereticks" auto="true">Heretics</normalised>, and the like, which<lb/>
+they fasten upon us, and wherewith they attempt to blacken<lb/>
+the brightest services of all our holy ministrations; the continual<lb/>
+succession of Plots, Stratagems, and Intrigues, which<lb/>
+from Age to Age we have heard and seen formed by Papists<lb/>
+against our holy <normalised orig="reform'd" auto="true">reformed</normalised> Church, from the very first appearance<lb/>
+of its establishment, are and have been Arguments<lb/>
+sufficient to convince all Generations, of the irreconcilable<lb/>
+distance between the Doctrines of Rome, and the principles<lb/>
+of the Church of England: It must be astonishing therefore<lb/>
+to consider, what Sport and Pastime Rome makes of us after<lb/>
+all: when she still so far intoxicates our heads by her<lb/>
+snares of Division, wherewith she <normalised orig="lyes" auto="true">lies</normalised> in wait to deceive,<lb/>
+and shatters all the foundations of our wisdom and understanding,<lb/>
+by those winds of Doctrines which she has raised<lb/>
+and let loose amongst us, that we turn the wrath and disaffection<lb/>
+we profess to Popery, against that Church which<lb/>
+has in so many, in such illustrious instances manifested her<lb/>
+self the noblest <normalised orig="bulwork" auto="true">bulwark</normalised> against Popery, which we may<lb/>
+with modesty express to be the only terror and envy of the<lb/>
+Papists. Is not this the most formidable master-piece of<lb/>
+those deluders, to work up a <normalised orig="profess'd" auto="true">professed</normalised> enemy to such a<lb/>
+thoughtless zeal of indignation, as to make him fall foul upon<lb/>
+his friends, and under the pretence of wounding his enemy,<lb/>
+give the mortal stroke to his own strongest defence,<lb/>
+which must be the accomplishment of all those (<normalised orig="shou'd" auto="true">should</normalised> they<lb/>
+ever have their end, which God forbid) who labour to overthrow<lb/>
+the Church of England (whom Rome has ever treated<lb/>
+as her most deadly foe) in order to the reforming Religion<lb/>
+in such a manner wherein it may remain out of all danger<lb/>
+of Popery; this is such an undertaking wherein I am<lb/>
+                  <fw type="pageNum" n="23">22</fw>
+                  <pb n="22"/>
+                  <lb/>
+sure the hearts and hands of Romanists will never be wanting.<lb/>
+The most weak and feeble Animals are seldom to be caught<lb/>
+twice in the same <normalised orig="Ginns" auto="true">Gins</normalised>, neither will the silliest of Creatures<lb/>
+run with open Eyes upon the naked Toil; nay, is it not a <lb/>
+common proverbial Observation among us, that even the<lb/>
+burnt Child dreads the Fire? and shall we with our singed<lb/>
+Fingers catch at those flames of Disunion, wherewith our<lb/>
+Adversaries have so often reduced us to the most terrible Extremities,<lb/>
+wherewith in the last Age they had well nigh consumed<lb/>
+both us and our Religion? When we have so fatally<lb/>
+smarted under the Sting and Poison, shall we still hug and<lb/>
+cherish the Viper that breeds it? O no, let not us who really<lb/>
+wish well to the true Israel of God, who have experienced,<lb/>
+and must be abundantly sensible of the Uncleanness and<lb/>
+Abominations lodged in the inworks of Babylon; let not us,<lb/>
+I say, <normalised orig="fortifie" auto="true">fortify</normalised> her Walls by the works of our Hands, let us<lb/>
+not protest against her Pollutions, and at the same time do<lb/>
+the Drudgeries of her Tyranny; exclaim against her Superstitions,<lb/>
+and pull down the Holy Temple of God's Truth,<lb/>
+carry the name of Protestants and Reformists, and apply<lb/>
+all our Parts, and Wisdom, and Counsels in the undermining<lb/>
+the sacred foundations of that Protestant Church, which is<lb/>
+the most solid and beauteous Pillar in the Reformation; no,<lb/>
+I beseech you my Beloved, in the name of our Lord Jesus,<lb/>
+that <normalised orig="ye" auto="true">you</normalised> be rather <normalised orig="cloathed" auto="true">clothed</normalised> with Meekness, and like that glorious<lb/>
+Author and Finisher of our Faith, put on Bowels of<lb/>
+Love and Reconciliation, that this may appear before all the<lb/>
+World to be the true, natural and proper Character of an<lb/>
+English Protestant, That he is one, who is more large in his<lb/>
+Charities, and humble in his Censures, more compassionate to<lb/>
+his Brethren, and forgiving to his Enemies, more devoted to<lb/>
+God, and inseparable from the Services of his Church, than<lb/>
+all other Sects and Professions of Christians whatever. To<lb/>
+                  <fw type="pageNum" n="24">23</fw>
+                  <pb n="23"/>
+                  <lb/>
+conclude all, let not us, to whom God has vouchsafed the<lb/>
+inestimable Blessing of a right Knowledge and Faith in<lb/>
+Christ, suffer so glorious a Treasure to lie dead and languid,<lb/>
+and fruitless in our Souls for want of Works: Let us convince<lb/>
+the World of the Excellency of our Faith and Religion,<lb/>
+in the Uprightness and Purity of our Lives, always<lb/>
+bearing in our Minds this Description of the Holy Apostle,<lb/>
+in which he explains to us the end and intention of our<lb/>
+Christian Faith, saying, the Grace of God which <normalised orig="bringeth" auto="true">brings</normalised><lb/>
+Salvation, <normalised orig="hath" auto="true">has</normalised> appeared to all Men, teaching us, that denying<lb/>
+Ungodliness, and Worldly Lusts, we <normalised orig="shou'd" auto="true">should</normalised> live Soberly,<lb/>
+and Righteously, and Godlily in this present World.<lb/>
+                  <lb/>
+FINIS.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

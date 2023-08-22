@@ -1,0 +1,732 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermon against persecution</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="SaBo1649">Bold, Samuel</author>
+               <title type="main">
+A sermon against persecution. Preached March 26. 1682. Being the 4th Sunday in Lent (on Gal. 4. 29. Part of the Epistle for that Day) and the time when the Brief for the Persecuted Protestants in France was Read in the Parish Church of Shapwicke. And Now Published to the Consideration of Violent and Headstrong Men, as well as to put a stop to false Reports.
+</title>
+               <title type="short">Sermon against persecution</title>
+               <date when="1682">1682</date>
+               <date type="this_edition" when="1682">1682</date>
+               <idno type="Wing">B3488</idno>
+               <note type="genre" subtype="sermon">sermon</note>
+               <note type="sample" target="#SaBo1649_1682_sermon_1">p.6, l.19 - p.21, l.33</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="SaBo1649_1682_sermon_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+That the following part of my Discourse may be as plain and<lb/>
+easy to you as possible, I will reduce what I design to say on this<lb/>
+Subject, to these following Heads. 1. I will tell you what Persecution<lb/>
+is. 2. Name more particularly the Characters of them<lb/>
+that are Persecutors. 3. <normalised orig="Shew" auto="true">Show</normalised> you whence it is that wicked Men<lb/>
+are so violently set against the Godly. 4. I will make some brief<lb/>
+application of the whole.<lb/>
+I am first of all to tell you what Persecution is. And it is an<lb/>
+endeavouring to Trouble, Molest, Disturb, Kill, or any way Hurt<lb/>
+and Injure another Person on some Religious account. Every<lb/>
+Prosecution of a Person, is not properly Persecution, but only<lb/>
+when it is grounded on some Religious Affair. A Man may be<lb/>
+guilty of Sin in prosecuting another upon civil accounts, but this<lb/>
+Sin comes under another Denomination, as Oppression, Injustice,<lb/>
+unpeacable Brangling, &amp;c. Now Persecution is <choice ana="print">
+                     <sic>muchwhat</sic>
+                     <corr>much what</corr>
+                  </choice> the<lb/>
+same in Religion, that Oppression is in Civils. When Men will<lb/>
+not suffer others to enjoy that Liberty, and those Rights in Religion,<lb/>
+which either Nature or Revelation do allow them; but will<lb/>
+be severe against them, if in every accidental Matter, they will<lb/>
+not be just of their Mind. When Men do hale others to Tribunals,<lb/>
+                  <pb n="1"/>
+                  <lb/>
+and procure them either to be Punished in their Bodies, or<lb/>
+in their Estates; or to be deprived of their Lives, or civil<lb/>
+Liberties, because they either perform some Duty God has <normalised orig="expresly" auto="true">expressly</normalised><lb/>
+Commanded, in a way they do not approve, or because<lb/>
+they will not consent to, Embrace, and Comply with those Determinations<lb/>
+they have just reason to Believe are Sinful. Whilst<lb/>
+Men are not openly Wicked, but tho not free from common Infirmities,<lb/>
+which do unavoidably accompany humane Nature in<lb/>
+                  <choice ana="illegible">
+                     <sic>*his</sic>
+                     <corr>this</corr>
+                  </choice> frail Estate, yet free from Gross and Scandalous Sins, whilst<lb/>
+they deny not any Doctrine of Christianity, nor divulge any Tenet<lb/>
+to the Prejudice of Christianity, nor do any way endeavour<lb/>
+to disturb the Peace of the Government under which they live;<lb/>
+they have a right to a <normalised orig="peacable" auto="true">peaceable</normalised> and quiet Residence, and ought<lb/>
+to be free from any Molestation, tho they cannot in every accidental<lb/>
+thing attain to the same Latitude with others. Whoever<lb/>
+goes about to Disturb and Injure, or Contract on such as these,<lb/>
+Fines, or other Punishments, because they cannot receive and comply<lb/>
+with those supernumerary Conceits some do too much please<lb/>
+themselves with, and press with too much warmth on others, are<lb/>
+too <normalised orig="lyable" auto="true">liable</normalised> to this heavy Charge of Persecution. And if we only<lb/>
+consider what it is they are so concerned for, we may see too<lb/>
+much reason, to conclude they have no great Portion of Commendable<lb/>
+Properties. Wherefore I will now proceed to the<lb/>
+Second Point, which is to account to you some of their Characters<lb/>
+more particularly, or to <normalised orig="shew" auto="true">show</normalised> you what kind of People Persecutors<lb/>
+generally are. They are commonly observed to be the<lb/>
+worst, the most Brutish, and Degenerate part of Mankind. Consult<lb/>
+others, Read Histories, or Consider what you may Learn<lb/>
+from your own Observation; you will find them to come generally<lb/>
+under some very Scandalous, and Offensive Characters. They<lb/>
+are usually taken to be the very Pest of Society. It is almost as<lb/>
+dangerous to live amongst them, as amongst the Wild and Savage<lb/>
+Beasts of the Desert. They are a sort of <normalised orig="Tygers" auto="true">Tigers</normalised> and Lions,<lb/>
+the most Ravenous beasts of Prey with humane Visages.<lb/>
+Were the Pythagorian Notion of the Transmigration of Souls<lb/>
+received, the whole World would then conclude them nothing<lb/>
+but humane Carcases acted with Wolvish Breath. More particularly<lb/>
+they have some or all of these Characters and Qualities<lb/>
+attending them.<lb/>
+                  <pb n="2"/>
+                  <lb/>
+1. They are Men of a very Superstitious, Blind and Ignorant<lb/>
+Zeal. And there is no one thing that makes Men more formidable<lb/>
+and <normalised orig="Troublesom" auto="true">Troublesome</normalised>, than undue and mistaken Zeal. It is like<lb/>
+Fire when it meets with Gunpowder and other combustible Matter.<lb/>
+It devours all before it, and its Flames become unquenchable.<lb/>
+Superstitious Bigots place Religion in things, that are at<lb/>
+best but bare humane Inventions, many times, pure Diabolical<lb/>
+Suggestions; and then <normalised orig="Sathan" auto="true">Satan</normalised> to <normalised orig="ingulfe" auto="false">engulf</normalised> them further, <normalised orig="doth" auto="true">does</normalised> so<lb/>
+excite and irritate them, they contend and strive for these things,<lb/>
+as if Heaven, Soul, and Eternity were all at Stake; hence it is,<lb/>
+they represent all that are not of their Way and Mind, as the<lb/>
+greatest Criminals and Malefactors. No sooner do Men place<lb/>
+Religion where God <normalised orig="placeth" auto="true">places</normalised> none, but <normalised orig="Sathan" auto="true">Satan</normalised> obtains a great<lb/>
+Power and Influence over them, and at last hurries them headlong<lb/>
+into strange and wild Extravagancies in the Defence, and<lb/>
+for the Propagation of those Points. These are usually the most<lb/>
+fierce and barbarous of all other people. For it is usually observed<lb/>
+that Superstitious Men are very Fearful, and that the greatest<lb/>
+Cowards are most <normalised orig="Revengful" auto="true">Revengeful</normalised> and Cruel, if they can obtain an<lb/>
+Advantage. Paul's blind Zeal made him a Persecutor: He did<lb/>
+it Ignorantly. And our Saviour tells us of some that would kill<lb/>
+and murder Men, and flatter themselves with a <normalised orig="Perswasion" auto="true">Persuasion</normalised> that<lb/>
+they were therein doing God and Religion good Service.<lb/>
+2. They are Men of insufferable Pride and Malice, there is<lb/>
+an absolute Necessity, that some degree of that Popish Conceit<lb/>
+of Infallibility should prevail in all that are Persecutors, to reconcile<lb/>
+themselves to their own Practices; For who can be so absurd<lb/>
+and foolish, as to endeavour to <normalised orig="ruine" auto="true">ruin</normalised> others, because they<lb/>
+will not Believe or Practise what they themselves do <normalised orig="acknowledg" auto="true">acknowledge</normalised>,<lb/>
+they are not so certain concerning, but that it is possible they may<lb/>
+be in an <normalised orig="Errour" auto="true">Error</normalised> and Mistake? Those who are Persecutors do expect<lb/>
+all should yield to them, and take them for Oracles, and<lb/>
+if they be not thus received, they think the Affront is too great<lb/>
+to be endured, and therefore must be Revenged. Malice and Revenge<lb/>
+<normalised orig="hath" auto="true">has</normalised> generally a very great Influence on all Persecutions.<lb/>
+Your Persecutors are usually People, of a Haughty, <normalised orig="Curst" auto="true">Cursed</normalised>, and<lb/>
+Poisonous Nature, they love to be doing Evil: Their Delight<lb/>
+is to Hurt and Offend them, with whom God is Pleased. They are<lb/>
+                  <fw type="pageNum" n="9">8</fw>
+                  <pb n="3"/>
+                  <lb/>
+<normalised orig="canker'd" auto="true">cankered</normalised> and ill natured, and never pleased but when they have<lb/>
+an opportunity to <normalised orig="intrap" auto="true">entrap</normalised>, and make the Innocent fall. They<lb/>
+cannot bear Contradiction. Zedekiah was so impatient of Contradiction,<lb/>
+he no sooner hears Micaiah bring a different Message<lb/>
+from his, and discover how a lying Spirit was in the Mouths of<lb/>
+the other Prophets, but he falls upon Micaiah, and Buffets<lb/>
+him.<lb/>
+3. They are Men of desperate and broken Fortunes, or else<lb/>
+great Worshippers of Mammon. They do commonly take up<lb/>
+Informing, and Swearing, and Persecuting as a Trade to live by.<lb/>
+They scarce know how to subsist but by Preying on the Wealth,<lb/>
+and Estates, and Goods, of those honest, sober, religious People<lb/>
+they do Inform and Swear against. Men that are so lazy they<lb/>
+cannot Work, so luxurious they have not where withal to maintain<lb/>
+their Lusts, and of so ill and blasted a Fame and Reputation,<lb/>
+none dares trust them. These are indeed a fit sort of People<lb/>
+to Persecute the Righteous: They cannot Live unless some<lb/>
+or other fall by their means. There are two sorts of most abominable<lb/>
+and wicked Ways, Men have found out to maintain<lb/>
+themselves, and feed their Lusts by: The one is Robbing on the<lb/>
+High-way, and the other is Informing against, and Persecuting<lb/>
+the Righteous. Now those that apply to the latter Way, are<lb/>
+the most Infamous of the two; for as they are wicked enough,<lb/>
+to commit as great <normalised orig="Villanies" auto="true">Villainies</normalised> as the other dares, so they have not<lb/>
+Courage to adventure on such dangerous Courses, and to expose<lb/>
+themselves to so much Hazard for a <normalised orig="Livelyhood" auto="true">Livelihood</normalised> as the other do.<lb/>
+They think it easier to Swear, than Hector and <normalised orig="afright" auto="true">affright</normalised> Men out<lb/>
+of what they have. The wise Man seems to give a very lively<lb/>
+Description of these People in Prov. 4.16, 17. <quote type="biblical" ana="Prov 4.16">They sleep not<lb/>
+except they have done Mischief, and their sleep is taken away, unless<lb/>
+they cause some to fall</quote>, <quote type="biblical" ana="Prov 4.17">for they eat the Bread of Wickedness, and drink<lb/>
+the Wine of Violence.</quote>
+                  <lb/>
+If there be any Persecutors whose Fortunes are not altogether<lb/>
+so despicable and small, they are such as make a Mammon<lb/>
+their God; The Hopes of getting Wealth <normalised orig="doth" auto="true">does</normalised> very powerfully<lb/>
+irritate them to what they do: Was it not thirty pieces of Silver<lb/>
+that made Judas betray his Master? What is the Reason<lb/>
+Sinners do excite one another to <quote type="biblical" ana="Prov 1.11">wait for Blood, and to lurk privily<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="10">C</fw>
+                     <pb n="4"/>
+                     <lb/>
+for the Innocent without Cause?</quote> Is it not because <quote type="biblical" ana="Prov 1.13">they hope they<lb/>
+shall find all precious Substance, and shall fill their Houses with<lb/>
+Spoil?</quote>
+                  <lb/>
+4. They are <normalised orig="extreamly" auto="true">extremely</normalised> profligate and scandalous in their Lives.<lb/>
+Men that are very loose, <normalised orig="prophane" auto="true">profane</normalised>, and every way debauched:<lb/>
+Such as are common Swearers, Drunkards, Whoremongers, and<lb/>
+professed Enemies to every thing that is Serious, Holy, and Good.<lb/>
+Men that have prostituted themselves to every Lust and Wickedness,<lb/>
+that have no more of Religion than an outward Name,<lb/>
+being Atheists in their Hearts, and many times so in their Profession.<lb/>
+Such as think there is no Happiness but what agrees<lb/>
+with Epicurus's Conceit, making their Belly their God, and minding<lb/>
+nothing but the things of this World. Your ordinary forsworn,<lb/>
+and <normalised orig="perjur'd" auto="true">perjured</normalised> Wretches, are the People that do most commonly<lb/>
+seek a <normalised orig="Livelyhood" auto="true">Livelihood</normalised> by being <normalised orig="suborn'd" auto="true">suborned</normalised> to Swear against them<lb/>
+that fear the Lord. They that never scruple to tear the name of<lb/>
+God in Pieces, and to affront their Maker on every turn, by taking<lb/>
+his Name in Vain, who emboss every Word they speak, with<lb/>
+some dreadful Oath or other, who dare impudently swear a hundred<lb/>
+Oaths in an Hour, without any Provocation, these are the<lb/>
+fittest Men to Inform and Swear against, and endeavour their <normalised orig="Ruine" auto="true">Ruin</normalised>,<lb/>
+who have a Religious and truly Conscientious regard to the<lb/>
+Name of God, and every thing on which he <normalised orig="hath" auto="true">has</normalised> <normalised orig="stampt" auto="true">stamped</normalised> his Image.<lb/>
+No wonder such as these, should solemnly devote and<lb/>
+prostitute their Souls to Hell, by swearing even <normalised orig="falsly" auto="true">falsely</normalised> against others,<lb/>
+when they have the Temptation and <normalised orig="Incouragement" auto="true">Encouragement</normalised> of<lb/>
+getting Wealth and Riches, since they are so accustomed to affront<lb/>
+their Maker, they think they never speak <normalised orig="gentilely" auto="true">gently</normalised>, unless<lb/>
+they set their most high God at utmost Defiance, and do in Words<lb/>
+at length challenge him to Damn them. He that sets himself apart<lb/>
+to Sathan's Service by indulging to all the Lusts of the Flesh,<lb/>
+that can boast of his Drunkenness, and Uncleanness, of his frequent<lb/>
+Excesses, and every Days Debauch, that can unconcernedly,<lb/>
+or rather with Triumph speak of his Hopes and Desires of<lb/>
+being <normalised orig="Damn'd" auto="true">Damned</normalised> for ever, that Defiles the Air he speaks in, and offends<lb/>
+all he comes amongst with his prodigious Oaths, and Execrations:<lb/>
+This Man is ready prepared if an Occasion do offer it<lb/>
+self, or can by any means be obtained, to Swear a Conscientious,<lb/>
+                  <pb n="5"/>
+                  <lb/>
+Religious Man out of his Right, and himself into it. That<lb/>
+Man that will ordinarily <normalised orig="indanger" auto="true">endanger</normalised> his Soul, and Swear for nothing,<lb/>
+will much more do so, be it right or wrong, when he <normalised orig="hath" auto="true">has</normalised><lb/>
+the Temptation of Wealth, and it may be the Applause and<lb/>
+Commendation of great Men for his <normalised orig="Incouragement" auto="true">Encouragement</normalised>.<lb/>
+Having given this account of the two first Particulars: I shall<lb/>
+now inquire whence it is that wicked Men are such bitter and<lb/>
+inveterate Enemies against the Godly? Constant Experience is<lb/>
+an <normalised orig="undenyable" auto="true">undeniable</normalised> Proof of the Truth of it, for no Age <normalised orig="hath" auto="true">has</normalised> passed,<lb/>
+but the worst Men have <normalised orig="bin" auto="true">been</normalised> contriving and endeavouring to do<lb/>
+the Righteous some Displeasure. We need not consult Histories,<lb/>
+to Confirm what I am now treating of, for we may every<lb/>
+where take Notice of the Deplorable Truth and Certainty of it<lb/>
+amongst our selves. But from amongst the many Instances which<lb/>
+might be mentioned as having some influence in and concurring<lb/>
+to this, I will only name these few.<lb/>
+1. There is a desperate and deadly Enmity against Godlyness,<lb/>
+and so against good Men, rooted deeply in the Nature of wicked<lb/>
+Men. Ever since we lost the Image of God, we are <quote type="biblical" ana="Eph 2.3">by Nature<lb/>
+the Children of Wrath</quote>, not only as we are subject and <normalised orig="lyable" auto="true">liable</normalised><lb/>
+to the Wrath and Displeasure of God, but as we are of a wrathful,<lb/>
+furious, and <normalised orig="unreconcilable" auto="true">irreconcilable</normalised> Temper. We are naturally Enemies<lb/>
+not only to God, but to one another also. And it is to<lb/>
+be ascribed principally, rather wholly, to the wise Conduct and<lb/>
+Providence of God, that all Men are not constantly up in Arms,<lb/>
+and always endeavouring the utter Extirpation one of another.<lb/>
+But this Enmity is especially set against all Goodness. When<lb/>
+Man lost <normalised orig="Holyness" auto="true">Holiness</normalised>, he became a most violent Adversary to it.<lb/>
+As you observe when a Man <normalised orig="hath" auto="true">has</normalised> tasted of the good Word of<lb/>
+God, and the Powers of the World to come, if he apostatize, he<lb/>
+becomes the most Virulent and Implacable Enemy to it. So it<lb/>
+is with Man naturally since the Fall. The Devils that were such<lb/>
+pure and holy Angels, are now the greatest haters of <normalised orig="Holyness" auto="true">Holiness</normalised>.<lb/>
+Wicked Men are of a <normalised orig="Curst" auto="true">Cursed</normalised>, Envious, Malicious Temper, they<lb/>
+are of a Persecuting Nature, and have a great deal of Savageness<lb/>
+in their Temper; they are against <normalised orig="Holyness" auto="true">Holiness</normalised>, as being contrary<lb/>
+to their Nature, and thus become so violent against good Men.<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="12">C2</fw>
+                  <pb n="6"/>
+                  <lb/>
+Look at any Creature, you will find it <normalised orig="hath" auto="true">has</normalised> an aversion to those<lb/>
+things, which are of a contrary Nature, and if there be any thing<lb/>
+of Wildness, and Cruelty, and Savageness intermixed, then it<lb/>
+is extraordinary violent against those which are of the contrary<lb/>
+Nature. But those things which have not such a Savageness <normalised orig="Intermixt" auto="true">Intermixed</normalised>,<lb/>
+they only testify their aversion by a <normalised orig="peacible" auto="false">peaceable</normalised> withdrawing<lb/>
+themselves, not at all endeavouring the Destruction or Hurt<lb/>
+of the other. This is very apparent in the Wolf and the Lamb:<lb/>
+They delight not in the Society one of another, but the Lamb,<lb/>
+though of so contrary a Nature to the Wolf, <normalised orig="doth" auto="true">does</normalised> not seek the<lb/>
+Life or hurt of the Wolf; but the Wolf is not satisfied but with<lb/>
+the total Destruction of the Lamb. Nor is this only because the<lb/>
+Wolf <normalised orig="doth" auto="true">does</normalised> usually prey and feed on such Creatures, for then when<lb/>
+the Hunger were satisfied, that rapacious and fierce Temper<lb/>
+would cease. That Creature which is of a fierce and ravenous<lb/>
+Nature, will destroy and kill not only out of Necessity, but also<lb/>
+for Sport and Recreation. Thus wicked Men they are of a contrary<lb/>
+Nature to the Godly, and have much wildness and ravenousness<lb/>
+intermixed. They <quote type="biblical" ana="Prov 4.16">cannot sleep unless they make some to fall;</quote>
+                  <lb/>
+and therefore they are resembled to, and set forth by those Creatures<lb/>
+which are <normalised orig="wholy" auto="true">wholly</normalised> set upon destroying the Harmless and<lb/>
+Innocent. They <normalised orig="lye" auto="true">lie</normalised> lurking privily in their Den, that they may catch<lb/>
+the Righteous.<lb/>
+If you ask what the Reason is that the Righteous and Holy do<lb/>
+not Persecute the Wicked, as well as the Wicked do them, the<lb/>
+Nature of each being equally contrary to each other? I answer,<lb/>
+the Roughness and Severity of good <normalised orig="Mens" auto="true">Men's</normalised> Natures is taken away<lb/>
+by that sanctifying and altering Grace which is bestowed on<lb/>
+them, and for which they are so much hated by the other. The<lb/>
+new Nature conferred on them, <normalised orig="hath" auto="true">has</normalised> the harmlesness of the Dove<lb/>
+accompanying it. A sanctified Nature so far as under the Power<lb/>
+and Influence of Sanctification, <normalised orig="hath" auto="true">has</normalised> no Hatred, nor Envy, nor<lb/>
+Malice, nor any other Quality that is hurtful. It dares not hate<lb/>
+or hurt an Enemy.<lb/>
+And the true reason why ungodly Men do no more hurt to the<lb/>
+Righteous, is because God restrains them; he puts <quote type="biblical" ana="Isa 37.29">his Hook into<lb/>
+their Nose, and his Bridle into their Lips</quote>, and checks them.<lb/>
+Contrariety <normalised orig="causeth" auto="true">causes</normalised> their Aversion to the Godly, but it is<lb/>
+                  <pb n="7"/>
+                  <lb/>
+that fierceness which is intermixed, which <normalised orig="causeth" auto="true">causes</normalised> the Violence<lb/>
+of the Persecution; as you see <normalised orig="Tygers" auto="true">Tigers</normalised>, Wolves, Lions, and Bears,<lb/>
+do <normalised orig="persue" auto="true">pursue</normalised>, and kill, and devour Sheep, Lambs, and other Innocent<lb/>
+and Profitable Creatures, and as Hawks and Kites do fly after<lb/>
+and Prey on Turtle Doves and Pigeons, so do Wicked <normalised orig="outragious" auto="true">outrageous</normalised><lb/>
+Ungodly Men Persecute and Trouble the Just and Holy.<lb/>
+2. Their Natural Enmity is very much increased and excited<lb/>
+into act by very unjust Prejudices, which they imbibe and entertain<lb/>
+with Delight. A wicked persecuting Person and <normalised orig="rejoyceth" auto="true">rejoices</normalised> to<lb/>
+hear of any thing, which tends to the Defamation, and Disrepute<lb/>
+of one that is truly Religious. He <normalised orig="labors" auto="true">labours</normalised> to spread and<lb/>
+divulge it abroad, and aggravates every Mistake, and almost<lb/>
+unavoidable Infirmity, representing it as an hideous and unpardonable<lb/>
+Crime. Nay he usually attributes the Faults of some<lb/>
+particular Persons to the whole Profession. Thus the very Name<lb/>
+of a Pious Man is Odious and Insupportable to him; and he talks<lb/>
+as virulently against, and desires as vehemently the utter Destruction<lb/>
+of every one, how Harmless, Good, and Innocent <normalised orig="soever" auto="true">however</normalised>,<lb/>
+who comes under such a Denomination, as against the vilest Miscreant<lb/>
+and Criminal in the World, tho he never knew or heard<lb/>
+of any Hurt by the one, or any good by the other.<lb/>
+It may not be amiss to take notice now of a Sin, that prevails<lb/>
+exceedingly at this time amongst our selves; which is, that we<lb/>
+have disputed our selves into so much Wrath, such an <normalised orig="Aversness" auto="true">Averseness</normalised><lb/>
+and Enmity to one another, that Dissenters, and those who pretend<lb/>
+to the Church, can scarce <normalised orig="indure" auto="true">endure</normalised> the Names of one another,<lb/>
+unless some disgraceful and reproachful Term be annexed. Too<lb/>
+many of them are become such fierce Adversaries one against another,<lb/>
+that they have not only abandoned themselves from the<lb/>
+eminent Exercise of that Charity and mutual Forbearance, common<lb/>
+Christianity <normalised orig="doth" auto="true">does</normalised> very much <normalised orig="inforce" auto="true">enforce</normalised>, but they do with too<lb/>
+much Appetite listen and inquire after, and instead of mourning<lb/>
+for, do <normalised orig="rejoyce" auto="true">rejoice</normalised> and almost triumph in the Faults which particular<lb/>
+Persons on either side are <normalised orig="chargible" auto="false">chargeable</normalised> with; and which is<lb/>
+yet a greater Fault, they are too frequent in applying the Guilt<lb/>
+beyond its due extent.<lb/>
+By this means do those who are Corrupt, Carnal, and Sensual<lb/>
+on each side, <normalised orig="labor" auto="true">labour</normalised> to increase our Animosities, and<lb/>
+                  <fw type="pageNum" n="14">13</fw>
+                  <pb n="8"/>
+                  <lb/>
+make our Divisions wider and more unhealable.<lb/>
+But it is most of all deplorable, that the Malignity and Poison<lb/>
+of this course, seems to diffuse and spread it self amongst<lb/>
+them who have given undeniable and prodigious Evidences of<lb/>
+extraordinary Learning, and sometimes of very great and deservedly<lb/>
+imitable Moderation and Equanimity: Which discovers<lb/>
+that when People do apply themselves to advance any Party<lb/>
+with undue Warmth, they forget to observe that Decorum, they<lb/>
+have formerly commended to the World, and are too easily induced<lb/>
+to use the meanest Arts in depressing the Cause they oppose.<lb/>
+It is certainly very unbecoming and unworthy of Men of great<lb/>
+Learning, <normalised orig="Holyness" auto="true">Holiness</normalised>, and Gravity to <normalised orig="indeavour" auto="true">endeavour</normalised> to defame all<lb/>
+that are of the contrary <normalised orig="Perswasion" auto="true">Persuasion</normalised>, by suggesting to the World<lb/>
+evil Surmises and Opinions concerning all in general, by reporting<lb/>
+infamous Stories which concern only some few in particular:<lb/>
+for besides the Injury they themselves do by this Means to those<lb/>
+that are Innocent; they both Countenance the unjust Methods<lb/>
+the worst of Men do use in decrying those they are against, and<lb/>
+they furnish them with Materials to carry on their Design.<lb/>
+This <normalised orig="hath" auto="true">has</normalised> <normalised orig="bin" auto="true">been</normalised> an ancient Method, People have used to revenge<lb/>
+themselves on the Innocent. <quote type="biblical" ana="Jer 20.10">Report say they, and we will<lb/>
+Report.</quote> Do but either start any one Story that is real, with relation<lb/>
+to some Particulars, or <normalised orig="fraim" auto="false">frame</normalised> and coin a Story that will appear<lb/>
+Plausible, and let it once take Air, and we will soon help to<lb/>
+transmit it further, and by this means we <quote type="biblical" ana="Jer 20.10">shall take our Revenge<lb/>
+on them.</quote>
+                  <lb/>
+But what a dreadful Blow would be given to Christianity in<lb/>
+the Opinion of its professed Enemies, should all Parties <normalised orig="labor" auto="true">labour</normalised> to<lb/>
+rake together the foul and enormous Offences of particular Persons<lb/>
+amongst those they do Oppose, and then publish them to<lb/>
+the World, as what the whole Party <normalised orig="doth" auto="true">does</normalised> either approve, or may<lb/>
+justly be charged with?<lb/>
+There is no doubt but this Church (tho it's Government and<lb/>
+Constitution be so pure, justifiable, and Consonant to Apostolical<lb/>
+Practice) would suffer very much, should but the almost Ordinary<lb/>
+mis-carriages of a great number who pretend to the Clergy<lb/>
+be exposed to <normalised orig="publick" auto="true">public</normalised> view; with an account of the <normalised orig="Incouragement" auto="true">Encouragement</normalised><lb/>
+                  <pb n="9"/>
+                  <lb/>
+they meet with, or at least how free they are from Threats<lb/>
+and Molestations, whilst others who lead better Lives, and are<lb/>
+more constant and diligent Preachers, and do express on all Occasions<lb/>
+more of that Charity and Forbearance towards all men,<lb/>
+which Christianity <normalised orig="doth" auto="true">does</normalised> so much commend and <normalised orig="inforce" auto="true">enforce</normalised>, are<lb/>
+frowned upon, and left open to the Rage and Fury of besotted<lb/>
+<normalised orig="Frantick" auto="true">Frantic</normalised> and <normalised orig="Debauch'd" auto="true">Debauched</normalised> Bigots. There is no defence against unjust<lb/>
+Prejudice.<lb/>
+3. They apprehend, that the strict and Holy Lives of Religious<lb/>
+men do very much reproach their lewd and vicious Courses.<lb/>
+At least they find that their pure and Holy Doctrines do occasion<lb/>
+them anguish and unquietness, disturbance and trouble in the<lb/>
+perpetrating of their beloved <normalised orig="Wickednesses" auto="true">Wickedness</normalised>. Why could not<lb/>
+Herodias suffer John Baptist to keep his Head any longer? It was<lb/>
+because she could not live quietly in her uncleanness with her<lb/>
+Husbands brother, whilst he was still Preaching to Herod, that <quote type="biblical" ana="Mt 14.4">it<lb/>
+was not lawful for him to have her.</quote> Indeed there is not any thing<lb/>
+<normalised orig="doth" auto="true">does</normalised> more effectually discover the horrid <normalised orig="Loathsomness" auto="true">Loathsomeness</normalised> of wicked<lb/>
+<normalised orig="mens" auto="true">men's</normalised> Lusts and Practices, than the <normalised orig="Chast" auto="true">Chaste</normalised>, Holy, and strict<lb/>
+Conversations of Pious men. And therefore they are so much<lb/>
+against them, even because their Doctrines and Lives do so much<lb/>
+reprove their wicked Works of darkness.<lb/>
+4. Holy men are carrying on a different work from that which<lb/>
+ungodly <normalised orig="lew'd" auto="true">lewd</normalised> men are Designing and Acting. They are servants<lb/>
+to different Masters, and therefore it is not to be expected they<lb/>
+should accord very well. The good Man's work <normalised orig="doth" auto="true">does</normalised> defeat<lb/>
+and Ruin the Sinners, and therefore he is against him, and <normalised orig="doth" auto="true">does</normalised><lb/>
+persecute him all he can, because he belongs not to his Company,<lb/>
+but is labouring to destroy his masters Kingdom, and overthrow<lb/>
+what he esteems his own greatest Interest. <quote type="biblical" ana="Jn 15.19">If <normalised orig="ye" auto="true">you</normalised> were of the<lb/>
+World the World would love his own, but because <normalised orig="ye" auto="true">you</normalised> are not of the World,<lb/>
+but I have chosen you out of the World, therefore the World <normalised orig="hateth" auto="true">hates</normalised> you.</quote>
+                  <lb/>
+5. This proceeds many times from a very strong and Powerful<lb/>
+impulse of Satan. As wicked men are his Slaves and doing<lb/>
+his Work, so he <normalised orig="doth" auto="true">does</normalised> irritate and excite in a special manner to<lb/>
+this very instance of Persecuting the Godly. The Devil thinks<lb/>
+he has most work done when the greatest number of <choice ana="typeset-error">
+                     <sic/>
+                     <corr>Righteous</corr>
+                  </choice>
+                  <lb/>
+men fall: And he concludes that if he could by his Instruments<lb/>
+                  <pb n="10"/>
+                  <lb/>
+absolutely suppress the Righteous, he should Reign and Triumph<lb/>
+in the World without any Opposition. The Devil <quote type="biblical" ana="Eph 2.2">Rules<lb/>
+in the hearts of the Children of Disobedience.</quote> And it is worth our<lb/>
+Observation, that immediately before Judas went to the High-Priest,<lb/>
+&amp;c. to inform against and betray his Master, it is said <quote type="biblical" ana="Jn 13.27">the<lb/>
+Devil <normalised orig="entred" auto="true">entered</normalised> into him</quote> So that one main instance, whence it is that<lb/>
+wicked People do persecute the Righteous, is because the Devil is in<lb/>
+them. The Devil <normalised orig="doth" auto="true">does</normalised> as truly possess, Act, and govern them<lb/>
+that persecute the Righteous, as he did those that were called<lb/>
+Demoniacks, when our Saviour was upon Earth. And tho he do<lb/>
+not cause them now to Tear and Rent, and Torture themselves,<lb/>
+as they did then, yet he has a more dreadful Influence on their<lb/>
+Souls, and <normalised orig="indangers" auto="false">endangers</normalised> them much more as to their spiritual and<lb/>
+final Estate.<lb/>
+I am now in the last place to apply what has been discoursed<lb/>
+concerning Persecution; and will do it in a few Words.<lb/>
+1. For the support and <normalised orig="Incouragement" auto="true">Encouragement</normalised> of the Righteous, when<lb/>
+Persecuted and in distress. Take care that the reproaches and<lb/>
+Violences of the ungodly do not <normalised orig="afright" auto="true">affright</normalised> you from your uprightness,<lb/>
+nor shake your <normalised orig="stedfastness" auto="true">steadfastness</normalised>. Those storms and <normalised orig="rufling" auto="false">ruffling</normalised><lb/>
+Winds, their Threats and Menaces, should not break or overthrow<lb/>
+you, but should rather have the same Influence on you,<lb/>
+that blasts and Tempests have on firm and thriving Trees, whilst<lb/>
+they break and overturn those that are Rotten and weak, they<lb/>
+do only cause the other to take deeper and faster Root.<lb/>
+This is no more than what you must expect, and what every<lb/>
+good man ought daily to prepare for. He that is resolved for<lb/>
+Heaven <quote type="biblical" ana="Acts 14.22">must go through many Tribulations</quote>; you are warned of such<lb/>
+Treatment before-hand. Our Saviour has dealt so plainly with<lb/>
+all his followers in this particular, that it is one great part of a<lb/>
+Christians work to live <normalised orig="alway" auto="true">always</normalised> in Expectation of those things that<lb/>
+so he may not be <normalised orig="surprized" auto="true">surprised</normalised> when they come. We have our every<lb/>
+days Cross to wait for, and must be willing to take it up; and<lb/>
+bear it away with Cheerfulness, when ever it comes. We have<lb/>
+not the clearest and most unquestionable Evidences of the Truth,<lb/>
+at least the Power of Christianity in and over us, till we can Cheerfully<lb/>
+part with and resign up all, yea with Triumph bear away<lb/>
+Reproaches, and Fears, and false Accusations, till we can lay<lb/>
+                  <pb n="11"/>
+                  <lb/>
+down our very Lives <normalised orig="rejoycing" auto="true">rejoicing</normalised> for Christ, his Gospel, and<lb/>
+Religion, if occasion be.<lb/>
+And if God sees fit to bring you to the <normalised orig="Tryal" auto="true">Trial</normalised>; it is that you<lb/>
+may have the stronger assurance of your unfeigned Love to him,<lb/>
+and unconquerable interest in him. And that you may display<lb/>
+the Efficacy and Beauty of Religion unto the World in the most<lb/>
+undeniable and Constraining instances. The Persecutions <choice ana="illegible">
+                     <sic>*f</sic>
+                     <corr>of</corr>
+                  </choice> the<lb/>
+first Christians gained Christianity a great Repute, and <choice ana="illegible">
+                     <sic>*ade</sic>
+                     <corr>made</corr>
+                  </choice>
+                  <lb/>
+such an entrance for it into the World, as could never be <normalised orig="stopt" auto="true">stopped</normalised><lb/>
+up or <normalised orig="hindred" auto="true">hindered</normalised>, till Sloth, Carnality, and Superstitious conceits<lb/>
+had corrupted the Minds and Lives of it's Professors, and this<lb/>
+<normalised orig="happ'ned" auto="true">happened</normalised> after they were <normalised orig="burthened" auto="true">burdened</normalised> and over-loaded, with Honours,<lb/>
+Ease, Preferments, and a multitude of unnecessary, and<lb/>
+Superfluous outward Accommodations.<lb/>
+The Saints and people of God have met with the same Treatment<lb/>
+in all Ages. This has been their Lot and Portion, when<lb/>
+they have lived amongst wicked loose People. And we generally<lb/>
+find that they took great Satisfaction in it. Our blessed Saviour<lb/>
+was used thus himself. How was he reviled, scorned, <normalised orig="reproach't" auto="true">reproached</normalised>,<lb/>
+falsely accused, Spit upon, <normalised orig="Buffetted" auto="true">Buffeted</normalised>, <normalised orig="Whipt" auto="true">Whipped</normalised>, and at<lb/>
+last disgracefully Crucified, by a degenerate inhumane People?<lb/>
+You see the greatest and most absolute Innocence is not safe,<lb/>
+from the Malicious rage, and violence of ungodly men. The<lb/>
+Apostles presently after, were served in the same manner. And<lb/>
+when they were Scourged, to render them a <normalised orig="publick" auto="true">public</normalised> scorn and<lb/>
+reproach they went away <normalised orig="rejoycing" auto="true">rejoicing</normalised>, that they were counted<lb/>
+worthy to be thus used for Christ. It is one part of the Vocation<lb/>
+you are called to, to suffer for Christ: Phil 1.29. The more<lb/>
+that wicked men do Load you with Contumelious <choice ana="illegible">
+                     <sic>La*<normalised orig="guage" auto="true">gauge</normalised></sic>
+                     <corr>Language</corr>
+                  </choice>, and<lb/>
+oppressive Fines and Mulcts, or do inflict on you Corporal Punishments<lb/>
+and Torments, the more they do to raise you to the<lb/>
+Likeness of the blessed Jesus.<lb/>
+And indeed it is not the least matter of <normalised orig="rejoycing" auto="true">rejoicing</normalised>, that they<lb/>
+who Persecute you, are only such as are <quote type="biblical" ana="Gal 4.29">born after the Flesh.</quote> Your Enemies,<lb/>
+are they that are Enemies to God and Christ; worldly,<lb/>
+sensual, <normalised orig="Devillish" auto="true">Devilish</normalised> men, <quote type="biblical" ana="Phil 3.18-19">who glory in their Shame, who make their<lb/>
+Belly their God, who are Enemies to the Cross of Christ; and whose end<lb/>
+is Destruction.</quote> It is a much greater disgrace, to be respected and<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="18">D</fw>
+                  <pb n="12"/>
+                  <lb/>
+spoken well of, by such as these, than to have them always spitting<lb/>
+out their Venom, and darting forth their forked Tongues<lb/>
+and Stings against you: They will speak well of none but such as<lb/>
+are infected with their Disease. They that are the spawn of Satan,<lb/>
+will undoubtedly have ill will to the Children of God.<lb/>
+But what a <normalised orig="rejoycing" auto="true">rejoicing</normalised> is it, that by this very means, you are<lb/>
+so particularly assured of a most glorious <normalised orig="Recompence" auto="true">Recompense</normalised>: Besides<lb/>
+the inexpressible Consolation, God will secretly Communicate at<lb/>
+present, he has provided, and in a special manner promised Incomprehensible<lb/>
+Felicities hereafter. Mat 5.10, 11, 12. 1 Pet. 4.14.<lb/>
+But then you must be sure that what you suffer for, be the cause<lb/>
+of Christ. Let it be true and real Religion, Conscience indeed,<lb/>
+and not any groundless <normalised orig="Phancy" auto="true">Fancy</normalised>, unreasonable <normalised orig="Humor" auto="true">Humour</normalised>, or unaccountable<lb/>
+Resolution and <normalised orig="stubborness" auto="true">stubbornness</normalised> you suffer for. Especially<lb/>
+beware <quote type="biblical" ana="1 Pet 4.15">that none of you suffer as a Murderer, or as a Thief, or as an<lb/>
+Evildoer, or as a <normalised orig="busie" auto="true">busy</normalised> Body in other <normalised orig="mens" auto="true">men's</normalised> Matters.</quote> These are the<lb/>
+faults and Characters of Persecutors themselves, and for these<lb/>
+things men ought to suffer. See that your Consciences be clear<lb/>
+and well informed. Take care to understand the thing you contend<lb/>
+for. Weigh your Opinions and your Practices in the <normalised orig="Ballance" auto="true">Balance</normalised><lb/>
+of the Sanctuary. Be sure your cause be Good, and then if you are<lb/>
+Persecuted and do suffer, come under what Denomination you<lb/>
+will, and let your Persecutors be who they will, of how great<lb/>
+Power and Authority so ever, I dare and will pray that <quote type="biblical" ana="Gal 6.16">Peace may<lb/>
+be upon you, and upon the whole Israel of God.</quote> It is the cause that<lb/>
+makes the Martyr, tho it is not <normalised orig="alway" auto="true">always</normalised> the cause that makes the<lb/>
+Persecutor.<lb/>
+2ly. Let this caution you, that you be not guilty of this Sin.<lb/>
+It will be found at last, a very dreadful thing to be a Persecutor;<lb/>
+for by this means you become fighters against God. And dare<lb/>
+<normalised orig="ye" auto="true">you</normalised> resolutely <quote type="biblical" ana="1 Cor 10.22">Provoke the Lord to <normalised orig="jealousie" auto="true">jealousy</normalised>,</quote> are <normalised orig="ye" auto="true">you</normalised> <quote type="biblical" ana="1 Cor 10.22">stronger than he?</quote>
+                  <lb/>
+Did ever any set themselves against God and prosper? The Lord<lb/>
+Jesus <normalised orig="doth" auto="true">does</normalised> take what is done to his Followers and Disciples, as<lb/>
+done to himself. And he will terribly avenge himself of the Adversaries<lb/>
+and Destroyers of his People. You cannot hurt the People<lb/>
+of God, but you offend and pierce God himself in <quote type="biblical" ana="Zech 2.8">the Apple<lb/>
+of his Eye.</quote>
+                  <lb/>
+                  <quote type="biblical" ana="Lk 18.7-8">And will not God (think you) avenge his own Elect which<lb/>
+cry day and night unto him? I tell you he will avenge them speedily.</quote>
+                  <lb/>
+                  <pb n="13"/>
+                  <lb/>
+It were better for you, you had never been born or that some<lb/>
+fatal, and miserable stroke had ended your Lives, as soon as you<lb/>
+saw the Light, than that you should live to be Persecutors. Mat<lb/>
+18.6. have not Persecutors <normalised orig="alway" auto="true">always</normalised> come to some fearful end?<lb/>
+If you would not pull down divine Vengeance on your own<lb/>
+Heads, if you would not make your selves and your Posterity infamous<lb/>
+to all Generations, by inheriting the most dreadful Curses<lb/>
+on your Bodies, your Estates, and all your Interests and Concerns,<lb/>
+if you would not be the general abhorrence of mankind,<lb/>
+if you would not Rot away <normalised orig="Peice-meal" auto="false">Peace-meal</normalised> whilst you are alive, if<lb/>
+you would not be your own unpitied Executioners, if you would<lb/>
+not be filled with Horror and Consternation by reason of a<lb/>
+Wounding, Terrifying and accusing Conscience, if you would<lb/>
+not Purchase to your selves the hottest Climate and Region in the<lb/>
+infernal Pit, but can be content with an ordinary Damnation, if<lb/>
+you have no desire to be the worst, the most miserable, the most<lb/>
+Contemptible, of all that shall inherit everlasting burnings, take<lb/>
+heed of this Sin. The Devil never feasts so deliciously, as when<lb/>
+served with Persecutors and Informers.<lb/>
+How variously and strangely has God testified his Displeasure<lb/>
+and Wrath against Persecutors? Whole Volumes might be<lb/>
+filled with bare Relations. Those Judgments have been inflicted<lb/>
+on them, to make them a scorn an abhorrence, and a warning<lb/>
+to Posterity, which were never known, or heard of in the World,<lb/>
+till they were <normalised orig="punish't" auto="false">punished</normalised> and made infamous by them.<lb/>
+And if you be Persecutors God has the same, and greater<lb/>
+Plagues and Judgments in store for you.<lb/>
+I know there are few who apply themselves to this Course,<lb/>
+but they flatter themselves, and endeavour to <normalised orig="satisfie" auto="true">satisfy</normalised> others,<lb/>
+with some or other false and pretended Excuses. But alas what<lb/>
+will these avail you, whilst they are so Thin and Hollow not only<lb/>
+the All-seeing-God, but the ordinary sort of People can see<lb/>
+thorough them? Unless the cause be too black and horrid to obtain<lb/>
+the Patronage of Hell, or the Actors be sordid and scandalous<lb/>
+enough to make the Devil ashamed of them, he will furnish<lb/>
+with some pretence to palliate and gloss the Fact.<lb/>
+But it is not enough that you have something to Plead and<lb/>
+say in your own defence amongst men, unless it be what will be<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="20">D2</fw>
+                  <pb n="14"/>
+                  <lb/>
+warranted and approved by the judge of all, for if you could so<lb/>
+varnish the severity you use to others, as to obtain the <normalised orig="favorable" auto="true">favourable</normalised><lb/>
+opinion of the generality of men concerning it, what will<lb/>
+this avail you, if when you appear before the great Tribunal,<lb/>
+you be found amongst Persecutors? All false Colours, and meretricious<lb/>
+Paint will then disappear.<lb/>
+Now to secure you from this danger, it will be needful to have<lb/>
+a constant regard to these two Rules.<lb/>
+1. Have nothing to do with hurting, or contracting damages<lb/>
+on any serious, upright, Conscientious Christian. Be not accessory<lb/>
+for a World to the <normalised orig="Ruine" auto="true">Ruin</normalised>, or needless prejudice of any one, who<lb/>
+stands fast in the faith of Christ. Those who agree with us in all<lb/>
+the Substantials of Religion, and add no dangerous or Destructive<lb/>
+Tenet to these, who are Holy, Sober, <normalised orig="Chast" auto="true">Chaste</normalised>, Temperate, Righteous,<lb/>
+Compassionate and merciful, and who no way <normalised orig="indeavour" auto="true">endeavour</normalised> to<lb/>
+disturb the <normalised orig="publick" auto="true">public</normalised> peace, but are Vigorous Protestants, and resolute<lb/>
+opposers of the common Enemies of our Religion, and Civil<lb/>
+Rights, they ought (especially considering our present Circumstances)<lb/>
+to be so far from being Persecuted and oppressed,<lb/>
+as to have all the <normalised orig="Incouragement" auto="true">Encouragement</normalised> and Countenance that pious<lb/>
+Christians, and Loyal Subjects can claim and deserve. Do not<lb/>
+hurt, persecute, or revile any, whom you have reason to believe<lb/>
+the Lord Jesus will own, approve and honour. Will Christ ever<lb/>
+thank men at the great day for keeping such out from Communion with his<lb/>
+Church, whom he will vouchsafe not only Crowns of Glory to, but it may<lb/>
+be Aureola too, if there be any such thing there? <lb/>
+It had been well for Pilate, if he had hearkened to that seasonable<lb/>
+message, <quote type="biblical" ana="Mt 27.19">have thou nothing to do with that just men.</quote>
+                  <lb/>
+2. Take heed of, and avoid the very appearances of this Sin.<lb/>
+Keep at as great a distance from it, as possible. Do not Cherish in<lb/>
+your minds, any thing that may <normalised orig="ingage" auto="true">engage</normalised>, or incline to it. Cast away<lb/>
+all unjust Prejudices, <normalised orig="Mortifie" auto="true">Mortify</normalised> Wrath and Anger: and shut<lb/>
+your Ears against them that would incense you against those, you<lb/>
+differ from, by reporting false and malicious stories of them.<lb/>
+Supposing it could not properly be called Persecution to prosecute,<lb/>
+and be severe with People about those things, which you<lb/>
+are satisfied in your own minds, God has not <normalised orig="concern'd" auto="true">concerned</normalised> himself<lb/>
+about, either by Commanding or forbidding them, yet your Ruining,<lb/>
+                  <pb n="15"/>
+                  <lb/>
+or making others suffer extremely for these things, whilst<lb/>
+they have other apprehensions either of the Nature or use<lb/>
+of them, will unavoidably look too like Persecution (I think)<lb/>
+for a serious Compassionate Christian to tolerate himself in.<lb/>
+This seems not to have any of that Meekness, <normalised orig="Condescention" auto="true">Condescension</normalised>,<lb/>
+and Forbearance our Religion <normalised orig="doth" auto="true">does</normalised> so expressly and so vehemently<lb/>
+<normalised orig="inforce" auto="true">enforce</normalised>.<lb/>
+Nay your addicting your selves to such Courses will <normalised orig="indanger" auto="true">endanger</normalised><lb/>
+the <normalised orig="indearing" auto="true">endearing</normalised> of a rough, <normalised orig="sowre" auto="true">sour</normalised>, and unpeaceable temper to you.<lb/>
+And it may be it will at last hurry you, into such Exorbitances, as<lb/>
+you did not at first either Design, or think of; nay which will amount<lb/>
+to inexcusable and down-right Persecution.<lb/>
+This will certainly make way for your entertaining very unjust<lb/>
+Prejudices against others. It will lay you <normalised orig="lyable" auto="true">liable</normalised> to greater Transports<lb/>
+in your Passions. It will expose you to more and stronger<lb/>
+Temptations, than you are at first aware of, it will lay you open<lb/>
+to the wiles of Satan, that cunning Adversary, and great<lb/>
+destroyer of the Godly.<lb/>
+Nay it is probable enough, that when those Christian Sentiments<lb/>
+and Resolves, you do at present retain, are a little worn<lb/>
+off, and by disuse become feeble, the very desire and ambition<lb/>
+of acquaintance with men of Power and Repute, who are Enemies<lb/>
+to Protestants as such, may <normalised orig="ingage" auto="true">engage</normalised> you in those Practices,<lb/>
+which both your deceitful Hearts and the better hopes of others,<lb/>
+made you believe you should for ever detest.<lb/>
+Satan very seldom Attempts to draw any man to direct Persecution<lb/>
+at first; He only leads them at first to the out-skirts, and<lb/>
+Fleshes them by degrees. But when he has once brought men to<lb/>
+take Pleasure in seeing others suffer, tho not for real Religion, the<lb/>
+sweetness of Blood, or the Satisfaction of getting Wealth, or<lb/>
+the Honour of being caressed by great men, will <normalised orig="indanger" auto="true">endanger</normalised> to<lb/>
+<normalised orig="qualifie" auto="true">qualify</normalised> them to undertake with unconcernedness and Triumph<lb/>
+the most barbarous and inhumane Persecutions imaginable.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

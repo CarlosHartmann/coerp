@@ -1,0 +1,1817 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Plaine" auto="true">Plain</normalised> mans Path-way to <normalised orig="Heauen" auto="true">Heaven</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ArDe1607d">Dent, Arthur</author>
+               <title type="main">
+The <normalised orig="plaine" auto="true">plain</normalised> mans Path-way to <normalised orig="Heauen" auto="true">Heaven</normalised>. Wherein <normalised orig="euery" auto="true">every</normalised> man may clearly see, whether he shall be <normalised orig="saued" auto="true">saved</normalised> or damned. Set forth Dialogue-wise, for the better <normalised orig="vnderstanding" auto="true">understanding</normalised> of the simple.
+</title>
+               <title type="short"><normalised orig="Plaine" auto="true">Plain</normalised> mans Path-way to <normalised orig="Heauen" auto="true">Heaven</normalised></title>
+               <date when="1601">1601</date>
+               <date type="this_edition" when="1601">1601</date>
+               <idno type="STC">6626.5</idno>
+               <note type="genre" subtype="catechism">catechism</note>
+               <note type="sample" target="#ArDe1607d_1601_catechism_1">p.3, l.14 – p.23, l.23</note>
+               <note type="sample" target="#ArDe1607d_1601_catechism_2">p.352, l.29 – p.363, l.3</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>octavo</notvariant></term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                     <item>
+                        <term type="due_to">close binding</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ArDe1607d_1601_catechism_1">
+            <div>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. I pray you M. <notvariant>Theologus</notvariant>, <normalised orig="leaue" auto="true">leave</normalised> off this<lb/>
+talking of <normalised orig="kine" auto="false">kin</normalised>, and worldly matters, and let<lb/>
+<normalised orig="vs" auto="true">us</normalised> enter into some speech of matters of religion,<lb/>
+whereby we may do good, and take good<lb/>
+one of an other.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. You say well, but it may be these<lb/>
+<normalised orig="mens" auto="true">men's</normalised> <normalised orig="businesse" auto="true">business</normalised> <normalised orig="requireth" auto="true">requires</normalised> haste, so as they <normalised orig="ca~not" auto="false">cannot</normalised><lb/>
+stay.<lb/>
+                  </p>
+               </sp>
+               <sp who="c">
+                  <p><notvariant>Asune</notvariant>. No sir, we are in no great haste, wee<lb/>
+                     <choice ana="illegible">
+                        <sic>*an</sic>
+                        <corr>can</corr>
+                     </choice> stay two or three <normalised orig="houres" auto="true">hours</normalised>, for the <normalised orig="dayes" auto="true">days</normalised> are<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>ong</notvariant></sic>
+                        <corr>long</corr>
+                     </choice>: if we dispatch our <normalised orig="businesse" auto="true">business</normalised> by night, it<lb/>
+will <normalised orig="serue" auto="true">serve</normalised> our <normalised orig="turne" auto="true">turn</normalised> well enough.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Then if it will please <choice ana="illegible">
+                        <sic>yo*</sic>
+                        <corr>you</corr>
+                     </choice>
+                     <lb/>
+                     <choice ana="illegible">
+                        <sic/>
+                        <corr>to</corr>
+                     </choice> <normalised orig="walke" auto="true">walk</normalised><lb/>
+                     <choice ana="illegible">
+                        <sic>*o</sic>
+                        <corr>to</corr>
+                     </choice> yonder <normalised orig="Oake" auto="true">Oak</normalised> Tree, there is a <choice ana="illegible">
+                        <sic>*<notvariant>oo</notvariant>*</sic>
+                        <corr>goodly</corr>
+                     </choice>
+                     <lb/>
+                     <choice ana="illegible">
+                        <sic>*r*our</sic>
+                        <corr>Arbour</corr>
+                     </choice>,<lb/>
+and handsome <normalised orig="seates" auto="true">seats</normalised>, where we may<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="4">B2</fw>
+                     <pb n="1"/>
+                     <lb/>
+all sit in the <normalised orig="shadowe" auto="true">shadow</normalised>, and <normalised orig="conferre" auto="true">confer</normalised> of <normalised orig="heauenly" auto="true">heavenly</normalised><lb/>
+matters.<lb/>
+                  </p>
+               </sp>
+               <sp who="c">
+                  <p><notvariant>Asune</notvariant>. With a good will Sir.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Come then, let <normalised orig="vs" auto="true">us</normalised> <normalised orig="goe" auto="true">go</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="c">
+                  <p><notvariant>Asune</notvariant>. This is a goodly Arbour indeed, and<lb/>
+here be handsome <normalised orig="seates" auto="true">seats</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Sit you all <normalised orig="downe" auto="true">down</normalised> I pray you: Now<lb/>
+friend <notvariant>Philagathus</notvariant>, if you <normalised orig="haue" auto="true">have</normalised> any questions<lb/>
+to <normalised orig="moue" auto="true">move</normalised> of matters of Religion, we are all<lb/>
+ready to <normalised orig="heare" auto="true">hear</normalised> you.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. It may be these men are somewhat<lb/>
+ignorant of the very principles of Religion, and<lb/>
+therefore I <normalised orig="thinke" auto="true">think</normalised> it not <normalised orig="amisse" auto="true">amiss</normalised> to begin there,<lb/>
+and so to make way for further matters.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. I pray you do so then.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. First then I <normalised orig="demaund" auto="true">demand</normalised> of you in what<lb/>
+state all men are borne by nature?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. In the state of condemnation, as<lb/>
+<normalised orig="appeareth" auto="true">appears</normalised>, <notvariant>Eph</notvariant> 2.3 <quote type="biblical" ana="Eph 2.3">we are by nature the<lb/>
+children of wrath as well as others.</quote> And <normalised orig="againe" auto="true">again</normalised><lb/>
+it is written, <quote type="psalm" ana="Ps 51.5">Behold I was borne in <normalised orig="iniquitie" auto="true">iniquity</normalised>,<lb/>
+&amp; in sin <normalised orig="hath" auto="true">has</normalised> my mother <normalised orig="co~ceaued" auto="false">conceived</normalised> me.</quote>
+                     <lb/>
+                     <lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Is it <normalised orig="euery" auto="true">every</normalised> mans case? are not Dukes<lb/>
+and Nobles, Lords and Ladies, and the <choice ana="illegible">
+                        <sic><notvariant>grea</notvariant>*</sic>
+                        <corr>great</corr>
+                     </choice>
+                     <lb/>
+Potentates of the earth exempted from it?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. No surely. It is the common case<lb/>
+of all both high and lowe, rich and <normalised orig="poore" auto="true">poor</normalised>, <choice ana="illegible">
+                        <sic>a*</sic>
+                        <corr>as</corr>
+                     </choice>
+                     <lb/>
+it is written: <quote type="biblical" ana="Job 15.14">What is man that he should <choice ana="illegible">
+                           <sic>be*</sic>
+                           <corr><normalised orig="bee" auto="true">be</normalised></corr>
+                        </choice>
+                        <lb/>
+                        <pb n="2"/>
+                        <lb/>
+<normalised orig="cleane" auto="true">clean</normalised>, and he that is borne of a woman, that he<lb/>
+should be <normalised orig="iust" auto="true">just</normalised>?</quote>
+                     <lb/>
+                     <lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Philaga</notvariant>. From whence <normalised orig="commeth" auto="true">comes</normalised> it, that all<lb/>
+men are borne in so <normalised orig="wofull" auto="true">woeful</normalised> a case.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. From the fall of Adam: who thereby<lb/>
+<normalised orig="hath" auto="true">has</normalised> not <normalised orig="onely" auto="true">only</normalised> <normalised orig="wrapt" auto="true">wrapped</normalised> <normalised orig="himselfe" auto="true">himself</normalised>, but all his<lb/>
+<normalised orig="posteritie" auto="true">posterity</normalised>, in <normalised orig="extreame" auto="true">extreme</normalised> and <normalised orig="vnspeakable" auto="true">unspeakable</normalised> <normalised orig="miserie" auto="true">misery</normalised>:<lb/>
+as the Apostle saith, <quote type="biblical" ana="Rom 5.18-19">By one mans disobedience,<lb/>
+many were made sinners: and by the<lb/>
+offence of one, the fault came on <normalised orig="al" auto="true">all</normalised> men to <normalised orig="co~demnation" auto="false">condemnation</normalised>.</quote>
+                     <lb/>
+                     <lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. What reason is there that we <normalised orig="al" auto="true">all</normalised> <normalised orig="shuld" auto="true">should</normalised><lb/>
+thus be punished for an other mans offence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Because we were then all in him,<lb/>
+and are now all of him: that is, we are so <normalised orig="discended" auto="true">descend</normalised><lb/>
+out of his <normalised orig="loynes" auto="true">loins</normalised>, that of him we <normalised orig="haue" auto="true">have</normalised><lb/>
+not <normalised orig="onely" auto="true">only</normalised> <normalised orig="receiued" auto="true">received</normalised> our <normalised orig="naturall" auto="true">natural</normalised> &amp; corrupt bodies,<lb/>
+but also by propagation <normalised orig="haue" auto="true">have</normalised> inherited<lb/>
+his <normalised orig="foule" auto="true">foul</normalised> corruptions, as it were by hereditary right.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. But for as much as some <normalised orig="haue" auto="true">have</normalised> dreamed,<lb/>
+that Adam by his fall hurt <normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="onely" auto="true">only</normalised>, and<lb/>
+not his <normalised orig="posteritie" auto="true">posterity</normalised>, and that wee <normalised orig="haue" auto="true">have</normalised> his corruption<lb/>
+<normalised orig="deriued" auto="true">derived</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> by imitation, and not by<lb/>
+propagation. Therefore I pray you <normalised orig="shew" auto="true">show</normalised> this<lb/>
+more plainly.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. <normalised orig="Euen" auto="true">Even</normalised> as great personages by<lb/>
+committing of treason, do not only hurt <normalised orig="themselues" auto="true">themselves</normalised>,<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="6">B3</fw>
+                     <pb n="3"/>
+                     <lb/>
+but also <normalised orig="staine" auto="true">stain</normalised> their <normalised orig="bloud" auto="true">blood</normalised> &amp; disgrace<lb/>
+their <normalised orig="posteritie" auto="true">posterity</normalised>: for the children of such Nobles<lb/>
+are disinherited, whose <normalised orig="bloud" auto="true">blood</normalised> is <notvariant>attainted</notvariant>,<lb/>
+<normalised orig="til" auto="true">till</normalised> they <normalised orig="bee" auto="true">be</normalised> restored <normalised orig="againe" auto="true">again</normalised> by act of Parliament.<lb/>
+<normalised orig="Euen" auto="true">Even</normalised> so our <normalised orig="bloud" auto="true">blood</normalised> being <notvariant>attainted</notvariant><lb/>
+by Adams transgression, we can inherit nothing<lb/>
+of right till we be restored by Christ.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. <normalised orig="Doth" auto="false">Does</normalised> this <choice ana="illegible">
+                        <sic><notvariant>hereditar</notvariant>*</sic>
+                        <corr>hereditary</corr>
+                     </choice> infection and<lb/>
+contagion, <normalised orig="ouerspread" auto="true">overspread</normalised> our whole nature?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Yes truly, it is <normalised orig="vniuersall" auto="true">universal</normalised>, extending<lb/>
+it self throughout the whole man both<lb/>
+<normalised orig="soule" auto="true">soul</normalised> &amp; body, both reason, <normalised orig="vnderstanding" auto="true">understanding</normalised>, <normalised orig="wil" auto="true">will</normalised><lb/>
+&amp; affections: for the scriptures <normalised orig="auouch" auto="true">avouch</normalised>, y<hi rend="high">t</hi> we<lb/>
+are dead in sins &amp; trespasses.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. How <normalised orig="vnderstand" auto="true">understand</normalised> you that?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Not of the <normalised orig="deadnesse" auto="true">deadness</normalised> of the body, or<lb/>
+the <normalised orig="naturall" auto="true">natural</normalised> faculties of <choice ana="illegible">
+                        <sic>*he</sic>
+                        <corr>the</corr>
+                     </choice> <normalised orig="soule" auto="true">soul</normalised>, but of the<lb/>
+<normalised orig="spirituall" auto="true">spiritual</normalised> faculties.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Did Adam then loose his nature, and<lb/>
+destroy it by his fall? or is our nature taken away<lb/>
+by his fall?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Not so. <choice ana="illegible">
+                        <sic>O*r</sic>
+                        <corr>Our</corr>
+                     </choice> nature was corrupted<lb/>
+thereby, but not destroyed: for still their<lb/>
+<normalised orig="remaineth" auto="true">remains</normalised> in our nature, reason, <normalised orig="vnderstanding" auto="true">understanding</normalised>,<lb/>
+will, and affections, and we are not<lb/>
+as a <normalised orig="blocke" auto="true">block</normalised>, or a <normalised orig="stocke" auto="true">stock</normalised>: but by Adams disobedience<lb/>
+we are blemished, maimed, &amp; spoiled<lb/>
+of all <choice ana="print">
+                        <sic><notvariant>allabilitie</notvariant></sic>
+                        <corr><normalised orig="abilitie" auto="true">ability</normalised></corr>
+                     </choice>, to <normalised orig="vnderstand" auto="true">understand</normalised> aright, or to<lb/>
+                     <pb n="4"/>
+                     <lb/>
+will and do aright. As it is written: <quote type="biblical" ana="2 Cor 3.5">We are<lb/>
+not sufficient of our <normalised orig="selues" auto="true">selves</normalised>, to <normalised orig="thinke" auto="true">think</normalised> any thing<lb/>
+as of our <normalised orig="selues" auto="true">selves</normalised>: but our <normalised orig="suficiencie" auto="false">sufficiency</normalised> is of God.</quote>
+                     <lb/>
+And <normalised orig="againe" auto="true">again</normalised>, <quote type="biblical" ana="Phil 2.13">It is God which <normalised orig="worketh" auto="true">works</normalised> in you<lb/>
+both the will and the deed, <normalised orig="euen" auto="true">even</normalised> of his good<lb/>
+pleasure.</quote> And as concerning the other <normalised orig="poynt" auto="true">point</normalised><lb/>
+S. <normalised orig="Iames" auto="true">James</normalised> saith. That all <quote type="biblical" ana="Jas 3.9">men are made after<lb/>
+the <normalised orig="similitude" auto="true">simulated</normalised> of God</quote>, meaning thereby, that<lb/>
+there <normalised orig="remaine" auto="true">remain</normalised> some <normalised orig="reliques" auto="true">relics</normalised> &amp; parts of Gods<lb/>
+Image, <normalised orig="eue~" auto="false">even</normalised> in the most wicked men: as reason,<lb/>
+<normalised orig="vndersta~ding" auto="true">understanding</normalised>, &amp;c. so that our nature was<lb/>
+not <notvariant>wholely</notvariant> destroyed.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Then you think there be some sparks<lb/>
+and remnants left in <normalised orig="vs" auto="true">us</normalised> still of that excellent Image<lb/>
+of God, which was in our first creation?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. I <normalised orig="thinke" auto="true">think</normalised> so indeed: &amp; it may plainly<lb/>
+<normalised orig="appeare" auto="true">appear</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> in the wise speeches and<lb/>
+writings of Heathen Poets &amp; Philosophers:<lb/>
+in <normalised orig="al" auto="true">all</normalised> which we may, as by certain ruins <normalised orig="perceiue" auto="true">perceive</normalised><lb/>
+what was the excellent frame and building<lb/>
+of mans first creation.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Can a man please God in <normalised orig="anytheing" auto="false">anything</normalised><lb/>
+which he <normalised orig="doth" auto="false">does</normalised>, so long as he <normalised orig="continueth" auto="true">continues</normalised> in the<lb/>
+state of nature?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. No not in any thing, for <normalised orig="til" auto="true">till</normalised> we <normalised orig="bee" auto="true">be</normalised><lb/>
+in the state of grace, <normalised orig="eue~" auto="false">even</normalised> our best actions are<lb/>
+<normalised orig="sinfull" auto="true">sinful</normalised> as preaching <normalised orig="praier" auto="true">prayer</normalised>, <notvariant>almesdeeds</notvariant>, &amp;c.<lb/>
+As it is written: <quote type="biblical" ana="Job 14.4">Who can bring a clean thing<lb/>
+                        <lb/>
+                        <fw type="pageNum" n="8">B4</fw>
+                        <pb n="5"/>
+                        <lb/>
+out of that which is <normalised orig="vncleane" auto="true">unclean</normalised></quote> The Apostle<lb/>
+also saith, <quote type="biblical" ana="Rom 8.8">They which are in the flesh<lb/>
+cannot please God,</quote> that is, such as are <normalised orig="stil" auto="true">still</normalised> in<lb/>
+their <normalised orig="naturall" auto="true">natural</normalised> corruption. And our Lord <normalised orig="Iesus" auto="true">Jesus</normalised><lb/>
+<normalised orig="himselfe" auto="true">himself</normalised> saith: <quote type="biblical" ana="Mt 7.16"><normalised orig="doo" auto="true">do</normalised> men gather Grapes of <normalised orig="Thornes" auto="true">Thorns</normalised>, or <normalised orig="Figges" auto="true">Figs</normalised> of thistles?</quote> Meaning <normalised orig="therby" auto="true">thereby</normalised>,<lb/>
+that <normalised orig="meere" auto="true">mere</normalised> <normalised orig="naturall" auto="true">natural</normalised> men can bring forth<lb/>
+no <normalised orig="fruites" auto="true">fruits</normalised> acceptable to God.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant> This is a very harsh and hard saying,<lb/>
+I pray you for my further instruction, make it<lb/>
+more <normalised orig="plaine" auto="true">plain</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Men in the state of nature may <normalised orig="doo" auto="true">do</normalised><lb/>
+those things which of <normalised orig="themselues" auto="true">themselves</normalised> are good,<lb/>
+but they do <normalised orig="vtterly" auto="true">utterly</normalised> <normalised orig="faile" auto="true">fail</normalised> in the <normalised orig="maner" auto="true">manner</normalised> of doing<lb/>
+them: they do them not as they should<lb/>
+be done: that is, in faith, <normalised orig="loue" auto="true">love</normalised>, <normalised orig="zeale" auto="true">zeal</normalised>, <choice ana="illegible">
+                        <sic><notvariant>co~s</notvariant>*<notvariant>ience</notvariant></sic>
+                        <corr><normalised orig="co~science" auto="true">conscience</normalised></corr>
+                     </choice>
+                     <lb/>
+of obedience, &amp;c. neither yet with any <normalised orig="cheerefulnes" auto="false">cheerfulness</normalised>,<lb/>
+delight or feeling, but <normalised orig="eue~" auto="false">even</normalised> as it were,<lb/>
+forcing <normalised orig="the~selues" auto="false">themselves</normalised> to do the outward actions.<lb/>
+Thus did Cain sacrifice, the <normalised orig="Pharisies" auto="false">Pharisees</normalised> pray,<lb/>
+<notvariant>Ananias</notvariant> &amp; <notvariant>Sapphyra</notvariant> <normalised orig="giue" auto="true">give</normalised> <normalised orig="almes" auto="true">alms</normalised>, &amp; the <normalised orig="Iewes" auto="true">Jews</normalised><lb/>
+offer <normalised orig="vp" auto="true">up</normalised> their oblations and burnt offerings.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. <normalised orig="Haue" auto="true">Have</normalised> men any true sight, or <normalised orig="liuely" auto="true">lively</normalised><lb/>
+&amp; sound feeling of this their <normalised orig="miserie" auto="true">misery</normalised> &amp; <normalised orig="wofull" auto="true">woeful</normalised><lb/>
+estate, so long as they be <normalised orig="meerely" auto="true">merely</normalised> <normalised orig="naturall" auto="true">natural</normalised>?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. No surely, but are altogether blinded<lb/>
+and hardened in it, being nothing desirous<lb/>
+to come out of it, but do greatly please<lb/>
+<normalised orig="themselues" auto="true">themselves</normalised> in it, and can hardly be <normalised orig="perswaded" auto="true">persuaded</normalised><lb/>
+                     <pb n="6"/>
+                     <lb/>
+that they are in any such <normalised orig="wofull" auto="true">woeful</normalised> case: as<lb/>
+<normalised orig="appeareth" auto="true">appears</normalised> <normalised orig="plainely" auto="true">plainly</normalised> in the example of that<lb/>
+Ruler, who being <normalised orig="demaunded" auto="true">demanded</normalised> or rather required<lb/>
+of our <normalised orig="Sauiour" auto="true">Saviour</normalised> Christ to <normalised orig="keepe" auto="true">keep</normalised> the<lb/>
+<normalised orig="Comandements" auto="false">Commandments</normalised>, answered: <quote type="biblical" ana="Lk 18.21">All these <normalised orig="haue" auto="true">have</normalised> I<lb/>
+kept from my youth.</quote> And <normalised orig="againe" auto="true">again</normalised>, although<lb/>
+the Church of <notvariant>Laodicea</notvariant> was wretched, miserable,<lb/>
+<normalised orig="poore" auto="true">poor</normalised>, blind and naked: yet <normalised orig="shee" auto="true">she</normalised><lb/>
+thought her <normalised orig="selfe" auto="true">self</normalised> rich, <normalised orig="encreased" auto="true">increased</normalised> with goods,<lb/>
+and wanting nothing. It <normalised orig="followeth" auto="true">follows</normalised> <normalised orig="the~" auto="true">them</normalised>, that<lb/>
+so long as men are in the state of <choice ana="illegible">
+                        <sic><normalised orig="nat" auto="true">not</normalised>*re</sic>
+                        <corr>nature</corr>
+                     </choice>, they<lb/>
+<normalised orig="haue" auto="true">have</normalised> no true sight and feeling of their misery.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Do you not think that all men being<lb/>
+<normalised orig="meerely" auto="true">merely</normalised> natural, are <normalised orig="vnder" auto="true">under</normalised> the curse of the law?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Yes certainly: and not only so, but<lb/>
+also <normalised orig="vnder" auto="true">under</normalised> the very tyranny and dominion<lb/>
+of <normalised orig="Sathan" auto="true">Satan</normalised>, though they know it not, see it<lb/>
+not, <normalised orig="feele" auto="true">feel</normalised> it not, or <normalised orig="perceiue" auto="true">perceive</normalised> it not: for all that<lb/>
+are not in Christ, are <normalised orig="vnder" auto="true">under</normalised> the curse of the<lb/>
+Law, and the power of <normalised orig="darknes" auto="true">darkness</normalised> and the <normalised orig="Diuell" auto="true">Devil</normalised>,<lb/>
+as <normalised orig="appeareth" auto="true">appears</normalised> <notvariant>Eph</notvariant> 2.2 where the <normalised orig="diuell" auto="true">devil</normalised><lb/>
+is called the Prince that <normalised orig="ruleth" auto="true">rules</normalised> in the <normalised orig="aire" auto="true">air</normalised>,<lb/>
+<normalised orig="euen" auto="true">even</normalised> <quote type="biblical" ana="2 Cor 4.4">the spirit that now <normalised orig="worketh" auto="true">works</normalised> in the children<lb/>
+of disobedience.</quote> In another place, he is<lb/>
+called <quote type="biblical" ana="2 Cor 4.4">the God of this world, who <normalised orig="blindeth" auto="true">blinds</normalised><lb/>
+the eyes of all <normalised orig="vnbeleeuers" auto="true">unbelievers</normalised>.</quote> And <normalised orig="againe" auto="true">again</normalised> it is<lb/>
+said, that all men naturally are in his snare,<lb/>
+                     <quote type="biblical" ana="2 Tim 2.26">being taken <normalised orig="captiue" auto="true">captive</normalised> of him at his will.</quote>
+                     <lb/>
+                     <lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Few will be <normalised orig="perswaded" auto="true">persuaded</normalised> of that: they<lb/>
+                     <pb n="7"/>
+                     <lb/>
+will say, they <normalised orig="defie" auto="true">defy</normalised> the <normalised orig="Diuell" auto="true">Devil</normalised>, and thank God<lb/>
+they were <normalised orig="neuer" auto="true">never</normalised> troubled with him.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Their hot words do nothing <normalised orig="ame~d" auto="false">amend</normalised><lb/>
+the matter: for the <normalised orig="Diuell" auto="true">Devil</normalised> is no more <normalised orig="driuen" auto="true">driven</normalised><lb/>
+away with words <normalised orig="the~" auto="true">them</normalised> with holy water: but<lb/>
+<normalised orig="hee" auto="true">he</normalised> <normalised orig="sitteth" auto="true">sits</normalised> in the tongues and <normalised orig="mouthes" auto="true">mouths</normalised>: nay<lb/>
+<normalised orig="possesseth" auto="true">possesses</normalised> the <normalised orig="verie" auto="true">very</normalised> hearts &amp; <normalised orig="intrals" auto="true">entrails</normalised> of thousands<lb/>
+which say they <normalised orig="defie" auto="true">defy</normalised> him, and are not<lb/>
+troubled with him, as <normalised orig="appeareth" auto="true">appears</normalised> manifestly<lb/>
+by their particular actions, and the whole<lb/>
+course of their life.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Me <choice ana="illegible">
+                        <sic><normalised orig="thi" auto="true">thy</normalised>*<notvariant>keth</notvariant></sic>
+                        <corr><normalised orig="thinketh" auto="true">thinks</normalised></corr>
+                     </choice>, if the <normalised orig="diuel" auto="true">devil</normalised> do so inwardly<lb/>
+<normalised orig="possesse" auto="true">possess</normalised> the hearts and consciences of men,<lb/>
+they should <normalised orig="haue" auto="true">have</normalised> some sight and feeling of it.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. The working of the <normalised orig="diuell" auto="true">devil</normalised> in <normalised orig="mens" auto="true">men's</normalised><lb/>
+<normalised orig="soules" auto="true">souls</normalised>, (being an <normalised orig="inuisible" auto="true">invisible</normalised> spirit) is with such<lb/>
+<normalised orig="vnconceiuable" auto="false">unconceivable</normalised> <normalised orig="sleight" auto="true">slight</normalised> and <normalised orig="craftie" auto="true">crafty</normalised> <normalised orig="co~ueiance" auto="false">conveyance</normalised>,<lb/>
+that men in the state of nature cannot possibly<lb/>
+<normalised orig="feele" auto="true">feel</normalised> it, or <normalised orig="perceiue" auto="true">perceive</normalised> it: for how can a blind<lb/>
+man see, or a dead man <normalised orig="feele" auto="true">feel</normalised>?<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. <normalised orig="Shew" auto="true">Show</normalised> this more <normalised orig="plainely" auto="true">plainly</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. <normalised orig="Euen" auto="true">Even</normalised> as a <normalised orig="craftie" auto="true">crafty</normalised> <normalised orig="Iugler" auto="true">Juggler</normalised> <normalised orig="doth" auto="false">does</normalised> so<lb/>
+<notvariant>prestigiate</notvariant> and blind <normalised orig="mens" auto="true">men's</normalised> outward <normalised orig="sences" auto="true">senses</normalised><lb/>
+by the delusions of <normalised orig="Sathan" auto="true">Satan</normalised>, that they <normalised orig="thinke" auto="true">think</normalised><lb/>
+they see that which they see not, and <normalised orig="feele" auto="true">feel</normalised> that<lb/>
+which they <normalised orig="feele" auto="true">feel</normalised> not: <normalised orig="Euen" auto="true">Even</normalised> so the <normalised orig="diuell" auto="true">devil</normalised> <normalised orig="doth" auto="false">does</normalised><lb/>
+so delude &amp; bewitch our inward senses, and<lb/>
+the <normalised orig="naturall" auto="true">natural</normalised> faculties of our <normalised orig="soules" auto="true">souls</normalised>, that wee<lb/>
+<normalised orig="hauing" auto="true">having</normalised> a mist cast before our eyes, think wee<lb/>
+                     <pb n="8"/>
+                     <lb/>
+                     <choice ana="illegible">
+                        <sic>*re</sic>
+                        <corr>are</corr>
+                     </choice> that <normalised orig="wich" auto="true">which</normalised> we are not, see that which wee<lb/>
+                     <choice ana="illegible">
+                        <sic>*e</sic>
+                        <corr>see</corr>
+                     </choice> <normalised orig="nott" auto="true">not</normalised>, and <normalised orig="feele" auto="true">feel</normalised> that which we <normalised orig="feele" auto="true">feel</normalised> not. For<lb/>
+                     <choice ana="illegible">
+                        <sic>*e</sic>
+                        <corr>the</corr>
+                     </choice> deep cunning of <normalised orig="Sathan" auto="true">Satan</normalised> <normalised orig="lieth" auto="true">lies</normalised> in this that<lb/>
+                     <choice ana="illegible">
+                        <sic>*e</sic>
+                        <corr>he</corr>
+                     </choice> can <normalised orig="giue" auto="true">give</normalised> <normalised orig="vs" auto="true">us</normalised> our <normalised orig="deathes" auto="true">deaths</normalised> wound, and we<lb/>
+                     <choice ana="illegible">
+                        <sic>*all</sic>
+                        <corr>shall</corr>
+                     </choice> <normalised orig="neuer" auto="true">never</normalised> know who hurt <normalised orig="vs" auto="true">us</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Few will <normalised orig="beleeue" auto="true">believe</normalised> this to be true.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. True indeed: for few will <normalised orig="beleeue" auto="true">believe</normalised><lb/>
+                     <choice ana="illegible">
+                        <sic>*he</sic>
+                        <corr>the</corr>
+                     </choice> Scriptures: few <normalised orig="wil" auto="true">will</normalised> <normalised orig="beleeue" auto="true">believe</normalised> this, because<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>ew</notvariant></sic>
+                        <corr>few</corr>
+                     </choice> <normalised orig="feele" auto="true">feel</normalised> it: where it is not felt, it can hardly<lb/>
+                     <choice ana="illegible">
+                        <sic>*e</sic>
+                        <corr>be</corr>
+                     </choice> <normalised orig="beleeued" auto="true">believed</normalised>: only the Elect do <normalised orig="feele" auto="true">feel</normalised> it, &amp; <choice ana="illegible">
+                        <sic>there*ore</sic>
+                        <corr>therefore</corr>
+                     </choice>
+                     <lb/>
+<normalised orig="onely" auto="true">only</normalised> the elect do <normalised orig="beleeue" auto="true">believe</normalised> it. As for all <choice ana="illegible">
+                        <sic>o*hers</sic>
+                        <corr>others</corr>
+                     </choice>,<lb/>
+they are the <normalised orig="verie" auto="true">very</normalised> <normalised orig="prentises" auto="true">prentices</normalised> and <choice ana="illegible">
+                        <sic>*<normalised orig="aues" auto="true">aves</normalised></sic>
+                        <corr><normalised orig="bondslaues" auto="true">bondslaves</normalised></corr>
+                     </choice>
+                     <lb/>
+of y<hi rend="high">e</hi> <normalised orig="diuell" auto="true">devil</normalised>, which is a thousand times<lb/>
+worse then to be a <normalised orig="Gally" auto="false">Galley</normalised> <normalised orig="slaue" auto="true">slave</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. How long do men continue in this<lb/>
+<normalised orig="wofull" auto="true">woeful</normalised> state of nature, being <normalised orig="vnder" auto="true">under</normalised> the curse of<lb/>
+                     <choice ana="illegible">
+                        <sic>*he</sic>
+                        <corr>the</corr>
+                     </choice> law, and the <normalised orig="verie" auto="true">very</normalised> <normalised orig="slauerie" auto="true">slavery</normalised> of <choice ana="illegible">
+                        <sic><notvariant>Sath</notvariant>*n</sic>
+                        <corr><normalised orig="Sathan" auto="true">Satan</normalised></corr>
+                     </choice> &amp; sin.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Till they be regenerate and borne<lb/>
+                     <choice ana="illegible">
+                        <sic>*gain</sic>
+                        <corr>again</corr>
+                     </choice>, &amp; so brought into the state of grace, as<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>ur</notvariant></sic>
+                        <corr>our</corr>
+                     </choice> Lord <normalised orig="Iesus" auto="true">Jesus</normalised> saith, <quote type="biblical" ana="Jn 3.3">Except a man be borne<lb/>
+                        <choice ana="illegible">
+                           <sic>*<normalised orig="gaine" auto="true">gain</normalised></sic>
+                           <corr><normalised orig="againe" auto="true">again</normalised></corr>
+                        </choice>, he cannot see the <normalised orig="kingdome" auto="true">kingdom</normalised> of God.</quote>
+                     <lb/>
+                     <lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. <normalised orig="Doe" auto="true">Do</normalised> not many die <choice ana="typeset-error">
+                        <sic/>
+                        <corr>and</corr>
+                     </choice> depart this<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>ife</notvariant></sic>
+                        <corr>life</corr>
+                     </choice>, before they be borne <normalised orig="againe" auto="true">again</normalised>, and so <normalised orig="bee" auto="true">be</normalised><lb/>
+brought into the state of grace?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Yes no doubt thousands: for many<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>iue</notvariant></sic>
+                        <corr><normalised orig="liue" auto="true">live</normalised></corr>
+                     </choice> <normalised orig="fortie" auto="true">forty</normalised> or threescore <normalised orig="yeeres" auto="true">years</normalised> in this world,<lb/>
+and in the end die, and go out of this life, <choice ana="illegible">
+                        <sic>be*ore</sic>
+                        <corr>before</corr>
+                     </choice>
+                     <lb/>
+they know wherefore they came into<lb/>
+                     <choice ana="illegible">
+                        <sic>*t</sic>
+                        <corr>it</corr>
+                     </choice>: as it is written, <quote type="biblical" ana="Hos 4.6">My people perish for want<lb/>
+                        <pb n="9"/>
+                        <lb/>
+of knowledge.</quote>
+                     <lb/>
+                     <lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. What may we <normalised orig="thinke" auto="true">think</normalised> of such.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. I quake to speak what I think: <choice ana="illegible">
+                        <sic><notvariant>fo</notvariant>*</sic>
+                        <corr>for</corr>
+                     </choice>
+                     <lb/>
+surely I do not see how such can be <normalised orig="saued" auto="true">saved</normalised>. I<lb/>
+speak not now of infants &amp; children, <choice ana="illegible">
+                        <sic><notvariant>whero</notvariant>*</sic>
+                        <corr><normalised orig="wherof" auto="true">whereof</normalised></corr>
+                     </choice>
+                     <lb/>
+some no doubt are <normalised orig="saued" auto="true">saved</normalised> by <normalised orig="vertue" auto="true">virtue</normalised> of y<hi rend="high">e</hi> promise<lb/>
+&amp; <normalised orig="couenant" auto="true">covenant</normalised>, through y<hi rend="high">e</hi> election of grace<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. It <normalised orig="seemeth" auto="true">seems</normalised> <normalised orig="the~" auto="true">them</normalised> that you think none <choice ana="illegible">
+                        <sic>c*</sic>
+                        <corr>can</corr>
+                     </choice>
+                     <lb/>
+be <normalised orig="saued" auto="true">saved</normalised>, but those only which are born again<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. I <normalised orig="thinke" auto="true">think</normalised> so indeed.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. I pray you tell me what that same regeneration<lb/>
+&amp; new birth is, <normalised orig="wherof" auto="true">whereof</normalised> you speak?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. It is a renewing and repairing <choice ana="illegible">
+                        <sic>o*</sic>
+                        <corr>of</corr>
+                     </choice>
+                     <lb/>
+the corrupted &amp; decayed estate of our <normalised orig="soules" auto="true">souls</normalised>.<lb/>
+As it is written, <quote type="biblical" ana="Rom 12.2">Be <normalised orig="ye" auto="true">you</normalised> <normalised orig="cha~ged" auto="false">changed</normalised> by the renewing<lb/>
+of your mind.</quote> And <normalised orig="againe" auto="true">again</normalised>, <quote type="biblical" ana="Eph 4.23">Be renewed<lb/>
+in the spirit of your mind.</quote>
+                     <lb/>
+                     <lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. <normalised orig="Explane" auto="true">Explain</normalised> this more fully.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. <normalised orig="Euen" auto="true">Even</normalised> as the wild <normalised orig="Oliue" auto="true">Olive</normalised> <normalised orig="retaineth" auto="true">retains</normalised><lb/>
+his old nature, till it be grafted into the sweet<lb/>
+<normalised orig="Oliue" auto="true">Olive</normalised>, but <normalised orig="afterward" auto="true">afterwards</normalised> is partaker of a <normalised orig="newe" auto="true">new</normalised><lb/>
+nature: so we, till we be grafted into Christ,<lb/>
+<normalised orig="retaine" auto="true">retain</normalised> our <normalised orig="olde" auto="true">old</normalised> nature, but <normalised orig="afterward" auto="true">afterwards</normalised> are<lb/>
+turned into a new nature, as it is written:<lb/>
+                     <quote type="biblical" ana="2 Cor 5.17">If any man be in Christ, he is a new creature.</quote>
+                     <lb/>
+                     <lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. I <normalised orig="vnderstand" auto="true">understand</normalised> not what you say.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. You must know this, that as there<lb/>
+is a <normalised orig="naturall" auto="true">natural</normalised> birth of the whole man: so there<lb/>
+is also a <normalised orig="spirituall" auto="true">spiritual</normalised> birth of the whole man.<lb/>
+                  </p>
+               </sp>
+               <pb n="10"/>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. How is that?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. When as the <normalised orig="naturall" auto="true">natural</normalised> faculties of<lb/>
+                     <choice ana="illegible">
+                        <sic>*he</sic>
+                        <corr>the</corr>
+                     </choice> <normalised orig="soule" auto="true">soul</normalised> as reason, <normalised orig="vndersta~ding" auto="true">understanding</normalised>, will, &amp; <choice ana="illegible">
+                        <sic><notvariant>af</notvariant>*e*<notvariant>tions</notvariant></sic>
+                        <corr>affections</corr>
+                     </choice>,<lb/>
+&amp; the <normalised orig="me~bers" auto="false">members</normalised> of the body also, are so<lb/>
+                     <choice ana="illegible">
+                        <sic/>
+                        <corr>sanctified</corr>
+                     </choice>, purged &amp; rectified by grace, that we<lb/>
+                     <choice ana="illegible">
+                        <sic>*stand</sic>
+                        <corr><normalised orig="vnderstand" auto="true">understand</normalised></corr>
+                     </choice>, will, &amp; desire that which is good.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Cannot a man will and desire that<lb/>
+                     <choice ana="illegible">
+                        <sic><notvariant>wh</notvariant>*h</sic>
+                        <corr>which</corr>
+                     </choice> is good, before he be borne <normalised orig="againe" auto="true">again</normalised>?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. No more then a dead man can desire<lb/>
+the good things of this life. For mans <normalised orig="wil" auto="true">will</normalised><lb/>
+is not free to consent <normalised orig="vnto" auto="true">unto</normalised> good, <normalised orig="til" auto="true">till</normalised> it be <normalised orig="inlarged" auto="true">enlarged</normalised><lb/>
+by grace: &amp; an <normalised orig="vnregenerat" auto="false">unregenerate</normalised> man <normalised orig="doth" auto="false">does</normalised> sin<lb/>
+necessarily, though not by constraint. For<lb/>
+mans will is free from constraint (for it <normalised orig="sinneth" auto="true">sins</normalised><lb/>
+of it self, but not <normalised orig="fro~" auto="true">from</normalised> <normalised orig="thraldome" auto="true">thraldom</normalised> <normalised orig="vnto" auto="true">unto</normalised> sin.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. You <normalised orig="speake" auto="true">speak</normalised>, as if a man could do no<lb/>
+other but <normalised orig="sinne" auto="true">sin</normalised>, till the new <normalised orig="worke" auto="true">work</normalised> be wrought<lb/>
+in him.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. That is mine opinion indeed: for<lb/>
+a man, &amp; his flesh are all one, till he be regenerate:<lb/>
+they agree together like man &amp; wife,<lb/>
+they <normalised orig="ioyne" auto="true">join</normalised> together in all <normalised orig="euill" auto="true">evil</normalised>, they <normalised orig="liue" auto="true">live</normalised> and<lb/>
+die together: for when the flesh <normalised orig="perisheth" auto="true">perishes</normalised>,<lb/>
+the man <normalised orig="perisheth" auto="true">perishes</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Is not this Regeneration a changing<lb/>
+or rather destroying of humane nature?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Nothing <normalised orig="lesse" auto="true">less</normalised>. It is neither an abolishing,<lb/>
+nor changing of the substance of<lb/>
+body or <normalised orig="soule" auto="true">soul</normalised>, or any of the faculties thereof,<lb/>
+                     <pb n="11"/>
+                     <lb/>
+but only a rectifying and repairing of them<lb/>
+by <normalised orig="remouing" auto="true">removing</normalised> the corruption.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Is then our natural corruption, so purged<lb/>
+and quite <normalised orig="remoued" auto="true">removed</normalised> by the power of grace,<lb/>
+as that it <normalised orig="remaineth" auto="true">remains</normalised> not all in <normalised orig="vs" auto="true">us</normalised>, but that we<lb/>
+are wholly freed of it?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Not so. For the <normalised orig="reliques" auto="true">relics</normalised> and remnants<lb/>
+of our old nature, which the scripture<lb/>
+<normalised orig="calleth" auto="true">calls</normalised> the old man, do hang about <normalised orig="vs" auto="true">us</normalised>, and<lb/>
+<normalised orig="dwel" auto="true">dwell</normalised> in <normalised orig="vs" auto="true">us</normalised>, <normalised orig="euen" auto="true">even</normalised> <normalised orig="vntill" auto="true">until</normalised> our dying day: as it<lb/>
+is <normalised orig="plainely" auto="true">plainly</normalised> <normalised orig="proued" auto="true">proved</normalised> in the ten last verses of<lb/>
+the <normalised orig="seuenth" auto="true">seventh</normalised> to the Romans.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Then you <normalised orig="affirme" auto="true">affirm</normalised> that this new man<lb/>
+or new <normalised orig="worke" auto="true">work</normalised> of grace &amp; regeneration, is <normalised orig="vnperfect" auto="true">imperfect</normalised><lb/>
+in this life?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Yea. For the new creature, or new<lb/>
+<normalised orig="worke" auto="true">work</normalised> of grace, can <normalised orig="neuer" auto="true">never</normalised> be fully fashioned<lb/>
+in this life: but is <normalised orig="alwaies" auto="true">always</normalised> in fashioning. And<lb/>
+as our faith &amp; knowledge in this life are <normalised orig="vnperfect" auto="true">imperfect</normalised>:<lb/>
+so is our <normalised orig="regeneratio~" auto="false">regeneration</normalised> &amp; sanctification.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. You said before that the regeneration<lb/>
+or new birth is of the whole man, which<lb/>
+speech <normalised orig="seemeth" auto="true">seems</normalised> to imply, that the new <normalised orig="worke" auto="true">work</normalised><lb/>
+of grace is entire and perfect.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. You mistake the matter. For although<lb/>
+the new birth is <normalised orig="vniuersall" auto="true">universal</normalised>, &amp; of the<lb/>
+whole <normalised orig="ma~" auto="true">man</normalised>: yet it is not entire, perfect, pure, &amp;<lb/>
+without mixture of <normalised orig="corruptio~" auto="false">corruption</normalised>. For it is written,<lb/>
+                     <quote type="biblical" ana="Gal 5.17">the flesh <normalised orig="lusteth" auto="true">lusts</normalised> against the spirit, and the<lb/>
+                        <pb n="12"/>
+                        <lb/>
+                        <choice ana="illegible">
+                           <sic>*<notvariant>irit</notvariant></sic>
+                           <corr>spirit</corr>
+                        </choice> against the flesh.</quote> The Apostle also <choice ana="illegible">
+                        <sic>pray*th</sic>
+                        <corr><normalised orig="prayeth" auto="true">prays</normalised></corr>
+                     </choice>,<lb/>
+that the Thessalonians may be <choice ana="illegible">
+                        <sic><notvariant>sanctifi</notvariant>*d</sic>
+                        <corr>sanctified</corr>
+                     </choice>
+                     <lb/>
+throughout, in spirit, <normalised orig="soule" auto="true">soul</normalised> and body.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. This <normalised orig="seemeth" auto="true">seems</normalised> <normalised orig="verie" auto="true">very</normalised> obscure: I pray<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>ou</notvariant></sic>
+                        <corr>you</corr>
+                     </choice> make it more <normalised orig="plaine" auto="true">plain</normalised>,<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. You must note this, that the new<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>orke</notvariant></sic>
+                        <corr><normalised orig="worke" auto="true">work</normalised></corr>
+                     </choice> and the old, flesh and spirit, grace and<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>orruption</notvariant></sic>
+                        <corr>corruption</corr>
+                     </choice>, are so <notvariant>intermingledly</notvariant> <normalised orig="ioyned" auto="true">joined</normalised> <choice ana="illegible">
+                        <sic>to*ether</sic>
+                        <corr>together</corr>
+                     </choice>
+                     <lb/>
+in all the faculties of the <normalised orig="soule" auto="true">soul</normalised> &amp; body,<lb/>
+                     <choice ana="illegible">
+                        <sic>*s</sic>
+                        <corr>as</corr>
+                     </choice> that y<hi rend="high">e</hi>e one <normalised orig="doth" auto="false">does</normalised> <normalised orig="euer" auto="true">ever</normalised> fight against y<hi rend="high">e</hi> other.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. But tell me I pray you, how you <choice ana="illegible">
+                        <sic><normalised orig="vn" auto="true">un</normalised>*<notvariant>erstand</notvariant></sic>
+                        <corr><normalised orig="vnderstand" auto="true">understand</normalised></corr>
+                     </choice>
+                     <lb/>
+this intermingling of grace and <choice ana="illegible">
+                        <sic>cor*<notvariant>ption</notvariant></sic>
+                        <corr>corruption</corr>
+                     </choice>
+                     <lb/>
+in the <normalised orig="soule" auto="true">soul</normalised>? Do you <normalised orig="meane" auto="true">mean</normalised> that grace<lb/>
+                     <choice ana="illegible">
+                        <sic/>
+                        <corr>is</corr>
+                     </choice> placed in one part of the <normalised orig="soule" auto="true">soul</normalised>, &amp; corruption<lb/>
+                     <choice ana="illegible">
+                        <sic/>
+                        <corr>in</corr>
+                     </choice> another, so as they be <normalised orig="sundred" auto="true">sundried</normalised> in place?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. No, that is not my meaning: but<lb/>
+                     <choice ana="illegible">
+                        <sic>*his</sic>
+                        <corr>this</corr>
+                     </choice>, that they are <normalised orig="ioyned" auto="true">joined</normalised> and mingled <choice ana="illegible">
+                        <sic>to*ether</sic>
+                        <corr>together</corr>
+                     </choice>
+                     <lb/>
+(as I said) in &amp; throughout the whole<lb/>
+                     <choice ana="illegible">
+                        <sic>*an</sic>
+                        <corr>man</corr>
+                     </choice>. For the mind or <normalised orig="vnderstanding" auto="true">understanding</normalised> part,<lb/>
+                     <choice ana="illegible">
+                        <sic/>
+                        <corr>is</corr>
+                     </choice> not one part flesh, and another part spirit:<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>ut</notvariant></sic>
+                        <corr>but</corr>
+                     </choice> the whole mind is flesh, and the whole<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>ind</notvariant></sic>
+                        <corr>mind</corr>
+                     </choice> is spirit, partly one, &amp; partly another.<lb/>
+                     <choice ana="illegible">
+                        <sic>*he</sic>
+                        <corr>The</corr>
+                     </choice> same is to be said of the <normalised orig="wil" auto="true">will</normalised> &amp; affections.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. I pray you <normalised orig="expresse" auto="true">express</normalised> it yet more plainly.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. <normalised orig="Euen" auto="true">Even</normalised> as the <normalised orig="aire" auto="true">air</normalised> in the dawning<lb/>
+                     <choice ana="illegible">
+                        <sic/>
+                        <corr>of</corr>
+                     </choice> y<hi rend="high">e</hi> day is not wholly light, or wholly <normalised orig="darke" auto="true">dark</normalised>,<lb/>
+                     <choice ana="illegible">
+                        <sic>*s</sic>
+                        <corr>as</corr>
+                     </choice> at midnight, or at <normalised orig="noone" auto="true">noon</normalised> day, neither is it<lb/>
+                     <choice ana="illegible">
+                        <sic/>
+                        <corr>in</corr>
+                     </choice> one part light, in another part <normalised orig="darke" auto="true">dark</normalised>: but<lb/>
+                     <choice ana="illegible">
+                        <sic>*e</sic>
+                        <corr>the</corr>
+                     </choice> whole <normalised orig="aire" auto="true">air</normalised> is partly light, &amp; partly <normalised orig="darke" auto="true">dark</normalised><lb/>
+                     <pb n="13"/>
+                     <lb/>
+throughout: &amp; as in a <normalised orig="vessell" auto="true">vessel</normalised> of luke-warm<lb/>
+water, the water it <normalised orig="selfe" auto="true">self</normalised> is not <normalised orig="onely" auto="true">only</normalised> <normalised orig="hote" auto="true">hot</normalised><lb/>
+nor only cold, but heat &amp; cold are mixed together<lb/>
+in <normalised orig="euery" auto="true">every</normalised> part of the water: so is the <choice ana="illegible">
+                        <sic><notvariant>fles</notvariant>*</sic>
+                        <corr>flesh</corr>
+                     </choice>
+                     <lb/>
+and the Spirit mingled together in the <choice ana="illegible">
+                        <sic>soul*</sic>
+                        <corr><normalised orig="soule" auto="true">soul</normalised></corr>
+                     </choice>
+                     <lb/>
+of man. And this is the cause why these <choice ana="illegible">
+                        <sic><notvariant>tw</notvariant>*</sic>
+                        <corr>two</corr>
+                     </choice>
+                     <lb/>
+contrary qualities fight together.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Out of doubt this doctrine of regeneration<lb/>
+is a very great <normalised orig="mysterie" auto="true">mystery</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>The. Yes certainly: it is a secret of secrets<lb/>
+which y<hi rend="high">e</hi> wise of this world <normalised orig="ca~not" auto="false">cannot</normalised> <normalised orig="co~prehend" auto="true">comprehend</normalised><lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Some <normalised orig="thinke" auto="true">think</normalised>, that <normalised orig="curtesie" auto="true">courtesy</normalised>, <choice ana="illegible">
+                        <sic><normalised orig="kindnes" auto="true">kindness</normalised>*</sic>
+                        <corr>kindness</corr>
+                     </choice>,<lb/>
+good nurture, good nature, &amp; good education<lb/>
+are <normalised orig="regeneratio~" auto="false">regeneration</normalised>, and that courteous and good<lb/>
+natured men must <normalised orig="needes" auto="true">needs</normalised> be <normalised orig="saued" auto="true">saved</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theo</notvariant>. They are greatly <normalised orig="deceiued" auto="true">deceived</normalised>: for <choice ana="illegible">
+                        <sic><normalised orig="thes" auto="true">these</normalised>*</sic>
+                        <corr>these</corr>
+                     </choice>
+                     <lb/>
+things do not necessarily <normalised orig="acco~pany" auto="true">accompany</normalised> <normalised orig="saluatio~" auto="true">salvation</normalised><lb/>
+but are to be found in such as are altogether<lb/>
+<normalised orig="prophane" auto="true">profane</normalised>, &amp; irreligious: yet we are to <normalised orig="loue" auto="true">love</normalised><lb/>
+such good outward qualities, &amp; y<hi rend="high">e</hi> men in <choice ana="illegible">
+                        <sic><notvariant>wh</notvariant>*<notvariant>~</notvariant></sic>
+                        <corr><normalised orig="who~" auto="true">whom</normalised></corr>
+                     </choice>
+                     <lb/>
+we find <normalised orig="the~" auto="true">them</normalised>. <lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. What say you then to <choice ana="illegible">
+                        <sic>l*<notvariant>arning</notvariant></sic>
+                        <corr>learning</corr>
+                     </choice>,<lb/>
+wit &amp; <normalised orig="policie" auto="true">policy</normalised>? are not these things of the<lb/>
+essence of religion, and <normalised orig="proue" auto="true">prove</normalised> a regeneration?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. No, no: for they be external gifts,<lb/>
+which may be in the most wicked men, as<lb/>
+in Papists, Heathen Poets, and Philosophers:<lb/>
+yet we are greatly to <normalised orig="reuerence" auto="true">reverence</normalised> learned<lb/>
+&amp; wise men, although the new and inward<lb/>
+<normalised orig="worke" auto="true">work</normalised> be not as yet wrought, for <choice ana="illegible">
+                        <sic><notvariant>tha</notvariant>*</sic>
+                        <corr>that</corr>
+                     </choice>
+                     <lb/>
+                     <pb n="14"/>
+                     <lb/>
+is <normalised orig="onely" auto="true">only</normalised> of God, that is from <normalised orig="aboue" auto="true">above</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. The common people <normalised orig="doe" auto="true">do</normalised> attribute<lb/>
+much to learning and <normalised orig="policie" auto="true">policy</normalised>: for they <normalised orig="wil" auto="true">will</normalised> say,<lb/>
+such a man is learned and wise, and <normalised orig="knoweth" auto="true">knows</normalised><lb/>
+the Scriptures as well as any of them all, &amp; yet<lb/>
+he <normalised orig="doth" auto="false">does</normalised> not thus and thus.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. It is one thing to know the <normalised orig="Historie" auto="true">History</normalised><lb/>
+and letter of the Scriptures, and another<lb/>
+thing to <normalised orig="beleeue" auto="true">believe</normalised> and <normalised orig="feele" auto="true">feel</normalised> the power thereof<lb/>
+in the heart, which is only from the sanctifying<lb/>
+Spirit, which none of the wise of this<lb/>
+world can <normalised orig="haue" auto="true">have</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. It is a common opinion, that if a man<lb/>
+                     <choice ana="illegible">
+                        <sic>*hat</sic>
+                        <corr>that</corr>
+                     </choice> <normalised orig="holdeth" auto="true">holds</normalised> the truth in <normalised orig="iudgement" auto="true">judgment</normalised>, be no Papist,<lb/>
+or <normalised orig="heretike" auto="false">heretic</normalised>, but <normalised orig="leadeth" auto="true">leads</normalised> an honest <normalised orig="ciuill" auto="true">civil</normalised><lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>ife</notvariant></sic>
+                        <corr>life</corr>
+                     </choice>, then he must of <normalised orig="necessitie" auto="true">necessity</normalised> be <normalised orig="saued" auto="true">saved</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. That <normalised orig="followeth" auto="true">follows</normalised> not: for many<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>ome</notvariant></sic>
+                        <corr>come</corr>
+                     </choice> so <normalised orig="farre" auto="true">far</normalised>, which yet notwithstanding<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>aue</notvariant></sic>
+                        <corr><normalised orig="haue" auto="true">have</normalised></corr>
+                     </choice> not the inward touch.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. That <normalised orig="seemeth" auto="true">seems</normalised> <normalised orig="straunge" auto="true">strange</normalised>: For <normalised orig="manie" auto="true">many</normalised><lb/>
+will say, as long as they be neither whore<lb/>
+                     <choice ana="illegible">
+                        <sic>*or</sic>
+                        <corr>nor</corr>
+                     </choice> <normalised orig="theefe" auto="true">thief</normalised>, nor spotted with such like <normalised orig="grosse" auto="true">gross</normalised><lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>innes</notvariant></sic>
+                        <corr><normalised orig="sinnes" auto="true">sins</normalised></corr>
+                     </choice>, they trust in God they shall <normalised orig="bee" auto="true">be</normalised> <choice ana="illegible">
+                        <sic>sa*ed</sic>
+                        <corr><normalised orig="saued" auto="true">saved</normalised></corr>
+                     </choice>.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theolog</notvariant>. They <normalised orig="erre" auto="true">err</normalised>, not knowing the<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>riptures</notvariant></sic>
+                        <corr>Scriptures</corr>
+                     </choice>. For many thousands are in great<lb/>
+                     <choice ana="illegible">
+                        <sic>*anger</sic>
+                        <corr>danger</corr>
+                     </choice> of loosing their <normalised orig="soules" auto="true">souls</normalised> for <normalised orig="euer" auto="true">ever</normalised>, which<lb/>
+                     <choice ana="illegible">
+                        <sic>*re</sic>
+                        <corr>are</corr>
+                     </choice> free from such notorious and horrible vices:<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="18">C</fw>
+                     <pb n="15"/>
+                     <lb/>
+nay many which in the world are counted<lb/>
+good honest men, good true dealers, good<lb/>
+neighbours, and good <normalised orig="Townesmen" auto="true">Townsmen</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="c">
+                  <p><notvariant>Asune</notvariant>. I pray you Sir, <normalised orig="giue" auto="true">give</normalised> me <normalised orig="leaue" auto="true">leave</normalised> a <choice ana="illegible">
+                        <sic>li*<notvariant>tle</notvariant></sic>
+                        <corr>little</corr>
+                     </choice>:<lb/>
+I <normalised orig="haue" auto="true">have</normalised> heard all your speech hitherto, <choice ana="illegible">
+                        <sic>an*</sic>
+                        <corr>and</corr>
+                     </choice>
+                     <lb/>
+I like reasonably well of it, but now I can <normalised orig="forbeare" auto="true">forbear</normalised><lb/>
+no longer, my conscience <normalised orig="vrgeth" auto="true">urges</normalised> me<lb/>
+to <normalised orig="speake" auto="true">speak</normalised>: for me thinks you go too <normalised orig="farre" auto="true">far</normalised>, <choice ana="illegible">
+                        <sic>yo*</sic>
+                        <corr>you</corr>
+                     </choice>
+                     <lb/>
+<normalised orig="goe" auto="true">go</normalised> beyond your learning in this, that <choice ana="illegible">
+                        <sic>yo*</sic>
+                        <corr>you</corr>
+                     </choice>
+                     <lb/>
+<normalised orig="condemne" auto="true">condemn</normalised> good <normalised orig="neighbors" auto="true">neighbours</normalised>, and good Townsmen:<lb/>
+you say many such men are in danger <choice ana="illegible">
+                        <sic>o*</sic>
+                        <corr>of</corr>
+                     </choice>
+                     <lb/>
+loosing their <normalised orig="soules" auto="true">souls</normalised> but I will <normalised orig="neuer" auto="true">never</normalised> <normalised orig="beleeue" auto="true">believe</normalised> <choice ana="illegible">
+                        <sic/>
+                        <corr>it</corr>
+                     </choice>
+                     <lb/>
+while I <normalised orig="liue" auto="true">live</normalised>: for if such men be not <normalised orig="saued" auto="true">saved</normalised>, I can<lb/>
+not tell who shall.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. But you must <normalised orig="learne" auto="true">learn</normalised> to know <choice ana="illegible">
+                        <sic><notvariant>ou</notvariant>*</sic>
+                        <corr>out</corr>
+                     </choice>
+                     <lb/>
+of the Scriptures, that all outward <choice ana="illegible">
+                        <sic>honest*</sic>
+                        <corr>honesty</corr>
+                     </choice>
+                     <lb/>
+and <normalised orig="righteousnesse" auto="true">righteousness</normalised>, without the true knowledge<lb/>
+and inward feeling of God, <choice ana="illegible">
+                        <sic><notvariant>auaylet</notvariant>*</sic>
+                        <corr><normalised orig="auayleth" auto="true">avails</normalised></corr>
+                     </choice>
+                     <lb/>
+not to <normalised orig="eternall" auto="true">eternal</normalised> life. As our <normalised orig="Sauiour" auto="true">Saviour</normalised> <choice ana="illegible">
+                        <sic><notvariant>Chri</notvariant>*</sic>
+                        <corr>Christ</corr>
+                     </choice>
+                     <lb/>
+saith: <quote type="biblical" ana="Mt 5.20">Except your <normalised orig="righteousnesse" auto="true">righteousness</normalised> <normalised orig="exceede" auto="true">exceed</normalised> <choice ana="illegible">
+                           <sic>th*</sic>
+                           <corr>the</corr>
+                        </choice>
+                        <lb/>
+<normalised orig="righteousnes" auto="true">righteousness</normalised> of the Scribes and <normalised orig="Pharisies" auto="false">Pharisees</normalised><lb/>
+<normalised orig="ye" auto="true">you</normalised> cannot enter into the kingdom of <normalised orig="heaue~" auto="true">heaven</normalised>.</quote>
+                     <lb/>
+It is also written that when Paul <choice ana="illegible">
+                        <sic><normalised orig="preache" auto="true">preach</normalised>*</sic>
+                        <corr>preached</corr>
+                     </choice>
+                     <lb/>
+at <notvariant>Berea</notvariant>, many honest men and honest women<lb/>
+did <normalised orig="beleeue" auto="true">believe</normalised>: that is, such as were <choice ana="illegible">
+                        <sic><notvariant>ou</notvariant>*<notvariant>wardly</notvariant></sic>
+                        <corr>outwardly</corr>
+                     </choice>
+                     <lb/>
+honest, or honest to the <choice ana="illegible">
+                        <sic>world-war*</sic>
+                        <corr>world-ward</corr>
+                     </choice>
+                     <lb/>
+<normalised orig="onely" auto="true">only</normalised>: for they could not be truly and inwardly<lb/>
+honest, before they did <choice ana="illegible">
+                        <sic><normalised orig="beleeu" auto="true">believe</normalised>*</sic>
+                        <corr><normalised orig="beleeue" auto="true">believe</normalised></corr>
+                     </choice>.<lb/>
+                     <pb n="16"/>
+                     <lb/>
+Therefore you see that this outward <normalised orig="honestie" auto="true">honesty</normalised><lb/>
+and <normalised orig="ciuilitie" auto="true">civility</normalised> without the inward regeneration<lb/>
+of the Spirit, <normalised orig="auaileth" auto="true">avails</normalised> not to <normalised orig="eternall" auto="true">eternal</normalised><lb/>
+life: and then consequently, all your<lb/>
+worldly honest men are in great danger of<lb/>
+loosing their <normalised orig="soules" auto="true">souls</normalised> for <normalised orig="euer" auto="true">ever</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="c">
+                  <p><notvariant>Asune</notvariant>: What <normalised orig="sounde" auto="true">sound</normalised> reason can you<lb/>
+<normalised orig="yeelde" auto="true">yield</normalised> why such honest men should be condemned?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Because <normalised orig="manie" auto="true">many</normalised> such are <normalised orig="vtterly" auto="true">utterly</normalised><lb/>
+<normalised orig="voyd" auto="true">void</normalised> of all true knowledge of God, and of<lb/>
+his word. Nay, which is more: many of <normalised orig="the~" auto="true">them</normalised><lb/>
+despise the word of God, and hate all the<lb/>
+zealous professors of it. They <normalised orig="esteeme" auto="true">esteem</normalised> Preachers<lb/>
+but as <normalised orig="Pratlers" auto="true">Prattlers</normalised>, and Sermons, as<lb/>
+good Tales: they regard the Scriptures no<lb/>
+more then their old <normalised orig="shooes" auto="true">shoes</normalised>. What hope<lb/>
+is there then I pray you, that such men<lb/>
+should be <normalised orig="saued" auto="true">saved</normalised>? <normalised orig="Doth" auto="false">Does</normalised> not the holy Ghost<lb/>
+say: <quote type="biblical" ana="Heb 2.3">How shall wee escape, if we neglect so<lb/>
+great <normalised orig="saluation" auto="true">salvation</normalised>?</quote>
+                     <lb/>
+                     <lb/>
+                  </p>
+               </sp>
+               <sp who="c">
+                  <p><notvariant>Asune</notvariant>. You <normalised orig="goe" auto="true">go</normalised> too <normalised orig="farre" auto="true">far</normalised>, you <normalised orig="iudge" auto="true">judge</normalised> too<lb/>
+hardly of them.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Not a whit. For all experience<lb/>
+<normalised orig="sheweth" auto="true">shows</normalised>, that they mind, <normalised orig="dreame" auto="true">dream</normalised>, and dote<lb/>
+of nothing <normalised orig="els" auto="true">else</normalised> day &amp; night, but this world,<lb/>
+this world, lands and <normalised orig="leafes" auto="false">leafs</normalised>, grounds and<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>iuings</notvariant></sic>
+                        <corr><normalised orig="liuings" auto="true">livings</normalised></corr>
+                     </choice>, <normalised orig="kine" auto="false">kin</normalised> and <normalised orig="sheepe" auto="true">sheep</normalised>, and how to <normalised orig="waxe" auto="true">wax</normalised><lb/>
+                     <lb/>
+                     <fw type="pageNum" n="20">C2</fw>
+                     <pb n="17"/>
+                     <lb/>
+rich. All their thoughts, words, and <normalised orig="workes" auto="true">works</normalised>,<lb/>
+are of these and such like things. All their<lb/>
+actions do most manifestly declare, that they<lb/>
+are of the earth, and <normalised orig="speake" auto="true">speak</normalised> of the earth: and<lb/>
+that there is nothing in <normalised orig="the~" auto="true">them</normalised>, but earth, earth.<lb/>
+As for Sermons, they care not how few they<lb/>
+<normalised orig="heare" auto="true">hear</normalised>. As for the Scriptures, they regard<lb/>
+them not, they <normalised orig="reade" auto="true">read</normalised> them not, they <normalised orig="esteeme" auto="true">esteem</normalised><lb/>
+them not worth the while: there is nothing<lb/>
+more <normalised orig="irkesome" auto="true">irksome</normalised> <normalised orig="vnto" auto="true">unto</normalised> them: they had rather<lb/>
+pill <normalised orig="strawes" auto="true">straws</normalised>, or <normalised orig="doe" auto="true">do</normalised> any thing, then <normalised orig="heare" auto="true">hear</normalised>,<lb/>
+<normalised orig="reade" auto="true">read</normalised>, or confer of the scriptures. And as the<lb/>
+Prophet saith: <quote type="biblical" ana="Jer 6.10">The word of the Lord is as a<lb/>
+<normalised orig="reproch" auto="true">reproach</normalised> <normalised orig="vnto" auto="true">unto</normalised> them, they <normalised orig="haue" auto="true">have</normalised> no delight in it.</quote>
+                     <lb/>
+                     <lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. I <normalised orig="maruel" auto="true">marvel</normalised> much that such men should<lb/>
+<normalised orig="liue" auto="true">live</normalised> so honestly to the <notvariant>worldward</notvariant>.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. No <normalised orig="maruell" auto="true">marvel</normalised> at all: for many <normalised orig="bad" auto="true">bade</normalised><lb/>
+men whose hearts are worm-eaten within<lb/>
+yet for some outward and carnal respects, do<lb/>
+<normalised orig="abstaine" auto="true">abstain</normalised> from the <normalised orig="grosse" auto="true">gross</normalised> act of <normalised orig="sinne" auto="true">sin</normalised>: as <choice ana="illegible">
+                        <sic><normalised orig="som" auto="true">some</normalised>*</sic>
+                        <corr>some</corr>
+                     </choice>
+                     <lb/>
+for <normalised orig="credite" auto="true">credit</normalised> some for shame, some for <normalised orig="feare" auto="true">fear</normalised> <choice ana="illegible">
+                        <sic>o*</sic>
+                        <corr>of</corr>
+                     </choice>
+                     <lb/>
+law, some for <normalised orig="feare" auto="true">fear</normalised> of punishment: but none<lb/>
+for <normalised orig="loue" auto="true">love</normalised> of God, for <normalised orig="zeale" auto="true">zeal</normalised>, or conscience of obedience.<lb/>
+For it is a sure thing, that the wicked<lb/>
+may <normalised orig="haue" auto="true">have</normalised> that spirit which <normalised orig="doth" auto="false">does</normalised> <choice ana="illegible">
+                        <sic>repress*</sic>
+                        <corr><normalised orig="represse" auto="true">repress</normalised></corr>
+                     </choice>
+                     <lb/>
+but not that which <normalised orig="doth" auto="false">does</normalised> renew.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. It <normalised orig="seemeth" auto="true">seems</normalised> then by your speeches<lb/>
+that some which are not <normalised orig="regenerat" auto="false">regenerate</normalised>, do in some<lb/>
+                     <pb n="18"/>
+                     <lb/>
+things <normalised orig="excell" auto="true">excel</normalised> the children of God.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Most <normalised orig="certaine" auto="true">certain</normalised> it is, that some of<lb/>
+<normalised orig="the~" auto="true">them</normalised> in outward gifts, &amp; the outward <normalised orig="cariage" auto="true">carriage</normalised><lb/>
+of <normalised orig="themselues" auto="true">themselves</normalised>, do go beyond some of the elect.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. <normalised orig="Shew" auto="true">Show</normalised> me I pray you in what gifts.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. In learning, discretion, <normalised orig="Iustice" auto="true">Justice</normalised>,<lb/>
+temperance, prudence, patience, <normalised orig="liberalitie" auto="true">liberality</normalised>,<lb/>
+<normalised orig="affabilitie" auto="true">affability</normalised>, <normalised orig="kindnesse" auto="true">kindness</normalised>, <normalised orig="curtesie" auto="true">courtesy</normalised>, good nature,<lb/>
+and such like.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. <normalised orig="Mee" auto="true">Me</normalised> <normalised orig="thinketh" auto="true">thinks</normalised> it should not be possible.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Yes <normalised orig="truely" auto="true">truly</normalised>. For some of Gods<lb/>
+<normalised orig="deare" auto="true">dear</normalised> children, in whom no doubt the inward<lb/>
+<normalised orig="worke" auto="true">work</normalised> is truly and soundly wrought:<lb/>
+yet are so troubled and <normalised orig="encombred" auto="false">encumbered</normalised>, with a<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>rabbed</notvariant></sic>
+                        <corr>crabbed</corr>
+                     </choice> and crooked nature, and so clogged<lb/>
+with some <normalised orig="maister-sinne" auto="false">master-sin</normalised>, as some with anger,<lb/>
+some with pride, some with <normalised orig="couetousnesse" auto="true">covetousness</normalised>,<lb/>
+some with lusts, some one way, and<lb/>
+                     <choice ana="illegible">
+                        <sic>*<notvariant>ome</notvariant></sic>
+                        <corr>some</corr>
+                     </choice> another: all which breaking out in<lb/>
+them, do so blemish them and their profession,<lb/>
+that they cannot so shine forth <normalised orig="vnto" auto="true">unto</normalised> men,<lb/>
+as otherwise no doubt they would: and this<lb/>
+                     <choice ana="illegible">
+                        <sic>*s</sic>
+                        <corr>is</corr>
+                     </choice> their wound, their <normalised orig="griefe" auto="true">grief</normalised>, and their <notvariant>heartsmart</notvariant>,<lb/>
+and that which <normalised orig="costeth" auto="true">costs</normalised> them <normalised orig="manie" auto="true">many</normalised> a<lb/>
+<normalised orig="teare" auto="true">tear</normalised>, and <normalised orig="manie" auto="true">many</normalised> a prayer: and yet can they<lb/>
+not get the full <normalised orig="victorie" auto="true">victory</normalised> <normalised orig="ouer" auto="true">over</normalised> them, but still<lb/>
+they are left in them, as their <normalised orig="pricke" auto="true">prick</normalised> in the<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="22">C3</fw>
+                     <pb n="19"/>
+                     <lb/>
+flesh to humble them.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Yet <normalised orig="loue" auto="true">love</normalised> should <normalised orig="couer" auto="true">cover</normalised> a multitude of<lb/>
+such infirmities in Gods children.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. It should do so <normalised orig="indeede" auto="true">indeed</normalised>: but there<lb/>
+is great want of <normalised orig="loue" auto="true">love</normalised> <normalised orig="euen" auto="true">even</normalised> in the best: and<lb/>
+the <normalised orig="worser" auto="true">worse</normalised> sort espying these infirmities in<lb/>
+the godly run <normalised orig="vpon" auto="true">upon</normalised> them with open mouth,<lb/>
+and take <normalised orig="vpon" auto="true">upon</normalised> them to <normalised orig="condemne" auto="true">condemn</normalised> them <normalised orig="vtterly" auto="true">utterly</normalised>,<lb/>
+and to <normalised orig="iudge" auto="true">judge</normalised> their hearts, saying, they<lb/>
+be hypocrites, <notvariant>dissemblers</notvariant>, and there is none<lb/>
+worse then they.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. But do you not <normalised orig="thinke" auto="true">think</normalised> that there <normalised orig="bee" auto="true">be</normalised><lb/>
+some counterfeits <normalised orig="euen" auto="true">even</normalised> amongst the greatest<lb/>
+<normalised orig="professours" auto="true">professors</normalised>?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. Yes no doubt, there be, &amp; <normalised orig="alwaies" auto="true">always</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="bin" auto="false">been</normalised> some very hypocrites in y<hi rend="high">e</hi> church:<lb/>
+but we must take <normalised orig="heede" auto="true">heed</normalised> of <normalised orig="iudging" auto="true">judging</normalised> and condemning<lb/>
+all for some: for it were <normalised orig="verie" auto="true">very</normalised> much<lb/>
+to <normalised orig="condemne" auto="true">condemn</normalised> Christ and his <normalised orig="eleuen" auto="true">eleven</normalised> disciples,<lb/>
+because of one <normalised orig="Iudas" auto="true">Judas</normalised>, or the whole <normalised orig="Primitiue" auto="true">Primitive</normalised><lb/>
+Church, for <notvariant>Ananias</notvariant> and <choice ana="illegible">
+                        <sic>Sap*h*ra</sic>
+                        <corr><notvariant>Sapphyra</notvariant></corr>
+                     </choice>.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. But I hope you are of this mind, that<lb/>
+some regenerate men, <normalised orig="euen" auto="true">even</normalised> in outward <normalised orig="giftes" auto="true">gifts</normalised>,<lb/>
+and their outward <normalised orig="cariage" auto="true">carriage</normalised>, are comparable<lb/>
+with any others.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. <normalised orig="Questionlesse" auto="true">Questionless</normalised> <normalised orig="verie" auto="true">very</normalised> many: for they<lb/>
+being guided by Gods Spirit, and <normalised orig="vpheld" auto="true">upheld</normalised><lb/>
+by his grace, do walk very <normalised orig="vprightly" auto="true">uprightly</normalised>, and <normalised orig="vnblameably" auto="false">unblameably</normalised><lb/>
+                     <pb n="20"/>
+                     <lb/>
+towards men.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Yet there <normalised orig="resteth" auto="true">rests</normalised> one scruple: for it<lb/>
+<normalised orig="seemeth" auto="true">seems</normalised> <normalised orig="verie" auto="true">very</normalised> strange <normalised orig="vnto" auto="true">unto</normalised> me, that men of so<lb/>
+<normalised orig="discreete" auto="true">discreet</normalised> <normalised orig="cariage" auto="true">carriage</normalised> as you <normalised orig="speake" auto="true">speak</normalised> of, and of so<lb/>
+<normalised orig="manie" auto="true">many</normalised> good parts, should not <normalised orig="bee" auto="true">be</normalised> <normalised orig="saued" auto="true">saved</normalised>. It is<lb/>
+great <normalised orig="pitie" auto="true">pity</normalised> such should be damned.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. It <normalised orig="seemeth" auto="true">seems</normalised> so <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="indeede" auto="true">indeed</normalised>. But<lb/>
+God is <normalised orig="onely" auto="true">only</normalised> wise: and you must note, that<lb/>
+as there be some infirmities in Gods children<lb/>
+which he <normalised orig="correcteth" auto="true">corrects</normalised> with temporal chastisements:<lb/>
+and yet <normalised orig="rewardeth" auto="true">rewards</normalised> their faith,<lb/>
+<normalised orig="loue" auto="true">love</normalised>, and inward <normalised orig="seruice" auto="true">service</normalised> and <normalised orig="obedie~ce" auto="true">obedience</normalised>, with<lb/>
+<normalised orig="eternall" auto="true">eternal</normalised> life: so there be some good things in<lb/>
+the wicked, &amp; them that are without Christ,<lb/>
+which God <normalised orig="rewardeth" auto="true">rewards</normalised> with <normalised orig="temporall" auto="true">temporal</normalised> blessings,<lb/>
+and yet <normalised orig="punisheth" auto="true">punishes</normalised> them eternally for<lb/>
+their <normalised orig="vnbeleefe" auto="true">unbelief</normalised> and <normalised orig="hardnesse" auto="true">hardness</normalised> of heart.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Now you <normalised orig="haue" auto="true">have</normalised> reasonably well satisfied<lb/>
+me, touching the doctrine of regeneration,<lb/>
+and the <normalised orig="manifolde" auto="true">manifold</normalised> <normalised orig="errours" auto="true">errors</normalised> and deceits that<lb/>
+are in it, and of it, I pray you let <normalised orig="vs" auto="true">us</normalised> now proceed<lb/>
+and first of all tell me by what <normalised orig="meanes" auto="true">means</normalised> the new<lb/>
+birth is wrought?<lb/>
+                  </p>
+               </sp>
+            </div>
+         </div>
+         <div xml:id="ArDe1607d_1601_catechism_2">
+            <div>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Well sir, you can but do your <normalised orig="endeuour" auto="true">endeavour</normalised>,<lb/>
+                     <pb n="21"/>
+                     <lb/>
+                     <choice ana="illegible">
+                        <sic>35*</sic>
+                        <corr>353</corr>
+                     </choice>
+                     <lb/>
+and commit the <normalised orig="successe" auto="true">success</normalised> to God,<lb/>
+you can but plant and water, let God <normalised orig="giue" auto="true">give</normalised><lb/>
+the <normalised orig="encrease" auto="true">increase</normalised>: you are Ministers of the letter,<lb/>
+but not of the spirit: you baptise with water,<lb/>
+but not with the holy Ghost. If you therefore<lb/>
+preach diligently, exhort, admonish,<lb/>
+and <normalised orig="reprooue" auto="true">reprove</normalised> <normalised orig="publikely" auto="true">publicly</normalised>, and <normalised orig="priuately" auto="true">privately</normalised>, studying<lb/>
+by all good example of life, and seeking<lb/>
+with <normalised orig="al" auto="true">all</normalised> good <normalised orig="zeale" auto="true">zeal</normalised>, care, &amp; conscience,<lb/>
+to do the <normalised orig="vttermost" auto="true">uttermost</normalised> that in you <normalised orig="lyeth" auto="true">lies</normalised>, to reduce<lb/>
+them <normalised orig="fro~" auto="true">from</normalised> their <normalised orig="euil" auto="true">evil</normalised> <normalised orig="waies" auto="true">ways</normalised>, I take it you<lb/>
+are discharged, though they <normalised orig="remaine" auto="true">remain</normalised> <normalised orig="stubborne" auto="true">stubborn</normalised><lb/>
+and incorrigible. For you know what<lb/>
+the Lord saith by his <choice ana="print">
+                        <sic><notvariant>Prohhet</notvariant></sic>
+                        <corr>Prophet</corr>
+                     </choice>: If you <normalised orig="doo" auto="true">do</normalised><lb/>
+admonish them, &amp; <normalised orig="giue" auto="true">give</normalised> them warning, then<lb/>
+you <normalised orig="shalbe" auto="true">shall be</normalised> discharged, and their <normalised orig="bloud" auto="true">blood</normalised> <normalised orig="shal" auto="true">shall</normalised><lb/>
+be required at their <normalised orig="owne" auto="true">own</normalised> hands.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. You <normalised orig="haue" auto="true">have</normalised> spoken the truth. And<lb/>
+therefore <normalised orig="sith" auto="true">since</normalised> some must <normalised orig="needes" auto="true">needs</normalised> take <normalised orig="vppon" auto="true">upon</normalised><lb/>
+them this so great a charge, it will be our best<lb/>
+course to labour much with them in Catechising,<lb/>
+and <normalised orig="priuate" auto="true">private</normalised> instructions, and that in<lb/>
+most familiar and <normalised orig="plaine" auto="true">plain</normalised> <normalised orig="maner" auto="true">manner</normalised>: for much<lb/>
+good <normalised orig="hath" auto="true">has</normalised> <normalised orig="beene" auto="true">been</normalised> done, and is done this way.<lb/>
+The ignorant sort must <normalised orig="bee" auto="true">be</normalised> much laboured<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> this way, and so no doubt, much good<lb/>
+may <normalised orig="bee" auto="true">be</normalised> done: for in all labour there is profit.<lb/>
+<normalised orig="Heerein" auto="true">Herein</normalised>, wee that are the Ministers of<lb/>
+Christ, must be content to be abased, and to<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="354">Aa</fw>
+                     <pb n="22"/>
+                     <lb/>
+teach the <normalised orig="poore" auto="true">poor</normalised> ignorant people in most <normalised orig="plaine" auto="true">plain</normalised><lb/>
+manner, asking them many <normalised orig="easie" auto="true">easy</normalised> questions,<lb/>
+and often questioning with them in most<lb/>
+<normalised orig="plaine" auto="true">plain</normalised> and <normalised orig="louing" auto="true">loving</normalised> <normalised orig="maner" auto="true">manner</normalised>, <normalised orig="til" auto="true">till</normalised> we <normalised orig="haue" auto="true">have</normalised> brought<lb/>
+them to some taste and <normalised orig="smacke" auto="true">smack</normalised> of the principles<lb/>
+of Christian Religion. We must not <normalised orig="bee" auto="true">be</normalised><lb/>
+ashamed to <normalised orig="vse" auto="true">use</normalised> repetitions, and tautologies,<lb/>
+and to tell them one thing, <normalised orig="twentie" auto="true">twenty</normalised> times <normalised orig="ouer" auto="true">over</normalised>,<lb/>
+and <normalised orig="ouer" auto="true">over</normalised> <normalised orig="againe" auto="true">again</normalised>, <normalised orig="heere" auto="true">here</normalised> a line, and there<lb/>
+a line: <quote type="biblical" ana="Isa 28.10"><normalised orig="heere" auto="true">here</normalised> <normalised orig="al" auto="true">all</normalised> <normalised orig="litle" auto="true">little</normalised>, and there a <normalised orig="litle" auto="true">little</normalised>, precept<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> precept</quote>, as the Prophet <normalised orig="speaketh" auto="true">speaks</normalised>. I<lb/>
+know right <normalised orig="wel" auto="true">well</normalised>, nothing <normalised orig="goeth" auto="true">goes</normalised> more against<lb/>
+the <normalised orig="stomacke" auto="true">stomach</normalised> of a <normalised orig="scholler" auto="true">scholar</normalised>, and him that is<lb/>
+learned indeed, then to <normalised orig="doo" auto="true">do</normalised> thus. It is as irksome<lb/>
+and tedious, as to teach, A.B.C.<lb/>
+Some can at no hand endure it. But truly,<lb/>
+truly, I <normalised orig="finde" auto="true">find</normalised> now after long experience, that<lb/>
+if we <normalised orig="wil" auto="true">will</normalised> <normalised orig="doo" auto="true">do</normalised> any good to these simple, and<lb/>
+ignorant <normalised orig="soules" auto="true">souls</normalised>, wee must enter into this<lb/>
+course, and wee may not <normalised orig="bee" auto="true">be</normalised> ashamed of it:<lb/>
+for it <normalised orig="wil" auto="true">will</normalised> be our crown, and our glory, to win<lb/>
+<normalised orig="soules" auto="true">souls</normalised>, <normalised orig="howsoeuer" auto="true">howsoever</normalised> we be abased. Let <normalised orig="vs" auto="true">us</normalised> <normalised orig="therfore" auto="true">therefore</normalised><lb/>
+<normalised orig="bee" auto="true">be</normalised> well content to <normalised orig="stoupe" auto="true">stoup</normalised> <normalised orig="downe" auto="true">down</normalised>, that<lb/>
+Christ may be exalted: let <normalised orig="vs" auto="true">us</normalised> be abased, that<lb/>
+God may <normalised orig="bee" auto="true">be</normalised> honoured. Let <normalised orig="vs" auto="true">us</normalised> do all things<lb/>
+in great <normalised orig="loue" auto="true">love</normalised> to Christ, who <normalised orig="hath" auto="true">has</normalised> <normalised orig="saide" auto="true">said</normalised>: If<lb/>
+thou <normalised orig="louest" auto="true">love</normalised> <normalised orig="mee" auto="true">me</normalised>, feed, feed, feed my <normalised orig="flocke" auto="true">flock</normalised>.<lb/>
+Let <normalised orig="vs" auto="true">us</normalised> therefore <normalised orig="testifie" auto="true">testify</normalised> our <normalised orig="loue" auto="true">love</normalised> to him by<lb/>
+feeding his flock. Let <normalised orig="vs" auto="true">us</normalised> do all things in great<lb/>
+                     <pb n="23"/>
+                     <lb/>
+<normalised orig="loue" auto="true">love</normalised> and <normalised orig="deepe" auto="true">deep</normalised> compassion towards the <normalised orig="poore" auto="true">poor</normalised><lb/>
+<normalised orig="soules" auto="true">souls</normalised> that <normalised orig="goe" auto="true">go</normalised> astray. As it is said that our<lb/>
+Lord <normalised orig="Iesus" auto="true">Jesus</normalised> was <normalised orig="mooued" auto="true">moved</normalised> to <normalised orig="pittie" auto="true">pity</normalised>, &amp; his bowels<lb/>
+did <normalised orig="earne" auto="true">earn</normalised> to see the people as <normalised orig="sheepe" auto="true">sheep</normalised> without<lb/>
+a <normalised orig="shepheard" auto="true">shepherd</normalised>. Let it likewise <normalised orig="mooue" auto="true">move</normalised> <normalised orig="vs" auto="true">us</normalised><lb/>
+thoroughly, and make our hearts to bleed, to<lb/>
+see so many <normalised orig="poore" auto="true">poor</normalised> <normalised orig="sheepe" auto="true">sheep</normalised> of Christ, <choice ana="illegible">
+                        <sic>wand*<notvariant>ing</notvariant></sic>
+                        <corr><normalised orig="wandring" auto="true">wandering</normalised></corr>
+                     </choice>
+                     <lb/>
+and straying in the <normalised orig="mountaines" auto="true">mountains</normalised> &amp; <normalised orig="wildernesse" auto="true">wilderness</normalised><lb/>
+of this world, caught in <normalised orig="euery" auto="true">every</normalised> bramble, and<lb/>
+hanged in <normalised orig="euery" auto="true">every</normalised> bush, ready to be <normalised orig="deuoured" auto="true">devoured</normalised> of<lb/>
+the <normalised orig="Woolfe" auto="false">Wolf</normalised>. Thus <normalised orig="haue" auto="true">have</normalised> I <normalised orig="shewed" auto="true">showed</normalised> you, what<lb/>
+course in my <normalised orig="iudgement" auto="true">judgment</normalised> is best to be taken<lb/>
+for the <normalised orig="deliuering" auto="true">delivering</normalised> of <normalised orig="poore" auto="true">poor</normalised> ignorant <normalised orig="soules" auto="true">souls</normalised> out<lb/>
+of the <normalised orig="captiuitie" auto="true">captivity</normalised> of <normalised orig="Sathan" auto="true">Satan</normalised> and <normalised orig="sinne" auto="true">sin</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Now as you <normalised orig="haue" auto="true">have</normalised> declared what<lb/>
+course is best to <normalised orig="bee" auto="true">be</normalised> followed of your part,<lb/>
+which are the Ministers &amp; Preachers of the<lb/>
+<normalised orig="Gospell" auto="true">Gospel</normalised>, so I pray you <normalised orig="shewe" auto="true">show</normalised> what is best to<lb/>
+be done of <normalised orig="vs" auto="true">us</normalised>, which are the people of God.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. The best counsel that I can <normalised orig="giue" auto="true">give</normalised><lb/>
+you, if it were for my life, is to be much exercised<lb/>
+in the word of God, both in the hearing,<lb/>
+reading, and meditation thereof: and also to<lb/>
+purchase <normalised orig="vnto" auto="true">unto</normalised> your <normalised orig="selfe" auto="true">self</normalised>, the sincere <normalised orig="ministery" auto="true">ministry</normalised><lb/>
+of the <normalised orig="Gospell" auto="true">Gospel</normalised>, and to make conscience to<lb/>
+<normalised orig="liue" auto="true">live</normalised> <normalised orig="vnder" auto="true">under</normalised> it, esteeming your <normalised orig="selfe" auto="true">self</normalised> <normalised orig="happie" auto="true">happy</normalised> if<lb/>
+                     <choice ana="print">
+                        <sic><normalised orig="hou" auto="true">thou</normalised></sic>
+                        <corr>you</corr>
+                     </choice> <normalised orig="haue" auto="true">have</normalised> it, though you want other things:<lb/>
+and <normalised orig="vnhappie" auto="true">unhappy</normalised> if you <normalised orig="haue" auto="true">have</normalised> it not, though you<lb/>
+<normalised orig="haue" auto="true">have</normalised> all other things. For it is a <normalised orig="peerelesse" auto="true">peerless</normalised><lb/>
+                     <lb/>
+                     <fw type="pageNum" n="356">Aa 2</fw>
+                     <pb n="24"/>
+                     <lb/>
+<normalised orig="pearle" auto="true">pearl</normalised>, an incomparable <normalised orig="Iewell" auto="true">Jewel</normalised>, for the purchasing<lb/>
+whereof, we are <normalised orig="aduised" auto="true">advised</normalised> by our Lord<lb/>
+<normalised orig="Iesus" auto="true">Jesus</normalised>, to sell all that we <normalised orig="haue" auto="true">have</normalised>, rather then to<lb/>
+<normalised orig="goe" auto="true">go</normalised> without it. <normalised orig="Againe" auto="true">Again</normalised>, our <normalised orig="Sauiour" auto="true">Saviour</normalised> Christ<lb/>
+<normalised orig="giueth" auto="true">gives</normalised> the same <normalised orig="counsell" auto="true">counsel</normalised> to the Church of<lb/>
+<notvariant>Laodicea</notvariant>, in these words: <quote type="biblical" ana="Rev 3.18">I <normalised orig="counsell" auto="true">counsel</normalised> thee<lb/>
+to buy of <normalised orig="mee" auto="true">me</normalised>, <normalised orig="Golde" auto="true">Gold</normalised> <normalised orig="tryed" auto="true">tried</normalised> by the fire,<lb/>
+that thou <normalised orig="maiest" auto="false">may</normalised> <normalised orig="bee" auto="true">be</normalised> rich: and white raiment,<lb/>
+that thou <normalised orig="maiest" auto="false">may</normalised> <normalised orig="bee" auto="true">be</normalised> <normalised orig="cloathed" auto="true">clothed</normalised>, and<lb/>
+that thy filthy <normalised orig="nakednesse" auto="true">nakedness</normalised> <normalised orig="doo" auto="true">do</normalised> not <normalised orig="appeare" auto="true">appear</normalised>:<lb/>
+and <normalised orig="annoynt" auto="false">anoint</normalised> thine eyes with <normalised orig="eyesalue" auto="false">eyesalve</normalised>,<lb/>
+that thou <normalised orig="maiest" auto="false">may</normalised> see.</quote> Where you see<lb/>
+the word of God is compared to most <normalised orig="pretious" auto="true">precious</normalised><lb/>
+Gold, whereby wee are made spiritually<lb/>
+rich: and to glittering attire, wherewith our<lb/>
+naked <normalised orig="soules" auto="true">souls</normalised> are <normalised orig="cloathed" auto="true">clothed</normalised>: and to an <normalised orig="eyesalue" auto="false">eyesalve</normalised>,<lb/>
+wherewith our <normalised orig="spirituall" auto="true">spiritual</normalised> <normalised orig="blindnesse" auto="true">blindness</normalised> is<lb/>
+cured. Wee are <normalised orig="aduertised" auto="true">advertised</normalised> also by <normalised orig="Iesus" auto="true">Jesus</normalised><lb/>
+Christ, whose counsel is <normalised orig="euer" auto="true">ever</normalised> the best, that we<lb/>
+should buy these things <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> they cost<lb/>
+<normalised orig="vs" auto="true">us</normalised>. The same <normalised orig="counsell" auto="true">counsel</normalised> also <normalised orig="giueth" auto="true">gives</normalised> wise <normalised orig="Salomon" auto="true">Solomon</normalised>,<lb/>
+saying: <quote type="biblical" ana="Prov 23.23">Buy the truth, but sell it not.</quote>
+                     <lb/>
+So then you see, the <normalised orig="counsell" auto="true">counsel</normalised> which <normalised orig="heerein" auto="true">herein</normalised> I<lb/>
+<normalised orig="giue" auto="true">give</normalised> you, is not mine <normalised orig="owne" auto="true">own</normalised>, but the <normalised orig="counsell" auto="true">counsel</normalised><lb/>
+of <normalised orig="Iesus" auto="true">Jesus</normalised> <normalised orig="himselfe" auto="true">himself</normalised>, and <normalised orig="Salomon" auto="true">Solomon</normalised> the wise: and<lb/>
+who can, or who dare except against their<lb/>
+<normalised orig="counsell" auto="true">counsel</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="c">
+                  <p><notvariant>Asune</notvariant>. Is your meaning, that men must of<lb/>
+<normalised orig="necessitie" auto="true">necessity</normalised> frequent preaching of the word?<lb/>
+                     <pb n="25"/>
+                     <lb/>
+will not bare reading <normalised orig="serue" auto="true">serve</normalised> the <normalised orig="turne" auto="true">turn</normalised>?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theolo</notvariant>. I told you before, that reading<lb/>
+is good, profitable, and necessary: but yet it<lb/>
+is not sufficient. We must not content our<lb/>
+<normalised orig="selues" auto="true">selves</normalised> with that <normalised orig="onely" auto="true">only</normalised>, but we must <normalised orig="goe" auto="true">go</normalised> further,<lb/>
+and get <normalised orig="vnto" auto="true">unto</normalised> our <normalised orig="selues" auto="true">selves</normalised> the sound preaching<lb/>
+of the <normalised orig="Gospell" auto="true">Gospel</normalised>, as the chiefest, and most<lb/>
+<normalised orig="principall" auto="true">principal</normalised> <normalised orig="meanes" auto="true">means</normalised> which God <normalised orig="hath" auto="true">has</normalised> ordained<lb/>
+and sanctified for the <normalised orig="sauing" auto="true">saving</normalised> of men. As it is<lb/>
+plainly set <normalised orig="downe" auto="true">down</normalised>, 1. Cor. 1.21. When as the<lb/>
+world by <normalised orig="wisedome" auto="true">wisdom</normalised> <normalised orig="knewe" auto="true">knew</normalised> not God in the<lb/>
+<normalised orig="wisedome" auto="true">wisdom</normalised> of God, it pleased God by the <normalised orig="foolishnesse" auto="true">foolishness</normalised><lb/>
+of preaching, to <normalised orig="saue" auto="true">save</normalised> them y<hi rend="high">t</hi> <normalised orig="beleeue" auto="true">believe</normalised>.<lb/>
+The meaning of it is, that when as men neither<lb/>
+by <choice ana="print">
+                        <sic><notvariant>narurall</notvariant></sic>
+                        <corr><normalised orig="naturall" auto="true">natural</normalised></corr>
+                     </choice> <normalised orig="wisdome" auto="true">wisdom</normalised>, nor the contemplation<lb/>
+of the creatures, could sufficiently attain<lb/>
+to the true knowledge of God, the Lord according<lb/>
+to his <normalised orig="heauenly" auto="true">heavenly</normalised> and <normalised orig="infinit" auto="true">infinite</normalised> <normalised orig="wisdome" auto="true">wisdom</normalised>,<lb/>
+thought of an other course, which is, to <normalised orig="saue" auto="true">save</normalised><lb/>
+men by preaching, which the world <normalised orig="counteth" auto="true">counts</normalised><lb/>
+<normalised orig="foolishnes" auto="true">foolishness</normalised>. And by the way, note that the preaching<lb/>
+of the word, is not a thing of humane<lb/>
+<normalised orig="inuention" auto="true">invention</normalised>, but it is Gods <normalised orig="owne" auto="true">own</normalised> <normalised orig="deuise" auto="true">devise</normalised>, and<lb/>
+came first out of his <normalised orig="braine" auto="true">brain</normalised>, as the next and<lb/>
+nearest way to <normalised orig="saue" auto="true">save</normalised> <normalised orig="mens" auto="true">men's</normalised> <normalised orig="soules" auto="true">souls</normalised>.<lb/>
+Wise <normalised orig="Salomon" auto="true">Solomon</normalised> also in the <normalised orig="booke" auto="true">book</normalised> of the<lb/>
+<normalised orig="Prouerbes" auto="true">Proverbs</normalised> <normalised orig="telleth" auto="true">tells</normalised> <normalised orig="vs" auto="true">us</normalised>, that the preaching of<lb/>
+Gods word, (which he <normalised orig="calleth" auto="true">calls</normalised> <normalised orig="Uision" auto="true">Vision</normalised>, <normalised orig="vsing" auto="true">using</normalised><lb/>
+the word of the Prophets, which called their<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="358">Aa 3</fw>
+                     <pb n="26"/>
+                     <lb/>
+Sermons <normalised orig="Uisions" auto="true">Visions</normalised>) is not a thing that may<lb/>
+be spared, or that we may be at <normalised orig="choise" auto="true">choice</normalised> whether<lb/>
+we <normalised orig="haue" auto="true">have</normalised> it or no, but he <normalised orig="maketh" auto="true">makes</normalised> it to be of<lb/>
+absolute <normalised orig="necessitie" auto="true">necessity</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="eternall" auto="true">eternal</normalised> life. For saith<lb/>
+he: Where Vision <normalised orig="faileth" auto="true">fails</normalised>, the people are left<lb/>
+naked. So indeed, it is in the <normalised orig="originall" auto="true">original</normalised>. But<lb/>
+the old translation <normalised orig="giueth" auto="true">gives</normalised> <normalised orig="vs" auto="true">us</normalised> the sense thus:<lb/>
+Where the word of God is not preached,<lb/>
+there the people perish. Then you see, that<lb/>
+<normalised orig="Salomon" auto="true">Solomon</normalised> <normalised orig="striketh" auto="true">strikes</normalised> it dead, in telling <normalised orig="vs" auto="true">us</normalised>, that <normalised orig="al" auto="true">all</normalised><lb/>
+they which are without the preaching of the<lb/>
+word, are in exceeding danger of loosing their<lb/>
+<normalised orig="soules" auto="true">souls</normalised>. Oh that men could be <normalised orig="perswaded" auto="true">persuaded</normalised> of<lb/>
+this! S. Paul also saith, that faith <normalised orig="commeth" auto="true">comes</normalised> by<lb/>
+hearing the word preached. For <normalised orig="hee" auto="true">he</normalised> saith:<lb/>
+                     <quote type="biblical" ana="Rom 10.14">How can they <normalised orig="heare" auto="true">hear</normalised> without a Preacher?</quote>
+                     <lb/>
+If faith come by hearing the word preached,<lb/>
+then I reason thus. No preaching, no faith:<lb/>
+no faith, no Christ: no Christ, no eternal life.<lb/>
+For eternal life is <normalised orig="onely" auto="true">only</normalised> in him.<lb/>
+Let <normalised orig="vs" auto="true">us</normalised> then put them together thus. Take<lb/>
+away the word, take away faith: take away<lb/>
+faith, take away Christ: take away Christ,<lb/>
+and take away <normalised orig="eternall" auto="true">eternal</normalised> life. So then it <normalised orig="followeth" auto="true">follows</normalised>,<lb/>
+take away the word, and take away<lb/>
+<normalised orig="eternall" auto="true">eternal</normalised> life.<lb/>
+Or wee may <normalised orig="reade" auto="true">read</normalised> them backward thus.<lb/>
+If wee will <normalised orig="haue" auto="true">have</normalised> <normalised orig="Heauen" auto="true">Heaven</normalised>, wee must <normalised orig="haue" auto="true">have</normalised><lb/>
+Christ. If we <normalised orig="wil" auto="true">will</normalised> <normalised orig="haue" auto="true">have</normalised> Christ, we must <normalised orig="haue" auto="true">have</normalised><lb/>
+                     <pb n="27"/>
+                     <lb/>
+faith. If we will <normalised orig="haue" auto="true">have</normalised> faith, we must <normalised orig="haue" auto="true">have</normalised> the<lb/>
+word preached. <normalised orig="The~" auto="true">Them</normalised> it <normalised orig="followeth" auto="true">follows</normalised> thus. If we<lb/>
+will <normalised orig="haue" auto="true">have</normalised> <normalised orig="heauen" auto="true">heaven</normalised>, wee must <normalised orig="haue" auto="true">have</normalised> the word<lb/>
+preached. Then I conclude, that preaching<lb/>
+generally, and for the most part, is of absolute<lb/>
+<normalised orig="necessitie" auto="true">necessity</normalised> <normalised orig="vnto" auto="true">unto</normalised> eternal life: as <normalised orig="meate" auto="true">meat</normalised> is of absolute<lb/>
+<normalised orig="necessitie" auto="true">necessity</normalised> for the <normalised orig="preseruation" auto="true">preservation</normalised> of our<lb/>
+bodies: as <normalised orig="grasse" auto="true">grass</normalised> and fodder are of absolute<lb/>
+<normalised orig="necessitie" auto="true">necessity</normalised> for the <normalised orig="vpholding" auto="true">upholding</normalised> of the life of<lb/>
+<normalised orig="beastes" auto="true">beasts</normalised>: and water of absolute <normalised orig="necessitie" auto="true">necessity</normalised> for<lb/>
+the life of fishes. Then this beeing so, men<lb/>
+are with great care and conscience to <normalised orig="heare" auto="true">hear</normalised><lb/>
+the Gospel preached, to frequent Sermons,<lb/>
+to resort much to Gods house and habitation<lb/>
+where his honour <normalised orig="dwelleth" auto="true">dwells</normalised>. With <normalised orig="Dauid" auto="true">David</normalised> to<lb/>
+say; <quote type="psalm" ana="Ps 27.4">One thing <normalised orig="haue" auto="true">have</normalised> I desired of the Lord,<lb/>
+that I will require, <normalised orig="euen" auto="true">even</normalised> that I may dwell in<lb/>
+the house of the Lord all the <normalised orig="dayes" auto="true">days</normalised> of my<lb/>
+life, to behold the <normalised orig="beautie" auto="true">beauty</normalised> of the Lord, and<lb/>
+to visit his holy Temple.</quote> With godly Mary<lb/>
+to say: One thing is necessary, &amp; so choose<lb/>
+the better part. With the <normalised orig="poore" auto="true">poor</normalised> <normalised orig="Creple" auto="true">Cripple</normalised> of<lb/>
+<notvariant>Bethesday</notvariant>, to <normalised orig="waite" auto="true">wait</normalised> for the <normalised orig="moouing" auto="true">moving</normalised> of the<lb/>
+waters by the Angel, that his <normalised orig="impotency" auto="false">impotence</normalised> may<lb/>
+be cured. I <normalised orig="meane" auto="true">mean</normalised>, that we should <normalised orig="tye" auto="true">tie</normalised> our<lb/>
+<normalised orig="selues" auto="true">selves</normalised> to the first <normalised orig="moouing" auto="true">moving</normalised> of the spiritual waters<lb/>
+of life, by the Preachers of the Gospel,<lb/>
+that our <normalised orig="spirituall" auto="true">spiritual</normalised> <normalised orig="impotency" auto="false">impotence</normalised> may be <normalised orig="holpen" auto="true">helped</normalised>,<lb/>
+and <normalised orig="relieued" auto="true">relieved</normalised>. For the <normalised orig="ministery" auto="true">ministry</normalised> of the Gospel,<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="360">Aa 4</fw>
+                     <pb n="28"/>
+                     <lb/>
+is that golden pipe, whereby and where-thorough,<lb/>
+all the <normalised orig="goodnesse" auto="true">goodness</normalised> of God, all the <normalised orig="sweetnesse" auto="true">sweetness</normalised><lb/>
+of Christ, and all <normalised orig="heauenly" auto="true">heavenly</normalised> graces <normalised orig="whatsoeuer" auto="true">whatsoever</normalised>,<lb/>
+are <normalised orig="deriued" auto="true">derived</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>. Which thing<lb/>
+was shadowed in the <normalised orig="lawe" auto="true">law</normalised>, by the Pomegranates<lb/>
+in the skirts of <normalised orig="Aarons" auto="true">Aaron's</normalised> garments, and<lb/>
+the golden Belles <normalised orig="betweene" auto="true">between</normalised> them round about:<lb/>
+that is, a golden Bell, and a Pomegranate:<lb/>
+a golden Bell, and a <normalised orig="Pomegranat" auto="false">Pomegranate</normalised>.<lb/>
+The golden Belles, did <normalised orig="signifie" auto="true">signify</normalised> the preaching<lb/>
+of the <normalised orig="Gospell" auto="true">Gospel</normalised>, &amp; the Pomegranates the sweet<lb/>
+<normalised orig="sauour" auto="true">savour</normalised> of Christs death. Noting thereby, that<lb/>
+the sweet <normalised orig="sauour" auto="true">savour</normalised> of Christs death, &amp; all the <normalised orig="benefites" auto="true">benefits</normalised><lb/>
+of his passion, should be spread abroad<lb/>
+by the preaching of the Gospel. Thus you see,<lb/>
+that if <normalised orig="euer" auto="true">ever</normalised> <normalised orig="me~" auto="true">men</normalised> purpose to be <normalised orig="saued" auto="true">saved</normalised>, they must<lb/>
+make more account of the preaching the<lb/>
+<normalised orig="Gospell" auto="true">Gospel</normalised>, <normalised orig="then" auto="false">than</normalised> they <normalised orig="haue" auto="true">have</normalised> done, and not <normalised orig="thinke" auto="true">think</normalised><lb/>
+as most men <normalised orig="doo" auto="true">do</normalised>, that they may <normalised orig="bee" auto="true">be</normalised> without<lb/>
+it, and yet <normalised orig="doo" auto="true">do</normalised> well <normalised orig="inough" auto="true">enough</normalised>: and some had as<lb/>
+<normalised orig="leeue" auto="false">leave</normalised> be without it as <normalised orig="haue" auto="true">have</normalised> it, for it <normalised orig="dooth" auto="true">doth</normalised> but<lb/>
+disquiet them, and trouble their consciences:<lb/>
+but woe be <normalised orig="vnto" auto="true">unto</normalised> such.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p><notvariant>Phila</notvariant>. Yet wee see where the word is<lb/>
+soundly preached, there be many <normalised orig="bad" auto="true">bade</normalised> people:<lb/>
+and the reasons thereof in mine opinion,<lb/>
+are two: The one, that God <normalised orig="taketh" auto="true">takes</normalised><lb/>
+his holy spirit from many in hearing the<lb/>
+word, so that their hearing is made <normalised orig="vnfruitfull" auto="true">unfruitful</normalised>.<lb/>
+                     <pb n="29"/>
+                     <lb/>
+The other, that the <normalised orig="diuel" auto="true">devil</normalised> <normalised orig="hath" auto="true">has</normalised> an<lb/>
+hundred <normalised orig="deuises" auto="true">devises</normalised> to hinder the <normalised orig="effectuall" auto="true">effectual</normalised><lb/>
+working of the word, so as it shall <normalised orig="doo" auto="true">do</normalised> no<lb/>
+good at all, nor take any effect in multitudes<lb/>
+of men. But you M. <notvariant>Theologus</notvariant>, can<lb/>
+better <normalised orig="laie" auto="true">lay</normalised> open this matter then I. I pray<lb/>
+you therefore <normalised orig="speake" auto="true">speak</normalised> something of it. <lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p><notvariant>Theol</notvariant>. The <normalised orig="sleights" auto="false">slights</normalised> of <normalised orig="Sathan" auto="true">Satan</normalised> in this<lb/>
+<normalised orig="behalfe" auto="true">behalf</normalised>, are <normalised orig="moe" auto="true">more</normalised>, and more <normalised orig="slie" auto="true">sly</normalised>, then I, or any<lb/>
+man else can possibly <normalised orig="discouer" auto="true">discover</normalised>. For who is<lb/>
+able to <normalised orig="descrie" auto="true">descry</normalised>, or in sufficient manner, to <normalised orig="laie" auto="true">lay</normalised><lb/>
+open the <normalised orig="deepe" auto="true">deep</normalised> <normalised orig="subtilties" auto="false">subtleties</normalised>, and most secret and<lb/>
+<normalised orig="sinfull" auto="true">sinful</normalised> suggestions of the <normalised orig="diuel" auto="true">devil</normalised> in the hearts of<lb/>
+men? He is so cunning a <normalised orig="crafts-maister" auto="false">crafts-master</normalised> this<lb/>
+way, that none can perfectly trace him. His<lb/>
+workings in the hearts of men, are with such<lb/>
+close &amp; hid deceits, and most <normalised orig="methodicall" auto="true">methodical</normalised> and<lb/>
+<normalised orig="craftie" auto="true">crafty</normalised> <normalised orig="conueyances" auto="true">conveyances</normalised>, that none can sufficiently<lb/>
+<normalised orig="finde" auto="true">find</normalised> them out. But yet notwithstanding,<lb/>
+I <normalised orig="wil" auto="true">will</normalised> bewray so much as I <normalised orig="knowe" auto="true">know</normalised>, or can<lb/>
+<normalised orig="conceiue" auto="true">conceive</normalised> of his dealings with men that <normalised orig="heare" auto="true">hear</normalised><lb/>
+the word, that he may <normalised orig="steale" auto="true">steal</normalised> it out of their<lb/>
+hearts, and make it <normalised orig="fruitlesse" auto="true">fruitless</normalised> &amp; <normalised orig="vnprofitable" auto="true">unprofitable</normalised>.<lb/>
+First of all, he <notvariant>bestirreth</notvariant> him and <normalised orig="laboureth" auto="true">labours</normalised><lb/>
+hard, to <normalised orig="keepe" auto="true">keep</normalised> men fast a <normalised orig="sleepe" auto="true">sleep</normalised> in their <normalised orig="sinnes" auto="true">sins</normalised>,<lb/>
+that they may <normalised orig="haue" auto="true">have</normalised> no care at all of their <normalised orig="saluation" auto="true">salvation</normalised>,<lb/>
+and therefore <normalised orig="disswadeth" auto="false">dissuades</normalised> them from<lb/>
+hearing, or reading the word at all, least they<lb/>
+should be <normalised orig="awaked" auto="true">awoke</normalised>. If this <normalised orig="wil" auto="true">will</normalised> not <normalised orig="preuaile" auto="true">prevail</normalised>,<lb/>
+                     <pb n="30"/>
+                     <lb/>
+but that they must needs <normalised orig="heare" auto="true">hear</normalised>, then his craft<lb/>
+is, to make their hearing <normalised orig="vnprofitable" auto="true">unprofitable</normalised>, by <normalised orig="sleepinesse" auto="true">sleepiness</normalised>,<lb/>
+<normalised orig="dulnesse" auto="true">dullness</normalised>, by thoughts, <normalised orig="conceitednesse" auto="false">conceitedness</normalised>,<lb/>
+and a thousand such like. If this <normalised orig="wil" auto="true">will</normalised> not <normalised orig="serue" auto="true">serve</normalised><lb/>
+the <normalised orig="turne" auto="true">turn</normalised>, but that the word <normalised orig="doth" auto="false">does</normalised> get within<lb/>
+them, and <normalised orig="worke" auto="true">work</normalised> <normalised orig="vpon" auto="true">upon</normalised> them, so as thereby<lb/>
+they grow to some knowledge &amp; <normalised orig="vnderstanding" auto="true">understanding</normalised><lb/>
+of the truth, then he <normalised orig="practiseth" auto="true">practises</normalised> an other<lb/>
+way: which is, to make them rest <normalised orig="themselues" auto="true">themselves</normalised><lb/>
+<normalised orig="vpon" auto="true">upon</normalised> their bare knowledge, and so become<lb/>
+altogether <normalised orig="consciencelesse" auto="false">conscienceless</normalised>. If this <normalised orig="wil" auto="true">will</normalised> not suffice,<lb/>
+but that men <normalised orig="fal" auto="true">fall</normalised> to doing, and <normalised orig="leaue" auto="true">leave</normalised> some<lb/>
+sins, especially the <normalised orig="grosse" auto="true">gross</normalised> <normalised orig="sinnes" auto="true">sins</normalised> of the world,<lb/>
+and <normalised orig="doo" auto="true">do</normalised> some good, then he <normalised orig="perswadeth" auto="true">persuades</normalised> them<lb/>
+to trust to those doings without Christ, and to<lb/>
+<normalised orig="thinke" auto="true">think</normalised> <normalised orig="themselues" auto="true">themselves</normalised> <normalised orig="wel" auto="true">well</normalised> <normalised orig="inough" auto="true">enough</normalised>, because they<lb/>
+<normalised orig="doo" auto="true">do</normalised> some good, and <normalised orig="leaue" auto="true">leave</normalised> some <normalised orig="euil" auto="true">evil</normalised>. If this be<lb/>
+not <normalised orig="inough" auto="true">enough</normalised>, but that men attain <normalised orig="vnto" auto="true">unto</normalised> the true<lb/>
+<normalised orig="iustifying" auto="true">justifying</normalised> faith which <normalised orig="apprehendeth" auto="true">apprehends</normalised> Christ,<lb/>
+and <normalised orig="resteth" auto="true">rests</normalised> <normalised orig="vpon" auto="true">upon</normalised> his merits, then he <normalised orig="deuiseth" auto="true">devises</normalised><lb/>
+how to blemish the <normalised orig="beawtie" auto="true">beauty</normalised> of their faith, and<lb/>
+weaken their comfort, through many frailties,<lb/>
+and wants, yea <normalised orig="grosse" auto="true">gross</normalised> <normalised orig="downfalles" auto="false">downfalls</normalised>, and<lb/>
+<normalised orig="rancke" auto="true">rank</normalised> <normalised orig="euils" auto="true">evils</normalised>, so as they <normalised orig="shal" auto="true">shall</normalised> be but spotted<lb/>
+and <normalised orig="leaprous" auto="false">leprous</normalised> Christians. If this weapon <normalised orig="wil" auto="true">will</normalised><lb/>
+not <normalised orig="worke" auto="true">work</normalised>, but that Christians do <normalised orig="ioyne" auto="true">join</normalised><lb/>
+all good <normalised orig="vertues" auto="true">virtues</normalised> with their faith, and abundantly<lb/>
+shine forth in <normalised orig="al" auto="true">all</normalised> fruits of <normalised orig="righteousnes" auto="true">righteousness</normalised>,<lb/>
+then he <normalised orig="casteth" auto="true">casts</normalised> about an other way, which <choice ana="print">
+                        <sic>is is</sic>
+                        <corr>is</corr>
+                     </choice>
+                     <lb/>
+                     <pb n="31"/>
+                     <lb/>
+to daunt, and damp them with discouragements:<lb/>
+As <normalised orig="pouertie" auto="true">poverty</normalised>, <normalised orig="necessitie" auto="true">necessity</normalised>, <normalised orig="sicknesse" auto="true">sickness</normalised>, reproaches,<lb/>
+<normalised orig="co~tempts" auto="false">contempts</normalised>, persecutions, &amp;c.<lb/>
+                  </p>
+               </sp>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

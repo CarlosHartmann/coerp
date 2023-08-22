@@ -1,0 +1,363 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface <normalised orig="Apologie" auto="true">Apology</normalised> of the <normalised orig="Romane" auto="true">Roman</normalised> <normalised orig="Chvrch" auto="true">Church</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="LaAn1577">Anderton, Lawrence</author>
+               <title type="main">"No title" In: Anderton, Lawrence. The <normalised orig="apologie" auto="true">apology</normalised> of the <normalised orig="Romane" auto="true">Roman</normalised> <normalised orig="Chvrch" auto="true">Church</normalised>, <normalised orig="devided" auto="true">divided</normalised> into three <normalised orig="severall" auto="true">several</normalised> tractes [...]</title>
+               <title type="short">Preface <normalised orig="Apologie" auto="true">Apology</normalised> of the <normalised orig="Romane" auto="true">Roman</normalised> <normalised orig="Chvrch" auto="true">Church</normalised></title>
+               <date when="1604">1604</date>
+               <date type="this_edition" when="1604">1604</date>
+               <idno type="STC">3604</idno>
+               <note type="genre" subtype="preface_treatise_controversial"> controversial treatise preface</note>
+               <note type="sample" target="#LaAn1577_1604_preface_treatise_controversial_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="LaAn1577_1604_preface_treatise_controversial_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+TO THE RIGHT <lb/>
+<normalised orig="HONORABLE" auto="true">HONOURABLE</normalised> <normalised orig="LORDES" auto="true">LORDS</normalised> AND <lb/>
+OTHER THE KNIGHTS AND <normalised orig="BVRGESSES" auto="false">BURGESSES</normalised>, <lb/>
+ASSEMBLED IN THE <lb/>
+HIGH AND MOST <choice ana="print-error">
+                     <sic>HONORBLE</sic>
+                     <corr><normalised orig="HONORABLE" auto="true">HONOURABLE</normalised></corr>
+                  </choice>
+                  <lb/>
+Court of Parliament <normalised orig="houlden" auto="false">holden</normalised> this <lb/>
+present <normalised orig="yeare" auto="true">year</normalised>. 1604.<lb/>
+                  <lb/>
+FOR so much (right <normalised orig="Honorable" auto="true">Honourable</normalised>) <lb/>
+as the <normalised orig="Catholickes" auto="true">Catholics</normalised> <normalised orig="subiectes" auto="true">subjects</normalised> <lb/>
+of this Nation beeing, <lb/>
+though distressed members, <lb/>
+yet <normalised orig="truely" auto="true">truly</normalised> members of that <normalised orig="politicke" auto="true">politic</normalised> <lb/>
+Body, which this high <lb/>
+and <normalised orig="honorable" auto="true">honourable</normalised> court of Parliament <lb/>
+<normalised orig="doth" auto="true">does</normalised> represent, <normalised orig="haue" auto="true">have</normalised> <lb/>
+now for a great part of this last declining age, <normalised orig="bene" auto="true">been</normalised> <lb/>
+(<normalised orig="contrarie" auto="true">contrary</normalised> to all example of former times) excluded <lb/>
+from their accustomed places and voices <normalised orig="therin" auto="true">therein</normalised>: and <lb/>
+continuing yet <normalised orig="vnder" auto="true">under</normalised> such estate, are <normalised orig="therby" auto="true">thereby</normalised> <normalised orig="depriued" auto="true">deprived</normalised> <lb/>
+of all ordinary <normalised orig="meanes" auto="true">means</normalised> to <normalised orig="moue" auto="true">move</normalised> or <normalised orig="answere" auto="true">answer</normalised> for <lb/>
+them <normalised orig="selues" auto="true">selves</normalised>, when and where it <normalised orig="doth" auto="true">does</normalised> most <normalised orig="concerne" auto="true">concern</normalised> <lb/>
+them: It can not (I hope) <normalised orig="seeme" auto="true">seem</normalised> <normalised orig="iustly" auto="true">justly</normalised> <normalised orig="greeuous" auto="true">grievous</normalised> or <lb/>
+<normalised orig="offensiue" auto="true">offensive</normalised> to any, that being in these straights, and <lb/>
+destitute of all other <normalised orig="aduocates" auto="true">advocates</normalised> they should mediate <lb/>
+the appeasing of their former pressures and calamities, <lb/>
+by their <normalised orig="owne" auto="true">own</normalised> most humble and earnest intercession. <lb/>
+Amongst which their sundry <normalised orig="endeuours" auto="true">endeavours</normalised> <lb/>
+thus <normalised orig="vndertaken" auto="true">undertaken</normalised> to be made <normalised orig="knowen" auto="true">known</normalised> <normalised orig="vnto" auto="true">unto</normalised> his <normalised orig="Maiestie" auto="true">Majesty</normalised>, <lb/>
+(as to a most <normalised orig="Roiall" auto="true">Royal</normalised> and <normalised orig="euer" auto="true">ever</normalised> flowing <normalised orig="fountaine" auto="true">fountain</normalised> <lb/>
+of all grace and <normalised orig="mercie" auto="true">mercy</normalised>.) The treatise hereunto annexed <lb/>
+                  <lb/>
+                  <fw type="pageNum">A</fw>
+                  <pb n="1"/>
+                  <lb/>
+was specially one, being at first penned with <lb/>
+intention to <normalised orig="haue" auto="true">have</normalised> the same <normalised orig="deliuered" auto="true">delivered</normalised> <normalised orig="vp" auto="true">up</normalised> to his <normalised orig="Highnes" auto="true">Highness</normalised>: <lb/>
+But <choice ana="illegible">
+                     <sic>whera*</sic>
+                     <corr><normalised orig="wheras" auto="true">whereas</normalised></corr>
+                  </choice> afterwards his <normalised orig="Highnes" auto="true">Highness</normalised> being in the <lb/>
+<normalised orig="meane" auto="true">mean</normalised> time <normalised orig="ouercharged" auto="true">overcharged</normalised> with multitude of petitions <lb/>
+so formerly exhibited by <normalised orig="Catholickes" auto="true">Catholics</normalised> and others) <lb/>
+his princely pleasure was thereupon at last signified <lb/>
+not to be further troubled or <choice ana="illegible">
+                     <sic>impo*tuned</sic>
+                     <corr>importuned</corr>
+                  </choice> in that <lb/>
+kind; the author of this treatise did <normalised orig="thervpon" auto="true">thereupon</normalised> not <lb/>
+only alter his first intention <normalised orig="co~cerning" auto="true">concerning</normalised> the <normalised orig="deliuery" auto="true">delivery</normalised> <lb/>
+<normalised orig="therof" auto="true">thereof</normalised> <normalised orig="vp" auto="true">up</normalised> to his <normalised orig="Highnes" auto="true">Highness</normalised> but also seriously laboured <lb/>
+by all <normalised orig="carefull" auto="true">careful</normalised> <normalised orig="meanes" auto="true">means</normalised> &amp; <choice ana="illegible">
+                     <sic>di*ection</sic>
+                     <corr>direction</corr>
+                  </choice> for the <normalised orig="vtter" auto="true">utter</normalised> suppressing <lb/>
+                  <choice ana="illegible">
+                     <sic><normalised orig="ther" auto="true">there</normalised>*f</sic>
+                     <corr><normalised orig="therof" auto="true">thereof</normalised></corr>
+                  </choice>: In <choice ana="illegible">
+                     <sic><normalised orig="whi" auto="true">why</normalised>*h</sic>
+                     <corr>which</corr>
+                  </choice>
+                  <lb/>
+                  <choice ana="illegible">
+                     <sic>*ourse</sic>
+                     <corr>course</corr>
+                  </choice> of his said labour, <lb/>
+<normalised orig="whe~" auto="true">when</normalised> I perused <normalised orig="ouer" auto="true">over</normalised> the <choice ana="illegible">
+                     <sic>or*ginal</sic>
+                     <corr>original</corr>
+                  </choice> <normalised orig="writen" auto="true">written</normalised> <normalised orig="copie" auto="true">copy</normalised> hereof, <lb/>
+which <normalised orig="casuallye" auto="false">casually</normalised> and without his knowledge came <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> my <normalised orig="handes" auto="true">hands</normalised>, and had fully considered the <normalised orig="sobrietie" auto="true">sobriety</normalised> <lb/>
+of stile therein so carefully <normalised orig="obserued" auto="true">observed</normalised> and continued <lb/>
+without all occasion of offence, and the <choice ana="illegible">
+                     <sic>pecul*er</sic>
+                     <corr><normalised orig="peculier" auto="true">peculiar</normalised></corr>
+                  </choice>
+                  <lb/>
+and choice <normalised orig="methode" auto="true">method</normalised> <normalised orig="therof" auto="true">thereof</normalised>; <normalised orig="togither" auto="true">together</normalised> with the <lb/>
+                  <choice ana="illegible">
+                     <sic>sund*ie</sic>
+                     <corr><normalised orig="sundrie" auto="true">sundry</normalised></corr>
+                  </choice> important reasons, enlarged and set <normalised orig="downe" auto="true">down</normalised> <lb/>
+therein, not so much with <normalised orig="ornamente" auto="true">ornament</normalised> or riches of <lb/>
+<normalised orig="wordes" auto="true">words</normalised>, as with <choice ana="illegible">
+                     <sic>co*respondence</sic>
+                     <corr>correspondence</corr>
+                  </choice> &amp; <normalised orig="sequell" auto="true">sequel</normalised> of matter, <lb/>
+and that somewhat (perhaps more <normalised orig="painefully" auto="true">painfully</normalised> <lb/>
+<normalised orig="endeuoured" auto="true">endeavoured</normalised> in this, then in some other like treatise <lb/>
+formerly published; <normalised orig="howsoeuer" auto="true">howsoever</normalised> I could not but <lb/>
+commend his <normalised orig="foresaid" auto="true">aforesaid</normalised> care and good discretion, in <lb/>
+not presuming (by <normalised orig="deliuerye" auto="true">delivery</normalised> of this treatise to his <lb/>
+<normalised orig="Highnes" auto="true">Highness</normalised>) to become <normalised orig="offensiue" auto="true">offensive</normalised> or further tedious to <lb/>
+so great a <normalised orig="Maiestie" auto="true">Majesty</normalised>. Yet could I not but censure his <lb/>
+other intendment of suppressing the same for no <normalised orig="lesse" auto="true">less</normalised> <lb/>
+then <normalised orig="extreame" auto="true">extreme</normalised>, and <normalised orig="fitt" auto="true">fit</normalised> to be <normalised orig="preuented" auto="true">prevented</normalised>: as <normalised orig="houlding" auto="false">holding</normalised> <lb/>
+it <normalised orig="vnworthy" auto="true">unworthy</normalised>, that so great <normalised orig="paines" auto="true">pains</normalised> &amp; of such <normalised orig="publicke" auto="true">public</normalised> <lb/>
+<normalised orig="profite" auto="true">profit</normalised>. should for his <normalised orig="priuate" auto="true">private</normalised> satisfaction be wholly <lb/>
+suppressed and buried in silence. For which cause <lb/>
+I <normalised orig="haue" auto="true">have</normalised> <normalised orig="aduentured" auto="true">adventured</normalised> though (in regard of the reason <lb/>
+before signified) not to offend or trouble his <normalised orig="Maiestie" auto="true">Majesty</normalised> <lb/>
+<normalised orig="therwith" auto="true">therewith</normalised> yet to dispose <normalised orig="therof" auto="true">thereof</normalised> in an other course <lb/>
+and so publishing the same (without the Authors <lb/>
+                  <pb n="2"/>
+                  <lb/>
+assent) to offer it (with all humble and due <normalised orig="respecte" auto="true">respect</normalised>) <lb/>
+to your most <normalised orig="honorable" auto="true">honourable</normalised> and <normalised orig="graue" auto="true">grave</normalised> considerations. <lb/>
+For whom other may we in the <normalised orig="co~fidence" auto="true">confidence</normalised> and <normalised orig="equitie" auto="true">equity</normalised> <lb/>
+of our cause importune rather then your <normalised orig="selues" auto="true">selves</normalised>, <lb/>
+being the <normalised orig="honorable" auto="true">honourable</normalised> Peers, and <normalised orig="graue" auto="true">grave</normalised> Sages of our <lb/>
+noble Nation? <normalised orig="vpon" auto="true">upon</normalised> whom (next <normalised orig="vnto" auto="true">unto</normalised> his <normalised orig="MAIESTIE" auto="true">MAJESTY</normalised> <lb/>
+the charge of redressing our miseries is most <lb/>
+properly incumbent. Vouchsafe <normalised orig="therfore" auto="true">therefore</normalised> I humbly <lb/>
+beseech you, to view <normalised orig="euen" auto="true">even</normalised> with charitable and <lb/>
+Christian commiseration, our present estate &amp; condition <lb/>
+described to you in this treatise, and in like <lb/>
+<normalised orig="maner" auto="true">manner</normalised> to <normalised orig="waigh" auto="true">weigh</normalised> the reasons and <normalised orig="motiues" auto="true">motives</normalised> to the <normalised orig="contrarie" auto="true">contrary</normalised> <lb/>
+<normalised orig="therin" auto="true">therein</normalised> set <normalised orig="downe" auto="true">down</normalised>, which are many and important. <lb/>
+As first that our affliction heretofore for so many<lb/>
+<normalised orig="yeeres" auto="true">years</normalised> <normalised orig="susteyned" auto="true">sustained</normalised>, <normalised orig="hath" auto="true">has</normalised> <normalised orig="bene" auto="true">been</normalised> for persisting constant <lb/>
+in that Faith <normalised orig="wherto" auto="true">where</normalised> we Englishmen were <normalised orig="aboue" auto="true">above</normalised> <lb/>
+a thousand <normalised orig="yeeres" auto="true">years</normalised> since <normalised orig="conuerted" auto="true">converted</normalised>: that also <lb/>
+the same faith is confessed to <normalised orig="haue" auto="true">have</normalised> <normalised orig="bene" auto="true">been</normalised> the generally <lb/>
+<normalised orig="receaued" auto="true">received</normalised> faith of all Christian countries for <lb/>
+<normalised orig="sundrie" auto="true">sundry</normalised> <normalised orig="hundreth" auto="true">hundredth</normalised> <normalised orig="yeeres" auto="true">years</normalised> before those times: that <lb/>
+likewise it was <choice ana="illegible">
+                     <sic>*onfirmed</sic>
+                     <corr>confirmed</corr>
+                  </choice> with true and <normalised orig="vndoubted" auto="true">undoubted</normalised> <lb/>
+miracles, and those reported not from the <normalised orig="Apocriphall" auto="false">Apocryphal</normalised> <lb/>
+<normalised orig="testimonie" auto="true">testimony</normalised> of any pretended fabulous Legend, <lb/>
+but from the constant assertion of learned <lb/>
+Protestants them <normalised orig="selues" auto="true">selves</normalised>: That also the same faith is <lb/>
+deduced <normalised orig="vp" auto="true">up</normalised> to the Apostles times: In more full <lb/>
+<normalised orig="demonstratio~" auto="false">demonstration</normalised> <normalised orig="wherof" auto="true">whereof</normalised> it is likewise yet further <normalised orig="shewed" auto="true">showed</normalised>, <lb/>
+as well that Protestants are not able to <normalised orig="proue" auto="true">prove</normalised> <lb/>
+that the <normalised orig="Romane" auto="true">Roman</normalised> Church <normalised orig="hath" auto="true">has</normalised> changed her Religion <lb/>
+since her first profession <normalised orig="therof" auto="true">thereof</normalised> in the Apostles times, <lb/>
+as also that <normalised orig="Catholickes" auto="true">Catholics</normalised> <normalised orig="haue" auto="true">have</normalised> <normalised orig="proued" auto="true">proved</normalised> the <normalised orig="contrarie" auto="true">contrary</normalised> <lb/>
+<normalised orig="euen" auto="true">even</normalised> by sundry arguments <normalised orig="demonstratiuely" auto="false">demonstratively</normalised> <normalised orig="vnanswerable" auto="true">unanswerable</normalised>. <lb/>
+Furthermore that <normalised orig="wheras" auto="true">whereas</normalised> (according to <lb/>
+S. Austines assertion) the holy Ghost foreseeing <lb/>
+the contentions that would arise about the Church, <lb/>
+did therefore by his Prophets <normalised orig="speake" auto="true">speak</normalised> more <normalised orig="plainelye" auto="true">plainly</normalised> <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 2</fw>
+                  <pb n="3"/>
+                  <lb/>
+<normalised orig="therof" auto="true">thereof</normalised> then of our <normalised orig="Sauiour" auto="true">Saviour</normalised> him <normalised orig="selfe" auto="true">self</normalised>, there is in this <lb/>
+treatise accordingly described the <normalised orig="propheticall" auto="true">prophetical</normalised> <lb/>
+<normalised orig="historie" auto="true">history</normalised> of the true Church: with like <normalised orig="proofe" auto="true">proof</normalised> of the <lb/>
+succeeding answerable <normalised orig="euent" auto="true">event</normalised> <normalised orig="therof" auto="true">thereof</normalised> to be most <normalised orig="euidently" auto="true">evidently</normalised> <lb/>
+wanting in the Protestants Church, and <lb/>
+yet fulfilled in ours. In so much as the more sober <lb/>
+and learned Protestants in <normalised orig="preseruatio~" auto="false">preservation</normalised> of Christs <lb/>
+true Church <normalised orig="vpon" auto="true">upon</normalised> earth for many former ages in <lb/>
+which theirs was wanting, are <choice ana="illegible">
+                     <sic>enfo*ced</sic>
+                     <corr>enforced</corr>
+                  </choice> to acknowledge <lb/>
+our now <normalised orig="Catholicke" auto="true">Catholic</normalised> <normalised orig="Romane" auto="true">Roman</normalised> Church to <lb/>
+be the true Church, and the profession <normalised orig="therof" auto="true">thereof</normalised> for sufficient <lb/>
+to <normalised orig="saluation" auto="true">salvation</normalised>, charging <normalised orig="therfore" auto="true">therefore</normalised> their other inconsiderate <lb/>
+and headstrong brethren who <normalised orig="affirme" auto="true">affirm</normalised> <lb/>
+the <normalised orig="contrarie" auto="true">contrary</normalised>, <normalised orig="euen" auto="true">even</normalised> with ignorant <normalised orig="zeale" auto="true">zeal</normalised>. These <lb/>
+(with sundry other important reasons) being contained <lb/>
+in this treatise, and all of them made <normalised orig="plaine" auto="true">plain</normalised> <lb/>
+and confessed, not by <normalised orig="doubtfull" auto="true">doubtful</normalised> <choice ana="print-error">
+                     <sic>ambagie</sic>
+                     <corr>ambage</corr>
+                  </choice> of words, <lb/>
+neither by <normalised orig="onely" auto="true">only</normalised> sentences of Scriptures or Fathers, <lb/>
+though in them <normalised orig="selues" auto="true">selves</normalised> <normalised orig="neuer" auto="true">never</normalised> so manifest, (for that <lb/>
+course is specially and of purpose forborne, as being <lb/>
+in regard of our <normalised orig="aduersaries" auto="true">adversaries</normalised> <normalised orig="endles" auto="true">endless</normalised> <normalised orig="tergiuersation" auto="false">tergiversation</normalised> <lb/>
+no other (then as it were) a vast Ocean <normalised orig="wherin" auto="true">wherein</normalised> we can <lb/>
+hardly <normalised orig="restraine" auto="true">restrain</normalised> them to any <choice ana="illegible">
+                     <sic>cert*intie</sic>
+                     <corr><normalised orig="certaintie" auto="true">certainty</normalised></corr>
+                  </choice> of fight) <lb/>
+But (for their more full <normalised orig="conuincing" auto="true">convincing</normalised>) by those <normalised orig="speciall" auto="true">special</normalised> <lb/>
+                  <choice ana="illegible">
+                     <sic>test*monies</sic>
+                     <corr>testimonies</corr>
+                  </choice> (whether of Scriptures or <choice ana="illegible">
+                     <sic>Fathe*s</sic>
+                     <corr>Fathers</corr>
+                  </choice>) <lb/>
+whose <normalised orig="euident" auto="true">evident</normalised> sense on our <normalised orig="behalfe" auto="true">behalf</normalised>, is accordingly, <lb/>
+and for such acknowledged <normalised orig="euen" auto="true">even</normalised> by their <normalised orig="owne" auto="true">own</normalised> <lb/>
+learned writers, and those not <normalised orig="fewe" auto="true">few</normalised> or vulgar, but <lb/>
+many and of great estimation; I <normalised orig="haue" auto="true">have</normalised> in respect of <lb/>
+such their frequent and <choice ana="illegible">
+                     <sic>pla*<normalised orig="ne" auto="true">nor</normalised></sic>
+                     <corr><normalised orig="plaine" auto="true">plain</normalised></corr>
+                  </choice> testimonies, so fully <lb/>
+<normalised orig="alleaged" auto="true">alleged</normalised> in <normalised orig="iustificacion" auto="true">justification</normalised> of our Church and religion, <lb/>
+entitled this treatise: The Protestants <normalised orig="Apollogie" auto="true">Apology</normalised> of the <normalised orig="Romane" auto="true">Roman</normalised> <lb/>
+Church. How <normalised orig="effectuall" auto="true">effectual</normalised> that kind of argument <lb/>
+is which is thus taken <normalised orig="fro~" auto="true">from</normalised> the confession of the <normalised orig="aduersaries" auto="true">adversaries</normalised>, <lb/>
+I shall not need to <normalised orig="shew" auto="true">show</normalised>, <normalised orig="seing" auto="true">seeing</normalised> the force <normalised orig="therof" auto="true">thereof</normalised> <lb/>
+is not <normalised orig="onely" auto="true">only</normalised> acknowledged by Mr. D. Whittaker <lb/>
+and other Protestant writers, but is also of it <lb/>
+                  <pb n="4"/>
+                  <lb/>
+<normalised orig="selfe" auto="true">self</normalised> manifest <normalised orig="euen" auto="true">even</normalised> to common <normalised orig="vnderstanding" auto="true">understanding</normalised>; For <lb/>
+how can it be denied but that they, who in liking of <lb/>
+their <normalised orig="owne" auto="true">own</normalised> opinion, doubt not to <normalised orig="preferre" auto="true">prefer</normalised> and <normalised orig="maintaine" auto="true">maintain</normalised> <lb/>
+the same against the <normalised orig="vniforme" auto="true">uniform</normalised> and confessed <lb/>
+<normalised orig="iudgement" auto="true">judgment</normalised> to the <normalised orig="contrarie" auto="true">contrary</normalised>, of the <normalised orig="auncient" auto="true">ancient</normalised> Fathers, <lb/>
+of our now <normalised orig="Catholike" auto="true">Catholic</normalised> writers, and of their <normalised orig="owne" auto="true">own</normalised> learned <lb/>
+brethren are to be <normalised orig="giuen" auto="true">given</normalised> <normalised orig="ouer" auto="true">over</normalised> as being desperately <lb/>
+<normalised orig="incureable" auto="true">incurable</normalised>, &amp; much more <normalised orig="worthie" auto="true">worthy</normalised> of <normalised orig="conte~pt" auto="true">contempt</normalised> <lb/>
+then <normalised orig="answere" auto="true">answer</normalised>. These <normalised orig="thinges" auto="true">things</normalised> being thus premised, <lb/>
+the conclusion of my most humble request is, that <lb/>
+you will not forget to <normalised orig="reme~ber" auto="true">remember</normalised> these <normalised orig="knowne" auto="true">known</normalised> principles <lb/>
+of your <normalised orig="owne" auto="true">own</normalised> <normalised orig="schooles" auto="true">schools</normalised>, as namely that you are <lb/>
+but men, and <normalised orig="subiecte" auto="true">subject</normalised> (no <normalised orig="lesse" auto="true">less</normalised> then the Fathers <lb/>
+were, or then we yet are) to error, <normalised orig="ouer-sight" auto="false">over-sight</normalised>, and<lb/>
+<normalised orig="misvnderstandinge" auto="false">misunderstanding</normalised> of the Scriptures, that <normalised orig="therfore" auto="true">therefore</normalised> <lb/>
+you would <normalised orig="resolue" auto="true">resolve</normalised> to <quote type="biblical" ana="1 Jn 4.1"><normalised orig="trie" auto="true">try</normalised> the <normalised orig="spiritts" auto="false">spirits</normalised> if they be of <lb/>
+God</quote>, and <normalised orig="proue" auto="true">prove</normalised> all things <normalised orig="houlding" auto="false">holding</normalised> that which is good.<lb/>
+And that accordingly you would read <normalised orig="ouer" auto="true">over</normalised> this treatise, <lb/>
+not being <normalised orig="tra~sported" auto="true">transported</normalised> with <normalised orig="preiudicate" auto="true">prejudicate</normalised> conceit <lb/>
+of your former opinions, but as led <choice ana="illegible">
+                     <sic>the*to</sic>
+                     <corr><normalised orig="therto" auto="true">thereto</normalised></corr>
+                  </choice> with <lb/>
+indifferent and <normalised orig="equall" auto="true">equal</normalised> censure. Let not the sway of <lb/>
+times, or our <choice ana="illegible">
+                     <sic>m*series</sic>
+                     <corr>miseries</corr>
+                  </choice> <normalised orig="preuaile" auto="true">prevail</normalised> to make you so <normalised orig="regardles" auto="false">regardless</normalised>, <lb/>
+or <normalised orig="vs" auto="true">us</normalised> <choice ana="illegible">
+                     <sic>dispiseab*e</sic>
+                     <corr><normalised orig="dispiseable" auto="false">despisable</normalised></corr>
+                  </choice>, that <choice ana="illegible">
+                     <sic><normalised orig="ther" auto="true">there</normalised>*ore</sic>
+                     <corr><normalised orig="therfore" auto="true">therefore</normalised></corr>
+                  </choice> you should <lb/>
+be <normalised orig="vnmindfull" auto="true">unmindful</normalised> either of your <normalised orig="owne" auto="true">own</normalised> <normalised orig="soules" auto="true">souls</normalised> or our present <lb/>
+                  <choice ana="illegible">
+                     <sic>*ondition</sic>
+                     <corr>condition</corr>
+                  </choice>. Thus much but obtained, I doubt <lb/>
+not but you will in the end, awake from all former <lb/>
+<normalised orig="spirituall" auto="true">spiritual</normalised> <normalised orig="drousines" auto="false">drowsiness</normalised> of opinion &amp; <normalised orig="therupon" auto="true">thereupon</normalised> <normalised orig="confesse" auto="true">confess</normalised> <lb/>
+&amp; say of our <choice ana="illegible">
+                     <sic>Cathol*ke</sic>
+                     <corr><normalised orig="Catholike" auto="true">Catholic</normalised></corr>
+                  </choice> Church, as <normalised orig="Iacob" auto="true">Jacob</normalised> at his bodily <lb/>
+awaking said of the place where he dreamed <lb/>
+                  <quote type="biblical" ana="Gen 28.16">Surely the Lord was in this place</quote> and I was not aware. The <lb/>
+eternal God according to whose will all laws <normalised orig="shold" auto="true">should</normalised> <lb/>
+be made direct you accordingly in your making of <lb/>
+<normalised orig="lawes" auto="true">laws</normalised>, and incite or <normalised orig="stirre" auto="true">stir</normalised> <normalised orig="vp" auto="true">up</normalised>, if any (as God forbid) <lb/>
+not yet satisfied with our former troubles, <normalised orig="shoulde" auto="true">should</normalised> <lb/>
+<normalised orig="vrge" auto="true">urge</normalised> or <normalised orig="moue" auto="true">move</normalised> for our further continued <normalised orig="calamitie" auto="true">calamity</normalised>) <lb/>
+some one or other well <normalised orig="enspired" auto="false">inspired</normalised> <normalised orig="hart" auto="true">heart</normalised>, to <normalised orig="perswade" auto="true">persuade</normalised> <lb/>
+and <normalised orig="preuaile" auto="true">prevail</normalised> as did the <normalised orig="honorable" auto="true">honourable</normalised> Gamaliel when he <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 3</fw>
+                  <pb n="5"/>
+                  <lb/>
+<normalised orig="vpon" auto="true">upon</normalised> the like occasion said, <quote type="biblical" ana="Acts 5.35">Men of Israel take <lb/>
+<normalised orig="heede" auto="true">heed</normalised> what you intend to do touching these men</quote>: &amp;c. <lb/>
+<normalised orig="refraine" auto="true">refrain</normalised> your <normalised orig="selues" auto="true">selves</normalised> and let them alone, for if this <lb/>
+                  <choice ana="illegible">
+                     <sic>work*</sic>
+                     <corr><normalised orig="worke" auto="true">work</normalised></corr>
+                  </choice> of theirs be of men it will fall <lb/>
+away, but if it be of god, you are <lb/>
+not able to <normalised orig="dissolue" auto="true">dissolve</normalised> <lb/>
+it.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

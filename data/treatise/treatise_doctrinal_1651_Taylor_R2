@@ -1,0 +1,868 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Rvle" auto="false">Rule</normalised> and exercises of holy dying</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JeTa1613">Taylor, Jeremy</author>
+               <title type="main">The <normalised orig="rvle" auto="false">rule</normalised> and exercises of holy dying. In which are described the means and instruments of preparing our selves, and others respectively, for a blessed Death: and the remedies against the evils and temptations proper to the state of <normalised orig="Sicknesse" auto="true">Sickness</normalised>. Together with Prayers and Acts of <normalised orig="Vertue" auto="true">Virtue</normalised> to be used by sick and dying persons, or by others standing in their Attendance. To which are added. Rules for the Visitation of the Sick, and offices proper for that <normalised orig="Ministery" auto="true">Ministry</normalised>.</title>
+               <title type="short"><normalised orig="Rvle" auto="false">Rule</normalised> and exercises of holy dying</title>
+               <date when="1651">1651</date>
+               <date type="this_edition" when="1651">1651</date>
+               <idno type="Wing">T361</idno>
+               <note type="genre" subtype="treatise_doctrinal">doctrinal treatise</note>
+               <note type="sample" target="#JeTa1613_1651_treatise_doctrinal_1">p.35, l.1 – p.47, l.24</note>
+               <note type="sample" target="#JeTa1613_1651_treatise_doctrinal_2">p.98, l.9 – p.104, l.20</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">duodecimo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="JeTa1613_1651_treatise_doctrinal_1">
+            <div>
+               <head>SECT IV. <lb/>
+                  <lb/>
+Consideration of the miseries of <lb/>
+Mans life.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+AS our life is very short so it is very miserable, <lb/>
+and therefore it is well it is <lb/>
+short: God in pity to <normalised orig="mankinde" auto="true">mankind</normalised>, left his <lb/>
+burden should be insupportable and his nature <lb/>
+an intolerable load, <normalised orig="hath" auto="true">has</normalised> reduced our state <lb/>
+of misery to an abbreviature; and the greater <lb/>
+our misery is, the <normalised orig="lesse" auto="true">less</normalised> while it is like to last; <lb/>
+the sorrows of a mans spirit being like ponderous <lb/>
+weights which by the <normalised orig="greatnesse" auto="true">greatness</normalised> of <lb/>
+their burden make a swifter motion and descend <lb/>
+into the grave to rest and ease our wearied <lb/>
+limbs; for then <normalised orig="onely" auto="true">only</normalised> we shall sleep <lb/>
+quietly when those fetters are knocked off <lb/>
+which not <normalised orig="onely" auto="true">only</normalised> bound our souls in prison, <lb/>
+but also eat the flesh till the very bones <normalised orig="open'd" auto="true">opened</normalised> <lb/>
+the secret garments of their cartilages, discovering <lb/>
+their <normalised orig="nakednesse" auto="true">nakedness</normalised> and sorrow. <lb/>
+12. Here is no place to sit down in, but you <lb/>
+must rise as soon as you are set: for we have <lb/>
+gnats in our chambers, and worms in our <lb/>
+gardens, and spiders and flies in the palaces of <lb/>
+the greatest Kings. How few men in the world <lb/>
+are prosperous? what an infinite number of <lb/>
+slaves and <normalised orig="beggers" auto="true">beggars</normalised>, of persecuted and oppressed <lb/>
+people fill all corners of the earth <lb/>
+with groans, and Heaven it self with weeping <lb/>
+prayers, and sad remembrances? how many <lb/>
+Provinces and Kingdoms are afflicted by a <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="36">C 6</fw>
+                  <pb n="1"/>
+                  <lb/>
+violent war, or made desolate by popular diseases? <lb/>
+some whole <normalised orig="countreyes" auto="true">countries</normalised> are remarked <lb/>
+with fatal evils, or periodical sicknesses. Gran <lb/>
+Cairo in Egypt feels the plague every three <lb/>
+years, returning like a <normalised orig="Quartan" auto="true">Quart</normalised> ague, and destroying <lb/>
+many thousands of persons. All the <lb/>
+inhabitants of Arabia the desert are in <normalised orig="continuall" auto="true">continual</normalised> <lb/>
+fear of being buried in huge heaps of <lb/>
+sand, and therefore dwell in tents and ambulatory <lb/>
+houses or retire to unfruitful mountains <lb/>
+to prolong an uneasy and wilder life: and all <lb/>
+the <normalised orig="Countreyes" auto="true">Countries</normalised> round about the Adriatic <lb/>
+sea feel such violent convulsions by Tempests <lb/>
+and intolerable Earthquakes, that sometimes <lb/>
+whole cities find a <normalised orig="Tombe" auto="true">Tomb</normalised>, and every man <lb/>
+sinks with his own house made ready to become <lb/>
+his Monument, and his bed is crushed <lb/>
+into the disorders of a grave. Was not all the <lb/>
+world drowned at one deluge, and breach of <lb/>
+the Divine anger? and <lb/>
+shall not all the world again <lb/>
+be destroyed by fire? <lb/>
+Are there not many thousands <lb/>
+that die every night, <lb/>
+and that groan and weep <lb/>
+sadly every day? But what shall we think of <lb/>
+the great evil, which for the sins of men, God <lb/>
+<normalised orig="hath" auto="true">has</normalised> suffered to possess the greatest part of <lb/>
+<normalised orig="Mankinde" auto="true">Mankind</normalised>? Most of the men that are now <lb/>
+alive, or that have been living for many ages, <lb/>
+are Jews, Heathens, or Turcs: and God was <lb/>
+pleased to suffer a base Epileptic person, a <lb/>
+villain and a <normalised orig="vitious" auto="true">vicious</normalised> to set up a religion which <lb/>
+<normalised orig="hath" auto="true">has</normalised> filled almost all Asia, and Africa, and some <lb/>
+parts of Europe; so that the greatest number <lb/>
+of men and women born in so many kingdoms <lb/>
+and provinces are infallibly made Mahumetans, <lb/>
+                  <fw type="pageNum" n="37">36</fw>
+                  <pb n="2"/>
+                  <lb/>
+strangers and enemies to Christ, <lb/>
+by whom alone we can be saved. This consideration <lb/>
+is extremely sad, when we remember <lb/>
+how universal, and how great an evil it is, that <lb/>
+so many millions of sons and daughters are <lb/>
+born to enter into the possession of Devils to <lb/>
+eternal ages. These evils are the miseries of <lb/>
+great parts of <normalised orig="mankinde" auto="true">mankind</normalised>, and we cannot easily <lb/>
+consider more particularly, the evils which <lb/>
+happen to us, being the inseparable affections, <lb/>
+or incidents to the whole nature of man. <lb/>
+2. We <normalised orig="finde" auto="true">find</normalised> that all the women in the world <lb/>
+are either born for <normalised orig="barrennesse" auto="true">barrenness</normalised> or the pains of <lb/>
+Child-birth, and yet this is one of our greatest <lb/>
+blessings; but such indeed are the blessings of <lb/>
+this world: we cannot be well with, nor without <lb/>
+many things. Perfumes make our heads <normalised orig="ake" auto="true">ache</normalised>, <lb/>
+roses prick our fingers, and in our very blood <lb/>
+where our life dwells is the Scene under which <lb/>
+nature acts many sharp <normalised orig="Feavers" auto="true">Fevers</normalised> and heavy <choice ana="illegible">
+                     <sic>*cknesses</sic>
+                     <corr>sicknesses</corr>
+                  </choice>. <lb/>
+It were too sad if I should tell how many <lb/>
+persons are afflicted with evil spirits, with spectres <lb/>
+and illusions of the night; and that huge <lb/>
+multitudes of men and women live upon mans <lb/>
+flesh: Nay worse yet, upon the sins of men, upon <lb/>
+the sins of their sons and of their daughters, <lb/>
+and they pay their souls down for the bread <lb/>
+they eat, buying this <normalised orig="dayes" auto="true">days</normalised> meal with the price <lb/>
+of the last nights sin. <lb/>
+3. Or if you please in charity to visit an <lb/>
+Hospital, which is indeed a map of the whole <lb/>
+world, there you shall see the effects of Adams <lb/>
+sin and the <normalised orig="ruines" auto="true">ruins</normalised> of humane nature, bodies <lb/>
+laid up in heaps like the bones of a destroyed <lb/>
+town, homines precarii spiritus &amp; male haerentis, <lb/>
+men whose souls seem to be borrowed, and are <lb/>
+kept there by art and the force of Medicine; <lb/>
+                  <pb n="3"/>
+                  <lb/>
+whose miseries are so great, that few people <lb/>
+have charity or humanity enough to visit <lb/>
+them, fewer have the heart to <normalised orig="dresse" auto="true">dress</normalised> them, <lb/>
+and we pity them in civility or with a transient <lb/>
+prayer, but we do not feel their sorrows by <lb/>
+the mercies of a religious pity, and therefore <lb/>
+as we leave their sorrows in many degrees unrelieved <lb/>
+and uneased, so we contract by our <lb/>
+<normalised orig="unmercifulnesse" auto="true">unmercifulness</normalised> a guilt by which our selves <lb/>
+become liable to the same calamities. Those <lb/>
+many that need pity, and those infinites of <lb/>
+people that refuse to pity are miserable upon <lb/>
+a several charge, but yet they almost make up <lb/>
+all <normalised orig="mankinde" auto="true">mankind</normalised>. <lb/>
+4. All wicked men are in love with that <lb/>
+which <normalised orig="intangles" auto="true">entangles</normalised> them in huge variety of troubles, <lb/>
+they are slaves to the worst of Masters, <lb/>
+to sin and to the Devil, to a passion, and to an <lb/>
+imperious woman. Good men are for ever <lb/>
+persecuted, and God chastises every son whom <lb/>
+he receives, and whatsoever is easy is trifling <lb/>
+and worth nothing, and whatsoever is excellent <lb/>
+is not to be obtained <lb/>
+without labour and sorrow; <lb/>
+and the conditions and <lb/>
+states of men that are free <lb/>
+from great cares, are such as <lb/>
+have in them nothing rich <lb/>
+and orderly, and those that <lb/>
+have are stuck full of thorns <lb/>
+and trouble. Kings are full <lb/>
+of care; and learned men <lb/>
+in all ages have been observed <lb/>
+to be very poor, &amp; <lb/>
+                  honestas miserias accusant; <lb/>
+they complain of <choice ana="illegible">
+                     <sic>the*r</sic>
+                     <corr>their</corr>
+                  </choice> honest <lb/>
+miseries. <lb/>
+                  <pb n="4"/>
+                  <lb/>
+5. But these evils are notorious and confessed; <lb/>
+even they also whose felicity men stare <lb/>
+at and admire, besides their splendour and <lb/>
+the <normalised orig="sharpnesse" auto="true">sharpness</normalised> of their light, will with their <lb/>
+appendant sorrows wring a tear from the most <lb/>
+resolved eye. For not only the winter quarter <lb/>
+is full of storms and cold and <normalised orig="darknesse" auto="true">darkness</normalised>, but <lb/>
+the beauteous spring <normalised orig="hath" auto="true">has</normalised> blasts and sharp <lb/>
+frosts, the fruitful teeming summer is melted <lb/>
+with heat, and burnt with the kisses of the <lb/>
+sun her friend, and <normalised orig="choaked" auto="true">choked</normalised> with dust, <lb/>
+and the rich Autumn is full of <normalised orig="sicknesse" auto="true">sickness</normalised>, and <lb/>
+we are weary of that which we enjoy, because <lb/>
+sorrow is its biggest portion: and when we <lb/>
+remember that upon the fairest face is placed <lb/>
+one of the worst sinks of the body, the nose, <lb/>
+we may use it, not only as a mortification to <lb/>
+the pride of beauty, but as an allay to the <lb/>
+fairest outside of condition which any of the <lb/>
+sons and daughters of Adam do <normalised orig="possesse" auto="true">possess</normalised>. For <lb/>
+look upon Kings and <normalised orig="conquerours" auto="true">conquerors</normalised>: I will not <lb/>
+tell that many of them fall into the condition <lb/>
+of servants, and their subjects rule <lb/>
+over them, and stand upon the <lb/>
+<normalised orig="ruines" auto="true">ruins</normalised> of their families, and that <lb/>
+to such persons, the sorrow is <lb/>
+bigger then usually happens in <lb/>
+smaller fortunes: but let us suppose <lb/>
+them still <normalised orig="conquerers" auto="true">conquerors</normalised>, and see <lb/>
+what a goodly purchase they get <lb/>
+by all their pains and amazing <lb/>
+fears, and continual dangers. They carry their <lb/>
+arms beyond Ister, and <normalised orig="passe" auto="true">pass</normalised> the Euphrates, <lb/>
+and <normalised orig="binde" auto="true">bind</normalised> the Germans with the bounds of <lb/>
+the river Rhyne: I speak in the stile of the <lb/>
+Roman <normalised orig="greatnesse" auto="true">greatness</normalised>: for <join original="now adayes"><normalised orig="nowadayes" auto="false">nowadays</normalised></join>, the biggest <lb/>
+fortune swells not beyond the limits of a petty <lb/>
+                  <fw type="pageNum" n="40">39</fw>
+                  <pb n="5"/>
+                  <lb/>
+province or two, and a hill confines the <normalised orig="progresse" auto="true">progress</normalised> <lb/>
+of their prosperity, or a river checks it: <lb/>
+But whatsoever tempts the pride and vanity of <lb/>
+ambitious persons is not so big as the smallest <lb/>
+star which we see scattered in disorder, and <lb/>
+unregarded upon the pavement and floor of <lb/>
+Heaven. And if we would suppose the pismires <lb/>
+had but our understandings, they also would <lb/>
+have the method of a Mans <normalised orig="greatnesse" auto="true">greatness</normalised>, and <lb/>
+divide their little <normalised orig="Mole-hils" auto="false">Molehills</normalised> into Provinces <lb/>
+and Exarchats: and if they also grew as <normalised orig="vitious" auto="true">vicious</normalised> <lb/>
+and as miserable, one of their princes <lb/>
+would lead an army out, and kill his neighbour <lb/>
+Ants that he might reign over the next <lb/>
+<normalised orig="handfull" auto="true">handful</normalised> of a Turse. But then if we consider <lb/>
+at what price, and with what felicity all this is <lb/>
+purchased, the sting of the painted snake will <lb/>
+quickly appear, and the fairest of their fortunes <lb/>
+will properly enter into this account of <lb/>
+humane infelicities. <lb/>
+We may <normalised orig="guesse" auto="true">guess</normalised> at it by the constitution of <lb/>
+Augustus fortune; who <normalised orig="strugled" auto="true">struggled</normalised> for his power, <lb/>
+first with the Roman Citizens, then with <lb/>
+Brutus and Cassius and all the fortune of the <lb/>
+<normalised orig="Republike" auto="false">Republic</normalised>; then with his <normalised orig="Collegue" auto="true">Colleague</normalised> Marc. <lb/>
+Anthony; then with his <normalised orig="kinred" auto="true">kindred</normalised> and <normalised orig="neerest" auto="true">nearest</normalised> <lb/>
+Relatives; and after he was wearied with <lb/>
+slaughter of the Romans, before he could sit <lb/>
+down and rest in his imperial chair he was <lb/>
+forced to carry armies into Macedonia, Galatia, <lb/>
+beyond <choice ana="illegible">
+                     <sic>*uphrates</sic>
+                     <corr>Euphrates</corr>
+                  </choice>, Rhyne, and Danubius: <lb/>
+And when he dwelt at home in <normalised orig="greatnesse" auto="true">greatness</normalised> and <lb/>
+within the circles of a mighty power, he hardly <lb/>
+escaped the sword of the Egnatii, of Lepidus, <lb/>
+Caepio, and Muraena: and after he had entirely <lb/>
+reduced the felicity and Grandeur into his own <lb/>
+family, his Daughter, his <normalised orig="onely" auto="true">only</normalised> <normalised orig="childe" auto="true">child</normalised> conspired <lb/>
+                  <pb n="6"/>
+                  <lb/>
+with many of the young Nobility, and <lb/>
+being <normalised orig="joyned" auto="true">joined</normalised> with adulterous complications <lb/>
+as with an impious sacrament they affrighted <lb/>
+and destroyed the fortune of the old man, <lb/>
+and wrought him more sorrow then all the <lb/>
+troubles that were hatched in the baths and <lb/>
+beds of Egypt, between Anthony and Cleopatra. <lb/>
+This was the greatest fortune that the world <lb/>
+had then, or ever since, and therefore we cannot <lb/>
+expect it to be better in a <normalised orig="lesse" auto="true">less</normalised> prosperity. <lb/>
+6. The prosperity of this world is so infinitely <lb/>
+<normalised orig="sowred" auto="true">soured</normalised> with the overflowing of evils, <lb/>
+that he is counted the most happy who <normalised orig="hath" auto="true">has</normalised> <lb/>
+the fewest; all conditions being evil and <lb/>
+miserable, they are <normalised orig="onely" auto="true">only</normalised> distinguished by the <lb/>
+Number of calamities. The Collector of the <lb/>
+Roman and <normalised orig="forreign" auto="true">foreign</normalised> examples, when he had <lb/>
+reckoned two and twenty instances of great <lb/>
+fortunes every one of which had been allayed <lb/>
+with great variety of evils; in all his reading <lb/>
+or experience he could tell but of two who <lb/>
+had been famed for an <normalised orig="intire" auto="true">entire</normalised> prosperity; <lb/>
+Quintus Metellus, and Gyges the King of Lydia; <lb/>
+and yet concerning the one of them he tells <lb/>
+that his felicity was so inconsiderable (and <lb/>
+yet it was the bigger of the two) that the <lb/>
+Oracle said that Aglaus the Sophidius the poor Arcadian <lb/>
+Shepherd was more happy then he, <lb/>
+that is, he had fewer troubles; for so indeed <lb/>
+we are to reckon the pleasures of this life; the <lb/>
+limit of our joy is the absence of some degrees of <lb/>
+sorrow, and he that <normalised orig="hath" auto="true">has</normalised> the least of this, is the <lb/>
+most prosperous person. But then we must look <lb/>
+for prosperity, not in Palaces or Courts of <lb/>
+Princes, not in the tents of <normalised orig="Conquerers" auto="true">Conquerors</normalised>, or in <lb/>
+the gaieties of fortunate and prevailing sinners; <lb/>
+but something rather in the Cottages of <lb/>
+                  <fw type="pageNum" n="42">41</fw>
+                  <pb n="7"/>
+                  <lb/>
+honest innocent and contented persons, whose <lb/>
+<normalised orig="minde" auto="true">mind</normalised> is no bigger then their fortune, nor <lb/>
+their <normalised orig="vertue" auto="true">virtue</normalised> <normalised orig="lesse" auto="true">less</normalised> then their security. As for <lb/>
+others whose fortune looks bigger, and allures <lb/>
+fools to follow it like the <normalised orig="wandring" auto="true">wandering</normalised> fires of <lb/>
+the night, till they run into rivers or are broken <lb/>
+upon rocks with staring and running after <lb/>
+them, they are all in the condition of <lb/>
+Marius, then whose condition nothing was <lb/>
+more constant, and nothing more mutable; if <lb/>
+we reckon them amongst the happy, they are the <lb/>
+most happy men, if we reckon them amongst the <lb/>
+miserable, they are the most miserable. For just <lb/>
+as is a mans condition, great or little, so is <lb/>
+the state of his misery; All have their share; <lb/>
+but Kings and Princes, great Generals and <lb/>
+Consuls, Rich men and Mighty, as they have <lb/>
+the biggest <normalised orig="businesse" auto="true">business</normalised> and the biggest charge, <lb/>
+and are answerable to God for the greatest <lb/>
+accounts, so they have the biggest trouble; <lb/>
+that the <normalised orig="uneasinesse" auto="false">uneasiness</normalised> of their appendage may <lb/>
+divide the good and evil of the world, <lb/>
+making the poor mans fortune as eligible <lb/>
+as the Greatest; and also restraining <lb/>
+the vanity of mans spirit which a great <lb/>
+Fortune is apt to swell from a vapour to a bubble; <lb/>
+but God in mercy <normalised orig="hath" auto="true">has</normalised> mingled wormwood <lb/>
+with their wine, and so restrained the <lb/>
+<normalised orig="drunkennesse" auto="true">drunkenness</normalised> and follies of prosperity. <lb/>
+7. Man never <normalised orig="hath" auto="true">has</normalised> one day to himself of entire <lb/>
+peace from the things of this world, but either <lb/>
+<normalised orig="somthing" auto="true">something</normalised> troubles him, or nothing satisfies <lb/>
+him, or his very <normalised orig="fulnesse" auto="true">fullness</normalised> swells him and makes <lb/>
+him breath short upon his bed. <normalised orig="Mens" auto="true">Men's</normalised> <normalised orig="joyes" auto="true">joys</normalised> <lb/>
+are troublesome, and besides that the fear of <lb/>
+losing them takes away the present pleasure <lb/>
+(and a man had need of another felicity to <lb/>
+                  <fw type="pageNum" n="43">42</fw>
+                  <pb n="8"/>
+                  <lb/>
+preserve this) they are also wavering and full <lb/>
+of trepidation, not <normalised orig="onely" auto="true">only</normalised> from their inconstant <lb/>
+nature, but from their weak foundation: <lb/>
+They arise from <choice ana="illegible">
+                     <sic>vanit*</sic>
+                     <corr>vanity</corr>
+                  </choice>, and they dwell <lb/>
+upon ice, and they converse with the <normalised orig="winde" auto="true">wind</normalised>, <lb/>
+and they have the wings of a bird, and are <lb/>
+serious but as the resolutions of a <normalised orig="childe" auto="true">child</normalised>, commenced <lb/>
+by chance, and managed by folly and <lb/>
+proceed by <normalised orig="inadvertency" auto="true">inadvertence</normalised>, and end in vanity <lb/>
+and <normalised orig="forgetfulnesse" auto="true">forgetfulness</normalised>. So that, as Livius Drusus <lb/>
+said of himself, he never had any play <normalised orig="dayes" auto="true">days</normalised>, or <lb/>
+<normalised orig="dayes" auto="true">days</normalised> of quiet when he was a boy, for he was <lb/>
+troublesome and <normalised orig="busie" auto="true">busy</normalised>, a <normalised orig="restlesse" auto="true">restless</normalised> and unquiet <lb/>
+man, the same may every man observe to be <lb/>
+true of himself: he is <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="restlesse" auto="true">restless</normalised> and <lb/>
+uneasy, he dwells upon the waters and leans <lb/>
+upon thorns, and <normalised orig="layes" auto="true">lays</normalised> his head upon a sharp <lb/>
+stone. <lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>SECT. V. <lb/>
+                  <lb/>
+This Consideration reduced to <lb/>
+practice.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+1. THe effect of this consideration is this, <lb/>
+That the sadnesses of this life help to <lb/>
+sweeten the bitter cup of Death. For let our <lb/>
+life be never so long, if our strength were <lb/>
+great as that of oxen and camels; if our sinews <lb/>
+were strong as the cordage at the foot of an <lb/>
+<normalised orig="Oke" auto="true">Oak</normalised>, if we were as fighting and prosperous <lb/>
+people as Siccius Dentatus, who was on the prevailing <lb/>
+side in 120 <normalised orig="battels" auto="true">battles</normalised>, who had 312 <normalised orig="publike" auto="true">public</normalised> <lb/>
+rewards assigned him by his Generals and <lb/>
+Princes for his valour, and conduct in sieges <lb/>
+                  <pb n="9"/>
+                  <lb/>
+and short encounters, and besides all this had <lb/>
+his share in nine triumphs, yet still the period <lb/>
+shall be, that all this shall end in death, <lb/>
+and the people shall talk of us a while, <lb/>
+good or <normalised orig="bad" auto="true">bade</normalised>, according as we deserve, or <lb/>
+as they please; and once it shall come to <lb/>
+<normalised orig="passe" auto="true">pass</normalised>, that concerning every one of us it shall <lb/>
+be told in the Neighbourhood that we are <lb/>
+dead. This we are apt to think a sad story; <lb/>
+but therefore let us help it with a sadder; <lb/>
+For we therefore need not be much <lb/>
+troubled that we shall die, because we are <lb/>
+not here in ease, nor do we dwell in a fair <lb/>
+condition. But our <normalised orig="dayes" auto="true">days</normalised> are full of sorrow <lb/>
+and anguish, dishonoured and made <lb/>
+unhappy with many sins, with a frail and a <lb/>
+foolish spirit, <normalised orig="intangled" auto="true">entangled</normalised> <choice ana="illegible">
+                     <sic>w*th</sic>
+                     <corr>with</corr>
+                  </choice> difficult cases <lb/>
+of conscience, <normalised orig="insnared" auto="true">ensnared</normalised> with passions, amazed <lb/>
+with fears, full of cares, divided with <lb/>
+curiosities, and contradictory interests, made <lb/>
+<normalised orig="aery" auto="true">aerie</normalised> and impertinent with vanities, abused <lb/>
+with ignorance and prodigious <normalised orig="errours" auto="true">errors</normalised>, made <lb/>
+ridiculous with a thousand weaknesses, <normalised orig="worne" auto="true">worn</normalised> <lb/>
+away with labours, <normalised orig="loaden" auto="true">laden</normalised> with diseases, daily <lb/>
+vexed with dangers and temptations, and <lb/>
+in love  <choice ana="illegible">
+                     <sic>w*th</sic>
+                     <corr>with</corr>
+                  </choice> misery; we are <normalised orig="weakned" auto="true">weakened</normalised> with <lb/>
+delights, afflicted with want, with the evils <lb/>
+of my self, and of all my family, and with <lb/>
+the sadnesses of all my friends, and of all <lb/>
+good men, even of the whole Church; and <lb/>
+therefore me thinks we need not be troubled <lb/>
+that God is pleased to put an end to <lb/>
+all these troubles, and to let them sit down <lb/>
+in a natural period, which if we please, may <lb/>
+be to us the beginning of a better life. <lb/>
+When the Prince of Persia wept because his <lb/>
+army should all die in the revolution of an <lb/>
+                  <pb n="10"/>
+                  <lb/>
+age, Artabanus told him, that they should <lb/>
+all meet with evils so many and so great, <lb/>
+that every man of them should wish himself <lb/>
+dead long before that. Indeed it were <lb/>
+a sad thing to be cut of the stone; and we <lb/>
+that are in health tremble to think of it; <lb/>
+but the man that is wearied with the disease, <lb/>
+looks upon that <normalised orig="sharpnesse" auto="true">sharpness</normalised> as upon his <lb/>
+cure and <normalised orig="remedie" auto="true">remedy</normalised>: and as none need to have <lb/>
+a tooth drawn, so none could well endure <lb/>
+it, but he that <normalised orig="hath" auto="true">has</normalised> felt the pain of it in <lb/>
+his head: so is our life so full of evils, that <lb/>
+therefore death is no evil to them that have <lb/>
+felt the smart of this, or hope for the <normalised orig="joyes" auto="true">joys</normalised> <lb/>
+of a better. <lb/>
+2. But as it helps to ease a certain sorrow, <lb/>
+as a fire <normalised orig="drawes" auto="true">draws</normalised> out fire, and a nail <lb/>
+drives forth a nail; so it instructs us in a <lb/>
+present duty; that is; that we should not <lb/>
+be so fond of a perpetual storm, nor <normalised orig="doat" auto="true">dote</normalised> <lb/>
+upon the transient <normalised orig="gaudes" auto="true">gauds</normalised> and gilded <lb/>
+thorns of this world. They are not worth <lb/>
+a passion, nor worth a sigh or a groan, not <lb/>
+of the price of one nights watching; and <lb/>
+therefore they are mistaken and miserable <lb/>
+persons who since Adam planted thorns round <lb/>
+about Paradise, are more in love with that <lb/>
+hedge, then with the fruits of the garden, <lb/>
+sottish admirers of things that hurt them, of <lb/>
+sweet poisons, gilded daggers and silken halters. <lb/>
+Tell them they have lost a bounteous friend, <lb/>
+a <choice ana="illegible">
+                     <sic>r*ch</sic>
+                     <corr>rich</corr>
+                  </choice> purchase, a fair farm, a wealthy donative, <lb/>
+and you dissolve their patience; It is an evil <lb/>
+bigger then their spirit can bear, it brings <lb/>
+<normalised orig="sicknesse" auto="true">sickness</normalised> and death, they can neither <normalised orig="eate" auto="true">eat</normalised> <lb/>
+nor sleep with such a sorrow. But if you <lb/>
+represent to them the evils of a <normalised orig="vitious" auto="true">vicious</normalised> habit, <lb/>
+                  <pb n="11"/>
+                  <lb/>
+and the dangers of a state of sin; if <lb/>
+you tell them they have displeased God, and <lb/>
+interrupted their hopes of heaven, it may be <lb/>
+they will be so civil as to hear it patiently, <lb/>
+and to treat you kindly, and first to commend, and <lb/>
+then to forget your story, because they prefer <lb/>
+this world with all its <normalised orig="sorrowes" auto="true">sorrows</normalised>, before the <lb/>
+pure unmingled felicities of heaven. But it is <lb/>
+strange that any man should be so passionately <lb/>
+in love with the thorns that grow on his own <lb/>
+ground, that he should wear them for armelets, <lb/>
+and knit them in his shirt, and prefer them <lb/>
+before a kingdom and immortality. No man <lb/>
+loves this world the better for his being poor; <lb/>
+but men that love it, because they have great <lb/>
+possessions, love it because it is troublesome <lb/>
+and chargeable, full of noise and temptation; <lb/>
+because it is unsafe and ungoverned, flattered <lb/>
+and abused: and he that considers the troubles <lb/>
+of an overlong garment, and of a crammed <lb/>
+stomach, a trailing gown and a <normalised orig="loaden" auto="true">laden</normalised> <lb/>
+Table, may justly understand that all that for <lb/>
+which men are so passionate, is their hurt and <lb/>
+their objection, that which a temperate man <lb/>
+would avoid, and a wise man cannot love. <lb/>
+He that is no fool, but can consider wisely; <lb/>
+if he be in love with this world; we need not <lb/>
+despair but that a witty man might reconcile <lb/>
+him with tortures, and make him think charitably <lb/>
+of the Rack, and be brought to dwell <lb/>
+with Vipers and Dragons, and entertain his <lb/>
+Guests with the shrikes of Mandrakes, Cats <lb/>
+and Scrich Owls, with the filing of iron, and <lb/>
+the <normalised orig="harshnesse" auto="true">harshness</normalised> of rending silk; or to admire <lb/>
+the harmony that is made by a herd of Evening <lb/>
+wolves when they <normalised orig="misse" auto="true">miss</normalised> their draught <lb/>
+of blood in their midnight Revels. The groans <lb/>
+                  <fw type="pageNum" n="47">46</fw>
+                  <pb n="12"/>
+                  <lb/>
+of a man in a fit of the stone are worse then <lb/>
+all these; and the distractions of a troubled <lb/>
+conscience are worse then those groans; and yet <lb/>
+a <normalised orig="carelesse" auto="true">careless</normalised> merry sinner is worse then all that. <lb/>
+But if we could from one of the battlements <lb/>
+of Heaven <normalised orig="espie" auto="true">espy</normalised> how many men and women <lb/>
+at this time <normalised orig="lye" auto="true">lie</normalised> fainting and dying for want of <lb/>
+bread, how many young men are <normalised orig="hewen" auto="true">hewn</normalised> down <lb/>
+by the sword of war; how many poor Orphans <lb/>
+are now weeping over the graves of their <lb/>
+Father, by whose life they were enabled to eat. <lb/>
+If we could but hear how many Mariners, <lb/>
+and Passengers are at this present in a storm, <lb/>
+and shrike out because their keel dashes against <lb/>
+a Rock, or bulges under them; how <lb/>
+many people there are that weep with want, <lb/>
+and are mad with oppression, or are desperate <lb/>
+by too quick a sense of a constant infelicity, <lb/>
+in all reason we should be glad to be out of <lb/>
+the noise and participation of so many evils. <lb/>
+This is a place of sorrows and tears, of great <lb/>
+evils and a constant calamity; let us remove <lb/>
+from hence, at least in affections and preparation <lb/>
+of <normalised orig="minde" auto="true">mind</normalised>. <lb/>
+               </p>
+            </div>
+         </div>
+         <div xml:id="JeTa1613_1651_treatise_doctrinal_2">
+            <div>
+               <head>SECT. V. <lb/>
+                  <lb/>
+Remedies against Impatience by <lb/>
+Way of exercise.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+THe fittest instrument of esteeming <normalised orig="sicknesse" auto="true">sickness</normalised> <lb/>
+easily <choice ana="illegible">
+                     <sic>toler*ble</sic>
+                     <corr>tolerable</corr>
+                  </choice>, is to remember <lb/>
+that which indeed makes it so; and that is, <lb/>
+that God <normalised orig="doth" auto="true">does</normalised> minister proper aids and supports <lb/>
+to every of his servants whom he visits <lb/>
+with his rod. He knows our needs, he pities our <lb/>
+sorrows, he relieves our miseries, he supports <lb/>
+our <normalised orig="weaknesse" auto="true">weakness</normalised>, he bids us ask for help, and he <lb/>
+promises to give us all that, and he usually <lb/>
+gives us more, and indeed it is observable, <lb/>
+that no story tells of any godly man, who living <lb/>
+in the fear of God fell into a violent and <lb/>
+unpardoned impatience in his <normalised orig="naturall" auto="true">natural</normalised> <normalised orig="sicknesse" auto="true">sickness</normalised>, <lb/>
+if he used those means which God and <lb/>
+his holy Church have appointed. We see almost <lb/>
+all men bear their last <normalised orig="sicknesse" auto="true">sickness</normalised> with <normalised orig="sorrowes" auto="true">sorrows</normalised> <lb/>
+indeed, but without violent passions; and <lb/>
+<normalised orig="unlesse" auto="true">unless</normalised> they fear death violently, they suffer <lb/>
+the <normalised orig="sicknesse" auto="true">sickness</normalised> with some <normalised orig="indifferency" auto="true">indifference</normalised>; and it is <lb/>
+                  <pb n="13"/>
+                  <lb/>
+a rare thing to see a man who <normalised orig="enjoyes" auto="true">enjoys</normalised> his reason <lb/>
+in his <normalised orig="sicknesse" auto="true">sickness</normalised>, to <normalised orig="expresse" auto="true">express</normalised> the proper <lb/>
+<normalised orig="signes" auto="true">signs</normalised> of a direct and <normalised orig="solemne" auto="true">solemn</normalised> impatience. For <lb/>
+when God <normalised orig="layes" auto="true">lays</normalised> a <normalised orig="sicknesse" auto="true">sickness</normalised> upon us, he seizes <lb/>
+commonly on a mans spirits, which are the <lb/>
+instruments of action and <normalised orig="businesse" auto="true">business</normalised>; and when <lb/>
+they are secured from being tumultuous, the <lb/>
+sufferance is much the easier; and therefore <lb/>
+<normalised orig="sicknesse" auto="true">sickness</normalised> secures all that, which can do the <lb/>
+man mischief. It makes him tame and passive, <lb/>
+apt for suffering, and confines him to an unactive <lb/>
+condition. To which if we <normalised orig="adde" auto="true">add</normalised>, that <lb/>
+God then commonly produces fear, and all <lb/>
+those passions which naturally tend to humility <lb/>
+and poverty of spirit, we shall soon perceive <lb/>
+by what instruments God verifies his promise <lb/>
+to us, (which is the great security for our patience, <lb/>
+and the <normalised orig="easinesse" auto="true">easiness</normalised> of our condition) <lb/>
+that God will lay no more upon us then he will <lb/>
+make us able to bear, <quote type="biblical" ana="1 Cor 10.13">but together with the affliction <lb/>
+he will <normalised orig="finde" auto="true">find</normalised> a way to escape</quote>: Nay, if any <lb/>
+thing can be more then this; we have two <lb/>
+or three promises, in which we <choice ana="illegible">
+                     <sic>ma*</sic>
+                     <corr>may</corr>
+                  </choice> safely <lb/>
+lodge our selves, and <normalised orig="roul" auto="true">roll</normalised> from off our thorns, <lb/>
+and <normalised orig="finde" auto="true">find</normalised> ease and rest: God <normalised orig="hath" auto="true">has</normalised> promised to <lb/>
+be with us in our trouble, and to be with us in <lb/>
+our prayers, and to be with us in our hope and <lb/>
+confidence. <lb/>
+2. Prevent the violence and trouble of <lb/>
+thy spirit by an act of thanksgiving; for which <lb/>
+in the worst of sicknesses thou <normalised orig="canst" auto="true">can</normalised> not want <lb/>
+cause, especially if thou <normalised orig="remembrest" auto="true">remember</normalised> that this <lb/>
+pain is not an <normalised orig="eternall" auto="true">eternal</normalised> pain. <normalised orig="Blesse" auto="true">Bless</normalised> God for that; <lb/>
+But take heed also lest you so order your affairs <lb/>
+that you <normalised orig="passe" auto="true">pass</normalised> from hence to an <normalised orig="eternall" auto="true">eternal</normalised> <lb/>
+                  <choice ana="illegible">
+                     <sic>so*r*w</sic>
+                     <corr>sorrow</corr>
+                  </choice>. If that be hard, this will be intolerable, <lb/>
+But as for the present evil, a few <normalised orig="dayes" auto="true">days</normalised> will end <lb/>
+it. <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="100">F 2</fw>
+                  <pb n="14"/>
+                  <lb/>
+3. Remember that thou art a man and a <lb/>
+Christian: as the Covenant of nature <normalised orig="hath" auto="true">has</normalised> made <lb/>
+it necessary, so the covenant of grace <normalised orig="hath" auto="true">has</normalised> made it <lb/>
+to be chosen by thee, to be a suffering person: <lb/>
+either you must renounce your religion, or <lb/>
+submit to the impositions of God, and thy <lb/>
+portion of sufferings. So that here we see our <lb/>
+advantages, and let us use them accordingly. <lb/>
+The barbarous and warlike nations of old, <lb/>
+could fight well and willingly, but could not <lb/>
+bear <normalised orig="sicknesse" auto="true">sickness</normalised> manfully. The Greeks were <lb/>
+cowardly in their fights, as most wise men are, <lb/>
+but because they were learned and well <lb/>
+taught, they bore their <normalised orig="sicknesse" auto="true">sickness</normalised> with patience <lb/>
+and severity. The Cimbrians and Celtiberians <lb/>
+<normalised orig="rejoyce" auto="true">rejoice</normalised> in <normalised orig="battail" auto="true">battle</normalised> like <normalised orig="Gyants" auto="true">Giants</normalised>, but in <lb/>
+their diseases they weep like Women. These <lb/>
+according to their institution and <normalised orig="designes" auto="true">designs</normalised> <lb/>
+had unequal courages and accidental fortitude; <lb/>
+but since our Religion <normalised orig="hath" auto="true">has</normalised> made a <lb/>
+covenant of sufferings; and the great <normalised orig="businesse" auto="true">business</normalised> <lb/>
+of our lives is sufferings; and most of the <normalised orig="vertues" auto="true">virtues</normalised> <lb/>
+of a Christian are passive graces, and all <lb/>
+the promises of the Gospel are passed upon us <lb/>
+through Christs <normalised orig="crosse" auto="true">cross</normalised>, we have a necessity upon <lb/>
+us to have an equal courage in all the variety <lb/>
+of our sufferings: for without an universal <lb/>
+fortitude we can do nothing of our <lb/>
+<normalised orig="dutie" auto="true">duty</normalised>. <lb/>
+4. Resolve to do as much as you can: for <lb/>
+certain it is, we can suffer very much, if we <lb/>
+list; and many men have afflicted themselves <lb/>
+unreasonably by not being skilful to consider <lb/>
+how much their strength and state could permit; <lb/>
+and our flesh is nice and imperious, <lb/>
+crafty to <normalised orig="perswade" auto="true">persuade</normalised> reason that she <normalised orig="hath" auto="true">has</normalised> more <lb/>
+necessities then indeed belong to her, and that <lb/>
+                  <fw type="pageNum" n="101">100</fw>
+                  <pb n="15"/>
+                  <lb/>
+she demands nothing superfluous: suffer as <lb/>
+much in obedience to God as you can suffer <lb/>
+for necessity, or passion, fear, or desire. And <lb/>
+if you can for one thing, you can for another, <lb/>
+and there is nothing wanting but the <normalised orig="minde" auto="true">mind</normalised>. <lb/>
+Never say; I can do no more, I cannot endure this. <lb/>
+For God would not have sent it, if he had <lb/>
+not known thee strong enough to abide it; <lb/>
+<normalised orig="onely" auto="true">only</normalised> he that knows thee well already, would <lb/>
+also take this occasion to make thee know thy <lb/>
+self. But it will be fit that you pray to God <lb/>
+to give you a discerning spirit, that you may <lb/>
+rightly distinguish just necessity from the flattery <lb/>
+and fondnesses of flesh and blood. <lb/>
+5. Propound to your eyes and heart the <lb/>
+example of the holy Jesus upon the <normalised orig="crosse" auto="true">cross</normalised>; <lb/>
+he endured more for thee then thou <normalised orig="canst" auto="true">can</normalised> <lb/>
+either for thy self or him: and remember <lb/>
+that if we be put to suffer, and do suffer in a <lb/>
+good cause, or in a good manner, so that in any <lb/>
+sense your sufferings be conformable to his <lb/>
+sufferings, or can be capable of being united <lb/>
+to his, we shall reign together with him. The <lb/>
+high way of the <normalised orig="Crosse" auto="true">Cross</normalised> which the King of sufferings <lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="troden" auto="true">trodden</normalised> before us, is the way to ease, <lb/>
+to a kingdom, and to felicity. <lb/>
+6. The very suffering is a title to an excellent <lb/>
+inheritance: for, God chastens every son <lb/>
+whom he receives, and if we be not chastised, <lb/>
+we are bastards and not sons: and be confident, <lb/>
+that although God often sends pardon without <lb/>
+correction, yet he never sends correction without <lb/>
+pardon, unless it be thy fault: and therefore <lb/>
+take every or any affliction as an earnest <lb/>
+<normalised orig="peny" auto="true">penny</normalised> of thy pardon; and upon condition there <lb/>
+may be peace with God, let any thing be welcome <lb/>
+that he can send as its instrument or <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="102">F 3</fw>
+                  <pb n="16"/>
+                  <lb/>
+condition. Suffer therefore God to choose his <lb/>
+own circumstances of <choice ana="illegible">
+                     <sic>adopt*ng</sic>
+                     <corr>adopting</corr>
+                  </choice> thee, and be <lb/>
+content to be under discipline when the reward <lb/>
+of that is, to become the son of God: and <lb/>
+by such inflictions he <normalised orig="hewes" auto="true">hues</normalised> and breaks thy <lb/>
+body, first dressing it to funeral, and then preparing <lb/>
+it for immortality: and if this be the <lb/>
+effect of the <normalised orig="designe" auto="true">design</normalised> of Gods love to thee; let <lb/>
+it be occasion of thy love to him: and remember <lb/>
+that the truth of love is hardly known, <lb/>
+but by somewhat that puts us to pain. <lb/>
+7. Use this as a punishment for thy sins; <lb/>
+and so God intends it most commonly; that <lb/>
+is certain, if therefore thou <normalised orig="submittest" auto="false">submit</normalised> to it, <lb/>
+thou <normalised orig="approvest" auto="false">approve</normalised> of the divine judgement: and <lb/>
+no man can have cause to complain of any <lb/>
+thing, but of himself; if either he believes <lb/>
+God to be just, or himself to be a sinner: if <lb/>
+he either thinks he <normalised orig="hath" auto="true">has</normalised> deserved Hell, or <lb/>
+that this little may be a means to prevent the <lb/>
+greater, and bring him to Heaven. <lb/>
+8. It may be that this may be the last instance, <lb/>
+and the last opportunity that ever <lb/>
+God will give thee to exercise any <normalised orig="vertue" auto="true">virtue</normalised>, to <lb/>
+do him any service, or thy self any advantage; <lb/>
+be careful that thou <normalised orig="losest" auto="true">lose</normalised> not this; for to <lb/>
+eternal ages, this never shall return again. <lb/>
+9. Or if thou peradventure shalt be restored <lb/>
+to health, be <normalised orig="carefull" auto="true">careful</normalised> that in the day of <lb/>
+thy thanksgiving, thou <normalised orig="mayest" auto="true">may</normalised> not be ashamed <lb/>
+of thy self, for having behaved thy self poorly <lb/>
+and weakly upon thy bed: it will be a sensible <lb/>
+and excellent comfort to thee, and double <lb/>
+upon thy spirit, if when thou shalt worship <lb/>
+God for restoring thee, thou shalt also remember <lb/>
+that thou <normalised orig="didst" auto="true">did</normalised> do him service in thy suffering, <lb/>
+and tell that God was hugely gracious <lb/>
+                  <pb n="17"/>
+                  <lb/>
+to thee in giving thee the opportunity of a <lb/>
+<normalised orig="vertue" auto="true">virtue</normalised>, at so <normalised orig="easie" auto="true">easy</normalised> a rate as a <normalised orig="sicknesse" auto="true">sickness</normalised>, from <lb/>
+                  <choice ana="illegible">
+                     <sic>wh*ch</sic>
+                     <corr>which</corr>
+                  </choice> thou <normalised orig="didst" auto="true">did</normalised> recover. <lb/>
+10. Few men are so sick, but they believe <lb/>
+that they may recover; and we <normalised orig="shal" auto="true">shall</normalised> seldom see <lb/>
+a man lie down with a perfect persuasion that <lb/>
+it is his last hour; for many men have been <lb/>
+sicker, and yet have recovered; but whether <lb/>
+thou doest or no, thou <normalised orig="hast" auto="true">have</normalised> a <normalised orig="vertue" auto="true">virtue</normalised> to exercise, <lb/>
+which may be a handmaid to thy patience. <lb/>
+Epaphroditus was sick, sick unto death, <lb/>
+and yet God had mercy upon him; and he <lb/>
+<normalised orig="hath" auto="true">has</normalised> done so to thousands, to whom he found <lb/>
+it useful in the great order of things, and the <lb/>
+events of universal providence. If therefore <lb/>
+thou <normalised orig="desirest" auto="true">desire</normalised> to recover, here is cause enough <lb/>
+of hope; and hope is designed in the arts of <lb/>
+God and of the Spirit, to support patience. <lb/>
+But if thou <normalised orig="recoverest" auto="true">recover</normalised> not, yet there is something <lb/>
+that is matter of joy naturally, and very <lb/>
+much Spiritually if thou <normalised orig="belongest" auto="false">belong</normalised> to God, <lb/>
+and joy is as certain a support to patience, as <lb/>
+hope; and it is no small cause of being pleased, <lb/>
+when we remember that if we recover not, <lb/>
+our <normalised orig="sicknesse" auto="true">sickness</normalised> shall the sooner sit down in rest <lb/>
+and joy. For recovery by death, as it is easier <lb/>
+and better then the recovery by a sickly <lb/>
+health, so it is not so long in doing: it suffers <lb/>
+not the <normalised orig="tediousnesse" auto="true">tediousness</normalised> of a creeping restitution, <lb/>
+nor the inconvenience of Surgeons and <normalised orig="Physitians" auto="true">Physicians</normalised>, <lb/>
+<normalised orig="watchfulnesse" auto="true">watchfulness</normalised> and care, keepings in, <lb/>
+and suffering trouble, fears of relapse and the <lb/>
+little <normalised orig="reliques" auto="true">relics</normalised> of a storm. <lb/>
+11. While we hear, or use, or think of these <lb/>
+remedies, part of the <normalised orig="sicknesse" auto="true">sickness</normalised> is gone away, <lb/>
+and all of it is passing. And if by such instruments <lb/>
+we stand armed and ready dressed before <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="104">F 4</fw>
+                  <pb n="18"/>
+                  <lb/>
+hand, we shall avoid <lb/>
+the mischiefs of amazements <lb/>
+and <normalised orig="surprize" auto="true">surprise</normalised>; while <lb/>
+the accidents of <normalised orig="sicknesse" auto="true">sickness</normalised> <lb/>
+are such as were expected, <lb/>
+and against which we stood <lb/>
+in <normalised orig="readinesse" auto="true">readiness</normalised> with our spirits, contracted, instructed, <lb/>
+and put upon the defensive. <lb/>
+12. But our patience will be the better secured, <lb/>
+if we consider that it is not violently <lb/>
+tempted by the usual arrests of <normalised orig="sicknesse" auto="true">sickness</normalised>; for <lb/>
+patience is with reason demanded while the <lb/>
+<normalised orig="sicknesse" auto="true">sickness</normalised> is tolerable; that is, so long as the <lb/>
+evil is not too great; but if it be also eligible, <lb/>
+and have in it some degrees of good, our patience <lb/>
+will have in it the <normalised orig="lesse" auto="true">less</normalised> difficulty, and <lb/>
+the greater necessity. This therefore will be a <lb/>
+new stock of consideration. <normalised orig="Sicknesse" auto="true">Sickness</normalised> is in many <lb/>
+degrees eligible to many men, and to many purposes. <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

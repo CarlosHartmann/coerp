@@ -1,0 +1,219 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Beginning of Christ</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="SaHi1576">Hieron, Samuel</author>
+               <title type="main">"An <normalised orig="Aduertisement" auto="true">Advertisement</normalised> to the Reader." In: Hieron, Samuel. The Doctrine of the beginning of Christ. [...]</title>
+               <title type="short">Preface Beginning of Christ</title>
+               <date when="1606">1606</date>
+               <date type="this_edition" when="1606">1606</date>
+               <idno type="STC">13399.5</idno>
+               <note type="genre" subtype="preface_catechism">catechism preface</note>
+               <note type="sample" target="#SaHi1576_1606_preface_catechism_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="SaHi1576_1606_preface_catechism_1">
+            <div>
+               <head>An <normalised orig="Aduertisement" auto="true">Advertisement</normalised> to <lb/>
+the Reader.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+I Offer here <normalised orig="vnto" auto="true">unto</normalised> thee, good Reader, <lb/>
+this short <normalised orig="catechisme" auto="true">catechism</normalised>, neither preferring <lb/>
+it before other the like briefs <lb/>
+of Religion, neither yet equalling it <lb/>
+to any; but I <normalised orig="willinglye" auto="true">willingly</normalised> <normalised orig="submitte" auto="true">submit</normalised> it to thy <lb/>
+<normalised orig="iudgement" auto="true">judgment</normalised>, to place it in what <normalised orig="ranke" auto="true">rank</normalised> thou <lb/>
+wilt. <normalised orig="Onely" auto="true">Only</normalised> this; if thou art disposed, after <lb/>
+thou <normalised orig="hast" auto="true">have</normalised> viewed the title, to <normalised orig="looke" auto="true">look</normalised> further <lb/>
+into the thing it <normalised orig="selfe" auto="true">self</normalised>: then I pray thee by <lb/>
+the way, to take notice of this mine acquainting <lb/>
+thee with the order and <normalised orig="maner" auto="true">manner</normalised> of <lb/>
+that which <normalised orig="followeth" auto="true">follows</normalised>. <lb/>
+For order, it <normalised orig="sheweth" auto="true">shows</normalised> thee first, what was <lb/>
+the excellency of thy first <normalised orig="makinge" auto="true">making</normalised>, by the <lb/>
+<normalised orig="eternall" auto="true">eternal</normalised> <normalised orig="Trinitye" auto="true">Trinity</normalised>: Secondly, it <normalised orig="discouereth" auto="true">discovers</normalised> <lb/>
+the depth of misery, into which thou <lb/>
+<normalised orig="hast" auto="true">have</normalised> plunged thy <normalised orig="selfe" auto="true">self</normalised> by communicating <lb/>
+with Adams Disobedience, together with <lb/>
+thy <normalised orig="vtter" auto="true">utter</normalised> disability so much as by a thought <lb/>
+to desire, or to <choice ana="illegible">
+                     <sic>dese*ue</sic>
+                     <corr><normalised orig="deserue" auto="true">deserve</normalised></corr>
+                  </choice> thine <normalised orig="owne" auto="true">own</normalised> <normalised orig="recouery" auto="true">recovery</normalised>. <lb/>
+Thirdly, it <normalised orig="pointeth" auto="true">points</normalised> out Christ <normalised orig="vnto" auto="true">unto</normalised> thee, <lb/>
+whom God the Father had sealed, to <normalised orig="saue" auto="true">save</normalised> <lb/>
+his people from their <normalised orig="sinnes" auto="true">sins</normalised>. Fourthly, it <normalised orig="maketh" auto="true">makes</normalised> <lb/>
+<normalised orig="knowne" auto="true">known</normalised> <normalised orig="vnto" auto="true">unto</normalised> thee, the sufficiency of his <lb/>
+sacrifice, and the means of applying it to thy <lb/>
+<normalised orig="owne" auto="true">own</normalised> <normalised orig="soule" auto="true">soul</normalised>. <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 2</fw>
+                  <pb n="1"/>
+                  <lb/>
+Fiftly, it <normalised orig="teacheth" auto="true">teaches</normalised> thee whence to expect <lb/>
+faith, what <normalised orig="meanes" auto="true">means</normalised> to <normalised orig="vse" auto="true">use</normalised> for the attainment <lb/>
+of it, and how to be assured that it is <normalised orig="vnfayned" auto="true">unfeigned</normalised>. <lb/>
+                  <choice ana="illegible">
+                     <sic>Six*<normalised orig="ly" auto="true">lie</normalised></sic>
+                     <corr>Sixtly</corr>
+                  </choice>, because the end of the appearing <lb/>
+of grace is, that we should deny <normalised orig="vngodlines" auto="true">ungodliness</normalised>, <lb/>
+therefore it <normalised orig="vrgeth" auto="true">urges</normalised> <normalised orig="vpon" auto="true">upon</normalised> thee the <choice ana="illegible">
+                     <sic>necessi*y</sic>
+                     <corr>necessity</corr>
+                  </choice>
+                  <lb/>
+of good works, that so thou <normalised orig="maist" auto="false">may</normalised> be <lb/>
+neither idle nor <normalised orig="vnfruitfull" auto="true">unfruitful</normalised> in the <normalised orig="knoledge" auto="true">knowledge</normalised> <lb/>
+of our Lord <normalised orig="Iesus" auto="true">Jesus</normalised> Christ. <normalised orig="Seuenthly" auto="true">Seventhly</normalised>, forasmuch <lb/>
+as the way of the righteous <normalised orig="shineth" auto="true">shines</normalised>, as <lb/>
+the light that <normalised orig="shineth" auto="true">shines</normalised> more and more <normalised orig="vnto" auto="true">unto</normalised> <lb/>
+the <normalised orig="perfit" auto="true">perfect</normalised> day, therefore also it <normalised orig="calleth" auto="true">calls</normalised> <normalised orig="vpon" auto="true">upon</normalised> <lb/>
+thee to grow in grace, and <normalised orig="informeth" auto="true">informs</normalised> thee <lb/>
+by what <normalised orig="helpes" auto="true">helps</normalised> thou mayst <normalised orig="bee" auto="true">be</normalised> <normalised orig="ledde" auto="true">led</normalised> forward <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> perfection. Eightly, least in this <lb/>
+good course, being <normalised orig="encountred" auto="true">encountered</normalised> with <normalised orig="vnexpected" auto="true">unexpected</normalised> <lb/>
+                  <choice ana="illegible">
+                     <sic>trib*lations</sic>
+                     <corr>tribulations</corr>
+                  </choice>, thou <normalised orig="shouldst" auto="true">should</normalised> be wearied <lb/>
+and faint in thy <normalised orig="minde" auto="true">mind</normalised>, it <normalised orig="fore-aduiseth" auto="false">fore-advised</normalised> <lb/>
+thee of the <normalised orig="certainety" auto="true">certainty</normalised> of <normalised orig="diuers" auto="true">divers</normalised> afflictions, <lb/>
+and <normalised orig="teacheth" auto="true">teaches</normalised> thee both <normalised orig="howe" auto="true">how</normalised> to frame thy <lb/>
+<normalised orig="selfe" auto="true">self</normalised> to the taking <normalised orig="vp" auto="true">up</normalised> of thy <normalised orig="crosse" auto="true">cross</normalised>, and <normalised orig="withall" auto="true">withal</normalised> <lb/>
+what <choice ana="illegible">
+                     <sic>q*<normalised orig="iet" auto="true">jet</normalised></sic>
+                     <corr>quiet</corr>
+                  </choice> fruit of <normalised orig="righteousnesse" auto="true">righteousness</normalised> to expect, <lb/>
+by beeing exercised thereby; in the <lb/>
+<normalised orig="middest" auto="true">midst</normalised> of all, still looking for the blessed <lb/>
+hope &amp; appearing of the glory of the mighty <lb/>
+GOD, and of our <normalised orig="Sauiour" auto="true">Saviour</normalised> <normalised orig="Iesus" auto="true">Jesus</normalised> Christ. <lb/>
+Ninthly, and lastly, the <normalised orig="generall" auto="true">general</normalised> direction <lb/>
+for <normalised orig="Holinesse" auto="true">Holiness</normalised> and <normalised orig="Righteousnesse" auto="true">Righteousness</normalised>, it <normalised orig="applyeth" auto="true">applies</normalised> <lb/>
+                  <pb n="2"/>
+                  <lb/>
+to particulars, both to thy daily <normalised orig="cariage" auto="true">carriage</normalised> <lb/>
+in the <normalised orig="vse" auto="true">use</normalised> of things indifferent, as <normalised orig="apparrel" auto="true">apparel</normalised>, <lb/>
+meat, recreation, rest, and to thine age, quality <lb/>
+and calling, that so in <normalised orig="euery" auto="true">every</normalised> respect, thy <lb/>
+<normalised orig="conuersation" auto="true">conversation</normalised> may <normalised orig="bee" auto="true">be</normalised> such as <normalised orig="becommeth" auto="true">becomes</normalised> <lb/>
+the <normalised orig="Gospell" auto="true">Gospel</normalised>. This is the course and <normalised orig="summe" auto="true">sum</normalised> <lb/>
+of this <normalised orig="forme" auto="true">form</normalised> of Holy Doctrine, whereunto <lb/>
+my desire is to <normalised orig="deliuer" auto="true">deliver</normalised> thee, and in which I <lb/>
+<normalised orig="perswade" auto="true">persuade</normalised> my <normalised orig="selfe" auto="true">self</normalised> I <normalised orig="haue" auto="true">have</normalised> comprised the full <lb/>
+some of True Religion. <lb/>
+Now for the manner of it: I <normalised orig="haue" auto="true">have</normalised> as <normalised orig="neer" auto="true">near</normalised> <lb/>
+as I could possibly, in each <normalised orig="answere" auto="true">answer</normalised> kept my <lb/>
+<normalised orig="selfe" auto="true">self</normalised> to the <normalised orig="wordes" auto="true">words</normalised> of the holy Text: thou <lb/>
+shalt <normalised orig="finde" auto="true">find</normalised> me to <normalised orig="haue" auto="true">have</normalised> <normalised orig="fayled" auto="true">failed</normalised> in a very few; <lb/>
+and yet in those, if thou <normalised orig="conferre" auto="true">confer</normalised> with that <lb/>
+Place to which I <normalised orig="referre" auto="true">refer</normalised> thee, thou <normalised orig="shalte" auto="true">shalt</normalised> <lb/>
+<normalised orig="finde" auto="true">find</normalised> <normalised orig="mee" auto="true">me</normalised> not to <normalised orig="haue" auto="true">have</normalised> erred from the <lb/>
+meaning of the <normalised orig="Spirite" auto="true">Spirit</normalised> of GOD therein. <lb/>
+The reason of this course is, First to acquaint <lb/>
+thee with the Language of the Scripture. <lb/>
+Secondly, that each point may <normalised orig="haue" auto="true">have</normalised> the <lb/>
+more credit, when thy conscience <normalised orig="shal" auto="true">shall</normalised> see &amp; <lb/>
+<normalised orig="heare" auto="true">hear</normalised>, as it were, God <choice ana="print">
+                     <sic>himselfspeaking</sic>
+                     <corr>himself speaking</corr>
+                  </choice> in <normalised orig="euery" auto="true">every</normalised> <lb/>
+<normalised orig="Answere" auto="true">Answer</normalised>. <lb/>
+Thirdly, that thou mayst acknowledge <lb/>
+that (which many in their ignorance <normalised orig="wil" auto="true">will</normalised> not <lb/>
+<normalised orig="beleeue" auto="true">believe</normalised>) the Scripture is a rich Store-house, <lb/>
+<normalised orig="affoording" auto="true">affording</normalised> directions for <normalised orig="euery" auto="true">every</normalised> particular. <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 3</fw>
+                  <pb n="3"/>
+                  <lb/>
+Now, where I <normalised orig="haue" auto="true">have</normalised> supposed, some <normalised orig="worde" auto="true">word</normalised>, <lb/>
+or <normalised orig="speaches" auto="true">speeches</normalised> to be such as might <normalised orig="breede" auto="true">breed</normalised> thee <lb/>
+                  <choice ana="illegible">
+                     <sic><normalised orig="som" auto="true">some</normalised>*</sic>
+                     <corr>some</corr>
+                  </choice> trouble, not being rightly <normalised orig="vnderstood" auto="true">understood</normalised>, <lb/>
+I <normalised orig="haue" auto="true">have</normalised> in the <normalised orig="margine" auto="true">margin</normalised>, as it were, reached <lb/>
+thee a light for the <normalised orig="cleereing" auto="false">clearing</normalised> of all such darker <lb/>
+                  <choice ana="typeset-error">
+                     <sic>plaees</sic>
+                     <corr>places</corr>
+                  </choice>, that thou <normalised orig="mightest" auto="true">might</normalised> both <normalised orig="knowe" auto="true">know</normalised> <lb/>
+the sense, and <normalised orig="acknowledg" auto="true">acknowledge</normalised> the certainty of <lb/>
+those things wherein my desire is thou <normalised orig="maiest" auto="false">may</normalised> <lb/>
+be instructed. This is all, whereof I <normalised orig="haue" auto="true">have</normalised> <lb/>
+to admonish thee: <normalised orig="proceede" auto="true">proceed</normalised> now on Gods <lb/>
+name, to the <normalised orig="pervsing" auto="true">perusing</normalised> of the thing it <normalised orig="selfe" auto="true">self</normalised>, &amp; <lb/>
+the lord <normalised orig="giue" auto="true">give</normalised> thee <normalised orig="vndersta~ding" auto="true">understanding</normalised> in <normalised orig="al" auto="true">all</normalised> things. <lb/>
+<normalised orig="Al" auto="true">All</normalised> that I desire of thee by the way of <normalised orig="recompence" auto="true">recompense</normalised> <lb/>
+for my <normalised orig="endeuour" auto="true">endeavour</normalised> to do thee good, is, <lb/>
+that thou <normalised orig="wouldest" auto="true">would</normalised> <normalised orig="striue" auto="true">strive</normalised> with me by <normalised orig="praiers" auto="true">prayers</normalised> <lb/>
+to God for me, that I may <normalised orig="fulfill" auto="true">fulfil</normalised> the <normalised orig="Ministery" auto="true">Ministry</normalised>, <lb/>
+which I <normalised orig="haue" auto="true">have</normalised> <normalised orig="receiued" auto="true">received</normalised> in the Lord: <lb/>
+And so I commend thee to him, and to the <lb/>
+word of his grace, wishing thee an <normalised orig="Inherytance" auto="false">Inheritance</normalised> <lb/>
+among them that are sanctified. <lb/>
+Modbury in <normalised orig="Deuon" auto="true">Devon</normalised>, the fourth of August. <lb/>
+1604. <lb/>
+Thine in the Lord, <lb/>
+                  <lb/>
+SAM. HIERON. <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

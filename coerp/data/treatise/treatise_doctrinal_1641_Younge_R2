@@ -1,0 +1,943 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Counterpoyson" auto="false">counterpoison</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="RiYo1641t"><normalised orig="Younge" auto="true">Young</normalised>, Richard</author>
+               <title type="main">A <normalised orig="Counterpoyson" auto="false">counterpoison</normalised>: or, <normalised orig="soverain" auto="false">sovereign</normalised> antidote against all <normalised orig="griefe" auto="true">grief</normalised>. As also, The Benefit of Affliction; and how to Husband it so, that the weakest Christian (with blessing from above) may be able to support himself in his most miserable Exigents. Together with The Victory of Patience. Extracted out of the choicest Authors, Ancient and <normalised orig="Moderne" auto="true">Modern</normalised>, both Holy and Humane. Necessary to be read of all that any way suffer Tribulation.</title>
+               <title type="short"><normalised orig="Counterpoyson" auto="false">counterpoison</normalised></title>
+               <date when="1636">1636</date>
+               <date type="this_edition" when="1641">1641</date>
+               <idno type="Wing">Y148</idno>
+               <note type="genre" subtype="treatise_doctrinal">doctrinal treatise</note>
+               <note type="sample" target="#RiYo1641t_1641_treatise_doctrinal_1">p.223, l.6 – p.243, l.25</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="RiYo1641t_1641_treatise_doctrinal_1">
+            <div>
+               <head>CHAP. XXXIII. <lb/>
+                  <lb/>
+<normalised orig="Vse" auto="true">Use</normalised> and Application of the former Reason. <lb/>
+                  <lb/>
+1. <normalised orig="Vse" auto="true">Use</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+THese latter Reasons being <normalised orig="dispatcht" auto="true">dispatched</normalised>, <normalised orig="returne" auto="true">return</normalised> <lb/>
+wee to make use of the former; for I may <lb/>
+<normalised orig="seeme" auto="true">seem</normalised> to have left them, and be gone quite <lb/>
+out of sight, though indeed it cannot properly <lb/>
+<normalised orig="bee" auto="true">be</normalised> called a digression: seeing the last point <lb/>
+proved, was; That God suffers his children to be persecuted <lb/>
+and afflicted for the increase of their patience. <lb/>
+First, if God sends these afflictions, either for our <lb/>
+Instruction, or Reformation, to <normalised orig="scowre" auto="true">scour</normalised> away the rust <lb/>
+of corruption, or to try the truth of our sanctification, <lb/>
+either for the increase of our patience, or the exercise <lb/>
+of our faith, or the improvement of our <normalised orig="zeale" auto="true">zeal</normalised>, or <lb/>
+to provoke our importunity, or for the doubling of <lb/>
+our Obligation: seeing true gold <normalised orig="flyes" auto="true">flies</normalised> not the touchstone; <lb/>
+let us examine whether we have thus husbanded <lb/>
+our afflictions to his glory, and our <normalised orig="owne" auto="true">own</normalised> <normalised orig="spirituall" auto="true">spiritual</normalised> <lb/>
+and everlasting good. I know Gods fatherly chastisements <lb/>
+for the time, <normalised orig="seeme" auto="true">seem</normalised> grievous to the best of his <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="224">P 3</fw>
+                  <pb n="1"/>
+                  <lb/>
+Children; Yea, at first they come upon us, like Sampsons <lb/>
+<normalised orig="Lyon" auto="true">Lion</normalised>, <normalised orig="looke" auto="true">look</normalised> terrible in <normalised orig="shew" auto="true">show</normalised>, as if they would <lb/>
+<normalised orig="devoure" auto="true">devour</normalised> us; and as Children are <normalised orig="affraid" auto="true">afraid</normalised> of their friends <lb/>
+when they see them masked, so are we. But tell me, <lb/>
+<normalised orig="hath" auto="true">has</normalised> not this roaring <normalised orig="Lyon" auto="true">Lion</normalised> prevailed against thy best <lb/>
+part? <normalised orig="hast" auto="true">have</normalised> thou kept thy head whole? I <normalised orig="meane" auto="true">mean</normalised> thy <lb/>
+<normalised orig="soule" auto="true">soul</normalised> free? For as Fencers will <normalised orig="seeme" auto="true">seem</normalised> to fetch a blow <lb/>
+at the <normalised orig="legge" auto="true">leg</normalised>, when they intended it at the head; so <lb/>
+<normalised orig="doth" auto="true">does</normalised> the <normalised orig="Devill" auto="true">Devil</normalised>, though he strike at thy name, his <normalised orig="ayme" auto="true">aim</normalised> <lb/>
+is to slay thy <normalised orig="soule" auto="true">soul</normalised>. Now instead of being overcome, <lb/>
+<normalised orig="dost" auto="false">do</normalised> thou overcome? <normalised orig="Hath" auto="true">Has</normalised> this <normalised orig="Lyon" auto="true">Lion</normalised> <normalised orig="yeelded" auto="true">yielded</normalised> thee any <lb/>
+honey of Instruction, or Reformation? <normalised orig="Hath" auto="true">Has</normalised> thy <normalised orig="sinne" auto="true">sin</normalised> <lb/>
+<normalised orig="dyed" auto="true">died</normalised> with thy fame, or with thy health, or with thy <lb/>
+peace, or with thy outward estate? <choice ana="illegible">
+                     <sic>D*est</sic>
+                     <corr>Doest</corr>
+                  </choice> thou perceive <lb/>
+the graces of Gods Spirit to come up, and flourish so <lb/>
+much the more in the spring of thy recovery, by how <lb/>
+much the more hard and bitter thy winter of adversity <lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="beene" auto="true">been</normalised>? Then thou <normalised orig="hast" auto="true">have</normalised> approved thy <normalised orig="selfe" auto="true">self</normalised> <lb/>
+Christs <normalised orig="faithfull" auto="true">faithful</normalised> <normalised orig="Souldier" auto="true">Soldier</normalised>, and a Citizen of that Jerusalem, <lb/>
+which is above: <choice ana="illegible">
+                     <sic>*a</sic>
+                     <corr>Yea</corr>
+                  </choice>, I dare boldly say of <lb/>
+thee, as Saint Paul of <normalised orig="himselfe" auto="true">himself</normalised>, <quote type="biblical" ana="Rom 8.39">That nothing shall <lb/>
+be able to <normalised orig="seperate" auto="true">separate</normalised></quote> thee <quote type="biblical" ana="Rom 8.39">from the love of God, which is in <lb/>
+Christ Jesus our Lord</quote>, <normalised orig="Rom" auto="true">Room</normalised>. 8. 39. To <choice ana="illegible">
+                     <sic>fin*e</sic>
+                     <corr><normalised orig="finde" auto="true">find</normalised></corr>
+                  </choice>this honey <lb/>
+in the <normalised orig="Lyon" auto="true">Lion</normalised>, more than makes amends for all former <lb/>
+                  <choice ana="illegible">
+                     <sic>fe*re</sic>
+                     <corr><normalised orig="feare" auto="true">fear</normalised></corr>
+                  </choice> and <normalised orig="griefe" auto="true">grief</normalised>: and in case any man, by his humiliation <lb/>
+under the hand of God, is <normalised orig="growne" auto="true">grown</normalised> more <normalised orig="faithfull" auto="true">faithful</normalised> <lb/>
+and <choice ana="illegible">
+                     <sic>coscion*ble</sic>
+                     <corr>conscionable</corr>
+                  </choice>; there is honey out of the <normalised orig="Lyon" auto="true">Lion</normalised>: or <lb/>
+is any man by his temptation or fall, become more <lb/>
+circumspect after it? there also is honey out of the <lb/>
+<normalised orig="Lyon" auto="true">Lion</normalised>, &amp;c. For there is no Sampson, to whom every <lb/>
+<normalised orig="Lyon" auto="true">Lion</normalised> <normalised orig="doth" auto="true">does</normalised> not <normalised orig="yeeld" auto="true">yield</normalised> some honey; for as affliction sanctified, <lb/>
+ever leaves some blessing <normalised orig="behinde" auto="true">behind</normalised> it, like the <lb/>
+River Nilus, which by overflowing the Land of <normalised orig="Aegypt" auto="true">Egypt</normalised>, <lb/>
+fattens, and <normalised orig="fils" auto="true">fills</normalised> it, with flowers, and fruits; so a fine <lb/>
+                  <pb n="2"/>
+                  <lb/>
+wit, and a Christian will, makes use of any thing: <lb/>
+like the little <normalised orig="Bee" auto="true">Be</normalised>, which will not off the meanest <lb/>
+flower, till she <normalised orig="hath" auto="true">has</normalised> made somewhat of it. Even Sauls <lb/>
+malice shall serve to <normalised orig="enhaunce" auto="true">enhance</normalised> Davids <normalised orig="zeale" auto="true">zeal</normalised>: and the <lb/>
+likelihood of losing Isaac, shall both evidence and <lb/>
+improve <normalised orig="Abrahams" auto="true">Abraham's</normalised> love to God: or <normalised orig="hath" auto="true">has</normalised> the Lord made <lb/>
+Hannah barren, and <normalised orig="doth" auto="true">does</normalised> her adversary vex her sore, <lb/>
+<normalised orig="yeare" auto="true">year</normalised> by <normalised orig="yeare" auto="true">year</normalised>; and grievously upbraid her for it, so <lb/>
+that she is troubled in her <normalised orig="minde" auto="true">mind</normalised>: why, even that shall <lb/>
+make her pray, and <normalised orig="weepe" auto="true">weep</normalised> sore unto the Lord, and <lb/>
+make <normalised orig="vowes" auto="true">vows</normalised>: yea, and when God gives Samuel to <lb/>
+her, <normalised orig="shee" auto="true">she</normalised> will give Samuel <normalised orig="backe" auto="true">back</normalised> <normalised orig="againe" auto="true">again</normalised> to God. <lb/>
+Lastly, Saint Paul in this <normalised orig="schoole" auto="true">school</normalised> of Affliction, <quote type="biblical" ana="Phil 4.11">will <normalised orig="learne" auto="true">learn</normalised> <lb/>
+in what estate <normalised orig="soever" auto="true">however</normalised> he is, prosperous, or adverse, therewith <lb/>
+to be content</quote>: Phil. 4. 11. And thou <normalised orig="mayest" auto="true">may</normalised> <normalised orig="foulely" auto="true">foully</normalised> <lb/>
+suspect thy <normalised orig="selfe" auto="true">self</normalised>, (if thou <normalised orig="beest" auto="false">are</normalised> not the better) for <lb/>
+thy being the worse. He is no true borne Christian, who <lb/>
+is not the better for his evils, whatsoever they be; no price <lb/>
+can buy of the true <normalised orig="beleever" auto="true">believer</normalised> the <normalised orig="gaine" auto="true">gain</normalised> of his <normalised orig="sinnes" auto="true">sins</normalised>. <lb/>
+Yea, <normalised orig="Sathan" auto="true">Satan</normalised> <normalised orig="himselfe" auto="true">himself</normalised>, in his exercise of Gods Children, <lb/>
+<normalised orig="advantageth" auto="false">advantages</normalised> them. And <normalised orig="looke" auto="true">look</normalised> to it, if the malice <lb/>
+and enmity of wicked men <normalised orig="hath" auto="true">has</normalised> beaten thee off from <lb/>
+thy profession, thou <normalised orig="wert" auto="true">were</normalised> at the best but a counterfeit, <lb/>
+and none of Christs <normalised orig="owne" auto="true">own</normalised> Baud. A little faith, even <lb/>
+so much as a <normalised orig="graine" auto="true">grain</normalised> of Mustard-seed, would be able to <lb/>
+remove greater <normalised orig="mountaines" auto="true">mountains</normalised> of <normalised orig="feare" auto="true">fear</normalised> and distrust out of <lb/>
+thy <normalised orig="soule" auto="true">soul</normalised>, than these: for know this, that Good men <lb/>
+are like Diamonds, which will shine in the <normalised orig="durt" auto="true">dirt</normalised>: yea, <lb/>
+they resemble <normalised orig="Glow-wormes" auto="false">Glowworms</normalised>, which shine most in the <lb/>
+<normalised orig="darke" auto="true">dark</normalised>; or Juniper, which <normalised orig="smels" auto="true">smells</normalised> sweetest in the fire; or <lb/>
+Pummander, which becomes more fragrant by <normalised orig="chafeing" auto="false">chafing</normalised>; <lb/>
+or Roses, which are sweeter in the Still, than on <lb/>
+the <normalised orig="stalke" auto="true">stalk</normalised>. <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="226">P 4</fw>
+                  <pb n="3"/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>2. <normalised orig="Vse" auto="true">Use</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+2. If the malice of our enemies, as it is husbanded <lb/>
+to our thirst (by a divine and <normalised orig="supreame" auto="true">supreme</normalised> providence) <lb/>
+<normalised orig="doth" auto="true">does</normalised> make so much for our advantage and benefit here, <lb/>
+and <choice ana="illegible">
+                     <sic>here*f*er</sic>
+                     <corr>hereafter</corr>
+                  </choice>; as namely, that it <choice ana="illegible">
+                     <sic>op*ns</sic>
+                     <corr>opens</corr>
+                  </choice> our eyes no <lb/>
+<normalised orig="lesse" auto="true">less</normalised>, than peace and prosperity had formerly shut <lb/>
+them; that nothing <normalised orig="doth" auto="true">does</normalised> so powerfully call home the <lb/>
+conscience, as affliction; and that we need no other art <lb/>
+of memory for <normalised orig="sinne" auto="true">sin</normalised>, besides misery; if commonly we <lb/>
+are at variance with God, when we are at peace with <lb/>
+our enemies, and that it is both hard and happy, not <lb/>
+to be the worse with liberty, as the sedentary life is most <lb/>
+subject to diseases: if <normalised orig="vigor" auto="true">vigour</normalised> of body, and infirmity of <lb/>
+<normalised orig="minde" auto="true">mind</normalised>, <normalised orig="doe" auto="true">do</normalised> for the most part lodge under one <normalised orig="roofe" auto="true">roof</normalised>, <lb/>
+and that a wearish outside is a strong motive to <choice ana="illegible">
+                     <sic>mortific*tion</sic>
+                     <corr>mortification</corr>
+                  </choice>: <lb/>
+if God, the all-wise <normalised orig="Physitian" auto="true">Physician</normalised>, <normalised orig="knowes" auto="true">knows</normalised> this <lb/>
+the fittest medicine for our <normalised orig="soules" auto="true">souls</normalised> <normalised orig="sicknesse" auto="true">sickness</normalised>, and that we <lb/>
+cannot otherwise be cured; if our pride <normalised orig="forceth" auto="true">forces</normalised> God <lb/>
+to <normalised orig="doe" auto="true">do</normalised> by us, as Sertorius did by his Army, who perceiving <lb/>
+his <normalised orig="Souldiers" auto="true">Soldiers</normalised> <normalised orig="puft" auto="true">puffed</normalised> up through many victories, <lb/>
+and hearing them boast of their many conquests, led <lb/>
+them of purpose into the lap of their enemies, to the end <lb/>
+that stripes might <normalised orig="learne" auto="true">learn</normalised> them moderation. <lb/>
+If this above all will make us pray unto him with <lb/>
+heat and fervency; as whither should we <normalised orig="flye" auto="true">fly</normalised> but to <lb/>
+our Joshua, when the powers of <normalised orig="darkenesse" auto="true">darkness</normalised>, like mighty <lb/>
+Aramites, have besieged us? If ever we will send up <lb/>
+our prayers to him, it will be when we are <normalised orig="beleager'd" auto="false">beleaguered</normalised> <lb/>
+with evils. <lb/>
+If true and saving joy is only the daughter of sorrow; <lb/>
+if the security of any people is the cause of their <lb/>
+corruption, as no sooner <normalised orig="doth" auto="true">does</normalised> the Holy Ghost in sundry <lb/>
+                  <pb n="4"/>
+                  <lb/>
+places say, Israel had rest; but it is added, They committed <lb/>
+<normalised orig="wickednesse" auto="true">wickedness</normalised>: Even as standing waters <normalised orig="soone" auto="true">soon</normalised> <lb/>
+grow <normalised orig="naysome" auto="false">noisome</normalised>, and Vines that grow out at large, become <lb/>
+wilde and <normalised orig="fruitlesse" auto="true">fruitless</normalised> in a small time; if it <normalised orig="weanes" auto="false">weans</normalised> <lb/>
+us from the love of wordly things, and makes us no <lb/>
+<normalised orig="lesse" auto="true">less</normalised> <normalised orig="inamored" auto="true">enamoured</normalised> with heavenly: as Zeno, having but one <lb/>
+Fly-boat left him, hearing <normalised orig="newes" auto="true">news</normalised> that both it and all <lb/>
+therein was cast away, said, O Fortune, thou <normalised orig="hast" auto="true">have</normalised> done <lb/>
+well to send me again to our <normalised orig="Schoole" auto="true">School</normalised> of Philosophy: Whereas <lb/>
+if we <normalised orig="finde" auto="true">find</normalised> but a little pleasure in our life, wee are <lb/>
+ready to <normalised orig="doate" auto="true">dote</normalised> upon it. Every small contentment <normalised orig="glewes" auto="false">glows</normalised> <lb/>
+our affections to that we like, neither can we so heartily <lb/>
+<normalised orig="thinke" auto="true">think</normalised> of our home above, <normalised orig="whilest" auto="true">whilst</normalised> we are furnished <lb/>
+with these worldly contentments: But when God <lb/>
+strips us of them, <normalised orig="straightwayes" auto="false">straightways</normalised> our <normalised orig="minde" auto="true">mind</normalised> is homeward; <lb/>
+if this world may be compared to Athens, of <lb/>
+which a Philosopher said, that it was a pleasant City <lb/>
+to <normalised orig="travell" auto="true">travel</normalised> through, but not safe to dwell in: if by smarting <lb/>
+in our <normalised orig="bodyes" auto="true">bodies</normalised>, states, or names, we are saved from <lb/>
+smarting in our <normalised orig="soules" auto="true">souls</normalised>. If it was good for Naaman, <lb/>
+that he was a <normalised orig="Leaper" auto="true">Leper</normalised>; good for David, that <normalised orig="hee" auto="true">he</normalised> was <lb/>
+in trouble; good for Bartimeus, that <normalised orig="hee" auto="true">he</normalised> was <normalised orig="blinde" auto="true">blind</normalised>; <lb/>
+if with that Arthenian <normalised orig="Captaine" auto="true">Captain</normalised>, we should have perished <lb/>
+for ever, in case wee had not thus perished for a <lb/>
+while; if our peace would have lost us, in case wee <lb/>
+had not a little lost our peace: then <quote type="biblical" ana="Prov 3.11">refuse not the chastening <lb/>
+of the Lord, neither be grieved with his correction</quote>, <lb/>
+as Solomon <normalised orig="adviseth" auto="true">advises</normalised>, Proverbs 3. 11. And so much the <lb/>
+rather, <lb/>
+1. First, because our <normalised orig="strugling" auto="true">struggling</normalised> may aggravate; cannot <lb/>
+<normalised orig="redresse" auto="true">redress</normalised> our miseries. <lb/>
+2. Secondly, because the Lord will <normalised orig="bee" auto="true">be</normalised> sanctified <lb/>
+either of us, or on us; one of the two as Saint Austin <lb/>
+<normalised orig="speakes" auto="true">speaks</normalised>. <lb/>
+                  <pb n="5"/>
+                  <lb/>
+3. Thirdly, because that is little which thou <normalised orig="sufferest" auto="true">suffer</normalised>, <lb/>
+in comparison of what thou <normalised orig="deservest" auto="true">deserve</normalised> to suffer; <lb/>
+for thou <normalised orig="hast" auto="true">have</normalised> deserved to be destroyed: and he that <normalised orig="hath" auto="true">has</normalised> <lb/>
+deserved hanging, may be glad if he <normalised orig="scape" auto="true">escape</normalised> with whipping. <lb/>
+Besides, as David told Saul, he could as easily <lb/>
+have cut his throat, as <normalised orig="hee" auto="true">he</normalised> had his coat: or as Caesar <lb/>
+boasted to Metellus, he could as <normalised orig="soone" auto="true">soon</normalised> make him hop <lb/>
+<normalised orig="headlesse" auto="true">headless</normalised>, as bid it be done: so the Lord may expostulate <lb/>
+with thee, and much more. <lb/>
+Wherefore be patient I say, but not without <normalised orig="sence" auto="true">sense</normalised>; <lb/>
+be not of those <normalised orig="Stoicks" auto="true">Stoics</normalised>, (stocks rather you may stile <lb/>
+them) who like beasts, or rather like blocks, lie under <lb/>
+their <normalised orig="burthen" auto="true">burden</normalised>, and account it greatest valour to make <lb/>
+least <normalised orig="adoe" auto="true">ado</normalised>: and lay it as little as may be to heart. For <lb/>
+if you <normalised orig="meane" auto="true">mean</normalised> to be the Kings <normalised orig="sonnes" auto="true">sons</normalised>, you must bring <lb/>
+him the fore-skins of a hundred Philistims: <normalised orig="shew" auto="true">show</normalised> him <lb/>
+the fruit of your former sufferings. But above all, let <lb/>
+us not resemble the wicked; who if affliction comes to <lb/>
+them, receive the curse with cursing; and if the <normalised orig="Devill" auto="true">Devil</normalised> <lb/>
+throw but one <normalised orig="crosse" auto="true">cross</normalised> to them, they will take their <lb/>
+<normalised orig="soules" auto="true">souls</normalised> and throw them <normalised orig="againe" auto="true">again</normalised> to him; for they presently <lb/>
+break out, either into some cursed rage, or into <lb/>
+the rage of cursing, or into some cursed action. <lb/>
+A <normalised orig="usuall" auto="true">usual</normalised> thing, when men are crossed by the creatures <lb/>
+(I might say, their <normalised orig="owne" auto="true">own</normalised> husbands or children) <lb/>
+to fall a cursing, and blaspheming them, to whom we <lb/>
+may say, as the Prophet did to Senacharih: 2 Kings <lb/>
+19. 22. <quote type="biblical" ana="2 Kings 19.22">Whom <normalised orig="hast" auto="true">have</normalised> thou blasphemed, and against whom <lb/>
+<normalised orig="hast" auto="true">have</normalised> thou exalted thy <normalised orig="selfe" auto="true">self</normalised>; even against the holy one of Israel.</quote>
+                  <lb/>
+Whom are you angry <normalised orig="withall" auto="true">withal</normalised>, <normalised orig="doth" auto="true">does</normalised> the <normalised orig="raine" auto="true">rain</normalised>, <lb/>
+and waters, or any other creature displease you: Alas, <lb/>
+they are servants; if their master bid smite, they must <lb/>
+not <normalised orig="forbare" auto="true">forbear</normalised>: They may say truly what Rabshakeh usurped, <lb/>
+are we come without the Lord, Isay 36. 10. Yea, <lb/>
+                  <pb n="6"/>
+                  <lb/>
+are we not sent of the Lord in love, and to <normalised orig="doe" auto="true">do</normalised> you <lb/>
+good, and to give you occasion of <normalised orig="rejoycing" auto="true">rejoicing</normalised> <normalised orig="afterward" auto="true">afterwards</normalised>, <lb/>
+if you <normalised orig="beare" auto="true">bear</normalised> the <normalised orig="crosse" auto="true">cross</normalised> patiently, and make that use of <lb/>
+it which others <normalised orig="doe" auto="true">do</normalised>, and the Lords intends: Yea, Saint <lb/>
+Paul could <normalised orig="rejoyce" auto="true">rejoice</normalised> even in tribulation. <lb/>
+But alas, these are so <normalised orig="farre" auto="true">far</normalised> from <normalised orig="rejoycing" auto="true">rejoicing</normalised> with <lb/>
+that blessed Apostle, that they rave in tribulation; and <lb/>
+like some beasts, grow mad with <normalised orig="bayting" auto="true">baiting</normalised>; or like <lb/>
+<normalised orig="frantick" auto="true">frantic</normalised> men wounded, who finding ingredients prepared <lb/>
+to <choice ana="illegible">
+                     <sic>dr*sse</sic>
+                     <corr><normalised orig="dresse" auto="true">dress</normalised></corr>
+                  </choice> them, <normalised orig="teare" auto="true">tear</normalised> them all in <normalised orig="peeces" auto="true">pieces</normalised>. But <lb/>
+let us not be like them, if Satan robs us of a bag of <lb/>
+silver, let not us call after him, and bid him take a <lb/>
+bag of gold also. If he afflict thee outwardly, yet surrender <lb/>
+not to him the inward; <normalised orig="rayle" auto="true">rail</normalised> not at the hangman, <lb/>
+but <normalised orig="runne" auto="true">run</normalised> to the Judge; fret not with Joash, <lb/>
+2 Kings 6. 33. but submit with Hezekiah: Isay 39. 8. <lb/>
+When Gods hand is on thy <normalised orig="backe" auto="true">back</normalised>, let thy hand be on <lb/>
+thy mouth: If thou <normalised orig="beest" auto="false">are</normalised> wronged, call not thine adversary <lb/>
+to account, but thy <normalised orig="selfe" auto="true">self</normalised>; and let it trouble <lb/>
+thee more to <normalised orig="doe" auto="true">do</normalised> ill, than to <normalised orig="heare" auto="true">hear</normalised> of it; <normalised orig="bee" auto="true">be</normalised> more <lb/>
+sorry that it is <normalised orig="ture" auto="false">true</normalised>, than that it is <normalised orig="knowne" auto="true">known</normalised>. <lb/>
+Yea, neither rage at the <normalised orig="Surgion" auto="true">Surgeon</normalised> as mad-men, nor <lb/>
+<normalised orig="swoone" auto="true">swoon</normalised> under his hand as <normalised orig="milke-sops" auto="false">milk-soups</normalised>; but consider with <lb/>
+whom thou <normalised orig="hast" auto="true">have</normalised> to <normalised orig="doe" auto="true">do</normalised>: <quote type="biblical" ana="Ex 34.6-7">The Lord, the Lord, strong, <lb/>
+<normalised orig="mercifull" auto="true">merciful</normalised>, and <normalised orig="gratious" auto="true">gracious</normalised>, slow to anger, and abundant in <lb/>
+<normalised orig="goodnesse" auto="true">goodness</normalised> and truth, reserving mercy for thousands, forgiving <lb/>
+iniquity, transgression, and <normalised orig="sinne" auto="true">sin</normalised>; and that will by <lb/>
+no <normalised orig="meanes" auto="true">means</normalised> <normalised orig="cleare" auto="true">clear</normalised> the guilty, but visit the iniquity of the <lb/>
+fathers upon the children, and upon <normalised orig="childrens" auto="true">children's</normalised> children, <lb/>
+unto the third and fourth generation</quote>: Exod. 34. 6. 7. <lb/>
+And this (if any thing) will <normalised orig="doe" auto="true">do</normalised>: <quote type="biblical" ana="2 Sam 6.21">It was before the <lb/>
+Lord</quote>, saith David, and therefore <quote type="biblical" ana="2 Sam 6.22">I will be yet more <lb/>
+vile</quote>. Reproach in Gods service, is our best preferment; <lb/>
+the Lord so noble, the servant cannot be too humble: <lb/>
+                  <pb n="7"/>
+                  <lb/>
+even Bucephalus, that disdained any other rider, in all <lb/>
+his trappings would <normalised orig="kneele" auto="true">kneel</normalised> <normalised orig="downe" auto="true">down</normalised> to his Master Alexander, <lb/>
+and <normalised orig="goe" auto="true">go</normalised> away proud of his <normalised orig="burthen" auto="true">burden</normalised>. <lb/>
+Yea, to <normalised orig="goe" auto="true">go</normalised> yet father; let us with good old Ely, <lb/>
+(who was a good <normalised orig="sonne" auto="true">son</normalised> to God, though he had <normalised orig="beene" auto="true">been</normalised> <lb/>
+and ill Father to his <normalised orig="sonnes" auto="true">sons</normalised>) even <normalised orig="kisse" auto="true">kiss</normalised> the very red we <lb/>
+smart <normalised orig="withall" auto="true">withal</normalised>; and say, <quote type="biblical" ana="1 Sam 3.18">It is the LORD, let him <normalised orig="doe" auto="true">do</normalised> <lb/>
+what <normalised orig="seemeth" auto="true">seems</normalised> him good</quote>: for whatsoever <normalised orig="seemeth" auto="true">seems</normalised> good to <lb/>
+him, cannot but be good, howsoever it <choice ana="illegible">
+                     <sic>s*emes</sic>
+                     <corr><normalised orig="seemes" auto="true">seems</normalised> </corr>
+                  </choice> to us. <lb/>
+Yea, let us receive his stripes with all humility, patience, <lb/>
+piety, and <normalised orig="thankefulnesse" auto="true">thankfulness</normalised>; resolving as that holy <lb/>
+Martyr John Bradford, who said to the <normalised orig="Queene" auto="true">Queen</normalised> (how <lb/>
+much more did <normalised orig="hee" auto="true">he</normalised> <normalised orig="meane" auto="true">mean</normalised> it to the great King of Heaven <lb/>
+and Earth?) If the <normalised orig="Queene" auto="true">Queen</normalised> will give me life, I will <lb/>
+<normalised orig="thanke" auto="true">thank</normalised> her; if <normalised orig="shee" auto="true">she</normalised> will banish me, I will <normalised orig="thanke" auto="true">thank</normalised> her; if <lb/>
+she will <normalised orig="burne" auto="true">burn</normalised> me, I will <normalised orig="thanke" auto="true">thank</normalised> her; if she will <normalised orig="condemne" auto="true">condemn</normalised> <lb/>
+me to <normalised orig="perpetuall" auto="true">perpetual</normalised> imprisonment, I will <normalised orig="thanke" auto="true">thank</normalised> her. A man <lb/>
+will easily swallow a bitter pill, to <normalised orig="gaine" auto="true">gain</normalised> <choice ana="illegible">
+                     <sic>he*lth</sic>
+                     <corr>health</corr>
+                  </choice>. The <lb/>
+<normalised orig="stomacke" auto="true">stomach</normalised> that is purged, must be content to part with <lb/>
+some good nourishment, that it may deliver it <normalised orig="selfe" auto="true">self</normalised> of <lb/>
+more <normalised orig="evill" auto="true">evil</normalised> humours: and the <normalised orig="Physitian" auto="true">Physician</normalised> <normalised orig="knowes" auto="true">knows</normalised> what <lb/>
+is best for the Patient, the Nurse better than the Infant, <lb/>
+what is good and fit for it: Now the Tenant is <lb/>
+more noble than the House; therefore why are wee <lb/>
+not more joyed in this, then <choice ana="illegible">
+                     <sic>d*jected</sic>
+                     <corr>dejected</corr>
+                  </choice> in the other: since <lb/>
+the least <normalised orig="graine" auto="true">grain</normalised> of the increase of grace, is more worth, <lb/>
+then can <normalised orig="bee" auto="true">be</normalised> equalled with whole pounds of bodily <lb/>
+vexation. Yea, let us take them as tokens and pledges <lb/>
+of Gods love and favour, who loves his Children so, as <lb/>
+not to make <choice ana="illegible">
+                     <sic>w*ntons</sic>
+                     <corr>wantons</corr>
+                  </choice> of them. They that would tame <lb/>
+pampered Horses, <normalised orig="doe" auto="true">do</normalised> <normalised orig="adde" auto="true">add</normalised> to their <normalised orig="travell" auto="true">travel</normalised>, and abate <lb/>
+of their provender; as <choice ana="illegible">
+                     <sic>Ph*raoh</sic>
+                     <corr>Pharaoh</corr>
+                  </choice> served the Children of <lb/>
+Israel. Which of us shall see <normalised orig="peeces" auto="true">pieces</normalised> of Timber cut <lb/>
+and squared, and plained by the Carpenter; or Stones <lb/>
+                  <pb n="8"/>
+                  <lb/>
+<normalised orig="hewne" auto="true">hewn</normalised> and polished by the Mason; but will collect <lb/>
+and gather, that these are Stones and Timber which <lb/>
+the <choice ana="illegible">
+                     <sic>M*ster</sic>
+                     <corr>Master</corr>
+                  </choice> would <normalised orig="imploy" auto="true">employ</normalised> in some building? If I <lb/>
+suffer, it is that I may <normalised orig="raigne" auto="true">reign</normalised>. And how profitable <lb/>
+is that affliction, which <normalised orig="carryeth" auto="true">carries</normalised> me to Heaven? Oh, <lb/>
+it is a good change, to have the fire of affliction for the <lb/>
+fire of Hell: Who would not rather smart for a <lb/>
+while, than for ever? Its true, these <normalised orig="Waspes" auto="true">Wasps</normalised>, wicked <lb/>
+men, sting shrewdly, but the Hornet <normalised orig="Sathan" auto="true">Satan</normalised> would sting <lb/>
+worse a great <normalised orig="deale" auto="true">deal</normalised>. And not <normalised orig="seldome" auto="true">seldom</normalised> <normalised orig="doth" auto="true">does</normalised> the infliction <lb/>
+of a <normalised orig="lesse" auto="true">less</normalised> punishment, <normalised orig="avoyde" auto="true">avoid</normalised> a greater. <lb/>
+Neither must any man <normalised orig="thinke" auto="true">think</normalised>, to <normalised orig="bee" auto="true">be</normalised> <normalised orig="alwayes" auto="true">always</normalised> free <lb/>
+from censure, aspertions, and wrongs; nor <normalised orig="somtimes" auto="true">sometimes</normalised> from <lb/>
+faults: The very Heathen could say, It is for none <lb/>
+but God, to <normalised orig="feele" auto="true">feel</normalised> or want nothing. Indeed, many are <lb/>
+too apt to expect it, and therefore can <normalised orig="beare" auto="true">bear</normalised> nothing, <lb/>
+like Minderides the Sibarite, who was grieved <lb/>
+for that some of the Rose-leaves which <normalised orig="hee" auto="true">he</normalised> lay upon, <lb/>
+were rumpled together: But this is to vilipend, and <lb/>
+                  <choice ana="illegible">
+                     <sic>*ndervalue</sic>
+                     <corr>undervalue</corr>
+                  </choice> his <normalised orig="kindnesse" auto="true">kindness</normalised>; to make no repute, nor reckoning <lb/>
+of his deepest <normalised orig="indulgencies" auto="true">indulgences</normalised>, whereas the contrary <lb/>
+approves our sincerity beyond all exceptions. Every <lb/>
+man can open his hand to God while he blesses, but <lb/>
+to expose our selves willingly to the afflicting hand <lb/>
+of our Maker, and to <normalised orig="kneele" auto="true">kneel</normalised> to him while he scourges <lb/>
+us, is peculiar to the <normalised orig="faithfull" auto="true">faithful</normalised>. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>3. <normalised orig="Vse" auto="true">Use</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+3. Thirdly, if the sharpe sufferings, and bitter conflicts, <lb/>
+and sore <normalised orig="travells" auto="true">travels</normalised> of Gods children, are usually <lb/>
+the fore-runners of a <normalised orig="joyfull" auto="true">joyful</normalised> issue; even the happy birth <lb/>
+of saving repentance: and that the sharpe <normalised orig="paine" auto="true">pain</normalised> of the <lb/>
+                  <choice ana="illegible">
+                     <sic><normalised orig="Sur" auto="true">Sir</normalised>*ions</sic>
+                     <corr><normalised orig="Surgions" auto="true">Surgeons</normalised></corr>
+                  </choice> cutting them, is <normalised orig="onely" auto="true">only</normalised> to ease them of a more <lb/>
+                  <pb n="9"/>
+                  <lb/>
+durable, and dangerous, yea a <normalised orig="farre" auto="true">far</normalised> heavier <normalised orig="paine" auto="true">pain</normalised>, <lb/>
+the stone of the heart: If while their enemies <normalised orig="goe" auto="true">go</normalised> about <lb/>
+to rob them, they <normalised orig="doe" auto="true">do</normalised> but <normalised orig="inrich" auto="true">enrich</normalised> them. As that <lb/>
+Sexton, who in the night went to rob a Gentlewoman, <lb/>
+that had <normalised orig="beene" auto="true">been</normalised> buried the day before with a gold Ring, <lb/>
+and having opened the coffin, loosed the sheet, and <lb/>
+chafed her finger to get it off, she having <normalised orig="beene" auto="true">been</normalised> but <lb/>
+in a <normalised orig="swoone" auto="true">swoon</normalised> before: her spirits returning, she revived, <lb/>
+and for many <normalised orig="yeares" auto="true">years</normalised> after lived comfortably. If they <lb/>
+may <normalised orig="bee" auto="true">be</normalised> resembled to the five loaves in the <normalised orig="Gospell" auto="true">Gospel</normalised>, <lb/>
+which by a strange <normalised orig="Arethmetick" auto="false">Arithmetic</normalised>, were <normalised orig="multiplyed" auto="true">multiplied</normalised> by <lb/>
+Division, and augmented by Substraction; then let none <lb/>
+dare to flatter, or flesh themselves, because their estate <lb/>
+is prosperous; especially in an <normalised orig="evill" auto="true">evil</normalised> way, as it fared <lb/>
+with Leah, whom wee may <normalised orig="heare" auto="true">hear</normalised> thus chanting her <lb/>
+<normalised orig="happinesse" auto="true">happiness</normalised>: <quote type="biblical" ana="Gen 30.18">God</quote>, saith she, <quote type="biblical" ana="Gen 30.18"><normalised orig="hath" auto="true">has</normalised> given me my reward, <lb/>
+because I have given my <normalised orig="mayde" auto="true">maid</normalised> to my husband</quote>: Gen. 30. <lb/>
+18. when she should rather have repented, then <choice ana="illegible">
+                     <sic>r*joyced</sic>
+                     <corr><normalised orig="rejoyced" auto="true">rejoiced</normalised></corr>
+                  </choice>: <lb/>
+and the like with <choice ana="illegible">
+                     <sic>Mic*h</sic>
+                     <corr>Micah</corr>
+                  </choice>, Judges 17. 13. and <lb/>
+Saul, 1 Sam. 23. 7. and Dionysius, when he found <lb/>
+the <normalised orig="windes" auto="true">winds</normalised> favourable in his navigation, after he had <lb/>
+dispoiled the Temple of all the gold therein. Neither <lb/>
+let such as suffer not, censure their brethren that <normalised orig="doe" auto="true">do</normalised>; <lb/>
+as those three misjudged of Job, that he was an hypocrite, <lb/>
+and a greater sinner than others; and God had <lb/>
+cast him off, or else it could not <normalised orig="goe" auto="true">go</normalised> so ill with him. <lb/>
+Or as the <normalised orig="Jewes" auto="true">Jews</normalised> censured our <choice ana="print-error">
+                     <sic>Savious</sic>
+                     <corr>Saviour</corr>
+                  </choice>, Isay 53. 3, 4. <lb/>
+And those Barbarians, Saint Paul, Acts 28. 4. which <lb/>
+is to <normalised orig="condemne" auto="true">condemn</normalised> the generation of Gods Children, <normalised orig="Psal" auto="true">Psalm</normalised>. <lb/>
+73. 15. But rather mistrust themselves, which was the <lb/>
+use our Saviour warned those to make of it, who told <lb/>
+him of the Galileans, whose <normalised orig="bloud" auto="true">blood</normalised> Pilate had mingled <lb/>
+with their sacrifices, Luke 13. 1. to 6. <lb/>
+And indeed, he is <normalised orig="blinde" auto="true">blind</normalised> that <normalised orig="judgeth" auto="true">judges</normalised> of mans felicity <lb/>
+                  <pb n="10"/>
+                  <lb/>
+by his outward prosperity, or concludes of ones <lb/>
+misery from his calamity: Eccles. 9. 1, 2. The <normalised orig="Sunne" auto="true">Sun</normalised> of <lb/>
+prosperity shines no <normalised orig="lesse" auto="true">less</normalised> upon brambles in the <normalised orig="wildernesse" auto="true">wilderness</normalised>, <lb/>
+than <normalised orig="fruitfull" auto="true">fruitful</normalised> trees in the Orchard. The cold frost <lb/>
+and snow of adversity, lights upon Gardens, <normalised orig="aswell" auto="true">as well</normalised> <lb/>
+as the wilde waste. Ahab and Josiah's end, concur <lb/>
+in the very circumstances, the one <normalised orig="destroyeth" auto="true">destroys</normalised> Religion, <lb/>
+the other <normalised orig="restoreth" auto="true">restores</normalised> it; yet both shot with an Arrow. Saul <lb/>
+and Jonathan, though different in dispositions, yet in <lb/>
+their deaths they were not divided. Zedekiah a wicked <lb/>
+man, had his eyes put out: so had Sampson the valiant <lb/>
+Judge of Israel, and Type of Christ; Moses and Aaron, <lb/>
+both were shut out of Canaan, <normalised orig="aswell" auto="true">as well</normalised> as the Searchers: <lb/>
+so that if we judge of <normalised orig="mens" auto="true">men's</normalised> persons by their outward <lb/>
+conditions, we must needs <normalised orig="erre" auto="true">err</normalised>. <lb/>
+Yea, usually God <normalised orig="doth" auto="true">does</normalised> most afflict those, whom he <lb/>
+best <normalised orig="affecteth" auto="true">affects</normalised>; dealing with his children as the good <lb/>
+husband <normalised orig="deales" auto="true">deals</normalised> with his Trees; those in the Garden he <lb/>
+is ever and <normalised orig="annon" auto="false">anon</normalised> <normalised orig="medling" auto="true">meddling</normalised> with them, either lopping <lb/>
+off the superfluous branches, or scraping off the <normalised orig="mosse" auto="true">moss</normalised>, <lb/>
+or paring of the root, or digging and dunging then; <lb/>
+so using all good <normalised orig="meanes" auto="true">means</normalised> to make them <normalised orig="fruitfull" auto="true">fruitful</normalised>: <lb/>
+whereas he lets them alone which grow in the hedge <lb/>
+row, or <normalised orig="Forrest" auto="true">Forest</normalised>, till at length he comes with his Axe, <lb/>
+and cuts them <normalised orig="downe" auto="true">down</normalised> for the fire. He was not the best <lb/>
+Disciple that had the bag: and fatted ware, you know, <lb/>
+is but fitted for the shambles. God puts money indeed <lb/>
+(as some <normalised orig="Hoorders" auto="false">Hoarders</normalised> <normalised orig="doe" auto="true">do</normalised>) into these earthen boxes, that <lb/>
+have only one <normalised orig="chinke" auto="true">chink</normalised> to let in, but none to let out, with <lb/>
+purpose to <normalised orig="breake" auto="true">break</normalised> them when they are full. What was <lb/>
+Human the better for his honour, while the King <lb/>
+frowned on him; or the happier for being lift up the <lb/>
+ladder, when <normalised orig="hee" auto="true">he</normalised> was to come <normalised orig="downe" auto="true">down</normalised> <normalised orig="againe" auto="true">again</normalised> with <lb/>
+a <normalised orig="roape" auto="true">rope</normalised>. <lb/>
+                  <fw type="pageNum" n="234">233</fw>
+                  <pb n="11"/>
+                  <lb/>
+And for ought thou <normalised orig="knowest" auto="true">know</normalised>, (at least if thou <normalised orig="takest" auto="true">take</normalised> <lb/>
+not heed, for prosperity is the more dangerous enemy <lb/>
+of the two, and <normalised orig="skilfull" auto="true">skilful</normalised> to destroy;) thy preservation <lb/>
+is but a reservation; as it fared with <normalised orig="Sodome" auto="true">Sodom</normalised> <lb/>
+and her sisters, which were preserved from the slaughter <lb/>
+of the <normalised orig="foure" auto="true">four</normalised> Kings, that God might <normalised orig="raine" auto="true">rain</normalised> <normalised orig="downe" auto="true">down</normalised> <lb/>
+Hell from Heaven upon them. And Senacharib, who <lb/>
+escaped the <normalised orig="stroake" auto="true">stroke</normalised> of the destroying <normalised orig="Angell" auto="true">Angel</normalised>, that <normalised orig="hee" auto="true">he</normalised> <lb/>
+might fall by the sword of his <normalised orig="owne" auto="true">own</normalised> <normalised orig="sonnes" auto="true">sons</normalised>, Isay 37. <lb/>
+37, 38. say then one woe, the woe of adversity, (as <lb/>
+thou <normalised orig="accountest" auto="false">accounted</normalised> it) <normalised orig="hath" auto="true">has</normalised> passed thee, perhaps there <lb/>
+is a second and a third, worse <normalised orig="behinde" auto="true">behind</normalised>: Revel. 9. 12. <lb/>
+&amp; 8. 13. The Philosopher would see a mans end, before <lb/>
+he <normalised orig="pronounst" auto="false">pronounced</normalised> him happy. Yea, it may be that which <lb/>
+thou <normalised orig="accountest" auto="false">accounted</normalised> thy primest <normalised orig="priviledge" auto="true">privilege</normalised>, may prove to <lb/>
+thee a snare, and may be granted thee rather out of <lb/>
+anger than love; as the <normalised orig="Devill" auto="true">Devil</normalised> left Jobs tongue untouched <lb/>
+of all the rest, but why? in hope that therewith <lb/>
+<normalised orig="hee" auto="true">he</normalised> would have cursed God; or charged him with <lb/>
+folly and cruelty: so that we may say of prosperity, as <lb/>
+Antigonus did of his <normalised orig="garmont" auto="false">garment</normalised>; O noble, rather than <lb/>
+happy <normalised orig="priviledge" auto="true">privilege</normalised>; but of adversity, O happy rather <lb/>
+then noble favour. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>4. <normalised orig="Vse" auto="true">Use</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+4. Fourthly, if Affliction be so profitable, and <lb/>
+prosperity so dangerous as <normalised orig="hath" auto="true">has</normalised> <normalised orig="beene" auto="true">been</normalised> <normalised orig="showne" auto="true">shown</normalised>; if it <lb/>
+be our Isaacks use, first to <normalised orig="feele" auto="true">feel</normalised> us by tribulation, and <lb/>
+then to <normalised orig="blesse" auto="true">bless</normalised> us; then away with those foolish <normalised orig="quaries" auto="false">quarries</normalised>, <lb/>
+why <normalised orig="doth" auto="true">does</normalised> God this, and why that? why <normalised orig="doth" auto="true">does</normalised> he punish <lb/>
+the innocent, and acquit the peccant? why <normalised orig="doth" auto="true">does</normalised> he <lb/>
+permit so many, <choice ana="illegible">
+                     <sic>*nd</sic>
+                     <corr>and</corr>
+                  </choice> such notorious crimes? why is he so <lb/>
+severe towards his <normalised orig="owne" auto="true">own</normalised>, so gentle to others. <normalised orig="Aske" auto="true">Ask</normalised> <lb/>
+                  <pb n="12"/>
+                  <lb/>
+not (saith Salvianus) why one is greater, another <normalised orig="lesse" auto="true">less</normalised>; <lb/>
+one wretched, another happy; I know not Gods intent, but <lb/>
+it is sufficient satisfaction to me, that this is done by God. <lb/>
+Why <normalised orig="doth" auto="true">does</normalised> a <normalised orig="Physitian" auto="true">Physician</normalised> give more <normalised orig="Wormewood" auto="true">Wormwood</normalised>, of Hellebore <lb/>
+to this sick party, than to that; even because, either <lb/>
+his disease, or his constitution requires it. <lb/>
+Neither let us value things as they <normalised orig="seeme" auto="true">seem</normalised>, or according <lb/>
+to <normalised orig="sence" auto="true">sense</normalised>; but rather when we are best pleased, let <lb/>
+us be most <normalised orig="suspitious" auto="true">suspicious</normalised>: let us desire and <normalised orig="chuse" auto="true">choose</normalised> blessings, <lb/>
+as <normalised orig="hee" auto="true">he</normalised> chose his friend; not him that would <normalised orig="bee" auto="true">be</normalised> plausible <lb/>
+to his humour for a day, but him that should be <lb/>
+profitable to his <normalised orig="minde" auto="true">mind</normalised> during life. Let us imitate Bees, <lb/>
+that <normalised orig="passe" auto="true">pass</normalised> over Roses, and Violets, to set upon Time: If <lb/>
+crosses are not toothsome, let is suffice they are wholesome; <lb/>
+<normalised orig="'tis" auto="true">it is</normalised> not required in <normalised orig="Physick" auto="true">Physic</normalised> that it should please, but heal: <lb/>
+<normalised orig="unlesse" auto="true">unless</normalised> we <normalised orig="esteeme" auto="true">esteem</normalised> our pleasure above our health. <lb/>
+Experience tells us, that those things (for the most <lb/>
+part) which are least pleasing, are most <normalised orig="wholsome" auto="true">wholesome</normalised>: Rue <lb/>
+is a <normalised orig="hearbe" auto="true">herb</normalised> most bitter to the taste, yet in regard of the <lb/>
+<normalised orig="vertue" auto="true">virtue</normalised>, which is in it, we call it <normalised orig="herbe" auto="true">herb</normalised> of grace: And <lb/>
+Methridate, though of all other electuaries it be most <lb/>
+<normalised orig="distastfull" auto="true">distasteful</normalised>; yet of all others it is the most wholesome. <lb/>
+The world hates thee, and <normalised orig="deales" auto="true">deals</normalised> most spitefully <lb/>
+with thee; a good <normalised orig="signe" auto="true">sign</normalised>, it <normalised orig="hath" auto="true">has</normalised> <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="beene" auto="true">been</normalised> the <lb/>
+portion of good men, to suffer at the hands of <normalised orig="evill" auto="true">evil</normalised> <lb/>
+men; as <normalised orig="appeares" auto="true">appears</normalised> both by holy, and humane Writers: <lb/>
+as for Divine Authority, you know how it fared with <lb/>
+the Prophets, Apostles, and our Saviour Christ <normalised orig="himselfe" auto="true">himself</normalised>, <lb/>
+whose whole life, by reason of <normalised orig="spitefull" auto="true">spiteful</normalised> enemies, was <lb/>
+but one continued <normalised orig="crosse" auto="true">cross</normalised>. And as touching secular, examples <lb/>
+are infinite; whereof a few: In Athens, wee <lb/>
+read a wise Socrates, good Phocion, just Aristides, victorious <lb/>
+Miltiades; but how unworthily were they <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="236">Q</fw>
+                  <pb n="13"/>
+                  <lb/>
+dealt <normalised orig="withall" auto="true">withal</normalised>: At Rome they had Marcus Cato, the <lb/>
+<normalised orig="patterne" auto="true">pattern</normalised> of a wise and prudent man, a lively emblem <lb/>
+of <normalised orig="vertue" auto="true">virtue</normalised>; how was he hated, thrust <normalised orig="downe" auto="true">down</normalised>, spit upon, <lb/>
+<normalised orig="stript" auto="true">stripped</normalised> both of his Senator-ship, and Pretor-ship, cast into <lb/>
+prison, &amp;c. Rutilius and Camillus were both exiled, <lb/>
+Pompeus and Cicero both <normalised orig="yeelded" auto="true">yielded</normalised> their necks to their <lb/>
+Clients: Who so often <normalised orig="curst" auto="true">cursed</normalised> by the Popes, with Bell, <lb/>
+<normalised orig="Booke" auto="true">Book</normalised>, and Candle, as <normalised orig="Queene" auto="true">Queen</normalised> Elizabeth of blessed memory; <lb/>
+though she outlived <normalised orig="seaven" auto="true">seven</normalised> of them. <lb/>
+But to leave examples and come to reason, Is it not <lb/>
+an evident <normalised orig="signe" auto="true">sign</normalised>, that if the world hates thee, thou art <lb/>
+none of the world; yea, therefore it hates thee, because <lb/>
+thy practice shames the world; and because thou <normalised orig="discoverest" auto="false">discovered</normalised>, <lb/>
+and <normalised orig="opposest" auto="false">opposed</normalised> her treasons and deceits. Wicked <lb/>
+men are like <normalised orig="dogges" auto="true">dogs</normalised> in condition, who will let a man <lb/>
+amble a <normalised orig="faire" auto="true">fair</normalised> pace quietly, but if he gallop through the <lb/>
+<normalised orig="Towne" auto="true">Town</normalised>, though his errand be of importance, and to <lb/>
+the King, perhaps, they will <normalised orig="barke" auto="true">bark</normalised> and fly at him, <lb/>
+which is <quote type="biblical" ana="Phil 1.28">a token to them of perdition, but to thee of salvation</quote>: <lb/>
+Phil. 1. 28. yea, it is an evident <normalised orig="signe" auto="true">sign</normalised>, that they are <lb/>
+of the stock of Ishmael, and not the seed of Israel. I <normalised orig="finde" auto="true">find</normalised> <lb/>
+many acts of deception in the Saints, I <normalised orig="finde" auto="true">find</normalised> <choice ana="illegible">
+                     <sic>infi*mity</sic>
+                     <corr>infirmity</corr>
+                  </choice>
+                  <lb/>
+in those acts, but that any one of them <normalised orig="hath" auto="true">has</normalised> <normalised orig="scoft" auto="false">scoffed</normalised> at, <lb/>
+and hated another for <normalised orig="goodnesse" auto="true">goodness</normalised>, I <normalised orig="finde" auto="true">find</normalised> not: much <lb/>
+<normalised orig="lesse" auto="true">less</normalised> that any after regeneration, have in this case <normalised orig="beene" auto="true">been</normalised> <lb/>
+<normalised orig="cruell" auto="true">cruel</normalised>. If we would know (saith <normalised orig="Chrysostome" auto="true">Chrisostome</normalised>) a <normalised orig="Wolfe" auto="true">Wolf</normalised> <lb/>
+from a <normalised orig="Sheepe" auto="true">Sheep</normalised> (since their <normalised orig="cloathing" auto="true">clothing</normalised> is alike) <normalised orig="looke" auto="true">look</normalised> to <lb/>
+their fangs, and their mouth, if they be <normalised orig="bloudy" auto="true">bloody</normalised>: for who <lb/>
+ever saw the lips of a <normalised orig="Sheepe" auto="true">Sheep</normalised> besmeared with <normalised orig="bloud" auto="true">blood</normalised>? <lb/>
+which being so, no matter though the gate be straight, <lb/>
+and the way narrow, if the end to which it <normalised orig="leadeth" auto="true">leads</normalised> be <lb/>
+everlasting life. <lb/>
+                  <pb n="14"/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>5. <normalised orig="Vse" auto="true">Use</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+5. <normalised orig="Fifthly" auto="true">Fiftly</normalised>, if in conclusion the most <normalised orig="malitious" auto="true">malicious</normalised> and <lb/>
+damnable practises of our worst and greatest enemies, <lb/>
+prove no other in effect to us, than did the malice of <lb/>
+Josephs brethren, <normalised orig="Mistrisse" auto="true">Mistress</normalised>, and Lord to him: the first, <lb/>
+in selling of him; the second, in falsely accusing him; <lb/>
+the third, in imprisoning him; (all which made for his <lb/>
+inestimable good and benefit;) than the malice of <lb/>
+                  <choice ana="illegible">
+                     <sic>H*man</sic>
+                     <corr>Haman</corr>
+                  </choice> to <choice ana="illegible">
+                     <sic>Morde*i</sic>
+                     <corr>Mordecai</corr>
+                  </choice>, and the <normalised orig="Jewes" auto="true">Jews</normalised>; whose <normalised orig="bloudy" auto="true">bloody</normalised> <lb/>
+decree obtained against them, procured them exceeding <lb/>
+much joy and peace: than Balacks malice to the <lb/>
+Children of Israel, whose desire of cursing them, caused <lb/>
+the Lord so much the more to <normalised orig="blesse" auto="true">bless</normalised> them, Numbers <lb/>
+23. Than the Devils <normalised orig="spight" auto="true">spite</normalised> to Job, who pleasured <lb/>
+him more by his <normalised orig="soare" auto="true">soar</normalised> afflicting him, than any <lb/>
+thing else could possibly have done, whether wee regard <lb/>
+his name, children, substance, or <normalised orig="soule" auto="true">soul</normalised>; than Judas <lb/>
+his treason against the Lord of life, whose detestable <lb/>
+fact served not <normalised orig="onely" auto="true">only</normalised> to accomplish his will, but the <lb/>
+<normalised orig="meanes" auto="true">means</normalised> also of all their salvations, that either before <lb/>
+or after should <normalised orig="beleeve" auto="true">believe</normalised> in him: this should move wonder <lb/>
+to astonishment, and cause us to cry out with the <lb/>
+Apostle; <quote type="biblical" ana="Rom 11.33">O the <normalised orig="deepnesse" auto="false">deepness</normalised> of the riches bath of the <normalised orig="wisedome" auto="true">wisdom</normalised> <lb/>
+and knowledge of God! How unsearchable are his <lb/>
+judgements, and his <normalised orig="wayes" auto="true">ways</normalised> past finding out!</quote> <normalised orig="Rom" auto="true">Room</normalised>. 11. 33. <lb/>
+O the <normalised orig="wonderfull" auto="true">wonderful</normalised> and <normalised orig="soveraigne" auto="true">sovereign</normalised> <normalised orig="goodnesse" auto="true">goodness</normalised> of our <lb/>
+God! that <normalised orig="turnes" auto="true">turns</normalised> all our <normalised orig="Poysons" auto="true">Poisons</normalised> into <choice ana="illegible">
+                     <sic>Cordi*</sic>
+                     <corr>Cordials</corr>
+                  </choice>; that <lb/>
+can change our <normalised orig="terrours" auto="true">terrors</normalised> into pleasures, and make the <lb/>
+greatest evils <normalised orig="beneficiall" auto="true">beneficial</normalised> unto us; for they are <normalised orig="evill" auto="true">evil</normalised> in <lb/>
+their <normalised orig="owne" auto="true">own</normalised> nature, and strong temptations to <normalised orig="sinne" auto="true">sin</normalised>: <lb/>
+James 1. 2. also fruits of <normalised orig="sinne" auto="true">sin</normalised>, and part of the curse, <lb/>
+and <normalised orig="worke" auto="true">work</normalised> those former good effects, not <choice ana="illegible">
+                     <sic>prop*<normalised orig="ly" auto="true">lie</normalised></sic>
+                     <corr>properly</corr>
+                  </choice>
+                  <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="238">Q 2</fw>
+                  <pb n="15"/>
+                  <lb/>
+by themselves, but by accident; as the are so disposed <lb/>
+by the infinite <normalised orig="wisedome" auto="true">wisdom</normalised>, <normalised orig="goodnesse" auto="true">goodness</normalised>, and power of <lb/>
+God, who is able to bring light out of <normalised orig="darkenesse" auto="true">darkness</normalised>, <lb/>
+and good out of <normalised orig="evill" auto="true">evil</normalised>: yea, this should tutor us to love <lb/>
+our enemies; we love the medicine, not for its <normalised orig="owne" auto="true">own</normalised> <lb/>
+sake, but for the health it brings us; and to suffer <lb/>
+<normalised orig="chearefully" auto="true">cheerfully</normalised> whatsoever is laid upon us: for how can <lb/>
+Gods Church in <normalised orig="generall" auto="true">general</normalised>, or any member in particular <lb/>
+but fare well, since the very malice of their enemies <lb/>
+benefits them? How can we but say, let the world <lb/>
+<normalised orig="frowne" auto="true">frown</normalised>, and all things in it <normalised orig="runne" auto="true">run</normalised> <normalised orig="crosse" auto="true">cross</normalised> to the <normalised orig="graine" auto="true">grain</normalised> <lb/>
+of our <normalised orig="mindes" auto="true">minds</normalised>? Yet, with thee, O Lord, is mercy, and <lb/>
+plenteous redemption: thou <normalised orig="makest" auto="true">make</normalised> us better by their <lb/>
+making us worse. <lb/>
+Objection. But perhaps thou <normalised orig="hast" auto="true">have</normalised> not proved the <lb/>
+truth of this by thy <normalised orig="owne" auto="true">own</normalised> knowledge, and particular <lb/>
+experience. <lb/>
+Answer. If thou <normalised orig="hast" auto="true">have</normalised> not, thou shalt in due time, <lb/>
+the end shall prove it; stay but till the conclusion, <lb/>
+and thou shalt see that there is no <normalised orig="Crosse" auto="true">Cross</normalised>, no enemy, <lb/>
+no evils can happen unto thee, that shall not be turned <lb/>
+to good, by him that <normalised orig="dwelleth" auto="true">dwells</normalised> in thee. Will you <lb/>
+take Saint Pauls words for it, or rather GODS <normalised orig="owne" auto="true">own</normalised> <lb/>
+word, who is truth it <normalised orig="selfe" auto="true">self</normalised>, and cannot <normalised orig="lye" auto="true">lie</normalised>? His words <lb/>
+are, <quote type="biblical" ana="Rom 8.28">We know that all things <normalised orig="worke" auto="true">work</normalised> together for the best, <lb/>
+unto them that love God: even to them that are called <lb/>
+of his <normalised orig="purporse" auto="false">purpose</normalised></quote>, <normalised orig="Rom" auto="true">Room</normalised>. 8. 28. And in Verse 35, 36. after <lb/>
+he <normalised orig="hath" auto="true">has</normalised> declared that Gods chosen people shall <lb/>
+suffer tribulation, and anguish, and <choice ana="illegible">
+                     <sic>pers*tion</sic>
+                     <corr>persecution</corr>
+                  </choice>, and <lb/>
+famine, and <normalised orig="nakednesse" auto="true">nakedness</normalised>, <normalised orig="perill" auto="true">peril</normalised>, sword, &amp;c. <quote type="biblical" ana="Rom 8.36">be killed all <lb/>
+the day long, and counted as <normalised orig="Sheepe" auto="true">Sheep</normalised> for the slaughter</quote>; <lb/>
+he <normalised orig="concludeth" auto="true">concludes</normalised> with <normalised orig="Neverthelesse" auto="true">Nevertheless</normalised>, <quote type="biblical" ana="Rom 8.37">in all these things <lb/>
+we are more than <normalised orig="conquerours" auto="true">conquerors</normalised>, through him that loved <lb/>
+us</quote>: and so <normalised orig="goeth" auto="true">goes</normalised> on, even to a challenge of our worst <lb/>
+                  <pb n="16"/>
+                  <lb/>
+enemies, Death, Angels, Principalities, and Powers, <lb/>
+things present, and to come; <normalised orig="heighth" auto="true">height</normalised>, depth, and what <lb/>
+other creature besides, should stand in opposition. <lb/>
+What voluminous waves <normalised orig="bee" auto="true">be</normalised> here, for number, and <lb/>
+power, and <normalised orig="terrour" auto="true">terror</normalised>; yet they shall not <normalised orig="seperate" auto="true">separate</normalised> the <lb/>
+<normalised orig="Arke" auto="true">Arc</normalised> from Christ, nor a <normalised orig="soule" auto="true">soul</normalised> from the <normalised orig="Arke" auto="true">Arc</normalised>, nor a <lb/>
+body from the <normalised orig="soule" auto="true">soul</normalised>, nor an <normalised orig="haire" auto="true">hair</normalised> from the body, to <normalised orig="doe" auto="true">do</normalised> <lb/>
+us hurt. What saith David? <quote type="psalm" ana="Ps 37.37"><normalised orig="Marke" auto="true">Mark</normalised> the upright man, <lb/>
+and behold the just; for the end of that man is peace</quote>: <lb/>
+<normalised orig="Psal" auto="true">Psalm</normalised>. 37. 37. <normalised orig="Marke" auto="true">Mark</normalised> him in his setting out, he <normalised orig="hath" auto="true">has</normalised> <lb/>
+many oppositions; <normalised orig="marke" auto="true">mark</normalised> him in the journey, he is full <lb/>
+of tribulations: but <normalised orig="marke" auto="true">mark</normalised> him in the conclusion, and <lb/>
+the end of that man is peace. In Christ all things are <lb/>
+ours, 1 Cor. 3. 22. How is that? Why, we have all <lb/>
+things, because we have the <choice ana="illegible">
+                     <sic>h*ver</sic>
+                     <corr>haver</corr>
+                  </choice> of all things. And <lb/>
+                  <quote type="biblical" ana="Rom 8.28">if we love Christ, all things <normalised orig="worke" auto="true">work</normalised> together for our good</quote>; <lb/>
+yea, for the best: <normalised orig="Rom" auto="true">Room</normalised>. 8. 28. And if all things (quoth <lb/>
+Luther) then even <normalised orig="sinne" auto="true">sin</normalised> it <normalised orig="selfe" auto="true">self</normalised>. And indeed, how <lb/>
+many have wee <normalised orig="knowne" auto="true">known</normalised> the better for <choice ana="illegible">
+                     <sic>th*ir</sic>
+                     <corr>their</corr>
+                  </choice> <normalised orig="sinne" auto="true">sin</normalised>? <lb/>
+That Magdalen had never loved so much, if she had <lb/>
+not so much sinned: had not the incestuous person sinned <lb/>
+so notoriously, he had never <normalised orig="beene" auto="true">been</normalised> so happy. God <lb/>
+<normalised orig="tooke" auto="true">took</normalised> the advantage of his humiliation for his conversion. <lb/>
+Had not one foot <normalised orig="slipt" auto="true">slipped</normalised> into the mouth of <lb/>
+Hell, he had never <normalised orig="beene" auto="true">been</normalised> in this <normalised orig="forwardnesse" auto="true">forwardness</normalised> to Heaven: <lb/>
+<normalised orig="sinne" auto="true">sin</normalised> first wrought sorrow, (saith Saint Austin) <lb/>
+and now godly sorrow <normalised orig="kils" auto="true">kills</normalised> <normalised orig="sinne" auto="true">sin</normalised>; the daughter <normalised orig="destroyes" auto="true">destroys</normalised> <lb/>
+the mother: neither <normalised orig="doe" auto="true">do</normalised> our <normalised orig="owne" auto="true">own</normalised> <normalised orig="sinnes" auto="true">sins</normalised> <normalised orig="onely" auto="true">only</normalised> <lb/>
+advantage us, but other <normalised orig="mens" auto="true">men's</normalised> <normalised orig="sinnes" auto="true">sins</normalised> <normalised orig="worke" auto="true">work</normalised> for our <lb/>
+good also. <lb/>
+Objection. But may some say, can any good come out <lb/>
+of such a Nazarite? <lb/>
+Answer. Yes: The advantage we have by Christ, <lb/>
+is more than the <normalised orig="losse" auto="true">loss</normalised> we had by Adam. If Aruis <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="240">Q 3</fw>
+                  <pb n="17"/>
+                  <lb/>
+had not held a Trinity of Substances, with a Trinity <lb/>
+of Persons; and Sabellius an <normalised orig="Vnity" auto="true">Unity</normalised> of Persons, with <lb/>
+an <normalised orig="Vnity" auto="true">Unity</normalised> of Essences; the Mysteries of the Trinity had <lb/>
+not <normalised orig="beene" auto="true">been</normalised> so <normalised orig="clearely" auto="true">clearly</normalised> explained by those great lights <lb/>
+of the Church. If Rome had not so violently obtruded <lb/>
+her <normalised orig="merites" auto="true">merits</normalised>, the doctrine of Justification <normalised orig="onely" auto="true">only</normalised> by <lb/>
+faith in Christ, might have <normalised orig="beene" auto="true">been</normalised> <normalised orig="lesse" auto="true">less</normalised> digested into <lb/>
+<normalised orig="mens" auto="true">men's</normalised> hearts. We may say here, as Augustine <normalised orig="doth" auto="true">does</normalised> <lb/>
+of Carthage and Rome; If some enemies had not contested <lb/>
+against the Church, it might have gone worse <lb/>
+with the Church. Lastly, suppose our enemies should <lb/>
+kill us, they shall not hurt, but pleasure us: yea, even <lb/>
+death it <normalised orig="selfe" auto="true">self</normalised> shall <normalised orig="worke" auto="true">work</normalised> our good. That Red Sea <lb/>
+shall put us over to the Land of Promise, and wee <lb/>
+shall say to the praise of God, we are delivered, we <lb/>
+are the better for our enemies, the better for our sins, <lb/>
+the better for death; yea, <choice ana="illegible">
+                     <sic>bett*r</sic>
+                     <corr>better</corr>
+                  </choice> for the <normalised orig="devill" auto="true">devil</normalised>; and <lb/>
+to <normalised orig="thinke" auto="true">think</normalised> otherwise even for the present, were not <lb/>
+<normalised orig="onely" auto="true">only</normalised> to derogate from the <normalised orig="wisedome" auto="true">wisdom</normalised>; power, and <normalised orig="goodnesse" auto="true">goodness</normalised> <lb/>
+of God, but it would be against reason; for in <lb/>
+reason, if he have vouchsafed us that great mercy to <lb/>
+make us his <normalised orig="owne" auto="true">own</normalised>, he <normalised orig="hath" auto="true">has</normalised> given the whole army of <lb/>
+afflictions a more inviolable charge concerning us, <lb/>
+than David gave his Host concerning <normalised orig="Absolom" auto="true">Absalom</normalised>; See <lb/>
+<normalised orig="yee" auto="true">ye</normalised> <normalised orig="doe" auto="true">do</normalised> the young man, my <normalised orig="sonne" auto="true">son</normalised> <normalised orig="Absolom" auto="true">Absalom</normalised>, no <normalised orig="harme" auto="true">harm</normalised>. <lb/>
+Now if for the present thou <normalised orig="lackest" auto="false">lack</normalised> faith, patience, <lb/>
+<normalised orig="wisedome" auto="true">wisdom</normalised>, and true judgement how to <normalised orig="beare" auto="true">bear</normalised>, and make <lb/>
+this <normalised orig="gaine" auto="true">gain</normalised> of the <normalised orig="crosse" auto="true">cross</normalised>, <quote type="biblical" ana="Jas 1.5"><normalised orig="Aske" auto="true">Ask</normalised> it of God, who <normalised orig="giveth" auto="true">gives</normalised> <lb/>
+to all me liberally, and <normalised orig="reproacheth" auto="true">reproaches</normalised> no man, and it shall <lb/>
+be given thee</quote>; James 1. 5. For <quote type="biblical" ana="Jas 1.17">every good giving, and <lb/>
+every perfect gift is from above; and <normalised orig="commeth" auto="true">comes</normalised> <normalised orig="downe" auto="true">down</normalised> <lb/>
+from the Father of lights</quote>: Verse 17. <lb/>
+                  <pb n="18"/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>6. <normalised orig="Vse" auto="true">Use</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+6. Sixthly, (for this point calling more for practice <lb/>
+than <normalised orig="proofe" auto="true">proof</normalised>, it behoves us to <normalised orig="bee" auto="true">be</normalised> larger here, <lb/>
+briefer there.) If that which is one mans meat, proves <lb/>
+another mans <normalised orig="poyson" auto="true">poison</normalised>; let it <normalised orig="bee" auto="true">be</normalised> acknowledged, that <lb/>
+the fault is not in the meat, but in the <normalised orig="stomack" auto="true">stomach</normalised>: and <lb/>
+that it is the <normalised orig="wickednesse" auto="true">wickedness</normalised> of our hearts, and want of <lb/>
+a sincere endeavour, to make good use of Gods corrections, <lb/>
+which <normalised orig="causeth" auto="true">causes</normalised> him to withdraw his blessing <lb/>
+from them. Wherefore let it provoke us as we love <lb/>
+our selves, as wee love our <normalised orig="soules" auto="true">souls</normalised>, through all the <lb/>
+transitory, temporary, momentary passages of this world; <lb/>
+first, to strive after, and then to preserve the life of <lb/>
+our lives, and <normalised orig="soule" auto="true">soul</normalised> of our <normalised orig="soules" auto="true">souls</normalised> sincerity, and integrity. <lb/>
+<normalised orig="Againe" auto="true">Again</normalised>, if Afflictions (which are in their <normalised orig="owne" auto="true">own</normalised> nature <lb/>
+<normalised orig="evill" auto="true">evil</normalised>, and unto others strong temptations to <normalised orig="sinne" auto="true">sin</normalised>) <lb/>
+by the <normalised orig="goodnesse" auto="true">goodness</normalised> of God, <normalised orig="doe" auto="true">do</normalised> make so much for our <lb/>
+advantage, and benefit here, and hereafter: If our <lb/>
+Heavenly Father <normalised orig="turnes" auto="true">turns</normalised> all things, even the malice of <lb/>
+Satan, and wicked men; yea, our <normalised orig="owne" auto="true">own</normalised> <choice ana="illegible">
+                     <sic><normalised orig="sinn" auto="true">sin</normalised>*s</sic>
+                     <corr><normalised orig="sinnes" auto="true">sins</normalised></corr>
+                  </choice> to our <lb/>
+good: <normalised orig="Rom" auto="true">Room</normalised>. 8. 28. If for our sakes, and for his name <lb/>
+sake, he even <normalised orig="changeth" auto="true">changes</normalised> the nature and property of each <lb/>
+creature, rather than they shall hurt us; as it is the <lb/>
+nature and property of fire to <normalised orig="burne" auto="true">burn</normalised>, yet <choice ana="illegible">
+                     <sic>tha* *hement</sic>
+                     <corr>that vehement</corr>
+                  </choice>
+                  <lb/>
+fire in <normalised orig="Nebuchadnezzars" auto="false">Nebuchadnezzar</normalised> furnace, did not <normalised orig="burne" auto="true">burn</normalised> the <lb/>
+three servants of God. It is proper to the Sea to <lb/>
+<normalised orig="drowne" auto="true">drown</normalised> those that be cast into it; yet it did not <normalised orig="drowne" auto="true">drown</normalised> <lb/>
+the Prophet in the very depth of it. It is proper for <lb/>
+hungry ravenous Lyons to kill, and <normalised orig="devoure" auto="true">devour</normalised>, yet <lb/>
+they did Daniel no <normalised orig="harme" auto="true">harm</normalised>. And the like, when we <lb/>
+need their <normalised orig="helpe" auto="true">help</normalised>. It is proper for the Sun to move, <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="242">Q 4</fw>
+                  <pb n="19"/>
+                  <lb/>
+yet it stood still at the prayer of <normalised orig="Joshuah" auto="false">Joshua</normalised>, proper for <lb/>
+it to <normalised orig="goe" auto="true">go</normalised> from East to West; yet for Hezekiahs confirmation, <lb/>
+it went from West to East: It is proper <lb/>
+for Iron to <normalised orig="sinke" auto="true">sink</normalised> in the Water, yet it <normalised orig="swoom" auto="false">swam</normalised> when the <lb/>
+children of the Prophets had need of it. In like manner <lb/>
+it is proper for affliction to harden, and make <lb/>
+worse, as well as for riches and prosperity to <normalised orig="insnare" auto="true">ensnare</normalised>: <lb/>
+But as some simples are made by Art medicinable, <lb/>
+which are by nature <choice ana="illegible">
+                     <sic><normalised orig="poyson" auto="true">poison</normalised>*le</sic>
+                     <corr><normalised orig="poysonable" auto="true">poisonable</normalised></corr>
+                  </choice>: So afflictions, which <lb/>
+are in nature destructive; by grace become preservative. <lb/>
+And as <normalised orig="evill" auto="true">evil</normalised> waters when the <normalised orig="Unicornes" auto="true">Unicorns</normalised> <normalised orig="horne" auto="false">horn</normalised> <lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="beene" auto="true">been</normalised> in them, are no longer <normalised orig="poysonable" auto="true">poisonable</normalised>, but <lb/>
+<normalised orig="healthfull" auto="true">healthful</normalised>; or as a <normalised orig="waspe" auto="true">wasp</normalised> when her sting is out, may awaken <lb/>
+us by buzzing, but cannot <normalised orig="hurte" auto="true">hurt</normalised> us by stinging: so <lb/>
+fares it with affliction, when God <normalised orig="pleaseth" auto="true">pleases</normalised> to <normalised orig="sanctifie" auto="true">sanctify</normalised> <lb/>
+the same, as he <normalised orig="doth" auto="true">does</normalised> to all that love him, <normalised orig="Rom" auto="true">Room</normalised>. 8. 28. <lb/>
+For of God it is, (without <normalised orig="thankes" auto="true">thanks</normalised> to Affliction, or <lb/>
+our selves, or our <normalised orig="sinnes" auto="true">sins</normalised>) that we are bettered by <lb/>
+them: All the <normalised orig="worke" auto="true">work</normalised> is thine, let thine be the glory. <lb/>
+But <choice ana="illegible">
+                     <sic>l*stly</sic>
+                     <corr>lastly</corr>
+                  </choice> (for though we can never be <normalised orig="thankefull" auto="true">thankful</normalised> <lb/>
+enough for this, yet this is not all) that we should <lb/>
+<normalised orig="finde" auto="true">find</normalised> him a Saviour, whom our enemies <normalised orig="finde" auto="true">find</normalised> a just <lb/>
+revenger; That we should be loosed from the <normalised orig="chaines" auto="true">chains</normalised> <lb/>
+of our <normalised orig="sinnes" auto="true">sins</normalised>, and they delivered into the <normalised orig="chaines" auto="true">chains</normalised> of <lb/>
+Plagues; That the same Christ should with his precious <lb/>
+blood free us, that shall with his Word sentence <lb/>
+them. <lb/>
+<normalised orig="Againe" auto="true">Again</normalised>, if we were by nature the Seed of the Serpent, <lb/>
+children of the <normalised orig="Devill" auto="true">Devil</normalised>, and Subjects to that Prince <lb/>
+which <normalised orig="ruleth" auto="true">rules</normalised> in the <normalised orig="Ayre" auto="true">Air</normalised>; even that spirit which now <lb/>
+                  <quote type="biblical" ana="Eph 2.2"><normalised orig="worketh" auto="true">works</normalised> in these children of disobedience</quote>, Ephes. 2. 2. We <lb/>
+may <normalised orig="learne" auto="true">learn</normalised> by it, to be humble and <choice ana="illegible">
+                     <sic>th*nkefull</sic>
+                     <corr><normalised orig="thankefull" auto="true">thankful</normalised></corr>
+                  </choice>, if changed <lb/>
+to be the womans Seed, children of God, and members <lb/>
+of Christ, since we were once in so <normalised orig="vilde" auto="true">wild</normalised> a condition; <lb/>
+                  <pb n="20"/>
+                  <lb/>
+for God found nothing in us but Enmity, 1 Cor. <lb/>
+15. 10. <normalised orig="Rom" auto="true">Room</normalised>. 7. 18. 25. We are not borne, but new-borne <lb/>
+Christians. And whereas he might have left us in that <lb/>
+perishing condition (being bound to none) and have <lb/>
+chosen others; he <normalised orig="hath" auto="true">has</normalised> of his free grace adopted us, and <lb/>
+left others: Whats the reason? surely no reason can be given, <lb/>
+but O the depth! only this I am sure of, it is a mercy <lb/>
+beyond all expression: O my <normalised orig="soule" auto="true">soul</normalised>, thou <normalised orig="hast" auto="true">have</normalised> not <normalised orig="roome" auto="true">room</normalised> <lb/>
+enough for <normalised orig="thankefulnesse" auto="true">thankfulness</normalised>. <lb/>
+Wherefore let it provoke us so to love him, that we <lb/>
+<normalised orig="shew" auto="true">show</normalised> forth the <normalised orig="vertues" auto="true">virtues</normalised>, and fruits of him that <normalised orig="hath" auto="true">has</normalised> called <lb/>
+us, and done all this for us, 1 Pet. 2. 9. But I <lb/>
+<normalised orig="feare" auto="true">fear</normalised> we forfeit many of Gods favours, for not paying <lb/>
+that <normalised orig="easie" auto="true">easy</normalised> rent of <normalised orig="thankfulnesse" auto="true">thankfulness</normalised>. <lb/>
+For conclusion, If we be the seed of the Woman, <lb/>
+and our enemies the seed of the Serpent, let us <normalised orig="goe" auto="true">go</normalised> before <lb/>
+them in <normalised orig="goodnesse" auto="true">goodness</normalised>, as <normalised orig="farre" auto="true">far</normalised> as God <normalised orig="hath" auto="true">has</normalised> preferred us <lb/>
+before them in mercy: let us be able to say of our enemies, <lb/>
+as Job of his, <quote type="biblical" ana="Job 31.30">I have not suffered my mouth to sin, <lb/>
+by wishing a curse unto his <normalised orig="soule" auto="true">soul</normalised></quote>, Job 31. 30. Yea, let us <lb/>
+send <normalised orig="downe" auto="true">down</normalised> water from our compassionate eyes, and <lb/>
+<normalised orig="weepe" auto="true">weep</normalised> for them by whom we bleed. In <normalised orig="briefe" auto="true">brief</normalised>, let us <lb/>
+hate their opinions, strive against their practise, <normalised orig="pitty" auto="true">pity</normalised> <lb/>
+their misguidings, neglect their censures, labour their recovery, <lb/>
+and pray for their salvation. <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

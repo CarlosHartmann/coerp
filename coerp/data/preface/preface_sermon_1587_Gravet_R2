@@ -1,0 +1,146 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Gravet's Sermon</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="WiGr1599d">Gravet, William</author>
+               <title type="main">"To the Reader." In: Gravet, Wiliam. A sermon preached at Pavles <normalised orig="Crosse" auto="true">Cross</normalised> on the xxv. day of <normalised orig="Iune" auto="true">June</normalised> Ann. <normalised orig="Dom" auto="true">Doom</normalised>. 1587. <normalised orig="intreating" auto="true">entreating</normalised> of the holy Scriptures, and the <normalised orig="vse" auto="true">use</normalised> of the same: By William Grauet, <normalised orig="Bachelar" auto="true">Bachelor</normalised> of <normalised orig="Diuinitie" auto="true">Divinity</normalised>, and Vicar of S. <normalised orig="Sepulchers" auto="true">Sepulchres</normalised> in London.</title>
+               <title type="short">Preface Gravet's Sermon</title>
+               <date when="1587">1587</date>
+               <date type="this_edition" when="1587">1587</date>
+               <idno type="STC">12200</idno>
+               <note type="genre" subtype="preface_sermon">sermon preface</note>
+               <note type="sample" target="#WiGr1599d_1587_preface_sermon_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="WiGr1599d_1587_preface_sermon_1">
+            <div>
+               <head>To the Reader.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+THat (gentle Reader) which<lb/>
+at the earnest request of<lb/>
+<normalised orig="certaine" auto="true">certain</normalised> my good friends, I<lb/>
+refused to do (as <normalised orig="diuers" auto="true">divers</normalised> can<lb/>
+<normalised orig="testifie" auto="true">testify</normalised>) <normalised orig="necessitie" auto="true">necessity</normalised> now <normalised orig="forceth" auto="true">forces</normalised><lb/>
+me <normalised orig="vnto" auto="true">unto</normalised>: namely, to<lb/>
+publish this my Sermon in<lb/>
+print, which at the appointment<lb/>
+of the <normalised orig="reuerend" auto="true">reverend</normalised> father in God, my Lord the<lb/>
+Bishop of London, I made at <normalised orig="Paules" auto="true">Paul's</normalised> <normalised orig="Crosse" auto="true">Cross</normalised> on the 25.<lb/>
+day of <normalised orig="Iune" auto="true">June</normalised> last past: the which in words I <normalised orig="haue" auto="true">have</normalised> very<lb/>
+little altered, so far as my notes and <normalised orig="memorie" auto="true">memory</normalised> would<lb/>
+<normalised orig="serue" auto="true">serve</normalised> me, but in matter and substance nothing at all,<lb/>
+as they which then heard me may easily <normalised orig="perceiue" auto="true">perceive</normalised>. One<lb/>
+place I <normalised orig="haue" auto="true">have</normalised> by occasion <normalised orig="somwhat" auto="true">somewhat</normalised> <normalised orig="inlarged" auto="true">enlarged</normalised>, the reason<lb/>
+whereof is <normalised orig="rendred" auto="true">rendered</normalised> in the margent. Now <normalised orig="heerin" auto="true">herein</normalised>, specially<lb/>
+in the former part, handling matters of most <lb/>
+great <normalised orig="controuersie" auto="true">controversy</normalised> between the Papists and <normalised orig="vs" auto="true">us</normalised>, which<lb/>
+<normalised orig="altogither" auto="true">altogether</normalised> would <normalised orig="seeme" auto="true">seem</normalised> to rely <normalised orig="vpon" auto="true">upon</normalised> the Doctors, I<lb/>
+<normalised orig="vsed" auto="true">used</normalised> <normalised orig="diuers" auto="true">divers</normalised> authorities of <normalised orig="som" auto="true">some</normalised> of the ancient fathers,<lb/>
+chiefly of that most excellent Doctor S. Augustine: <lb/>
+the causes whereof I briefly <normalised orig="rendred" auto="true">rendered</normalised> in the Sermon it<lb/>
+<normalised orig="selfe" auto="true">self</normalised> (as it is to be <normalised orig="seene" auto="true">seen</normalised>) which I thought would <normalised orig="haue" auto="true">have</normalised><lb/>
+satisfied the reasonable hearer. <normalised orig="Notwitstanding" auto="true">Notwithstanding</normalised>, one,<lb/>
+whom I <normalised orig="neuer" auto="true">never</normalised> heard of before that time (and what he<lb/>
+is God <normalised orig="knoweth" auto="true">knows</normalised>) shortly after in the same place (as it<lb/>
+was reported to me) did bitterly <normalised orig="reproue" auto="true">reprove</normalised> me for so doing.<lb/>
+Whether he <normalised orig="hath" auto="true">has</normalised> in this point, <normalised orig="vnaduisedly" auto="true">unadvisedly</normalised>, and<lb/>
+<normalised orig="vncharitably" auto="true">uncharitably</normalised> abused me or not, let it be <normalised orig="iudged" auto="true">judged</normalised> by the<lb/>
+reading of the very same things, in the same order<lb/>
+that they were then <normalised orig="vttered" auto="true">uttered</normalised>. The <normalised orig="iudgement" auto="true">judgment</normalised> whereof<lb/>
+I refer to all the godly learned and discreet readers.<lb/>
+                  <lb/>
+                  <fw type="pageNum">A 2</fw>
+                  <pb n="1"/>
+                  <lb/>
+For my part, I take God to <normalised orig="witnes" auto="true">witness</normalised>, who is the searcher<lb/>
+of all <normalised orig="mens" auto="true">men's</normalised> harts, that I <normalised orig="tooke" auto="true">took</normalised> this <normalised orig="busines" auto="true">business</normalised> in<lb/>
+hand, in the <normalised orig="feare" auto="true">fear</normalised> of God, directing my whole Sermon<lb/>
+to these ends principally, that our faith might <normalised orig="bee" auto="true">be</normalised><lb/>
+grounded <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="onely" auto="true">only</normalised> truth of Gods word: that<lb/>
+false <normalised orig="counterfet" auto="true">counterfeit</normalised> religion might be detected an abhorred:<lb/>
+that all worldly confidence and <normalised orig="wickednes" auto="true">wickedness</normalised><lb/>
+might be <normalised orig="auoided" auto="true">avoided</normalised>: and that true Christian peace possessing<lb/>
+our harts and our minds, we might <normalised orig="knowe" auto="true">know</normalised> and<lb/>
+<normalised orig="performe" auto="true">perform</normalised> our <normalised orig="dutie" auto="true">duty</normalised> towards God and our Prince, and<lb/>
+also one towards another in this present life, that <normalised orig="heerafter" auto="false">hereafter</normalised><lb/>
+we may <normalised orig="enioy" auto="true">enjoy</normalised> <normalised orig="euerlasting" auto="true">everlasting</normalised> life.<lb/>
+In the <normalised orig="meane" auto="true">mean</normalised> time, let <normalised orig="vs" auto="true">us</normalised> take diligent heed, to<lb/>
+the <normalised orig="counsell" auto="true">counsel</normalised> and <normalised orig="commandement" auto="true">commandment</normalised> of the blessed Apostle<lb/>
+to the Philippians, who <normalised orig="biddeth" auto="true">bids</normalised> that nothing be <lb/>
+done through contention, or <normalised orig="vaine" auto="true">vain</normalised> <normalised orig="glorie" auto="true">glory</normalised>, but that in <lb/>
+<normalised orig="meeknes" auto="true">meekness</normalised> of mind, <normalised orig="euery" auto="true">every</normalised> man esteem other better than<lb/>
+<normalised orig="himselfe" auto="true">himself</normalised>. <normalised orig="Looke" auto="true">Look</normalised> not (saith he) <normalised orig="euery" auto="true">every</normalised> man on his <normalised orig="owne" auto="true">own</normalised><lb/>
+things, but <normalised orig="euery" auto="true">every</normalised> man also on the things of other men.<lb/>
+Then <normalised orig="followeth" auto="true">follows</normalised> immediately in the same place, the<lb/>
+most <normalised orig="woonderfull" auto="true">wonderful</normalised> example of our <normalised orig="Sauior" auto="true">Saviour</normalised>, who for our<lb/>
+sakes humbled <normalised orig="himselfe" auto="true">himself</normalised> to the lowest degree, that we<lb/>
+in <normalised orig="humilitie" auto="true">humility</normalised> following his most blessed example, may<lb/>
+by him and with him in the end be exalted.<lb/>
+Whereunto, that we may effectually <normalised orig="conforme" auto="true">conform</normalised> our<lb/>
+<normalised orig="selues" auto="true">selves</normalised>, I will conclude with the same <normalised orig="praier" auto="true">prayer</normalised>, that the <lb/>
+Aspostle <normalised orig="vseth" auto="true">uses</normalised>, writing to the Romans: <quote type="biblical" ana="Rom 15.5">The God of<lb/>
+    patience and consolation</quote>, <normalised orig="giue" auto="true">give</normalised> <normalised orig="vs" auto="true">us</normalised>, that we <quote type="biblical" ana="Rom 15.5">be like minded<lb/>
+    one towards another, according to Christ <normalised orig="Iesus" auto="true">Jesus</normalised></quote>,<lb/>
+that we <quote type="biblical" ana="Rom 15.6">with one mind, and with one mouth, may praise<lb/>
+    God <normalised orig="euen" auto="true">even</normalised> the father of our Lord <normalised orig="Iesus" auto="true">Jesus</normalised> Christ</quote>, Amen.<lb/>
+                  <lb/>
+Thine in the Lord <normalised orig="Iesus" auto="true">Jesus</normalised>,<lb/>
+WILLIAM GRAVET.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

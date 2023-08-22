@@ -1,0 +1,758 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding Riches of Sarah Wight</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="HeJe1603"><notvariant>Jessey</notvariant>, Henry</author>
+               <title type="main">The exceeding Riches of grace advanced By the Spirit of Grace, in an Empty Nothing Creature, viz. <notvariant>Mris</notvariant> Sarah Wight, Lately <normalised orig="hopeles" auto="true">hopeless</normalised> and <normalised orig="restles" auto="true">restless</normalised>, her <normalised orig="soule" auto="true">soul</normalised> dwelling as far from Peace or hopes of Mercy, as ever was any. Now <normalised orig="hopefull" auto="true">hopeful</normalised>, and <normalised orig="joyfull" auto="true">joyful</normalised> in the Lord, that <normalised orig="hath" auto="false">has</normalised> caused light to shine out of <normalised orig="darknes" auto="true">darkness</normalised>; that in and by this Earthen <normalised orig="Vessell" auto="true">Vessel</normalised>, holds forth his Own <normalised orig="eternall" auto="true">eternal</normalised> love, and the Glorious Grace of his dear Son, to the chiefest of sinners. Who desired that others might hear and know, what the Lord had done for her soul, (that was so terrified day &amp; night:) and might neither presume, nor despair and <normalised orig="murmure" auto="true">murmur</normalised> against God, as <normalised orig="shee" auto="true">she</normalised> <normalised orig="hath" auto="false">has</normalised> done</title>
+               <title type="short">Exceeding Riches of Sarah Wight</title>
+               <date when="1647">1647</date>
+               <date type="this_edition" when="1647">1647</date>
+               <idno type="STC">19484</idno>
+               <note type="genre" subtype="biography">biography</note>
+               <note type="sample" target="#HeJe1603_1647_biography_1">p.5, l.1 – p.15, l.18</note>
+               <note type="sample" target="#HeJe1603_1647_biography_2">p.35, l.4 - p.43, l.7</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>octavo</notvariant></term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="due_to">close binding</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="HeJe1603_1647_biography_1">
+            <div>
+               <p>
+I. TOuching her Earthly Parentage. This M<hi rend="high"><notvariant>ris</notvariant></hi><lb/>
+Sarah Wight, was daughter to M<hi rend="high">r</hi>. Thomas<lb/>
+Wight, sometimes of the Auditors Office, and of the<lb/>
+Exchequers Office: Her earthly dwelling is now with<lb/>
+her <normalised orig="faithfull" auto="true">faithful</normalised> Mother M<hi rend="high"><notvariant>ris</notvariant></hi> Mary Wight, widow, in<lb/>
+Lawrence <notvariant>Pountney-Lane</notvariant>, by Caning-street in LONDON:<lb/>
+Whose Father was M<hi rend="high">r</hi> Edward <notvariant>Purcel</notvariant> Esquire,<lb/>
+of <notvariant>Ansloo</notvariant> <normalised orig="neer" auto="true">near</normalised> <notvariant>Shrewbury</notvariant>: and whose former Husband<lb/>
+was M<hi rend="high">r</hi>. Edward Vaughan Esquire, the Kings<lb/>
+Receiver, and <notvariant>Surveyer</notvariant> for Northampton-shire, and<lb/>
+for <notvariant>Rutland-shire</notvariant>: by whom <normalised orig="shee" auto="true">she</normalised> had her <normalised orig="sonne" auto="true">son</normalised><lb/>
+M<hi rend="high">r</hi>. Jonathan Vaughan, now of <normalised orig="Alsoules" auto="false">All-souls</normalised> in Oxford.<lb/>
+Who not long since writ thence a <normalised orig="Consolatory" auto="false">Conciliatory</normalised><lb/>
+Letter to this his <normalised orig="sorrowfull" auto="true">sorrowful</normalised> Sister SARAH,<lb/>
+therein saying thus: Doest thou <normalised orig="despaire" auto="true">despair</normalised>, because<lb/>
+thy Tempter is a <normalised orig="Lyon" auto="false">Lion</normalised> for his strength? Behold the<lb/>
+<normalised orig="Lyon" auto="false">Lion</normalised> of the Tribe of <notvariant>Judah</notvariant>, Christ the mighty<lb/>
+God: who can and will deliver thee out of his paw.<lb/>
+A fountain laid open for <normalised orig="sinne" auto="true">sin</normalised>, and for <normalised orig="uncleannesse" auto="true">uncleanness</normalised>.<lb/>
+I verily <normalised orig="beleeve" auto="true">believe</normalised>, that although for the present<lb/>
+you lie among the pots, of no use: yet thy God will<lb/>
+make thee a <normalised orig="Vessell" auto="true">Vessel</normalised> of Honour, an instrument fit for<lb/>
+thy Masters use; whereby he will square sinners, to<lb/>
+his own glory, &amp;c.] This in his Letter is now fulfilled,<lb/>
+and fulfilling. <normalised orig="Shee" auto="true">She</normalised> that was born of flesh<lb/>
+and <normalised orig="bloud" auto="true">blood</normalised>, borne in <normalised orig="sinne" auto="true">sin</normalised>; and that was by Nature<lb/>
+a <normalised orig="childe" auto="true">child</normalised> of wrath: is now borne from above,<lb/>
+borne of God, having given to her Faith<lb/>
+and Love: and <normalised orig="hath" auto="false">has</normalised> Jesus Christ<lb/>
+to her Brother, and God to her<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="6">B3</fw>
+                  <pb n="1"/>
+                  <lb/>
+Father, and her dwelling place: He<lb/>
+dwelling in her, and <normalised orig="shee" auto="true">she</normalised> in him: Let<lb/>
+him and her that <normalised orig="glorieth" auto="true">glories</normalised>, not glory<lb/>
+in the flesh, but in the Lord alone.<lb/>
+                  <lb/>
+II. Touching her Education: In the time of her<lb/>
+Mothers deep afflictions of Spirit, and sore Temptations,<lb/>
+<normalised orig="shee" auto="true">she</normalised> was well trained up in the Scriptures,<lb/>
+by her godly <normalised orig="faithfull" auto="true">faithful</normalised> Grand-mother, M<hi rend="high"><notvariant>ris</notvariant></hi> Wight<lb/>
+of <notvariant>Daintree</notvariant>. And when the Lords time of Love<lb/>
+was, that he vouchsafed to manifest his Grace<lb/>
+in Christ to her Mothers <normalised orig="soule" auto="true">soul</normalised>, then the Lord<lb/>
+brought her home to her, <normalised orig="shee" auto="true">she</normalised> being then about 9<lb/>
+<normalised orig="yeares" auto="true">years</normalised> old. <normalised orig="Shee" auto="true">She</normalised> gave her <normalised orig="selfe" auto="true">self</normalised> much to read and<lb/>
+study the Scriptures: Which though <normalised orig="shee" auto="true">she</normalised> then understood<lb/>
+not aright; yet the Lord by his Holy<lb/>
+Spirit brought to her remembrance, and opened to<lb/>
+her since her restoring, what formerly <normalised orig="shee" auto="true">she</normalised> had<lb/>
+read; for great comfort and soul-refreshing to her<lb/>
+<normalised orig="selfe" auto="true">self</normalised>, and to many others; as hereafter <normalised orig="followeth" auto="true">follows</normalised>.<lb/>
+Which is a great encouragement to all that <normalised orig="feare" auto="true">fear</normalised><lb/>
+God, to train up their children in the holy Scriptures;<lb/>
+as, 2 Tim. 3. 15. Chap. 1. 5. <notvariant>Prov</notvariant>. 22. 6. <normalised orig="Deut" auto="true">Deuteronomy</normalised>.<lb/>
+6. 6, 7. Gen. 18. 19.<lb/>
+III. Touching her afflictions. From her childhood<lb/>
+she was of a tender heart, and oft afflicted in<lb/>
+Spirit: Her Temptations were not so great, till<lb/>
+<normalised orig="shee" auto="true">she</normalised> was about twelve <normalised orig="yeares" auto="true">years</normalised> old; since which, they<lb/>
+have continued with more violence till <normalised orig="Aprill" auto="true">April</normalised> 6.<lb/>
+                  <pb n="2"/>
+                  <lb/>
+1647. it being about 4. <normalised orig="yeares" auto="true">years</normalised>. [Shee is not sixteen<lb/>
+<normalised orig="yeeres" auto="true">years</normalised> old (as her Mother saith,) till September<lb/>
+following.]<lb/>
+The beginning of her more violent Temptations<lb/>
+was thus: Her <normalised orig="superiour" auto="true">superior</normalised> bid her <normalised orig="doe" auto="false">do</normalised> a small<lb/>
+thing, judging it meet and <normalised orig="lawfull" auto="true">lawful</normalised>: <normalised orig="Shee" auto="true">She</normalised> did it,<lb/>
+<notvariant>doubtingly</notvariant>, fearing it was <normalised orig="unlawfull" auto="true">unlawful</normalised>: and as <normalised orig="shee" auto="true">she</normalised><lb/>
+did it, a great Trembling in her hands and body<lb/>
+fell upon her: being condemned in her <normalised orig="selfe" auto="true">self</normalised>. About<lb/>
+a <normalised orig="moneth" auto="true">month</normalised> after, returning home, having been abroad,<lb/>
+<normalised orig="shee" auto="true">she</normalised> had lost her hood, and knew <normalised orig="shee" auto="true">she</normalised> had<lb/>
+lost it. Her Mother asked her, for her hood. <normalised orig="Shee" auto="true">She</normalised><lb/>
+suddenly answered, My Grand-mother <normalised orig="hath" auto="false">has</normalised> it.<lb/>
+Her heart condemned her instantly, and trembled<lb/>
+<normalised orig="againe" auto="true">again</normalised> exceedingly. And these were the first <normalised orig="chiefe" auto="true">chief</normalised><lb/>
+occasions of her deep <normalised orig="despaire" auto="true">despair</normalised>: And upon this,<lb/>
+<normalised orig="shee" auto="true">she</normalised> had cast into her Conscience, that <normalised orig="shee" auto="true">she</normalised> was<lb/>
+both a <normalised orig="Thiefe" auto="true">Thief</normalised>, and a <normalised orig="lyar" auto="true">liar</normalised>, and was terrified ever since,<lb/>
+that <normalised orig="shee" auto="true">she</normalised> was shut out of Heaven, and must be<lb/>
+<normalised orig="damn'd" auto="true">damned</normalised>, <normalised orig="damn'd" auto="true">damned</normalised>.<lb/>
+In the last four <normalised orig="yeeres" auto="true">years</normalised>, <normalised orig="shee" auto="true">she</normalised> was oft in such extremities,<lb/>
+<normalised orig="shee" auto="true">she</normalised> could <normalised orig="beleeve" auto="true">believe</normalised> nothing but Hell and<lb/>
+Wrath - to be her Portion; and other times, that<lb/>
+there was no heaven, nor hell, but in our Conscience:<lb/>
+and that <normalised orig="shee" auto="true">she</normalised> was <normalised orig="damn'd" auto="true">damned</normalised> already, being an <normalised orig="unbeleever" auto="false">unbeliever</normalised>:<lb/>
+and therefore if <normalised orig="shee" auto="true">she</normalised> could but dispatch<lb/>
+this life of hers, there was an end of her sorrows.<lb/>
+A subtle deceit of the old Serpent! Hence <normalised orig="shee" auto="true">she</normalised> oft<lb/>
+attempted wickedly to destroy her <normalised orig="selfe" auto="true">self</normalised>, as by<lb/>
+drowning, strangling, stabbing, seeking to beat<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="8">B4</fw>
+                  <pb n="3"/>
+                  <lb/>
+out her <normalised orig="braines" auto="true">brains</normalised>, wretchedly bruising, and wounding<lb/>
+her self. The <normalised orig="chiefe" auto="true">chief</normalised> cause of such <normalised orig="weaknes" auto="true">weakness</normalised> since<lb/>
+But the Lord who is her life, and loved her<lb/>
+then in her <normalised orig="bloud" auto="true">blood</normalised>, he wonderfully prevented her<lb/>
+destruction, many <normalised orig="wayes" auto="true">ways</normalised>. Sometimes by one or<lb/>
+other at that instant, sometimes staying her in the<lb/>
+acting, when no creature was by: Sometimes by<lb/>
+bringing to her <normalised orig="minde" auto="true">mind</normalised> some choice Scripture: as<lb/>
+this, <quote type="biblical" ana="Isa 54.17">No weapon <normalised orig="form'd" auto="true">formed</normalised> against thee, shall prosper</quote>, (<notvariant>Isa</notvariant>.<lb/>
+54.17.) or this, <quote type="biblical" ana="Jn 10.28">None shall take them out of my hand</quote>;<lb/>
+or, <quote type="biblical" ana="Jn 10.29">out of my Fathers hand</quote> (<notvariant>Joh</notvariant>. 10.28, 29) This<lb/>
+<normalised orig="stop'd" auto="true">stopped</normalised> her <normalised orig="sinfull" auto="true">sinful</normalised> act, but the comfort stayed not.<lb/>
+Many precious Ministers came to comfort her:<lb/>
+In London these, M<hi rend="high">r</hi> Thomas Goodwin, M<hi rend="high">r</hi> Barker,<lb/>
+M<hi rend="high">r</hi> <notvariant>Lockyar</notvariant>, M<hi rend="high">r</hi> Palmer their Minister in Lawrence<lb/>
+<notvariant>Pountney</notvariant>, M<hi rend="high">r</hi> <normalised orig="Sprigge" auto="true">Sprig</normalised>, M<hi rend="high">r</hi> John Simpson, and others.<lb/>
+And these came to her in or <normalised orig="neer" auto="true">near</normalised> Shrewsbury,<lb/>
+M<hi rend="high">r</hi> <notvariant>Hildershame</notvariant> of <notvariant>Felton</notvariant>, M<hi rend="high">r</hi> <notvariant>Paget</notvariant> (Father of D<hi rend="high">r</hi>
+                  <lb/>
+<notvariant>Paget</notvariant> now of London) M<hi rend="high">r</hi> Wright of Wellington,<lb/>
+M<hi rend="high">r</hi> Smith, M<hi rend="high">r</hi> Fisher, M<hi rend="high">r</hi> Blake, M<hi rend="high">r</hi> Morgan Floyd,<lb/>
+M<hi rend="high">r</hi> <notvariant>Moston</notvariant>: All these and many <normalised orig="moe" auto="true">more</normalised> godly Ministers<lb/>
+and precious Christians, being acquainted<lb/>
+with her sad <choice ana="illegible">
+                     <sic><notvariant>condi</notvariant>*ion</sic>
+                     <corr>condition</corr>
+                  </choice>, endeavoured to comfort<lb/>
+her: and <normalised orig="shee" auto="true">she</normalised> gladly would have received comfort;<lb/>
+but it was then hid from her.<lb/>
+Some glimpse <normalised orig="shee" auto="true">she</normalised> had, especially by <normalised orig="meanes" auto="true">means</normalised> of<lb/>
+her kinsman, M<hi rend="high">r</hi> John Browne, of Shrewsbury (a<lb/>
+<normalised orig="faithfull" auto="true">faithful</normalised> and loving man) and by one whom he<lb/>
+brought with him, viz. M<hi rend="high">r</hi> Daniel Floyd: but it was<lb/>
+soon <normalised orig="ecclipsed" auto="true">eclipsed</normalised> <normalised orig="againe" auto="true">again</normalised>; and <normalised orig="shee" auto="true">she</normalised> remained in grievous<lb/>
+                  <pb n="4"/>
+                  <lb/>
+<normalised orig="horrour" auto="true">horror</normalised> day and night; concluding <normalised orig="shee" auto="true">she</normalised> was<lb/>
+a Cast-away, a Reprobate, walking daily in the<lb/>
+midst of fire and brimstone, as one in Hell already.<lb/>
+Till the Lord (who had loved her with an<lb/>
+everlasting love, and in loving <normalised orig="kindnesse" auto="true">kindness</normalised> prevented<lb/>
+her <normalised orig="ruine" auto="true">ruin</normalised>,) at last restored comforts to her, and to<lb/>
+those that had prayed and mourned for her.<lb/>
+And since her much <notvariant>prayed-</notvariant> and hoped-for-deliverance,<lb/>
+amongst many that have visited her,<lb/>
+were these Ministers; M<hi rend="high">r</hi> Palmer, M<hi rend="high">r</hi> <normalised orig="Sprigge" auto="true">Sprig</normalised>, and<lb/>
+M<hi rend="high">r</hi> Simpson <notvariant>beforesaid</notvariant>, M<hi rend="high">r</hi> Peters, M<hi rend="high">r</hi> <notvariant>Charnock</notvariant> of<lb/>
+London, M<hi rend="high">r</hi> <notvariant>Atherley</notvariant> of the <notvariant>Charterhouse</notvariant> (with his<lb/>
+wife,) M<hi rend="high">r</hi> Hide of <notvariant>Wighton</notvariant> in Yorkshire, and the<lb/>
+<normalised orig="Relator" auto="false">Realtor</normalised>. Also the Lady <notvariant>Willoughby</notvariant>, the Lady <notvariant>Renula</notvariant>,<lb/>
+and the Lady <notvariant>Clotworthy</notvariant>, the Lady <notvariant>Vermuiden</notvariant>,<lb/>
+with her daughters M<hi rend="high"><notvariant>ris</notvariant></hi> Sarah, and M<hi rend="high"><notvariant>ris</notvariant></hi> <notvariant>Katharine</notvariant>,<lb/>
+Sir <notvariant>Ric</notvariant>: Philips, and his Lady, <notvariant>dau</notvariant>: to D<hi rend="high">r</hi> <notvariant>Oxenbridg</notvariant>,<lb/>
+Sir Richard <notvariant>Saltonstall</notvariant>, with his Lady, D<hi rend="high">r</hi> <notvariant>Coxe</notvariant>, <choice ana="print-error">
+                     <sic>D</sic>
+                     <corr>D
+            </corr>
+                  </choice>
+                  <lb/>
+<notvariant>Debote</notvariant>, D<hi rend="high">r</hi> <notvariant>Worsley</notvariant>, D<hi rend="high">r</hi> <notvariant>Paget</notvariant>, Physicians; M<hi rend="high"><notvariant>ris</notvariant></hi> Palmer,<lb/>
+wife to M<hi rend="high">r</hi> Palmer. Also M<hi rend="high"><notvariant>ris</notvariant></hi> Fines, wife to my<lb/>
+Lord Says eldest Son, and M<hi rend="high"><notvariant>ris</notvariant></hi> Harrison, wife to the<lb/>
+Chamberlain of London, M<hi rend="high"><notvariant>ris</notvariant></hi> Sarah Jones, wife to M<hi rend="high">r</hi>
+                  <lb/>
+Tho. Jones Esquire of Tower-hill, Col. <notvariant>Langhams</notvariant><lb/>
+wife, daughter to the Lady Roberts; M<hi rend="high">r</hi> and M<hi rend="high"><notvariant>ris</notvariant></hi>
+                  <lb/>
+<notvariant>Liggon</notvariant>, <notvariant>Capt</notvariant>. Price, and his wife, M<hi rend="high"><notvariant>ris</notvariant></hi> Wilson at<lb/>
+Nags-head; M<hi rend="high"><notvariant>ris</notvariant></hi> Lane, M<hi rend="high">r</hi> P. <notvariant>Barbon</notvariant>, and his wife;<lb/>
+M<hi rend="high"><notvariant>ris</notvariant></hi> Owen, and M<hi rend="high"><notvariant>ris</notvariant></hi> Hannah Allen, Bookseller, M<hi rend="high"><notvariant>ris</notvariant></hi>
+                  <lb/>
+Manning of Tower-street, M<hi rend="high"><notvariant>ris</notvariant></hi> Elizabeth <notvariant>Waldo</notvariant>,<lb/>
+sister to M<hi rend="high">r</hi> John <notvariant>Pocock</notvariant>; M<hi rend="high">r</hi> Ellis and M<hi rend="high"><notvariant>ris</notvariant></hi> Ellis, M<hi rend="high"><notvariant>ris</notvariant></hi>
+                  <lb/>
+Hawkins, M<hi rend="high"><notvariant>ris</notvariant></hi> Flood, and M<hi rend="high"><notvariant>ris</notvariant></hi> <normalised orig="Thare" auto="true">Their</normalised>, all <normalised orig="neer" auto="true">near</normalised> London-stone;<lb/>
+                  <pb n="5"/>
+                  <lb/>
+and her cousins M<hi rend="high">r</hi> Brigs Taylor and<lb/>
+his wife, M<hi rend="high"><notvariant>ris</notvariant></hi> <notvariant>Barney</notvariant> of Norfolk and of their <normalised orig="neerer" auto="true">nearer</normalised><lb/>
+neighbours, M<hi rend="high">r</hi> <notvariant>Lewes</notvariant> Merchant, M<hi rend="high"><notvariant>ris</notvariant></hi> <notvariant>Thurrel</notvariant>,<lb/>
+M<hi rend="high"><notvariant>ris</notvariant></hi> Grace Philips, M<hi rend="high"><notvariant>ris</notvariant></hi>
+                  <lb/>
+                  <choice ana="illegible">
+                     <sic>Du*per</sic>
+                     <corr><notvariant>Dupper</notvariant></corr>
+                  </choice>, M<hi rend="high"><notvariant>ris</notvariant></hi> Aires, &amp;c. Besides<lb/>
+her Brother M<hi rend="high">r</hi> Jonathan Vaughan, of <normalised orig="Alsoules" auto="false">All-souls</normalised><lb/>
+in Oxford, &amp; her uncle M<hi rend="high">r</hi> James Wight of <notvariant>Southa</notvariant>:<lb/>
+and his wife, and other two Ants, M<hi rend="high"><notvariant>ris</notvariant></hi> Anne and<lb/>
+M<hi rend="high"><notvariant>ris</notvariant></hi> Mary Wight. Many <normalised orig="moe" auto="true">more</normalised> might be named, who<lb/>
+have seen her of late, and have been much affected<lb/>
+in hearing of the Lords <normalised orig="wonderfull" auto="true">wonderful</normalised> workings, in,<lb/>
+and towards her: But these are sufficient to <normalised orig="witnesse" auto="true">witness</normalised><lb/>
+what they have seen, or heard, and <normalised orig="beleeve" auto="true">believe</normalised>:<lb/>
+many of them being persons of note, and of much<lb/>
+esteem in London amongst them that fear the Lord.<lb/>
+The naming of them, the <normalised orig="Relator" auto="false">Realtor</normalised> desires may not<lb/>
+be offensive to any of them, seeing <normalised orig="'tis" auto="true">it is</normalised> done for the<lb/>
+more assuring this great and memorable <normalised orig="worke" auto="true">work</normalised> of<lb/>
+Gods mercy, to some that (like Thomas) will not<lb/>
+<normalised orig="beleeve" auto="true">believe</normalised> it, <normalised orig="unlesse" auto="true">unless</normalised> (at least) they may speak with<lb/>
+some, that have been present with her.<lb/>
+About a <normalised orig="moneth" auto="true">month</normalised> before her great deliverance, Satan<lb/>
+having but a short time so to torment her, her<lb/>
+<normalised orig="stormes" auto="true">storms</normalised> and tempests were greatest of all. <normalised orig="Shee" auto="true">She</normalised> was<lb/>
+grievously hurried with Temptations; so terrified,<lb/>
+<normalised orig="shee" auto="true">she</normalised> could not rest at all, for many <normalised orig="dayes" auto="true">days</normalised> and<lb/>
+nights together. Whilst <normalised orig="shee" auto="true">she</normalised> was able to <normalised orig="goe" auto="true">go</normalised> abroad,<lb/>
+her Mother would have her <normalised orig="goe" auto="true">go</normalised> with her<lb/>
+to <normalised orig="heare" auto="true">hear</normalised> Sermons, on the Lords <normalised orig="dayes" auto="true">days</normalised>, and on the<lb/>
+Lecture-days there. One Lecture-day <normalised orig="shee" auto="true">she</normalised> was gone<lb/>
+forth before her Mother; who missing her, went<lb/>
+                  <pb n="6"/>
+                  <lb/>
+to the Assembly, and not finding her there, came<lb/>
+forth, and suddenly went, and sent towards<lb/>
+Thames to seek her: where <normalised orig="shee" auto="true">she</normalised> had been, to have<lb/>
+cast her <normalised orig="selfe" auto="true">self</normalised> in, but was <normalised orig="stayd" auto="true">stayed</normalised> from it by the<lb/>
+power and <normalised orig="goodnesse" auto="true">goodness</normalised> of God: and being found,<lb/>
+<normalised orig="shee" auto="true">she</normalised> had a command on her spirit to <normalised orig="goe" auto="true">go</normalised> to <normalised orig="heare" auto="true">hear</normalised><lb/>
+that Sermon, and her Mother coming to her, <normalised orig="shee" auto="true">she</normalised><lb/>
+readily <normalised orig="yeelded" auto="true">yielded</normalised> to <normalised orig="goe" auto="true">go</normalised> with her Mother to the<lb/>
+Lecture there. Where was proved, what favour<lb/>
+God will <normalised orig="shew" auto="true">show</normalised> towards the stock of the <normalised orig="Jewes" auto="false">Jews</normalised>,<lb/>
+that he will <quote type="biblical" ana="Rom 11.24"><normalised orig="graff" auto="false">gruff</normalised></quote> multitudes of them <quote type="biblical" ana="Rom 11.24">into their own<lb/>
+Olive</quote>, pardoning their <normalised orig="sinnes" auto="true">sins</normalised> against Christ, restoring<lb/>
+them to great dignity, &amp;c. He that preached<lb/>
+went in to M<hi rend="high"><notvariant>ris</notvariant></hi> Wights house there after the<lb/>
+Sermon, and <normalised orig="spake" auto="false">spoke</normalised> with her daughter, asking her,<lb/>
+if the Lord <normalised orig="spake" auto="false">spoke</normalised> any peace to her thereby. <normalised orig="Shee" auto="true">She</normalised><lb/>
+answered, <normalised orig="shee" auto="true">she</normalised> would not for all the world, but <normalised orig="shee" auto="true">she</normalised> had<lb/>
+heard that Sermon. Being asked, why so? <normalised orig="Shee" auto="true">She</normalised> said,<lb/>
+That God will <normalised orig="shew" auto="true">show</normalised> mercy to the <normalised orig="Jewes" auto="false">Jews</normalised>; and they are<lb/>
+the basest people on earth; that so hate the Name of<lb/>
+Christians, and much more Christ <normalised orig="himselfe" auto="true">himself</normalised>: and<lb/>
+yet that God will call them; This supported her a<lb/>
+little at that present; but it stayed not with her,<lb/>
+and <normalised orig="shee" auto="true">she</normalised> was <normalised orig="againe" auto="true">again</normalised> under <choice ana="illegible">
+                     <sic>ho*id</sic>
+                     <corr>horrid</corr>
+                  </choice> Temptations,<lb/>
+to <normalised orig="beleeve" auto="true">believe</normalised> there was no God, and no <normalised orig="Devill" auto="true">Devil</normalised>: no Heaven,<lb/>
+and no Hell, but what <normalised orig="shee" auto="true">she</normalised> felt within her.<lb/>
+One day being strongly carried on in that temptation,<lb/>
+that there was no other Hell, but here in the<lb/>
+Conscience, As that famous M<hi rend="high"><notvariant>ris</notvariant></hi> <notvariant>Honywood</notvariant> had said<lb/>
+and done with a Venice <normalised orig="Glasse" auto="true">Glass</normalised>, (who said <normalised orig="shee" auto="true">she</normalised> was<lb/>
+                  <pb n="7"/>
+                  <lb/>
+as sure to be <normalised orig="damn'd" auto="true">damned</normalised>, as that was to break; and therewith<lb/>
+threw it from her to break it; and yet it<lb/>
+<notvariant>brak</notvariant> not;) so did <normalised orig="shee" auto="true">she</normalised> with a little white drinking<lb/>
+cup, and earthen cup; <normalised orig="shee" auto="true">she</normalised> said, As sure as this<lb/>
+cup shall <normalised orig="breake" auto="true">break</normalised>, there is no other Hell: and therewith<lb/>
+<normalised orig="shee" auto="true">she</normalised> threw the cup with violence, against the far<lb/>
+side of the chamber; and though it light against<lb/>
+the wood, it <notvariant>brak</notvariant> not. Her mother took it up, and<lb/>
+said, <normalised orig="Loe" auto="true">Lo</normalised> here child, it is not broke. <normalised orig="Shee" auto="true">She</normalised> got it <normalised orig="againe" auto="true">again</normalised>,<lb/>
+and suddenly said and did it so <normalised orig="againe" auto="true">again</normalised>, and again,<lb/>
+and once against the edge of the door: thus <normalised orig="shee" auto="true">she</normalised><lb/>
+struggled, and did <normalised orig="foure" auto="true">four</normalised> or five times, and yet it<lb/>
+brake not; but at the <normalised orig="fift" auto="true">fifth</normalised> time a little nip brake<lb/>
+out. And now since the Lord <normalised orig="hath" auto="false">has</normalised> created peace<lb/>
+to her, <normalised orig="shee" auto="true">she</normalised> <normalised orig="hath" auto="false">has</normalised> desired to <normalised orig="drinke" auto="true">drink</normalised> still out of that<lb/>
+her white cup: till their Water-bearer unawares<lb/>
+cast it <normalised orig="downe" auto="true">down</normalised>, and then it brake all to pieces.<lb/>
+In her despairing fits, <normalised orig="shee" auto="true">she</normalised> <normalised orig="severall" auto="true">several</normalised> times would<lb/>
+<normalised orig="turne" auto="true">turn</normalised> to the places in Job, and in Jeremy, where<lb/>
+they cursed the day of their birth; and <normalised orig="shee" auto="true">she</normalised> said to<lb/>
+this effect; Job cursed the day wherein he was borne,<lb/>
+and said, <quote type="biblical" ana="Job 10.18">Wherefore <normalised orig="hast" auto="true">have</normalised> thou brought me forth of the<lb/>
+womb? Oh, that I had given up the ghost, and no eye<lb/>
+had seen me.</quote> <normalised orig="Shee" auto="true">She</normalised> turning to the places, Job 3.3.<lb/>
+Job 10.18. And (<notvariant>Jer</notvariant>. 20. 14. to the end) <normalised orig="Jeremie" auto="false">Jeremy</normalised><lb/>
+cursed the man that brought tidings of his birth, with<lb/>
+bitter curses, because his mothers womb was not his<lb/>
+grave, and said; <quote type="biblical" ana="Jer 20.18">Wherefore came I out of the <normalised orig="wombe" auto="true">womb</normalised>,<lb/>
+to see <normalised orig="toile" auto="true">toil</normalised> and sorrow, that my <normalised orig="dayes" auto="true">days</normalised> should be consumed<lb/>
+with shame?</quote> But <normalised orig="shee" auto="true">she</normalised> said, Have not I much more<lb/>
+                  <pb n="8"/>
+                  <lb/>
+cause to say so, then they had? for they were in a blessed<lb/>
+condition: but I am <normalised orig="curs'd" auto="true">cursed</normalised>, and must be a fire-brand<lb/>
+of Hell for ever.<lb/>
+These and many other desperate expressions,<lb/>
+<normalised orig="shee" auto="true">she</normalised> frequently used, especially in the last <normalised orig="moneth" auto="true">month</normalised><lb/>
+of her <normalised orig="sorrowes" auto="true">sorrows</normalised>. When they <normalised orig="encreased" auto="true">increased</normalised> daily, so<lb/>
+that her <normalised orig="soule" auto="true">soul</normalised> was exceedingly troubled, and <normalised orig="shee" auto="true">she</normalised><lb/>
+was, as it were all shattered to pieces. And <normalised orig="shee" auto="true">she</normalised><lb/>
+was so weary of her life, and of her <normalised orig="selfe" auto="true">self</normalised>, and of<lb/>
+every thing, <normalised orig="shee" auto="true">she</normalised> was never at such a <normalised orig="passe" auto="true">pass</normalised>, in such<lb/>
+<normalised orig="extremitie" auto="true">extremity</normalised>, in all her life before.<lb/>
+Her tender and good Mother, attending on her<lb/>
+continually day and night, to prevent her <normalised orig="mischieving" auto="false">mischiefing</normalised><lb/>
+her <normalised orig="selfe" auto="true">self</normalised>; being still upheld with great<lb/>
+hopes, that the Lord in his good time, would<lb/>
+come in to her with his consolations, yea, <normalised orig="shee" auto="true">she</normalised> was<lb/>
+verily <normalised orig="perswaded" auto="true">persuaded</normalised> so. (as was also her Brother in<lb/>
+Oxford,) And this made her sore <normalised orig="taske" auto="true">task</normalised> the more<lb/>
+<normalised orig="easie" auto="true">easy</normalised>; which <normalised orig="els" auto="true">else</normalised> had been intolerable. Yet when<lb/>
+this <normalised orig="extremitie" auto="true">extremity</normalised> had continued long, so that for<lb/>
+many <normalised orig="dayes" auto="true">days</normalised> and nights together, her mother had<lb/>
+taken no rest. At last <normalised orig="shee" auto="true">she</normalised> was even wearied out<lb/>
+with <normalised orig="continuall" auto="true">continual</normalised> <notvariant>watchings</notvariant>, and to the end her <normalised orig="selfe" auto="true">self</normalised><lb/>
+might enjoy some rest, to prevent <normalised orig="harme" auto="true">harm</normalised> to her <normalised orig="selfe" auto="true">self</normalised>,<lb/>
+<normalised orig="shee" auto="true">she</normalised> had spoke to a friend, desiring that her<lb/>
+daughter might be for a little season with her;<lb/>
+which her friend was very willing unto, and her<lb/>
+daughter was desirous to <normalised orig="goe" auto="true">go</normalised> with her, that her<lb/>
+Mother might enjoy rest. But the Lord prevented<lb/>
+both in his <normalised orig="goodnesse" auto="true">goodness</normalised>. For when her friend was<lb/>
+                  <fw type="pageNum" n="14">13</fw>
+                  <pb n="9"/>
+                  <lb/>
+come, her daughter was taken with such an exceeding<lb/>
+trembling, and such extremity of sorrow<lb/>
+and trouble and <normalised orig="weaknes" auto="true">weakness</normalised>, that <normalised orig="shee" auto="true">she</normalised> was not able<lb/>
+to <normalised orig="goe" auto="true">go</normalised> with her. A forerunner of her deliverance.<lb/>
+Then her Mother procured a maid that feared<lb/>
+God, <choice ana="illegible">
+                     <sic>*o</sic>
+                     <corr>to</corr>
+                  </choice> help to look to her, who came that same<lb/>
+day of her so trembling, being Tuesday <normalised orig="Aprill" auto="true">April</normalised> 6.<lb/>
+When the maid <notvariant>beforesaid</notvariant> came to her, <normalised orig="shee" auto="true">she</normalised> found<lb/>
+her weeping most bitterly, &amp; wringing her hands<lb/>
+grievously, saying, I am a Reprobate, a Castaway, I<lb/>
+never had a good thought in all my life. I have been under<lb/>
+<normalised orig="sinne" auto="true">sin</normalised> ever since I can remember, when I was but a<lb/>
+<normalised orig="childe" auto="true">child</normalised>, &amp;c.<lb/>
+This <normalised orig="heavinesse" auto="true">heaviness</normalised> was greatest, this night was<lb/>
+darkest of all, when the day, the <normalised orig="joyfull" auto="true">joyful</normalised> time of<lb/>
+her deliverance was <normalised orig="neer" auto="true">near</normalised> at hand. And like as at<lb/>
+the beginning of her grievous despairing, about<lb/>
+<normalised orig="foure" auto="true">four</normalised> <normalised orig="yeeres" auto="true">years</normalised> <normalised orig="agoe" auto="true">ago</normalised>, upon those two <normalised orig="sinnes" auto="true">sins</normalised> <notvariant>beforesaid</notvariant>,<lb/>
+a great trembling fell upon her at the beginning<lb/>
+of her deep <normalised orig="despaire" auto="true">despair</normalised> and trouble: so now, at<lb/>
+the ending there of, the like trembling fell upon<lb/>
+her, such as <normalised orig="shee" auto="true">she</normalised> never had at any other time.<lb/>
+And now, thus <choice ana="illegible">
+                     <sic>t*<notvariant>embling</notvariant></sic>
+                     <corr>trembling</corr>
+                  </choice> exceedingly, and weeping,<lb/>
+and wringing her hands, <normalised orig="shee" auto="true">she</normalised> said to this effect:<lb/>
+My earthly Tabernacle is broken all to pieces;<lb/>
+and what will the Lord <normalised orig="doe" auto="false">do</normalised> with <choice ana="illegible">
+                     <sic>m*</sic>
+                     <corr>me</corr>
+                  </choice>? If I should hang<lb/>
+on Gibbets, if I should be cut in pieces, if I should <normalised orig="dye" auto="false">die</normalised><lb/>
+the <normalised orig="cruellest" auto="false">cruelest</normalised> death that ever any did, I have <normalised orig="deserv'd" auto="true">deserved</normalised> it,<lb/>
+I would still <normalised orig="justifie" auto="true">justify</normalised> God, aye if he cast me to hell.<lb/>
+(Thus the Lord caused Job, to humble <normalised orig="himselfe" auto="true">himself</normalised>, and<lb/>
+                  <pb n="10"/>
+                  <lb/>
+<normalised orig="justifie" auto="true">justify</normalised> the Lord, when his restoring was at hand.)<lb/>
+Her hands and her feet were <notvariant>clunched</notvariant>, so as <normalised orig="shee" auto="true">she</normalised><lb/>
+could not stand. <normalised orig="Shee" auto="true">She</normalised> was tempted to blaspheme<lb/>
+God and <normalised orig="dye" auto="false">die</normalised>. And when <normalised orig="shee" auto="true">she</normalised> was urged to speak,<lb/>
+her tongue was smitten. <normalised orig="Afterward" auto="true">Afterwards</normalised> <normalised orig="shee" auto="true">she</normalised> being laid<lb/>
+down, <normalised orig="shee" auto="true">she</normalised> said to her Mother, <normalised orig="Ile" auto="true">Isle</normalised> <normalised orig="lye" auto="false">lie</normalised> still, and <normalised orig="heare" auto="true">hear</normalised><lb/>
+what God will say to me: He will speak Peace, Peace.<lb/>
+If God will speak a word of Peace at the last moment,<lb/>
+I should be contented. Then <normalised orig="shee" auto="true">she</normalised> desired them that<lb/>
+none might trouble her, but that <normalised orig="shee" auto="true">she</normalised> might lie in<lb/>
+peace. And <normalised orig="shee" auto="true">she</normalised> lay still, as in a sleep, or as in a<lb/>
+trance rather, from that tuesday night, <normalised orig="Aprill" auto="true">April</normalised> 6.<lb/>
+till the last day of that week (<normalised orig="cald" auto="true">called</normalised> Saturday) at<lb/>
+night; except when <normalised orig="shee" auto="true">she</normalised> <normalised orig="cald" auto="true">called</normalised> for a little water to<lb/>
+drink, and drunk two or three cups of water. No<lb/>
+other sustenance <normalised orig="shee" auto="true">she</normalised> took all that time. And this<lb/>
+was the time of love, when the exceeding riches of<lb/>
+Grace was advanced.<lb/>
+ /&gt;
+                    </p>
+            </div>
+         </div>
+         <div xml:id="HeJe1603_1647_biography_2">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+April 20. at night, there being divers neighbours<lb/>
+and loving friends come together to see her,<lb/>
+M<hi rend="high"><notvariant>ris</notvariant></hi> <notvariant>Collet</notvariant>, M<hi rend="high"><notvariant>ris</notvariant></hi> <notvariant>Caron</notvariant>, M<hi rend="high"><notvariant>ris</notvariant></hi> <notvariant>Dupper</notvariant>, the <normalised orig="Relator" auto="false">Realtor</normalised>, and<lb/>
+divers others, about twelve or <normalised orig="moe" auto="true">more</normalised>, which greatly<lb/>
+desired to <normalised orig="heare" auto="true">hear</normalised> her <normalised orig="speake" auto="true">speak</normalised>, being much taken and<lb/>
+greatly refreshed with what they had heard of her,<lb/>
+(thanksgivings having been made in her <normalised orig="behalfe" auto="true">behalf</normalised>,<lb/>
+both in that parish, and in <notvariant>Ab-Church</notvariant> their neighbour<lb/>
+Parish, and <normalised orig="els-where" auto="false">elsewhere</normalised>, where prayers had<lb/>
+been put up in her <normalised orig="behalfe" auto="true">behalf</normalised>,) <normalised orig="shee" auto="true">she</normalised> now lying still,<lb/>
+and had not spoken two <normalised orig="dayes" auto="true">days</normalised> together since April<lb/>
+6.<lb/>
+These desiring if the will of God were so, that<lb/>
+they might <normalised orig="heare" auto="true">hear</normalised> her <normalised orig="selfe" auto="true">self</normalised> speak: <normalised orig="shee" auto="true">she</normalised> lying with a<lb/>
+<normalised orig="linnen" auto="true">linen</normalised> cloth over her eyes, which were very weak;<lb/>
+the maid told her, M<hi rend="high">r</hi> <notvariant>Jessey</notvariant> was there; (he being<lb/>
+in the company, <normalised orig="neer" auto="true">near</normalised> to her,) <normalised orig="shee" auto="true">she</normalised> then began to<lb/>
+speak to him, and said; O <normalised orig="magnifie" auto="true">magnify</normalised> the Lord with<lb/>
+me, for he <normalised orig="hath" auto="false">has</normalised> delivered <normalised orig="mee" auto="true">me</normalised> from all my <normalised orig="feares" auto="true">fears</normalised>: not<lb/>
+from one, but from all my <normalised orig="feares" auto="true">fears</normalised>. This <normalised orig="shee" auto="true">she</normalised> <normalised orig="spake" auto="false">spoke</normalised>, as<lb/>
+all that follows, with a low <normalised orig="voyce" auto="true">voice</normalised>, in a humble,<lb/>
+modest, melting manner, her <normalised orig="teares" auto="true">tears</normalised> sometimes<lb/>
+stopping her speech. He and the rest, <normalised orig="listned" auto="true">listened</normalised>, and<lb/>
+were greatly affected in hearing her. It cannot affect<lb/>
+so much in hearing it at second hand, as if you<lb/>
+had heard her <normalised orig="selfe" auto="true">self</normalised>, with such <choice ana="illegible">
+                     <sic>br*<notvariant>kennes</notvariant></sic>
+                     <corr><normalised orig="brokennes" auto="false">brazenness</normalised></corr>
+                  </choice> of heart<lb/>
+uttering it. Proceeding on <choice ana="illegible">
+                     <sic>*<notvariant>hus</notvariant></sic>
+                     <corr>thus</corr>
+                  </choice>, (which presently<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="36">D2</fw>
+                  <pb n="11"/>
+                  <lb/>
+was writ down:) He <normalised orig="hath" auto="false">has</normalised> regarded the low estate,<lb/>
+the base estate of his hand-maid. I <normalised orig="rejoyce" auto="true">rejoice</normalised> in him. I<lb/>
+                  <choice ana="illegible">
+                     <sic><notvariant>mou</notvariant>*n</sic>
+                     <corr>mourn</corr>
+                  </choice> over him, whom I have pierced. It was not <notvariant>Judas</notvariant><lb/>
+or <normalised orig="Souldiers" auto="true">Soldiers</normalised> so much, as I that pierced him. I thought<lb/>
+I was the <notvariant>bad</notvariant> <normalised orig="Theef" auto="true">Thief</normalised>: but he <normalised orig="hath" auto="false">has</normalised> said to <normalised orig="mee" auto="true">me</normalised> as to the<lb/>
+good <normalised orig="Theef" auto="true">Thief</normalised>, <quote type="biblical" ana="Lk 23.43">Thou shalt be with me in Paradise.</quote>
+                  <lb/>
+The earthly Paradise, was a Type of the Heavenly Paradise.<lb/>
+That was fading and lost; but this endures for<lb/>
+ever.<lb/>
+O praise the Lord with me, for he <normalised orig="hath" auto="false">has</normalised> heard <normalised orig="mee" auto="true">me</normalised>,<lb/>
+and looked on me, the vilest of sinners, the worst, the<lb/>
+chiefest of sinners: On me, that was rebellious, disobedient,<lb/>
+<normalised orig="unthankfull" auto="true">unthankful</normalised>, unholy; a <notvariant>murmurer</notvariant>, as much as<lb/>
+ever the children of Israel in the <normalised orig="wildernesse" auto="true">wilderness</normalised>, (the <normalised orig="teares" auto="true">tears</normalised><lb/>
+oft trickling down, and <normalised orig="shee" auto="true">she</normalised> stopping, through her<lb/>
+weeping,) and their murmuring kept them out of <notvariant>Canaan</notvariant>,<lb/>
+but though I have so murmured, he <normalised orig="hath" auto="false">has</normalised> saved<lb/>
+me. I was at the very pits brink, at the very brink of<lb/>
+hell: and the Lord <normalised orig="fetch'd" auto="true">fetched</normalised> me out. And is not he worthy<lb/>
+of praise? The Lamb is worthy to open the Book.<lb/>
+For none in Heaven nor earth, neither men nor Angels,<lb/>
+could open these brazen gates, this iron door, this<lb/>
+hard heart of mine, but he. [putting her hand to her<lb/>
+own breast.] When I <normalised orig="confest" auto="true">confessed</normalised> my sin, he forgave me the<lb/>
+punishment. I could <choice ana="illegible">
+                     <sic>*ever</sic>
+                     <corr>never</corr>
+                  </choice> <normalised orig="confesse" auto="true">confess</normalised> my sin, till now, that<lb/>
+he made <normalised orig="knowne" auto="true">known</normalised> his mercy to me, though I sought it diligently<lb/>
+to <normalised orig="confesse" auto="true">confess</normalised> it. Being asked when was this that<lb/>
+<normalised orig="shee" auto="true">she</normalised> <normalised orig="confest" auto="true">confessed</normalised> her sin? <normalised orig="Shee" auto="true">She</normalised> said, Now since I saw his<lb/>
+mercy. And now he <normalised orig="hath" auto="false">has</normalised> made known to me his mercy.<lb/>
+Nothing but the sense of his mercy, could ever bring me<lb/>
+                  <pb n="12"/>
+                  <lb/>
+to <normalised orig="confesse" auto="true">confess</normalised> my sin with <notvariant>meltings</notvariant>. I would <normalised orig="faine" auto="true">fine</normalised> have<lb/>
+got comfort by mine own workings, my own doings,<lb/>
+or from a Creature, and I <normalised orig="spake" auto="false">spoke</normalised> to men: but I never<lb/>
+could get comfort by the creature, but the Lord <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+did it. I could not love him, till he made known his<lb/>
+love to me: to me, the chiefest of sinners. If all the sins<lb/>
+in all the world, were in one party, I thought it was all<lb/>
+nothing to mine. I could not <normalised orig="finde" auto="true">find</normalised> any in all the Scriptures<lb/>
+that <normalised orig="obtain'd" auto="true">obtained</normalised> mercy, that was in my case. Yet he<lb/>
+<normalised orig="hath" auto="false">has</normalised> <normalised orig="shew'd" auto="true">showed</normalised> mercy to me, the chiefest of sinners. O, that<lb/>
+he should come from the <normalised orig="bosome" auto="true">bosom</normalised> of the Father, to <normalised orig="dye" auto="false">die</normalised> for<lb/>
+sinners! for me, the chiefest of sinners. If all the men<lb/>
+in the world should have told me, that Christ <normalised orig="dyed" auto="false">died</normalised> for<lb/>
+me; that my sins were <normalised orig="pardon'd" auto="true">pardoned</normalised>, I could not have <normalised orig="beleev'd" auto="true">believed</normalised><lb/>
+them. But now, if all the men in the world, and<lb/>
+Angels and Devils, should tell me they are not forgiven,<lb/>
+I would not <normalised orig="beleeve" auto="true">believe</normalised> them.<lb/>
+What <normalised orig="paines" auto="true">pains</normalised> did I take in going to men, to have<lb/>
+them speak comfort to <normalised orig="mee" auto="true">me</normalised>, and they could not <normalised orig="doe" auto="false">do</normalised> it.<lb/>
+But Christ did it in a moment. They that know his<lb/>
+Name, will trust in him: they cannot but trust in him.<lb/>
+If the world knew him, they could not but love him.<lb/>
+He is the chiefest of ten thousands. He is more to be desired<lb/>
+in his lowest estate, then millions of worlds, if<lb/>
+millions of worlds were all in one.<lb/>
+Behold, O daughter of Jerusalem: Thy King comes<lb/>
+meek, that he might teach his people <normalised orig="meeknesse" auto="true">meekness</normalised>. He came<lb/>
+on an Asses Colt: not on a horse finely <normalised orig="trim'd" auto="true">trimmed</normalised>, to an <normalised orig="untam'd" auto="true">untamed</normalised><lb/>
+heifer, <normalised orig="unaccustom'd" auto="true">unaccustomed</normalised> to the yoke; (to me, that was<lb/>
+ungodly, <choice ana="illegible">
+                     <sic><notvariant>unp</notvariant>*<notvariant>ep</notvariant>*red</sic>
+                     <corr>unprepared</corr>
+                  </choice>) to <notvariant>Ephraim</notvariant>, that was as a<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="38">D3</fw>
+                  <pb n="13"/>
+                  <lb/>
+wild Asses colt. Surely, after I was <normalised orig="turn'd" auto="true">turned</normalised>, I repented.<lb/>
+I could not <normalised orig="turne" auto="true">turn</normalised> to him, nor love him, till he <normalised orig="shew'd" auto="true">showed</normalised><lb/>
+his love to me, and <normalised orig="turn'd" auto="true">turned</normalised> me.<lb/>
+Praise the Lord with me, that <normalised orig="hath" auto="false">has</normalised> <normalised orig="shew'd" auto="true">showed</normalised> mercy on<lb/>
+one in so desperate a case as I was in. I could set nothing<lb/>
+before me, but curse, and hell, and wrath, night and<lb/>
+day. O that others may <normalised orig="heare" auto="true">hear</normalised> what God <normalised orig="hath" auto="false">has</normalised> done for<lb/>
+such a one: I would none may <normalised orig="despaire" auto="true">despair</normalised> of Gods mercy,<lb/>
+that <normalised orig="hath" auto="false">has</normalised> done thus for me. If any did know what it<lb/>
+is to <normalised orig="murmure" auto="true">murmur</normalised> against God, and against a parent, as I<lb/>
+have done, and felt what I have felt, they would never<lb/>
+<normalised orig="doe" auto="false">do</normalised> it.<lb/>
+"The <normalised orig="Relator" auto="false">Realtor</normalised> having heard <normalised orig="shee" auto="true">she</normalised> now had not eaten<lb/>
+any thing at all for <normalised orig="twenty-foure" auto="false">twenty-four</normalised> <normalised orig="dayes" auto="true">days</normalised> or<lb/>
+more, and drunk nothing in all this time since<lb/>
+April 6. but <normalised orig="onely" auto="true">only</normalised> <normalised orig="faire" auto="true">fair</normalised> water, neither that, but<lb/>
+two or three little cups together, once in two or<lb/>
+three <normalised orig="dayes" auto="true">days</normalised>." He desired her, if <normalised orig="shee" auto="true">she</normalised> could, to eat,<lb/>
+to preserve life: for when the Lord saith, <quote type="biblical" ana="Ex 20.13">Thou<lb/>
+shalt not kill</quote>: he implies the Affirmative, Thou shalt<lb/>
+use all good <normalised orig="meanes" auto="true">means</normalised> to preserve life. And though he,<lb/>
+and all those present, being so affected, even to admiration,<lb/>
+in hearing a child so speak, yet he wished<lb/>
+her to forbear speaking too much; because it spent<lb/>
+her, <normalised orig="shee" auto="true">she</normalised> being so very weak. <normalised orig="Shee" auto="true">She</normalised> said; In rest and<lb/>
+returning shall I be saved, in <normalised orig="quietnesse" auto="true">quietness</normalised> and confidence<lb/>
+shall be my strength. I have <choice ana="illegible">
+                     <sic>M*<notvariant>nna</notvariant></sic>
+                     <corr>Manna</corr>
+                  </choice> to eat of, he feeds<lb/>
+me with hidden Manna. It was pleasant to the eye:<lb/>
+but they felt no <normalised orig="sweetnesse" auto="true">sweetness</normalised>, by looking on it, but by tasting<lb/>
+of it. When <normalised orig="shee" auto="true">she</normalised> ceased her speaking, having<lb/>
+                  <pb n="14"/>
+                  <lb/>
+desired he would praise the Lord with her, he performed<lb/>
+accordingly, those <notvariant>beforesaid</notvariant> being present.<lb/>
+Another time, when one gave her a <normalised orig="Poesie" auto="true">Poesy</normalised>, <normalised orig="shee" auto="true">she</normalised><lb/>
+looking on it, and smelling its <normalised orig="sweetnes" auto="true">sweetness</normalised>, commended<lb/>
+the workmanship of God in the <normalised orig="severall" auto="true">several</normalised> flowers:<lb/>
+saying to this effect; The flowers are all fragrant,<lb/>
+and some more fragrant then others, they have different<lb/>
+colours, and different <normalised orig="smels" auto="true">smells</normalised>: and all come out of the<lb/>
+earth. So are the Saints, they all are in Christ, and in<lb/>
+him they all are sweet and savoury: but are of different<lb/>
+strength, and judgement. The strong should bear with<lb/>
+the weak, and not despise them.<lb/>
+April 25. being the Lords day, when many Christians<lb/>
+were come to see her, amongst others, M<hi rend="high">r</hi> and<lb/>
+M<hi rend="high"><notvariant>ris</notvariant></hi> <notvariant>Liggon</notvariant>, M<hi rend="high">r</hi> A. M<hi rend="high"><notvariant>ris</notvariant></hi> Jones, M<hi rend="high"><notvariant>ris</notvariant></hi> Aires, M<hi rend="high"><notvariant>ris</notvariant></hi> <notvariant>Gr</notvariant>. Philips,<lb/>
+and others.<lb/>
+In like humble manner, her face being covered,<lb/>
+and lying still, (as <normalised orig="shee" auto="true">she</normalised> had kept her bed, being very<lb/>
+weak, since April 6.) with a low voice, as speaking<lb/>
+to her <normalised orig="selfe" auto="true">self</normalised>, <normalised orig="shee" auto="true">she</normalised> said: How sweet is it to my<lb/>
+thoughts, that an infinite God, should be a Rock and a<lb/>
+Refuge to a finite Creature! a sure Rock and hiding<lb/>
+place, from all <normalised orig="stormes" auto="true">storms</normalised> and tempests whatsoever.<lb/>
+When the man was wounded by <normalised orig="theeves" auto="true">thieves</normalised>, and lay by<lb/>
+the way; the Priest and the <notvariant>Levite</notvariant> passed by: they passed<lb/>
+by and helped not: The creature comfort <normalised orig="failes" auto="true">fails</normalised>: and<lb/>
+then the good Samaritan helps. Christ saves, when<lb/>
+none <normalised orig="els" auto="true">else</normalised> will or can: and when there's nothing in the<lb/>
+Creature to move him. The wounded man did not first<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="40">D4</fw>
+                  <pb n="15"/>
+                  <lb/>
+desire the Samaritans help. The deeper the wound is,<lb/>
+the more honour to him that cures him. He set him on<lb/>
+his own Beast, leaves him not to <normalised orig="himselfe" auto="true">himself</normalised>, to <normalised orig="goe" auto="true">go</normalised> where<lb/>
+he will: but brought him in, and gave two pence for<lb/>
+him. I <normalised orig="beleeve" auto="true">believe</normalised> that holds out Faith and Love. None<lb/>
+cared for him, refuge <normalised orig="fail'd" auto="true">failed</normalised>, then Christ helps, and takes<lb/>
+care for him.<lb/>
+One speaking to her of her former condition,<lb/>
+how far <normalised orig="shee" auto="true">she</normalised> was then from hope ever to <normalised orig="obtaine" auto="true">obtain</normalised><lb/>
+mercy, <normalised orig="shee" auto="true">she</normalised> said; If all the world should be saved, then<lb/>
+it may be, I should be one; but <normalised orig="els" auto="true">else</normalised> no hopes for me. That<lb/>
+Peter, Mary <notvariant>Magdalen</notvariant>, David, <notvariant>Manasses</notvariant> were saved;<lb/>
+it was nothing to me: no, if <notvariant>Judas</notvariant> should be saved,<lb/>
+yet should not I. All their sin, and <normalised orig="Pauls" auto="true">Paul's</normalised> in Persecuting,<lb/>
+and the <normalised orig="Theef" auto="true">Thief</normalised> on the <normalised orig="Crosse" auto="true">Cross</normalised>, and <notvariant>Judas</notvariant>, and<lb/>
+all I could read of, or <normalised orig="heare" auto="true">hear</normalised> of, if all their sins were all<lb/>
+put together in one; yet all were not so <notvariant>bad</notvariant> as I. Yet I<lb/>
+obtained mercy, that thought my time of mercy was<lb/>
+past, and that I was <normalised orig="damn'd" auto="true">damned</normalised> already through <normalised orig="unbeliefe" auto="false">unbelief</normalised>.<lb/>
+I said many a time, There's no hope in <choice ana="illegible">
+                     <sic>*<notvariant>hy</notvariant></sic>
+                     <corr>thy</corr>
+                  </choice> end:<lb/>
+and I thought I saw it. I may say, it was good for me<lb/>
+to be afflicted, I prize his mercies the more. All terrors<lb/>
+could not humble me; but the sight of his mercy did.<lb/>
+I could never be kindly humbled till then. It was not<lb/>
+mine own fitting, or mine own humbling, but Christs<lb/>
+fitting, and Christs humbling; when he <normalised orig="lookes" auto="true">looks</normalised> upon<lb/>
+such a one; that humbles. He comes with his power on<lb/>
+the <normalised orig="soule" auto="true">soul</normalised>, and <normalised orig="causeth" auto="true">causes</normalised> the <normalised orig="soule" auto="true">soul</normalised> to <normalised orig="beleeve" auto="true">believe</normalised>.<lb/>
+My tongue was not able to tell the misery I was in<lb/>
+before <choice ana="illegible">
+                     <sic><notvariant>conti</notvariant>*ally</sic>
+                     <corr>continually</corr>
+                  </choice>: and now my tongue is not able to <choice ana="illegible">
+                     <sic>t*<notvariant>ll</notvariant></sic>
+                     <corr>tell</corr>
+                  </choice>
+                  <lb/>
+                  <pb n="16"/>
+                  <lb/>
+what love and mercy <normalised orig="hath" auto="false">has</normalised> been <normalised orig="shewed" auto="true">showed</normalised> to me, I can never<lb/>
+enough <normalised orig="expresse" auto="true">express</normalised> his Name. I would <normalised orig="faine" auto="true">fine</normalised> have been<lb/>
+dissolved, to be with him. It was a hard thing for me<lb/>
+to be content to live here still: but its <normalised orig="easie" auto="true">easy</normalised> for him to<lb/>
+teach, to be willing to live or <normalised orig="dye" auto="false">die</normalised>: and he <normalised orig="hath" auto="false">has</normalised> taught<lb/>
+<normalised orig="mee" auto="true">me</normalised>.<lb/>
+I was so desperate, I cared not what became of <normalised orig="mee" auto="true">me</normalised>:<lb/>
+oft was I at very brink of death and hell: even at the<lb/>
+very gates, and they were open for me; and then Christ<lb/>
+shut them, and <normalised orig="fetch'd" auto="true">fetched</normalised> me out: at Daniel that was in<lb/>
+the Lyons den, but it was his mercy that <normalised orig="stop'd" auto="true">stopped</normalised> the<lb/>
+mouth of the roaring <normalised orig="Lyon" auto="false">Lion</normalised>, and delivered me.<lb/>
+The <normalised orig="hundreth" auto="true">hundredth</normalised> and seventh <normalised orig="Psalme" auto="false">Psalm</normalised>; <quote type="psalm" ana="Ps 107.8">O that men<lb/>
+would therefore praise the Lord for his goodness,<lb/>
+and declare the wonders that he <normalised orig="doth" auto="false">does</normalised> for the children<lb/>
+of men.</quote> I would that Psalm were often read<lb/>
+over. The <normalised orig="goodnesse" auto="true">goodness</normalised> of God is <notvariant>unsearchable</notvariant>. How great<lb/>
+is the excellency of his Majesty; that yet he would look<lb/>
+upon such a one as I! I was full of Terror the week before<lb/>
+I kept my bed: I rested not day nor night. I thought<lb/>
+no death was <notvariant>bad</notvariant> enough for me. If all kinds of deaths<lb/>
+were put together in one, it was too good for me. I walked<lb/>
+continually as in fire and brimstone, for rebelling<lb/>
+and murmuring against God, and against a Parent.<lb/>
+                  <quote type="biblical" ana="Job 34.29">When he hides his face, who is able to bear it?<lb/>
+and when he gives <normalised orig="quietnes" auto="true">quietness</normalised>, who then can trouble?</quote>
+                  <lb/>
+[Job 34.29.] I can <normalised orig="testifie" auto="true">testify</normalised> the truth of both<lb/>
+these. He <normalised orig="hath" auto="false">has</normalised> spoke the word to me, <quote type="biblical" ana="Lk 5.20;Mt 9.2;Isa 43.25">Thy sins are forgiven<lb/>
+thee; I even I am he that <normalised orig="blotteth" auto="false">blotted</normalised> out thy<lb/>
+transgressions for mine <normalised orig="owne" auto="true">own</normalised> sake. </quote> Jesus Christ is<lb/>
+                  <pb n="17"/>
+                  <lb/>
+<notvariant>unchangeable</notvariant>, therefore I was not consumed. Wee may<lb/>
+say with admiration, <quote type="psalm" ana="Ps 8.4-5">What is man, that thou art so<lb/>
+<normalised orig="mindfull" auto="true">mindful</normalised> of him? or the son of man, that thou so<lb/>
+<normalised orig="regardest" auto="false">regard</normalised> him! thou <normalised orig="madest" auto="true">made</normalised> him lower then Angels.</quote>
+                  <lb/>
+Jesus Christ took our nature,<lb/>
+to take part of our sufferings; and that<lb/>
+we should follow him in sufferings, and<lb/>
+not think strange. Wee have not a High<lb/>
+Priest, that cannot be touched with a feeling of our infirmities,<lb/>
+but he was made like to us, that he might<lb/>
+sympathize with us, [Heb. 2. 17, 18. &amp; Heb. 4. 15.]<lb/>
+<normalised orig="Blesse" auto="true">Bless</normalised> the Lord, O my <normalised orig="soule" auto="true">soul</normalised>! Which <normalised orig="forgiveth" auto="false">forgives</normalised> all thine<lb/>
+<normalised orig="iniquitie" auto="true">iniquity</normalised>; and <normalised orig="healeth" auto="true">heals</normalised> all thine infirmity. In my misery<lb/>
+my flesh and my bones pined, and consumed away,<lb/>
+and I was <normalised orig="neer" auto="true">near</normalised> to death.[the Lords chearing the<lb/>
+heart <normalised orig="doth" auto="false">does</normalised> good like a medicine:] I now recover<lb/>
+strength. I read the Scriptures from a <normalised orig="childe" auto="true">child</normalised>: but I<lb/>
+understood not what I read till now, that I had the<lb/>
+Teaching of the Spirit.<lb/>
+He is worth the waiting for him. There is a blessing<lb/>
+pronounced to such, Blessed are all that wait for him.<lb/>
+I did not wait patiently for him. I was weary, and<lb/>
+could wait no longer. But he is not weary: He <normalised orig="faileth" auto="true">fails</normalised><lb/>
+not. He lets the Creature <normalised orig="goe" auto="true">go</normalised> his way for a time, for his<lb/>
+own good, to humble him more, and <normalised orig="shew" auto="true">show</normalised> his mercy the<lb/>
+more. He <normalised orig="hath" auto="false">has</normalised> him in a <normalised orig="chaine" auto="true">chain</normalised>, and the enemy in a<lb/>
+<normalised orig="chaine" auto="true">chain</normalised>. So he <normalised orig="hath" auto="false">has</normalised> the <normalised orig="soule" auto="true">soul</normalised>, to dispose of it. (My times<lb/>
+are in thy hands:) that he might <normalised orig="magnifie" auto="true">magnify</normalised> mercy indeed,<lb/>
+and free love indeed. No <normalised orig="soule" auto="true">soul</normalised> ever was as I have<lb/>
+been: I am sure of it. If all the sins of all sinners that<lb/>
+                  <pb n="18"/>
+                  <lb/>
+I read of, or heard talk of, were in one, it were all short<lb/>
+of me. And yet <normalised orig="tis" auto="true">it is</normalised> his <normalised orig="goodnesse" auto="true">goodness</normalised> that such a one as I,<lb/>
+should <normalised orig="obtaine" auto="true">obtain</normalised> mercy. I wish all may take heed of<lb/>
+censuring the <normalised orig="vildest" auto="false">wildest</normalised> creatures that<lb/>
+are, seeing the Lord <normalised orig="hath" auto="false">has</normalised> done thus<lb/>
+for me the <normalised orig="vildest" auto="false">wildest</normalised> Creature: but <normalised orig="pitty" auto="true">pity</normalised><lb/>
+them with <normalised orig="teares" auto="true">tears</normalised> of <normalised orig="bloud" auto="true">blood</normalised>.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

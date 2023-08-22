@@ -1,0 +1,234 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface <normalised orig="Brefe" auto="true">Brief</normalised> Dialogue</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="WiRo1527t"><normalised orig="Roye" auto="true">Roy</normalised>, William</author>
+               <title type="main">To the Right noble Estates/ and to all <normalised orig="wother" auto="false">other</normalised> of the <normalised orig="toune" auto="true">town</normalised> of <notvariant>Cales</notvariant>/ <normalised orig="Wiliam" auto="false">William</normalised> <normalised orig="Roye" auto="true">Roy</normalised> <normalised orig="desyreth" auto="true">desires</normalised> grace and peace […]" In: <normalised orig="Roye" auto="true">Roy</normalised>, William. A <normalised orig="Brefe" auto="true">Brief</normalised> Dialogue <normalised orig="bitwene" auto="false">between</normalised> a Christen Father and his <normalised orig="stobborne" auto="false">stubborn</normalised> <normalised orig="Sonne" auto="true">Son</normalised>.</title>
+               <title type="short">Preface <normalised orig="Brefe" auto="true">Brief</normalised> Dialogue</title>
+               <date when="1527">1527</date>
+               <date type="this_edition" when="1527">1527</date>
+               <idno type="STC">12795</idno>
+               <note type="genre" subtype="preface_treatise_doctrinal">doctrinal treatise preface</note>
+               <note type="sample" target="#WiRo1527t_1527_preface_treatise_doctrinal_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="WiRo1527t_1527_preface_treatise_doctrinal_1">
+            <div>
+               <head>To the Right noble Estates/ and to all <lb/>
+                  <lb/>
+                  <fw type="pageNum">A1v</fw>
+                  <pb n="1"/>
+                  <lb/>
+<normalised orig="wother" auto="false">other</normalised> of the <normalised orig="toune" auto="true">town</normalised> <lb/>
+of <notvariant>Cales</notvariant>/ <normalised orig="Wiliam" auto="false">William</normalised> <lb/>
+<normalised orig="Roye" auto="true">Roy</normalised> <normalised orig="desyreth" auto="true">desires</normalised> grace and peace/ <lb/>
+from God the <lb/>
+father/ <lb/>
+and <lb/>
+from the <normalised orig="lorde" auto="true">lord</normalised> <normalised orig="Iesus" auto="true">Jesus</normalised> <lb/>
+Christ.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+It is not <normalised orig="vnknowne" auto="true">unknown</normalised> to you all my <normalised orig="lordes" auto="true">lords</normalised>/ and masters/ and all <lb/>
+<normalised orig="wother" auto="false">other</normalised> my <normalised orig="singuler" auto="true">singular</normalised> <normalised orig="gode" auto="true">god</normalised> <normalised orig="frendes" auto="true">friends</normalised> and <normalised orig="bretheren" auto="true">brethren</normalised> in Christ/ <lb/>
+<normalised orig="howe" auto="true">how</normalised> that this last <normalised orig="yere" auto="true">year</normalised>/ the <normalised orig="newe" auto="true">new</normalised> testament of <normalised orig="oure" auto="true">our</normalised> <normalised orig="saveour" auto="false">saviour</normalised>/ <lb/>
+was <normalised orig="delyvered" auto="true">delivered</normalised> <normalised orig="vnto" auto="true">unto</normalised> you/ through the <normalised orig="faythfull" auto="true">faithful</normalised> and diligent <lb/>
+<normalised orig="stodye" auto="true">study</normalised>/ of one of <normalised orig="oure" auto="true">our</normalised> <normalised orig="nacion" auto="true">nation</normalised>/ a man no <normalised orig="doute" auto="true">dout</normalised>/ <normalised orig="ther" auto="true">there</normalised> <normalised orig="vnto" auto="true">unto</normalised> <lb/>
+<normalised orig="electe" auto="true">elect</normalised> and chosen of God/ named William Hitchyns/ <normalised orig="vnto" auto="true">unto</normalised> <lb/>
+<normalised orig="whome" auto="true">whom</normalised> I was (after the grace <normalised orig="geven" auto="true">given</normalised> me of the <normalised orig="lorde" auto="true">lord</normalised>) as <normalised orig="healpe" auto="true">help</normalised> <lb/>
+<normalised orig="felowe" auto="true">fellow</normalised>/ and <normalised orig="parte" auto="true">part</normalised> taker of his <normalised orig="laboures" auto="true">labours</normalised>/ that every christen <lb/>
+man/ <normalised orig="myght" auto="true">might</normalised> <normalised orig="therby" auto="true">thereby</normalised> <normalised orig="heare" auto="true">hear</normalised> and <normalised orig="vnderstonde" auto="true">understand</normalised>/ at home/ and in <lb/>
+his <normalised orig="owne" auto="true">own</normalised> <normalised orig="housse" auto="false">house</normalised>/ the <normalised orig="sprete" auto="true">spirit</normalised> of God <normalised orig="speakynge" auto="true">speaking</normalised> <normalised orig="therin" auto="true">therein</normalised>/ and <lb/>
+<normalised orig="thorowe" auto="true">thorough</normalised> his holy <normalised orig="apostels" auto="true">apostle's</normalised>. <normalised orig="Whiche" auto="true">Which</normalised> <normalised orig="oure" auto="true">our</normalised> labour and <normalised orig="stodye" auto="true">study</normalised> <lb/>
+<normalised orig="specialy" auto="false">special</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="theym" auto="true">them</normalised> that presume and <normalised orig="thyncke" auto="true">think</normalised> <normalised orig="theym" auto="true">them</normalised> selves <lb/>
+<normalised orig="alonly" auto="false">alonely</normalised> to be <normalised orig="apostolicall" auto="true">apostolical</normalised> men/ and <normalised orig="spretuall" auto="false">spiritual</normalised> <normalised orig="doctours" auto="true">doctors</normalised>/ was <lb/>
+most <normalised orig="odeous" auto="false">odious</normalised>. <lb/>
+                  <lb/>
+                  <fw type="pageNum">A2r</fw>
+                  <pb n="2"/>
+                  <lb/>
+<normalised orig="Insomoche" auto="false">Insomuch</normalised> that <normalised orig="withoute" auto="true">without</normalised> <normalised orig="delaye" auto="true">delay</normalised>/ in <normalised orig="greate" auto="true">great</normalised> <lb/>
+<normalised orig="hatered" auto="true">hatred</normalised> and <normalised orig="vennemous" auto="false">venomous</normalised> <normalised orig="barkynge" auto="false">barking</normalised>/ openly at <normalised orig="paulis" auto="true">paulus</normalised> <normalised orig="crosse" auto="true">cross</normalised>/ did <lb/>
+that was in <normalised orig="theym" auto="true">them</normalised>/ to <normalised orig="disannull" auto="false">disanull</normalised>/ <normalised orig="forbidde" auto="true">forbid</normalised>/ and blaspheme/ the <lb/>
+<normalised orig="moste" auto="true">most</normalised> <normalised orig="holyest" auto="true">holiest</normalised> <normalised orig="worde" auto="true">word</normalised> of God/ <normalised orig="fode" auto="true">food</normalised> of many a <normalised orig="povre" auto="false">pour</normalised> <normalised orig="soule" auto="true">soul</normalised>/ <lb/>
+<normalised orig="longe" auto="true">long</normalised> <normalised orig="fammysshed" auto="false">famished</normalised> with the sower <normalised orig="dowe" auto="true">dow</normalised>/ of their importable <lb/>
+and <normalised orig="dissaytfull" auto="false">deceitful</normalised> traditions. <normalised orig="Ye" auto="true">You</normalised> and where as they <normalised orig="hade" auto="true">had</normalised> no <lb/>
+<normalised orig="thynge" auto="true">thing</normalised> <normalised orig="wheron" auto="true">whereon</normalised> to <normalised orig="grounde" auto="true">ground</normalised> <normalised orig="theym" auto="true">them</normalised> selves <normalised orig="agaynst" auto="true">against</normalised> <normalised orig="vs" auto="true">us</normalised>/ they were <lb/>
+<normalised orig="nott" auto="true">not</normalised> <normalised orig="aschamed" auto="false">ashamed</normalised> <normalised orig="faulcely" auto="false">falsely</normalised> to <normalised orig="diffame" auto="false">defame</normalised> <normalised orig="theym" auto="true">them</normalised>/ <normalised orig="whiche" auto="true">which</normalised> <normalised orig="longe" auto="true">long</normalised> be <lb/>
+fore that <normalised orig="tyme" auto="true">time</normalised> were deed and rotten/ as my father. <normalised orig="Thynkinge" auto="false">Thinking</normalised> <lb/>
+that <normalised orig="defamynge" auto="false">defaming</normalised> of <normalised orig="hym" auto="true">him</normalised>/ they <normalised orig="shulde" auto="true">should</normalised> <normalised orig="qwenche" auto="false">quench</normalised> and <normalised orig="dercken" auto="false">darken</normalised> the <lb/>
+<normalised orig="cleare" auto="true">clear</normalised> and evident light of god. <normalised orig="whyche" auto="true">which</normalised> they hate <normalised orig="worsse" auto="true">worse</normalised> then <lb/>
+other <normalised orig="toade" auto="true">toad</normalised> or <normalised orig="addre" auto="false">adder</normalised>/ as a <normalised orig="thynge" auto="true">thing</normalised> <join original="a gaynst"><normalised orig="agaynst" auto="false">against</join></normalised> their bellies <normalised orig="moste" auto="true">most</normalised> <lb/>
+noyous and contrary/ <normalised orig="saynge" auto="true">saying</normalised>/ his father <normalised orig="wolde" auto="true">would</normalised> <normalised orig="eate" auto="true">eat</normalised> <normalised orig="noo" auto="true">no</normalised> <normalised orig="porke" auto="true">pork</normalised>/ <lb/>
+what <normalised orig="frute" auto="true">fruit</normalised> can <normalised orig="soche" auto="true">such</normalised> a <normalised orig="tre" auto="true">tree</normalised> <normalised orig="brynge" auto="true">bring</normalised> <normalised orig="forthe" auto="true">forth</normalised>. But <normalised orig="knowynge" auto="true">knowing</normalised> that <lb/>
+the <normalised orig="innocency" auto="true">innocence</normalised>/ <normalised orig="bothe" auto="true">both</normalised> of my father/ and also of me/ is not <lb/>
+<normalised orig="vnknowne" auto="true">unknown</normalised> (in that <normalised orig="behaulfe" auto="false">behalf</normalised>) <normalised orig="vnto" auto="true">unto</normalised> all the nobles of the <normalised orig="realme" auto="true">realm</normalised>/ <lb/>
+I <normalised orig="lytell" auto="true">little</normalised> <normalised orig="regarde" auto="true">regard</normalised> their <normalised orig="heddy" auto="false">heady</normalised> <normalised orig="vndiscrecion" auto="false">undiscretion</normalised>. Yet it is <normalised orig="vnto" auto="true">unto</normalised> my <lb/>
+<normalised orig="herte" auto="true">heart</normalised> a <normalised orig="coresaye" auto="false">coresay</normalised> <normalised orig="amonge" auto="true">among</normalised> all <normalised orig="wother" auto="false">other</normalised> <normalised orig="moste" auto="true">most</normalised> <normalised orig="grevous" auto="false">grievous</normalised>/ to <normalised orig="se" auto="true">see</normalised> the <lb/>
+<normalised orig="pryce" auto="true">price</normalised> of the precious <normalised orig="bloudde" auto="true">blood</normalised> of Christ so <normalised orig="despitfully" auto="false">despitefully</normalised> to be <lb/>
+<normalised orig="troden" auto="true">trodden</normalised> <normalised orig="vnder" auto="true">under</normalised> <normalised orig="fote" auto="true">foot</normalised>/ by <normalised orig="soche" auto="true">such</normalised> <normalised orig="vncleane" auto="true">unclean</normalised> <normalised orig="swyne" auto="true">swine</normalised>. and the <normalised orig="moste" auto="true">most</normalised> <lb/>
+<normalised orig="holsom" auto="true">wholesome</normalised> <lb/>
+                  <lb/>
+                  <fw type="pageNum">A2v</fw>
+                  <pb n="3"/>
+                  <lb/>
+doctrine <normalised orig="therof" auto="true">thereof</normalised>/ to be forbidden/ <normalised orig="thorowe" auto="true">thorough</normalised> the <lb/>
+<normalised orig="howlynge" auto="false">howling</normalised> and <normalised orig="barkynge" auto="false">barking</normalised> of <normalised orig="soche" auto="true">such</normalised> <normalised orig="cruell" auto="true">cruel</normalised>/ and infame <normalised orig="dogges" auto="true">dogs</normalised>. <lb/>
+Whose <normalised orig="cruell" auto="true">cruel</normalised> tyranny <normalised orig="foxye" auto="false">foxy</normalised> <normalised orig="cavillacion" auto="false">cavillation</normalised>/ and <normalised orig="resistence" auto="true">resistance</normalised>/ have <lb/>
+<normalised orig="moare" auto="true">more</normalised> <normalised orig="inflammed" auto="true">inflamed</normalised> my <normalised orig="hert" auto="true">heart</normalised>/ and couraged my <normalised orig="mynde" auto="true">mind</normalised>/ to <lb/>
+go <normalised orig="aboute" auto="true">about</normalised> the <normalised orig="translacion" auto="false">translation</normalised> of holy scripture. <normalised orig="Insomoche" auto="false">Insomuch</normalised> that I <lb/>
+have <normalised orig="allredy" auto="true">already</normalised> partly translated/ <normalised orig="certayne" auto="true">certain</normalised> <normalised orig="bokes" auto="true">books</normalised> of the <normalised orig="olde" auto="true">old</normalised> <lb/>
+testament/ the <normalised orig="whiche" auto="true">which</normalised>/ with the <normalised orig="healpe" auto="true">help</normalised> of God/ <normalised orig="yerr" auto="false">year</normalised> <normalised orig="longe" auto="true">long</normalised> <lb/>
+<normalised orig="shalbe" auto="true">shall be</normalised> brought to <normalised orig="lyght" auto="true">light</normalised>. <normalised orig="Notwithstondynge" auto="false">Notwithstanding</normalised> in the <normalised orig="meane" auto="true">mean</normalised> <lb/>
+season I <normalised orig="castynge" auto="true">casting</normalised> in my <normalised orig="mynde" auto="true">mind</normalised> the <normalised orig="meane" auto="true">mean</normalised> peoples <normalised orig="capacite" auto="true">capacity</normalised>/ <lb/>
+and the <normalised orig="greate" auto="true">great</normalised> <normalised orig="supersticion" auto="true">superstition</normalised>/ <normalised orig="whiche" auto="true">which</normalised> so <normalised orig="longe" auto="true">long</normalised> <normalised orig="hathe" auto="true">has</normalised> <normalised orig="rayned" auto="false">rained</normalised> and <lb/>
+<normalised orig="hadde" auto="true">had</normalised> <normalised orig="vpperhonde" auto="false">upperhand</normalised>/ thought it very necessary to make some <lb/>
+<normalised orig="smale" auto="true">small</normalised> <normalised orig="treatous" auto="false">treatise</normalised>/ <normalised orig="wherby" auto="true">whereby</normalised> <normalised orig="somwhat" auto="true">somewhat</normalised> they <normalised orig="myght" auto="true">might</normalised> be the better <lb/>
+prepared/ and taught <normalised orig="howe" auto="true">how</normalised> to <normalised orig="demeane" auto="true">demean</normalised> <normalised orig="theym" auto="true">them</normalised> selves/ in the <lb/>
+<normalised orig="profunde" auto="false">profound</normalised> <normalised orig="misteries" auto="true">mysteries</normalised> and <normalised orig="greate" auto="true">great</normalised> <normalised orig="iudgementes" auto="true">judgements</normalised> of God/ <normalised orig="conteyned" auto="true">contained</normalised> <lb/>
+in the <normalised orig="olde" auto="true">old</normalised> testament/ and <normalised orig="prophetes" auto="true">prophets</normalised>. And <normalised orig="whyles" auto="true">while</normalised> I thus <lb/>
+<normalised orig="ymagened" auto="false">imagined</normalised>/ I happened on a <normalised orig="smale" auto="true">small</normalised> <normalised orig="workce" auto="false">work</normalised>/ <normalised orig="whiche" auto="true">which</normalised> after my <lb/>
+<normalised orig="iudgement" auto="true">judgment</normalised>/ is a <normalised orig="treatous" auto="false">treatise</normalised> very excellent/ late turned <normalised orig="oute" auto="true">out</normalised> of <lb/>
+douche into <normalised orig="latten" auto="true">latin</normalised>. <normalised orig="Whiche" auto="true">Which</normalised> in the <normalised orig="redynge" auto="true">reading</normalised> of it/ greatly <normalised orig="delited" auto="true">delighted</normalised> <lb/>
+me/ and that <normalised orig="nott" auto="true">not</normalised> only because of the due and <normalised orig="naturall" auto="true">natural</normalised> <normalised orig="ordre" auto="true">order</normalised> of <lb/>
+it/ but rather because I <normalised orig="se" auto="true">see</normalised> there as I am (where this <normalised orig="boke" auto="true">book</normalised> is <lb/>
+<normalised orig="comenly" auto="true">commonly</normalised> in <normalised orig="vse" auto="true">use</normalised>) <lb/>
+                  <lb/>
+                  <fw type="pageNum">A3r</fw>
+                  <pb n="4"/>
+                  <lb/>
+<normalised orig="bothe" auto="true">both</normalised> <normalised orig="yonge" auto="true">young</normalised> and <normalised orig="olde" auto="true">old</normalised>/ practise in <lb/>
+<normalised orig="lyvynge" auto="false">living</normalised>/ all those <normalised orig="thinges" auto="true">things</normalised> <normalised orig="whyche" auto="true">which</normalised> the <normalised orig="boke" auto="true">book</normalised> <normalised orig="teacheth" auto="true">teaches</normalised> by <lb/>
+<normalised orig="wrytynge" auto="true">writing</normalised>. <normalised orig="Ye" auto="true">You</normalised> <normalised orig="truely" auto="true">truly</normalised> <normalised orig="soche" auto="true">such</normalised> <normalised orig="thynges" auto="true">things</normalised>/ as <normalised orig="greate" auto="true">great</normalised> <normalised orig="vniversites" auto="false">universities</normalised>/ <lb/>
+and notable <normalised orig="Rabys" auto="false">Rabies</normalised> <normalised orig="knowe" auto="true">know</normalised> <normalised orig="nott" auto="true">not</normalised>. <normalised orig="Ye" auto="true">You</normalised> never shall <normalised orig="knowe" auto="true">know</normalised>/ to the <lb/>
+intent that God never <normalised orig="knowe" auto="true">know</normalised> <normalised orig="theym" auto="true">them</normalised> also. It <normalised orig="declareth" auto="true">declares</normalised> what is <lb/>
+<normalised orig="faythe" auto="true">faith</normalised> in God/ and <normalised orig="charite" auto="true">charity</normalised> <normalised orig="towardes" auto="true">towards</normalised> <normalised orig="mannes" auto="true">man's</normalised> <normalised orig="neghboure" auto="false">neighbour</normalised>. and <lb/>
+that so evidently (all <normalised orig="papisticall" auto="true">papistical</normalised> sophistry and delusion set a <lb/>
+<normalised orig="syde" auto="true">side</normalised>) that even babes of seven <normalised orig="yeare" auto="true">year</normalised> <normalised orig="olde" auto="true">old</normalised> <normalised orig="playnly" auto="true">plainly</normalised> <normalised orig="perceave" auto="true">perceive</normalised> <lb/>
+<normalised orig="thinges" auto="true">things</normalised> that a while <normalised orig="agone" auto="true">agony</normalised> men of <normalised orig="greate" auto="true">great</normalised> age <normalised orig="coulde" auto="true">could</normalised> <normalised orig="nott" auto="true">not</normalised> <lb/>
+<normalised orig="apprehende" auto="true">apprehend</normalised> as are the power/ <normalised orig="goodnes" auto="true">goodness</normalised>/ and mercy of god/ <lb/>
+and the <normalised orig="cowrse" auto="false">course</normalised> of his <normalised orig="workes" auto="true">works</normalised>. What the <normalised orig="anchre" auto="false">anchor</normalised> of <normalised orig="fayth" auto="true">faith</normalised> is/ <lb/>
+which is <normalised orig="eternall" auto="true">eternal</normalised> <normalised orig="predestinacion" auto="true">predestination</normalised> and <normalised orig="aspercion" auto="false">aspersion</normalised> of <normalised orig="Christis" auto="true">Christ's</normalised> <lb/>
+<normalised orig="bloudde" auto="true">blood</normalised>/ <normalised orig="wherwith" auto="true">wherewith</normalised> <normalised orig="alonly" auto="false">alonely</normalised> we are <normalised orig="clensed" auto="true">cleansed</normalised> from <normalised orig="synne" auto="true">sin</normalised>. The <lb/>
+<normalised orig="vnderstondynge" auto="false">understanding</normalised> whereof/ Paul <normalised orig="calleth" auto="true">calls</normalised> the <normalised orig="wysdom" auto="true">wisdom</normalised> <normalised orig="hydde" auto="true">hid</normalised> <lb/>
+<normalised orig="vnder" auto="true">under</normalised> the <normalised orig="mistery" auto="true">mystery</normalised> of <normalised orig="christis" auto="true">christ's</normalised> <normalised orig="crosse" auto="true">cross</normalised>/ <normalised orig="vnknowne" auto="true">unknown</normalised> to the <normalised orig="wyse" auto="true">wise</normalised> of <lb/>
+the <normalised orig="worldde" auto="false">world</normalised>. For <normalised orig="oute" auto="true">out</normalised> of it <normalised orig="proceadeth" auto="true">proceeded</normalised>/ <normalised orig="myldnes" auto="false">mildness</normalised> of the <normalised orig="mynde" auto="true">mind</normalised>/ <lb/>
+gentle <normalised orig="behaveour" auto="false">behaviour</normalised>/ <normalised orig="soffraunce" auto="false">sufferance</normalised> of <normalised orig="evyls" auto="false">evils</normalised>/ <normalised orig="softnes" auto="true">softness</normalised>/ <normalised orig="temperancy" auto="false">temperance</normalised>/ <lb/>
+and all <normalised orig="chastnes" auto="true">chastens</normalised> of <normalised orig="lyfe" auto="true">life</normalised>/ <normalised orig="whiche" auto="true">which</normalised> all are the <normalised orig="frutes" auto="true">fruit</normalised> of the <normalised orig="sprete" auto="true">spirit</normalised>/ <lb/>
+<normalised orig="wheare" auto="true">where</normalised> <normalised orig="oute" auto="true">out</normalised>/ as <normalised orig="oute" auto="true">out</normalised> of an <normalised orig="originall" auto="true">original</normalised> <normalised orig="sprynge" auto="true">spring</normalised> or <normalised orig="fountaine" auto="true">fountain</normalised>/ <lb/>
+<normalised orig="floweth" auto="true">flows</normalised> <normalised orig="towardes" auto="true">towards</normalised> God/ and <normalised orig="amonge" auto="true">among</normalised> men/ peace/ and <normalised orig="charite" auto="true">charity</normalised>/ <lb/>
+which in the <normalised orig="realme" auto="true">realm</normalised> of Christ/ is a <normalised orig="iewell" auto="true">jewel</normalised> <lb/>
+                  <lb/>
+                  <fw type="pageNum">A3v</fw>
+                  <pb n="5"/>
+                  <lb/>
+most precious. <lb/>
+<normalised orig="Nowe" auto="true">Now</normalised> <normalised orig="therfore" auto="true">therefore</normalised>/ all <normalised orig="wother" auto="false">other</normalised> <normalised orig="thinges" auto="true">things</normalised> set a <normalised orig="syde" auto="true">side</normalised>/ I have <lb/>
+<normalised orig="determened" auto="false">determined</normalised> first to present <normalised orig="vnto" auto="true">unto</normalised> you and so <normalised orig="forthe" auto="true">forth</normalised> <normalised orig="vnto" auto="true">unto</normalised> all <lb/>
+<normalised orig="wother" auto="false">other</normalised> of my <normalised orig="countre" auto="true">country</normalised> and <normalised orig="nacion" auto="true">nation</normalised> this so <normalised orig="singuler" auto="true">singular</normalised> a treasure/ <lb/>
+nothing <normalised orig="doutinge" auto="true">doubting</normalised> but that it <normalised orig="shalbe" auto="true">shall be</normalised> <normalised orig="bothe" auto="true">both</normalised> <normalised orig="plesaunt" auto="true">pleasant</normalised> and <lb/>
+acceptable to the elect and chosen of god/ <normalised orig="litle" auto="true">little</normalised> <normalised orig="regardinge" auto="true">regarding</normalised> the <lb/>
+<normalised orig="vngodly" auto="true">ungodly</normalised>/ which hate <normalised orig="nothyng" auto="true">nothing</normalised> but that that is good/ and that <lb/>
+<normalised orig="thynge" auto="true">thing</normalised> <normalised orig="whyche" auto="true">which</normalised> <normalised orig="allwayes" auto="true">always</normalised> and every <normalised orig="whear" auto="true">where</normalised> is <normalised orig="proffitable" auto="false">profitable</normalised>. I also <lb/>
+require and <normalised orig="exhorte" auto="true">exhort</normalised> the <normalised orig="commen" auto="true">common</normalised> people that they <normalised orig="rede" auto="true">read</normalised> not this <lb/>
+<normalised orig="boke" auto="true">book</normalised> as they are wont to <normalised orig="rede" auto="true">read</normalised> <normalised orig="vayne" auto="true">vain</normalised> <normalised orig="storys" auto="true">stories</normalised> or fables/ <normalised orig="hastly" auto="false">hastily</normalised> <lb/>
+<normalised orig="rennyge" auto="false">running</normalised> there over. For when they shall end it/ more <normalised orig="frute" auto="true">fruit</normalised> <lb/>
+shall <normalised orig="apere" auto="true">appear</normalised>/ then the <normalised orig="begynning" auto="true">beginning</normalised> <normalised orig="semeth" auto="true">seems</normalised> to <normalised orig="pretende" auto="true">pretend</normalised>. For the <lb/>
+<normalised orig="worde" auto="true">word</normalised> of God <normalised orig="hearde" auto="true">heard</normalised>/ and well pondered/ <normalised orig="entreth" auto="true">enters</normalised> (<normalised orig="thorowe" auto="true">thorough</normalised> his <lb/>
+<normalised orig="inspyracion" auto="false">inspiration</normalised>) into the <normalised orig="herte" auto="true">heart</normalised> only. <normalised orig="Doutles" auto="true">Doubtless</normalised> <normalised orig="therfore" auto="true">therefore</normalised> it <normalised orig="shulde" auto="true">should</normalised> be <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="reders" auto="true">readers</normalised> <normalised orig="greate" auto="true">great</normalised> <normalised orig="frute" auto="true">fruit</normalised> and <normalised orig="proffyt" auto="false">profit</normalised>/ <normalised orig="yf" auto="true">if</normalised> at <normalised orig="certayne" auto="true">certain</normalised> <normalised orig="howres" auto="true">hours</normalised> <lb/>
+there <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="apoynted" auto="true">appointed</normalised>/ they diligently did <normalised orig="discusse" auto="true">discuss</normalised> <normalised orig="somwhat" auto="true">somewhat</normalised> by <lb/>
+<normalised orig="ordre" auto="true">order</normalised> <normalised orig="therof" auto="true">thereof</normalised>/ and that among their <normalised orig="owne" auto="true">own</normalised> <normalised orig="housholde" auto="true">household</normalised>/ and <lb/>
+<normalised orig="singlerly" auto="false">singularly</normalised> <normalised orig="wheare" auto="true">where</normalised> as <normalised orig="yueth" auto="false">youth</normalised> is. and let it not be tedious <normalised orig="vnto" auto="true">unto</normalised> <lb/>
+<normalised orig="theym" auto="true">them</normalised> once or <normalised orig="twise" auto="true">twice</normalised>/ with prayer/ to <normalised orig="repete" auto="true">repeat</normalised> that they have <lb/>
+<normalised orig="alredy" auto="true">already</normalised> <normalised orig="redde" auto="false">read</normalised>. For good <normalised orig="thynges" auto="true">things</normalised> ten <normalised orig="tymes" auto="true">times</normalised> <normalised orig="redde" auto="false">read</normalised> <normalised orig="agayne" auto="true">again</normalised> please <lb/>
+<normalised orig="bothe" auto="true">both</normalised> the <normalised orig="reder" auto="true">redder</normalised>/ and the hearer also. By the <normalised orig="meanes" auto="true">means</normalised> <normalised orig="wherof" auto="true">whereof</normalised> <lb/>
+                  <lb/>
+                  <fw type="pageNum">A4r</fw>
+                  <pb n="6"/>
+                  <lb/>
+the <normalised orig="lordes" auto="true">lords</normalised> and <normalised orig="ruelers" auto="false">rulers</normalised> of the <normalised orig="realme" auto="true">realm</normalised>/ shall <normalised orig="perceave" auto="true">perceive</normalised> <lb/>
+and <normalised orig="fynde" auto="true">find</normalised>/ those to be <normalised orig="bothe" auto="true">both</normalised> <normalised orig="meke" auto="true">make</normalised> and <normalised orig="mylde" auto="true">mild</normalised>/ and to the <lb/>
+<normalised orig="temporall" auto="true">temporal</normalised> power obedient/ whom before as <normalised orig="fearce" auto="true">fierce</normalised> lyons they <lb/>
+feared. God no <normalised orig="doute" auto="true">dout</normalised> <normalised orig="hathe" auto="true">has</normalised> his <normalised orig="electe" auto="true">elect</normalised> <normalised orig="amonge" auto="true">among</normalised> <normalised orig="oure" auto="true">our</normalised> people also. <lb/>
+For the <normalised orig="worde" auto="true">word</normalised> of God cannot be <normalised orig="ydle" auto="true">idle</normalised>/ whose <normalised orig="frute" auto="true">fruit</normalised> is <normalised orig="greate" auto="true">great</normalised>/ <lb/>
+and a sure <normalised orig="perswasion" auto="true">persuasion</normalised> of the <normalised orig="kyndnes" auto="true">kindness</normalised> of God <normalised orig="towardes" auto="true">towards</normalised> <normalised orig="hit" auto="true">it</normalised>/ <lb/>
+<normalised orig="havynge" auto="true">having</normalised> in it <normalised orig="silfe" auto="true">self</normalised> <normalised orig="aboundant" auto="true">abundant</normalised> <normalised orig="charite" auto="true">charity</normalised>/ wherewith above all <lb/>
+<normalised orig="wother" auto="false">other</normalised> <normalised orig="thynges" auto="true">things</normalised>/ the <normalised orig="commen" auto="true">common</normalised> well is <normalised orig="knytt" auto="false">knit</normalised> <normalised orig="togedder" auto="false">together</normalised>. For <lb/>
+<normalised orig="asmoche" auto="true">as much</normalised> <normalised orig="therfore" auto="true">therefore</normalised> as of all <normalised orig="soche" auto="true">such</normalised> <normalised orig="thynges" auto="true">things</normalised> the right <normalised orig="enformacion" auto="false">information</normalised> <lb/>
+<normalised orig="commeth" auto="true">comes</normalised> by <normalised orig="commeninge" auto="false">commanding</normalised>/ this <normalised orig="treatous" auto="false">treatise</normalised> is made in <normalised orig="maner" auto="true">manner</normalised> of a <lb/>
+<normalised orig="dyaloge" auto="true">dialogue</normalised> <normalised orig="bitwene" auto="false">between</normalised> <normalised orig="twayne" auto="false">twine</normalised>/ which <normalised orig="speake" auto="true">speak</normalised> together. That is to <lb/>
+<normalised orig="saye" auto="true">say</normalised> a <normalised orig="goodde" auto="false">good</normalised> christen man and his <normalised orig="sonne" auto="true">son</normalised>/ whom he <normalised orig="goeth" auto="true">goes</normalised> <lb/>
+<normalised orig="aboute" auto="true">about</normalised> to <normalised orig="enforme" auto="true">inform</normalised> in the knowledge of Christ. <normalised orig="Werfore" auto="true">Wherefore</normalised> he that <lb/>
+<normalised orig="entendeth" auto="true">intended</normalised> to <normalised orig="socke" auto="true">sock</normalised> here out <normalised orig="eni" auto="true">any</normalised> <normalised orig="swetnes" auto="true">sweetness</normalised>/ first must <normalised orig="conceave" auto="false">conceive</normalised> <lb/>
+in <normalised orig="hym" auto="true">him</normalised> <normalised orig="silfe" auto="true">self</normalised> the <normalised orig="flammes" auto="false">flames</normalised> of a christen <normalised orig="herte" auto="true">heart</normalised>/ <normalised orig="whiche" auto="true">which</normalised> of their <lb/>
+<normalised orig="owne" auto="true">own</normalised> nature lighten and <normalised orig="inflam" auto="false">inflame</normalised> there <normalised orig="neghbour" auto="true">neighbour</normalised>. That when by <lb/>
+<normalised orig="redynge" auto="true">reading</normalised> he is made <normalised orig="ryche" auto="true">rich</normalised>/ he shall also be <normalised orig="gladde" auto="true">glad</normalised> and able to <lb/>
+<normalised orig="healpe" auto="true">help</normalised> and sucker <normalised orig="wother" auto="false">other</normalised>. <normalised orig="Howe" auto="true">How</normalised> can a man <normalised orig="warme" auto="true">warm</normalised> a <normalised orig="nother" auto="true">another</normalised>/ <lb/>
+when he him <normalised orig="silfe" auto="true">self</normalised> is <normalised orig="frosen" auto="true">frozen</normalised> for <normalised orig="colde" auto="true">cold</normalised>? <normalised orig="Ye" auto="true">You</normalised> <normalised orig="knowe" auto="true">know</normalised> I suppose that <lb/>
+one <normalised orig="blynde" auto="true">blind</normalised> <normalised orig="shuld" auto="true">should</normalised> not <normalised orig="leade" auto="true">lead</normalised> the <normalised orig="wother" auto="false">other</normalised>/ least they <normalised orig="faule" auto="false">fall</normalised> <normalised orig="bothe" auto="true">both</normalised> <lb/>
+into the <normalised orig="pytt" auto="true">pitt</normalised>. <lb/>
+                  <lb/>
+                  <fw type="pageNum">A4v</fw>
+                  <pb n="7"/>
+                  <lb/>
+But <normalised orig="seynge" auto="true">saying</normalised> that we can do <normalised orig="nothynge" auto="true">nothing</normalised> of <normalised orig="oure" auto="true">our</normalised> <lb/>
+selves/ I <normalised orig="beseche" auto="true">beseech</normalised> you all/ der <normalised orig="bretheren" auto="true">brethren</normalised>/ to <normalised orig="praye" auto="true">pray</normalised> <normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="lorde" auto="true">lord</normalised> <lb/>
+for me/ that I <normalised orig="maye" auto="true">may</normalised> have both <normalised orig="mynde" auto="true">mind</normalised> and <normalised orig="strengthe" auto="true">strength</normalised> <normalised orig="wother" auto="false">other</normalised> <lb/>
+<normalised orig="soche" auto="true">such</normalised> <normalised orig="bokes" auto="true">books</normalised> to translate/ and the whole <normalised orig="olde" auto="true">old</normalised> testament/ <lb/>
+<normalised orig="wherby" auto="true">whereby</normalised> <normalised orig="ye" auto="true">you</normalised> of <normalised orig="englonde" auto="true">england</normalised>/ <normalised orig="maye" auto="true">may</normalised> also <normalised orig="knowe" auto="true">know</normalised> and <normalised orig="heare" auto="true">hear</normalised> the <normalised orig="voyce" auto="true">voice</normalised> <lb/>
+of <normalised orig="youre" auto="true">your</normalised> true <normalised orig="shepherde" auto="true">shepherd</normalised>/ <normalised orig="walke" auto="true">walk</normalised> in his <normalised orig="waye" auto="true">way</normalised>/ <normalised orig="folowe" auto="true">follow</normalised> the <normalised orig="trueth" auto="true">truth</normalised>/ <lb/>
+and <normalised orig="fynally" auto="true">finally</normalised> <normalised orig="obtayne" auto="true">obtain</normalised> <normalised orig="everlastynge" auto="false">everlasting</normalised> <normalised orig="lyfe" auto="true">life</normalised>. Amen. Written in the <lb/>
+cite of Argentyn/ the last <normalised orig="daye" auto="true">day</normalised> of August/ the <normalised orig="yere" auto="true">year</normalised> of <normalised orig="oure" auto="true">our</normalised> <lb/>
+<normalised orig="lorde" auto="true">lord</normalised> a <normalised orig="thousande" auto="true">thousand</normalised> <normalised orig="fyve" auto="false">five</normalised> <normalised orig="hondred" auto="true">hundred</normalised>/ and seven and twenty. <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

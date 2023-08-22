@@ -1,0 +1,317 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface <normalised orig="Scholastical" auto="true">Scholastic</normalised> history of the Canon of the Holy <normalised orig="Scriptvre" auto="true">Scripture</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JoCo1594"><normalised orig="Cosin" auto="true">Cousin</normalised>, John</author>
+               <title type="main">"No title" In: <normalised orig="Cosin" auto="true">Cousin</normalised>, John. A <normalised orig="Scholastical" auto="true">Scholastic</normalised> history of the Canon of the Holy <normalised orig="Scriptvre" auto="true">Scripture</normalised> [...]</title>
+               <title type="short">Preface <normalised orig="Scholastical" auto="true">Scholastic</normalised> history of the Canon of the Holy <normalised orig="Scriptvre" auto="true">Scripture</normalised></title>
+               <date when="1657">1657</date>
+               <date type="this_edition" when="1657">1657</date>
+               <idno type="Wing">C6361</idno>
+               <note type="genre" subtype="preface_treatise_controversial"> controversial treatise preface</note>
+               <note type="sample" target="#JoCo1594_1657_preface_treatise_controversial_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="illustrations" subtype="FehlendeEingabe">true</term>
+                     </item>
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="JoCo1594_1657_preface_treatise_controversial_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+To the READER.<lb/>
+                  <lb/>
+IN this <normalised orig="Scholastical" auto="true">Scholastic</normalised> History I give an <normalised orig="Accompt" auto="true">Account</normalised> <lb/>
+of the Canonical and undubitate Books <lb/>
+of Holy Scripture, as they are <normalised orig="numbred" auto="true">numbered</normalised> in <lb/>
+the VI Article of Religion set forth by the <lb/>
+Church of England, and have been received <lb/>
+by the <normalised orig="Catholick" auto="true">Catholic</normalised> Church in all <normalised orig="severall" auto="true">several</normalised> <lb/>
+Ages since the time of the Apostles, till the <lb/>
+Church of Rome thought fit to compose and <normalised orig="dresse" auto="true">dress</normalised> up a New-Additional <lb/>
+Canon thereof for themselves in their late <normalised orig="Councel" auto="true">Council</normalised> <lb/>
+of Trent. <lb/>
+Where it was one of the first things they did, to lay this Foundation <lb/>
+for all their New Religion which they built upon it; <lb/>
+"That the Apocryphal Writings and Traditions of Men, <lb/>
+were nothing <normalised orig="inferiour" auto="true">inferior</normalised>, nor <normalised orig="lesse" auto="true">less</normalised> Canonical, then the <normalised orig="Soveraign" auto="true">Sovereign</normalised> <lb/>
+Dictates of God as well for the Confirmation of Doctrinal <lb/>
+Points pertaining to Faith, as for the Ordering of Life <lb/>
+and Manners; but that both the One and the Other ought to <lb/>
+be embraced with the same Affection of Piety, and received <lb/>
+with the like religious Reverence; not making any difference <lb/>
+between them." <lb/>
+Those Writings of holy and learned men, who have been, next <lb/>
+after the Prophets and Apostles, as the shining Lights of the <lb/>
+World in their several Generations before us, we reverence and honour <lb/>
+in their kind; and those Ecclesiastical Traditions, which <lb/>
+have been in use among us, and tend to the better preservation of <lb/>
+Order and Piety in that Religion only, which was once delivered <lb/>
+                  <pb n="1"/>
+                  <lb/>
+to the Saints, we acknowledge and receive, as far as their <lb/>
+own variable Nature and Condition <normalised orig="requireth" auto="true">requires</normalised>, with all due regard; <lb/>
+but to make either of These Equal in Dignity or Authority <lb/>
+with the Divine will and Word of God, as the Masters of <lb/>
+the Assembly at Trent have done; and above all this, to <normalised orig="Canonize" auto="true">Canonise</normalised> <lb/>
+a Tradition, which was not so much as a Tradition received <lb/>
+in their own Church before, (as will appear by this present <lb/>
+History,) <normalised orig="neverthelesse" auto="true">nevertheless</normalised> commanding it to be received as a necessary <lb/>
+Article of Faith, under pain of their unhallowed Curse, and <lb/>
+the Peril of Eternal damnation, this is so high and transcendent <lb/>
+a presumption, as that God himself <normalised orig="hath" auto="true">has</normalised> laid his Curse upon <lb/>
+it; whereof it <normalised orig="concernes" auto="true">concerns</normalised> them to take heed, least what they <lb/>
+have vainly laid upon others, do not effectually reach to themselves, <lb/>
+and fall upon their own heads. <lb/>
+But after this manner they began to set up their first doctrinal <lb/>
+Tradition, in their last <normalised orig="Councel" auto="true">Council</normalised>, at Trent; which they call an <lb/>
+<normalised orig="Oecumencial" auto="false">Ecumenical</normalised> <normalised orig="Councel" auto="true">Council</normalised>, as if all the Bishops in Christendom <lb/>
+had been there present, and voted in it; when it is well known, <lb/>
+that at the same time, wherein this their Additional Canon <lb/>
+of Scripture was first made, (which was then done chiefly by the <lb/>
+procurement of Catharin, and his Faction there, whose credit <lb/>
+had otherwise been quite lost, having been much impaired already, <lb/>
+by his former and fierce Opposition herein against the <lb/>
+Writings of Cardinal Cajetan, the far more learned and <normalised orig="Catholick" auto="true">Catholic</normalised> <lb/>
+Doctor of the Two,) it consisted not of above Fifty Persons <lb/>
+in all; among whom some of them were <normalised orig="onely" auto="true">only</normalised> Prelates <lb/>
+Titular, and hired with Pensions to serve the present turn. <lb/>
+And the rest of their Traditions that follow, (wherein now <normalised orig="consisteth" auto="true">consists</normalised> <lb/>
+the very Life and Being of their peculiar and proper Religion, <lb/>
+that <normalised orig="differeth" auto="true">differs</normalised> from Ours, and the true <normalised orig="Catholick" auto="true">Catholic</normalised> Religion <lb/>
+of every Church, and every Age before them) having been confirmed <lb/>
+by Pope Pius his Bull, and made so many New Articles <lb/>
+of their Faith, (as the former was) are all alike. <lb/>
+                  <pb n="2"/>
+                  <lb/>
+As first. I. "That the Church of Rome is the MOTHER <lb/>
+and <normalised orig="Mistresse" auto="true">Mistress</normalised> of all other Churches"; which is not only said <lb/>
+against the Truth of all Ecclesiastical History, and the <normalised orig="publick" auto="true">public</normalised> <lb/>
+Declaration of an ancient General <normalised orig="Councel" auto="true">Council</normalised> (the Second among <lb/>
+the first four) received and approved by all good Christians, <lb/>
+but likewise against the <normalised orig="expresse" auto="true">express</normalised> words of the Gospel it self, and <lb/>
+against the common sense and knowledge of all persons that can but <lb/>
+read or hear it. II. "That the Pope of Rome is the Monarch or <lb/>
+Head of the <normalised orig="Vniversal" auto="true">Universal</normalised> Visible Church, the Vicar or Deputy <lb/>
+of Christ, and in that <normalised orig="Soveraign" auto="true">Sovereign</normalised> Authority the true <lb/>
+Successor of S. Peter, as Prince of the Apostles; by <normalised orig="vertue" auto="true">virtue</normalised> <lb/>
+whereof his Papal Determinations and Prescripts are <lb/>
+to be obeyed, in what matter so ever he shall be pleased <lb/>
+to declare himself." I will not now mention the infamous Power, <lb/>
+(that otherwhiles he <normalised orig="hath" auto="true">has</normalised> assumed to himself,) of deposing a just <lb/>
+and lawful King from his rightful Inheritance; or of freeing his <lb/>
+                  <lb/>
+                  <fw type="pageNum">a</fw>
+                  <pb n="3"/>
+                  <lb/>
+natural and sworn Subjects from their Bond of Faith and Allegiance <lb/>
+towards him; (which are the Dictates of Pope Hildebrand;) <lb/>
+But I note only at present the Authority that he <normalised orig="assumeth" auto="false">assumed</normalised> <lb/>
+over the Scriptures of God (the Subject of all our History,) <lb/>
+which He and his Followers make to be greater then <lb/>
+any those Scriptures have; for it is another of the same Pope's <lb/>
+Dictates, <normalised orig="confirm'd" auto="true">confirmed</normalised> by the Bull of Pius the IV. in his Profession <lb/>
+of the Tridentine Faith, "That the <normalised orig="Canonicall" auto="true">Canonical</normalised> <lb/>
+Scriptures themselves shall be no Canonical Scriptures, <lb/>
+<normalised orig="unlesse" auto="true">unless</normalised> he gives them Authority and Allowance so to be." <lb/>
+Which is as much as to say, that when he <normalised orig="pleaseth" auto="true">pleases</normalised>, he may take <lb/>
+away all Authority from them. III. Then, "That all Scriptures <lb/>
+are to be expounded according to the Sense of this <lb/>
+Roman Church; which must herein be held to be the <lb/>
+only Judge; and to follow the unanimous consent of the <lb/>
+Ancient Fathers." IV. Next, That there are "truly and <lb/>
+properly Seven Sacraments, neither more nor <normalised orig="lesse" auto="true">less</normalised>, instituted <lb/>
+by Christ himself in the New Testament." V. "That <lb/>
+in their <normalised orig="Masse" auto="true">Mass</normalised> there is a Real Transubstantiation of the <lb/>
+Elements into the Body and Blood of Christ, remaining <lb/>
+                  <pb n="4"/>
+                  <lb/>
+after the Communion is done; and likewise a proper <lb/>
+and propitiatory Sacrifice there offered up by the <lb/>
+Priest for the <normalised orig="Sinnes" auto="true">Sins</normalised> of the Quick and the Dead, the same <lb/>
+that Christ offered upon the <normalised orig="Crosse" auto="true">Cross</normalised>." VI. That "when the <lb/>
+Priest <normalised orig="receiveth" auto="true">receives</normalised> the Sacrament alone, and when he <lb/>
+<normalised orig="giveth" auto="true">gives</normalised> to others but under one <normalised orig="kinde" auto="true">kind</normalised> only, yet it is a lawful, <lb/>
+and a <normalised orig="compleat" auto="true">complete</normalised> Communion, notwithstanding" that <lb/>
+our Saviour otherwise appointed it. VII. That alter "this <lb/>
+Life there is a penal Purgatory to be undergone for <lb/>
+the Expiation as well of venial Sins, as the payment of <lb/>
+temporal punishments due to mortal sins; and that dead <lb/>
+<normalised orig="mens" auto="true">men's</normalised> souls there detained are <normalised orig="help'd" auto="true">helped</normalised> by the <normalised orig="Suffrages" auto="true">Sufferages</normalised> of <lb/>
+the Living, and the saying of Masses." VIII. That "The <lb/>
+Saints above in heaven," (or any whom it shall be the Popes <lb/>
+pleasure to <normalised orig="Canonize" auto="true">Canonise</normalised>) "ought to be religiously invocated"; <lb/>
+and that "they understand as well as the <normalised orig="mindes" auto="true">minds</normalised> as the <lb/>
+words of those that pray to them." IX. That "Whosoever <lb/>
+will not fall down before <normalised orig="Reliques" auto="true">Relics</normalised> and Images, to <lb/>
+<normalised orig="kisse" auto="true">kiss</normalised> and worship them according to the present practise <lb/>
+of the Church of Rome, and the Decrees of the Second <lb/>
+<normalised orig="Councel" auto="true">Council</normalised> of Nice, are to be accursed and damned." X. That <lb/>
+"the plenary power and present use of Indulgences, was <lb/>
+ordained and left by Christ in his Church, which <lb/>
+anciently put the same into practise; and that the denial <lb/>
+hereof ought to be <normalised orig="anathematiz'd" auto="true">anathematised</normalised>." XI. And lastly, <lb/>
+                  <lb/>
+                  <fw type="pageNum">a 2</fw>
+                  <pb n="5"/>
+                  <lb/>
+"That all the Definitions, Decrees, Canons, and Declarations <lb/>
+made in their former <normalised orig="Councels" auto="true">Counsels</normalised>, and especially in <lb/>
+this their last <normalised orig="Councel" auto="true">Council</normalised> of Trent, ought to be <normalised orig="wholy" auto="true">wholly</normalised> and <lb/>
+inviolately, undoubtedly and devoutly professed, taught, <lb/>
+<normalised orig="preach'd" auto="true">preached</normalised>, and received as the true <normalised orig="Catholick" auto="true">Catholic</normalised> Faith, out <lb/>
+of which none can be saved." <lb/>
+But all these New Traditions, as they have no ground in <lb/>
+Scripture, so have they as little Testimony of Antiquity to be <lb/>
+brought to them; out of both which we prescribe against them <lb/>
+all. <lb/>
+For it is but a vain pretence of Antiquity, and a <normalised orig="meer" auto="true">mere</normalised> abusing <lb/>
+of the World, when they go about to make simple people believe, that <lb/>
+all which they <normalised orig="professe" auto="true">profess</normalised> and believe <normalised orig="hath" auto="true">has</normalised> the consent of all Ages for <lb/>
+them, and that all the Ancient Fathers and Bishops of the Church <lb/>
+never taught, nor believed otherwise then they now do. <lb/>
+The Truth and Strength of which their Assertion, in one <lb/>
+of their peculiar and prime Traditions, first set forth in their <lb/>
+late Assembly at Trent, I examine in this History. Whereby I <lb/>
+trust it will be made manifest to the Reader, That those Men, who <lb/>
+do now so busily endeavour to seduce the Sons and Daughters of the <lb/>
+Church of England from the Grounds and Truth of our Religion, <lb/>
+which is no other then what we have received from Christ <lb/>
+and his Universal Church, termed <normalised orig="neverthelesse" auto="true">nevertheless</normalised> by them a New <lb/>
+Church, and a New Religion, that began in the <normalised orig="dayes" auto="true">days</normalised> of King <lb/>
+Henry the VIII. (which is as true, as if they should say, A sick <lb/>
+person began then first to live, when he recovered from the disease <lb/>
+and distemper that was before upon him; for we are the same <lb/>
+Church still, (as he the same person,) that we were before, <lb/>
+though in a better estate and health of our <normalised orig="soules" auto="true">souls</normalised>, in a greater <lb/>
+<normalised orig="soundnesse" auto="true">soundness</normalised> and purity of Religion, then indeed we were before, <lb/>
+when they had to with it, and infected us;) that these Men, I <lb/>
+say, who untruly term us Novelists, are in truth themselves the <lb/>
+                  <pb n="6"/>
+                  <lb/>
+greatest Novelists of any in the World besides: And must be content <lb/>
+(both in this peculiar Article of their Religion, which we now <lb/>
+set forth and examine through the several Ages of the Church, and <lb/>
+likewise in others, which we may, by the grace of God, examine in <lb/>
+the like manner hereafter,) to come <normalised orig="behinde" auto="true">behind</normalised> in time, after divers <lb/>
+of those Novelists, and disturbers of true Religion, that now bear <lb/>
+vogue among us. <lb/>
+It is a matter of Fact this, that is here <normalised orig="tryed" auto="true">tried</normalised>, which may be put <lb/>
+to a Jury of Twelve Men, that have no lawful Exception to be <lb/>
+taken against them; but I give them more, and put it to many <lb/>
+such, one after another; that there may be no want. Which in such <lb/>
+Cases, as this is, will be the fairest way of Trial to <normalised orig="finde" auto="true">find</normalised> out the <lb/>
+Truth, and leave the Reader to judge of it, on whose side it <normalised orig="standeth" auto="true">stands</normalised>. <lb/>
+In the gathering of my Witnesses together, and Collecting this <lb/>
+<normalised orig="Scholastical" auto="true">Scholastic</normalised> History, I must acknowledge to owe somewhat unto <lb/>
+those learned Men, that have heretofore taken pains in this behalf, <lb/>
+as well at home in our own Church, as abroad in others. Yet <lb/>
+(let it be said without derogation from any of them,) this Book <lb/>
+<normalised orig="hath" auto="true">has</normalised> been <normalised orig="judg'd" auto="true">judged</normalised>, by Him that first requested me to make it a <lb/>
+part of my <normalised orig="Imployment" auto="true">Employment</normalised>, (though he was a Person well able to <lb/>
+have more perfectly done it himself,) and by other Men of knowledge, <lb/>
+(Professors of true Religion and Learning,) who have read <lb/>
+it after him, and many times moved him to commit it to the Press; <lb/>
+that it would give more ample satisfaction, and clear the Passages <lb/>
+in Antiquity from the Objections that some late Authors on the <lb/>
+Roman side bring against us, then those other Writings of Home <lb/>
+or Foreign Divines have done, that are extant in this <normalised orig="kinde" auto="true">kind</normalised>. For <lb/>
+besides the whole Frame and order of the Book, insisting upon the <lb/>
+right and best way of enquiry into this matter by an Historical Disquisition <lb/>
+of the Universal Tradition and <choice ana="illegible">
+                     <sic>Te*imony</sic>
+                     <corr>Testimony</corr>
+                  </choice> of Gods Church <lb/>
+herein unanimously delivered in all Ages from the Apostles Times <lb/>
+(and before) to ours; My Observations as I <normalised orig="passe" auto="true">pass</normalised> along both <lb/>
+through the Ancient and Later Writers that have said any thing of <lb/>
+this Subject, are many of them New; and where I have followed <lb/>
+others, even there also I have added much of my own, to advance <lb/>
+and manifest the Truth that is in them; having no other aim, then <lb/>
+                  <pb n="7"/>
+                  <lb/>
+herein to be serviceable to the Truth of God, set forth and professed <lb/>
+by the Church of England; which Truth we endeavour, in <lb/>
+these wavering and lapsing times, to preserve entire and upright <lb/>
+among us. <lb/>
+My Discourse is continued, and not interrupted with quotations <lb/>
+of Authors, which I have diligently searched, and placed, all the <lb/>
+way, in the Margin. The language that I use, is familiar, clear, <lb/>
+and inoffensive, (which I trust will make it the more acceptable,) <lb/>
+for I neither affect, nor approve any other. <lb/>
+But if I may unwittingly have said any thing, that shall be <lb/>
+found to disagree either with any passage in the Holy Scriptures, <lb/>
+or with the consent of Antiquity in the Sense and Interpretation <lb/>
+of those Scriptures, (which yet, I hope well, will not be found;) I <lb/>
+do here beforehand revoke and unsay it already. <lb/>
+                  <lb/>
+At my Retirement in <lb/>
+Paris this 17 Feb. <lb/>
+1657.<lb/>
+                  <lb/>
+Joh. <normalised orig="Cosin" auto="true">Cousin</normalised>.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

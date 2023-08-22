@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="catechism_1579_Openshaw_and_Pagitt_R3">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Short questions and <normalised orig="answeares" auto="false">answers</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author"/>
+               <title type="main">Short questions and <normalised orig="answeares" auto="false">answers</normalised>, <normalised orig="conteyning" auto="true">containing</normalised> the <normalised orig="summe" auto="true">sum</normalised> of Christian Religion. <notvariant>Deut</notvariant>. 6.6. 6 These <normalised orig="wordes" auto="true">words</normalised> which I <normalised orig="commaund" auto="true">command</normalised> thee this day, <normalised orig="shalbe" auto="true">shall be</normalised> in thy heart: 7 And thou shalt rehearse them continually <normalised orig="vnto" auto="true">unto</normalised> thy children &amp; shalt <normalised orig="talke" auto="true">talk</normalised> of them when thou <normalised orig="tariest" auto="false">tarry</normalised> in thy house, &amp; as <normalised orig="thouo" auto="false">thou</normalised> <normalised orig="walkest" auto="true">walk</normalised> by the way, <normalised orig="ans" auto="false">and</normalised> when thou <normalised orig="lyest" auto="true">lie</normalised> <normalised orig="downe" auto="true">down</normalised>, and when thou <normalised orig="risest" auto="false">rise</normalised> <normalised orig="vp" auto="true">up</normalised>.</title>
+               <title type="short">Short questions and <normalised orig="answeares" auto="false">answers</normalised></title>
+               <date when="1579">1579</date>
+               <date type="this_edition" when="1579">1579</date>
+               <idno type="STC">18816</idno>
+               <note type="genre" subtype="preface_catechism">catechism preface</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>octavo</notvariant></term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="illustrations">true</term>
+                     </item>
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+    <text>
+      <body>
+        <div xml:id="sample1">
+            
+
+            <sp who="a">
+               <p>Question.<lb/>
+WHo made you?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><normalised orig="Answeare" auto="true">Answer</normalised>.<lb/>
+God. Gen. 1.17. <notvariant>Iob</notvariant>. 31.15.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Who redeemed you?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. <normalised orig="Iesus" auto="true">Jesus</normalised> Christ. <normalised orig="Iohn" auto="true">John</normalised>. 1.29.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Who <normalised orig="sanctifieth" auto="true">sanctifies</normalised> and <normalised orig="preserueth" auto="true">preserves</normalised> you?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The <normalised orig="holie" auto="true">holy</normalised> Ghost. Gen. 1.2. <notvariant>Rom</notvariant>. 8.9.10.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is the Father?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. God. <notvariant>Deut</notvariant> 4.35.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is the <normalised orig="Sonne" auto="true">Son</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. God. Mat. 1.23. <normalised orig="Iohn" auto="true">John</normalised>. 1.1.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is the holy Ghost?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. God. Math. 28.19.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How many persons are there?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Three persons, and one God. 1 <normalised orig="Iohn" auto="true">John</normalised>. 5.7.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Wherefore <normalised orig="hath" auto="true">has</normalised> God made, sanctified <choice ana="illegible">
+                     <sic>*d</sic>
+                     <corr>and</corr>
+                  </choice>
+                  <lb/>
+<normalised orig="preserued" auto="true">preserved</normalised> you?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. To <normalised orig="seeke" auto="true">seek</normalised> his <normalised orig="glorie" auto="true">glory</normalised>. <notvariant>Rom</notvariant>. 11.36. <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. In seeking to set <normalised orig="foorth" auto="true">forth</normalised> Gods <normalised orig="glorie" auto="true">glory</normalised>, <normalised orig="howe" auto="false">how</normalised><lb/>
+<normalised orig="manie" auto="true">many</normalised> <normalised orig="thinges" auto="true">things</normalised> ought you principally to be<lb/>
+<normalised orig="carefull" auto="true">careful</normalised> for?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. 2. First <normalised orig="howe" auto="false">how</normalised> to escape Gods <normalised orig="iudgement" auto="true">judgment</normalised>.<lb/>
+<notvariant>Matth</notvariant>. 16.26.<lb/>
+Secondly, how to <normalised orig="serue" auto="true">serve</normalised> him. Luke. 1.74.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How will God be <normalised orig="serued" auto="true">served</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. After his <normalised orig="wil" auto="true">will</normalised> <normalised orig="reueled" auto="true">reveled</normalised> in his word. De. 12.32.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How <normalised orig="manie" auto="true">many</normalised> things <normalised orig="doth" auto="false">does</normalised> the <normalised orig="worde" auto="true">word</normalised> teach <normalised orig="vs" auto="true">us</normalised><lb/>
+                  <pb n="1"/>
+                  <lb/>
+principally?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Obedience to the <normalised orig="commaundementes" auto="true">commandments</normalised>.<lb/>
+Faith in Christ. <notvariant>Heb</notvariant>. 6.12.<lb/>
+<normalised orig="Sacramentes" auto="true">Sacraments</normalised>.<lb/>
+<normalised orig="Praier" auto="true">Prayer</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Into <normalised orig="howe" auto="false">how</normalised> <normalised orig="manie" auto="true">many</normalised> tables are the <normalised orig="commaundementes" auto="true">commandments</normalised><lb/>
+<normalised orig="deuided" auto="true">divided</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Into two. <notvariant>Exod</notvariant>. 31.18. 34.1.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="doth" auto="false">does</normalised> the <normalised orig="firste" auto="true">first</normalised> table <normalised orig="concerne" auto="true">concern</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Our <normalised orig="duety" auto="true">duty</normalised> to God <normalised orig="conteined" auto="true">contained</normalised> in the <normalised orig="foure" auto="true">four</normalised> first<lb/>
+<normalised orig="commaundementes" auto="true">commandments</normalised>. <notvariant>Matth</notvariant>. 22.37.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="doth" auto="false">does</normalised> the second table <normalised orig="concerne" auto="true">concern</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Our <normalised orig="dutie" auto="true">duty</normalised> to our <normalised orig="neighboures" auto="true">neighbours</normalised>, contained in<lb/>
+the <normalised orig="sixe" auto="true">six</normalised> last <normalised orig="co~maundements" auto="false">commandments</normalised>. <notvariant>Matth</notvariant>. 22.39.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. In this order of the tables, that the <normalised orig="duetie" auto="true">duty</normalised> to<lb/>
+God, is set before our <normalised orig="duetie" auto="true">duty</normalised> to our neighbour,<lb/>
+how <normalised orig="manie" auto="true">many</normalised> lessons <normalised orig="doe" auto="true">do</normalised> you <normalised orig="learne" auto="true">learn</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. 2. First, I <normalised orig="learne" auto="true">learn</normalised> to <normalised orig="serue" auto="true">serve</normalised> him before all<lb/>
+<normalised orig="thinges" auto="true">things</normalised>, and not to <normalised orig="regarde" auto="true">regard</normalised> substance, no nor<lb/>
+life it <normalised orig="selfe" auto="true">self</normalised>, in respect of his <normalised orig="glorie" auto="true">glory</normalised>. <notvariant>Matth</notvariant>. 6.<lb/>
+33. <notvariant>Exod</notvariant>. 32.32.<lb/>
+Secondly, if I tender my <normalised orig="dutie" auto="true">duty</normalised> to God, I must<lb/>
+<normalised orig="doe" auto="true">do</normalised> my <normalised orig="dutie" auto="true">duty</normalised> to my neighbour, for if I neglect<lb/>
+it to my neighbour, <normalised orig="who~" auto="true">whom</normalised> I see daily, it is<lb/>
+<normalised orig="euident" auto="true">evident</normalised>, that I <normalised orig="doe" auto="true">do</normalised> so to God. 1. <normalised orig="Iohn" auto="true">John</normalised>. 3.14.<lb/>
+and. 4.20.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How many <normalised orig="commaundementes" auto="true">commandments</normalised> are there?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Ten. <quote type="biblical" ana="Ex 20.1">God <normalised orig="spake" auto="true">spoke</normalised> these <normalised orig="wordes" auto="true">words</normalised>, and <normalised orig="saide" auto="true">said</normalised></quote>, &amp;c. <lb/>
+               </p>
+            </sp>
+            
+            <fw type="pageNum">B</fw>
+            <pb n="2"/>
+            <sp who="a">
+               <p>Q. Is this a <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. No, it is but a preface or introduction to the<lb/>
+<normalised orig="commaundementes" auto="true">commandments</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How many lessons <normalised orig="learne" auto="true">learn</normalised> you out of it?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. 3. First, in that is <normalised orig="sayed" auto="true">said</normalised>, <quote type="biblical" ana="Ex 20.1">God <normalised orig="spake" auto="true">spoke</normalised> these<lb/>
+<normalised orig="woordes" auto="true">words</normalised>, and <normalised orig="saide" auto="true">said</normalised>,</quote> I <normalised orig="learne" auto="true">learn</normalised> that God is the<lb/>
+author of them.<lb/>
+Secondly, in that he <normalised orig="saieth" auto="true">says</normalised>, <quote type="biblical" ana="Ex 20.2">I am the <normalised orig="Lorde" auto="true">Lord</normalised>,</quote> I<lb/>
+<normalised orig="learne" auto="true">learn</normalised> that he is of might, <normalised orig="maiestie" auto="true">majesty</normalised>, and power<lb/>
+to punish the offenders.<lb/>
+Thirdly, in that is said, <quote type="biblical" ana="Ex 20.2">Thy God which brought<lb/>
+thee out of <normalised orig="Ægypt" auto="false">Egypt</normalised> and bondage,</quote> I <normalised orig="learne" auto="true">learn</normalised> his<lb/>
+<normalised orig="mercie" auto="true">mercy</normalised> to them, that <normalised orig="loue" auto="true">love</normalised> and <normalised orig="seeke" auto="true">seek</normalised> his will.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is the first <normalised orig="commaundement" auto="true">commandment</normalised> and<lb/>
+<normalised orig="summe" auto="true">sum</normalised> of it?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. <quote type="biblical" ana="Ex 20.3">Thou shalt <normalised orig="haue" auto="true">have</normalised> none other Gods but me,</quote> wherein I <normalised orig="learne" auto="true">learn</normalised> to worship God, and him<lb/>
+alone.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. In <normalised orig="howe" auto="false">how</normalised> <normalised orig="manie" auto="true">many</normalised> <normalised orig="poyntes" auto="true">points</normalised> <normalised orig="standeth" auto="true">stands</normalised> this worship?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. 4. First, in <normalised orig="louing" auto="true">loving</normalised> God <normalised orig="aboue" auto="true">above</normalised> <normalised orig="al" auto="true">all</normalised>. Mar. 10.37<lb/>
+Secondly, in fearing God <normalised orig="aboue" auto="true">above</normalised> all. <notvariant>Mal</notvariant>. 1.6.<lb/>
+Thirdly, in praying to God, and to none but him.<lb/>
+<notvariant>Matth</notvariant>. 6.9.<lb/>
+Fourthly, in acknowledging God to be the <notvariant>guider</notvariant><lb/>
+of all <normalised orig="thinges" auto="true">things</normalised>, and therefore to trust in<lb/>
+him. Act. 17.25.26.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>
+                  <lb/>
+                  <choice ana="illegible">
+                     <sic/>
+                     <corr>Q.</corr>
+                  </choice> How <normalised orig="manie" auto="true">many</normalised> <normalised orig="thinges" auto="true">things</normalised> do you <normalised orig="learne" auto="true">learn</normalised> in the second<lb/>
+                  <pb n="3"/>
+                  <lb/>
+<normalised orig="commaundement" auto="true">commandment</normalised>? <quote type="biblical" ana="Ex 20.4">Thou shalt not <normalised orig="mak" auto="true">make</normalised><lb/>
+to thy <normalised orig="selfe" auto="true">self</normalised> any <normalised orig="grauen" auto="true">graven</normalised> image,</quote> &amp;c.? <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, that wee make no image of God.<lb/>
+<normalised orig="Iohn" auto="true">John</normalised>. 1.18.<lb/>
+Secondly, that we make no image of any other<lb/>
+thing, either to worship the image, or any other<lb/>
+thing by it. <notvariant>Exe</notvariant>. 34.13. <notvariant>Iere</notvariant>. 2.27. 10.8<lb/>
+Thirdly, that we <normalised orig="worshippe" auto="true">worship</normalised> not God after our<lb/>
+<normalised orig="fansie" auto="true">fancy</normalised>, but as he <normalised orig="commaundeth" auto="true">commands</normalised>. <normalised orig="Iohn" auto="true">John</normalised>. 4.24.<lb/>
+<notvariant>Matth</notvariant>. 15.9.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is the <normalised orig="thirde" auto="true">third</normalised> <normalised orig="commaundement" auto="true">commandment</normalised> and<lb/>
+the <normalised orig="summe" auto="true">sum</normalised> thereof?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. <quote type="biblical" ana="Ex 20.7">Thou shalt not take the name of the Lord,</quote> &amp;c.<lb/>
+which <normalised orig="su~marily" auto="false">summarily</normalised> <normalised orig="teacheth" auto="true">teaches</normalised> me to <normalised orig="vse" auto="true">use</normalised> the name<lb/>
+of God with most high <normalised orig="reuerence" auto="true">reverence</normalised>, both in<lb/>
+tongue and thought.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <normalised orig="Howe" auto="false">How</normalised> many lessons <normalised orig="learne" auto="true">learn</normalised> you in this <normalised orig="commaundement" auto="true">commandment</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. 3. First, it is <normalised orig="sinne" auto="true">sin</normalised> and <normalised orig="blasphemie" auto="true">blasphemy</normalised> to <normalised orig="applie" auto="true">apply</normalised><lb/>
+the name of God, to <normalised orig="enchauntment" auto="true">enchantment</normalised>, <normalised orig="sorcerie" auto="true">sorcery</normalised>,<lb/>
+cursing, or <normalised orig="periurie" auto="true">perjury</normalised>. <notvariant>Deut</notvariant>. 18 10.<lb/>
+Secondly, to <normalised orig="sweare" auto="true">swear</normalised> by creatures is a setting of<lb/>
+his name at <normalised orig="naught" auto="false">nought</normalised>. <notvariant>Psal</notvariant>. 16. <notvariant>Iere</notvariant>. 5.7.<lb/>
+Thirdly, in our <normalised orig="ordinarie" auto="true">ordinary</normalised> communication wee<lb/>
+must <normalised orig="neuer" auto="true">never</normalised> <normalised orig="sweare" auto="true">swear</normalised>. <notvariant>Matth</notvariant>. 5.34. <normalised orig="Iam" auto="true">Jam</normalised>. 5.12.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Tell me by whom we must <normalised orig="sweare" auto="true">swear</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. By God: for it is a part of his <normalised orig="glorie" auto="true">glory</normalised>, <normalised orig="whiche" auto="true">which</normalised><lb/>
+he will <normalised orig="giue" auto="true">give</normalised> to none other. <notvariant>Deut</notvariant>. 6.13. <notvariant>Psal</notvariant>.<lb/>
+63.11.<lb/>
+               </p>
+            </sp>
+            
+            <fw type="pageNum">B2</fw>
+            <pb n="4"/>
+            <sp who="a">
+               <p>Q. In what causes, and where, is it <normalised orig="lawfull" auto="true">lawful</normalised> to<lb/>
+<normalised orig="sweare" auto="true">swear</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Where the <normalised orig="glorie" auto="true">glory</normalised> of God is sought.<lb/>
+Or the <normalised orig="saluation" auto="true">salvation</normalised> of our brethren. <notvariant>Iere</notvariant>. 4.2.<lb/>
+Or before a Magistrate. <notvariant>Heb</notvariant>. 6.16.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Which is the fourth <normalised orig="commaundement" auto="true">commandment</normalised>, and<lb/>
+the <normalised orig="summe" auto="true">sum</normalised> thereof?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. <quote type="biblical" ana="Ex 20.8">Remember that thou <normalised orig="keepe" auto="true">keep</normalised> <normalised orig="holie" auto="true">holy</normalised> the <normalised orig="Sabboth" auto="true">Sabbath</normalised><lb/>
+day,</quote> &amp;c. Wherein the Lord <normalised orig="appointeth" auto="true">appoints</normalised>, that his creatures should <normalised orig="haue" auto="true">have</normalised> a time to rest and<lb/>
+<normalised orig="serue" auto="true">serve</normalised> him in.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What must we do <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="Sabboth" auto="true">Sabbath</normalised> day?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Holy <normalised orig="thinges" auto="true">things</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What are those <normalised orig="holie" auto="true">holy</normalised> <normalised orig="thinges" auto="true">things</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Hearing and learning the <normalised orig="worde" auto="true">word</normalised> of GOD<lb/>
+preached, praying, <normalised orig="receiuing" auto="true">receiving</normalised> the <normalised orig="Sacramentes" auto="true">Sacraments</normalised>,<lb/>
+and meditating <normalised orig="vpon" auto="true">upon</normalised> his creatures,<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="thinges" auto="true">things</normalised> must we not <normalised orig="doe" auto="true">do</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Those <normalised orig="thinges" auto="true">things</normalised> that <normalised orig="necessitie" auto="true">necessity</normalised> <normalised orig="doth" auto="false">does</normalised> not <normalised orig="compell" auto="true">compel</normalised>,<lb/>
+nor <normalised orig="holinesse" auto="true">holiness</normalised> <normalised orig="commaunde" auto="true">command</normalised>. <notvariant>Isa</notvariant>. 58.13.<lb/>
+<notvariant>Matth</notvariant>. 12.3.5.11.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Who must <normalised orig="keepe" auto="true">keep</normalised> <normalised orig="holie" auto="true">holy</normalised> the <normalised orig="Sabboth" auto="true">Sabbath</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Thou, thy <normalised orig="Sonne" auto="true">Son</normalised>, thy Daughter, thy man,<lb/>
+thy <normalised orig="maide" auto="true">maid</normalised>, thy <normalised orig="cattell" auto="true">cattle</normalised>, and the <normalised orig="straunger" auto="true">stranger</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. In the <normalised orig="fift" auto="true">fifth</normalised> <normalised orig="commaundement" auto="true">commandment</normalised>, <quote type="biblical" ana="Ex 20.12">Honour thy father<lb/>
+and thy mother,</quote> &amp;c. What is meant by<lb/>
+this word Honour?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. To honour, is to <normalised orig="loue" auto="true">love</normalised>, <normalised orig="feare" auto="true">fear</normalised>, obey, &amp; <normalised orig="releeue" auto="true">relieve</normalised>.<lb/>
+                  <pb n="5"/>
+                  <lb/>
+<notvariant>Matth</notvariant>. 15.4. 1. Tim. 5.17.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is meant by father and mother?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Our <normalised orig="naturall" auto="true">natural</normalised> <normalised orig="parentes" auto="true">parents</normalised>, the fathers of our<lb/>
+<normalised orig="countrie" auto="true">country</normalised>, or of our houses, the aged, and our<lb/>
+fathers in Christ.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How is the blessing of long life <normalised orig="geuen" auto="true">given</normalised>, when<lb/>
+the disobedient <normalised orig="liue" auto="true">live</normalised> long, and the obedient<lb/>
+and good for the most part die speedily?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The wicked <normalised orig="liue" auto="true">live</normalised> to their further vengeance,<lb/>
+&amp; the <normalised orig="godlie" auto="true">godly</normalised> <normalised orig="enioy" auto="true">enjoy</normalised> it so <normalised orig="farre" auto="true">far</normalised> as it shall<lb/>
+be well for them. <notvariant>Deu</notvariant>. 5.16. <notvariant>Isa</notvariant>. 57.1.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How <normalised orig="manie" auto="true">many</normalised> lessons <normalised orig="learne" auto="true">learn</normalised> you out of this<lb/>
+<normalised orig="commaundement" auto="true">commandment</normalised>? <quote type="biblical" ana="Ex 20.13">Thou shalt not kill.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. 4. First I <normalised orig="learne" auto="true">learn</normalised> to tie my <normalised orig="handes" auto="true">hands</normalised>, tongue,<lb/>
+and countenance to peace, from fighting,<lb/>
+<normalised orig="quarelling" auto="false">quarrelling</normalised>, and mocking. <notvariant>Matth</notvariant>. 5.22.<lb/>
+Secondly, it <normalised orig="condemneth" auto="true">condemns</normalised> all anger in heart.<lb/>
+<normalised orig="Leui" auto="true">Levi</normalised>. 19.17.<lb/>
+Thirdly, he <normalised orig="commaundeth" auto="true">commands</normalised> to <normalised orig="preserue" auto="true">preserve</normalised> life.<lb/>
+<notvariant>Matth</notvariant>. 25, 35.<lb/>
+Fourthly, he <normalised orig="commaundeth" auto="true">commands</normalised> to <normalised orig="loue" auto="true">love</normalised> one another,<lb/>
+<normalised orig="euen" auto="true">even</normalised> our <normalised orig="enimies" auto="true">enemies</normalised>. <notvariant>Matth</notvariant>. 5.44.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Which is the <normalised orig="seuenth" auto="true">seventh</normalised> <normalised orig="commaundement" auto="true">commandment</normalised>, and<lb/>
+the <normalised orig="summe" auto="true">sum</normalised> of it?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. <quote type="biblical" ana="Ex 20.14">Thou shalt not commit <normalised orig="adultrie" auto="false">adultery</normalised>:</quote> wherein he<lb/>
+<normalised orig="taketh" auto="true">takes</normalised> order that his institution of <normalised orig="Matrimonie" auto="true">Matrimony</normalised><lb/>
+might be <normalised orig="mainteined" auto="true">maintained</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How many lessons <normalised orig="learne" auto="true">learn</normalised> you out of it?<lb/>
+               </p>
+            </sp>
+            
+            <fw type="pageNum">B3</fw>
+            <pb n="6"/>
+            <sp who="b">
+               <p>A. 4. First, God <normalised orig="forbiddeth" auto="true">forbids</normalised> all <normalised orig="adulterie" auto="true">adultery</normalised> and <normalised orig="vncleannesse" auto="true">uncleanness</normalised><lb/>
+in our bodies. <notvariant>Leuit</notvariant>. 18.24.<lb/>
+Secondly, all <normalised orig="vnpure" auto="true">impure</normalised> <normalised orig="thoughtes" auto="true">thoughts</normalised> and <normalised orig="lustes" auto="true">lusts</normalised> of<lb/>
+the heart. <notvariant>Matth</notvariant>. 5.28.<lb/>
+Thirdly, all <normalised orig="vnchast" auto="true">unchaste</normalised> <normalised orig="behauiour" auto="true">behaviour</normalised>, <normalised orig="talke" auto="true">talk</normalised>, <normalised orig="songes" auto="true">songs</normalised>,<lb/>
+<normalised orig="apparell" auto="true">apparel</normalised>, and pastime, that might entice <normalised orig="vs" auto="true">us</normalised><lb/>
+to such <normalised orig="vncleannesse" auto="true">uncleanness</normalised>. <notvariant>Ephe</notvariant>. 4.29. <notvariant>Ephe</notvariant>.5.3.<lb/>
+1. <notvariant>Thessa</notvariant> 5.22.<lb/>
+Fourthly, he <normalised orig="commaundeth" auto="true">commands</normalised> <normalised orig="vs" auto="true">us</normalised> to <normalised orig="keepe" auto="true">keep</normalised> our bodies<lb/>
+<normalised orig="chast" auto="true">chaste</normalised>, as the temples of the <normalised orig="holie" auto="true">holy</normalised> Ghost.<lb/>
+1. Cor. 6.15. <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <normalised orig="Howe" auto="false">How</normalised> <normalised orig="manie" auto="true">many</normalised> <normalised orig="thinges" auto="true">things</normalised> are forbidden in the 8.<lb/>
+<normalised orig="commaundement" auto="true">commandment</normalised>? <quote type="biblical" ana="Ex 20.15">Thou shalt not <normalised orig="steale" auto="true">steal</normalised>.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. 3. First, all stealing and robbing. <normalised orig="Leui" auto="true">Levi</normalised>. 19.11.<lb/>
+Secondly, all desire of any <normalised orig="mannes" auto="false">man's</normalised> <normalised orig="goodes" auto="true">goods</normalised><lb/>
+wrongfully. <notvariant>Ephe</notvariant>. 5.5.<lb/>
+<normalised orig="Thirdlye" auto="true">Thirdly</normalised>, all <normalised orig="vnlawfull" auto="true">unlawful</normalised> getting. 1. <notvariant>Thessa</notvariant> .46.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <normalised orig="Howe" auto="false">How</normalised> many <normalised orig="thinges" auto="true">things</normalised> are we <normalised orig="commaunded" auto="true">commanded</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. 3. First, to be <normalised orig="co~tent" auto="false">content</normalised> with that portion which<lb/>
+the <normalised orig="Lorde" auto="true">Lord</normalised> <normalised orig="hath" auto="true">has</normalised> lent <normalised orig="vs" auto="true">us</normalised>. 1. Tim. 6.6.<lb/>
+Secondly, that wee <normalised orig="laboure" auto="true">labour</normalised> for our <normalised orig="liuing" auto="true">living</normalised>,<lb/>
+2. <notvariant>Thessa</notvariant>. 3.10.<lb/>
+Thirdly, to be <normalised orig="helpefull" auto="false">helpfull</normalised> to them that <normalised orig="neede" auto="true">need</normalised>.<lb/>
+1. Tim. 6.18.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How <normalised orig="manie" auto="true">many</normalised> lessons <normalised orig="learne" auto="true">learn</normalised> you out of the 9.<lb/>
+<normalised orig="commaundement" auto="true">commandment</normalised>? <quote type="biblical" ana="Ex 20.16">Thou shalt not <normalised orig="beare" auto="true">bear</normalised> false<lb/>
+<normalised orig="witnesse" auto="true">witness</normalised> against thy neighbour.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <pb n="7"/>
+            <sp who="b">
+               <p>A. 4. First, we are forbidden to <normalised orig="speake" auto="true">speak</normalised> falsely in<lb/>
+<notvariant>witnessebearing</notvariant>. <notvariant>Prou</notvariant>. 19.5.<lb/>
+Secondly, to lie, flatter, or dissemble. <notvariant>Ephe</notvariant> .4.<lb/>
+25,<lb/>
+Thirdly, that we <normalised orig="neuer" auto="true">never</normalised> <normalised orig="backebite" auto="false">backbite</normalised> <normalised orig="anie" auto="true">any</normalised> man<lb/>
+<notvariant>Psal</notvariant>. 15.3.<lb/>
+Fourthly, in <normalised orig="priuate" auto="true">private</normalised> offences to say nothing of<lb/>
+our brother, if by <normalised orig="priuate" auto="true">private</normalised> admonition he may<lb/>
+be <normalised orig="wonne" auto="true">won</normalised>. <notvariant>Matth</notvariant>. 18.15.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <normalised orig="Whiche" auto="true">Which</normalised> is the tenth <normalised orig="commaundement" auto="true">commandment</normalised>, and<lb/>
+what <normalised orig="learne" auto="true">learn</normalised> you out of it?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. <quote type="biblical" ana="Ex 20.17">Thou shalt not <normalised orig="couet" auto="true">covet</normalised> thy <normalised orig="neighboures" auto="true">neighbours</normalised> house,<lb/>
+Thou shalt not <normalised orig="couet" auto="true">covet</normalised>,</quote> &amp;c. Whereby I <normalised orig="learne" auto="true">learn</normalised><lb/>
+that the motions of our heart separate from<lb/>
+the <normalised orig="loue" auto="true">love</normalised> of God, or our neighbour, though<lb/>
+we <normalised orig="neuer" auto="true">never</normalised> <normalised orig="yeld" auto="true">yield</normalised> consent to it, is <normalised orig="sinne" auto="true">sin</normalised>. <notvariant>Rom</notvariant>. 7.7.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Is <normalised orig="anie" auto="true">any</normalised> man able to <normalised orig="keepe" auto="true">keep</normalised> the <normalised orig="commaundementes" auto="true">commandments</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. No. <notvariant>Rom</notvariant>. 3.10. <notvariant>Iob</notvariant>. 4.18. &amp;. 15.15.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is the breach of the <normalised orig="lawe" auto="true">law</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. <normalised orig="Sinne" auto="true">Sin</normalised>. <notvariant>Rom</notvariant>.7.7. <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is the <normalised orig="rewarde" auto="true">reward</normalised> of <normalised orig="sinne" auto="true">sin</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. <normalised orig="Eternall" auto="true">Eternal</normalised> death. <notvariant>Rom</notvariant>.6.23. <notvariant>Deut</notvariant>.27.26.<lb/>
+Gala.3.10.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Shall I escape this death by the <normalised orig="workes" auto="true">works</normalised> of<lb/>
+the law?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. No. Luke.17.10. For the <normalised orig="lawe" auto="true">law</normalised> is the minister<lb/>
+of death.<lb/>
+               </p>
+            </sp>
+            
+            <fw type="pageNum">B4</fw>
+            <pb n="8"/>
+            <sp who="a">
+               <p>Q. <normalised orig="Sith" auto="true">Since</normalised> the law <normalised orig="doth" auto="false">does</normalised> not <normalised orig="iustifie" auto="true">justify</normalised> but condemn<lb/>
+what <normalised orig="profite" auto="true">profit</normalised> <normalised orig="hath" auto="true">has</normalised> <choice ana="illegible">
+                     <sic/>
+                     <corr>a</corr>
+                  </choice> Christian by it?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, it is a way for Gods children to <normalised orig="walke" auto="true">walk</normalised><lb/>
+in. <notvariant>Psal</notvariant>.1.2.<lb/>
+Secondly, it <normalised orig="teacheth" auto="true">teaches</normalised> man not to trust to his<lb/>
+<normalised orig="owne" auto="true">own</normalised> <normalised orig="innocencie" auto="true">innocence</normalised>. <notvariant>Rom</notvariant>. 3.4.<lb/>
+Thirdly, it <normalised orig="pulleth" auto="true">pulls</normalised> <normalised orig="downe" auto="true">down</normalised> the pride of man, and<lb/>
+<normalised orig="humbleth" auto="true">humbles</normalised> him before God. <notvariant>Rom</notvariant>. 3.19.<lb/>
+Fourthly, it is a <normalised orig="scholemaister" auto="true">schoolmaster</normalised> to Christ. Gal.<lb/>
+3.24.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. As you <normalised orig="haue" auto="true">have</normalised> <normalised orig="shewed" auto="true">showed</normalised> me the profit of the law,<lb/>
+so tell me why we should <normalised orig="doe" auto="true">do</normalised> good <normalised orig="woorkes" auto="true">works</normalised>,<lb/>
+<normalised orig="sith" auto="true">since</normalised> they <normalised orig="doe" auto="true">do</normalised> not <normalised orig="saue" auto="true">save</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, to <normalised orig="shew" auto="true">show</normalised> our <normalised orig="loue" auto="true">love</normalised> to God our Father,<lb/>
+in walking as <normalised orig="becommeth" auto="true">becomes</normalised> his <normalised orig="childre~" auto="true">children</normalised>. <normalised orig="Iohn" auto="true">John</normalised>.<lb/>
+14.15.<lb/>
+Secondly, to <normalised orig="shew" auto="true">show</normalised> our <normalised orig="loue" auto="true">love</normalised> to our <normalised orig="selues" auto="true">selves</normalised>, making<lb/>
+thereby our election <normalised orig="certaine" auto="true">certain</normalised> to our <normalised orig="selues" auto="true">selves</normalised>. 2. Pet.1.10.<lb/>
+Thirdly, to <normalised orig="winne" auto="true">win</normalised> our brethren to Christ by our<lb/>
+<normalised orig="godlie" auto="true">godly</normalised> life and <normalised orig="conuersation" auto="true">conversation</normalised>. <notvariant>Matth</notvariant>. 5.16.<lb/>
+1. Pet. 3.1.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <choice ana="illegible">
+                     <sic>*we</sic>
+                     <corr><normalised orig="Howe" auto="false">How</normalised></corr>
+                  </choice> <normalised orig="manie" auto="true">many</normalised> <normalised orig="thinges" auto="true">things</normalised> are principally to <normalised orig="bee" auto="true">be</normalised><lb/>
+considered in good <normalised orig="woorkes" auto="true">works</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, that they be ruled by the line of Gods<lb/>
+                  <choice ana="illegible">
+                     <sic>*<notvariant>orde</notvariant></sic>
+                     <corr><normalised orig="worde" auto="true">word</normalised></corr>
+                  </choice>. <notvariant>Ephe</notvariant>. 2.10.<lb/>
+Secondly, that they <normalised orig="proceede" auto="true">proceed</normalised> from a heart purged<lb/>
+by faith. <notvariant>Rom</notvariant> 14.23.<lb/>
+               </p>
+            </sp>
+            <pb n="9"/>
+            <sp who="a">
+               <p>Q. By what <normalised orig="meanes" auto="true">means</normalised> shall I escape death?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. By faith in Christ. <notvariant>Rom</notvariant>. 3.28.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is faith?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. A full persuasion and <normalised orig="stedfast" auto="true">steadfast</normalised> assurance.<lb/>
+<notvariant>Rom</notvariant> 8.38-39 <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Where is it planted?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. In the heart. <notvariant>Rom</notvariant>. 10.9.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Upon what is it grounded?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Upon the promises of God. <notvariant>Rom</notvariant>. 4.3.12.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. By <normalised orig="whome" auto="true">whom</normalised> is faith wrought in man?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. By the <normalised orig="holie" auto="true">holy</normalised> Ghost. <notvariant>Ephe</notvariant>. 3.16.17,<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Upon whom must faith be <normalised orig="setled" auto="true">settled</normalised> &amp; stayed?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Upon Christ <normalised orig="Iesu" auto="true">Jesus</normalised>. Gal. 3.26.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What profit <normalised orig="haue" auto="true">have</normalised> we by this?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. I am assured that all the benefits of <normalised orig="Christes" auto="true">Christ's</normalised><lb/>
+passion, and his <normalised orig="righteousnesse" auto="true">righteousness</normalised>, is as surely<lb/>
+mine, as if I had wrought them my <normalised orig="selfe" auto="true">self</normalised>.<lb/>
+2. Cor. 5.21.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <normalised orig="Howe" auto="false">How</normalised> <normalised orig="manie" auto="true">many</normalised> articles are there of the faith,<lb/>
+and which are they?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. <normalised orig="Twelue" auto="true">Twelve</normalised>. I <normalised orig="beleeue" auto="true">believe</normalised> in God the Father. &amp;c.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How many things do the articles set down?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First , concerning God the Father, in the<lb/>
+first article.<lb/>
+Secondly, concerning God the <normalised orig="Sonne" auto="true">Son</normalised>, in the<lb/>
+<normalised orig="sixe" auto="true">six</normalised> articles.<lb/>
+Thirdly, concerning God the <normalised orig="holie" auto="true">holy</normalised> Ghost in the<lb/>
+eight article.<lb/>
+                  <lb/>
+                  <fw type="pageNum">B5</fw>
+                  <pb n="10"/>
+                  <lb/>
+Fourthly, concerning Gods people called the<lb/>
+<normalised orig="Churche" auto="true">Church</normalised>, in the <normalised orig="foure" auto="true">four</normalised> last.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <normalised orig="Howe" auto="false">How</normalised> many <normalised orig="thinges" auto="true">things</normalised> <normalised orig="doe" auto="true">do</normalised> you <normalised orig="learne" auto="true">learn</normalised> in the<lb/>
+first article? I <normalised orig="beleeue" auto="true">believe</normalised> in God the Father <normalised orig="almightie" auto="true">almighty</normalised>,<lb/>
+maker of <normalised orig="heauen" auto="true">heaven</normalised> and earth.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, that God is my Father, and I am<lb/>
+his <normalised orig="childe" auto="true">child</normalised>. <normalised orig="Iohn" auto="true">John</normalised>. 1.12. Gal. 3.26.<lb/>
+Secondly, he being <normalised orig="almightie" auto="true">almighty</normalised>, maker of <normalised orig="heauen" auto="true">heaven</normalised><lb/>
+and earth, and I his <normalised orig="childe" auto="true">child</normalised>, shall <normalised orig="lacke" auto="true">lack</normalised><lb/>
+nothing. <notvariant>Rom</notvariant>. 8.27.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="learne" auto="true">learn</normalised> you out of the <normalised orig="seconde" auto="true">second</normalised> and<lb/>
+third articles?<lb/>
+2. And in <normalised orig="Iesus" auto="true">Jesus</normalised> Christ his <normalised orig="onely" auto="true">only</normalised> <normalised orig="Sonne" auto="true">Son</normalised> our Lord,<lb/>
+3. Which was <normalised orig="conceiued" auto="true">conceived</normalised> by the holy Ghost,<lb/>
+Borne of the virgin Marie.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, in these <normalised orig="wordes" auto="true">words</normalised>, His <normalised orig="onely" auto="true">only</normalised> <normalised orig="Sonne" auto="true">Son</normalised> our<lb/>
+Lord, which was <normalised orig="conceiued" auto="true">conceived</normalised> by the <normalised orig="holie" auto="true">holy</normalised> Ghost,<lb/>
+I learn that he is God, able to <normalised orig="beare" auto="true">bear</normalised> <normalised orig="whatsoeuer" auto="true">whatsoever</normalised><lb/>
+is due for our sins. Luke. 1.35. <notvariant>Ioh</notvariant>. 3.16.<lb/>
+Secondly, in that he was Borne of the virgin<lb/>
+Marie, I <normalised orig="learne" auto="true">learn</normalised> that he was <normalised orig="readie" auto="true">ready</normalised> to suffer<lb/>
+<normalised orig="whatsoeuer" auto="true">whatsoever</normalised> was due. <notvariant>Rom</notvariant>. 1.3. <notvariant>Heb</notvariant>. 2.14.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="learne" auto="true">learn</normalised> you out of the fourth article?<lb/>
+He suffered <normalised orig="vnder" auto="true">under</normalised> Pontius Pilate, was crucified<lb/>
+dead, buried. He descended into Hell.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, the passion that he suffered in <normalised orig="bodie" auto="true">body</normalised> for<lb/>
+the redemption of my <normalised orig="bodie" auto="true">body</normalised>, namely that <normalised orig="vnder" auto="true">under</normalised><lb/>
+Pontius <normalised orig="Pilat" auto="false">Pilate</normalised>, he was nailed to a <normalised orig="crosse" auto="true">cross</normalised>,<lb/>
+                  <pb n="11"/>
+                  <lb/>
+died, and was buried. <notvariant>Matth</notvariant>. 27. Gal. 3, 14.<lb/>
+Secondly, the passion that he <normalised orig="suffred" auto="true">suffered</normalised> in <normalised orig="soule" auto="true">soul</normalised>, for<lb/>
+the <normalised orig="deliuerance" auto="true">deliverance</normalised> of my <normalised orig="soule" auto="true">soul</normalised>, namely that <normalised orig="hee" auto="true">he</normalised><lb/>
+descended or humbled <normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="tormentes" auto="true">torments</normalised><lb/>
+of hell for our <normalised orig="saluation" auto="true">salvation</normalised>. <notvariant>Isa</notvariant>. 53.10.<lb/>
+11.12. Luke. 22.44. <notvariant>Matth</notvariant>. 27.46. <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="learne" auto="true">learn</normalised> you out of the <normalised orig="fift" auto="true">fifth</normalised> article, The<lb/>
+third day he rose <normalised orig="againe" auto="true">again</normalised> from the dead.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, that he is risen, and <normalised orig="hath" auto="true">has</normalised> <normalised orig="ouercome" auto="true">overcome</normalised><lb/>
+death and hell for my <normalised orig="iustification" auto="true">justification</normalised>. 1. Cor.15.<lb/>
+57. <notvariant>Rom</notvariant>. 4.25.<lb/>
+Secondly, I <normalised orig="learne" auto="true">learn</normalised> to rise <normalised orig="fro~" auto="true">from</normalised> <normalised orig="sinne" auto="true">sin</normalised>, &amp; to delight<lb/>
+in <normalised orig="righteousnesse" auto="true">righteousness</normalised>. <notvariant>Rom</notvariant>. 6.4. Col. 3.1.<lb/>
+Thirdly, by his rising, I am assured that my <normalised orig="bodie" auto="true">body</normalised><lb/>
+shall rise <normalised orig="againe" auto="true">again</normalised>. 1. Cor. 15.16.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="learnest" auto="true">learned</normalised> thou by the <normalised orig="sixt" auto="true">sixth</normalised> article? He<lb/>
+ascended into <normalised orig="heauen" auto="true">heaven</normalised>, and <normalised orig="sitteth" auto="true">sits</normalised> at the right<lb/>
+hand of God the Father.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First his ascension is a pledge to me, that<lb/>
+I likewise shall ascend after him. <normalised orig="Iohn" auto="true">John</normalised>.14.3.<lb/>
+Secondly, he being ascended, <normalised orig="maketh" auto="true">makes</normalised> prayer<lb/>
+for me. <notvariant>Rom</notvariant>. 8.34.<lb/>
+Thirdly, by his sitting at the right <normalised orig="hande" auto="true">hand</normalised>:<lb/>
+(which <normalised orig="signifieth" auto="true">signifies</normalised> the power of God) I <normalised orig="beleeue" auto="true">believe</normalised><lb/>
+that all power is <normalised orig="giuen" auto="true">given</normalised> him. <notvariant>Matth</notvariant>. 18.<lb/>
+18. <notvariant>Ephe</notvariant>. 1.20.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="learnest" auto="true">learned</normalised> thou out of the <normalised orig="seuenth" auto="true">seventh</normalised> article?<lb/>
+                  From thence &amp;c. <lb/>
+               </p>
+            </sp>
+<pb n="12"/>
+            <sp who="b">
+               <p>A. First, I <normalised orig="learne" auto="true">learn</normalised> to my comfort, that he that is<lb/>
+my <normalised orig="Sauiour" auto="true">Saviour</normalised>, <normalised orig="shalbe" auto="true">shall be</normalised> my <normalised orig="Iudge" auto="true">Judge</normalised>. <notvariant>Iob</notvariant>. 19.25.<lb/>
+<notvariant>Matth</notvariant>. 19.28.<lb/>
+Secondly, to the <normalised orig="terrour" auto="true">terror</normalised> of the <normalised orig="godlesse" auto="false">godless</normalised>, that he<lb/>
+<normalised orig="shalbe" auto="true">shall be</normalised> their <normalised orig="Iudge" auto="true">Judge</normalised>, whom they <normalised orig="haue" auto="true">have</normalised> refused &amp;<lb/>
+despised. <notvariant>Matth</notvariant>. 25. 41.2. <normalised orig="Thes" auto="true">These</normalised>. 1.8. <notvariant>Leu</notvariant>. 1.7.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="learne" auto="true">learn</normalised> you out of the third part, being<lb/>
+the eight article? I <normalised orig="beleeue" auto="true">believe</normalised> in the holy Ghost.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, I <normalised orig="beleue" auto="true">believe</normalised> the holy Ghost to be God,<lb/>
+who <normalised orig="doth" auto="false">does</normalised> assure me, that I am Gods <normalised orig="childe" auto="true">child</normalised>,<lb/>
+and that all <normalised orig="Christes" auto="true">Christ's</normalised> <normalised orig="benefites" auto="true">benefits</normalised> are mine.<lb/>
+<notvariant>Rom</notvariant> 8.16.<lb/>
+Secondly, he <normalised orig="maketh" auto="true">makes</normalised> <normalised orig="sinne" auto="true">sin</normalised> to die in me, and <normalised orig="stirreth" auto="true">stirs</normalised><lb/>
+me <normalised orig="vp" auto="true">up</normalised> to <normalised orig="holines" auto="true">holiness</normalised> of life. <notvariant>Ephe</notvariant>. 4.23.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="learne" auto="true">learn</normalised> you out of the. 9. article, the<lb/>
+first of the fourth <normalised orig="parte" auto="true">part</normalised>? The <normalised orig="holie" auto="true">holy</normalised> <normalised orig="Catholike" auto="true">Catholic</normalised><lb/>
+Church, the Communion of <normalised orig="Saintes" auto="true">Saints</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, that God <normalised orig="hath" auto="true">has</normalised> an <normalised orig="vniuersall" auto="true">universal</normalised> Church<lb/>
+in all places of the <normalised orig="worlde" auto="true">world</normalised>, and at all times.<lb/>
+<notvariant>Matth</notvariant>. 28.19. Act. 10.34. 1.King. 19.18.<lb/>
+Secondly, that in the same there is a <normalised orig="felowship" auto="true">fellowship</normalised><lb/>
+of <normalised orig="Sainctes" auto="true">Saints</normalised>, of true faithful people, <normalised orig="al" auto="true">all</normalised> which<lb/>
+the <normalised orig="Lorde" auto="true">Lord</normalised> <normalised orig="knoweth" auto="true">knows</normalised>, of which number I <normalised orig="beleeue" auto="true">believe</normalised><lb/>
+my <normalised orig="selfe" auto="true">self</normalised> to be one. <notvariant>Ephe</notvariant>. 5.26.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="learne" auto="true">learn</normalised> you out of the tenth article?<lb/>
+The <normalised orig="forgiuenesse" auto="true">forgiveness</normalised> of <normalised orig="sinnes" auto="true">sins</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, I <normalised orig="beleue" auto="true">believe</normalised> that Christ <normalised orig="hath" auto="true">has</normalised> suffered<lb/>
+<normalised orig="whatsoeuer" auto="true">whatsoever</normalised> was due for my <normalised orig="sinnes" auto="true">sins</normalised>. 1. <notvariant>Ioh</notvariant>. 22<lb/>
+                  <pb n="13"/>
+                  <lb/>
+Secondly, my <normalised orig="sinnes" auto="true">sins</normalised> being freely <normalised orig="forgeuen" auto="true">forgiven</normalised>, that<lb/>
+<normalised orig="neuer" auto="true">never</normalised> be <normalised orig="laide" auto="true">laid</normalised> to my charge <normalised orig="againe" auto="true">again</normalised>. <notvariant>Iere</notvariant>. 31.<lb/>
+34. Luke. 5.18.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="learne" auto="true">learn</normalised> you out of the. 11. and. 12. articles?<lb/>
+The Resurrection of, &amp;c. <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, that my <normalised orig="bodie" auto="true">body</normalised> shall rise from the earth<lb/>
+1. <notvariant>Thessa</notvariant>. 4.14.<lb/>
+Secondly, it shall rise a glorious <normalised orig="bodie" auto="true">body</normalised>. 1. Cor.<lb/>
+15.42. <notvariant>Phi</notvariant>. 3.21.<lb/>
+Thirdly, my <normalised orig="bodie" auto="true">body</normalised> being risen a glorious <normalised orig="bodie" auto="true">body</normalised>,<lb/>
+shall <normalised orig="liue" auto="true">live</normalised> with Christ for <normalised orig="euer" auto="true">ever</normalised> in his <normalised orig="kingdome" auto="true">kingdom</normalised>.<lb/>
+1. <notvariant>Thessa</notvariant>. 4.17.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. By what <normalised orig="meanes" auto="true">means</normalised> or <normalised orig="wayes" auto="true">ways</normalised> <normalised orig="doe" auto="true">do</normalised> we <normalised orig="attaine" auto="true">attain</normalised><lb/>
+this faith?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, by an <normalised orig="ordinarie" auto="true">ordinary</normalised> and <normalised orig="plaine" auto="true">plain</normalised> way, the<lb/>
+bearing of the <normalised orig="worde" auto="true">word</normalised> preached. <notvariant>Rom</notvariant>.14.17.<lb/>
+Gal. 3.2.<lb/>
+Secondly, by the <normalised orig="wonderfull" auto="true">wonderful</normalised> and <normalised orig="secrete" auto="true">secret</normalised> infusion<lb/>
+of Gods spirit.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. By what <normalised orig="meanes" auto="true">means</normalised> is this faith maintained<lb/>
+and strengthened in <normalised orig="vs" auto="true">us</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. 4. First by the word preached.<lb/>
+Secondly, by the <normalised orig="Sacramentes" auto="true">Sacraments</normalised>.<lb/>
+Thirdly, by discipline.<lb/>
+Fourthly, by Prayer.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is a Sacrament?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. A <normalised orig="signe" auto="true">sign</normalised> that may be <normalised orig="seene" auto="true">seen</normalised>, of grace that can<lb/>
+not be <normalised orig="seene" auto="true">seen</normalised>.<lb/>
+               </p>
+            </sp>
+            <pb n="14"/>
+            <sp who="a">
+               <p>Q. How many <normalised orig="sacramentes" auto="true">sacraments</normalised> are there?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Two, <normalised orig="Baptisme" auto="true">Baptism</normalised>, and the <normalised orig="Lordes" auto="true">Lords</normalised> Supper.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. In <normalised orig="Baptisme" auto="true">Baptism</normalised>, which is the <normalised orig="signe" auto="true">sign</normalised> that may<lb/>
+be <normalised orig="seene" auto="true">seen</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Water. <normalised orig="Iohn" auto="true">John</normalised>. 1.26.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Which is the grace that cannot be <normalised orig="seene" auto="true">seen</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The washing away of <normalised orig="sinnes" auto="true">sins</normalised> by the <normalised orig="bloud" auto="true">blood</normalised><lb/>
+of Christ. 1. <normalised orig="Iohn" auto="true">John</normalised>. 17.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. In the <normalised orig="Lordes" auto="true">Lords</normalised> Supper, which is the <normalised orig="signe" auto="true">sign</normalised><lb/>
+that may be <normalised orig="seene" auto="true">seen</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Bread and wine. <notvariant>Matth</notvariant>. 26.26.27<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Which is the grace, that cannot be <normalised orig="seene" auto="true">seen</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The <normalised orig="bodie" auto="true">body</normalised> and <normalised orig="bloud" auto="true">blood</normalised> of Christ. 1. Cor. 10.16.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. To the strengthening of our faith, how <normalised orig="manie" auto="true">many</normalised><lb/>
+<normalised orig="thinges" auto="true">things</normalised> <normalised orig="doe" auto="true">do</normalised> you principally <normalised orig="learne" auto="true">learn</normalised> by<lb/>
+<normalised orig="Baptisme" auto="true">Baptism</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, as water <normalised orig="washeth" auto="true">washes</normalised> away the <normalised orig="filthinesse" auto="true">filthiness</normalised><lb/>
+of the <normalised orig="fleshe" auto="true">flesh</normalised>: so the <normalised orig="bloud" auto="true">blood</normalised> of Christ <normalised orig="doth" auto="false">does</normalised><lb/>
+<normalised orig="washe" auto="true">wash</normalised> <normalised orig="awaye" auto="true">away</normalised> <normalised orig="sinne" auto="true">sin</normalised> from my <normalised orig="soule" auto="true">soul</normalised>. Mark.<lb/>
+1.4.<lb/>
+Secondly, I am taught to rise to <normalised orig="newnesse" auto="true">newness</normalised> of<lb/>
+life. <notvariant>Rom</notvariant>. 6.4.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. For the strengthening of your faith, <normalised orig="howe" auto="false">how</normalised><lb/>
+many <normalised orig="thinges" auto="true">things</normalised> <normalised orig="doe" auto="true">do</normalised> you principally <normalised orig="learne" auto="true">learn</normalised> in<lb/>
+the <normalised orig="Lordes" auto="true">Lords</normalised> Supper?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, as by the hand and mouth, my <normalised orig="bodie" auto="true">body</normalised><lb/>
+<normalised orig="receiueth" auto="true">receives</normalised> bread and wine, so by <normalised orig="fayth" auto="true">faith</normalised> my<lb/>
+<normalised orig="soule" auto="true">soul</normalised> <normalised orig="feedeth" auto="true">feeds</normalised> of the <normalised orig="bodie" auto="true">body</normalised> and <normalised orig="bloude" auto="true">blood</normalised> of<lb/>
+                  <pb n="15"/>
+                  <lb/>
+Christ. <normalised orig="Iohn" auto="true">John</normalised>. 6.35.<lb/>
+Secondly, <normalised orig="al" auto="true">all</normalised> the <normalised orig="benefites" auto="true">benefits</normalised> of <normalised orig="Christes" auto="true">Christ's</normalised> passion,<lb/>
+and his <normalised orig="righteousnesse" auto="true">righteousness</normalised>, are as surely sealed<lb/>
+by it to be mine, as if my <normalised orig="selfe" auto="true">self</normalised> had wrought<lb/>
+them. <notvariant>Rom</notvariant>. 4.25.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Is the bread and wine turned into the body<lb/>
+and <normalised orig="bloud" auto="true">blood</normalised> of Christ?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. No. For if you <normalised orig="turne" auto="true">turn</normalised> or take away the <normalised orig="signe" auto="true">sign</normalised><lb/>
+that may be <normalised orig="seene" auto="true">seen</normalised>, it is no Sacrament.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Going to the Supper of the <normalised orig="Lorde" auto="true">Lord</normalised>, what<lb/>
+ought a man to <normalised orig="doe" auto="true">do</normalised> principally?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Examine <normalised orig="himselfe" auto="true">himself</normalised>. 1. Cor. 11.28.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Why ought a man to examine <normalised orig="himselfe" auto="true">himself</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, because the <normalised orig="vnworthie" auto="true">unworthy</normalised> <normalised orig="receiuer" auto="true">receiver</normalised> is<lb/>
+<normalised orig="guiltie" auto="true">guilty</normalised> of the <normalised orig="bodie" auto="true">body</normalised> and <normalised orig="bloude" auto="true">blood</normalised> of Christ. 1.<lb/>
+Cor. 12.25.<lb/>
+Secondly, because he <normalised orig="prouoketh" auto="true">provokes</normalised> the <normalised orig="Lorde" auto="true">Lord</normalised> to<lb/>
+wrath, and so <normalised orig="eateth" auto="true">eats</normalised> and <normalised orig="drinketh" auto="true">drinks</normalised> his <normalised orig="owne" auto="true">own</normalised><lb/>
+damnation. 1. Cor. 11.29.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Whether may <normalised orig="fooles" auto="true">fools</normalised>, <normalised orig="madd" auto="true">mad</normalised> men, or children<lb/>
+be admitted to the Supper of the <normalised orig="Lorde" auto="true">Lord</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. No. For they cannot examine <normalised orig="themselues" auto="true">themselves</normalised><lb/>
+1. Cor. 11.28.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. In how many <normalised orig="thinges" auto="true">things</normalised> ought a man principally<lb/>
+to examine <normalised orig="himselfe" auto="true">himself</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, whether he <normalised orig="hath" auto="true">has</normalised> faith or no.<lb/>
+Secondly, whether he be <normalised orig="sorie" auto="true">sorry</normalised> for his <normalised orig="sinnes" auto="true">sins</normalised>, &amp;<lb/>
+<normalised orig="doth" auto="false">does</normalised> detest and <normalised orig="abhorre" auto="true">abhor</normalised> them.<lb/>
+                  <pb n="16"/>
+                  <lb/>
+Thirdly, whether he <normalised orig="hath" auto="true">has</normalised> sought reconciliation<lb/>
+with them to whom he <normalised orig="hath" auto="true">has</normalised> <normalised orig="geuen" auto="true">given</normalised> offence.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. God <normalised orig="knoweth" auto="true">knows</normalised> before wee <normalised orig="aske" auto="true">ask</normalised> what wee<lb/>
+<normalised orig="neede" auto="true">need</normalised>, so that he <normalised orig="neede" auto="true">need</normalised> not to be put in <normalised orig="mynd" auto="true">mind</normalised>,<lb/>
+he is not <normalised orig="slouthfull" auto="true">slothful</normalised> that he <normalised orig="neede" auto="true">need</normalised> to be stirred<lb/>
+<normalised orig="vp" auto="true">up</normalised>, he <normalised orig="hath" auto="true">has</normalised> appointed in his <normalised orig="prouide~ce" auto="false">providence</normalised> what<lb/>
+he <normalised orig="wil" auto="true">will</normalised> bestow, how, and when, therefore why<lb/>
+should we pray?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, to <normalised orig="stirre" auto="true">stir</normalised> <normalised orig="vp" auto="true">up</normalised> our <normalised orig="selues" auto="true">selves</normalised> to <normalised orig="seeke" auto="true">seek</normalised> him.<lb/>
+Secondly, to exercise our <normalised orig="selues" auto="true">selves</normalised> in meditating<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> his promises.<lb/>
+Thirdly, that we may discharge and <choice ana="illegible">
+                     <sic><notvariant>vnloa</notvariant>*e</sic>
+                     <corr><normalised orig="vnloade" auto="true">unload</normalised></corr>
+                  </choice>
+                  <lb/>
+our cares into the <normalised orig="bosome" auto="true">bosom</normalised> of God.<lb/>
+Fourthly, that we may <normalised orig="testifie" auto="true">testify</normalised> our <normalised orig="selues" auto="true">selves</normalised>, and<lb/>
+others, that wee hope and <normalised orig="aske" auto="true">ask</normalised> for all good<lb/>
+from God alone.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How <normalised orig="manie" auto="true">many</normalised> <normalised orig="thinges" auto="true">things</normalised> ought we to be <normalised orig="carefull" auto="true">careful</normalised><lb/>
+of in prayer?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. 5. First that we pray to God through Christ.<lb/>
+<normalised orig="Iohn" auto="true">John</normalised>. 16.23.<lb/>
+Secondly, that we be inwardly touched with<lb/>
+that we pray for. <notvariant>Rom</notvariant>. 8.26.<lb/>
+Thirdly, that they be grounded <normalised orig="vpon" auto="true">upon</normalised> Gods promises.<lb/>
+1. <normalised orig="Iohn" auto="true">John</normalised>. 5.14.<lb/>
+Fourthly, that wee <normalised orig="bee" auto="true">be</normalised> not <normalised orig="wearie" auto="true">weary</normalised> of prayer,<lb/>
+Luke. 18.1.<lb/>
+                  <choice ana="illegible">
+                     <sic>*<notvariant>ftly</notvariant></sic>
+                     <corr><notvariant>Fiftly</notvariant></corr>
+                  </choice>, that wee pray according to that rule,<lb/>
+which God <normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="geueth" auto="true">gives</normalised>. <notvariant>Matth</notvariant>. 6.9.<lb/>
+               </p>
+            </sp>
+            <pb n="17"/>
+            <sp who="a">
+               <p>Q. What <normalised orig="needes" auto="true">needs</normalised> the <normalised orig="riche" auto="true">rich</normalised> man daily to pray<lb/>
+for daily <choice ana="print">
+                     <sic><notvariant>bredad</notvariant></sic>
+                     <corr>bread</corr>
+                  </choice>, who <normalised orig="hath" auto="true">has</normalised> enough in store for<lb/>
+many <normalised orig="yeares" auto="true">years</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, he is to pray for the <normalised orig="poore" auto="true">poor</normalised> as for <normalised orig="himselfe" auto="true">himself</normalised>.<lb/>
+Secondly, his substance and dainties shall <normalised orig="doe" auto="true">do</normalised><lb/>
+him no good without Gods blessing.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <normalised orig="Howe" auto="false">How</normalised> <normalised orig="manie" auto="true">many</normalised> things <normalised orig="doe" auto="true">do</normalised> you pray for in this<lb/>
+petition: <quote type="biblical" ana="Mt 6.12"><normalised orig="Forgeue" auto="true">Forgive</normalised> <normalised orig="vs" auto="true">us</normalised> our</quote> &amp;c. <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, that God <normalised orig="woulde" auto="true">would</normalised> <normalised orig="forgiue" auto="true">forgive</normalised> <normalised orig="vs" auto="true">us</normalised> our trespasses.<lb/>
+Secondly, that we may be directed by him to<lb/>
+<normalised orig="forgiue" auto="true">forgive</normalised> one another.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How many lessons <normalised orig="learne" auto="true">learn</normalised> you out of it?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, that all men are sinners.<lb/>
+2. Man must <normalised orig="seeke" auto="true">seek</normalised> for <normalised orig="forgiuenes" auto="true">forgiveness</normalised>, for he cannot<lb/>
+<normalised orig="satisfie" auto="true">satisfy</normalised>.<lb/>
+3. None can <normalised orig="forgiue" auto="true">forgive</normalised> <normalised orig="sinnes" auto="true">sins</normalised> but God.<lb/>
+4. To the <normalised orig="enuious" auto="true">envious</normalised> man there is no <normalised orig="forgiuenesse" auto="true">forgiveness</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. In this <normalised orig="sixt" auto="true">sixth</normalised> petition, <quote type="biblical" ana="Mt 6.13"><normalised orig="Leade" auto="true">Lead</normalised> <normalised orig="vs" auto="true">us</normalised> not into temptation,<lb/>
+but <normalised orig="deliuer" auto="true">deliver</normalised> <normalised orig="vs" auto="true">us</normalised> from <normalised orig="euil" auto="true">evil</normalised>,</quote> What is <normalised orig="ment" auto="true">meant</normalised><lb/>
+by Led into temptation?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. To be <normalised orig="deliuered" auto="true">delivered</normalised> <normalised orig="bodie" auto="true">body</normalised> and <normalised orig="soule" auto="true">soul</normalised> to <normalised orig="Sathan" auto="true">Satan</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is meant by <normalised orig="euil" auto="true">evil</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The <normalised orig="diuell" auto="true">devil</normalised> and <normalised orig="sinne" auto="true">sin</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What pray you for in this petition?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. We pray that we be no further tempted than<lb/>
+God <normalised orig="geueth" auto="true">gives</normalised> <choice ana="print">
+                     <sic>gs</sic>
+                     <corr><normalised orig="vs" auto="true">us</normalised></corr>
+                  </choice> power to <normalised orig="beare" auto="true">bear</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="learne" auto="true">learn</normalised> you in this<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, that all Christians are in <normalised orig="warres" auto="true">wars</normalised>, and<lb/>
+                  <lb/>
+                  <fw type="pageNum">C2</fw>
+                  <pb n="18"/>
+                  <lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="neede" auto="true">need</normalised> to watch.<lb/>
+Secondly, we are all <normalised orig="weake" auto="true">weak</normalised>, and <normalised orig="haue" auto="true">have</normalised> <normalised orig="neede" auto="true">need</normalised> of<lb/>
+<normalised orig="helpe" auto="true">help</normalised>.<lb/>
+Thirdly, that <normalised orig="Sathan" auto="true">Satan</normalised> can <normalised orig="doe" auto="true">do</normalised> nothing, <normalised orig="vnlesse" auto="true">unless</normalised><lb/>
+God <normalised orig="giue" auto="true">give</normalised> <normalised orig="leaue" auto="true">leave</normalised>.<lb/>
+Fourthly, the <normalised orig="Lorde" auto="true">Lord</normalised> is our <normalised orig="deliuerer" auto="true">deliverer</normalised> from all<lb/>
+temptations.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How many things <normalised orig="learne" auto="true">learn</normalised> you out of the conclusion?<lb/>
+                  <quote type="biblical" ana="Mt 6.13">Thine is the <normalised orig="kingdome" auto="true">kingdom</normalised>, the power, and<lb/>
+<normalised orig="glorie" auto="true">glory</normalised>, for <normalised orig="euer" auto="true">ever</normalised> and <normalised orig="euer" auto="true">ever</normalised>.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, these <normalised orig="wordes" auto="true">words</normalised> <normalised orig="doe" auto="true">do</normalised> kindle our <normalised orig="heartes" auto="true">hearts</normalised>,<lb/>
+to desire the <normalised orig="glorie" auto="true">glory</normalised> of God.<lb/>
+Secondly, to ground <normalised orig="vpon" auto="true">upon</normalised> none but God.<lb/>
+Thirdly, that his <normalised orig="kingdome" auto="true">kingdom</normalised> is <normalised orig="mightie" auto="true">mighty</normalised> and<lb/>
+<normalised orig="euerlasting" auto="true">everlasting</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="meaneth" auto="true">means</normalised> this <normalised orig="worde" auto="true">word</normalised> Amen?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. It <normalised orig="signifieth" auto="true">signifies</normalised>, So be it, or, So it <normalised orig="shalbe" auto="true">shall be</normalised>: first <normalised orig="shewing" auto="true">showing</normalised><lb/>
+a <normalised orig="feruent" auto="true">fervent</normalised> desire to <normalised orig="haue" auto="true">have</normalised> that I <normalised orig="aske" auto="true">ask</normalised>.<lb/>
+Secondly, it is an assurance to my conscience,<lb/>
+that I shall <normalised orig="haue" auto="true">have</normalised> that I <normalised orig="aske" auto="true">ask</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Where <normalised orig="finde" auto="true">find</normalised> you the like examination of<lb/>
+the people after they <normalised orig="haue" auto="true">have</normalised> <normalised orig="bene" auto="true">been</normalised> taught.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. I <normalised orig="finde" auto="true">find</normalised> that our <normalised orig="Sauiour" auto="true">Saviour</normalised> Christ, after he had<lb/>
+taught, did <normalised orig="againe" auto="true">again</normalised> examine them, <normalised orig="howe" auto="false">how</normalised> they<lb/>
+had profited, and in examination did <normalised orig="teache" auto="true">teach</normalised><lb/>
+them further, in Matt. 13.51.and the. 16.13<lb/>
+14.15.17 and the. 17.25. <normalised orig="Iohn" auto="true">John</normalised>. 6.5.<lb/>
+                  FINIS <lb/>
+               </p>
+            </sp>
+
+        </div>
+      </body>
+   </text>
+</TEI>

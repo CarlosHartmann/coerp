@@ -1,0 +1,824 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Romes" auto="true">Rooms</normalised> Cruelty &amp; <normalised orig="Apostacie" auto="true">Apostasy</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="AnBu1664d">Burgess, Anthony</author>
+               <title type="main"><normalised orig="Romes" auto="true">Rooms</normalised> Cruelty &amp; <normalised orig="Apostacie" auto="true">Apostasy</normalised>: Declared in a Sermon Preached on the fifth of November, 1644. Before the Honourable House of Commons. By Anthony Burgess, <normalised orig="Pastour" auto="true">Pastor</normalised> of Sutton Colafield; A Member of the Assembly.</title>
+               <title type="short"><normalised orig="Romes" auto="true">Rooms</normalised> Cruelty &amp; <normalised orig="Apostacie" auto="true">Apostasy</normalised></title>
+               <date when="1645">1645</date>
+               <date type="this_edition" when="1645">1645</date>
+               <idno type="Wing">B5655</idno>
+               <note type="genre" subtype="pamphlet_sermon">sermon pamphlet</note>
+               <note type="sample" target="#AnBu1664d_1645_pamphlet_sermon_1"/>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="AnBu1664d_1645_pamphlet_sermon_1">
+            <div>
+               <head>A Sermon preached before the Honourable<lb/>
+House of Commons, the 5. of<lb/>
+November, 1644.<lb/>
+                  <lb/>
+REVEL.19.2.<lb/>
+For true and righteous are his judgements, for he <normalised orig="hath" auto="true">has</normalised><lb/>
+judged the great whore, which did corrupt the earth <lb/>
+with her fornication, and <normalised orig="hath" auto="true">has</normalised> avenged the <normalised orig="bloud" auto="true">blood</normalised> of<lb/>
+his servants at her hand.<lb/>
+               </head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+I Am not ignorant how much revelation is <lb/>
+necessary to understand this <normalised orig="Booke" auto="true">Book</normalised> of Revelation,<lb/>
+and that Interpreters themselves<lb/>
+need <normalised orig="interpretatio~" auto="true">interpretation</normalised>, <normalised orig="insomuch" auto="true">inasmuch</normalised> that the learned <lb/>
+Arias Montanas <normalised orig="relateth" auto="true">relates</normalised>, that though<lb/>
+he had thirty <normalised orig="yeares" auto="true">years</normalised> studied the Scripture,<lb/>
+with the <normalised orig="helpe" auto="true">help</normalised> of Expositors, he understood <normalised orig="onely" auto="true">only</normalised> one or<lb/>
+two Chapters, and therefore was wont to say, That the<lb/>
+Expositors were as hard to be understood as the Text.<lb/>
+There are some Comments that may be called <notvariant>NoValue</notvariant>
+                  <lb/>
+obscurities upon the Revelation: yet for all<lb/>
+this, none may bring an ill report upon this <normalised orig="Booke" auto="true">Book</normalised> that<lb/>
+<normalised orig="floweth" auto="true">flows</normalised> with <normalised orig="Milke" auto="true">Milk</normalised> and Honey, though there may be<lb/>
+Anakims, great objections in the way, for the Scripture<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="2">B</fw>
+                  <pb n="1"/>
+                  <lb/>
+<normalised orig="calleth" auto="true">calls</normalised> them blessed, and wise that understand these mysteries;<lb/>
+and the difficulties are, to shake of our negligence,<lb/>
+and to quicken our desire to know, as Basil said, Nature<lb/>
+had guarded the Rose with <normalised orig="prickes" auto="true">pricks</normalised>, that so the danger<lb/>
+to get it, might the more irritate to have it. Besides, the<lb/>
+book being full of Prophecies, it's congruous, they should<lb/>
+be <normalised orig="cloathed" auto="true">clothed</normalised> with some obscurities: Therefore we wonder<lb/>
+at the <normalised orig="boldnesse" auto="true">boldness</normalised> of the ancient Monks, who were neither<lb/>
+<normalised orig="skilfull" auto="true">skilful</normalised> in the tongues, or Scripture, that yet would<lb/>
+adventure to open this sealed Book, which how happily<lb/>
+they have done <normalised orig="appeareth" auto="true">appears</normalised> in their expounding the very<lb/>
+first word Apocalypsis, which (they say) <normalised orig="commeth" auto="true">comes</normalised> of <notvariant>NoValue</notvariant>
+                  <lb/>
+and clipsor clipsaris, i. e. velo velas.<lb/>
+The subject that I have pitched upon, is not <normalised orig="clogg'd" auto="true">clogged</normalised><lb/>
+with any of these Objections, for they are part of that<lb/>
+song, which a Company in Heaven praised God with, for<lb/>
+his judgements upon Rome, and the <normalised orig="summe" auto="true">sum</normalised> of their<lb/>
+thanksgiving is <normalised orig="generall" auto="true">general</normalised>, All his <quote type="biblical" ana="Ps 119.75">judgements are right</quote>.<lb/>
+2. <normalised orig="Parcticularly" auto="false">particularly</normalised>, upon the Church of Rome, who is called<lb/>
+Babylon, because of her oppression and captivating the<lb/>
+people of God; and whore, because of her corrupt falsehoods<lb/>
+and idolatries; and great whore, because of her<lb/>
+<normalised orig="universall" auto="true">universal</normalised> corrupting the whole earth; she is also described<lb/>
+by her cruelty, she had shed the <normalised orig="bloud" auto="true">blood</normalised> of Gods<lb/>
+Servants; yea, Chap.18. the <normalised orig="bloud" auto="true">blood</normalised> of all the Saints,(those<lb/>
+that were murdered elsewhere, are yet said to be found<lb/>
+in her.)<lb/>
+Before I come to the Doctrines, I must <normalised orig="cleare" auto="true">clear</normalised> one<lb/>
+doubt, and that is, Whether this City be Rome, or no?<lb/>
+For as the <normalised orig="Jewes" auto="true">Jews</normalised> <normalised orig="looke'd" auto="false">looked</normalised> for another kind of Christ then<lb/>
+the true Messias, so Papists for another kind of Antichrist<lb/>
+then the Scripture holds forth: And as Christ is <lb/>
+proved to be the Messias not by one property <normalised orig="onely" auto="true">only</normalised> (for<lb/>
+                  <pb n="2"/>
+                  <lb/>
+that may agree to another) but all the Characters together:<lb/>
+so is Antichrist to be found out by the accumulation<lb/>
+of all <normalised orig="markes" auto="true">marks</normalised> together. Now that Rome is this City<lb/>
+<normalised orig="appeareth" auto="true">appears</normalised>; Rev.17.18. The woman (which is the same<lb/>
+with Babylon and the whore in my Text) is said to have<lb/>
+power over all the kings of the earth; and this was only<lb/>
+the <normalised orig="Romane" auto="true">Roman</normalised> Monarchy at that time.<lb/>
+2. She is called emphatically <notvariant>NoValue</notvariant>, now Rome<lb/>
+was <normalised orig="onely" auto="true">only</normalised> the famous City, being called urbs
+                  <notvariant>NoValue</notvariant>.<lb/>
+3. This City is said to be set on seven <normalised orig="hils" auto="true">hills</normalised>: Chap. 17.9.<lb/>
+which <normalised orig="doth" auto="true">does</normalised> only agree to Rome, called <notvariant>NoValue</notvariant>, and howsoever<lb/>
+Mountacutius would prove this true of <normalised orig="Constantinople" auto="true">Constantine</normalised>;<lb/>
+yet if it were so, it is so obscure in story that it is<lb/>
+not to be regarded; and this is so <normalised orig="cleare" auto="true">clear</normalised> that <notvariant>Bellarmine</notvariant><lb/>
+<normalised orig="confesseth" auto="true">confesses</normalised> it, but then he <normalised orig="addeth" auto="true">adds</normalised>, this was true of Rome,<lb/>
+while it was Ethnicall, and not now <normalised orig="Papall" auto="true">Papal</normalised>: That this<lb/>
+is false <normalised orig="appeareth" auto="true">appears</normalised> in that Antichrist is to be in the Temple<lb/>
+of God, which was not true of the Heathen <normalised orig="Emperours" auto="true">Emperors</normalised>.<lb/>
+2. <normalised orig="'Tis" auto="true">It is</normalised> such a Babylon that for a while they were lawfully<lb/>
+in her, but when her corruptions did increase, then <lb/>
+they were commanded to depart, which could not be affirmed<lb/>
+of Rome paganish.<lb/>
+This being premised, I observe two Doctrines.<lb/>
+1. That the Church of Rome is greatly apostatized from<lb/>
+her former true faith.<lb/>
+She that was a Matron is become an whore: She <normalised orig="succeedes" auto="true">succeeds</normalised> <lb/>
+her <normalised orig="predecessours" auto="true">predecessors</normalised>, as Vespæ succedant apibus, as<lb/>
+<normalised orig="waspes" auto="true">wasps</normalised> come into the nests of Bees; Nor is it any<lb/>
+matter that they have the Creed and many externals of <lb/>
+Religion, habent enim &amp; vespæ suos favos, the <normalised orig="Waspes" auto="true">Wasps</normalised> have<lb/>
+their <normalised orig="combes" auto="true">combs</normalised> also, though no honey in them, as Tertullian<lb/>
+said, The time was when such a point as this might not<lb/>
+be pressed, There was a law that no body should <normalised orig="eate" auto="true">eat</normalised> of<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="4">B 2</fw>
+                  <pb n="3"/>
+                  <lb/>
+this honey, but since God raised up you, Honourable Patriots,<lb/>
+Truth, like Sampson, <normalised orig="hath" auto="true">has</normalised> broke all the cords she<lb/>
+was <normalised orig="tyed" auto="true">tied</normalised> in.<lb/>
+Obs.2. That <normalised orig="Romes" auto="true">Rooms</normalised> corrupt <normalised orig="wayes" auto="true">ways</normalised> are <normalised orig="accompanyed" auto="true">accompanied</normalised> with<lb/>
+<normalised orig="bloudy" auto="true">bloody</normalised> cruelties.<lb/>
+I will begin with the last first, and <normalised orig="shew" auto="true">show</normalised>, they are <normalised orig="bloudy" auto="true">bloody</normalised>,<lb/>
+partly doctrinally, and partly practically.<lb/>
+Doctrinally, in these Positions:<lb/>
+1. In maintaining the Popes power over all <normalised orig="temporall" auto="true">temporal</normalised><lb/>
+<normalised orig="Kingdomes" auto="true">Kingdoms</normalised>, for the Pope, like the <normalised orig="divell" auto="true">devil</normalised>, will <normalised orig="shew" auto="true">show</normalised><lb/>
+all the glory of a <normalised orig="kingdome" auto="true">kingdom</normalised>, and give it to some creature<lb/>
+of his, if he will continue to worship him, and how <normalised orig="bloudy" auto="true">bloody</normalised><lb/>
+this principle <normalised orig="hath" auto="true">has</normalised> been, all that <normalised orig="reade" auto="true">read</normalised> histories know. It<lb/>
+is true, <notvariant>Bellarmine</notvariant> <normalised orig="useth" auto="true">uses</normalised> many distinctions in the asserting<lb/>
+of this power, for the <normalised orig="Jesuites" auto="true">Jesuits</normalised> in all their controversies<lb/>
+strive who shall <normalised orig="shew" auto="true">show</normalised> the most <normalised orig="subtilty" auto="false">subtlety</normalised>, as Apelles and an<lb/>
+other Painter contended, who should draw the smallest<lb/>
+line. But as for other Authors they maintained this power<lb/>
+of the Popes more boldly and more ignorantly. How<lb/>
+learned was that argument, because it's said, In principo,<lb/>
+not principiis, in the beginning, not the beginnings, therefore<lb/>
+there was but one supreme power, and that was the<lb/>
+Popes.<lb/>
+2. That an <normalised orig="heretique" auto="true">heretic</normalised>, for <normalised orig="heresie" auto="true">heresy</normalised> sake, and in point of<lb/>
+Conscience, though he <normalised orig="doe" auto="true">do</normalised> not trouble the state, ought to<lb/>
+be put to death; this also makes to the effusion of much<lb/>
+<normalised orig="bloud" auto="true">blood</normalised>. There are in this <normalised orig="controversie" auto="true">controversy</normalised> two <normalised orig="extreames" auto="true">extremes</normalised>, the<lb/>
+Papists on one side, who are for <normalised orig="corporall" auto="true">corporal</normalised> death, and the <lb/>
+<normalised orig="cruell" auto="true">cruel</normalised> burning of those who dissent from their Church.<lb/>
+                  Qui hereticos occidendos negant, de seipsis solliciti sunt, faith<lb/>
+                  Maldonat. And the other of the Socinias, who would<lb/>
+have no outward forcible restraining of any error, though<lb/>
+never so <normalised orig="grosse" auto="true">gross</normalised> and pernicious; certainly the Magistrate<lb/>
+                  <pb n="4"/>
+                  <lb/>
+is so to <normalised orig="walke" auto="true">walk</normalised> that he be neither guilty of <normalised orig="remissenesse" auto="true">remissness</normalised> and<lb/>
+want of <normalised orig="zeale" auto="true">zeal</normalised>, nor yet of unwarrantable severity. Meisnor<lb/>
+<normalised orig="doth" auto="true">does</normalised> well distinguish between hæreticus simplex, and hæreticus<lb/>
+seditiosus ac blasphemus, these last he saith may be<lb/>
+punished with <normalised orig="capitall" auto="true">capital</normalised> punishments; but the Pope and his<lb/>
+<normalised orig="complices" auto="true">accomplices</normalised> hold otherwise. For when they have <normalised orig="anathematiz'd" auto="false">anathematised</normalised> <lb/>
+a nation or people, ne bruta essent fulmina, they<lb/>
+inflame kings, and provoke them to destroy all with<lb/>
+sword and fire; Thus cum solitudinem fecerunt, pacem appellant;<lb/>
+they call an utter desolation, peace. And this further <lb/>
+makes their opinion <normalised orig="bloudy" auto="true">bloody</normalised>, that they will judge<lb/>
+what <normalised orig="heresie" auto="true">heresy</normalised> is. How much <normalised orig="bloud" auto="true">blood</normalised> in France, Germany,<lb/>
+and other parts <normalised orig="hath" auto="true">has</normalised> this doctrine shed?<lb/>
+3. That no <normalised orig="publike" auto="true">public</normalised> faith or promise is to be kept with<lb/>
+such <normalised orig="heretiques" auto="true">heretics</normalised>. As if Christiana fides and punica were all<lb/>
+one. Who <normalised orig="hath" auto="true">has</normalised> not read of the sad Convenant-breach with<lb/>
+<normalised orig="Iohn" auto="true">John</normalised> Huss, by the <normalised orig="Emperour" auto="true">Emperor</normalised> Sigismund, being provoked<lb/>
+thereunto by the Papists, and Ioannes de Roma, a Priest,<lb/>
+said, that in the destruction of the Lutherans, Judges were<lb/>
+not bound to follow law, or reason. But how contrary is <lb/>
+this to Scripture, we have a <normalised orig="fearfull" auto="true">fearful</normalised> instance in the Prophet<lb/>
+Ezekiel, of Zedekiah the King, who brake his faith<lb/>
+with the king of Babylon: how <normalised orig="doth" auto="true">does</normalised> God take notice of<lb/>
+this sin especially, and punish him for it? Yea, did not the<lb/>
+Heathens by the Moon-light of nature see this, and therefore<lb/>
+how much admired is that <normalised orig="Romane" auto="true">Roman</normalised>, who kept his<lb/>
+faith with Carthage, though he knew it would be his desperate<lb/>
+<normalised orig="ruine" auto="true">ruin</normalised>? And did not God punish Sauls posterity,<lb/>
+for the breach of his Covenant with the Gibeonites,<lb/>
+though it was deceitfully obtained? How true <normalised orig="doe" auto="true">do</normalised> they<lb/>
+make that old <normalised orig="proverbe" auto="true">proverb</normalised>, Men play with oaths, as children<lb/>
+with <normalised orig="shels" auto="true">shells</normalised>?<lb/>
+4. That <normalised orig="mentall" auto="true">mental</normalised> Reservations and Equivocations are<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="6">B 3</fw>
+                  <pb n="5"/>
+                  <lb/>
+<normalised orig="lawfull" auto="true">lawful</normalised>; This also must needs overthrow state constitutions,<lb/>
+though adamantine, for seeing that truth and words<lb/>
+they are the <normalised orig="sinewes" auto="true">sinews</normalised> and ligaments of the body <normalised orig="politicke" auto="true">politic</normalised>,<lb/>
+if these be cut and dissolved, how can the body stand?<lb/>
+What celusions of Magistrates? What evasions of righteous<lb/>
+judgements? What <normalised orig="insnaring" auto="true">ensnaring</normalised> of innocent men?<lb/>
+what doubling in <normalised orig="oathes" auto="true">oaths</normalised> will there be by this <normalised orig="meanes" auto="true">means</normalised>?<lb/>
+How can an oath be an end of a <normalised orig="controversie" auto="true">controversy</normalised> if this be <lb/>
+allowed? O <normalised orig="ye" auto="true">you</normalised> holy Martyrs lay aside your glorious<lb/>
+Robes of immortality, you died like <normalised orig="fooles" auto="true">fools</normalised>, and were<lb/>
+guilty of your <normalised orig="owne" auto="true">own</normalised> <normalised orig="bloud" auto="true">blood</normalised>, when as you might have<lb/>
+<normalised orig="denyed" auto="true">denied</normalised>, and <normalised orig="forsworne" auto="true">forsworn</normalised> all by <normalised orig="mentall" auto="true">mental</normalised> Reservations.<lb/>
+Aquinas saith well, That an oath is for practicals, what<lb/>
+first Principles are for speculatives; and as any conclusion<lb/>
+will easily be granted, which <normalised orig="shineth" auto="true">shines</normalised> by the light of<lb/>
+the first principles; so that fact must be submitted to,<lb/>
+which is confirmed by an oath. But by this doctrine, first<lb/>
+Principles in societies are quite extinguished. It is true,<lb/>
+there are some Papists, that <normalised orig="doe" auto="true">do</normalised> write against these Jesuiticall<lb/>
+assertions; but they are not considerable, nor <normalised orig="doth" auto="true">does</normalised><lb/>
+the Pope of Rome <normalised orig="looke" auto="true">look</normalised> upon such as his abettors.<lb/>
+How <normalised orig="doth" auto="true">does</normalised> the <normalised orig="morall" auto="true">moral</normalised> honesty of Heathens exceed their<lb/>
+piety, for Tully <normalised orig="doth" auto="true">does</normalised> relate among the examples malæ fidei,<lb/>
+that fact of a <normalised orig="souldier" auto="true">soldier</normalised>, prisoner, who by Hannibals permission<lb/>
+had leave to <normalised orig="goe" auto="true">go</normalised> out upon his oath, that he would<lb/>
+<normalised orig="returne" auto="true">return</normalised> <normalised orig="againe" auto="true">again</normalised>, and he <normalised orig="returneth" auto="true">returns</normalised> prefently, pretending he<lb/>
+had forgot something, and so by this, thought <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+freed from his oath.<lb/>
+5. That there is an absolute necessity of concealing all<lb/>
+things revealed in auricular Confession; and this doctrine<lb/>
+<normalised orig="hath" auto="true">has</normalised> been a private backway to let in horrible <lb/>
+conspiracies and murders, Nullum tantum malum esse potest<lb/>
+cujus vitandi causa confessionem prodere liceat, and <notvariant>Bellarmine</notvariant><lb/>
+                  <pb n="6"/>
+                  <lb/>
+<normalised orig="praiseth" auto="true">praises</normalised> Garnet, that would not <normalised orig="reveale" auto="true">reveal</normalised> this Gunpowder<lb/>
+treason; because(forsooth) confession (as<lb/>
+they say) is De jure Divino, and <normalised orig="temporall" auto="true">temporal</normalised> authority de <lb/>
+jure humano, leviori damno reges omnes quotquot sund occidentur<lb/>
+quam vel una confessio revelaretur, Casaubon saith,<lb/>
+this was a <normalised orig="Jesuites" auto="true">Jesuits</normalised> speech to him; I wonder whether they<lb/>
+would hide it, if there were a <normalised orig="conspiracie" auto="true">conspiracy</normalised> to kill the Pope?<lb/>
+Thus you see how all their opinions are with Dracoes<lb/>
+written in <normalised orig="bloud" auto="true">blood</normalised>. But there was one Jesuite escaped<lb/>
+well in this matter of Confession, his name was father<lb/>
+Aubigney, who in the <normalised orig="bloudy" auto="true">bloody</normalised> fact of Ravilliack, being called<lb/>
+in question, and demanded, what was revealed to<lb/>
+him? He <normalised orig="replyed" auto="true">replied</normalised> this answer, that God had given him<lb/>
+this grace, that whatsoever was told him in Confession,<lb/>
+he presently by a miracle forgot it, and for all the world<lb/>
+could not remember it <normalised orig="againe" auto="true">again</normalised>. I <normalised orig="thinke" auto="true">think</normalised> if this answer saved<lb/>
+him, it was the best grace ever God bestowed on him.<lb/>
+6. That the <normalised orig="Clergie" auto="true">Clergy</normalised> are exempted from subjection,<lb/>
+and so cannot be guilty of <normalised orig="treasinable" auto="false">treasonable</normalised> practises: Clerici<lb/>
+rebellio in regem, non est crimen læsæ Majestatis, quia non est<lb/>
+subditus regi, and if so, what <normalised orig="wickednesse" auto="true">wickedness</normalised> may be committed<lb/>
+by them without any <normalised orig="controll" auto="true">control</normalised>. That same distinction<lb/>
+of <normalised orig="Clergie" auto="true">Clergy</normalised> and Laity, though it <normalised orig="hath" auto="true">has</normalised> been used<lb/>
+well enough in an Ecclesiastique sense for distinction<lb/>
+sake, yet in the popish way is very detestable, for hereby<lb/>
+they hold themselves so the inheritance and portion of<lb/>
+God, that they are exempt from all jurisdiction; and I <lb/>
+know not how many <normalised orig="temporall" auto="true">temporal</normalised> <normalised orig="governours" auto="true">governors</normalised> have given<lb/>
+way too much hereunto; now <normalised orig="doth" auto="true">does</normalised> not this assertion directly<lb/>
+oppose Ro~.12.1. Let every soul, &amp;c? and what is more <lb/>
+<normalised orig="knowne" auto="true">known</normalised> then that Explication of <normalised orig="Chrysostome" auto="true">Chrisostome</normalised>, Every soul,<lb/>
+though he be a monk, a priest, though he be never so <normalised orig="spirituall" auto="true">spiritual</normalised>,<lb/>
+as they call it, is understood here by the Apostle. <lb/>
+                  <pb n="7"/>
+                  <lb/>
+7. That blind Obedience unto <normalised orig="Governours" auto="true">Governors</normalised> is necessary,<lb/>
+and you may easily see what knives and swords this<lb/>
+opinion <normalised orig="hath" auto="true">has</normalised> in it: Let in this upon a people, that whatsoever<lb/>
+the Pope and his Officers shall command to be<lb/>
+done, though it be to destroy an whole <normalised orig="kingdome" auto="true">kingdom</normalised>; yet it <lb/>
+must without any disputation be obeyed: Let in this<lb/>
+doctrine, and you let in the Trojan horse; It's no wonder,<lb/>
+if they hold this in matter of fact, when they also maintain <lb/>
+it in matter of faith. That it is better defined by ignorance<lb/>
+then knowledge. Thus what Seneca complained<lb/>
+of, as a great <normalised orig="weaknesse" auto="true">weakness</normalised> among people, That homines<lb/>
+malunt credere quam judicare, and they <normalised orig="doe" auto="true">do</normalised> receive all worship<lb/>
+of God, tanquam legibus jussum,, rather then diis gratum,<lb/>
+will be made a <normalised orig="vertue" auto="true">virtue</normalised> in these men; yea, that they do<lb/>
+                  mereri credendo, even by <normalised orig="beleeving" auto="true">believing</normalised> so stupidly they merit.<lb/>
+Thus when these Philistines have put out <normalised orig="mens" auto="true">men's</normalised> eyes,<lb/>
+they will make them drudge in what Mils they please.<lb/>
+8. That the Pope may dispense in all <normalised orig="vowes" auto="true">vows</normalised> and promiles,<lb/>
+and obligations, and who <normalised orig="knowes" auto="true">knows</normalised> not how England<lb/>
+<normalised orig="hath" auto="true">has</normalised> been like Egypt, all the waters of it turned into<lb/>
+<normalised orig="bloud" auto="true">blood</normalised> by this doctrine? How have Popes absolved <normalised orig="poeple" auto="false">people</normalised><lb/>
+from their oaths and all <normalised orig="civill" auto="true">civil</normalised> obligations whatsoever?<lb/>
+and that the <normalised orig="Jesuites" auto="true">Jesuits</normalised> they are like those heathen priests<lb/>
+that had snakes in one hand and firebrands in the other,<lb/>
+and by this <normalised orig="meanes" auto="true">means</normalised> the Papists have wrought themselves<lb/>
+out of all credit, that let what protestations, imprecations,<lb/>
+and obtestations be made by them; yet because the <lb/>
+Pope can so easily untie such knots, what trust can be given <lb/>
+to them? Well therefore is that <normalised orig="Antichirst" auto="false">Antichrist</normalised> set forth<lb/>
+by the Dragon in the Rev. who is both <normalised orig="subtile" auto="true">subtle</normalised> and <normalised orig="bloudy" auto="true">bloody</normalised>,<lb/>
+and as Bernard said of the <normalised orig="Divell" auto="true">Devil</normalised> in tempting of <normalised orig="mens" auto="true">men's</normalised><lb/>
+<normalised orig="soules" auto="true">souls</normalised>, vereor magis serpentem glinscentem, quant leonem<lb/>
+rugientem: the same we may apply to them.<lb/>
+                  <pb n="8"/>
+                  <lb/>
+9. That to slay their enemies, it is <normalised orig="lawfull" auto="true">lawful</normalised> to kill their<lb/>
+friends, if as much good will come by the one, as hurt by <lb/>
+the other; and this is true in our case this day, for when<lb/>
+Catesby asked Garnet, <normalised orig="Wether" auto="true">Whether</normalised> it was <normalised orig="lawfull" auto="true">lawful</normalised> to blow up<lb/>
+in the Parliament the innocent with nocent, he answered,<lb/>
+it was <normalised orig="lawfull" auto="true">lawful</normalised> to kill friends in the destruction of<lb/>
+enemies, if so much good would arise as might <normalised orig="recompence" auto="true">recompense</normalised> <lb/>
+the slaughter of the innocent. How contrary are<lb/>
+those to God, God would save <normalised orig="Sodome" auto="true">Sodom</normalised>, if there were ten<lb/>
+Righteous, and these would destroy Jerusalem for ten<lb/>
+wicked <normalised orig="mens" auto="true">men's</normalised> sakes; and I remember a story of a popish<lb/>
+Duke, who when he was <normalised orig="askt" auto="true">asked</normalised> by his <normalised orig="souldiers" auto="true">soldiers</normalised>, Whether<lb/>
+they should kill friends or no in killing their enemies? he<lb/>
+returned his answer, Yes,Deus enim novit, qui ejus sunt,<lb/>
+God will know well enough at the day of judgement,<lb/>
+which are his. How <normalised orig="bloudy" auto="true">bloody</normalised> and <normalised orig="cruell" auto="true">cruel</normalised> then, must they<lb/>
+<normalised orig="needes" auto="true">needs</normalised> be, who will kill their own to kill others.<lb/>
+10. To praise and defend those that have <normalised orig="dyed" auto="true">died</normalised> their<lb/>
+hands in <normalised orig="bloud" auto="true">blood</normalised>. Learned men relate many things out<lb/>
+of the Papists to this purpose; That which <normalised orig="concerneth" auto="true">concerns</normalised><lb/>
+our case this day, This inhumane <normalised orig="bloudy" auto="true">bloody</normalised> Conspiracy,<lb/>
+wherein they had Nero's wish of Rome, that England had<lb/>
+but one neck, and they cut it off, yet this is mitigated by<lb/>
+them, Magna mihi opinio est fælicis eorum exitus &amp; salutio,<lb/>
+qui etsi in consilio operea peccassent, constantes tamen in fide<lb/>
+Romanæ Ecclesiæ ex hac luce discesserunt. You see here is an<lb/>
+                  etsi peccassent, and in these <normalised orig="bloudy" auto="true">bloody</normalised> acts they confirmed<lb/>
+themselves by the Sacrament, as if that were the <normalised orig="seale" auto="true">seal</normalised> of <lb/>
+other <normalised orig="mens" auto="true">men's</normalised> <normalised orig="bloud" auto="true">blood</normalised>, and not Christs.<lb/>
+And as for their <normalised orig="cruell" auto="true">cruel</normalised> practises take these instances:<lb/>
+1. Concerning the Waldenses and poor Albigenses,<lb/>
+although we have little certainty of their opinions, they<lb/>
+being for the most part reported by popish Authors, yet<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="10">C</fw>
+                  <pb n="9"/>
+                  <lb/>
+of the cruelty used against them, how many sad witnesses<lb/>
+have we? It would make your <normalised orig="haire" auto="true">hair</normalised> to stand upright<lb/>
+with <normalised orig="horrour" auto="true">horror</normalised>. How many thousands of them have<lb/>
+been murdered in a day? and not content with their innocent<lb/>
+<normalised orig="bloud" auto="true">blood</normalised>, they did waste all the <normalised orig="forrest" auto="true">forest</normalised> and trees, as if<lb/>
+with Manichees, they had thought the trees had a <normalised orig="rationall" auto="true">rational</normalised><lb/>
+life, and that to cut <normalised orig="downe" auto="true">down</normalised> a tree had been homicidium,<lb/>
+as the Manichees fancied.<lb/>
+2. In France, what an ocean of <normalised orig="bloud" auto="true">blood</normalised> <normalised orig="hath" auto="true">has</normalised> been shed<lb/>
+there, sometimes by conspiracies and massacres; sometimes <lb/>
+by open hostile <normalised orig="waies" auto="true">ways</normalised>, and howsoever it be true,<lb/>
+that the Protestants there in defence of their toleration,<lb/>
+which was confirmed to them by law, did also shed<lb/>
+much <normalised orig="bloud" auto="true">blood</normalised>, yet that was only defensive, and <normalised orig="bloud" auto="true">blood</normalised> must<lb/>
+be charged upon that side which did unjustly, and unrighteously<lb/>
+begin to <normalised orig="warre" auto="true">war</normalised>. And do but observe wheresoever<lb/>
+the Pope and his Agents have had to <normalised orig="doe" auto="true">do</normalised>, that at<lb/>
+last all <normalised orig="hath" auto="true">has</normalised> ended in <normalised orig="bloud" auto="true">blood</normalised>.<lb/>
+3. That in <normalised orig="Queene" auto="true">Queen</normalised> <normalised orig="Maries" auto="true">Mary's</normalised> <normalised orig="dayes" auto="true">days</normalised>, and this <normalised orig="bloud" auto="true">blood</normalised> is not <lb/>
+yet dried up: How fresh are all the Stories of those <normalised orig="spirituall" auto="true">spiritual</normalised><lb/>
+Nero's in our <normalised orig="mindes" auto="true">minds</normalised>? what was Bonner or Gardner,<lb/>
+but as they said of Nero <notvariant>NoValue</notvariant>: Howsoever<lb/>
+they labour to calumniate that book of Martyrs (as<lb/>
+we have had some a-late could not abide it) calling it a<lb/>
+lying legend, yet it <normalised orig="layeth" auto="true">lays</normalised> such a blemish upon them,<lb/>
+that the holy water of Rome cannot cleanse them<lb/>
+from it.<lb/>
+4. In Ireland, alas! whose hearts have not been affected<lb/>
+with those <normalised orig="dolefull" auto="true">doleful</normalised> Tragedies there? How have they<lb/>
+<normalised orig="truelly" auto="false">truly</normalised> devoured, and spared no more then <normalised orig="Tygers" auto="true">Tigers</normalised> or<lb/>
+Wolves? But this may support us, that the <normalised orig="bloud" auto="true">blood</normalised> of<lb/>
+Gods people <normalised orig="hath" auto="true">has</normalised> a two-fold notable effect:<lb/>
+1. It <normalised orig="speaketh" auto="true">speaks</normalised> and <normalised orig="cryeth" auto="true">cries</normalised>: Oh what a loud cry is there<lb/>
+                  <pb n="10"/>
+                  <lb/>
+in Ireland, which God will not always refuse: Abel<lb/>
+though dead <normalised orig="speaketh" auto="true">speaks</normalised>.<lb/>
+2. It makes <normalised orig="fruitfull" auto="true">fruitful</normalised>, and it is the semen Ecclesiæ, even<lb/>
+as when you shake one ripe flower, for one seed there<lb/>
+<normalised orig="commeth" auto="true">comes</normalised> up many.<lb/>
+5. In their attempt upon England this day: The particulars<lb/>
+of this <normalised orig="Tragedie" auto="true">Tragedy</normalised> are so <normalised orig="knowne" auto="true">known</normalised>, that to relate them<lb/>
+would be to weary you: consider the <normalised orig="horridnesse" auto="true">horridness</normalised> of the<lb/>
+plot, at one blow to destroy an whole nation. <normalised orig="Thinke" auto="true">Think</normalised> O<lb/>
+Lucifer, and imagine, O prince of <normalised orig="darknesse" auto="true">darkness</normalised>, a more <lb/>
+<normalised orig="bloudy" auto="true">bloody</normalised> attempt if thou <normalised orig="canst" auto="true">can</normalised>. What <normalised orig="darknesse" auto="true">darkness</normalised> would have<lb/>
+covered the land? How would <normalised orig="Sunne" auto="true">Sun</normalised> and <normalised orig="Moone" auto="true">Moon</normalised>,<lb/>
+(the great ones of the state) been turned into <normalised orig="bloud" auto="true">blood</normalised>? How<lb/>
+had the Philistines taken the <normalised orig="Arke" auto="true">Arc</normalised>, our Ministers been<lb/>
+turned into <normalised orig="Friers" auto="true">Friars</normalised>, our Bibles into images, our Tables into<lb/>
+altars; yea, our Heaven turned immediately into an hell?<lb/>
+All this was a plotting &amp; sol non sudas? &amp; terra non contremiscis?
+                  <lb/>
+How would the <normalised orig="Kingdome" auto="true">Kingdom</normalised> have been like an<lb/>
+Egypt, when every house had one dead in it? We cry out<lb/>
+of Herods cruelty, that would have killed all the children<lb/>
+of two <normalised orig="yeares" auto="true">years</normalised> old: Here is greater <normalised orig="bloudinesse" auto="false">bloodyness</normalised>, even to destroy<lb/>
+all in a Nation, O innocent Catiline and Verres to <lb/>
+these men: and are these the men that cry up Charity,<lb/>
+that hold it <normalised orig="justifieth" auto="true">justifies</normalised>? Are these the men that admire S<hi rend="high">t</hi>
+                  <lb/>
+Francis his pity, because he would not kill a Flea, when<lb/>
+they can destroy an whole <normalised orig="Kingdome" auto="true">Kingdom</normalised>? What and to be<lb/>
+Saints for all this? Shall we, with Paul and Peter and the<lb/>
+other Saints, see Catesby and Faux, and that company<lb/>
+also?<lb/>
+Use of Exhoration, to loath that Religion, take heed<lb/>
+of <normalised orig="connivence" auto="false">connivance</normalised> at those snakes, which when they are<lb/>
+warm will sting and poison. Oh this <normalised orig="connivence" auto="false">connivance</normalised> at Popery,<lb/>
+how <normalised orig="hath" auto="true">has</normalised> God avenged <normalised orig="himselfe" auto="true">himself</normalised> upon Ireland and<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="12">C 2</fw>
+                  <pb n="11"/>
+                  <lb/>
+England for it, we have <normalised orig="complyed" auto="true">complied</normalised> with their <normalised orig="waies" auto="true">ways</normalised>, and<lb/>
+now God <normalised orig="hath" auto="true">has</normalised> made them <normalised orig="wofull" auto="true">woeful</normalised> scourges to us, may we<lb/>
+not say, that the Lord <normalised orig="hath" auto="true">has</normalised> made them, as the Iebusues<lb/>
+and Canaanites to us. In quo quis peccat, in eo punitur:<lb/>
+<normalised orig="Thinke" auto="true">Think</normalised> not that your estates, and goods will content<lb/>
+them, it must be your God, and your lives; when <normalised orig="yee" auto="true">ye</normalised> are<lb/>
+willing your <normalised orig="soules" auto="true">souls</normalised> should be damned, and your bodies<lb/>
+killed, then <normalised orig="thinke" auto="true">think</normalised> of <normalised orig="reconcilation" auto="true">reconciliation</normalised> with the Church of<lb/>
+Rome. Puniantur a te, ne tu pro illis puniaris: let them be<lb/>
+punished by you, <choice ana="print-error">
+                     <sic>lest</sic>
+                     <corr>let</corr>
+                  </choice> you be punished for them; Execute<lb/>
+you the judgement of the Lord upon them, as <normalised orig="'tis" auto="true">it is</normalised> in your<lb/>
+power, and never be quiet, till this and the other <normalised orig="Kingdomes" auto="true">Kingdoms</normalised>,<lb/>
+be free from it; Make no friendship with angry<lb/>
+men, much <normalised orig="lesse" auto="true">less</normalised> with <normalised orig="bloudy" auto="true">bloody</normalised> men; rather <normalised orig="dye" auto="true">die</normalised> by them,<lb/>
+then ever be reconciled with them, and know God <normalised orig="hath" auto="true">has</normalised><lb/>
+promised to be avenged on that Church of Rome, and<lb/>
+that they shall not <normalised orig="alwayes" auto="true">always</normalised> boast in that <normalised orig="marke" auto="true">mark</normalised> of <normalised orig="temporall" auto="true">temporal</normalised><lb/>
+felicity. It is the greatest honour that ever can be put<lb/>
+upon you, to be instruments in destroying of her.<lb/>
+Use 2. of Instruction concerning the great difference<lb/>
+between popish, and Protestant Religion, in this matter<lb/>
+of <normalised orig="bloud" auto="true">blood</normalised>, for howsoever some Papists heretofore have<lb/>
+endeavoured to <normalised orig="shew" auto="true">show</normalised> the <normalised orig="bloudinesse" auto="false">bloodyness</normalised> of Calvinisticall<lb/>
+Doctrine, making it the cause of all the <normalised orig="warres" auto="true">wars</normalised> in France,<lb/>
+Germany, and Scotland, yet Bilson <normalised orig="doth" auto="true">does</normalised> fully and <normalised orig="clearely" auto="true">clearly</normalised><lb/>
+vindicate them in their defensive <normalised orig="warres" auto="true">wars</normalised>; And it is nothing<lb/>
+but calumny in some, who have laboured to make<lb/>
+odious your present <normalised orig="warre" auto="true">war</normalised>, as arising from the principles<lb/>
+of <normalised orig="Poperie" auto="true">Popery</normalised>, whereas there is indeed a vast difference both<lb/>
+in the authority, in the end, in the nature, in the manner,<lb/>
+and in the extent, as might at large be <normalised orig="shewed" auto="true">showed</normalised>, if it were<lb/>
+pertinent.<lb/>
+For true and righteous are his judgements,&amp;c.<lb/>
+                  <pb n="12"/>
+                  <lb/>
+The second Doctrine is,<lb/>
+That the Church of Rome <normalised orig="hath" auto="true">has</normalised> greatly apostatized from all<lb/>
+her former faith.<lb/>
+The Apostle Paul saith of the <normalised orig="Romanes" auto="true">Romans</normalised>, their faith<lb/>
+was <normalised orig="knowne" auto="true">known</normalised> to all the world, but now their Apostatcy is <lb/>
+as famous: Even as the Angels by their fall are become<lb/>
+<normalised orig="divels" auto="true">devils</normalised>. It is true, to give the exact <normalised orig="punctuall" auto="true">punctual</normalised> time, when<lb/>
+this great change was, as <notvariant>Bellarmine</notvariant> demands, is impossible,<lb/>
+for it was a change by degrees, as consumptions are <lb/>
+in a body, and therefore it was the more dangerous and <lb/>
+certainly <normalised orig="mortall" auto="true">mortal</normalised>, Ille morbus vix est sanabilis, qui sanitatem<lb/>
+imitatur, and besides, as Cameron <normalised orig="doth" auto="true">does</normalised> well observe,<lb/>
+changes to the worse <normalised orig="doe" auto="true">do</normalised> for the most part please all, and<lb/>
+therefore little opposition being made, the <choice ana="illegible">
+                     <sic>Aposta*y</sic>
+                     <corr><normalised orig="Apostacy" auto="true">Apostasy</normalised></corr>
+                  </choice> in<lb/>
+the beginning of it can hardly be discovered. And the<lb/>
+handling of this point will <normalised orig="justifie" auto="true">justify</normalised> that Reformation,<lb/>
+which is now on the <normalised orig="wheele" auto="true">wheel</normalised>.<lb/>
+The Causes of this <normalised orig="Apostacy" auto="true">Apostasy</normalised> were,<lb/>
+1. Pride and ambition. <normalised orig="Chrysostome" auto="true">Chrisostome</normalised> well called pride<lb/>
+the mother of hell, for that made the <normalised orig="divell" auto="true">devil</normalised>, a <normalised orig="divell" auto="true">devil</normalised>, and<lb/>
+so hell an hell; It is <normalised orig="knowne" auto="true">known</normalised> to all, what <normalised orig="arrogancy" auto="true">arrogance</normalised> that<lb/>
+Church did take unto her <normalised orig="selfe" auto="true">self</normalised>, and how Tertullian in his<lb/>
+time complained of the insolentiam cleri Romani, now<lb/>
+how ill would the <normalised orig="poore" auto="true">poor</normalised> contemptible way of Christ,<lb/>
+and his truth agree with their spirits; therefore all the<lb/>
+glory of the Church they interpreted it of outward and<lb/>
+<normalised orig="carnall" auto="true">carnal</normalised> glory; In that assertion how <normalised orig="doe" auto="true">do</normalised> they <normalised orig="extoll" auto="true">extol</normalised> the<lb/>
+Priesthood? Creatura paruit Iosuæ, at Presbyteris Creator;<lb/>
+sol illi, at his Deus <choice ana="print">
+                        <sic>quotiescunq3</sic>
+                        <corr>quotiescunque</corr>
+                     </choice> verba sacra pronuntiant: The<lb/>
+Creature obeyed Ioshua, but the Creator <normalised orig="doth" auto="true">does</normalised> the Priests;<lb/>
+The <normalised orig="Sunne" auto="true">Sun</normalised> <normalised orig="yeelded" auto="true">yielded</normalised> to him, but to these God <normalised orig="doth" auto="true">does</normalised> as often<lb/>
+as they <normalised orig="pronunce" auto="true">pronounce</normalised> their words of Consecration.<lb/>
+2. Fraud and <normalised orig="perfidiousnesse" auto="true">perfidiousness</normalised>:<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="14">C 3</fw>
+                  <pb n="13"/>
+                  <lb/>
+They had fully learned, that Regnandi causa, all <normalised orig="oathes" auto="true">oaths</normalised><lb/>
+were to be violated; How <normalised orig="grossely" auto="true">grossly</normalised> were the Pope and<lb/>
+his adherents taken in forging some Canons of the<lb/>
+<normalised orig="Councell" auto="true">Council</normalised> of Nice, for their preeminent dignity; therefore<lb/>
+their way is called a <normalised orig="lye" auto="true">lie</normalised>, and <normalised orig="deceiveablenesse" auto="false">deceiveableness</normalised>.<lb/>
+3. <normalised orig="Covetousnesse" auto="true">Covetousness</normalised>; and if you look on all their opinions<lb/>
+about indulgences, private Masses, auricular confession,<lb/>
+&amp;c. you will find love to <normalised orig="mony" auto="true">money</normalised> the cause of them; so<lb/>
+well was it said in the Canon Law, Roma fundata a prædonibus,<lb/>
+adhuc habet de primordiis.
+                  <lb/>
+4. Nourishing of <normalised orig="sinne" auto="true">sin</normalised>:<lb/>
+This was <normalised orig="usuall" auto="true">usual</normalised> with the Church of Rome, when any<lb/>
+had been censured in the <normalised orig="Easterne" auto="true">Eastern</normalised> Churches for <normalised orig="foule" auto="true">foul</normalised><lb/>
+miscarriages, then would she <normalised orig="incourage" auto="true">encourage</normalised> them to <normalised orig="appeale" auto="true">appeal</normalised><lb/>
+to her, whereupon she would release them, by which<lb/>
+<normalised orig="meanes" auto="true">means</normalised> she exalted her <normalised orig="selfe" auto="true">self</normalised> into this great dominion she<lb/>
+<normalised orig="hath" auto="true">has</normalised>; And then when she would inflict <normalised orig="Ecclesiasticall" auto="true">Ecclesiastical</normalised><lb/>
+censures, they were in a great part pecuniary, and <normalised orig="meerly" auto="true">merely</normalised><lb/>
+to the macerating of the body, no <normalised orig="wayes" auto="true">ways</normalised> to the saving of<lb/>
+the <normalised orig="soule" auto="true">soul</normalised>, so that though the <normalised orig="sinnes" auto="true">sins</normalised> of men by their penance,<lb/>
+were like Sampsons <normalised orig="haire" auto="true">hair</normalised> cut off, yet because the<lb/>
+root was there, they did grow into their full strength<lb/>
+again.<lb/>
+5. Neglect of Scripture:<lb/>
+And this set open the flood-gate, whereby all the <lb/>
+world was immediately drowned in <normalised orig="errours" auto="true">errors</normalised>; for take the<lb/>
+eyes out of the body, the <normalised orig="Sunne" auto="true">Sun</normalised> out of the firmament, the<lb/>
+<normalised orig="Compasse" auto="true">Compass</normalised> from the Ship, what can follow but confusion?<lb/>
+Therefore they have wished that there had never<lb/>
+been Scripture; That the Church could have done well<lb/>
+enough with traditions only; They have called the Bible<lb/>
+the <normalised orig="Booke" auto="true">Book</normalised> that <normalised orig="hath" auto="true">has</normalised> made all the contentions in the<lb/>
+world, and all the faith a man can have by it, to be only<lb/>
+                  <pb n="14"/>
+                  <lb/>
+humane, O the great patience of God, that <normalised orig="beareth" auto="true">bears</normalised> these<lb/>
+blasphemies; and therefore(worthy Patriots) in your<lb/>
+way of Reformation <normalised orig="doe" auto="true">do</normalised> you <normalised orig="walke" auto="true">walk</normalised> contrary, as they<lb/>
+<normalised orig="pull'd" auto="true">pulled</normalised> it <normalised orig="downe" auto="true">down</normalised>, <normalised orig="doe" auto="true">do</normalised> you set it up, regard the Scripture<lb/>
+more then all State respects; This is the <normalised orig="fountaine" auto="true">fountain</normalised>, and <lb/>
+so the <normalised orig="streames" auto="true">streams</normalised> that <normalised orig="runne" auto="true">run</normalised> hence will be pure; It is impossible<lb/>
+(saith <normalised orig="Chrysostome" auto="true">Chrisostome</normalised>) that ever any good should come<lb/>
+from that man, who is diligent in Scripture.<lb/>
+6. The <normalised orig="suteablenesse" auto="false">suitableness</normalised> of it to flesh and <normalised orig="bloud" auto="true">blood</normalised>; and <lb/>
+therefore it's called the wine of fornications. Even as they<lb/>
+say, Leopards are taken not by <normalised orig="arrowes" auto="true">arrows</normalised> and <normalised orig="bowes" auto="true">bows</normalised>, or <lb/>
+open fire, but by leaving wine for them to <normalised orig="drinke" auto="true">drink</normalised>, whereby<lb/>
+they are so intoxicated, that they are easily surprised;<lb/>
+of this kind are all popish <normalised orig="errours" auto="true">errors</normalised>; He brings you <normalised orig="milke" auto="true">milk</normalised><lb/>
+as Iael did to Sisera, and afterwards strikes a <normalised orig="naile" auto="true">nail</normalised> into<lb/>
+your temples. As Satan beguiled Eve, so are we <normalised orig="coozened" auto="false">cozened</normalised> <lb/>
+into <normalised orig="errours" auto="true">errors</normalised>; the <normalised orig="devill" auto="true">devil</normalised> did not <normalised orig="appeare" auto="true">appear</normalised> <normalised orig="himselfe" auto="true">himself</normalised>, but<lb/>
+used a <normalised orig="subtile" auto="true">subtle</normalised> instrument, nor did he directly deny Gods<lb/>
+Word, but made Quæries and Vtrums upon it, and then he<lb/>
+presented that which was pleasing to sense; striking out<lb/>
+the <normalised orig="feare" auto="true">fear</normalised> of death, by all which <normalised orig="meanes" auto="true">means</normalised> he at last deceived<lb/>
+her.<lb/>
+1. Their Doctrine is pleasing to flesh; It is good for<lb/>
+the world to know, why all sorts of men are so apt for<lb/>
+Popery? Not long since, when there were altars and<lb/>
+images brought into our Churches, what a <normalised orig="generall" auto="true">general</normalised> <normalised orig="willingnesse" auto="true">willingness</normalised><lb/>
+was there in people, but now to have such<lb/>
+things removed, what <normalised orig="madnesse" auto="true">madness</normalised> <normalised orig="doth" auto="true">does</normalised> it <normalised orig="worke" auto="true">work</normalised> in men?<lb/>
+and how <normalised orig="doe" auto="true">do</normalised> they cry, as children for their babies again?<lb/>
+<normalised orig="Doe" auto="true">Do</normalised> but consider their doctrines extenuating <normalised orig="Originall" auto="true">Original</normalised><lb/>
+<normalised orig="sinne" auto="true">sin</normalised>, making motions to <normalised orig="sinne" auto="true">sin</normalised> unconsented to, no <normalised orig="sinne" auto="true">sin</normalised>;<lb/>
+That a man <normalised orig="hath" auto="true">has</normalised> power to keep the <normalised orig="Commandements" auto="true">Commandments</normalised>;<lb/>
+That the <normalised orig="Commandement" auto="true">Commandment</normalised> to love God binds only at<lb/>
+                  <pb n="15"/>
+                  <lb/>
+sometimes, Scotus (as I take it) only on holy <normalised orig="dayes" auto="true">days</normalised>; That<lb/>
+<normalised orig="actuall" auto="true">actual</normalised> <choice ana="print-error">
+                     <sic>inadvenrtency</sic>
+                     <corr><normalised orig="inadvertency" auto="true">inadvertence</normalised></corr>
+                  </choice> in holy duties <normalised orig="doth" auto="true">does</normalised> not hinder the<lb/>
+fruit of them; That if a man <normalised orig="drinke" auto="true">drink</normalised> till he be giddy, and<lb/>
+the <normalised orig="roome" auto="true">room</normalised> <normalised orig="runne" auto="true">run</normalised> round, it is no <normalised orig="drunkennesse" auto="true">drunkenness</normalised>; That<lb/>
+Prayers said in <normalised orig="Latine" auto="true">Latin</normalised>, though we <normalised orig="doe" auto="true">do</normalised> not understand<lb/>
+them, are accepted; That the devout man, who in his <lb/>
+prayer said, Miserera tui Domine for mei, yet had good devotion<lb/>
+and was acceptable to God.<lb/>
+2. Their worship is outwardly sensible: Thus when<lb/>
+they had taken away the Scripture, they set pictures up<lb/>
+in their <normalised orig="roome" auto="true">room</normalised>, now this <normalised orig="pleaseth" auto="true">pleases</normalised> the common people,<lb/>
+                  Homo est magis sensus, quam intellectus, it was Aristotles<lb/>
+speech. Herein the popish religion <normalised orig="doth" auto="true">does</normalised> much <normalised orig="gratifie" auto="true">gratify</normalised> the <lb/>
+ignorant people; The people of Israel <normalised orig="cryed" auto="true">cried</normalised> out for gods<lb/>
+that might <normalised orig="goe" auto="true">go</normalised> before them: To worship in spirit and<lb/>
+truth can be no more understood by them, then the eye<lb/>
+can see a spirit. <lb/>
+3. Their piety extends to <normalised orig="externall" auto="true">external</normalised> acts, for if we<lb/>
+observe all their <normalised orig="Theologie" auto="true">Theology</normalised>, its like that of the Pharisees,<lb/>
+to look to the <normalised orig="externall" auto="true">external</normalised> acts, not regarding the inward<lb/>
+grace, but as he that would have set up his picture, and it<lb/>
+would not stand, <normalised orig="cryed" auto="true">cried</normalised>, <notvariant>NoValue</notvariant>, There wants something<lb/>
+within; the same may be said of all their prayers<lb/>
+and religious performances, There wants something<lb/>
+within. <lb/>
+4. They make the Ordinances of God to <normalised orig="conferre" auto="true">confer</normalised><lb/>
+grace ex opere operato, whereby they take men off from<lb/>
+being heart and soul-Christians. Hence they <normalised orig="speake" auto="true">speak</normalised> of <lb/>
+Sacraments, as we would of some <normalised orig="Physick" auto="true">Physic</normalised> or potion, that<lb/>
+<normalised orig="hath" auto="true">has</normalised> an inward <normalised orig="naturall" auto="true">natural</normalised> force and efficacy to produce<lb/>
+such an effect.<lb/>
+5. They have <normalised orig="custome" auto="true">custom</normalised> and antiquity for them, many<lb/>
+of their foolish and superstitious <normalised orig="customes" auto="true">customs</normalised> are some hundred<lb/>
+                  <pb n="16"/>
+                  <lb/>
+<normalised orig="yeares" auto="true">years</normalised> old, and what fathers and grandfathers have<lb/>
+done, it is hard not to admire, and certainly had not the<lb/>
+Scripture foretold what an Eclipse would be upon the<lb/>
+whole Church, we would <normalised orig="thinke" auto="true">think</normalised> it impossible that such<lb/>
+ridiculous things should be taken up. Because Christ is<lb/>
+the Light, therefore they have light at <normalised orig="noone-dayes" auto="false">noon-daye</normalised>; Because<lb/>
+Christ said we must be like children, therefore the<lb/>
+<normalised orig="Monkes" auto="true">Monks</normalised> <normalised orig="weare" auto="true">wear</normalised> Cowles, like <normalised orig="childrens" auto="true">children's</normalised> <normalised orig="swadling-clouts" auto="false">swaddling-clouts</normalised>,<lb/>
+and one Pope (as Bishop Abbot <normalised orig="relateth" auto="true">relates</normalised> it) made a serious<lb/>
+motion in the Conclave that he and the Cardinals<lb/>
+might ride on a <normalised orig="solemne" auto="true">solemn</normalised> day on Asses to imitate Christs<lb/>
+humility; but the Conclave thought the <normalised orig="Asse" auto="true">Ass</normalised> rode the<lb/>
+Pope too much already.<lb/>
+6. They have the greater part of the world; And he <lb/>
+must needs have a peremptory spirit, that <normalised orig="doth" auto="true">does</normalised> not follow<lb/>
+a multitude to <normalised orig="doe" auto="true">do</normalised> <normalised orig="evill" auto="true">evil</normalised>; It is a <normalised orig="signe" auto="true">sign</normalised> he <normalised orig="hath" auto="true">has</normalised> life in him<lb/>
+that will <normalised orig="swimme" auto="true">swim</normalised> against the <normalised orig="streame" auto="true">stream</normalised>. A man is a sociable<lb/>
+creature even in <normalised orig="errours" auto="true">errors</normalised>, as well as anything else.<lb/>
+7. They commend ignorance; By this <normalised orig="meanes" auto="true">means</normalised> whereas<lb/>
+God can make stones the children of Abraham, these<lb/>
+make the children of Abraham stones, and the people<lb/>
+they love to have it so; for this <normalised orig="freeth" auto="false">frees</normalised> them from <normalised orig="Catechismes" auto="true">Catechisms</normalised><lb/>
+and Bibles.<lb/>
+Therefore the way to <normalised orig="keepe" auto="true">keep</normalised> out Popery is to <normalised orig="incourage" auto="true">encourage</normalised><lb/>
+Learning; The heathens in their sacrifice to Apollo<lb/>
+offered <normalised orig="Ivie" auto="true">Ivy</normalised> to him, to <normalised orig="shew" auto="true">show</normalised>, that Learning could not<lb/>
+grow <normalised orig="unlesse" auto="true">unless</normalised> the Magistrates would <normalised orig="beare" auto="true">bear</normalised> it up: God forbid<lb/>
+therefore that ever you should discourage it; for at <lb/>
+the same time when God brought truth into the world,<lb/>
+humane literature flourished, and was a great help thereunto.<lb/>
+8. They pretend to Miracles; and by this <normalised orig="meanes" auto="true">means</normalised> they <lb/>
+have deluded a world of people; It is said, he should<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="18">D</fw>
+                  <pb n="17"/>
+                  <lb/>
+bring <normalised orig="downe" auto="true">down</normalised> fire from Heaven, though that which he<lb/>
+would have done to day, was a contrary wonder, Ignis de<lb/>
+terra, fire from under the earth; And although Austin<lb/>
+said, that he who would look now for Miracles, he <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+was a great Miracle; yet they make them as the <normalised orig="essentiall" auto="true">essential</normalised><lb/>
+notes of the Church.<lb/>
+Use of Instruction, how necessary it is to <normalised orig="reforme" auto="true">reform</normalised> from<lb/>
+Popery, leave off your contentions one with another, and<lb/>
+set upon this common adversary. <normalised orig="Learne" auto="true">Learn</normalised> of the very<lb/>
+<normalised orig="Romanes" auto="true">Romans</normalised>, who though sometimes at deadly enmity one<lb/>
+with another, yet would deponere inimicitias, till they had<lb/>
+done the <normalised orig="publike" auto="true">public</normalised> service; How can you ever <normalised orig="indure" auto="true">endure</normalised> that<lb/>
+these trumperies and idolatries should be brought in<lb/>
+<normalised orig="againe" auto="true">again</normalised>; Humble your selves that Parliaments heretofore<lb/>
+have not done them; Let not Parliament <normalised orig="sinnes" auto="true">sins</normalised> in ages<lb/>
+heretofore come upon your score; How often <normalised orig="doe" auto="true">do</normalised> the<lb/>
+people of Israel <normalised orig="bewaile" auto="true">bewail</normalised> their <normalised orig="owne" auto="true">own</normalised> <normalised orig="sinnes" auto="true">sins</normalised> and the <normalised orig="sinnes" auto="true">sins</normalised><lb/>
+of their fathers? <normalised orig="doe" auto="true">do</normalised> you <normalised orig="confesse" auto="true">confess</normalised> your own <normalised orig="sinnes" auto="true">sins</normalised> of <normalised orig="unwillingnesse" auto="true">unwillingness</normalised>,<lb/>
+of <normalised orig="coldnesse" auto="true">coldness</normalised> in this <normalised orig="worke" auto="true">work</normalised>, and the <normalised orig="sinnes" auto="true">sins</normalised> of<lb/>
+your Ancestors. It is to be feared, that many of you have<lb/>
+not got that <normalised orig="zeale" auto="true">zeal</normalised> for the purity of Gods Ordinances,<lb/>
+and Worship, as ought to be: And in the carrying on of<lb/>
+this, take heed of two <normalised orig="fatall" auto="true">fatal</normalised> <normalised orig="rockes" auto="true">rocks</normalised>: 1. A <normalised orig="sinfull" auto="true">sinful</normalised> moderation.<lb/>
+2. A popish Tyranny.<lb/>
+A popish Tyranny is when any <normalised orig="doe" auto="true">do</normalised> appropriate and<lb/>
+<normalised orig="inclose" auto="true">enclose</normalised> to themselves such a power, which Christ <normalised orig="hath" auto="true">has</normalised><lb/>
+not at all given, or if he have given it, he <normalised orig="hath" auto="true">has</normalised> communicated<lb/>
+it to more then one; This <normalised orig="hath" auto="true">has</normalised> been the cause of<lb/>
+much <normalised orig="schisme" auto="true">schism</normalised> and contention in the Church of God;<lb/>
+Christ <normalised orig="hath" auto="true">has</normalised> invested the Officers of his Church with sufficient<lb/>
+<normalised orig="spirituall" auto="true">spiritual</normalised> power for the attaining of that <normalised orig="spirituall" auto="true">spiritual</normalised><lb/>
+benefit, which they are to look for, and therefore <normalised orig="doe" auto="true">do</normalised> you,<lb/>
+being Magistrates <normalised orig="confirme" auto="true">confirm</normalised> them in it.<lb/>
+                  <pb n="18"/>
+                  <lb/>
+The second is moderation, and there are these sorts:<lb/>
+1. A Cassandrean moderation, and that is, when men<lb/>
+make an hodge-potch in Religion, and plow with an <normalised orig="Oxe" auto="true">Ox</normalised><lb/>
+and <normalised orig="Asse" auto="true">Ass</normalised>: However Grotius <normalised orig="doth" auto="true">does</normalised> much <normalised orig="extoll" auto="true">extol</normalised> <normalised orig="Cassander" auto="true">Cassandra</normalised><lb/>
+and Erasmus(whom Belarmine called semichrisitianum) <lb/>
+yet we ought not to loose a letter or syllable of<lb/>
+truth to <normalised orig="gaine" auto="true">gain</normalised> all the world, and so Wicelius did tertiam<lb/>
+religionem, and mediam meditari, and therefore did bitterly<lb/>
+at the same time write against Papists and Luther too,<lb/>
+and howsoever Melancthon was thought to be rather modius,<lb/>
+then moderate, yet he is wronged, for he vehemently<lb/>
+opposed the Emperors Interim: It is better to have <normalised orig="dissention" auto="true">dissension</normalised><lb/>
+for truths sake, then a <normalised orig="sinfull" auto="true">sinful</normalised> accord: Agreement<lb/>
+can never be made of the mixture of <normalised orig="errour" auto="true">error</normalised> and Truth;<lb/>
+we have a famous instance of this of the Orthodox <lb/>
+and the Arrians, Syrmiensis Synodus in humane <normalised orig="wisedome" auto="true">wisdom</normalised><lb/>
+to quench the fire raised by the Arrians, did conclude<lb/>
+an ambiguous <normalised orig="forme" auto="true">form</normalised>, that so both parties might<lb/>
+have their senses, and therefore whereas it was used to be<lb/>
+read in the Creed <notvariant>NoValue</notvariant>, they would have it <notvariant>NoValue</notvariant> that<lb/>
+so both parties might agree. But what became of this? a<lb/>
+great fire was raised hereupon, which made Hosius a grave<lb/>
+man, that yeeled in that Synod, to grieve because he had<lb/>
+betrayed the truth.<lb/>
+2. A Socinian moderation; And this is indeed rather<lb/>
+a cursed <normalised orig="Academicall" auto="true">Academical</normalised> and scepticall <normalised orig="unbeliefe" auto="true">unbelief</normalised> in <normalised orig="fundamentall" auto="true">fundamental</normalised><lb/>
+things then moderation; That what the <normalised orig="Schoolemen" auto="true">Schoolmen</normalised><lb/>
+<normalised orig="doe" auto="true">do</normalised> in many <normalised orig="Schoole" auto="true">School</normalised> and abstruse questions, the <lb/>
+same they <normalised orig="doe" auto="true">do</normalised> in substantials and essentials, videtur quod<lb/>
+sic, &amp; videtur quod non, and prout nobis nunc videtur; these<lb/>
+will put a fortasse and salvo meliorum judicio, upon received<lb/>
+Principles of Faith; and its observed, that they<lb/>
+would make a Declaration setentiæ eorum, of their judgement<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="20">D 2</fw>
+                  <pb n="19"/>
+                  <lb/>
+and opinion, not fidei in maine things of Religion.<lb/>
+3. A state <normalised orig="politique" auto="true">politic</normalised> Moderation. That is also, when<lb/>
+we bring down Scripture and the Commands of Christ<lb/>
+to state considerations; This <normalised orig="hath" auto="true">has</normalised> been <normalised orig="fatall" auto="true">fatal</normalised> to Reformers,<lb/>
+and all this <normalised orig="ariseth" auto="true">arises</normalised> because they <normalised orig="doe" auto="true">do</normalised> not <normalised orig="thinke" auto="true">think</normalised> by<lb/>
+faith, that Christ is able to save the ship they are in, when<lb/>
+the waves and tempests <normalised orig="doe" auto="true">do</normalised> arise, was not this the destruction<lb/>
+of <normalised orig="Ieroboam" auto="true">Jeroboam</normalised>? and <normalised orig="hath" auto="true">has</normalised> not the Lord been severe in<lb/>
+punishing even little neglects in his worship?<lb/>
+4. A Christian Moderation, which is to be seen in a<lb/>
+toleration, and forbearing of the <normalised orig="weake" auto="true">weak</normalised>, in some opinions,<lb/>
+and in an <normalised orig="accomodation" auto="true">accommodation</normalised> of dissenting brethren, so <lb/>
+<normalised orig="farre" auto="true">far</normalised> as truth, and the peace of a <normalised orig="Kingdome" auto="true">Kingdom</normalised> will <normalised orig="beare" auto="true">bear</normalised>.<lb/>
+Let there be a considering of one another, so <normalised orig="farre" auto="true">far</normalised>, that<lb/>
+the prevailing party may not violently urge an uniforme<lb/>
+obedience, nor the oppressed party, an <normalised orig="unlawfull" auto="true">unlawful</normalised> liberty.<lb/>
+It is but a trifle comparatively that shall instance in, yet<lb/>
+Tully was applauded in it, when two great <normalised orig="Oratours" auto="true">Orators</normalised> quarrelled<lb/>
+about tertio Consul, and tertium Consul, which was<lb/>
+best <normalised orig="Latine" auto="true">Latin</normalised>, and calling upon Tully to judge, he <normalised orig="decideth" auto="true">decides</normalised><lb/>
+it thus, by wishing them to write the <normalised orig="halfe" auto="true">half</normalised> word <normalised orig="onely" auto="true">only</normalised>,<lb/>
+                  tert. Consul, and so both parties might quickly agree. In<lb/>
+wounds its better to close and <normalised orig="heale" auto="true">heal</normalised>, rather then widen,<lb/>
+especially when there is a common enemy to destroy<lb/>
+both. And this made the Orthodox when they were<lb/>
+afraid the true faith would be subverted by the Arrians,<lb/>
+who were potent and numerous, to <normalised orig="joyne" auto="true">join</normalised> with the Novatians,<lb/>
+who agreed with them in the Deity of Christ,<lb/>
+(although dissenting from them in matters about <normalised orig="Baptisme" auto="true">Baptism</normalised>) <lb/>
+and this concord proved <normalised orig="successefull" auto="true">successful</normalised>.<lb/>
+I know the question of tolerating men dissenting in<lb/>
+Religion is a vast ocean, and many learned men have <normalised orig="wrie" auto="true">wry</normalised><lb/>
+of it, both Papists and Protestants, yet I observe those<lb/>
+                  <pb n="20"/>
+                  <lb/>
+that are sound and judicious, especially when they come<lb/>
+to <normalised orig="speake" auto="true">speak</normalised> of punishments for their <normalised orig="errours" auto="true">errors</normalised>, to incline in<lb/>
+mitiorem partem: Although indeed the Magistrate is<lb/>
+herein to deport <normalised orig="himselfe" auto="true">himself</normalised> so, that he be neither guilty of<lb/>
+<normalised orig="sinfull" auto="true">sinful</normalised> <normalised orig="remisnesse" auto="true">remissness</normalised> on one side, or <normalised orig="unlawfull" auto="true">unlawful</normalised> severity on the<lb/>
+other.<lb/>
+Use of <normalised orig="Thankfulnesse" auto="true">Thankfulness</normalised>, that we are as this day delivered <lb/>
+from Popery, and all their <normalised orig="cruell" auto="true">cruel</normalised> attempts. I will<lb/>
+conclude all, that if Popery be thus <normalised orig="cruell" auto="true">cruel</normalised>, thus Idolalitricall;<lb/>
+let us with hearts and tongues give God the <lb/>
+Glory, That you are a Parliament, that we have our houses, <lb/>
+our states, our Religion; Let us <normalised orig="blesse" auto="true">bless</normalised> God for this<lb/>
+<normalised orig="dayes" auto="true">days</normalised> mercies. Abraham received Isaac from the grave<lb/>
+as dead; so <normalised orig="doe" auto="true">do</normalised> you all your mercies <normalised orig="temporall" auto="true">temporal</normalised> and <normalised orig="spirituall" auto="true">spiritual</normalised>,<lb/>
+especially having so many deliverances and victories<lb/>
+vouchsafed by God to your Armies. You have <lb/>
+many fifths of November in this one day; and every time<lb/>
+you have a victory it is deliverance from a Gun-powder<lb/>
+plot; before it was secret, and now it is open.<lb/>
+                  <lb/>
+FINIS.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

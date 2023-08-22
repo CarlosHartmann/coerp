@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="treatise_doctrinal_1686_Rawlet_R2">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christian Monitor</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JoRa1642">Rawlet, John</author>
+               <title type="main">The Christian Monitor, Containing an Earnest Exhortation to an Holy Life. With some Directions in order thereto. Written in a plain and <normalised orig="easie" auto="true">easy</normalised> Style, for all sorts of People.</title>
+               <title type="short">Christian Monitor</title>
+               <date when="1686">1686</date>
+               <date type="this_edition" when="1686">1686</date>
+               <idno type="Wing">R347</idno>
+               <note type="genre" subtype="treatise_doctrinal">doctrinal treatise</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">sexto/octavo</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="sample">
+            <div>
+               <head>THE 
+Christian Monitor, &amp;c.</head>
+                  <lb/>
+                  <head>CHAP. I.</head>
+                  <lb/>
+            </div>
+            <div>
+               <head>CHAP. I.</head>
+                  <lb/>
+                  <head>An Exhortation to an Holy Life, with 
+Motives thereto.</head>
+                  <lb/>
+            </div>
+            <div>
+               <head>An Exhortation to an Holy Life, with 
+Motives thereto.</head>
+               <p> 
+                  <lb/>
+                  <lb/>
+IT's very sad to consider, not only how few Nations <lb/>
+there <choice ana="illegible">
+                     <sic>a*e</sic>
+                     <corr>are</corr>
+                  </choice> in the World which <choice ana="illegible">
+                     <sic>pro*ess</sic>
+                     <corr>profess</corr>
+                  </choice> 
+                  <lb/>
+Christianity, but also of those who do profess <lb/>
+it, how few there are comparatively that live <lb/>
+according to their Profession. Wherefore it <lb/>
+well beseems all Christs faithful servants, especially the <lb/>
+Ministers of his Gospel, to use their utmost endeavours, <lb/>
+by Life and Doctrine, by <normalised orig="publick" auto="true">public</normalised> and private <lb/>
+Exhortations, by preaching and writing, and by all <lb/>
+the ways they are capable, to promote true Piety <lb/>
+and Holiness amongst all sorts of Men, whether high <lb/>
+or low, rich or poor, without which no Man can <lb/>
+be happy, either in this World, or that to come. <lb/>
+And though I well know that, thanks be to God, <lb/>
+we abound with multitudes of excellent Books written <lb/>
+to this end; yet are not such short Instructions as <lb/>
+these that follow to be condemned as useless, since <lb/>
+they will, it's like, be more generally dispersed, and <lb/>
+that amongst the very meanest of the People, and <lb/>
+may more easily be read and <normalised orig="remembred" auto="true">remembered</normalised> by such as <lb/>
+have neither time to read large Books, nor Money to <lb/>
+buy them. With such as these I have occasion often <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 2</fw>
+                  <pb n="1"/> 
+                  <lb/>
+to meet, and for their sakes chiefly it is that I publish <lb/>
+this little Paper; being encouraged thereto by <lb/>
+some pious Persons, both of City and <normalised orig="Countrey" auto="true">Country</normalised>, who <lb/>
+intend to give some of them away to poor people <lb/>
+about them, and thought others might do the like. <lb/>
+And may it please God to give a Blessing to such a <lb/>
+mean Undertaking as this, and succeed it to the good <lb/>
+of Souls, I shall little regard the Censures of the curious: <lb/>
+<normalised orig="Remembring" auto="true">Remembering</normalised> the saying I have somewhere met <lb/>
+with of a devout Writer to this purpose, That he <lb/>
+was desirous his Books should be scattered abroad <lb/>
+upon <normalised orig="Pedlers" auto="true">Peddlers</normalised> Stalls, and thence come into the hands <lb/>
+of common People, for the <normalised orig="encreasing" auto="true">increasing</normalised> of Knowledge <lb/>
+and Piety, rather than be solemnly laid up and buried <lb/>
+in the Libraries of the learned. <lb/>
+Wherefore without any more <choice ana="print-error">
+                     <sic>Presace</sic>
+                     <corr>Preface</corr>
+                  </choice>, I shall address <lb/>
+my self to you for whose sake I write these <lb/>
+                  <choice ana="illegible">
+                     <sic>*ines</sic>
+                     <corr>Lines</corr>
+                  </choice>, as a <choice ana="illegible">
+                     <sic>P*wasive</sic>
+                     <corr><normalised orig="Perswasive" auto="true">Persuasive</normalised></corr>
+                  </choice> to an Holy and Religious <choice ana="illegible">
+                     <sic>Li*e</sic>
+                     <corr>Life</corr>
+                  </choice>. <lb/>
+Now in order thereto let me beseech you to look back <lb/>
+upon your <choice ana="illegible">
+                     <sic>*ives</sic>
+                     <corr>Lives</corr>
+                  </choice> past, and call your selves to account, <lb/>
+                  <choice ana="illegible">
+                     <sic>w*her</sic>
+                     <corr>whether</corr>
+                  </choice> it has been your care and study to <lb/>
+live in such a godly manner as becomes those who <lb/>
+are <normalised orig="baptized" auto="true">baptised</normalised> into the Name of Christ, and after him <lb/>
+are called Christians. Have you well considered what <lb/>
+is the meaning of this Name, and what Engagement <lb/>
+you lie under to an Holy Life by taking it upon you in <lb/>
+Baptism? And do you keep well in mind your Baptismal <lb/>
+Vow, wherein you renounced the Devil, <lb/>
+the World and the Flesh, and promised to be Christ's <lb/>
+faithful <normalised orig="Souldiers" auto="true">Soldiers</normalised> and Servants, and so to continue all <lb/>
+the days of your Life? Have you so far understood <lb/>
+and considered these things, that you have made it <lb/>
+your chief business to walk accordingly? Do you <lb/>
+watch carefully and <choice ana="print-error">
+                     <sic>sight</sic>
+                     <corr>fight</corr>
+                  </choice> manfully against your spiritual <lb/>
+Enemies? Do you live as those that believe <lb/>
+the Gospel, sincerely endeavouring in all things to <lb/>
+know the Will of God and do it? Since you take <lb/>
+Christ's Name into your mouth, are you careful to <lb/>
+depart from all iniquity? In a word, is this your <lb/>
+greatest study and design to please and <normalised orig="glorifie" auto="true">glorify</normalised> God, <lb/>
+                  <pb n="2"/> 
+                  <lb/>
+and to work out your own salvation? If your Conscience <lb/>
+can truly witness for you, that it is indeed so; <lb/>
+and that wherein at any time you fall short or do amiss, <lb/>
+you are heartily grieved for it, and do daily labour <lb/>
+to amend and grow better: If it be thus with you; <lb/>
+I say, then bless God for his grace and mercy, hold on <lb/>
+and prosper, and fear not but God will be with you, <lb/>
+He will own you as his Children, and for his Son <lb/>
+Jesus sake, will both pardon your sins and assist you <lb/>
+by his Grace; he will guide you by his Counsel, and <lb/>
+at length receive you to Glory. <lb/>
+But pray deal faithfully with your own Souls and <lb/>
+tell me, Has it not been quite otherwise with you? <lb/>
+Have you not contented your selves with the bare Name <lb/>
+and Profession of Christianity, and in the mean time <lb/>
+led an ill course of Life, directly contrary to your <lb/>
+Profession? Have you not lived in wilful ignorance of <lb/>
+your Duty, or in gross sins against your Knowledge? <lb/>
+Do not the temptations of the Devil, the allurements <lb/>
+of the World and the Flesh many times prevail more <lb/>
+with you than the Commands of Almighty God and <lb/>
+the voice of your own Conscience? Are you not <lb/>
+wont to neglect God's worship and service, both in <lb/>
+the Church and at home? yea, do you not profane his <lb/>
+holy Name by swearing and cursing? Are you not <lb/>
+often guilty of lying and <normalised orig="slandring" auto="false">slandering</normalised>, of cozening and <lb/>
+cheating, if not of downright stealing? Do you not <lb/>
+in your anger use railing and reviling Language? Or <lb/>
+do you not live in Envy and Malice, seeking for revenge <lb/>
+of those that have done you any injury? Do <lb/>
+you not allow your selves in Drunkenness or Whoredom, <lb/>
+or some other known and wilful sin? To be <lb/>
+short, Is there not something or other in this World <lb/>
+that you love more than you do God himself and his <lb/>
+Son Jesus? Are you not much more concerned for <lb/>
+your Bodies than for your precious Souls? And do <lb/>
+you not more earnestly seek after Food and Raiment, <lb/>
+and the good things of this Life, than after that eternal <lb/>
+Kingdom of Glory which God <normalised orig="hath" auto="true">has</normalised> promised to his <lb/>
+faithful Servants in the World to come? <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 3</fw>
+                  <pb n="3"/> 
+                  <lb/>
+If this indeed be your Case, I beseech you make a <lb/>
+stand, and consider well what you have been doing; <lb/>
+what a sad and dangerous condition you have brought <lb/>
+your selves into, and what the end of it will be if <lb/>
+you hold on in such evil courses. Humbly beg of <lb/>
+God to make you duly sensible of your sin and danger, <lb/>
+and to keep the sense thereof so close to your minds, <lb/>
+that you may be brought not only to mourn for your <lb/>
+sins, but to loath and abhor them, and utterly to forsake <lb/>
+the same, henceforth resolving by the grace of <lb/>
+God wholly to give up your selves to his service, and <lb/>
+to walk <normalised orig="stedfastly" auto="true">steadfastly</normalised> in those holy and good ways which <lb/>
+he has appointed you. This is that to which I do <lb/>
+most earnestly desire to <normalised orig="perswade" auto="true">persuade</normalised> you. And that I <lb/>
+may do my utmost to prevail with you, I shall lay <lb/>
+before you some very weighty Arguments, which <lb/>
+I request you seriously to ponder of as you read them, <lb/>
+and God grant they may have due effect upon the <lb/>
+heart of every Reader. Amen. <lb/>
+(1) That you may be prevailed with to become <lb/>
+God's faithful servants, consider, first, That this was <lb/>
+the great end for which God made you, and keeps you alive, <lb/>
+and gives you so many mercies of all sorts. You can <lb/>
+tell, I hope, that God made you, and that he made <lb/>
+you to serve him, by living according to his Commandments. <lb/>
+These are some of those first things <lb/>
+which Children learn, and it were well if when they <lb/>
+are grown up to be Men and Women, they would <lb/>
+use seriously to think of them, and <choice ana="illegible">
+                     <sic>pra*ise</sic>
+                     <corr>practise</corr>
+                  </choice> accordingly. <lb/>
+The wise God has made all Creatures for some <lb/>
+good end or other, and he has fitted them all for <lb/>
+those ends and purposes for which he made them. <lb/>
+To Man therefore has he given the use of Reason, <lb/>
+chiefly to fit him for Religion, and to render him <lb/>
+capable of knowing, loving and serving his great <lb/>
+Creator and Benefactor: And it is Religion which <lb/>
+makes the great difference betwixt a Man and a Beast: <lb/>
+for <normalised orig="bruit" auto="true">brute</normalised> Creatures have no knowledge of God, no regard <lb/>
+to him, but are wholly led by their senses, and <lb/>
+mind <choice ana="illegible">
+                     <sic>no*<normalised orig="hing" auto="true">hang</normalised></sic>
+                     <corr>nothing</corr>
+                  </choice> else but what is before them here in <lb/>
+                  <pb n="4"/> 
+                  <lb/>
+this World. But the poorest Man on Earth who has <lb/>
+the use of his Reason, is near akin to the very Angels <lb/>
+themselves; his nature is like theirs, and but a little <lb/>
+below them, so that he may be much taken up in the <lb/>
+same holy Works that they are employed in, even in <lb/>
+loving and praising, and adoring the great and good <lb/>
+God. To this end <choice ana="illegible">
+                     <sic>h*</sic>
+                     <corr>he</corr>
+                  </choice> may study both the Works and <lb/>
+the Word of God, which reveal him to us, and should <lb/>
+continually put us in mind of him. And all the good <lb/>
+things we enjoy should still make us sensible of the <lb/>
+goodness of God from whom they come: and fill our <lb/>
+hearts with love and thankfulness; and our mouths <lb/>
+with blessing and praise. This is the most proper use of <lb/>
+our Reason, and this God most justly expects from us <lb/>
+Reasonable Creatures; and this even the poor man <lb/>
+may render without any hindrance to his daily labours; <lb/>
+and may still keep such an awful sense of God <lb/>
+upon his mind as may restrain him from wilful sin, and <lb/>
+make him careful always to please his Maker. And <lb/>
+so our Reason was given us to bridle and govern <lb/>
+our Appetites, our  <choice ana="print-error">
+                     <sic>and Lusts</sic>
+                     <corr>Lusts and</corr>
+                  </choice> Passions; that we should <lb/>
+not be led away into gluttony and drunkenness, into <lb/>
+wantonness and uncleanness, nor into rage and fury like <lb/>
+<normalised orig="bruit" auto="true">brute</normalised> Beasts that have no understanding: but should <lb/>
+live soberly and <normalised orig="chastly" auto="true">chastely</normalised>, quietly and peaceably with <lb/>
+all Men, doing them all the good we can. For such <lb/>
+holy purposes as these chiefly was our Reason <normalised orig="bestow'd" auto="true">bestowed</normalised> <lb/>
+on us, and therefore in this manner ought it to be <lb/>
+<normalised orig="employ'd" auto="true">employed</normalised>. Certainly since God <normalised orig="hath" auto="true">has</normalised> made us of a nature <lb/>
+so much better than Birds or Beasts, he expects <lb/>
+from us other works and services than he does from <lb/>
+them. They know nothing of God that made them, <lb/>
+nor have they any knowledge of another Life after this, <lb/>
+but when they die there's an end of them: But to us <lb/>
+<normalised orig="hath" auto="true">has</normalised> God given immortal Souls of more value than the <lb/>
+whole World: and for this end <normalised orig="hath" auto="true">has</normalised> he created us, <lb/>
+that we might serve and honour him here in this Life, <lb/>
+and so may live with him, and enjoy him for ever in <lb/>
+the World to come. <lb/>
+Now if this be the end of our Creation, ought we <lb/>
+                  <pb n="5"/> 
+                  <lb/>
+not to live up to it? Do we not see all other things answer <lb/>
+the end for which they were made? The Sun gives <lb/>
+Light by day, and the Moon by night. The Earth <lb/>
+brings forth Corn and Grass, and the Trees bear Fruit. <lb/>
+The Horse, the Cow and the Sheep, with many other <lb/>
+Creatures, afford us much service and benefit. And <lb/>
+shall Man alone be useless and unfruitful, and live to <lb/>
+no good purpose? When they are all so ready to serve <lb/>
+us, shall not we <normalised orig="chearfully" auto="true">cheerfully</normalised> serve him that made us for <lb/>
+his own service? Surely we cannot think that the wise <lb/>
+God sent us into the World only to eat and drink, to <lb/>
+sleep and play, or to work hard for a poor Livelihood. <lb/>
+If this were all, we had better have been made <normalised orig="bruit" auto="true">brute</normalised> <lb/>
+Creatures, or never have been made at all. Much less <lb/>
+can we think that the Holy God made us on purpose <lb/>
+to sin against him, to dishonour his Name, and provoke <lb/>
+him to anger. He did not give us Reason to make <lb/>
+us crafty and cunning for the World, that we might <lb/>
+know how to cozen and cheat our Neighbours. He <lb/>
+did not give us Tongues to swear and curse with, or <lb/>
+to talk foolishly and filthily; let us not then use them <lb/>
+to any such ill purposes. Since God has given us precious <lb/>
+immortal Souls, let us not live like Beasts that <lb/>
+perish, wallowing in the mire of base sensual Lusts <lb/>
+and Pleasures. By this means we become worse than <lb/>
+<normalised orig="Bruits" auto="true">Brutes</normalised> themselves, for we debase our own Natures, we <lb/>
+abuse our Reason to our own shame and hurt, and to <lb/>
+God's displeasure. Thus we cross the end of our Creation, <lb/>
+and are more stupid and ungrateful than the very <lb/>
+Ox or Ass: for they know their owner, and do good <lb/>
+service to those that keep and feed them, Isa. 1. 2, 3. <lb/>
+O let us not give God cause to complain of us, as he <lb/>
+there does of the Jews, that he nourished and brought up <lb/>
+Children, and they rebelled against him: Think how grievous <lb/>
+it is to you that have Children, after all your <lb/>
+care and kindness, after all your cost and labour, to <lb/>
+have them prove stubborn and disobedient, loose and <lb/>
+idle Prodigals. O see then that you be not such toward <lb/>
+your heavenly Father, who made you and preserves <lb/>
+you, and every day renews his mercies upon you. He <lb/>
+                  <fw type="pageNum">8</fw>
+                  <pb n="6"/> 
+                  <lb/>
+keeps us alive and makes our lives comfortable. He <lb/>
+gives and continues to us our Reason and Senses, our <lb/>
+Health and Strength, Food and Raiment, and all the <lb/>
+good things we enjoy. He supplies our wants, and helps <lb/>
+us in all our distresses. He gives us light by day, and <lb/>
+rest in the night. He enables us to follow our callings, <lb/>
+and gives a blessing to our labours, that we may provide <lb/>
+for our selves and Families. And does not this good God <lb/>
+well deserve all the love and service which we can possibly <lb/>
+render him? O how can we find in our hearts <lb/>
+wilfully to offend him who thus delights in doing us <lb/>
+good! Foolish and unthankful Wretches we are thus <lb/>
+ill to require the Lord for all his loving kindness. <lb/>
+We could not deal so with any Friend or Neighbour <lb/>
+on Earth, that had been always kind and loving to <lb/>
+us. Are not Servants bound to work for them who <lb/>
+maintain them and pay them Wages? And ought not <lb/>
+Children to obey their Parents who begot them and <lb/>
+brought them up? How much more then ought we to <lb/>
+obey God our Father, who gave us life at first, and <lb/>
+still prolongs it from one day to another, when he <lb/>
+could in a moment cut us off in our sins, and throw us <lb/>
+into Hell. But in much mercy he spares us, and gives <lb/>
+us space to Repent, and is very unwilling to destroy <lb/>
+us, and therefore waits long to be gracious to us. O <lb/>
+then let his patience and all his goodness at last have <lb/>
+this happy effect upon us; let it lead us to true Repentance, <lb/>
+and ever hereafter engage us to diligence <lb/>
+and constancy in his service, <normalised orig="Rom" auto="true">Room</normalised>. 2. 4. 2 Pet. 3. 9. <lb/>
+(2.) To which purpose consider again that this was <lb/>
+the end for which God sent his Son Jesus into the World, <lb/>
+even to seek and save us lost and miserable sinners, to <lb/>
+bring us to Repentance and newness of life, that so we <lb/>
+might be restored to the love and favour of God, <lb/>
+which we had lost by sinning against him. Our <lb/>
+first Parents Adam and Eve were created in a <lb/>
+very holy and happy Estate, but they fell from it <lb/>
+by sinning against God, and so came all misery into <lb/>
+the World. And then did our Heavenly Father <lb/>
+take pity on us, and sent his own Son out of his bosom <lb/>
+                  <fw type="pageNum">9</fw>
+                  <pb n="7"/> 
+                  <lb/>
+to be our Saviour and Redeemer, to reform us <lb/>
+from our Sins, and so to deliver us from misery: First <lb/>
+he will make us Holy, and then we shall be made <lb/>
+Happy. For as man lost his happiness by disobeying <lb/>
+Gods command, so he must recover it by becoming <lb/>
+obedient to his will in all things. To this end <normalised orig="hath" auto="true">has</normalised> <lb/>
+the Lord Jesus fully revealed Gods will to us when <lb/>
+we were in ignorance and darkness. He <normalised orig="hath" auto="true">has</normalised> given <lb/>
+us holy precepts for the rule of our Life: And made <lb/>
+most rich and precious promises to <normalised orig="perswade" auto="true">persuade</normalised> us to <lb/>
+our duty, and denounced dreadful <normalised orig="threatnings" auto="true">threatenings</normalised> to affright <lb/>
+us from Wickedness. <lb/>
+And when we had deserved the Wrath of God for <lb/>
+our sins, then did Jesus Christ shed his most precious <lb/>
+Blood to make Atonement for us, and to obtain our <lb/>
+pardon and forgiveness. He <normalised orig="dyed" auto="true">died</normalised> for our offences <lb/>
+and rose again for our justification. <normalised orig="Rom" auto="true">Room</normalised>. 4. 25. And <lb/>
+in his Gospel he has given full assurance of Gods good <lb/>
+will to mankind, that he will be merciful to us and <lb/>
+pardon us, if we truly repent of our sins and forsake <lb/>
+them. Thus <normalised orig="hath" auto="true">has</normalised> Christ opened a door of hope for <lb/>
+us, to encourage us to return to God: For if there <lb/>
+had been no hopes of mercy, we should never have <lb/>
+been drawn to Repentance, but even like the Devils <lb/>
+themselves should have remained full of hatred and <lb/>
+malice against God, utterly despairing of relief from <lb/>
+him. But whilst the death of Christ does so much <lb/>
+engage and encourage us to forsake our sins, it gives <lb/>
+not the least encouragement to our continuance in them. <lb/>
+Let us not think that Christ <normalised orig="dyed" auto="true">died</normalised> for our sins that we <lb/>
+might have liberty to live in them, and yet be saved at <lb/>
+the last. No, but he came to save us from our sins, not <lb/>
+in them. He makes us blessed by turning us from our <lb/>
+iniquities. He <normalised orig="dyed" auto="true">died</normalised> to redeem us from a vain and <lb/>
+evil Conversation, to purify our Hearts and reform our <lb/>
+Lives, and make us a peculiar People zealous of good <lb/>
+works, Matt. 1. 21. Act. 3. 26. Tit. 2. 14. 1 Pet 1. 18. <lb/>
+The death of Christ for us vile sinners <normalised orig="shews" auto="true">shows</normalised> the infinite <lb/>
+love of God in finding out this way for our Salvation: <lb/>
+But then it <normalised orig="shews" auto="true">shows</normalised> also what an evil thing sin <lb/>
+                  <fw type="pageNum">10</fw>
+                  <pb n="8"/> 
+                  <lb/>
+is, and how hateful to God, since he would not pardon <lb/>
+us without the suffering of his own dear Son on <lb/>
+our account. And therefore if the consideration of all <lb/>
+this does not bring us to hate and abhor our sins, and <lb/>
+to love and serve our God and Saviour, we are never <lb/>
+like to have any benefit by Christs death. All our <lb/>
+professions of loving him and believing in him will <lb/>
+stand us in no stead without obeying him. True saving <lb/>
+Faith in Christ is that which works by love both <lb/>
+to God and our Neighbour. Christ accounts none <lb/>
+to be his friends but those that keep his Commandments, <lb/>
+and to such only will he grant pardon and <lb/>
+Salvation. Gal. 5. 6. Job. 15. 14. Heb. 5. 9. 1 Joh. <lb/>
+3. 8. <lb/>
+Since then the ever-blessed Jesus the Son of God <lb/>
+came down from Heaven, became a Man, and <normalised orig="dyed" auto="true">died</normalised> <lb/>
+a most painful death upon the Cross, that he might <lb/>
+save us from sin and misery, shall we not accept of him <lb/>
+as our Lord and Saviour, who comes to deliver us <lb/>
+from the power of the Devil and our own Lusts, to <lb/>
+make us the Children of God and heirs of Glory, <lb/>
+which is a thousand times greater deliverance than <lb/>
+that of the Israelites from the <normalised orig="Aegyptian" auto="true">Egyptian</normalised> bondage. Will <lb/>
+you not be moved by all that Christ has done and <lb/>
+suffered for you? Shall not his love constrain you to <lb/>
+love him, and to hate all sin which was the cause of his <lb/>
+sufferings? Will you tread under foot his most precious <lb/>
+Blood, and even <normalised orig="crucifie" auto="true">crucify</normalised> him afresh, and again <lb/>
+put him to open shame? Thus in some sort do wicked <lb/>
+men use their Saviour, whilst they go on in their <lb/>
+sins which are so displeasing to him. They that lie <lb/>
+and cozen for a little gain; what do they but with Judas <lb/>
+sell away Christ for Money. They that live in <lb/>
+hatred and malice, and do mischief to their Neighbours, <lb/>
+do in effect run the Spear into Christs side, and drive <lb/>
+Nails into his hands and feet. And they that give <lb/>
+themselves to Riot and Drunkenness, do even mingle <lb/>
+Gall and Vinegar for him to drink. They do all that <lb/>
+in them lies by their sinful pleasures to put him again <lb/>
+into Agonies and Pains. But on the other hand, it is <lb/>
+                  <fw type="pageNum">11</fw>
+                  <pb n="9"/> 
+                  <lb/>
+a delight to our Saviour to see us humbled for our <lb/>
+sins, and resolved to forsake them. He will readily <lb/>
+and effectually <normalised orig="interceed" auto="true">intercede</normalised> for us with our heavenly Father, <lb/>
+who is most willing to receive returning Prodigals. <lb/>
+There is joy in Heaven when sinners on Earth <lb/>
+repent. Even this our return to God by true repentance <lb/>
+is the best <normalised orig="recompence" auto="true">recompense</normalised> we can make to our Blessed <lb/>
+Saviour for all his pains and sufferings. When <lb/>
+                  <quote type="biblical" ana="Isa 53.10">the pleasure of the Lord prospers in his hand</quote> by the conversion <lb/>
+of sinners, <quote type="biblical" ana="Isa 53.11">he then sees the travel of his Soul, and <lb/>
+is satisfied</quote>, Isa. 63. 10. 11. And shall we not afford <lb/>
+this satisfaction to our Redeemer, who <normalised orig="hath" auto="true">has</normalised> undergone <lb/>
+so much for our sakes, and still out of his tender love <lb/>
+to our Souls follows us with such earnest invitations <lb/>
+to come to him for life and happiness? Could we <lb/>
+deny him this most reasonable request, if we saw him <lb/>
+now in person standing before us, beseeching us to <lb/>
+turn and live? And this he now does by his Spirit <lb/>
+and by his Ministers: But that leads me to the next. <lb/>
+(3) Consider therefore that this also was the end for <lb/>
+which the Holy Ghost is given, and all the means of grace <lb/>
+afforded, even to <normalised orig="sanctifie" auto="true">sanctify</normalised> our hearts and make us an holy <lb/>
+and obedient People. God knows the weakness and <lb/>
+corruption of our Natures, and therefore in great <lb/>
+mercy he affords the assistance of his holy Spirit, to <lb/>
+enlighten our minds, and <normalised orig="purifie" auto="true">purify</normalised> our hearts, to renew <lb/>
+and change our natures, and guide us in ways of <lb/>
+holiness here, that so we may be fitted for eternal <lb/>
+happiness with the most holy God in the life to come. <lb/>
+Joh. 3. 3, 5. <normalised orig="Rom" auto="true">Room</normalised>. 8. 9. And for this end were the holy <lb/>
+Scriptures written by men assisted and inspired by <lb/>
+the Holy Ghost, to be a light to our feet and a lantern <lb/>
+to our path, to direct us in the plain way to everlasting <lb/>
+life, 2 Tim. 3. 15, 16, 17. And the holy <lb/>
+Sacraments were appointed for the <normalised orig="encrease" auto="true">increase</normalised> of grace <lb/>
+to all that make a right use of them. And our Blessed <lb/>
+Saviour did at first send abroad his Apostles to <lb/>
+Preach the Gospel to all the World, and <normalised orig="hath" auto="true">has</normalised> ever <lb/>
+since continued a succession of Ministers in his Church, <lb/>
+whose standing office it is to <normalised orig="adminster" auto="false">administer</normalised> the word and <lb/>
+                  <pb n="10"/> 
+                  <lb/>
+Sacraments, to watch over the Souls of the people, to <lb/>
+instruct and admonish them both in <normalised orig="publick" auto="true">public</normalised> and private, <lb/>
+and to use their utmost diligence to bring them to the <lb/>
+knowledge and love of God, and of his Son Jesus. And <lb/>
+God is ever ready to accompany their endeavours with <lb/>
+his blessing. Do you not often find his good Spirit putting <lb/>
+good thoughts and motions into your mind, inclining you <lb/>
+to that which is holy and good, checking and restraining <lb/>
+you when you are running into evil? But on the other <lb/>
+hand it's the evil Spirit, even the Devil himself, <lb/>
+that tempts you to sin, and would hinder you from your <lb/>
+Duty. It's the Devil that tempts men to pride and malice, <lb/>
+and to all manner of wickedness. For he being <lb/>
+a proud, malicious and most wicked Spirit, would have <lb/>
+men to be like himself, that so they may be for ever miserable <lb/>
+with him. Will you not then resist the Devil, <lb/>
+the great enemy of your Souls, and be led and guided by <lb/>
+Gods good Spirit, and follow his motions and the directions <lb/>
+of his word which lead to happiness? O do not <lb/>
+grieve this Blessed Spirit, who alone can give us true <lb/>
+comfort, do not resist and quench his motions, nor provoke <lb/>
+him to depart from you, and leave you to your <lb/>
+own lusts, and to the power of Satan, who seeks your <lb/>
+ruin. <lb/>
+Moreover, as the Devil has his instruments to draw <lb/>
+men to wickedness, one ill Man tempting another, so <lb/>
+Ministers are sent from God to draw you to righteousness <lb/>
+and holiness. They are the <normalised orig="Embassadors" auto="true">Ambassadors</normalised> and Messengers <lb/>
+of Christ, and do in his name beseech you to <lb/>
+be reconciled to God, who is most willing to be reconciled <lb/>
+to you, if you will but cast away those wicked <lb/>
+works which provoke him to anger, 2 Cor. 5. 20. O <lb/>
+how will it <normalised orig="rejoyce" auto="true">rejoice</normalised> the hearts of your Ministers that truly <lb/>
+love your Souls, to see the success of their labours, <lb/>
+to have you come to them enquiring what you must do <lb/>
+to be saved, declaring your repentance for your former <lb/>
+evil Courses, and your resolution henceforth to become <lb/>
+new Creatures. Certainly we exhort you to nothing but <lb/>
+what is highly reasonable and for your own benefit, <lb/>
+whilst we <normalised orig="perswade" auto="true">persuade</normalised> you to return to the favour of God. <lb/>
+Why then will you not hearken to us? If a message of mercy <lb/>
+                  <lb/>
+                  <fw type="pageNum">B</fw>
+                  <pb n="11"/> 
+                  <lb/>
+should be sent you from the King, when you were in <lb/>
+danger of death for Rebellion, would you not most gladly <lb/>
+and thankfully receive it? And will you not be as thankful <lb/>
+and obedient to the King of kings, and as wise to <lb/>
+save your Souls as to preserve your Bodies. <lb/>
+And beside his Word and Ministers, God also pleads <lb/>
+with you by his <normalised orig="providences" auto="true">providence</normalised> to bring you to repentance. <lb/>
+Sometimes he sends afflictions to correct you for <lb/>
+your faults, to <normalised orig="shew" auto="true">show</normalised> you the evil of sin, and draw you <lb/>
+home to himself; and at other times he sends many <lb/>
+mercies, as I have told you, to soften your hearts, to <lb/>
+engage and allure you to his service: And such good <lb/>
+use we ought to make of all Gods dealings with us. <lb/>
+(4.) Consider further what engagements you <normalised orig="ly" auto="true">lie</normalised> under <choice ana="illegible">
+                     <sic>t*</sic>
+                     <corr>to</corr>
+                  </choice> 
+                  <lb/>
+an holy life by your own profession, promises and vows. You <lb/>
+profess and call your selves Christians, the Disciples and <lb/>
+followers of Christ: Ought you not then to follow his <lb/>
+example, and obey his Commands, if you will make good <lb/>
+that name? You would think it a great disgrace not to <lb/>
+be taken for a Christian but for a Turk or Jew. Beware <lb/>
+then lest you bring this disgrace upon your selves <lb/>
+by an unchristian temper of mind, and ill course <choice ana="illegible">
+                     <sic>o*</sic>
+                     <corr>of</corr>
+                  </choice> 
+                  <lb/>
+life. If you are false or cruel, Covetous or Lustful, like <lb/>
+a Turk or Jew, it matters little what you call your <lb/>
+selves. He is not a Christian that's one outwardly, but <lb/>
+he that has the same mind and spirit that was in <choice ana="illegible">
+                     <sic>Chris*</sic>
+                     <corr>Christ</corr>
+                  </choice> 
+                  <lb/>
+Jesus. God will not at the last day judge of men by <lb/>
+their names and titles, but by their hearts and lives. <lb/>
+Only it will go much worse with a man that calls himself <lb/>
+a Christian, and yet lives like an Heathen or Infidel. <lb/>
+And pray consider how by your Baptism you are solemnly <lb/>
+listed under Christs banner, to fight against the <lb/>
+Devil, the World and the Flesh: and by the keeping <lb/>
+this vow you <normalised orig="shew" auto="true">show</normalised> your selves to be Christians indeed. <lb/>
+But if you are led away by the temptations of Satan <lb/>
+and do his works, and are ensnared by the vanities of the <lb/>
+World, the lusts and pleasures of the Flesh, you do in <lb/>
+effect renounce your Baptism. <lb/>
+Besides this, have you not renewed this same vow <choice ana="illegible">
+                     <sic>a*</sic>
+                     <corr>at</corr>
+                  </choice> 
+                  <lb/>
+the Holy Communion, there openly professing your belief <lb/>
+in Christ crucified, and promising obedience to him? <lb/>
+                  <pb n="12"/> 
+                  <lb/>
+If you have not received this Holy Sacrament, though <lb/>
+you have long been at years of discretion, you then <normalised orig="shew" auto="true">show</normalised> <lb/>
+your selves by this neglect to be no obedient Disciples <lb/>
+of Christ, since you do not obey his plain command to <lb/>
+                  <quote type="biblical" ana="Lk 22.19">do this in remembrance</quote> of him, <normalised orig="Luk" auto="true">Luck</normalised>. 22. 19. And indeed I <lb/>
+fear that many careless people will not come to the <lb/>
+Communion, because they think it would bind them to <lb/>
+lead such a strict and holy life as they have no mind to. <lb/>
+But do not they cast off Jesus Christ from being their <lb/>
+Master, who look upon his commands as too strict and <lb/>
+severe, and will not promise to obey him? Yea do they not <lb/>
+thereby even disown their Baptism, by which they were <lb/>
+bound to this obedience? So that the same reason which <lb/>
+keeps them from the Communion, it's like would keep <lb/>
+them from being <normalised orig="Baptized" auto="true">Baptised</normalised>, if it were yet to be done. <lb/>
+And what sort of Christians are they that would reject <lb/>
+Christian Baptism, because it engages them to an holy <lb/>
+life? <lb/>
+If you are not guilty of this neglect, but do sometimes <lb/>
+come to the Lords Supper, to keep up the remembrance <lb/>
+of his death and sufferings: Then pray consider that by <lb/>
+receiving this holy Sacrament, you do solemnly renew <lb/>
+your vows to be Christ's faithful Servants and Disciples, <lb/>
+and to walk in sincere obedience to all his holy Laws, <lb/>
+as you hope for Salvation by his death. Wherefore <lb/>
+may I not well beseech you to use all due care to live <lb/>
+according to this your promise and engagement. What <lb/>
+a shame is it for a Man to be false to his word, much <lb/>
+more to his Oath? O do not then break that Oath which <lb/>
+you have made to God himself by taking this holy Sacrament. <lb/>
+And call to mind if you have not sometimes <lb/>
+on a Sick-bed, or in some great danger made the same <lb/>
+promise and vow: And has not God spared you to see how <lb/>
+you would perform the same? Take heed then of abusing <lb/>
+his mercy and breaking your promise. <lb/>
+Moreover, I might <normalised orig="shew" auto="true">show</normalised> how your professing to believe <lb/>
+the Creed engages you to live well, according to <lb/>
+the holy faith you profess, which is a doctrine according <lb/>
+to godliness. <lb/>
+But, lastly, the very prayers you put up to God lay <lb/>
+the same engagement on you, even to serve and <choice ana="illegible">
+                     <sic>plea*e</sic>
+                     <corr>please</corr>
+                  </choice>
+                  <lb/>
+                  <lb/>
+                  <fw type="pageNum">B 2</fw>
+                  <pb n="13"/> 
+                  <lb/>
+this God whom you Worship. To instance briefly in <lb/>
+the Lords prayer, whilst we call God Our Father, &amp;c. <lb/>
+ought we not to love and honour him, to obey him and <lb/>
+submit to him as our heavenly Father? Whilst we pray <lb/>
+that his <quote type="biblical" ana="Mt 6.9">name may be hallowed, his Kingdom come, and <lb/>
+his will done in Earth as it is in Heaven</quote>, ought we not <lb/>
+our selves to honour his name, and advance his Kingdom, <lb/>
+by obeying his Laws, and by doing his will constantly <lb/>
+and <normalised orig="chearfully" auto="true">cheerfully</normalised> as the Angels do in Heaven, to be utmost <lb/>
+of our power? Praying for <quote type="biblical" ana="Mt 6.10">daily Bread</quote> teaches our <lb/>
+<normalised orig="dependance" auto="true">dependence</normalised> upon God, and engages us to serve him by <lb/>
+whom we are maintained. When we pray God <quote type="biblical" ana="Mt 6.12">to forgive <lb/>
+our Trespasses as we forgive others</quote>, this strictly binds <lb/>
+us to forgive those that offend us, as ever we hope for <lb/>
+mercy from God. And when we pray not <quote type="biblical" ana="Mt 6.13">to be led <choice ana="illegible">
+                        <sic>int*</sic>
+                        <corr>into</corr>
+                     </choice> 
+                     <lb/>
+temptation but delivered from Evil</quote>, this should restrain <lb/>
+us from running into temptation, and make us careful <lb/>
+to avoid all sin and the occasions of it. To the <choice ana="illegible">
+                     <sic>sam*</sic>
+                     <corr>same</corr>
+                  </choice> 
+                  <lb/>
+purpose I might also mention the Prayers of the Church, <lb/>
+to which I hope you come frequently. Therein you begin <lb/>
+with the Confession of your sins, and ought you <choice ana="illegible">
+                     <sic>no*</sic>
+                     <corr>not</corr>
+                  </choice> 
+                  <lb/>
+to forsake as well as confess them? And in the end <choice ana="illegible">
+                     <sic>o*</sic>
+                     <corr>of</corr>
+                  </choice> 
+                  <lb/>
+the confession you pray God for Christs sake to grant <choice ana="illegible">
+                     <sic>th*</sic>
+                     <corr>that</corr>
+                  </choice> 
+                  <lb/>
+you may lead godly, righteous and sober lives. And <choice ana="illegible">
+                     <sic>almo*</sic>
+                     <corr>almost</corr>
+                  </choice> 
+                  <lb/>
+in every prayer you will find somewhat to this effect. <lb/>
+Now I hope you are in good earnest in these your prayers, <lb/>
+else you do mock God and affront him, instead <choice ana="illegible">
+                     <sic>o*</sic>
+                     <corr>of</corr>
+                  </choice> 
+                  <lb/>
+worshipping and pleasing him. But if you do <choice ana="illegible">
+                     <sic>heartil*</sic>
+                     <corr>heartily</corr>
+                  </choice> 
+                  <lb/>
+desire these things which you pray for, then you  <choice ana="illegible">
+                     <sic>wi*</sic>
+                     <corr>will</corr>
+                  </choice> 
+                  <lb/>
+do your part for the attainment of them, and will diligently <lb/>
+endeavour to live in so holy and good a <choice ana="illegible">
+                     <sic>mann*</sic>
+                     <corr>manner</corr>
+                  </choice> 
+                  <lb/>
+as you pray that you may do. And if you thus <choice ana="illegible">
+                     <sic>ad*</sic>
+                     <corr>add</corr>
+                  </choice> 
+                  <lb/>
+diligence to your prayers, Gods grace will never be <choice ana="illegible">
+                     <sic><normalised orig="wa" auto="true">was</normalised>*ing</sic>
+                     <corr>wanting</corr>
+                  </choice> 
+                  <lb/>
+for your assistance. <lb/>
+(5.) Consider also how just and equal all Gods commandments <lb/>
+are, such that our own Reason cannot but approve <lb/>
+of them, as being most agreeable to us as we <choice ana="illegible">
+                     <sic>a*</sic>
+                     <corr>are</corr>
+                  </choice> 
+                  <lb/>
+Reasonable Creatures. To instance in the chief of them: <lb/>
+Is it not most just and fit that we should love God <choice ana="illegible">
+                     <sic>abo*</sic>
+                     <corr>above</corr>
+                  </choice> 
+                  <lb/>
+all, who is the best and most perfect of all Beings, <choice ana="illegible">
+                     <sic>an*</sic>
+                     <corr>and</corr>
+                  </choice> 
+                  <lb/>
+from whom we receive all our good things? Ought <choice ana="illegible">
+                     <sic>w*</sic>
+                     <corr>we</corr>
+                  </choice>
+                  <lb/>
+                  <pb n="14"/> 
+                  <lb/>
+not to pray to him who alone can hear and help us, and to <lb/>
+give thanks and praise to him who is the Father of mercies? <lb/>
+Is it not most reasonable that Children should obey their <lb/>
+Parents, and Subjects their Rulers? and that all men <lb/>
+should live in peace and love with one another, and <lb/>
+speak truly, and deal honestly as they would be dealt <lb/>
+with? Is it not most fit and decent for a Man to eat and <lb/>
+drink moderately, so as makes most for his health? To <lb/>
+be modest and <normalised orig="chast" auto="true">chaste</normalised> in all his conversation? Will not <lb/>
+every Mans own Reason acknowledge the equity and fitness <lb/>
+of these and the like precepts? And for some that do <lb/>
+seem more severe, there may be given very good reason <lb/>
+for them also. So that plainly all Gods commands are <lb/>
+the wise and wholesome counsels of a most tender Father, <lb/>
+who forbids his Children nothing but what's hurtful, <lb/>
+and requires nothing of them but what makes for <lb/>
+their own good, even <quote type="biblical" ana="Mic 6.8">to deal justly, to love mercy, and <lb/>
+to walk humbly with their God</quote>, Mic. 6. 8. <quote type="biblical" ana="Mt 11.30">Christs Yoke is <lb/>
+<normalised orig="easie" auto="true">easy</normalised> and his burden light</quote>, Matt. 11. 30. Gods service is <lb/>
+perfect freedom, as we daily stile it in our prayers. And <lb/>
+                  <quote type="biblical" ana="1 Jn 5.3">his commandments are not grievous</quote>, 1 Joh. 5. 3. Shall we <lb/>
+not then be so dutiful to our heavenly Father, yea so <lb/>
+wise for our own good as to obey these most reasonable <lb/>
+and gracious laws which he has given us? So just and <lb/>
+equal they are, that we cannot break them without offering <lb/>
+a kind of violence to our selves, and going contrary <lb/>
+to the reason of our own mind. They are <quote type="psalm" ana="Ps 19.8">light to <lb/>
+the eyes</quote> and <quote type="psalm" ana="Ps 19.8">joy to the heart</quote>, <quote type="psalm" ana="Ps 19.10">sweeter to a good Man than <lb/>
+honey and the honey-comb</quote>, as the Psalmist oft speaks. As <lb/>
+suitable are Gods commands to our natures, and as useful <lb/>
+and healthful to our Souls as the most wholesome <lb/>
+food to our Bodies. And for a Man to direct his whole <lb/>
+carriage and behaviour according to the laws of God, is <lb/>
+as much his wisdom as it is to go <normalised orig="cloathed" auto="true">clothed</normalised> in decent <lb/>
+Apparel, and to eat and drink what is good for his <lb/>
+nourishment. But on the other hand, for one to run <lb/>
+naked about the Streets, to fill his mouth with mire and <lb/>
+Dirt, to cut and mangle his own Flesh, is not a greater <lb/>
+sign of folly and madness, than for a Man to live according <lb/>
+to his own lusts, rather than after the laws of God, <lb/>
+which are so agreeable to our Reason, and do so plainly <lb/>
+                  <lb/>
+                  <fw type="pageNum">B 3</fw>
+                  <pb n="15"/> 
+                  <lb/>
+conduce to our own truest interest and advantage, both in <lb/>
+this Life, and that to come, as will appear by what follows. <lb/>
+(6.) Consider therefore in the next place, that it is a <lb/>
+most certain truth, That the leading of an holy and good <lb/>
+Life, is in all respects very greatly for a Man's own benefit <lb/>
+and comfort, even in this present World. <quote type="biblical" ana="1 Tim 4.8">Godliness is profitable <lb/>
+for all things</quote>. It makes for the quiet of our Minds, <lb/>
+the health of our Bodies, the <normalised orig="encrease" auto="true">increase</normalised> of our Estates, and <lb/>
+procures us much credit and esteem, much love and good <lb/>
+will among our Neighbours. Yea, it commonly brings <lb/>
+along with it all manner of Blessings, and makes the enjoyment <lb/>
+of them more sweet and pleasant, and keeps off <lb/>
+a great deal of trouble which wicked men bring upon <lb/>
+themselves, and affords much support and ease under <lb/>
+those afflictions which the providence of God may lay <lb/>
+upon us. <normalised orig="Insomuch" auto="true">Inasmuch</normalised> that no Man of what rank and condition <lb/>
+<normalised orig="soever" auto="true">however</normalised>, can lead a truly comfortable Life, except <lb/>
+he lead an holy and good life. All this is frequently <lb/>
+taught in Scripture, and may easily be manifested by clear <lb/>
+Reason: Or if that be not sufficient, it is also most plainly <lb/>
+to be discerned by daily experience, that they who truly <lb/>
+                  <choice ana="illegible">
+                     <sic>f*r</sic>
+                     <corr>fear</corr>
+                  </choice> God, have much more peace and comfort in this <lb/>
+World, than wicked and loose livers, that make no <lb/>
+Conscience of their Ways. <lb/>
+If I should make the comparison only betwixt a sober <lb/>
+Man and a Drunkard, which do you think has the better <lb/>
+of it in this Life? How often do the great drinkers not <lb/>
+only waste their Estates, but destroy their Health, weaken <lb/>
+their Brains, and shorten their Lives? How often do <lb/>
+they fall into quarrels, get wounds and bruises, and sometimes <lb/>
+death it self, either by fighting or by one sad accident <lb/>
+or other. Sometimes the very Children in the <lb/>
+streets run after them, shouting and making sport with <lb/>
+them. And if you follow them to their own Homes, what <lb/>
+disturbance and mischief do they make there? what <lb/>
+swearing and cursing, what brawling and scolding, what <lb/>
+quarrelling and fighting is there? What outcries and lamentations <lb/>
+do Wife and Children make? who now perhaps <lb/>
+are glad to get away for fear of their Lives, as before <lb/>
+they sat starving for want of that Money which these <lb/>
+ill Husbands waste in the Ale-house. (A sin and shame it <lb/>
+                  <pb n="16"/> 
+                  <lb/>
+is to those that entertain them.) And after they have lived <lb/>
+a while at this wild and wicked rate, the next news commonly <lb/>
+is, that either for Debt or for Disorder they <choice ana="illegible">
+                     <sic>a*e</sic>
+                     <corr>are</corr>
+                  </choice> 
+                  <lb/>
+laid up in Prison, and sometimes by those very People in <lb/>
+whose Houses they drunk away all they got. And now <lb/>
+are they forced to live upon Bread and Water, and linger <lb/>
+out a miserable hungry Life, in a cold stinking Dungeon, <lb/>
+till either the Charity of Friends, or Death it self release <lb/>
+them thence. (And by the way, is this such a pleasant <lb/>
+Life that it's worth being <normalised orig="damn'd" auto="true">damned</normalised> for to Hell-torments <lb/>
+to all eternity? of which <normalised orig="afterward" auto="true">afterwards</normalised>.) <lb/>
+Thus also I might tell of the sad effects of Whoredom, <lb/>
+which is commonly <normalised orig="follow'd" auto="false">followed</normalised> with poverty and disgrace, <lb/>
+and many times with a filthy <normalised orig="loathsom" auto="true">loathsome</normalised> disease, which makes <lb/>
+Men rot above ground. And thus, angry, proud, malicious, <lb/>
+revengeful People are a continual torment to themselves <lb/>
+and to all about them, and seldom have any peace or <lb/>
+quiet either with their Neighbours or in their own Families. <lb/>
+The like may be <normalised orig="shewn" auto="true">shown</normalised> of all other Vices which <lb/>
+are still wont to bring their own punishment along with <lb/>
+them; to say nothing of what is or ought to be <choice ana="illegible">
+                     <sic>in*licted</sic>
+                     <corr>inflicted</corr>
+                  </choice> 
+                  <lb/>
+by the Magistrate. Especially such wicked People as <lb/>
+Thieves and Murderers, Traitors and Rebels, do seldom <lb/>
+escape the hands of <normalised orig="publick" auto="true">public</normalised> Justice. But who will hurt <choice ana="illegible">
+                     <sic>M*n</sic>
+                     <corr>Men</corr>
+                  </choice> 
+                  <lb/>
+if they be followers of that which is good? Or what hurt does <lb/>
+a man bring upon himself by living soberly and <normalised orig="chastly" auto="true">chastely</normalised>, <lb/>
+by fearing God and honouring the King? What mischief <lb/>
+does a man get by minding his own Business, and living <lb/>
+quietly and peaceably amongst his Neighbours? Nay, <lb/>
+how happily may we see even some of the meanest sort <lb/>
+of People live, that are diligent in their Callings, and sober <lb/>
+and temperate, and careful to please God, and keep <lb/>
+a good Conscience in all their ways. Very seldom it is <lb/>
+that they are pinched with much Want, or if they <choice ana="illegible">
+                     <sic>shou*d</sic>
+                     <corr>should</corr>
+                  </choice> 
+                  <lb/>
+fall into a low Condition, yet all good People that know <lb/>
+them, are ready to pity and relieve them: and will often <lb/>
+trust them with Money or Goods till they are able to pay. <lb/>
+And every body is willing to employ an honest industrious <lb/>
+Man, so that he shall seldom want Work or <lb/>
+Trading. But idle, riotous People that follow whoring <lb/>
+and drinking, gaming and cheating, and stealing, that <lb/>
+                  <lb/>
+                  <fw type="pageNum">B 4</fw>
+                  <pb n="17"/> 
+                  <lb/>
+neglect God's service and profane the Lord's day, being <lb/>
+often in the Ale-house when they should be at Church; <lb/>
+these are the People, if you observe it, that do commonly <lb/>
+fall into the basest <normalised orig="beggery" auto="true">beggary</normalised> and misery; and men do <lb/>
+but little pity them, because they brought it all upon themselves. <lb/>
+O how happy might all sorts of People be, in a <lb/>
+very great measure even at present, if they would but <lb/>
+become truly Religious and good. It is their own sin <lb/>
+and folly, their lusts and passions that occasion most of <lb/>
+those troubles and miseries which they meet with; <lb/>
+though I know they use to cry out of their hard fortune, <lb/>
+and to lay the blame upon others, and sometimes to <normalised orig="murmure" auto="true">murmur</normalised> <lb/>
+against God himself. But they consider not how <lb/>
+they provoke God to anger daily by their <normalised orig="hainous" auto="true">heinous</normalised> sins, <lb/>
+and therefore may justly feel his heavy judgments for <lb/>
+the same, beside all the mischief which naturally follows <lb/>
+upon wickedness. And this makes their Condition to be <lb/>
+sad indeed that they are always liable to the wrath of <lb/>
+God, and may justly expect his vengeance to fall upon <lb/>
+them, and to strip them of all their Comforts, and throw <lb/>
+them into the sorest Calamities. <lb/>
+                  <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

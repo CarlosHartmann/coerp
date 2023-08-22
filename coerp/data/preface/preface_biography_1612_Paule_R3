@@ -1,0 +1,118 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Life of <normalised orig="Iohn" auto="true">John</normalised> Whitgift</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="GePa1563"><normalised orig="Paule" auto="true">Paul</normalised>, George</author>
+               <title type="main">"No title" In: <normalised orig="Paule" auto="true">Paul</normalised>, George. The life of the most reverend and <normalised orig="religiovs" auto="true">religious</normalised> prelate <normalised orig="Iohn" auto="true">John</normalised> Whitgift, Lord Archbishop of Canterbury.</title>
+               <title type="short">Preface Life of <normalised orig="Iohn" auto="true">John</normalised> Whitgift</title>
+               <date when="1612">1612</date>
+               <date type="this_edition" when="1612">1612</date>
+               <idno type="STC">19484</idno>
+               <note type="genre" subtype="preface_biography">biography preface</note>
+               <note type="sample" target="#GePa1563_1612_preface_biography_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="illustrations" subtype="FehlendeEingabe">true</term>
+                     </item>
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="GePa1563_1612_preface_biography_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+To the Reader.<lb/>
+                  <lb/>
+IT was <normalised orig="farre" auto="true">far</normalised> from my<lb/>
+thoughts, that these first<lb/>
+draughts of mine, which I<lb/>
+<normalised orig="onely" auto="true">only</normalised> intended as minutes<lb/>
+and directions for a more<lb/>
+<normalised orig="skilfull" auto="true">skilful</normalised> <normalised orig="penne-man" auto="false">pen-man</normalised>; should<lb/>
+<normalised orig="euer" auto="true">ever</normalised> <normalised orig="haue" auto="true">have</normalised> <normalised orig="shewed" auto="true">showed</normalised> <normalised orig="themselues" auto="true">themselves</normalised> to the world, had<lb/>
+not the <normalised orig="backwardnesse" auto="true">backwardness</normalised> of some, and the <normalised orig="importunitie" auto="true">importunity</normalised><lb/>
+of others, <normalised orig="driuen" auto="true">driven</normalised> me to the Orators resolution;<lb/>
+who saith, I had rather any man should<lb/>
+<normalised orig="doe" auto="true">do</normalised> it, then my <normalised orig="selfe" auto="true">self</normalised>: yet my <normalised orig="selfe" auto="true">self</normalised>, rather<lb/>
+then none at all. The argument may <normalised orig="peraduenture" auto="true">peradventure</normalised><lb/>
+sooner <normalised orig="finde" auto="true">find</normalised> some maligners, then <normalised orig="iust" auto="true">just</normalised> <normalised orig="reprouers" auto="false">reprovers</normalised>.<lb/>
+Wherein yet, as <normalised orig="farre" auto="true">far</normalised> as the importance<lb/>
+and necessity of the cause will suffer, I <normalised orig="haue" auto="true">have</normalised> so warily<lb/>
+tempered the <normalised orig="sharpnesse" auto="true">sharpness</normalised> of my <normalised orig="penne" auto="true">pen</normalised>, that I<lb/>
+hope none of moderate humour <normalised orig="himselfe" auto="true">himself</normalised>, will<lb/>
+                  <pb n="1"/>
+                  <lb/>
+<normalised orig="iustly" auto="true">justly</normalised> charge me of being immoderate herein.<lb/>
+But yet if any where I shall <normalised orig="seeme" auto="true">seem</normalised> otherwise; the<lb/>
+<normalised orig="discreete" auto="true">discreet</normalised> Reader will see, it is out of the instructions,<lb/>
+Records, and Authors whom I follow, and<lb/>
+not out of mine <normalised orig="owne" auto="true">own</normalised> disposition, who desired as<lb/>
+well herein, as in other of my courses, rather to<lb/>
+imitate my <normalised orig="Maister" auto="true">Master</normalised> in his <normalised orig="milde" auto="true">mild</normalised> and moderate<lb/>
+carriage, then willingly to be <normalised orig="offensiue" auto="true">offensive</normalised> or displeasing<lb/>
+to any. Neither is it my purpose to <normalised orig="haue" auto="true">have</normalised> the<lb/>
+ashes of the dead raked <normalised orig="vp" auto="true">up</normalised> <normalised orig="againe" auto="true">again</normalised>. But as no man<lb/>
+can rightly commend a Commander, or <normalised orig="skilfull" auto="true">skilful</normalised> Pilot,<lb/>
+without relating their passed exploits, and<lb/>
+dangerous <normalised orig="stormes" auto="true">storms</normalised>: So neither could I, without<lb/>
+wronging my Reader, and the <normalised orig="principall" auto="true">principal</normalised> <normalised orig="Subiect" auto="true">Subject</normalised>,<lb/>
+commend him for so <normalised orig="worthie" auto="true">worthy</normalised> and prudent a <normalised orig="Gouernour" auto="true">Governor</normalised>,<lb/>
+<normalised orig="vnlesse" auto="true">unless</normalised> I had <normalised orig="withall" auto="true">withal</normalised> <normalised orig="giuen" auto="true">given</normalised> a taste of his<lb/>
+<normalised orig="aduentures" auto="true">adventures</normalised>, and the <normalised orig="stormie" auto="true">stormy</normalised> time wherein he <normalised orig="liued" auto="true">lived</normalised>.<lb/>
+And therefore I pray thee courteous Reader,<lb/>
+both charitably and modestly to censure my<lb/>
+<normalised orig="trauell" auto="true">travel</normalised> and <normalised orig="paines" auto="true">pains</normalised> herein.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

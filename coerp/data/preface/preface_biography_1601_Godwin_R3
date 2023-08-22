@@ -1,0 +1,224 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface <normalised orig="Catalogve" auto="false">Catalogue</normalised> Bishops of England</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="FrGo1562">Godwin, Francis</author>
+               <title type="main">"No title" In: Godwin, Francis. A <normalised orig="catalogve" auto="false">catalogue</normalised> of the Bishops of England, since the first planting of Christian religion in this Island [...]</title>
+               <title type="short">Preface <normalised orig="Catalogve" auto="false">Catalogue</normalised> Bishops of England</title>
+               <date when="1601">1601</date>
+               <date type="this_edition" when="1601">1601</date>
+               <idno type="STC">11937</idno>
+               <note type="genre" subtype="preface_biography">biography preface</note>
+               <note type="sample" target="#FrGo1562_1601_preface_biography_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="FrGo1562_1601_preface_biography_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+To the Reader.<lb/>
+                  <lb/>
+I Cannot deny, but my delight in the study of histories<lb/>
+and antiquities, <normalised orig="hath" auto="true">has</normalised> <normalised orig="beene" auto="true">been</normalised> somewhat<lb/>
+greater, then was <normalised orig="needfull" auto="true">needful</normalised> for a man that had<lb/>
+dedicated <normalised orig="himselfe" auto="true">himself</normalised> and his labours <normalised orig="vnto" auto="true">unto</normalised> the<lb/>
+<normalised orig="seruice" auto="true">service</normalised> of Gods church in the <normalised orig="Ministery" auto="true">Ministry</normalised>. Which<lb/>
+                  <choice ana="illegible">
+                     <sic><normalised orig="faul" auto="true">foul</normalised>*</sic>
+                     <corr>fault</corr>
+                  </choice> acknowledging in my <normalised orig="selfe" auto="true">self</normalised>, and being <normalised orig="vnable" auto="true">unable</normalised> <normalised orig="wholy" auto="true">wholly</normalised> to<lb/>
+                  <choice ana="illegible">
+                     <sic>a*end</sic>
+                     <corr>amend</corr>
+                  </choice> (trahit <choice ana="illegible">
+                        <sic>*a</sic>
+                        <corr>sua</corr>
+                     </choice> quemq; voluptas, and I would to God that<lb/>
+                  <choice ana="illegible">
+                     <sic>we*e</sic>
+                     <corr>were</corr>
+                  </choice> the <normalised orig="woorst" auto="true">worst</normalised> might be said of me) I <normalised orig="endeuoured" auto="true">endeavoured</normalised> long since<lb/>
+in some sort to <normalised orig="reforme" auto="true">reform</normalised> the same by <normalised orig="restrayning" auto="true">restraining</normalised> my <normalised orig="selfe" auto="true">self</normalised> within<lb/>
+the <normalised orig="compasse" auto="true">compass</normalised> of such antiquities, as seemed to <normalised orig="concerne" auto="true">concern</normalised> but<lb/>
+                  <choice ana="illegible">
+                     <sic>eccl*siasticall</sic>
+                     <corr><normalised orig="ecclesiasticall" auto="true">ecclesiastical</normalised></corr>
+                  </choice> causes or persons. My collections the one way (I<lb/>
+<normalised orig="meane" auto="true">mean</normalised> concerning matters <normalised orig="ecclesiasticall" auto="true">ecclesiastical</normalised>) can <normalised orig="adde" auto="true">add</normalised> nothing<lb/>
+<normalised orig="vnto" auto="true">unto</normalised> that large and <normalised orig="painefull" auto="true">painful</normalised> <normalised orig="worke" auto="true">work</normalised> of Master <normalised orig="Foxe" auto="true">Fox</normalised>. In the<lb/>
+other <normalised orig="kinde" auto="true">kind</normalised> (concerning <choice ana="illegible">
+                     <sic>ecclesi*sticall</sic>
+                     <corr><normalised orig="ecclesiasticall" auto="true">ecclesiastical</normalised></corr>
+                  </choice> persons) what many<lb/>
+<normalised orig="yeeres" auto="true">years</normalised> reading &amp; <normalised orig="obseruation" auto="true">observation</normalised> could <normalised orig="yeeld" auto="true">yield</normalised> <normalised orig="vnto" auto="true">unto</normalised> me, some <normalised orig="seuen" auto="true">seven</normalised><lb/>
+or eight <normalised orig="yeeres" auto="true">years</normalised> since I comprised in a volume; which (being<lb/>
+<normalised orig="perswaded" auto="true">persuaded</normalised> <normalised orig="therunto" auto="true">thereunto</normalised> by <normalised orig="diuers" auto="true">divers</normalised> my friends no <normalised orig="lesse" auto="true">less</normalised> godly then<lb/>
+wise) I <normalised orig="haue" auto="true">have</normalised> at last <normalised orig="condiscended" auto="true">condescended</normalised> (after some <normalised orig="conuenient" auto="true">convenient</normalised> augmentation<lb/>
+of the same) to publish. The <normalised orig="principall" auto="true">principal</normalised> reason that<lb/>
+<normalised orig="mooued" auto="true">moved</normalised> me thereunto, is in effect but that, which Tacitus saith<lb/>
+<normalised orig="euery" auto="true">every</normalised> historiographer should propose <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="himselfe" auto="true">himself</normalised>, Ne virtutessilea~tur,<lb/>
+vtq; prauis dictis factisq; ex posteritate &amp; infamia<lb/>
+metus sit. In the latter of these (the faults of those men<lb/>
+of whom I am to write) I need not greatly to <normalised orig="paine" auto="true">pain</normalised> my <normalised orig="selfe" auto="true">self</normalised>.<lb/>
+For it is not to be denied, that the most part of the Chroniclers<lb/>
+&amp; historiographers of our age, <normalised orig="haue" auto="true">have</normalised> borne a hand hard <normalised orig="ynough" auto="true">enough</normalised><lb/>
+at least <normalised orig="vpon" auto="true">upon</normalised> the Prelates and <normalised orig="Cleargy" auto="true">Clergy</normalised> of former times, <normalised orig="euery" auto="true">every</normalised><lb/>
+where like Chams, <normalised orig="discouering" auto="true">discovering</normalised> the <normalised orig="nakednes" auto="true">nakedness</normalised> of these fathers,<lb/>
+but <normalised orig="seldome" auto="true">seldom</normalised> or <normalised orig="neuer" auto="true">never</normalised> <normalised orig="indeuouring" auto="false">endeavouring</normalised> with Sem to hide the same,<lb/>
+much <normalised orig="lesse" auto="true">less</normalised> <normalised orig="affoording" auto="false">affording</normalised> <normalised orig="vnto" auto="true">unto</normalised> them any <normalised orig="honorable" auto="true">honourable</normalised> mention <normalised orig="neuer" auto="true">never</normalised><lb/>
+so well <normalised orig="deserued" auto="true">deserved</normalised>. This <normalised orig="kinde" auto="true">kind</normalised> of dealing though happily intended<lb/>
+to good purposes, might not expect that <normalised orig="successe" auto="true">success</normalised> and blessing<lb/>
+                  <pb n="1"/>
+                  <lb/>
+at Gods hand, that the <normalised orig="plaine" auto="true">plain</normalised> and sincere truth is wont to<lb/>
+<normalised orig="finde" auto="true">find</normalised>. As Marcellus Bishop of Ancyra (Socrates reports<lb/>
+it) labouring a little too earnestly against one Asterius an Arian,<lb/>
+and so derogating impiously from the person and dignity<lb/>
+of our <normalised orig="Sauiour" auto="true">Saviour</normalised> Christ, by forcing some reasons of Paulus Samosatenus<lb/>
+(that <normalised orig="swaruing" auto="false">swerving</normalised> as <normalised orig="farre" auto="true">far</normalised> on the other side <normalised orig="dispoyled" auto="true">despoiled</normalised><lb/>
+the same our <normalised orig="Sauiour" auto="true">Saviour</normalised> of his humanity) he fell at last <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+and drew many others into those pernicious &amp; impious errors<lb/>
+of the Samosatenians:<lb/>
+                  Stulti dum vitant vitia in contraria currunt)<lb/>
+<normalised orig="Euen" auto="true">Even</normalised> so, these men <normalised orig="inioyning" auto="true">enjoining</normalised> somewhat too furiously the superstition<lb/>
+and errors which the <normalised orig="Cleargy" auto="true">Clergy</normalised> of former times (much<lb/>
+<normalised orig="deale" auto="true">deal</normalised> of ignorance) did teach and defend; <normalised orig="whilest" auto="true">whilst</normalised> that the rather<lb/>
+to discredit their doctrine, they <normalised orig="depraued" auto="true">depraved</normalised> their persons;<lb/>
+it <normalised orig="hath" auto="true">has</normalised> pleased God, that this <normalised orig="vncharitable" auto="true">uncharitable</normalised> course should sort<lb/>
+to some other effect then was intended, and that such, as without<lb/>
+his great mercy, was like to <normalised orig="haue" auto="true">have</normalised> caused an <normalised orig="inconuenience" auto="true">inconvenience</normalised><lb/>
+of little <normalised orig="lesse" auto="true">less</normalised> importance (I will not say greater) then that<lb/>
+which our late reformation <normalised orig="hath" auto="true">has</normalised> redressed. For in the vulgar<lb/>
+sort (which distinguish not so easily <normalised orig="betweene" auto="true">between</normalised> persons and<lb/>
+things) it bred a conceit, not <normalised orig="onely" auto="true">only</normalised> that the men were wicked,<lb/>
+and so their doctrine corrupt (although I know the <normalised orig="conseque~ce" auto="false">consequence</normalised><lb/>
+to be <normalised orig="weake" auto="true">weak</normalised>) but also their functions and callings to be <normalised orig="vtterly" auto="true">utterly</normalised><lb/>
+<normalised orig="vnlawful" auto="true">unlawful</normalised> &amp; Antichristian, which opinion once <normalised orig="receiued" auto="true">received</normalised> in the<lb/>
+minds of the multitude, <normalised orig="gaue" auto="true">gave</normalised> occasion of <normalised orig="diuers" auto="true">divers</normalised> plots, coloured<lb/>
+with the plausible <normalised orig="shew" auto="true">show</normalised> of reformation, but indeed principally<lb/>
+<normalised orig="ayming" auto="true">aiming</normalised> at the goods and <normalised orig="reuenues" auto="true">revenues</normalised> of the church, the <normalised orig="temporall" auto="true">temporal</normalised><lb/>
+rewards of learning; which being once taken away, what confusion<lb/>
+is like to follow, we may easily see by the effects it <normalised orig="bringeth" auto="true">brings</normalised><lb/>
+<normalised orig="foorth" auto="true">forth</normalised> elsewhere. Those countries that heretofore <normalised orig="haue" auto="true">have</normalised><lb/>
+<normalised orig="yeelded" auto="true">yielded</normalised> great plenty of <normalised orig="able-worke-folkes" auto="false">able-work-folks</normalised> for the Lords vineyard;<lb/>
+now that brood is spent which <normalised orig="attayned" auto="true">attained</normalised> learning, the rewards<lb/>
+yet standing whole; they hardly can <normalised orig="shew" auto="true">show</normalised> a man able to<lb/>
+set pen to paper in <normalised orig="defense" auto="true">defence</normalised> of the truth. Yea <normalised orig="euen" auto="true">even</normalised> amongst <normalised orig="vs" auto="true">us</normalised>,<lb/>
+                  <pb n="2"/>
+                  <lb/>
+although the godly and excellent care of her <normalised orig="Maiestie" auto="true">Majesty</normalised> <normalised orig="hath" auto="true">has</normalised><lb/>
+<normalised orig="preserued" auto="true">preserved</normalised> the state of this our church in such sort, as I <normalised orig="thinke" auto="true">think</normalised><lb/>
+no other reformed Church of <normalised orig="Christendome" auto="true">Christendom</normalised> any thing <normalised orig="neere" auto="true">near</normalised><lb/>
+comparable <normalised orig="vnto" auto="true">unto</normalised> it; yet the example of other, the <normalised orig="knowen" auto="true">known</normalised><lb/>
+                  <choice ana="illegible">
+                     <sic>greed*nes</sic>
+                     <corr><normalised orig="greedines" auto="true">greediness</normalised></corr>
+                  </choice> of so many sacrilegious <normalised orig="cormora~ts" auto="false">cormorants</normalised> as await daily the<lb/>
+destruction of the same, and the doubt least it will decay, for<lb/>
+that we cannot hope for the like piety in all succeeding Princes;<lb/>
+it so far <normalised orig="foorth" auto="true">forth</normalised> <normalised orig="discourageth" auto="true">discourages</normalised> men from the study of <normalised orig="diuinity" auto="true">divinity</normalised>,<lb/>
+as the best wits <normalised orig="dayly" auto="true">daily</normalised> refuse the <normalised orig="Vniuersities" auto="true">Universities</normalised> (or <normalised orig="Diuinity" auto="true">Divinity</normalised> at<lb/>
+the least, which in some other countries is accounted the surest<lb/>
+way to <normalised orig="aduauncement" auto="true">advancement</normalised>) and rather betake <normalised orig="themselues" auto="true">themselves</normalised> to any<lb/>
+other kind of life. Hereof it <normalised orig="commeth" auto="true">comes</normalised> to <normalised orig="passe" auto="true">pass</normalised>, that <normalised orig="euery" auto="true">every</normalised> age<lb/>
+<normalised orig="bringeth" auto="true">brings</normalised> forth <normalised orig="lesse" auto="true">less</normalised> plenty of learned men then other amongst<lb/>
+<normalised orig="vs" auto="true">us</normalised>: And it is much to <choice ana="print-error">
+                     <sic>befeared</sic>
+                     <corr>be feared</corr>
+                  </choice>, least our posterity will too<lb/>
+<normalised orig="truely" auto="true">truly</normalised> say, AEtas parentum peior Auis tulit<lb/>
+Nos rudiores, mox daturos<lb/>
+Progeniem ineruditiosam.
+                  <lb/>
+To make no mention of such other reasons as might induce me<lb/>
+to the publishing of these notes, least I make my porch larger<lb/>
+then some <normalised orig="principall" auto="true">principal</normalised> <normalised orig="roomes" auto="true">rooms</normalised> of my intended building; I <normalised orig="thinke" auto="true">think</normalised><lb/>
+it necessary now to admonish the Reader, that he expect not<lb/>
+any ample discourse of the <normalised orig="liues" auto="true">lives</normalised> and actions of the Bishops of our<lb/>
+<normalised orig="owne" auto="true">own</normalised> time or <normalised orig="neere" auto="true">near</normalised> <normalised orig="vnto" auto="true">unto</normalised> it. I <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="haue" auto="true">have</normalised></corr>
+                  </choice> <normalised orig="purposly" auto="true">purposely</normalised> <normalised orig="auoyded" auto="true">avoided</normalised> to set<lb/>
+<normalised orig="downe" auto="true">down</normalised> any thing of them, but what either I <normalised orig="finde" auto="true">find</normalised> written by<lb/>
+other, or else <normalised orig="remayneth" auto="true">remains</normalised> to be <normalised orig="seene" auto="true">seen</normalised> in <normalised orig="publike" auto="true">public</normalised> record. And<lb/>
+this course I <normalised orig="haue" auto="true">have</normalised> taken, because I <normalised orig="iudge" auto="true">judge</normalised> it neither <normalised orig="seemely" auto="true">seemly</normalised> to<lb/>
+praise, nor safe to reprehend (how <normalised orig="iustly" auto="true">justly</normalised> <normalised orig="soeuer" auto="true">soever</normalised>) those men, that<lb/>
+either by <normalised orig="themselues" auto="true">themselves</normalised>, their <normalised orig="neere" auto="true">near</normalised> friends or posterity yet <normalised orig="liuing" auto="true">living</normalised>,<lb/>
+may <normalised orig="seeme" auto="true">seem</normalised> either to <normalised orig="haue" auto="true">have</normalised> allured me to flatter, or feared me<lb/>
+from disclosing that truth, which otherwise I would <normalised orig="haue" auto="true">have</normalised> <normalised orig="vttered" auto="true">uttered</normalised>.<lb/>
+Neither do I <normalised orig="thinke" auto="true">think</normalised> it <normalised orig="needefull" auto="true">needful</normalised> to say much of them,<lb/>
+who being either present in action, or fresh in memory, are sufficiently<lb/>
+<normalised orig="knowen" auto="true">known</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>. Whereas <normalised orig="moreouer" auto="true">moreover</normalised>, I <normalised orig="haue" auto="true">have</normalised> passed<lb/>
+<normalised orig="ouer" auto="true">over</normalised> in silence some two Sees; you <normalised orig="shal" auto="true">shall</normalised> <normalised orig="vnderstand" auto="true">understand</normalised>, that I <normalised orig="haue" auto="true">have</normalised><lb/>
+                  <pb n="3"/>
+                  <lb/>
+<normalised orig="beene" auto="true">been</normalised> forced <choice ana="illegible">
+                     <sic>there*to</sic>
+                     <corr>thereunto</corr>
+                  </choice> for want of some necessary instructions,<lb/>
+which, by reason of the far distance of my place of dwelling<lb/>
+from them, I <normalised orig="haue" auto="true">have</normalised> not had <normalised orig="meanes" auto="true">means</normalised> to <normalised orig="attayne" auto="true">attain</normalised>, although I <normalised orig="haue" auto="true">have</normalised><lb/>
+<normalised orig="endeuoured" auto="true">endeavoured</normalised> the same. I would therefore earnestly pray all men<lb/>
+that can, to <normalised orig="yeeld" auto="true">yield</normalised> me <normalised orig="helpe" auto="true">help</normalised> for the supplying of <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> may<lb/>
+<normalised orig="seeme" auto="true">seem</normalised> to be wanting, either in those Sees or any other. I shall<lb/>
+take it very thankfully at their hands. In the <normalised orig="meane" auto="true">mean</normalised> time, this<lb/>
+which now I am able to <normalised orig="affoord" auto="true">afford</normalised> <normalised orig="vnto" auto="true">unto</normalised> you, I wish it may be taken<lb/>
+in good part; and God grant it may in some measure<lb/>
+<normalised orig="prooue" auto="true">prove</normalised> a <normalised orig="meanes" auto="true">means</normalised> of the <normalised orig="aduauncement" auto="true">advancement</normalised> of his<lb/>
+glory, and the good of his<lb/>
+Church. Amen.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

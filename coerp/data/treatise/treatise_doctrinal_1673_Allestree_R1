@@ -1,0 +1,901 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ladies Calling</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="RiAl1621">Allestree, Richard</author>
+               <title type="main">The Ladies Calling. In two parts. By the author of the Whole Duty of Man: The Causes of the Decay of Christian Piety, and The Gentleman’s Calling. <normalised orig="Favor" auto="true">Favour</normalised> is deceitful, and Beauty is vain: but a Woman that <normalised orig="feareth" auto="true">fears</normalised> the Lord, she shall be praised. Prov. 31. 30.</title>
+               <title type="short">Ladies Calling</title>
+               <date when="1673">1673</date>
+               <date type="this_edition" when="1673">1673</date>
+               <idno type="Wing">A1141B</idno>
+               <note type="genre" subtype="treatise_doctrinal">doctrinal treatise</note>
+               <note type="sample" target="#RiAl1621_1673_treatise_doctrinal_1">p.79, l.1 – p.103, l.6</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="RiAl1621_1673_treatise_doctrinal_1">
+            <div>
+               <head>SECT. V. <lb/>
+                  <lb/>
+Of Piety.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+1. LASTLY, To <normalised orig="compleat" auto="true">complete</normalised> and crown all other <lb/>
+Excellencies, nothing is so proper, so <lb/>
+necessary as Piety and Devotion. This is the <lb/>
+salt which seasons all Sacrifices; yea, the Altar <lb/>
+which sanctifies the Gift, no good (how splendid <lb/>
+<normalised orig="soever" auto="true">however</normalised> in the sight of man) being acceptable to <lb/>
+God, till it be thus concentrated; &amp; have this seal <lb/>
+of the Sanctuary upon it. This is a <normalised orig="Vertu" auto="true">Virtue</normalised> truly <lb/>
+Divine, as well in its original as its end; for as <lb/>
+it comes from Heaven, (is an <normalised orig="afflation" auto="false">affiliation</normalised> of the <lb/>
+blessed Spirit) so it tends thither also, and thither <lb/>
+raises its Votaries. This is it which sublimates <lb/>
+and spiritualizes Humanity, defecates and <lb/>
+refines it from all the dregs of mortality, and so <lb/>
+wings our earthly lumpish nature, that we can <lb/>
+soar aloft to the region of Spirits, and by its raptures <lb/>
+make <normalised orig="som" auto="true">some</normalised> essay of that state of separation, <lb/>
+even while we are linked to the body. This is it <lb/>
+which combines us so with God, that we have the <lb/>
+same interests, the same choices; nay it does in a <lb/>
+fort communicate and <normalised orig="enterchange" auto="true">interchange</normalised> properties <lb/>
+with him; the all Powerful God seems impotent <lb/>
+and unable to resist its influence, whilst it invests <lb/>
+us feeble wretches in a kind of Omnipotence, by<lb/>
+engaging him for us who can do all things. <lb/>
+                  <pb n="1"/>
+                  <lb/>
+1. NOW this Piety may be considered either <lb/>
+in a larger, or more limited sense: in the former <lb/>
+<normalised orig="'tis" auto="true">it is</normalised> as wide as the whole scheme of Duty, not confined <lb/>
+to any one act, but extended to all the commands <lb/>
+of God. For as the animal Spirit diffuses <lb/>
+its self into all the most distant members of the <lb/>
+body; so this more vital Principle has as universal <lb/>
+an influence on the mind, stamps that with <lb/>
+such an admiration and reverence of God, such a <lb/>
+love and complacency in him, that every act is (at <lb/>
+least habitually) <normalised orig="design'd" auto="true">designed</normalised> to obey and <normalised orig="glorifie" auto="true">glorify</normalised> <lb/>
+him. <lb/>
+3. IN the more limited sense, Piety is taken <lb/>
+for our more immediate <normalised orig="entercourse" auto="true">intercourse</normalised> with God, in <lb/>
+things purely divine, as Adorations, <normalised orig="Praiers" auto="true">Prayers</normalised>, <lb/>
+Aspirations, and all pantings and breathings of <lb/>
+the soul after him; and in this notion <normalised orig="'tis" auto="true">it is</normalised> more <lb/>
+particularly called Devotion. And this is comprehended <lb/>
+in the other, as a part in the whole; <lb/>
+nay indeed, as and <choice ana="illegible">
+                     <sic>eff*ct</sic>
+                     <corr>effect</corr>
+                  </choice> in its cause; for where <lb/>
+Piety has not first formed and modelled the soul, <lb/>
+<normalised orig="ther" auto="true">there</normalised> can be no true Devotion. External forms <lb/>
+of it there may be, but that is but ceremony and <lb/>
+pageantry, the most submissive protestations are <lb/>
+there but like that of Dagon before the Ark, the <lb/>
+fall of the <normalised orig="liveless" auto="false">lifeless</normalised> trunk; the most elevated eyes <lb/>
+but a kind convulsive motion; and the most <lb/>
+rigid mortifications, but like the cuttings and <lb/>
+launcings of Baal's Priest. Of this the very <lb/>
+Heathen had <normalised orig="som" auto="true">some</normalised> notion, and therefore in their <lb/>
+worships had many preparatory ceremonies of <lb/>
+                  <pb n="2"/>
+                  <lb/>
+lustration, and purifying, as being conscious of <lb/>
+the incongruity, that holy <choice ana="illegible">
+                     <sic>*ersons</sic>
+                     <corr>Persons</corr>
+                  </choice> should be admitted <lb/>
+to Sacred things. And accordingly Socrates <lb/>
+has excellently (I had almost said Evangelically) <lb/>
+defined, the best way of worshipping God, to <lb/>
+be the doing what he commands. Indeed without <lb/>
+this, our devotion is <normalised orig="meer" auto="true">mere</normalised> stratagem and design: <lb/>
+we invoke God as we use to cajole men, only to <lb/>
+serve a present turn; and of such disingenious <lb/>
+addresses, <normalised orig="'tis" auto="true">it is</normalised> easy to read the event, or it we cannot, <lb/>
+Solomon will instruct us, Prov. 15. 8. The <lb/>
+<normalised orig="Praiers" auto="true">Prayers</normalised> of <quote type="biblical" ana="Prov 15.8">the wicked are an abomination to the Lord</quote>.<lb/>
+4. To treat of the several branches of Piety <lb/>
+in the first notion, is not <normalised orig="agreable" auto="true">agreeable</normalised> to the intended <lb/>
+brevity of this Treatise; nor necessary, <lb/>
+because there are so many distinct Tracts extant <lb/>
+on that Subject; yet I shall the more closely to <lb/>
+adapt it to my female Readers, observe the <lb/>
+propriety of it to women, not only as it is their <lb/>
+greatest ornament and advantage, but especially <lb/>
+as they have <normalised orig="somwhat" auto="true">somewhat</normalised> more of predisposition towards <lb/>
+it in their native temper. God's Laws, <lb/>
+which are the rule of Piety, have this common <lb/>
+with <normalised orig="mens" auto="true">men's</normalised>, that they are <normalised orig="inforced" auto="true">enforced</normalised> upon us by the <lb/>
+proposals both of punishments and rewards, by <lb/>
+that means engaging two of our most sensible <lb/>
+passions, Fear and Love; and the female Sex being <lb/>
+eminent for the <choice ana="illegible">
+                     <sic>pungenc*</sic>
+                     <corr>pungency</corr>
+                  </choice> of both these, they <lb/>
+are consequently the better prepared for the impressions <lb/>
+of Religion. <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="82">L</fw>
+                  <pb n="3"/>
+                  <lb/>
+5. THIS is so much acknowledged, that our <lb/>
+masculine Atheists make an ill use of it, and are <lb/>
+willing to think that Religion owes its force only <lb/>
+to the impotence of the subject on which it <lb/>
+works, that <normalised orig="'tis" auto="true">it is</normalised> only an imposition upon the easy <lb/>
+credulity of women, and are content to allow <lb/>
+them the <normalised orig="inclosure" auto="true">enclosure</normalised> of it; wherein, tho they sufficiently <lb/>
+<normalised orig="shew" auto="true">show</normalised> their contempt of Piety, yet they <lb/>
+unawares give a greater <normalised orig="honor" auto="true">honour</normalised> to that Sex then <lb/>
+they intend, whilst they confess it more capable <lb/>
+of an assimilation to the supreme Goodness, and <lb/>
+of the renewal of God's Image (for to that all <lb/>
+Piety is <normalised orig="design'd" auto="true">designed</normalised>) then their own. And therefore <lb/>
+women have so little reason to be ashamed, that <lb/>
+they ought to glory in the concession, and gratefully <lb/>
+to celebrate the goodness of God to them, <lb/>
+who, as he brings light out of darkness, so converts <lb/>
+their natural infirmities into a means of spiritual <lb/>
+strength, makes the impotencies and defects <lb/>
+of their nature subservient to the operation <lb/>
+of Grace; and by consecrating their very Passions, <lb/>
+makes even those Gibeonites serviceable <lb/>
+to the Tabernacle. But then <normalised orig="'tis" auto="true">it is</normalised> to be <normalised orig="remembred" auto="true">remembered</normalised>, <lb/>
+that the greater is their obligation to <lb/>
+comply with this design of Gods, to let their passions <lb/>
+run in the channel he has cut for them; so to <lb/>
+confine, their Fear and Love to spiritual Objects, <lb/>
+that they make no inordinate eruptions to any <lb/>
+thing else, but in all their estimations of things <lb/>
+dreadful or <normalised orig="desireable" auto="true">desirable</normalised>, to give still the just deference <lb/>
+to that which is eternal. <lb/>
+                  <fw type="pageNum" n="83">82</fw>
+                  <pb n="4"/>
+                  <lb/>
+6. AND, as a Woman in General have this advantage <lb/>
+towards Piety, and obligation to it; so <lb/>
+particularly those of Quality, who we may suppose <lb/>
+to have generally a more early institution and <lb/>
+instruction in it then those of a meaner rank: and <lb/>
+besides, have afterwards more opportunities of <lb/>
+being built up in the <normalised orig="knowledg" auto="true">knowledge</normalised> of their duty, <lb/>
+and (by the help of an ingenious education) <lb/>
+clearer apprehensions to discern it; and when <lb/>
+they do so, have greater obligations to perform <lb/>
+it, both in respect of God, of others, and themselves. <lb/>
+7. IN respect of God they have the greatest <lb/>
+tie of <normalised orig="gratiture" auto="false">gratitude</normalised>, not only for the common mercies <lb/>
+which they partake with the rest of mankind, <lb/>
+but for those peculiar, by which they are <lb/>
+differenced from others; of which, if they want <lb/>
+a just <normalised orig="valu" auto="true">value</normalised>, let them ask themselves how willing <lb/>
+they would be to part with them, how she that <lb/>
+has fed <choice ana="illegible">
+                     <sic>deli*ately</sic>
+                     <corr>delicately</corr>
+                  </choice>, would like to be desolate in the <lb/>
+street, or she that has <normalised orig="bin" auto="true">been</normalised> <quote type="biblical" ana="Lam 4.5">brought up in Scarlet, to <lb/>
+embrace the Dunghill</quote>, Lam. 4. 5. and according <lb/>
+to the aversion they find to such a change, let <lb/>
+them estimate their present <normalised orig="enjoiment" auto="true">enjoyment</normalised>, and the <lb/>
+thankfulness it exacts. <lb/>
+8 Secondly, in regard of others, their Piety <lb/>
+<normalised orig="backt" auto="true">backed</normalised> with their secular advantages, may be of a <lb/>
+more extensive benefit; they have many opportunities <lb/>
+of doing good by their influence on others; <lb/>
+or if no way else, yet the <normalised orig="splendor" auto="true">splendour</normalised> of their <lb/>
+example, will by the eminency of their conditions <lb/>
+                  <pb n="5"/>
+                  <lb/>
+shine (as a light on <normalised orig="som" auto="true">some</normalised> high Tower) more perspicuously, <lb/>
+and guide many into the same path of <lb/>
+<normalised orig="Vertu" auto="true">Virtue</normalised>. And certainly <normalised orig="'tis" auto="true">it is</normalised> no small obligation <lb/>
+that lies on them in this respect; for God, who <lb/>
+does nothing without an end worthy of his wisdom, <lb/>
+can never be thought to have selected <normalised orig="som" auto="true">some</normalised> <lb/>
+persons as the objects of his bounty, <normalised orig="meerly" auto="true">merely</normalised> that <lb/>
+they may swill and glut themselves with sensual <lb/>
+<normalised orig="plesures" auto="true">pleasures</normalised>. No doubtless, he who is the great Master <lb/>
+of the Universe, disposes all things for common <lb/>
+<normalised orig="benfit" auto="false">benefit</normalised> and therefore, if He have placed <lb/>
+some in an higher Orb then others, it is that they <lb/>
+may have an auspicious influence on those below <lb/>
+them; and if they fail in this, they are no longer <lb/>
+Stars but Comets, things of ominous and unlucky <lb/>
+abode to all about them. I might enlarge on this <lb/>
+Subject, but having don it already in the Gentelmans <lb/>
+Calling, I suppose it unnecessary, since that part is <lb/>
+equally adapted to both Sexes. <lb/>
+9. IN the last place, they have all obligation to <lb/>
+Piety, in respect of themselves, and that in two <lb/>
+considerations; the first, of their present danger; <lb/>
+the second, of their final account. For <lb/>
+their danger, <normalised orig="'tis" auto="true">it is</normalised> evident they do not more outnumber <lb/>
+their inferiors in any thing then in the <lb/>
+<normalised orig="opportunites" auto="false">opportunities</normalised>, nay <normalised orig="sollicitations" auto="true">solicitations</normalised> to sin. Wealth <lb/>
+and <normalised orig="Honor" auto="true">Honour</normalised> have many snares, and which is worse, <lb/>
+do often dispose then mind to such an heedless security, <lb/>
+that it takes no dare to avoid them: and <lb/>
+as in the body, the diseases of repletion are far <lb/>
+more numerous then those of <normalised orig="emtiness" auto="false">emptiness</normalised>, so the <lb/>
+                  <fw type="pageNum" n="85">84</fw>
+                  <pb n="6"/>
+                  <lb/>
+mind is <normalised orig="oftner" auto="true">oftener</normalised> vitiated by affluence and prosperity, <lb/>
+then by indigence and adversity. It becomes <lb/>
+therefore those who are so surrounded with enemies <lb/>
+to <normalised orig="fortifie" auto="true">fortify</normalised> themselves: and that they can no <lb/>
+way do, but by a sincere Piety, that <quote type="biblical" ana="Eph 6.13">whole <normalised orig="Armor" auto="true">Armour</normalised> <lb/>
+of God</quote> which the Apostle describes, Eph. 6. 13. <lb/>
+by which alone they may repel all the darts of <normalised orig="temtations" auto="false">temptations</normalised>; <lb/>
+nay not only ward the blow, but wrest the <lb/>
+weapon out of Satans hand, so that when he urges <lb/>
+to them the opportunities, the impunity which their wealth and greatness gives them to be <normalised orig="bad" auto="true">bade</normalised>, <lb/>
+thy may retort his Argument, &amp; by a <normalised orig="wholsomer" auto="true">wholesomer</normalised> <lb/>
+inference collect thence their great obligation to <lb/>
+be good, and that no only upon the score of gratitude <lb/>
+(tho that were enough to an ingenious <lb/>
+soul) but in the second <choice ana="illegible">
+                     <sic>pla*e</sic>
+                     <corr>place</corr>
+                  </choice> of interest also, in <lb/>
+respect of that account they must finally give. <lb/>
+For tho God be not an unjust exactor to reap <lb/>
+where he has not sowed, yet he is not so negligently <lb/>
+profuse, as to do that which no prudent <lb/>
+man will do, scatter his goods promiscuously, <lb/>
+without taking notice where they fall; but as he <lb/>
+<normalised orig="dispences" auto="true">dispenses</normalised> all things by a particular providence, so <lb/>
+he does it to a particular end, and will exact as <lb/>
+particular an account how that end has <normalised orig="bin" auto="true">been</normalised> complied <lb/>
+with. <lb/>
+10. IT is a smart exprobration of Gods to <lb/>
+Israel, Ezek. 16, 17, 18, 19. that she had sacrilegiously <lb/>
+<normalised orig="emploied" auto="true">employed</normalised> his silver and gold, his oil, his <lb/>
+flower and honey which he had given her in the service <lb/>
+of her Idols, by which as we may see he takes <lb/>
+                  <pb n="7"/>
+                  <lb/>
+notice how we dispose of out temporal possessions, <lb/>
+so it <normalised orig="shews" auto="true">shows</normalised> us how the <normalised orig="enditement" auto="true">indictment</normalised> will proceed <lb/>
+against all those who so pervert their use. With <lb/>
+what confusion must they appear at the great Audit <lb/>
+who can give no other account of their <normalised orig="receits" auto="true">receipts</normalised>, <lb/>
+but that they consumed them upon their <lb/>
+lusts, waged war against God with his own <normalised orig="tresure" auto="true">treasure</normalised>, <lb/>
+and <normalised orig="bin" auto="true">been</normalised> as well thieves as rebels? What a Luciferian <lb/>
+fall will they have from their <normalised orig="honors" auto="true">honours</normalised>, who <lb/>
+have <normalised orig="endevored" auto="true">endeavoured</normalised> to undermine Gods? thought <lb/>
+themselves too great to pay him homage, and by <lb/>
+their <normalised orig="prophane" auto="true">profane</normalised> and vicious example, induced a <lb/>
+<normalised orig="contemt" auto="false">contemnt</normalised> of him? In short what a retaliation of <lb/>
+inversions will there then be? those that have turned <lb/>
+Gods grace into wantonness, converted his <lb/>
+bounty into the fuel of their pride and luxury, <lb/>
+shall then have their glory <normalised orig="turn'd" auto="true">turned</normalised> into shame, their <lb/>
+riots and excesses into the want of a drop of water, <lb/>
+and shall retain nothing of their greatness, but <lb/>
+the guilt. the grating remembrance of having abused <lb/>
+those temporal blessings, which if well managed <lb/>
+might have received them into everlasting <lb/>
+habitations. How necessary then is it for all who <lb/>
+have <normalised orig="receiv'd" auto="true">received</normalised> so much upon account, to be often <lb/>
+reflecting on it, examining what changes the great <lb/>
+owner has imposed upon so ample an income? <lb/>
+what God requires of them for whom he <normalised orig="hath" auto="true">has</normalised> don <lb/>
+                  <choice ana="typeset-error">
+                     <sic/>
+                     <corr>so</corr>
+                  </choice> much? And this is particularly the business of <lb/>
+Piety, which in all the <normalised orig="forementioned" auto="true">aforementioned</normalised> respects, is <lb/>
+as the usefullest, so the noblest accomplishment of <lb/>
+greatness. <lb/>
+                  <pb n="8"/>
+                  <lb/>
+11 AND such it <normalised orig="hath" auto="true">has</normalised> <normalised orig="bin" auto="true">been</normalised> accounted till this <normalised orig="prophane" auto="true">profane</normalised> <lb/>
+Age of ours, which has removed all the <lb/>
+boundaries of the former, <normalised orig="reverst" auto="false">reversed</normalised> even the instincts <lb/>
+of nature, and will not leave us so much of <lb/>
+Religion as had the very worst of Heathens. For <lb/>
+how erroneous <normalised orig="soever" auto="true">however</normalised> <normalised orig="theywere" auto="false">they were</normalised> in the choice of <lb/>
+their Deities, they <normalised orig="alwaies" auto="true">always</normalised> <normalised orig="honored" auto="true">honoured</normalised> and <normalised orig="reverenc'd" auto="true">reverenced</normalised> <lb/>
+those they chose, committed most of their <lb/>
+enormities in obedience not in affront to them: <lb/>
+did not assign them votaries of Jeroboam did his <lb/>
+Priests of the meanest of the people, but thought <lb/>
+themselves dignified by their service, and esteemed <lb/>
+it an infamy not to be pious. But alas now we <lb/>
+<normalised orig="adaies" auto="true">adays</normalised> make other estimates, Religion is so abject <lb/>
+so <normalised orig="contemtible" auto="false">contemptible</normalised> a thing, as is thought fit to influence <lb/>
+none that are great either in parts of quality: <lb/>
+and therefore tho too many are willing to <lb/>
+appropriate to women, upon the first account, <lb/>
+as the Gospel is the <quote type="biblical" ana="1 Cor 1.21">foolishness of preaching</quote>, 1 Cor. <lb/>
+1. 21. yet they make exceptions upon the latter, <lb/>
+and are not willing to afford it any of the nobler <lb/>
+<normalised orig="Proselites" auto="true">Proselytes</normalised> even of that Sex. <lb/>
+12. I doubt not there are many Lectures read <lb/>
+to such, to <normalised orig="fortifie" auto="true">fortify</normalised> them against all impressions of <lb/>
+piety, to raise out the common notion of a God, &amp; <lb/>
+in order to that to <normalised orig="despose" auto="false">dispose</normalised> his Vicegerent within <lb/>
+them, discard their conscience, that unmannerly <lb/>
+inmate, which is still speaking what they <lb/>
+have no mind to hear, and will be apt <normalised orig="somtimes" auto="true">sometimes</normalised> to <lb/>
+question their grand principle, and tell them they <lb/>
+                  <pb n="9"/> have souls. And truly <normalised orig="'tis" auto="true">it is</normalised> no wonder if the <normalised orig="abetters" auto="true">abettors</normalised> <lb/>
+of Atheism take this course; for since they <lb/>
+have no solid foundation of truth or reason, <normalised orig="'tis" auto="true">it is</normalised> <lb/>
+but necessary they support their Party by <normalised orig="Autority" auto="true">Authority</normalised>, <lb/>
+the countenance and applause of Great Persons, <lb/>
+and God knows they have too much succeeded <lb/>
+in the design. But, in the mean time, what security <lb/>
+do they give for the truth of their pretensions? <lb/>
+We know <normalised orig="'tis" auto="true">it is</normalised> still required of those <lb/>
+that will practice upon other peoples concerns, <lb/>
+that they put in caution to secure the owner from <lb/>
+damage. But alas, what gage can they give for <lb/>
+a soul? Who can contrive a form of Indemnity <lb/>
+where that is the thing hazarded. <lb/>
+13. <normalised orig="'Tis" auto="true">It is</normalised> easy indeed for one of these Apostles <lb/>
+                  <choice ana="illegible">
+                     <sic>o*</sic>
+                     <corr>of</corr>
+                  </choice> <normalised orig="Sathan" auto="true">Satan</normalised>, to tell a Lady that she has nothing to <lb/>
+do but to indulge to her <normalised orig="plesure" auto="true">pleasure</normalised>; that <normalised orig="'tis" auto="true">it is</normalised> the <lb/>
+extremest folly to be frighted from a present <normalised orig="enjoiment" auto="true">enjoyment</normalised>, <lb/>
+by a fear I know not what future <lb/>
+smart; that God, and Sin, and Hell, are but names, <lb/>
+certain Mormos and Bug-bears <normalised orig="conjur'd" auto="true">conjured</normalised> up by <lb/>
+Divines, to work upon her fear, and abuse her <lb/>
+credulity. This and much more of this kind <lb/>
+may be said, and I doubt often is; but all this <lb/>
+while the question is <normalised orig="begg'd" auto="true">begged</normalised>, and a strong <lb/>
+affirmation must pass for proof: for I <normalised orig="defie" auto="true">defy</normalised> <lb/>
+all the Doctors of Atheism to make any demonstration <lb/>
+of their Tenet; and yet, though <lb/>
+they pretend to no Demonstration themselves, <lb/>
+Religion must be condemned <normalised orig="meerly" auto="true">merely</normalised> for <lb/>
+                  <pb n="10"/>
+                  <lb/>
+the want of it: that is for not making spiritual <lb/>
+things liable to sense, for distinguishing between <lb/>
+belief and science; which is indeed for doing the <lb/>
+most reasonable thing in the world, viz. The remitting <lb/>
+every object to the trial of its proper faculty: <lb/>
+and they who suspect it on that account, <lb/>
+may by the same kind of Logic wrangle us out of <lb/>
+all our senses, may <normalised orig="perswade" auto="true">persuade</normalised> us we hear nothing <lb/>
+because the eye discerns not sounds, that we <normalised orig="tast" auto="true">taste</normalised> <lb/>
+not, because the ear understands no gusts and sapors, <lb/>
+and so on to the rest. <lb/>
+14. AND yet this is the bottom of those Arguments <lb/>
+which the great pretenders to Reason <lb/>
+make against Religion, and in the mean time have <lb/>
+so little ingenuity as to exclaim on the light credulity <lb/>
+of fools and women, that embrace the dictates <lb/>
+of faith, whilst the same instant they exact <lb/>
+a more implicit assent to their negative Articles, <lb/>
+their no Religion. A strange magisterial confidence <lb/>
+so to impose on this Age, what is so universally <lb/>
+contradictory to all former, and to the common <lb/>
+verdict of man-kind. For <normalised orig="'tis" auto="true">it is</normalised> observable <lb/>
+through all the successions of men, that there were <lb/>
+never any society, any collective body of Atheists; <lb/>
+a single one perhaps might here and there be <lb/>
+found (as we sometimes see monsters or <normalised orig="mishapen" auto="true">misshapen</normalised> <lb/>
+births) but for the generality they had <normalised orig="alwaies" auto="true">always</normalised> <lb/>
+such instincts of a Deity, that they never thought <lb/>
+they ran far enough from Atheism; but rather <lb/>
+chose to multiply their Gods, to have too many <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="90">M</fw>
+                  <pb n="11"/>
+                  <lb/>
+then none at all: nay were apt to descend to the <lb/>
+adoration of things below themselves, rather then <lb/>
+to renounce the power above them. By which we <lb/>
+may see that the notion of a God is the most indelible <lb/>
+character of natural reason, and therefore <lb/>
+what ever pretence our Atheists make to ratiocination <lb/>
+and deep discourse, it is none of that primitive <lb/>
+fundamental reason coetaneous with our humanity; <lb/>
+but is indeed a reason fit only for those <lb/>
+who own themselves like the beasts that perish. <lb/>
+15. BUT admit we could be more bountiful <lb/>
+to them, and allow their opinion an equal probability <lb/>
+with our Faith, yet even this could never <lb/>
+<normalised orig="justifie" auto="true">justify</normalised> any body in point of prudence, that should <lb/>
+adhere to them. Common discretion teaches us <lb/>
+that where two propositions have an equal appearance <lb/>
+of truth, there is no rational inducement <lb/>
+to prefer one before the other, till we have <lb/>
+examined the consequences, and find something in the <lb/>
+one which may over-poise and outweigh the contrary. <lb/>
+Now in all things that concern practice, <lb/>
+there are no motives so considerable, either to invite <lb/>
+or avert, as <normalised orig="advanatage" auto="false">advantage</normalised> or danger. <lb/>
+16. LET us apply this to the present case, and <lb/>
+examine the pretensions of the Atheist and the <lb/>
+Christian in both respects. But first we are to remember, <lb/>
+that both advantage and danger are to be <lb/>
+viewed under a double notion, either as present <lb/>
+or as future. The former is the Atheists most proper <lb/>
+subject; and indeed all that he can pertinently <lb/>
+                  <fw type="pageNum" n="91">90</fw>
+                  <pb n="12"/>
+                  <lb/>
+speak to, who professes himself only a man of this <lb/>
+world. Here he will tell us that the disbelief of God <lb/>
+and another life, is the great enfranchiser of mankind, <lb/>
+sets us at liberty from that <normalised orig="thraldom" auto="true">thralldom</normalised>, those <lb/>
+Bonds wherewith our superstitious fears had <normalised orig="fetter'd" auto="true">fettered</normalised> <lb/>
+us, that is supersedes all those nice and perplexing <lb/>
+inquiries of lawful and unlawful, and <lb/>
+reduces all our inquisitions only to this one, how <lb/>
+we shall most please our selves. The glutton need <lb/>
+not put a knife to his throat, but is only to put an <lb/>
+<normalised orig="edg" auto="false">edge</normalised> upon his palate. The drunkard need not refrain <lb/>
+his cups, but only take care that they be filled <lb/>
+with the most delicious liquor. The wanton <lb/>
+need not pull out his eye, but only contrive to <lb/>
+possess what that tempts him to desire; and in a <lb/>
+word none of our appetites need be <normalised orig="restrain'd" auto="true">restrained</normalised>, <lb/>
+but satisfied. And this <normalised orig="uncontrol'd" auto="false">uncontrolled</normalised> licentiousness, <lb/>
+this brutish liberty, is that summum bonum, that <lb/>
+supreme happiness which they propose to themselves, <lb/>
+and to which they invite others. <lb/>
+17. ON the other side the Christian is not <lb/>
+without his claim to a present advantage, tho of a <lb/>
+far differing nature: he is not so preposterous as <lb/>
+to think it a preferment to sink below his kind; <lb/>
+to aspire to an <normalised orig="assimulation" auto="false">assimilation</normalised> with <normalised orig="meer" auto="true">mere</normalised> animals, <lb/>
+which is the utmost the former amounts to, but he <lb/>
+proposes to himself the satisfaction of a man; <lb/>
+those delights which may entertain his reason, not <lb/>
+his sense, which consist in the rectitude of a well <lb/>
+<normalised orig="inform'd" auto="true">informed</normalised> mind. His Religion is the perfectest <lb/>
+Scheme of Morality, and makes him a Philosopher <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="92">M 2</fw>
+                  <pb n="13"/>
+                  <lb/>
+without the help of the Schools, it teaches <lb/>
+him the art of subduing his appetites, calming his <lb/>
+passions, and in a word makes him Lord of himself; <lb/>
+and by that gives him all the <normalised orig="plesures" auto="true">pleasures</normalised> which <lb/>
+result from such a <normalised orig="soveraignty" auto="true">sovereignty</normalised>. Nor is he totally <lb/>
+void even of the pleasures of sense, which in many <lb/>
+instances are greater to him then to those that <lb/>
+most court them. Temperance cooks his <normalised orig="coursest" auto="false">coarsest</normalised> <lb/>
+diet to a great gust, then all their studied mixtures; <lb/>
+chastity makes one lawful embrace more <lb/>
+grateful to him, then all the nauseating variety of <lb/>
+their unbounded lusts; and contentment swells <lb/>
+his mite into a talent, makes him richer then the <lb/>
+Indies would do if he desired beyond them. Nor <lb/>
+is it a <normalised orig="contemtible" auto="false">contemptible</normalised> benefit that his moderation <lb/>
+gives him an immunity from those sensitive pains <lb/>
+which oft bring up the rear of inordinate sensual <lb/>
+<normalised orig="plesures" auto="true">pleasures</normalised>. So that his Condition even set in the worst <lb/>
+light in that very particular wherein the Atheist <lb/>
+most triumphs over him, is not so deplorable as <lb/>
+<normalised orig="'tis" auto="true">it is</normalised> represented. <lb/>
+18. BUT if it were, he has <normalised orig="plesures" auto="true">pleasures</normalised> that would <lb/>
+<normalised orig="infinitly" auto="true">infinitely</normalised> overwhelm that smart, and that not only <lb/>
+in his reason (as <normalised orig="hath" auto="true">has</normalised> <normalised orig="bin" auto="true">been</normalised> said before), but in his <lb/>
+more sublime diviner part, such irradiations from <lb/>
+above, such antepasts of his future bliss, such acquiescence <lb/>
+in a calm &amp; serene conscience, as is very <lb/>
+cheaply bought with all he can suffer here. I know <lb/>
+the profane laugh at these things as Chimera's and <lb/>
+the illusions of a prepossessed fancy (&amp; truly if they <lb/>
+were so, they might yet come in balance with many <lb/>
+                  <fw type="pageNum" n="93">92</fw>
+                  <pb n="14"/>
+                  <lb/>
+of their <normalised orig="plesures" auto="true">pleasures</normalised> which are as much owing to opinion <lb/>
+and imagination:) but if we consider what <lb/>
+supports they have given under the heaviest pressures, <lb/>
+how they enabled the primitive Martyrs, <lb/>
+not only to suffer, but even to court all that is formidable <lb/>
+to humane nature, we cannot think that <lb/>
+a <normalised orig="meer" auto="true">mere</normalised> <normalised orig="phantastic" auto="true">fantastic</normalised> imaginary joy could deceive <lb/>
+the sense of such real, such acute torments. And <lb/>
+tho in this great declination of zeal, there be <lb/>
+perhaps few that can pretend to those higher degrees <lb/>
+of spiritual raptures, yet certainly were the <lb/>
+votes of all devout persons collected, they would <lb/>
+all concur in this testimony, that even in the common <lb/>
+Offices of Piety, the ordinary discharge of a <lb/>
+good conscience, there is an infinitely greater complacence, <lb/>
+a higher gust and relish then in all the <lb/>
+<normalised orig="plesures" auto="true">pleasures</normalised> of sense. But of this the most irrefragable <lb/>
+witnesses are those who from great voluptuaries <lb/>
+have turned devotes, and I dare appeal to <lb/>
+their experience, whether of the two states is the <lb/>
+most <normalised orig="plesant" auto="true">pleasant</normalised>. I wish those who will not believe <lb/>
+this on other words, would themselves make the <lb/>
+trial, and till they do so they are notoriously unjust <lb/>
+to pronounce that a fiction, of whose reality <lb/>
+they refuse to make proof. <lb/>
+19. BY what <normalised orig="hath" auto="true">has</normalised> <normalised orig="bin" auto="true">been</normalised> said, some estimate may <lb/>
+be made which bids fairest (the Atheist or Christian) <lb/>
+as to present temporal felicity: but alas <lb/>
+what an allay, what a damp is it to felicity to say <lb/>
+<normalised orig="'tis" auto="true">it is</normalised> temporal, yet we may give it a term below <lb/>
+that, and say <normalised orig="'tis" auto="true">it is</normalised> momentary. For since our life is <lb/>
+                  <fw type="pageNum" n="94">93</fw>
+                  <pb n="15"/>
+                  <lb/>
+so, nothing that depends on that can be otherwise; <lb/>
+and yet in this shallow bottom the irreligious <lb/>
+embark their all. For, as to all future advantage, <lb/>
+<normalised orig="'tis" auto="true">it is</normalised> their Principle to disclaim it, they <lb/>
+discern no <quote type="biblical" ana="Wis 2.22">reward for blameless souls</quote>, Wisd. 2. 22. <lb/>
+So that in this particular the Chrisitan does <choice ana="illegible">
+                     <sic>no*</sic>
+                     <corr>not</corr>
+                  </choice>
+                  <lb/>
+compare with, but triumph over them. He knows <lb/>
+that if his <quote type="biblical" ana="2 Cor 5.1">earthly house of this Tabernacle be dissolved</quote>, <lb/>
+he <normalised orig="hath" auto="true">has</normalised> <quote type="biblical" ana="2 Cor 5.1">a building of God; an House not <lb/>
+made with hands, eternal in the Heavens</quote>, 2 Cor. 5. 1. <lb/>
+That when he parts with his life, he does not resign <lb/>
+his happiness, but shall receive it infinitely improved <lb/>
+both in degree and duration. And now <lb/>
+certainly <normalised orig="'tis" auto="true">it is</normalised> visible enough which opinion proposes <lb/>
+the fairer hopes, and consequently which <lb/>
+(supposing but an equal probability of truth) is <lb/>
+the most inviting. <lb/>
+20. BUT some spirits there are so ignoble, <lb/>
+that the most glorious Prize cannot animate <lb/>
+them; that like a swine, the muscles of whose <lb/>
+<normalised orig="eies" auto="true">eyes</normalised>, they say, permit him not to look upwards, <lb/>
+is not concerned in all the felicities above; but <lb/>
+would at a venture resign his share in those, so he <lb/>
+may securely enjoy his husk and draff. But yet <lb/>
+even these who are <normalised orig="uncapable" auto="true">incapable</normalised> of the more generous <lb/>
+resentments, may be apt enough to the more <lb/>
+servile; and danger may fright, tho glory cannot <lb/>
+allure them. It concerns such therefore to compare <lb/>
+the mischiefs which each opinion threatens <lb/>
+to their <normalised orig="opposits" auto="false">opposites</normalised>, and from thence make an <normalised orig="etstimate" auto="false">estimate</normalised> <lb/>
+which is safest to be chosen. And here let <lb/>
+                  <pb n="16"/>
+                  <lb/>
+the Atheist himself cast up the account of the dangers <lb/>
+consequent to Christianity, and it can all amount <lb/>
+but to this, the deprivation (or rather moderation) <lb/>
+of <normalised orig="som" auto="true">some</normalised> present sensual <normalised orig="plesures" auto="true">pleasures</normalised>, or the <lb/>
+incurring of <normalised orig="som" auto="true">some</normalised> present sensitive pains; the <lb/>
+former in the daily exercise of Temperance, and <lb/>
+mortification; the latter, (more rarely and <normalised orig="oftner" auto="true">oftener</normalised> <lb/>
+in purpose then act) the suffering for Righteousness <lb/>
+sake. And both these the Christian balances, <lb/>
+nay out-weighs by two more important <lb/>
+present hazards on the other side. To the former, <lb/>
+he opposes the danger of being enslaved to <lb/>
+the brutish part of a mans self, a thing so deplorable <lb/>
+even in the judgment of humanity, that <lb/>
+all Writers of Ethics have uniformly declared no <lb/>
+servility to be so sordid and intolerable, as that <lb/>
+of the vicious man to his Passions and Lusts. To <lb/>
+the latter, he confronts the mischief of being a <lb/>
+slave to every man else; for such he certainly is, <lb/>
+whom the fear of suffering can baffle out of any <lb/>
+thing he thinks just and honest. For if all the <lb/>
+men in the World could successively have the power <lb/>
+to afflict him, they would also have to command <lb/>
+and rule him; and what can be more abject, more <lb/>
+below the dignity of humane nature, then to have <lb/>
+a spirit <normalised orig="alwayes" auto="true">always</normalised> prepared for such a servitude? <lb/>
+Besides, even the utmost sufferings which Chrisitanity <lb/>
+can at any time require, is outvied daily <lb/>
+by the effects of luxury and rage; and for one <lb/>
+that has opportunity to be a Martyr for his God, <lb/>
+thousands become so to their Vices. <lb/>
+                  <fw type="pageNum" n="96">95</fw>
+                  <pb n="17"/>
+                  <lb/>
+21. IF from the present we look forward to <lb/>
+future dangers, the Atheist must here be perfectly <lb/>
+silent; he cannot say that the Christian after this <lb/>
+life shall be in any worse estate then himself, since <lb/>
+he concludes they shall both be the same nothing. <lb/>
+But the Christian threatens him with a more dismal <lb/>
+state, he allows him indeed a being, yea an <lb/>
+eternal one; but it is only such as qualifies him <lb/>
+for a misery as eternal; the worm that never dies, <lb/>
+the fire unquenchable, where all the excesses of <lb/>
+his short <normalised orig="plesures" auto="true">pleasures</normalised> shall be revenged with more excessive, <lb/>
+endless torments: his <choice ana="typeset-error">
+                     <sic/>
+                     <corr>senses</corr>
+                  </choice> which were <lb/>
+here the only organs of his felicity, shall then be <lb/>
+(tho not the only) the very sensible mediums of <lb/>
+his wretchedness; and that conscience which he <lb/>
+here suspended from its office, shall then take out <lb/>
+its arrears, and return all its stifled admonitions <lb/>
+in perpetual horrors, and desperate upraidings. <lb/>
+I need not now sure ask on which side the greater <lb/>
+danger lies. <lb/>
+22. To conclude, the <normalised orig="resulst" auto="false">results</normalised> of all is, that the <lb/>
+transitory <normalised orig="plesures" auto="true">pleasures</normalised> of the Atheist are over-poised <lb/>
+even by the present satisfactions of the Pious. <lb/>
+And the eternity of unbounded, unconceivable <lb/>
+<normalised orig="joies" auto="true">joys</normalised> he expects hereafter, comes in ex abundanti, <lb/>
+having nothing on the other side that offers at a <lb/>
+competition with it. And at the very same rate <lb/>
+of Proportion we have seen the dangers also are <lb/>
+so, that we can easily compute the utmost mischief <lb/>
+our Christianity can do us, if it should be false; <lb/>
+but the damage of the other is inestimable, both <lb/>
+                  <pb n="18"/>
+                  <lb/>
+for the penalty of loss and sense. I may now <lb/>
+appeal to common prudence to <normalised orig="judg" auto="true">judge</normalised> of the vast <lb/>
+inequality, and to pronounce, that sure there had <lb/>
+need, be <normalised orig="som" auto="true">some</normalised> great evidence, of truth of the Atheists <lb/>
+side, to preponderate all these disadvantages. <lb/>
+Indeed, nothing much below a demonstration <lb/>
+can justify the choice of so dangerous <lb/>
+Principles; I am sure an equal probability can <lb/>
+never do it, where the danger is so unequal; and <lb/>
+were the veriest Atheist consulted in a secular <lb/>
+case of the like circumstances, he would certainly <lb/>
+pronounce him a mad man that should make such <lb/>
+an election. How desperate a <normalised orig="phrensy" auto="true">frenzy</normalised> then is it <lb/>
+to do it, without so much as that equal probability; <lb/>
+nay indeed, without any probability at <lb/>
+all. And yet this madness sets up for the monopoly <lb/>
+not of Wit only, but Reason too; and by <lb/>
+confidence and <normalised orig="clamor" auto="true">clamour</normalised>, seeks to run down those <lb/>
+Arguments it can never confute. <lb/>
+23. I may be thought here to have made too <lb/>
+long a digression from my proper Subject, but I <lb/>
+cannot confess it so; for since my present business <lb/>
+is to recomment Piety, I can no way do that <lb/>
+so effectually as by <normalised orig="shewing" auto="true">showing</normalised> its consonancy to <lb/>
+right reason, especially considering the <normalised orig="busie" auto="true">busy</normalised> industry <lb/>
+is now used, to represent it under another <lb/>
+form, and to alienate it from it those persons <lb/>
+whose Greatness may give it any lustre of repute <lb/>
+in the World; of which sort I suppose there are <lb/>
+few more frequently <normalised orig="attaqued" auto="false">attacked</normalised> then Women of <lb/>
+Quality, that converse among those who call <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="98">N</fw>
+                  <pb n="19"/>
+                  <lb/>
+themselves the Wits of the Age; who living in so <lb/>
+infectious an air, had need of some antidotes about <lb/>
+them; and if what I have now offered, appear <lb/>
+not forcible enough, (for it pretends not to <lb/>
+the <normalised orig="tith" auto="true">with</normalised> of what may be said on the Subject) yet <lb/>
+it may at least do them this service, to put them <lb/>
+in mind of what they need, and send them to the <lb/>
+fuller dispensatories of others. <lb/>
+24. AND that is the thing I should earnestly <lb/>
+beg of them, that they would be so just to their <lb/>
+own interest, as not to combine with seducers against <lb/>
+themselves; but if they have been so unhappy <lb/>
+as to lend one ear to them, yet at least not <lb/>
+to give up both to be forced in a slavish submission <lb/>
+to their dictates, but hear what may be said on <lb/>
+the other side. And sure <normalised orig="'tis" auto="true">it is</normalised> but a low composition <lb/>
+for God thus to divide with <normalised orig="Sathan" auto="true">Satan</normalised>, yet <normalised orig="'tis" auto="true">it is</normalised> <lb/>
+that of which his Emissaries are so <normalised orig="lealous" auto="false">jealous</normalised> that <lb/>
+<normalised orig="'tis" auto="true">it is</normalised> one of their grand Maxims, that none who <lb/>
+professes Divinity is to be advised with; and <lb/>
+therefore by all Arts they are to be rendered either <lb/>
+ridiculous, or suspected; to which methinks may <lb/>
+be applied that Fable (which Demosthenes once <lb/>
+recited to the Athenians, when Alexander demanded <lb/>
+of them to deliver up their Orators) of the Wolves <lb/>
+and the Sheep, who coming to a Treaty, the first <lb/>
+Article of the Wolves was, that the Sheep should <lb/>
+give up their Mastives which guarded them: the <lb/>
+resemblance is too obvious to need a minute application. <lb/>
+                  <fw type="pageNum" n="99">98</fw>
+                  <pb n="20"/>
+                  <lb/>
+25. BUT this is manifestly to reverse all former <lb/>
+Rules, and to trust a man rather in any Faculty <lb/>
+then his own, and would never have prevailed <lb/>
+in any thing but where the soul is <normalised orig="concern'd" auto="true">concerned</normalised>, that <lb/>
+poor despicable thing whereon alone we think <lb/>
+fit to make experiments. <normalised orig="'Tis" auto="true">It is</normalised> sure, that if any <lb/>
+should dispute their title to an earthly Possession, <lb/>
+they would not so tamely resign it, nor would <lb/>
+trust their own selves in its defence, but would <lb/>
+consult their ablest Lawyers, and, by them, sift out <lb/>
+every circumstance that might establish their <lb/>
+claim. Why should they then suffer themselves <lb/>
+to be <normalised orig="talk'd" auto="true">talked</normalised> out of an Heavenly Inheritance, <lb/>
+without so much as once proposing their doubts <lb/>
+to those whose study and profession it is to resolve <lb/>
+them? But as in all other ills, so in this, prevention <lb/>
+is better then cure: and therefore to those <lb/>
+that are yet untainted, the securest course will be <lb/>
+to stop both ears against all profane insinuations, <lb/>
+and to use those who <normalised orig="temt" auto="false">tempt</normalised> them to be <normalised orig="disloial" auto="false">disloyal</normalised> to <lb/>
+their God, that spiritual adultery, as they should <lb/>
+do those who solicit them to the carnal, not so <lb/>
+much as to enter <normalised orig="parly" auto="true">parley</normalised>, but with the greatest indignation <lb/>
+detest and reject the. <normalised orig="'Tis" auto="true">It is</normalised> the saying <lb/>
+of the Wise man, Prov. 25. 23. that an <quote type="biblical" ana="Prov 25.23">angry <lb/>
+countenance <normalised orig="driveth" auto="true">drives</normalised> away a back biting tongue</quote>. And <lb/>
+certainly, would Great Persons look severely on <lb/>
+such defamers of Religion, they would give <normalised orig="som" auto="true">some</normalised> <lb/>
+check to that impudence of profaneness which has<lb/>
+given it such a vogue in the World. <lb/>
+                  <pb n="21"/>
+                  <lb/>
+26. AND sure this is much their Duty to do, <lb/>
+if they own any relation to that God who is so <lb/>
+<normalised orig="dishonored" auto="true">dishonoured</normalised>. They would think it a very disingenious <lb/>
+thing to sit by to hear a Friend or Benefaction <lb/>
+reviled, and express no <normalised orig="displesure" auto="true">displeasure</normalised>; and is <lb/>
+God so friendless among them, that only his traducers <lb/>
+and blasphemers can be patiently heard? <lb/>
+Among the Jews, at the hearing of any Blasphemy, <lb/>
+they rent their clothes; but I fear we have <lb/>
+<normalised orig="som" auto="true">some</normalised> of our nice Dames that would be much more <lb/>
+<normalised orig="concern'd" auto="true">concerned</normalised> at a rip in their garment, then at the <lb/>
+rending and violating God's Sacred Name; and <lb/>
+could more patiently behold the total subversion <lb/>
+of Religion, then the disorder or misplacing of <lb/>
+a lock of <normalised orig="riband" auto="true">ribbon</normalised>. But <normalised orig="'tis" auto="true">it is</normalised> to be hoped there are <lb/>
+not many so imious, and those that are not, will <lb/>
+surely think themselves obliged with all their <lb/>
+power to discountenance all the Fautors of irreligion, <lb/>
+whether they be the solemn sedator sort <lb/>
+that would argue, or the jollier <normalised orig="ther" auto="true">there</normalised> would rally <lb/>
+them out of their Faith. <lb/>
+27. BUT when they have thus provided against <lb/>
+the assaults of others, and secured the speculative <lb/>
+part of Religion, they have only established <lb/>
+a Judicatory against themselves, stored up <lb/>
+                  <choice ana="illegible">
+                     <sic>ma*ter</sic>
+                     <corr>master</corr>
+                  </choice> of Conviction and Accusation, if they <lb/>
+answer it not in the Practice. I must therefore <lb/>
+after this <normalised orig="ling" auto="false">long</normalised> excursion, return to my first Point, <lb/>
+and beseech them seriously to weight the obligations <lb/>
+they have to Piety in the general notion of <lb/>
+it, as it comprehends all the duties of a Christian <lb/>
+                  <pb n="22"/>
+                  <lb/>
+life, of which I intend not to speak particularly; <lb/>
+so I know not where to find a better summary, <lb/>
+then that which St. James has drawn up, Chap. <lb/>
+I. <normalised orig="vers" auto="true">verse</normalised>. 27. <quote type="biblical" ana="Jas 1.27">Pure Religion and undefiled before God <lb/>
+even the Father is this, to visit the fatherless and widows <lb/>
+in their affliction, and to keep himself unspotted <lb/>
+form the world.</quote>
+                  <lb/>
+28. BUT besides this general, there is (as I <lb/>
+said before) another more restrained notion of <lb/>
+Piety, as it relates to our more immediate <normalised orig="entercourse" auto="true">intercourse</normalised> <lb/>
+with God in divine Ordinances and Worship, <lb/>
+in which respect it commonly passes under <lb/>
+the name of Devotion, and thus <normalised orig="consider'd" auto="true">considered</normalised> it has <lb/>
+a great propriety to the female sex. For Devotion <lb/>
+is a tender Plant that will scarce root in stiff <lb/>
+or rocky ground, but requires a supple gentle soil, <lb/>
+and therefore the feminine softness and pliableness <lb/>
+is very apt and proper for it. And accordingly <lb/>
+there have <normalised orig="bin" auto="true">been</normalised> very eminent growths of it in <lb/>
+that Sex. I need not heap up examples of former <lb/>
+Ages, but rather <normalised orig="perswade" auto="true">persuade</normalised> this to leave some at <lb/>
+least to the following; and the more considerable <lb/>
+the persons are, the more conspicuous will be the <lb/>
+example, which seems the more to adapt it to those <lb/>
+I now speak to. Devotion in a Cloister is a recluse <lb/>
+on a candlestick: and in an obscure Cottage <normalised orig="'tis" auto="true">it is</normalised> <lb/>
+either not observed, or else thought to be but the <lb/>
+effect of destitution and secular wants, a reserve <lb/>
+rather then a choice: but when those who are in <lb/>
+the <normalised orig="eie" auto="true">eye</normalised> of the world, the most eminent Actors on <lb/>
+                  <pb n="23"/>
+                  <lb/>
+the Theater of humane life, shall <normalised orig="chuse" auto="true">choose</normalised> the part of <lb/>
+a Saint, when those who want none of the divertisments <lb/>
+or blandishments of Earth, shall have <lb/>
+their conversation in Heaven, this recommends it <lb/>
+to the Spectators, as the true and greatest object <lb/>
+of humane choice; since <normalised orig="'tis" auto="true">it is</normalised> chosen by those who <lb/>
+know the utmost pretence of all its competitors. <lb/>
+29. NOR is devotion only more excellent in <lb/>
+them in regard of its effects, but <normalised orig="'tis" auto="true">it is</normalised> also more <lb/>
+necessary in respect of their obligation. Devotion <lb/>
+is an abstraction from the world, and therefore <lb/>
+cannot in any eminent degrees, be practised <lb/>
+by those whose necessity of business do much entangle <lb/>
+them in it. So that from such, a far less <lb/>
+proportion will be accepted, then from those, <lb/>
+<normalised orig="whoese" auto="false">whose</normalised> plenty and ease give them no other want <lb/>
+but that of <normalised orig="emploitment" auto="false">employment</normalised>. And certainly if there be <lb/>
+any of whom that can truly be said; women of <lb/>
+quality are the persons: for they in this respect <lb/>
+exceed even men of the like rank, for the men are <lb/>
+often engaged in public <normalised orig="emploitments" auto="false">employment</normalised>, and must <lb/>
+lend most of their time to the use of others; or <lb/>
+however all have the care of their own <normalised orig="privat" auto="true">private</normalised> <lb/>
+affairs, the managery of their fortunes to employ <lb/>
+them. But of women the utmost that is ordinarily <lb/>
+required, is but a little <normalised orig="easie" auto="true">easy</normalised> inspection within <lb/>
+their own walls, the oversight of a few children, <lb/>
+and servants, and even from this how many are by <lb/>
+their condition of life exemted? and how many <lb/>
+more do by their niceness and delicacy exemt <lb/>
+                  <fw type="pageNum" n="103">102</fw>
+                  <pb n="24"/>
+                  <lb/>
+themselves? and surely so perfect a vacancy is <lb/>
+neither happy nor safe. And therefore God who <lb/>
+projects we should be both, never <normalised orig="design't" auto="false">designed</normalised> it for <lb/>
+any of mankind: but where he gives so much liberty <lb/>
+from secular, he expects a greater diligence <lb/>
+in spiritual <normalised orig="emploitments" auto="false">employments</normalised>. <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

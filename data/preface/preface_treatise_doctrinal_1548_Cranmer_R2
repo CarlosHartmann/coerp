@@ -1,0 +1,178 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Cranmer's <normalised orig="catechismvs" auto="true">catechismus</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ThCr1489">Cranmer, Thomas</author>
+               <title type="main">"A short Instruction into Christian religion for the <normalised orig="synguler" auto="true">singular</normalised> <normalised orig="commoditie" auto="true">commodity</normalised> and <normalised orig="profite" auto="true">profit</normalised> of children and <normalised orig="yonge" auto="true">young</normalised> people. <normalised orig="Ouersene" auto="true">Overseen</normalised> and corrected by the <normalised orig="moost" auto="true">most</normalised> <normalised orig="reuerende" auto="true">reverend</normalised> father in God the <normalised orig="Archebyshoppe" auto="true">Archbishop</normalised> of <normalised orig="Canterburie" auto="true">Canterbury</normalised>." In: Cranmer, Thomas. <normalised orig="Cathechismvs" auto="false">Catechismus</normalised>. That is to say a <normalised orig="shorte" auto="true">short</normalised> Instruction into Christian Religion [...]</title>
+               <title type="short">Preface Cranmer's <normalised orig="catechismvs" auto="true">catechismus</normalised></title>
+               <date when="1548">1548</date>
+               <date type="this_edition" when="1548">1548</date>
+               <idno type="STC">5992.5</idno>
+               <note type="genre" subtype="preface_treatise_doctrinal">doctrinal treatise preface</note>
+               <note type="sample" target="#ThCr1489_1548_preface_treatise_doctrinal_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ThCr1489_1548_preface_treatise_doctrinal_1">
+            <div>
+               <head>A short Instruction into<lb/>
+Christian religion for the <normalised orig="synguler" auto="true">singular</normalised> <lb/>
+<normalised orig="commoditie" auto="true">commodity</normalised> and <normalised orig="profite" auto="true">profit</normalised> of <lb/>
+children and <normalised orig="yonge" auto="true">young</normalised> people. <normalised orig="Ouersene" auto="true">Overseen</normalised><lb/>
+and corrected by the <normalised orig="moost" auto="true">most</normalised> <lb/>
+<normalised orig="reuerende" auto="true">reverend</normalised> father in God the<lb/>
+<normalised orig="Archebyshoppe" auto="true">Archbishop</normalised> of <normalised orig="Canterburie" auto="true">Canterbury</normalised>.</head>
+               <p>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>The preface.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+<normalised orig="THys" auto="true">This</normalised> <normalised orig="treatice" auto="false">treatise</normalised> <lb/>
+gentle <lb/>
+reader, is not <lb/>
+<normalised orig="wrytten" auto="true">written</normalised> for <lb/>
+the <normalised orig="Curattes" auto="true">Curates</normalised> <lb/>
+&amp; preachers,<lb/>
+for <normalised orig="manye" auto="true">many</normalised> of <lb/>
+them <normalised orig="haue" auto="true">have</normalised> so <lb/>
+<normalised orig="muche" auto="true">much</normalised> knowledge in <normalised orig="holye" auto="true">holy</normalised> scripture <lb/>
+(<normalised orig="thankes" auto="true">thanks</normalised> be to God) that they <lb/>
+be <normalised orig="alreadye" auto="true">already</normalised> sufficiently instructed <lb/>
+in these matters: But it is written <lb/>
+                  <lb/>
+                  <fw type="pageNum">A.i.</fw>
+                  <pb n="1"/>
+                  <lb/>
+for the <normalised orig="behoue" auto="false">behove</normalised> of the <normalised orig="yong" auto="true">young</normalised> <normalised orig="childre~" auto="true">children</normalised>, <lb/>
+<normalised orig="whiche" auto="true">which</normalised> <normalised orig="muste" auto="true">must</normalised> be brought <normalised orig="vp" auto="true">up</normalised> with <lb/>
+<normalised orig="playne" auto="true">plain</normalised> and <normalised orig="shorte" auto="true">short</normalised> lessons. For <lb/>
+wee see <normalised orig="daylye" auto="true">daily</normalised> by experience, that <lb/>
+who so <normalised orig="euer" auto="true">ever</normalised> <normalised orig="wyll" auto="true">will</normalised> <normalised orig="teache" auto="true">teach</normalised> children, <lb/>
+must <normalised orig="vse" auto="true">use</normalised> <normalised orig="muche" auto="true">much</normalised> discretion &amp; <normalised orig="wysedome" auto="true">wisdom</normalised>, <lb/>
+not to <normalised orig="geue" auto="true">give</normalised> them to much at <lb/>
+one time, (lest he dull and <normalised orig="oppresse" auto="true">oppress</normalised> <lb/>
+their <normalised orig="wittes" auto="true">wits</normalised>) and yet that which he <lb/>
+<normalised orig="gyueth" auto="true">gives</normalised> <normalised orig="theim" auto="true">them</normalised>, he <normalised orig="muste" auto="true">must</normalised> often and <lb/>
+many times <normalised orig="reherse" auto="true">rehearse</normalised> and <normalised orig="repete" auto="true">repeat</normalised> <normalised orig="vnto" auto="true">unto</normalised> <lb/>
+<normalised orig="theim" auto="true">them</normalised> <normalised orig="agayne" auto="true">again</normalised>, as <normalised orig="nere" auto="true">ne'er</normalised> as he can <lb/>
+after one manner of wise, and with <lb/>
+the same <normalised orig="wordes" auto="true">words</normalised>. For if <normalised orig="thei" auto="true">they</normalised> <normalised orig="teache" auto="true">teach</normalised> <lb/>
+them now this, now that, now with <lb/>
+these <normalised orig="wordes" auto="true">words</normalised>, <normalised orig="nowe" auto="true">now</normalised> with other, <normalised orig="the~" auto="true">them</normalised> <lb/>
+the <normalised orig="childre~" auto="true">children</normalised> <normalised orig="learne" auto="true">learn</normalised> <normalised orig="litle" auto="true">little</normalised> or nothing, <lb/>
+<normalised orig="thei" auto="true">they</normalised> <normalised orig="kepe" auto="true">keep</normalised> almost nothing in <normalised orig="memorye" auto="true">memory</normalised>, <lb/>
+&amp; <normalised orig="besyde" auto="true">beside</normalised> that, they <normalised orig="waxe" auto="true">wax</normalised> <normalised orig="wearie" auto="true">weary</normalised> <lb/>
+of <normalised orig="learnyng" auto="true">learning</normalised>, &amp; <normalised orig="conceaue" auto="true">conceive</normalised> a <normalised orig="lothsomnes" auto="true">loathsomeness</normalised> <lb/>
+<normalised orig="therto" auto="true">thereto</normalised>, and be more <normalised orig="slothfull" auto="true">slothful</normalised> <lb/>
+and <normalised orig="vnapte" auto="true">unapt</normalised> to <normalised orig="learne" auto="true">learn</normalised>. Forasmuch <lb/>
+<normalised orig="therfore" auto="true">therefore</normalised> as it was to be feared, <lb/>
+                  <pb n="2"/>
+                  <lb/>
+that <normalised orig="euery" auto="true">every</normalised> <normalised orig="pastore" auto="true">pastor</normalised> <normalised orig="woulde" auto="true">would</normalised> not <lb/>
+take the <normalised orig="paynes" auto="true">pains</normalised> to <normalised orig="drawe" auto="true">draw</normalised> out such <lb/>
+a <normalised orig="shorte" auto="true">short</normalised> <normalised orig="forme" auto="true">form</normalised> of <normalised orig="teachynge" auto="true">teaching</normalised> to the <lb/>
+children, nor we <normalised orig="thoughte" auto="true">thought</normalised> good to <lb/>
+burden <normalised orig="euery" auto="true">every</normalised> one with so great labours, <lb/>
+and also <normalised orig="yf" auto="true">if</normalised> <normalised orig="eueri" auto="true">every</normalised> <normalised orig="pastore" auto="true">pastor</normalised> <normalised orig="seuerally" auto="true">severally</normalised> <lb/>
+should <normalised orig="deuise" auto="true">devise</normalised> a <normalised orig="fourme" auto="true">form</normalised> for <lb/>
+his <normalised orig="parishe" auto="true">parish</normalised>, it <normalised orig="myght" auto="true">might</normalised> <normalised orig="chaunce" auto="true">chance</normalised> that <lb/>
+there should be as many <normalised orig="soundrye" auto="false">sundry</normalised> <lb/>
+<normalised orig="formes" auto="true">forms</normalised>, as there be pastors, which <lb/>
+<normalised orig="diuersitie" auto="true">diversity</normalised> <normalised orig="myght" auto="true">might</normalised> engender <normalised orig="muche" auto="true">much</normalised> <lb/>
+<normalised orig="diuision" auto="true">division</normalised> and <normalised orig="controuercie" auto="true">controversy</normalised>, and be <lb/>
+also much <normalised orig="hynderaunce" auto="true">hinderance</normalised> to the children, <lb/>
+<normalised orig="yf" auto="true">if</normalised> in one place <normalised orig="thei" auto="true">they</normalised> <normalised orig="learne" auto="true">learn</normalised> one <lb/>
+<normalised orig="forme" auto="true">form</normalised>, and in an other place an other <lb/>
+<normalised orig="forme" auto="true">form</normalised>. For to <normalised orig="exchewe" auto="true">eschew</normalised> the said <lb/>
+<normalised orig="inconueniences" auto="true">inconveniences</normalised>, we <normalised orig="haue" auto="true">have</normalised> <normalised orig="thoughte" auto="true">thought</normalised> <lb/>
+good to <normalised orig="deuise" auto="true">devise</normalised> this <normalised orig="shorte" auto="true">short</normalised> manner <lb/>
+and <normalised orig="forme" auto="true">form</normalised> <choice ana="print">
+                     <sic>tynstructe</sic>
+                     <corr>to <normalised orig="ynstructe" auto="false">instruct</normalised></corr>
+                  </choice> children and <lb/>
+<normalised orig="yong" auto="true">young</normalised> men, <normalised orig="wherby" auto="true">whereby</normalised> they <normalised orig="maye" auto="true">may</normalised> both <lb/>
+<normalised orig="shortlie" auto="true">shortly</normalised> and <normalised orig="easely" auto="true">easily</normalised> <normalised orig="learne" auto="true">learn</normalised> the chief <lb/>
+<normalised orig="pryncipilles" auto="false">principles</normalised> and <normalised orig="begynnynge" auto="true">beginning</normalised> of <lb/>
+<normalised orig="Christe~" auto="true">Christen</normalised> religion and doctrine, and <lb/>
+                  <lb/>
+                  <fw type="pageNum">A.ii.</fw>
+                  <pb n="3"/>
+                  <lb/>
+<normalised orig="learne" auto="true">learn</normalised> <normalised orig="aswell" auto="true">as well</normalised> <normalised orig="howe" auto="true">how</normalised> they <normalised orig="oughte" auto="true">ought</normalised> to <lb/>
+<normalised orig="lyue" auto="true">live</normalised>, as also what they <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="belyue" auto="false">believe</normalised>. <lb/>
+And <normalised orig="whan" auto="true">when</normalised> they <normalised orig="haue" auto="true">have</normalised> learned <lb/>
+this in their tender age, they shall <lb/>
+not <normalised orig="onely" auto="true">only</normalised> <normalised orig="vnderstande" auto="true">understand</normalised> <normalised orig="godlye" auto="true">godly</normalised> sermons <lb/>
+and all other godly doctrine <lb/>
+and <normalised orig="bookes" auto="true">books</normalised> y<hi rend="high">e</hi> better, but also they <lb/>
+shall become godly men, and <normalised orig="wyse" auto="true">wise</normalised>, <lb/>
+<normalised orig="louers" auto="true">lovers</normalised> of true religion and <normalised orig="godlines" auto="true">godliness</normalised>, <lb/>
+and to <normalised orig="al" auto="true">all</normalised> states and orders of <lb/>
+<normalised orig="lyfe" auto="true">life</normalised>, <normalised orig="aswell" auto="true">as well</normalised> <normalised orig="ecclesiasticall" auto="true">ecclesiastical</normalised> as <normalised orig="Ciuill" auto="true">Civil</normalised> <lb/>
+be more <normalised orig="apte" auto="true">apt</normalised> and <normalised orig="towarde" auto="true">toward</normalised>, <normalised orig="vnto" auto="true">unto</normalised> <lb/>
+<normalised orig="whiche" auto="true">which</normalised> godly purpose, all fathers <lb/>
+and mothers, <normalised orig="Curattes" auto="true">Curates</normalised> and preachers, <lb/>
+and <normalised orig="al" auto="true">all</normalised> christen <normalised orig="Maiestrates" auto="true">Magistrates</normalised> <lb/>
+and officers, should with all <normalised orig="theyr" auto="true">their</normalised> <lb/>
+<normalised orig="mynde" auto="true">mind</normalised> and <normalised orig="endeuore" auto="false">endeavour</normalised> <normalised orig="gyue" auto="true">give</normalised> their <lb/>
+<normalised orig="ayde" auto="true">aid</normalised> and <normalised orig="helpe" auto="true">help</normalised>. <normalised orig="Wherunto" auto="true">Whereunto</normalised> <lb/>
+God of his grace <normalised orig="graunt" auto="true">grant</normalised> <lb/>
+his <normalised orig="fauour" auto="true">favour</normalised> and <lb/>
+<normalised orig="assistaunce" auto="true">assistance</normalised>. <lb/>
+Amen. <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

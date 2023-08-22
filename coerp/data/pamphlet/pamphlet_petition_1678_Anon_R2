@@ -1,0 +1,553 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Humble Remonstrance and Petition against Papists</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="Anon">Anonymous</author>
+               <title type="main">To the right honourable the Lords and Commons Assembled In parliament, The Humble Remonstrance and Petition of English Protestants, against English and Irish Papists</title>
+               <title type="short">Humble Remonstrance and Petition against Papists</title>
+               <date when="1678">1678</date>
+               <date type="this_edition" when="1678">1678</date>
+               <idno type="Wing">T1698</idno>
+               <note type="genre" subtype="pamphlet_petition">petition pamphlet</note>
+               <note type="sample" target="#Anon_1678_pamphlet_petition_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">folio</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="Anon_1678_pamphlet_petition_1">
+            <div>
+               <head>TO THE <lb/>
+RIGHT HONOURABLE <lb/>
+THE <lb/>
+Lords and Commons <lb/>
+Assembled In <lb/>
+PARLIAMENT, <lb/>
+The Humble Remonstrance and Petition <lb/>
+of English Protestants against <lb/>
+English and Irish Papists.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+IT is not a time now to Dispute but Act, and that vigorously <lb/>
+too, or England’s lost. POPERY, that Enemy to God,<lb/>
+by setting up Idols; to Christ, by its New-found Mediators; to <lb/>
+the Holy Ghost, by putting a Pope in his place; to the Scriptures, <lb/>
+by its Legends and corrupt Traditions; to Reason, by its <lb/>
+imposed Absurdities; to common Sense, by its most foolish but <lb/>
+most <normalised orig="idolized" auto="true">idolised</normalised> Transubstantiation; to all tender dissenting Consciences <lb/>
+by Fire and Faggot; and to all Civil Government that refuse <lb/>
+to be subject to it, by Plots, Assassinations and horrid <normalised orig="Massacrees" auto="false">Massacres</normalised>, <lb/>
+its usual and notorious steps to Worldly Advancement. <lb/>
+This monstrous Popery, this common Enemy to Mankind, that <lb/>
+<normalised orig="hath" auto="true">has</normalised> so often contrived our Ruin, and several times been at the <lb/>
+very point of effecting it, has once more attempted us, and with <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="(2)">A</fw>
+                  <pb n="1"/>
+                  <lb/>
+that Violence and Design that it looks like the last time: Nay, <lb/>
+the great Sticklers of it are got within our Works, and promise <lb/>
+themselves the <normalised orig="Guarrison" auto="false">Garrison</normalised>, because they say they have Friends in <lb/>
+Disguise among us. ‘<normalised orig="Tis" auto="true">It is</normalised> true, they have lost some Men in the <lb/>
+Attempt, but they are not much daunted at that; for the whole <lb/>
+Papal World they <normalised orig="bragg" auto="true">brag</normalised> have conspired their Success, and the <lb/>
+Air Rings with the Thousands of Masses that are daily said for the <lb/>
+Prosperity of the Design, as if their Intention were to convert <lb/>
+the World, and not to Kill the King, Garble the Parliament, <lb/>
+Shamble all good and sober Protestants of every Party, Fire and <lb/>
+Plunder <normalised orig="Citie" auto="true">City</normalised>, and finally, Change the Government and Religion <lb/>
+of the Kingdom, which is the Plot. <lb/>
+Nor will the more impudent of them deny the thing in general, <lb/>
+but much the contrary, insulting to us with Tertullians Implavimus <lb/>
+omnia against the old Pagans, We fill your Courts, your <lb/>
+Armies, your Navies, it must take, you can’t avoid it; ‘<normalised orig="tis" auto="true">it is</normalised> a just <lb/>
+Cause to extirpate <normalised orig="Hereticks" auto="true">Heretics</normalised> Root and Branch. <lb/>
+But one (and may be the worst) part of the Plot has fail’d <lb/>
+them, they <join original="resolv’d"><normalised orig="resolvd" auto="false">resolved</join></normalised> to <normalised orig="surprize" auto="true">surprise</normalised> you, to make a Night Work of <lb/>
+it, to let you and yours never see day more (for such Deeds become<lb/>
+Darkness) as they did in France and Ireland in those most <lb/>
+Bloody <normalised orig="Massacrees" auto="false">Massacres</normalised> of poor harmless Protestants. But God, the <lb/>
+infinitely good and gracious God, that <normalised orig="hath" auto="true">has</normalised> <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="watcht" auto="true">watched</normalised> over <lb/>
+this poor Island (an hundred times design’d to destruction) and <lb/>
+whose Eye <normalised orig="pierceth" auto="true">pierces</normalised> through the Secrets of men, <normalised orig="hath" auto="true">has</normalised> notwithstanding <lb/>
+the Greatness, as well as multitude of our Sins (not to <lb/>
+be equalled by any thing but his Patience and Compassion) discovered <lb/>
+this impious, Conspiracy we hope too early for the Plotters <lb/>
+Purpose; he has beaten up our Quarters, and given us the <lb/>
+Alarm, if we will take; methinks we should, where the Noise <lb/>
+of Fire and Sword is in our Ears; when we cannot walk the <lb/>
+Streets without Danger of being stabbed, nor sleep in our Houses <lb/>
+for fear of being burned, witness the dreadful Fire at London, <lb/>
+the Fire of Southwark, and that the other day of Limehouse, <lb/>
+where three poor Souls were burned quick, to say nothing of <lb/>
+forty Attempts they have made in other places. To which let <lb/>
+me add the Design in general of <normalised orig="Massacreeing" auto="false">Massacring</normalised> all the best People <lb/>
+                  <fw type="pageNum" n="(3)">(2)</fw>
+                  <pb n="2"/>
+                  <lb/>
+in the Kingdom, begun and amply confirmed in the most barbarous <lb/>
+Murder of that Worthy Knight and Judicious Magistrate <lb/>
+Sir Edmundberry Godfry; and here I must stay a while. Murder is <lb/>
+a great Sin against God and our Neighbour; but alas! what <lb/>
+induced them to it here? Sir Edmundberry Godfry was one of <lb/>
+the Mildest Men to these Bloody Papists that was in Commission<lb/>
+for the Peace; for though he hated Arbitrary Power and Popery, <lb/>
+as the Cause or Effect of it, yet a Man for a due Liberty <lb/>
+to all sober People pretending Tenderness of Conscience, and <lb/>
+saved them from many a Pinch on that score, hoping, as many <lb/>
+more did, that after an hundred years Experience, Intermarriages, <lb/>
+Conversation and large Indulgence, they were grown wiser, <lb/>
+if not more Christian than to cut their Way to Government <lb/>
+through Blood, and Kill for Religion (pardon me the use of the <lb/>
+word about Popery, that has nothing of Religion but the Name) <lb/>
+but Gratitude restrains not men of his stamp, their Principle <lb/>
+knows no Kindred, no Obedience, no Obligation that stands in <lb/>
+the way of their conspired Dominion. Well <choice ana="illegible">
+                     <sic/>
+                     <corr/>
+                  </choice> but was it that <lb/>
+they would be revenged of him, for having Courage (Courage <lb/>
+I say, as the World goes) to take Depositions upon Oath of <lb/>
+their Devilish Plot? But where’s the Crime here, which can <lb/>
+properly give their Act the term of Revenge, since Examination <lb/>
+is neither Judgment nor Execution? even a Saint is not <join original="injur’d"><normalised orig="injurd" auto="false">injured</join></normalised> <lb/>
+to be <normalised orig="examin" auto="true">examine</normalised>’d, much less a Papist: <normalised orig="Innocency" auto="true">Innocence</normalised> gets on <normalised orig="Tryal" auto="true">Trial</normalised>, if <lb/>
+<normalised orig="falsly" auto="true">falsely</normalised> accused; but that’s not the Case; for Truth seeks no <lb/>
+Corners, nor yet Ditches to lay a Murder’d Man in after having <lb/>
+Strangled him in a House for the purpose: What then can <lb/>
+be the plain English of the business but this, that they concluded, <lb/>
+his former Kindness thus abused would forever <normalised orig="disingage" auto="true">disengage</normalised> him for <lb/>
+the future; and that since he could not be prevail’d upon to stifle <lb/>
+the Evidence he had and might yet have produced (for he <normalised orig="acknowledg" auto="true">acknowledge</normalised>’d <lb/>
+to some, he had been both tamper’d with &amp; <join original="menac’d"><normalised orig="menacd" auto="false">menaced</join></normalised>) <lb/>
+they would strangle him; which is such a Demonstration of their <lb/>
+Folly as well Malice <normalised orig="hath" auto="true">has</normalised> given of the whole to be true, that <lb/>
+none can now deny it to be a Plot but those that are of it, or <lb/>
+will lose by the Discovery. <lb/>
+But some say, He Killed himself. That’s a likely Business indeed; <lb/>
+                  <pb n="3"/>
+                  <lb/>
+for what I pray? a sober, Charitable, judicious Man. O <lb/>
+But he was <normalised orig="Melancholly" auto="true">Melancholy</normalised>, that is, he was a serious man; but why <lb/>
+now more <normalised orig="Melancholly" auto="true">Melancholy</normalised> than ever, because he had wronged the <lb/>
+innocent Papists? Is that it? Where’s the Wrong? is it, That <lb/>
+he heard what Persons upon Oath declared of the most horrid <lb/>
+Conspiracy that ever was on foot in the World; but the Murdering <lb/>
+of the Son of God? but be this Deposition true or false, it <lb/>
+was his Duty and Place to take it, he was Sworn to do it, it was <lb/>
+a great and the best part of his Office; he had <normalised orig="deserv" auto="true">deserve</normalised>’d a Plotter’s <lb/>
+Punishment to have refused the thing. Here is no Virulency, Suborning <lb/>
+of Evidence, Condemning or Murdering them in all <lb/>
+this: Where’s the Sin then that should trouble his Conscience? <lb/>
+But they that will Murder, will <normalised orig="Lye" auto="true">Lie</normalised> to cover it. <lb/>
+Besides, ‘<normalised orig="tis" auto="true">it is</normalised> plain that he was strangled, and his neck broke before <lb/>
+stab’d, because he could neither strangle himself nor break <lb/>
+his Neck after he was Stab’d through his Heart, nor Stab himself <lb/>
+after he was Strangled, and his Neck broke: moreover had <lb/>
+he been Stab’d before dead or soon after, Blood would have appeared <lb/>
+on the Hilt of his Sword on which he lay, or on the <lb/>
+Ground, it being a dry place, or on his <normalised orig="Cloaths" auto="true">Clothes</normalised>; but no Blood <lb/>
+was to be seen; and when the Sword was drawn out of his Body <lb/>
+which his Murderers put in to paliate the Butchery; nothing <lb/>
+issued from him but a dark Water, as is usual where Blood is coagulated, <lb/>
+as his doubtless was before he was Stab’d: for we are of <lb/>
+Opinion there was a good time betwixt Strangling and <normalised orig="Stabing" auto="false">Stabbing</normalised> <lb/>
+him, and that the latter was upon great deliberation, and that <lb/>
+on purpose to hide the Actors, and cast the Murder upon himself. <lb/>
+O Lord God! that ever Men should be so much the Children <lb/>
+of the Devil; as first to Murder, then charge it upon the <lb/>
+Innocent Soul Murdered. But the Devil was ever a Fool, and <lb/>
+so in this. For besides what we have observed, this further is to be <lb/>
+said, they that killed him would have us think ‘<normalised orig="twas" auto="true">it was</normalised> himself, because <lb/>
+neither <normalised orig="Cloathes" auto="true">Clothes</normalised>, nor Money, nor Rings were taken away. <lb/>
+True, but though they that are concerned in the Plot <lb/>
+wanted neither his <normalised orig="Cloathes" auto="true">Clothes</normalised>, nor Money, nor Rings, to carry it on, <lb/>
+yet they took what they wanted, and they wanted what they <lb/>
+took with a witness, and that was his Pocket-Book of Depositions <lb/>
+                  <fw type="pageNum" n="(5)">(4)</fw>
+                  <pb n="4"/>
+                  <lb/>
+and Examinations, which puts it out of doubt that they that <lb/>
+were so much concerned in them, both Murdered him and took <lb/>
+it; for none can think that Father Coniers, the D. of Norfolks <lb/>
+Confessor taking the Air over Hedge and Ditch to Primrose Hill, <lb/>
+<normalised orig="dropt" auto="true">dropped</normalised> just upon him and <normalised orig="pickt" auto="true">picked</normalised> his Pockets of the Book: Well, but <lb/>
+why may he not have Hang’d himself, and his Kindred to save his <lb/>
+Estate Stab’d him afterwards, and carry him thither? This is <lb/>
+deadly cunning; but why was his Pocket-Book only wanting, <lb/>
+wherein the Plotters were concern’d? Tricks won’t do here: <lb/>
+furthermore, why did they not keep his Gold, Silver, and <lb/>
+Rings that were found in his Pocket, but expose them? why not <lb/>
+strip him in some degree, make wound in his Sword Arm, and <lb/>
+hack, bend or break his Sword that it might look like Robbery? <lb/>
+But last of all; why should they carry him out exactly <lb/>
+as he used to go quite <normalised orig="drest" auto="true">dressed</normalised>, and want a Band, especially since <lb/>
+they were so punctual as to take his Sword, Belt, Gloves and <lb/>
+Stick with them. He went out in the Morning with a great <lb/>
+<join original="lac’d"><normalised orig="lacd" auto="false">laced</join></normalised> Band, none was found, as well as the Book of Examinations; <lb/>
+of that we have already spoke; for the Band ‘<normalised orig="tis" auto="true">it is</normalised> a plain case they <lb/>
+Strangled him, and being a <normalised orig="long-Neckt" auto="false">long-necked</normalised> Man, and wearing an high <lb/>
+strong Collar, he <normalised orig="strugling" auto="true">struggling</normalised> to save himself, and they striving to <lb/>
+dispatch him that way, the Band was torn in the Fray, and to <lb/>
+have let it go so, had been to have <normalised orig="tould" auto="true">told</normalised> the Story too plainly, <lb/>
+that is, that the Man was Strangled to Death by Violence, &amp; that <lb/>
+the stab of his own Sword was an after-trick to cover the business. <lb/>
+Thus this poor Gentleman, but worthy and brave Patriot, <lb/>
+ended his <normalised orig="dayes" auto="true">days</normalised> by the Assassinating Hands of Papists, whose <lb/>
+Butchery made him the Common Martyr of his Religion and <lb/>
+Country, and his Death is to us the Earnest of their Cruelty; <lb/>
+in him they have <join original="Massacree’d"><normalised orig="Massacreed" auto="false">Massacred</join></normalised> us all, we must take it to ourselves, <lb/>
+and can no more be unconcerned in his Death, than <normalised orig="disinteressed" auto="false">disinterested</normalised> <lb/>
+in the Cause of it. <lb/>
+The Plot is opened, the Tragedy is begun, our Wives are frighted, <lb/>
+our Children cry; no man is sure of his Life a day; the choice is <lb/>
+only, what Death we shall <normalised orig="dye" auto="true">die</normalised>, whether be Stabbed, Strangled <lb/>
+or Burned. This Consternation and Insecurity must needs obstruct <lb/>
+all Commerce, scare people from following their lawful <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="(6)">B</fw>
+                  <pb n="5"/>
+                  <lb/>
+Occasions, deter all Officers of Justice from their Duty, and <lb/>
+in fine, dissolve humane society, and reduce the World into its <lb/>
+first Chaos. <lb/>
+For the Lord’s sake let us consider our Condition, let us all <lb/>
+turn to the Lord with unfeigned Repentance, let us look and cry <lb/>
+to him for Help, that he who has discovered would confound this <lb/>
+Bloody Conspiracy, and <normalised orig="shew" auto="true">show</normalised> Mercy, and bring us Deliverance, <lb/>
+that we may yet see his Salvation, and serve him all the <normalised orig="dayes" auto="true">days</normalised> of <lb/>
+our Lives; and in order to our Security, these things are earnestly <lb/>
+requested of you. <lb/>
+                  <lb/>
+First, Take effectual Care to preserve the King; they say and <lb/>
+we believe he is not for their turn; we would not have him for <lb/>
+his sake and ours: In order to this, pray find out the Achitophels, <lb/>
+the Dangerous men about him; you know who they are; Be free <lb/>
+and bold, prize your time, the Conjuncture is great. <lb/>
+                  <lb/>
+Secondly, Vote an Address to the King to Banish all Irish Papists <lb/>
+out of the Army, Navy and Kingdom by such a Day, and <lb/>
+all Papists out of the City of London, whose gross Ignorance <lb/>
+and base Desperateness renders them the fittest men for Assassinations. <lb/>
+Besides, it is a shame that the Children and Kindred of <lb/>
+Irish Rebels, nay some of them the very men themselves that <lb/>
+were Actors in that horrid <normalised orig="Massacree" auto="false">Massacre</normalised> in the year 1640. about <lb/>
+thirty seven years since, in which above Three Hundred Thousand <lb/>
+Protestants were Murder’d in the Kingdom of Ireland, <lb/>
+without regard to Age or Sex, should be employ’d either in the<lb/>
+English Army or Navy; but more scandalous is it, that St. James’s <lb/>
+should be their Head Quarters, and the Park turned into an <lb/>
+Irish Walk. What do so many Irish Papists Teigs and Rebels do <lb/>
+swarming there? No Good to be sure; their Parts, Courage <lb/>
+and Skill can invite no man of any to entertain them; it must only <lb/>
+be their Ignorance and Cowardly Cruelty which make them <lb/>
+Instruments of Mischief, and fit to be used by those that love soul <lb/>
+play. But that poor dissenting Protestants should be daily molested <lb/>
+and <normalised orig="pilledged" auto="false">pillaged</normalised> for the sake of their peaceable Consciences, <lb/>
+whilst Teigs and Irish Rebels go by whole droves under the Nose <lb/>
+                  <fw type="pageNum" n="(7)">(6)</fw>
+                  <pb n="6"/>
+                  <lb/>
+of King and Duke in their Royal Park, and Walks of Pleasure, <lb/>
+is almost insupportable. Is this to maintain Protestant Religion, <lb/>
+and discountenance Popery? Expede Herculem.
+                  <lb/>
+                  <lb/>
+Thirdly, For God’s sake call for the Plot, look thoroughly <lb/>
+and strictly into it; fear not favour no man; Fiat Justitia: <lb/>
+But fear God, do what you do as in his Presence, to whom you <lb/>
+must render an <normalised orig="Accompt" auto="true">Account</normalised>. ‘<normalised orig="Tis" auto="true">It is</normalised> the great Action of your Life, <lb/>
+discharge your Trust, and quit your selves now like Men. This <lb/>
+has been the perpetual Troubler of our Protestant-Israel; as you <lb/>
+would see God with Comfort, and secure your Posterity from <lb/>
+civil and spiritual Tyranny, slip not this Opportunity God has <lb/>
+so wonderfully cast into your hands; be not found Despisers of <lb/>
+his Providence, neither be you careless or fearful of improving <lb/>
+it; Now or Never: had they you on this Lock, and at this Advantage, <lb/>
+you nor yours should never see Day more. What <lb/>
+once you could not have so well done before, they have now <lb/>
+made <normalised orig="easie" auto="true">easy</normalised> and necessary for you to do; and what before you <lb/>
+scarcely might do, is now become your Duty. Be not cheated <lb/>
+by a Sacrifice; let not the Lives of two or three Plotters be the <lb/>
+<normalised orig="Ransome" auto="true">Ransom</normalised> of the rest, or your Satisfaction; ‘<normalised orig="tis" auto="true">it is</normalised> not Blood but <lb/>
+Security, prospect future Safety, an Eternal Prevention of the <lb/>
+like Miseries for the future; otherwise we shall only sit down <lb/>
+with the Peace and Joy of Fools, and sat our selves Sacrifices <lb/>
+with more Security against their next Slaughter. Therefore, <lb/>
+                  <lb/>
+Fourthly, Raise the Trane-Bands, and let them be put not so <lb/>
+much as into the hands of men Popishly affected, for those men <lb/>
+that would pull off the <normalised orig="Visard" auto="true">Vizard</normalised> in case Popery prevailed, that otherwise <lb/>
+keep their Credit by not discovering themselves, are the <lb/>
+most dangerous to be Trusted; I fear Popery thus <normalised orig="entring" auto="true">entering</normalised> more <lb/>
+than any other way: examine the Counties well, for some of <lb/>
+base Principles are entrusted. <lb/>
+                  <lb/>
+Fifthly, Let there be Power given to raise Auxiliaries, that <lb/>
+such honest Protestant-Gentlemen as are willing at their own <lb/>
+                  <pb n="7"/>
+                  <lb/>
+Charges voluntarily to serve their Country by raising Troops or <lb/>
+Companies, or serving in them, may be permitted and encouraged <lb/>
+so to do. <lb/>
+                  <lb/>
+Sixthly, Let every Protestant Family be well Armed, and <lb/>
+every Popish Family be utterly disarmed; they have <normalised orig="tryed" auto="true">tried</normalised> our <lb/>
+usage of Arms with ease, we theirs with Cruelty enough. <lb/>
+                  <lb/>
+Seventhly, Let there be an Act with a <normalised orig="strickt" auto="true">strict</normalised> Penalty, that after <lb/>
+such a Day, no Gun-Smith shall sell Guns or Pistols, Cutlers <lb/>
+Swords or Daggers, and dry Salters, Gunpowder or Bullets, <lb/>
+without License of the Aldermen of the Ward in London, or <lb/>
+some chief Officer, if in any other Corporations, and that the <lb/>
+Person so buying them shall before the said Officer subscribe a <lb/>
+sufficient Test against Popery; but more especially that no Papist <lb/>
+be suffered to make or sell any such Implements of War. <lb/>
+                  <lb/>
+Eighthly, That care be taken to prevent fraudulent <normalised orig="Conveiences" auto="false">Conveyances</normalised> <lb/>
+of Estates by Papists to escape the Law where they have done mischief <lb/>
+for this is to cheat the Government, and invalidate the Law.<lb/>
+                  <lb/>
+Ninethly, That it shall be Treason for any Papist to Entertain <lb/>
+a Priest, Jesuit or Seminary in their House, because mortal Enemies <lb/>
+by Principle and Practice to the civil Government. Consider <lb/>
+of the Swedish Law, or a better way to clear the Land of all <lb/>
+of them; let’s buy them out to be safe. <lb/>
+                  <lb/>
+Tenthly, That in all Schools, particularly in Universities, care <lb/>
+be taken to Educate Youth in a just abhorrence of <normalised orig="Romish" auto="true">Roman</normalised> <lb/>
+Principles, especially the Jesuits immorral <normalised orig="morrals" auto="false">morals</normalised>, <normalised orig="shewing" auto="true">showing</normalised> <lb/>
+the inconsistency thereof with human Nature, Reason and Society <lb/>
+as well as pure and meek Christianity; of which there has <lb/>
+been great neglect.<lb/>
+                  <lb/>
+Eleventhly, That our Youth be not suffer’d to travel abroad, but <lb/>
+between twelve and sixteen, and that under the Conduct of approved <lb/>
+Protestants; for the present way of Education is chiefly <lb/>
+to pleasure and looseness, which makes way for Atheism or <lb/>
+Popery, no Religion, or false Religion. <lb/>
+                  <fw type="pageNum" n="(9)">(8)</fw>
+                  <pb n="8"/>
+                  <lb/>
+Twelfthly, That speedy care be taken to release all oppressed <lb/>
+Protestants in this Kingdom; and since the Papists mark all Protestants <lb/>
+out for one fate, and esteem them one Body of <normalised orig="Hereticks" auto="true">Heretics</normalised>, <lb/>
+that they may be as one Body of Protestancy against that common <lb/>
+Enemy. This is the Language of Gods present Providence, those <lb/>
+that withstand it are such a love Rome better then London: every <lb/>
+Protestant, Dissenter or not, has the same thing to say against <lb/>
+Popery. Agree then so far, and let a general Negative Creed be <lb/>
+concluded upon, and from thence let some general Positive Truths <lb/>
+be considered of, in order to a better understanding among <lb/>
+them: For this purpose, let there be a select Assembly of some <lb/>
+out of All <normalised orig="Perswasions" auto="true">Persuasions</normalised>, in which these two <choice ana="print-error">
+                     <sic>Porposals</sic>
+                     <corr>Proposals</corr>
+                  </choice> may be <lb/>
+<normalised orig="duely" auto="true">duly</normalised> weighed, that whosoever Believe and Own what shall be <lb/>
+therein contained, shall be Reputed and Protected as true Protestants. <lb/>
+                  <lb/>
+Lastly, and more especially, Let all the Laws in force against <lb/>
+<normalised orig="immorallity" auto="false">immorality</normalised> be speedily and effectually executed: ‘<normalised orig="Tis" auto="true">It is</normalised> Sin which <lb/>
+is the Disease and Shame of the Nation; we have forgotten God, <lb/>
+and cast his Law behind us, and we deserve nor this beginning of <lb/>
+Deliverance: Our Pleasures have been our Gods, and to them <lb/>
+we bow, and have little or no Religion at Heart; therefore ‘<normalised orig="tis" auto="true">it is</normalised> <lb/>
+that Iniquity abounds, and in that variety too, and to such a degree <lb/>
+as no Kingdom can parallel. Blush, O Heavens, and be <lb/>
+Astonished O Earth, a People loved of God, and so often saved <lb/>
+by his <normalised orig="wonderfull" auto="true">wonderful</normalised> <normalised orig="Providences" auto="true">Providence</normalised>, are become the Tyre and Sidon, <lb/>
+the Sodom and Gomorrah of the World. Let us Repent in Dust <lb/>
+and Ashes; let us turn to God from the bottom of our hearts, <lb/>
+with the fervent Love and good Works of our martyr’d Ancestors, <lb/>
+or their Life, Doctrine and Death will rise up in <lb/>
+Judgment against us, and God will yet suffer their and <lb/>
+our Enemies to swallow us up quick. And be assured, <lb/>
+as Looseness and Debauchery were design’d by the Papists <lb/>
+as a State trick to dispose the minds of the People to receive, <lb/>
+at least suffer Popery (that to say true cannot live with <lb/>
+better Company) so the discouragement of it, and cherishing <lb/>
+of all <normalised orig="vertuous" auto="true">virtuous</normalised> persons, with a serious and hearty prosecution <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="(10)">C</fw>
+                  <pb n="9"/>
+                  <lb/>
+of the <normalised orig="forementioned" auto="true">aforementioned</normalised> Proposals, will stop, and in time wear it <lb/>
+out of the Kingdom; for Popery fears nothing more then Light, <lb/>
+Inquiry, and Sober Living. Hear us, we beseech you, for Jesus <lb/>
+Christ’s sake; take heart, we will never leave you, don’t you leave <lb/>
+us: Provide for the King, provide for the People; for God <lb/>
+alone knows when we lie down, if we shall ever rise, or when <lb/>
+we go forth, if we shall ever return. Remember the <normalised orig="Massacree" auto="false">Massacre</normalised> <lb/>
+of Paris, in which so many thousands fell, and with them that <lb/>
+brave Admiral Coligny, infamy enough one would think to shame <lb/>
+the Party, did they know such a thing; but instead of that, ‘<normalised orig="twas" auto="true">it was</normalised> <lb/>
+Meritorious, yea ‘<normalised orig="tis" auto="true">it is</normalised> subject or Triumph; look into the Vatican <lb/>
+at Rome, and among the other rare Feats perform’d by Christian <lb/>
+Kings against Infidels; this <normalised orig="Massacree" auto="false">Massacre</normalised> of Paris now about 100. <lb/>
+years old, is to be found, and so <normalised orig="carefull" auto="true">careful</normalised> was the Designer to <lb/>
+do it to the life, that he has not omitted to <normalised orig="shew" auto="true">show</normalised> us how the <lb/>
+Noble Admiral was flung dead out of the Window into the <lb/>
+Street, to be used as people use Cats &amp; Dogs in Protestant Countries, <lb/>
+but good enough for an <normalised orig="Heretick" auto="true">Heretic</normalised>, whom the worse they use, <lb/>
+the better they are: But to <normalised orig="shew" auto="true">show</normalised> they own the Plot, and glory in <lb/>
+the Action, and for fear one not read in the Story should take <lb/>
+Coligny for Jezabel, they have gallantly explained the Action <lb/>
+upon the Piece, and writ his name at large  <lb/>
+But there is a Cruelty nearer Home, no less barbarous, the <lb/>
+Irish <normalised orig="Massacree" auto="false">Massacre</normalised> in 1640. nay, it exceeded: first in number, there <lb/>
+were above Three hundred thousand Murder’d: Next, in that <lb/>
+no Age or Sex was spared: And lastly in the manner of it,  ‘<normalised orig="twas" auto="true">it was</normalised> <lb/>
+general throughout the Kingdom; and as they were more Savage, <lb/>
+so more Cruel, they spared not either Sick or Lying-in <lb/>
+Women; they kill’d poor Infants, and innocent Children, tossing <lb/>
+some upon their Swords, Skeens, and other Instruments of Cruelty; <lb/>
+flinging others into Rivers, and taking several by the <lb/>
+Legs, <normalised orig="dasht" auto="true">dashed</normalised> their Brains out against Walls or Rocks, O Lord <lb/>
+God avenge this Innocent Blood, it still <normalised orig="crys" auto="true">cries</normalised>: But that these <lb/>
+Actors of this Tragedy, or their Bloody-minded Off-spring <lb/>
+should swarm in England be Pensioners here, as if they were <lb/>
+the old <normalised orig="Souldiers" auto="true">Soldiers</normalised> of the Queen, men of Eighty eight, Cripples <lb/>
+of Loyalty, laid up for their good Services, and St James’s their <lb/>
+                  <fw type="pageNum" n="(11)">(10)</fw>
+                  <pb n="10"/>
+                  <lb/>
+Hospital; this <normalised orig="scandalizes" auto="false">scandalises</normalised> us: we think them the worst <normalised orig="Cattel" auto="true">Cattle</normalised> <lb/>
+of their Country, and pray that there may be an exchange, that <lb/>
+you would prohibit their Importation instead of more <normalised orig="usefull" auto="true">useful</normalised> <lb/>
+Beasts. For the bloody <normalised orig="Massacree" auto="false">Massacre</normalised> of Piedmont, you have it at <lb/>
+large described by Sir S. Morland.<lb/>
+But we must never forget the horrid murder of Henry the third, <lb/>
+and of Henry the fourth of France, our Kings renowned Grand-Father. <lb/>
+And would to God our King would consider that all his <lb/>
+Humanity to them can never secure him from their <normalised orig="stroak" auto="true">stroke</normalised>; they <lb/>
+were both better <normalised orig="Catholicks" auto="true">Catholics</normalised>, and yet both Assassinated; the <lb/>
+first a bred Papist, yet because he would not Murder all the <lb/>
+Hugonots or Protestants of his Kingdom, and his known best Subjects, <lb/>
+they did as much for him: The last was their Convert, all <lb/>
+they seem’d to desire of him, and all they can expect from our <lb/>
+King, yet how did they use him? they did twice assassinate <lb/>
+him, and the last time kill’d him. What security then can any <lb/>
+Prince promise to himself from men that make not the profession <lb/>
+of the same Religion, a  protection to them that own it, but upon <lb/>
+<normalised orig="humors" auto="true">humours</normalised> or suspicions of their own, or to introduce another <lb/>
+Person or Family, more immediately under their influence, and <lb/>
+disposed to their turn, will make no scruple of killing him? What <lb/>
+Slaves are Kings with such men, and under such a <choice ana="illegible">
+                     <sic>R*ligion</sic>
+                     <corr>Religion</corr>
+                  </choice> ? let <lb/>
+not the mildness of our Prince be thus abused; show yourselves <lb/>
+his great and best Council in this Conjucture, and deliver him <lb/>
+from these men of ingratitude: Men that will never be contented <lb/>
+but with that which they must not have; of such Qualifications, <lb/>
+that what may be esteem’d Ambition, Revenge or Interest in all <lb/>
+other parties, is a settled Principle with them: This their greatest <lb/>
+Doctors tell us, and to excite men in the <normalised orig="persuit" auto="true">pursuit</normalised> of it, they <lb/>
+declare all such Acts more then ordinarily meritorious: But what <lb/>
+hold can we have of such men that have no Conscience? this conclusion <lb/>
+looks hard, and besides their practice (for if that were <lb/>
+<normalised orig="alwayes" auto="true">always</normalised> to cast the Scale, it would go hard with many Protestants <lb/>
+too; ‘<normalised orig="tis" auto="true">it is</normalised> their avowed Doctrine, they Glory in it and <choice ana="print-error">
+                     <sic>maae</sic>
+                     <corr>make</corr>
+                  </choice>
+                  <lb/>
+it our reproach to have any such thing. I say, that Papists have <lb/>
+no Conscience, or no use of Conscience in their Religion, which <lb/>
+is the same thing; for what is Conscience but the Judgment a<lb/>
+man makes in himself of religious matters according to the knowledge<lb/>
+                  <pb n="11"/>
+                  <lb/>
+given him of God; But this is out of Doors with them, <lb/>
+‘<normalised orig="tis" auto="true">it is</normalised> <normalised orig="Heresie" auto="true">Heresy</normalised>; Authority rules them, not Truth; as if a man were <lb/>
+to be credited for his Age, not his Reason. Conscience is a <normalised orig="domestick" auto="true">domestic</normalised> <lb/>
+and private Judge, dangerous to the Chair, the Pope, for <lb/>
+it rather hinders then helps subjection, the less there be of it, the <lb/>
+sooner men turn Captives to their Mysteries: So that putting <lb/>
+out the Eyes of our Mind, and a Blind before our Understandings, <lb/>
+best fit us for Popish Religion: as if Religion had not so <lb/>
+great an Enemy as Reason, nor Faith as knowledge. ‘<normalised orig="Tis" auto="true">It is</normalised> strange <lb/>
+that a man cannot be a Papist without renouncing the only distinction <lb/>
+of a Man from a Beast: Therefore it is we pray to be <lb/>
+secured from Papists, because at best they unman us, and are <lb/>
+not their own men. ‘<normalised orig="Tis" auto="true">It is</normalised> true, as Protestants don’t <normalised orig="alwayes" auto="true">always</normalised> live <lb/>
+up to their good Principles, neither do Papist, to their <normalised orig="bad" auto="true">bade</normalised> Ones, <lb/>
+Breding, good <normalised orig="Humor" auto="true">Humour</normalised>, Generosity (and a better Principle they <lb/>
+know not of) may <normalised orig="byase" auto="false">bias</normalised> some of them to worthy things, <lb/>
+but this is not according to their Principles; for if they will be <lb/>
+true to them, they must abandon choice, and obey their Superior, <lb/>
+Right or wrong, and every immorality he commands is duty <lb/>
+upon Damnation; the more contrary to their Reason, and averse <lb/>
+to their Nature, the greater the Merit. Hesitation is weakness, <lb/>
+Dissent, Schism; Opposition, <normalised orig="Heresie" auto="true">Heresy</normalised>; the Consequence, Burning: <lb/>
+From this Religion, O Lord God deliver us, O King and Parliament <lb/>
+protect us: ‘<normalised orig="Tis" auto="true">It is</normalised> your duty to God and your obligation to <lb/>
+the people. We beseech you excuse us and take all in good part; <lb/>
+our fears are great, we fear just, and our desires reasonable: <lb/>
+Remember our dreadful Fires, consider this horrid Plot, and <lb/>
+think upon poor, yet worthy Sir Edmonbury Godfry; let not <lb/>
+God’s providence and his Blood rise up in judgment against you, <lb/>
+God of his great Mercy <normalised orig="annimate" auto="true">animate</normalised> you by his power, and direct <lb/>
+you by his wisdom, that the Succession of his deliverances from <lb/>
+Queen Elizabeth’s <normalised orig="dayes" auto="true">days</normalised>, may not be forgotten, nor his present <lb/>
+Mercy slighted; Let us do our duty and God will give us that <lb/>
+blessing which will yet make England a glorious Kingdom, the <lb/>
+joy of her Friends, and terror of her Enemies, which is the <lb/>
+fervent and constant prayer of yours, &amp;c. <lb/>
+                  <lb/>
+FINIS.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

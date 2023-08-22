@@ -1,0 +1,174 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Honest <normalised orig="godlye" auto="true">godly</normalised> instruction</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="EdBo1500">Bonner, Edmund</author>
+               <title type="main">"No title" In: Bonner, Edmund. An honest <normalised orig="godlye" auto="true">godly</normalised> instruction, and information for the <normalised orig="tradynge" auto="false">trading</normalised>, and <normalised orig="bringinge" auto="true">bringing</normalised> <normalised orig="vp" auto="true">up</normalised> of Children, set <normalised orig="furth" auto="true">forth</normalised> by the <normalised orig="Bishoppe" auto="true">Bishop</normalised> of London [...]</title>
+               <title type="short">Preface Honest <normalised orig="godlye" auto="true">godly</normalised> instruction</title>
+               <date when="1555">1555</date>
+               <date type="this_edition" when="1555">1555</date>
+               <idno type="STC">3281</idno>
+               <note type="genre" subtype="preface_treatise_doctrinal">doctrinal treatise preface</note>
+               <note type="sample" target="#EdBo1500_1555_preface_treatise_doctrinal_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial </term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="EdBo1500_1555_preface_treatise_doctrinal_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+FOrasmuch, as it is a meritorious <lb/>
+<normalised orig="dede" auto="true">deed</normalised>, to instruct youth <lb/>
+in <normalised orig="vertuous" auto="true">virtuous</normalised> <normalised orig="thinges" auto="true">things</normalised>, which <lb/>
+youth, of it <normalised orig="selfe" auto="true">self</normalised>, is <normalised orig="prope~se" auto="false">propense</normalised>, <lb/>
+and <normalised orig="readye" auto="true">ready</normalised>, <normalised orig="withoute" auto="true">without</normalised> <choice ana="illegible">
+                     <sic>any*</sic>
+                     <corr><normalised orig="anye" auto="true">any</normalised></corr>
+                  </choice>
+                  <lb/>
+teacher, to take, and embrace vice, <normalised orig="vnthriftines" auto="false">unthriftiness</normalised>, <lb/>
+and all <normalised orig="maner" auto="true">manner</normalised> <normalised orig="noughtinesse" auto="false">naughtiness</normalised>, <lb/>
+it is thought good (<normalised orig="seyng" auto="true">saying</normalised> of late <normalised orig="daies" auto="true">days</normalised>, <lb/>
+the youth of this <normalised orig="realme" auto="true">realm</normalised> <normalised orig="hath" auto="true">has</normalised> <normalised orig="ben" auto="true">been</normalised> <normalised orig="nouseled" auto="false">nuzzled</normalised> <lb/>
+with <normalised orig="vngodlie" auto="true">ungodly</normalised> <normalised orig="Catechismes" auto="true">Catechisms</normalised>, and <lb/>
+pernicious <normalised orig="euil" auto="true">evil</normalised> doctrine, <normalised orig="whiche" auto="true">which</normalised> is to be <lb/>
+feared, they <normalised orig="wyl" auto="true">will</normalised> not forget, in as much, <lb/>
+as the new vessel <normalised orig="lo~g" auto="true">long</normalised> <normalised orig="doth" auto="true">does</normalised> <normalised orig="kepe" auto="true">keep</normalised> the sent <lb/>
+or <normalised orig="sauoure" auto="true">savour</normalised>, of the <normalised orig="firste" auto="true">first</normalised> <normalised orig="liquoure" auto="false">liquor</normalised>, <normalised orig="wherwith" auto="true">wherewith</normalised> <lb/>
+it was seasoned, <normalised orig="accordinge" auto="true">according</normalised> to the <lb/>
+<normalised orig="olde" auto="true">old</normalised> <normalised orig="prouerbe" auto="true">proverb</normalised>: Quo semel est imbuta recens <lb/>
+seruabit odorem testa diu: And that <lb/>
+also the <normalised orig="youthe" auto="true">youth</normalised> <normalised orig="muste" auto="true">must</normalised> <normalised orig="haue" auto="true">have</normalised> some honest <lb/>
+introduction, and <normalised orig="entrye" auto="true">entry</normalised> in <normalised orig="thinges" auto="true">things</normalised> <normalised orig="co~uenient" auto="true">convenient</normalised> <lb/>
+for them to <normalised orig="learne" auto="true">learn</normalised>, that is to <lb/>
+<normalised orig="saye" auto="true">say</normalised>: <normalised orig="bothe" auto="true">both</normalised> to <normalised orig="knowe" auto="true">know</normalised> the letters, with <lb/>
+<normalised orig="ioyninge" auto="false">joining</normalised> of them together, and thereby <lb/>
+the <normalised orig="soner" auto="true">sooner</normalised> made apt to go <choice ana="illegible">
+                     <sic>fur*her</sic>
+                     <corr>further</corr>
+                  </choice>, <choice ana="print-error">
+                     <sic><normalised orig="bo" auto="true">by</normalised> the</sic>
+                     <corr><normalised orig="bothe" auto="true">both</normalised></corr>
+                  </choice>
+                  <lb/>
+                  <lb/>
+                  <fw type="pageNum">A.ii.</fw>
+                  <pb n="1"/>
+                  <lb/>
+                  <choice ana="illegible">
+                     <sic>*n</sic>
+                     <corr>in</corr>
+                  </choice> <normalised orig="readynge" auto="true">reading</normalised>, and also in <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="wrytynge" auto="true">writing</normalised></corr>
+                  </choice>) it is <lb/>
+<normalised orig="thoughte" auto="true">thought</normalised> good I <normalised orig="saye" auto="true">say</normalised>, <normalised orig="seynge" auto="true">saying</normalised> the elder <lb/>
+age is <normalised orig="prouided" auto="true">provided</normalised> for in necessary doctrine <lb/>
+already set <normalised orig="furthe" auto="true">forth</normalised>, that the <normalised orig="saide" auto="true">said</normalised> youth <lb/>
+should also <normalised orig="haue" auto="true">have</normalised> some <normalised orig="helpe" auto="true">help</normalised> herin. For <lb/>
+which purpose, here briefly is set <normalised orig="furthe" auto="true">forth</normalised> <lb/>
+for them, <choice ana="print-error">
+                     <sic>aswellletters</sic>
+                     <corr>as well letters</corr>
+                  </choice> of <normalised orig="diuerse" auto="false">diverse</normalised> <normalised orig="sortes" auto="true">sorts</normalised>, <lb/>
+<normalised orig="commonlye" auto="true">commonly</normalised> <normalised orig="vsed" auto="true">used</normalised> in this <normalised orig="realme" auto="true">realm</normalised>, as <lb/>
+also syllables, and <normalised orig="ioyninge" auto="false">joining</normalised> of the <normalised orig="sayde" auto="true">said</normalised> <lb/>
+letters together. And as for <normalised orig="woordes" auto="true">words</normalised>, <lb/>
+sentences, and matters, <normalised orig="suche" auto="true">such</normalised> is here in <lb/>
+this <normalised orig="behalfe" auto="true">behalf</normalised> set also <normalised orig="furth" auto="true">forth</normalised>, as is <normalised orig="iudged" auto="true">judged</normalised> <lb/>
+to be most necessary, <normalised orig="apte" auto="true">apt</normalised>, and requisite <lb/>
+for the <normalised orig="sayde" auto="true">said</normalised> youth to <normalised orig="learne" auto="true">learn</normalised>. As <normalised orig="fyrste" auto="true">first</normalised> <lb/>
+to know how to <normalised orig="blesse" auto="true">bless</normalised> them <normalised orig="selues" auto="true">selves</normalised> <normalised orig="mornynge" auto="true">morning</normalised> <lb/>
+and <normalised orig="euening" auto="true">evening</normalised>: to say also the Pater <lb/>
+noster the <normalised orig="Aue" auto="true">Ave</normalised> Maria, the <normalised orig="Crede" auto="true">Cred</normalised>, the <lb/>
+Confiteor, with the rest to <normalised orig="answere" auto="true">answer</normalised> the <lb/>
+Priest at <normalised orig="Masse" auto="true">Mass</normalised>: to <normalised orig="saye" auto="true">say</normalised> grace at diner <lb/>
+and supper: To say the de profundis: To <lb/>
+know and <normalised orig="learne" auto="true">learn</normalised> <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="boke" auto="true">book</normalised>, and by <lb/>
+<normalised orig="harte" auto="true">heart</normalised>, the ten <normalised orig="commaundementes" auto="true">commandments</normalised> of <normalised orig="almightie" auto="true">almighty</normalised> <lb/>
+God, <normalised orig="geuen" auto="true">given</normalised> in the <normalised orig="olde" auto="true">old</normalised> <normalised orig="lawe" auto="true">law</normalised>: <lb/>
+                  <pb n="2"/>
+                  <lb/>
+The two <normalised orig="co~maundementes" auto="true">commandments</normalised> of God, expressed <lb/>
+in the Gospel: The. vii. principal <lb/>
+<normalised orig="vertues" auto="true">virtues</normalised>: The. vii. <normalised orig="woorkes" auto="true">works</normalised> of <normalised orig="mercye" auto="true">mercy</normalised> <lb/>
+<normalised orig="bodely" auto="true">bodily</normalised>: The. vii. <normalised orig="workes" auto="true">works</normalised> of mercy <normalised orig="gostly" auto="true">ghostly</normalised>, <lb/>
+or spiritual: The. vii. <normalised orig="giftes" auto="true">gifts</normalised> of the holy <lb/>
+ghost: The. viii. <choice ana="illegible">
+                     <sic>be*titudes</sic>
+                     <corr>beatitudes</corr>
+                  </choice>: The. vii. <lb/>
+<normalised orig="sacramentes" auto="true">sacraments</normalised>: To <normalised orig="knowe" auto="true">know</normalised> by the <normalised orig="boke" auto="true">book</normalised>, &amp; <lb/>
+thereby to <normalised orig="auoyde" auto="true">avoid</normalised>, the <normalised orig="seuen" auto="true">seven</normalised> deadly <normalised orig="synnes" auto="true">sins</normalised>. <lb/>
+All these <normalised orig="thinges" auto="true">things</normalised> (<normalised orig="ioyntly" auto="true">jointly</normalised>, in Latin <lb/>
+and in <normalised orig="Englishe" auto="true">English</normalised>, for the youth, to <normalised orig="learne" auto="true">learn</normalised> <lb/>
+<normalised orig="therby" auto="true">thereby</normalised> to <normalised orig="reade" auto="true">read</normalised> <normalised orig="bothe" auto="true">both</normalised> the <normalised orig="tounges" auto="true">tongues</normalised>) are <lb/>
+set <normalised orig="furth" auto="true">forth</normalised> by the <normalised orig="Bishoppe" auto="true">Bishop</normalised> of London, to <lb/>
+be taught by all the <normalised orig="scholemasters" auto="true">schoolmasters</normalised> <normalised orig="vnto" auto="true">unto</normalised> <lb/>
+the <normalised orig="youthe" auto="true">youth</normalised> within his <normalised orig="sayde" auto="true">said</normalised> Diocese of <lb/>
+London. <normalised orig="Straytlie" auto="false">Straightly</normalised> <normalised orig="chargyng" auto="true">charging</normalised>, and <normalised orig="commau~ding" auto="false">commanding</normalised>, <lb/>
+<normalised orig="al" auto="true">all</normalised> the said <normalised orig="scholemasters" auto="true">schoolmasters</normalised>, and <lb/>
+all <normalised orig="maner" auto="true">manner</normalised> of other persons, within <choice ana="illegible">
+                     <sic>hy*</sic>
+                     <corr><normalised orig="hys" auto="true">his</normalised></corr>
+                  </choice>
+                  <lb/>
+<normalised orig="sayde" auto="true">said</normalised> <normalised orig="diocesse" auto="true">diocese</normalised>, neither to <normalised orig="teache" auto="true">teach</normalised>, <normalised orig="learne" auto="true">learn</normalised>, <lb/>
+<normalised orig="reade" auto="true">read</normalised>, or <normalised orig="vse" auto="true">use</normalised>, any other <normalised orig="maner" auto="true">manner</normalised> of A B C <lb/>
+<normalised orig="Catechisme" auto="true">Catechism</normalised>, or <normalised orig="rudimentes" auto="true">rudiments</normalised>, then <lb/>
+this, made for the first instruction <lb/>
+of youth. <lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

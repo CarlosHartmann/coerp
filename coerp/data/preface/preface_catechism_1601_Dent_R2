@@ -1,0 +1,155 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface <normalised orig="Plaine" auto="true">Plain</normalised> mans Path-way to <normalised orig="Heauen" auto="true">Heaven</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ArDe1607d">Dent, Arthur</author>
+               <title type="main">"The epistle to the Reader." In: Dent, Arthur. The <normalised orig="plaine" auto="true">plain</normalised> mans Path-way to <normalised orig="Heauen" auto="true">Heaven</normalised>. [...]</title>
+               <title type="short">Preface <normalised orig="Plaine" auto="true">Plain</normalised> mans Path-way to <normalised orig="Heauen" auto="true">Heaven</normalised></title>
+               <date when="1601">1601</date>
+               <date type="this_edition" when="1601">1601</date>
+               <idno type="STC">6626.5</idno>
+               <note type="genre" subtype="preface_catechism">catechism preface</note>
+               <note type="sample" target="#ArDe1607d_1601_preface_catechism_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ArDe1607d_1601_preface_catechism_1">
+            <div>
+               <head>THE EPISTLE <lb/>
+to the Reader.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+GEntle Reader, seeing my little <lb/>
+Sermon of Repentance, <lb/>
+some <normalised orig="fewe" auto="true">few</normalised> <normalised orig="yeares" auto="true">years</normalised> since published, <lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="bene" auto="true">been</normalised> so well accepted <lb/>
+of: I <normalised orig="haue" auto="true">have</normalised> for thy further <lb/>
+good, published this Dialogue, <lb/>
+being the third <normalised orig="fruite" auto="true">fruit</normalised> <lb/>
+of my labour: wishing to it <lb/>
+the like <normalised orig="successe" auto="true">success</normalised>, that God thereby may <normalised orig="haue" auto="true">have</normalised> the <lb/>
+glory, &amp; thou who art the reader comfort. I <normalised orig="haue" auto="true">have</normalised> <lb/>
+in one part of this Dialogue produced some of the <lb/>
+ancient writers, &amp; some of the wise Heathen also, <lb/>
+to <normalised orig="testifie" auto="true">testify</normalised> <normalised orig="vpon" auto="true">upon</normalised> their oath in their own language, &amp; <lb/>
+to <normalised orig="beare" auto="true">bear</normalised> <normalised orig="witnes" auto="true">witness</normalised> of the <normalised orig="vglines" auto="false">ugliness</normalised> of some vices, which <lb/>
+we in this age make light of: which I wish may not <lb/>
+be <normalised orig="offensiue" auto="true">offensive</normalised> to any. In other parts of this <normalised orig="worke" auto="true">work</normalised>, I <lb/>
+do in a manner relinquish them. But in this case I <lb/>
+<normalised orig="haue" auto="true">have</normalised> in my <normalised orig="weake" auto="true">weak</normalised> <normalised orig="iudgement" auto="true">judgment</normalised>, thought them to be <lb/>
+of some good <normalised orig="vse" auto="true">use</normalised>, to <normalised orig="shew" auto="true">show</normalised> forth thus much; that if <lb/>
+we <normalised orig="doo" auto="true">do</normalised> not in time repent, forsake our <normalised orig="sinnes" auto="true">sins</normalised>, and <lb/>
+<normalised orig="seeke" auto="true">seek</normalised> after God, both the <normalised orig="auncient" auto="true">ancient</normalised> Christian Fathers <lb/>
+                  <pb n="1"/>
+                  <lb/>
+(whose eyes <normalised orig="sawe" auto="true">saw</normalised> not that we see, nor their <lb/>
+<normalised orig="eares" auto="true">ears</normalised> heard that we <normalised orig="heare" auto="true">hear</normalised>) yea the very Heathen <lb/>
+also shall rise <normalised orig="vp" auto="true">up</normalised> in <normalised orig="iudgement" auto="true">judgment</normalised> against <normalised orig="vs" auto="true">us</normalised>. Let none <lb/>
+therefore stumble at it. But if any do, let them remember <lb/>
+I am in a Dialogue, not in a Sermon. I <lb/>
+write to all of all sorts: I <normalised orig="speake" auto="true">speak</normalised> not to some <normalised orig="fewe" auto="true">few</normalised> <lb/>
+of one sort. But that which is done <normalised orig="heerein" auto="true">herein</normalised>, is not <lb/>
+much more then that of the Apostle. <quote type="biblical" ana="Acts 17.28">As some of <lb/>
+your <normalised orig="owne" auto="true">own</normalised> Poets <normalised orig="haue" auto="true">have</normalised> said.</quote> Act.17. Which is <lb/>
+warrantable. One thing <normalised orig="deare" auto="true">dear</normalised> Christian, I pray <lb/>
+thee let me beg of thee, to wit, that thou <normalised orig="woldest" auto="true">would</normalised> <lb/>
+not <normalised orig="reade" auto="true">read</normalised> two or three <normalised orig="leaues" auto="true">leaves</normalised> of this <normalised orig="booke" auto="true">book</normalised>, and so <lb/>
+cast it from thee: but that thou <normalised orig="wouldest" auto="true">would</normalised> <normalised orig="reade" auto="true">read</normalised> it <lb/>
+throughout <normalised orig="euen" auto="true">even</normalised> to the end. For I do assure thee, if <lb/>
+there be any thing in it worth the reading, it is bestowed <lb/>
+in the latter part thereof, and most of all towards <lb/>
+the conclusion. Be not <normalised orig="descouraged" auto="false">discouraged</normalised> <normalised orig="therfore" auto="true">therefore</normalised> <lb/>
+at the <normalised orig="harshnesse" auto="true">harshness</normalised> of the beginning, but <normalised orig="looke" auto="true">look</normalised> for <lb/>
+smoother matter in the <normalised orig="middest" auto="true">midst</normalised>: and most smooth <lb/>
+in the perclose &amp; wind <normalised orig="vp" auto="true">up</normalised> of <normalised orig="al" auto="true">all</normalised>. For this Dialogue <lb/>
+<normalised orig="hath" auto="true">has</normalised> in it, not the nature of a <normalised orig="tragedie" auto="true">tragedy</normalised>, which is <normalised orig="begunne" auto="true">begun</normalised> <lb/>
+with <normalised orig="ioy" auto="true">joy</normalised>, and ended with sorrow: but of a <lb/>
+<normalised orig="comedie" auto="true">comedy</normalised>, which is <normalised orig="begunne" auto="true">begun</normalised> with sorrow, and ended <lb/>
+with <normalised orig="ioy" auto="true">joy</normalised>. This <normalised orig="booke" auto="true">book</normalised> <normalised orig="medleth" auto="true">meddled</normalised> not at all with any <lb/>
+<normalised orig="controuersies" auto="true">controversies</normalised> in the Church, or any thing in the <lb/>
+state <normalised orig="Ecclesiasticall" auto="true">Ecclesiastical</normalised>, but <normalised orig="onely" auto="true">only</normalised> <normalised orig="entreth" auto="true">enters</normalised> into a <normalised orig="controuersie" auto="true">controversy</normalised> <lb/>
+with <normalised orig="Sathan" auto="true">Satan</normalised> and <normalised orig="sinne" auto="true">sin</normalised>. It is <normalised orig="contriued" auto="true">contrived</normalised> into <lb/>
+<normalised orig="sixe" auto="true">six</normalised> <normalised orig="principall" auto="true">principal</normalised> heads. First it <normalised orig="sheweth" auto="true">shows</normalised> mans misery <lb/>
+                  <pb n="2"/>
+                  <lb/>
+in nature, with the <normalised orig="meanes" auto="true">means</normalised> of <normalised orig="recouery" auto="true">recovery</normalised>. Secondly, <lb/>
+it <normalised orig="sharpely" auto="true">sharply</normalised> <normalised orig="inueigheth" auto="false">inveighed</normalised> against the <normalised orig="iniquitie" auto="true">iniquity</normalised> of the <lb/>
+time, and common corruptions of the world. Thirdly, <lb/>
+it <normalised orig="sheweth" auto="true">shows</normalised> the <normalised orig="markes" auto="true">marks</normalised> of the children of God, <lb/>
+and of the reprobates: together with the <choice ana="illegible">
+                     <sic>apparan*</sic>
+                     <corr><normalised orig="apparant" auto="true">apparent</normalised></corr>
+                  </choice>
+                  <lb/>
+<normalised orig="signes" auto="true">signs</normalised> of <normalised orig="saluation" auto="true">salvation</normalised>, and damnation. Fourthly, it <normalised orig="declareth" auto="true">declares</normalised> <lb/>
+how hard a thing it is to enter into life: <lb/>
+and how <normalised orig="fewe" auto="true">few</normalised> shall enter. Fiftly, it <normalised orig="laieth" auto="true">lays</normalised> open the <lb/>
+ignorance of the world, with the <normalised orig="obiections" auto="true">objections</normalised> of the <lb/>
+same. Last of all, it <normalised orig="publisheth" auto="true">publishes</normalised> and <normalised orig="proclaimeth" auto="true">proclaims</normalised> <lb/>
+the <normalised orig="sweete" auto="true">sweet</normalised> promises of the <normalised orig="Gospell" auto="true">Gospel</normalised>, with the abundant <lb/>
+mercy of God, to all that repent, <normalised orig="beleeue" auto="true">believe</normalised>, and <lb/>
+truly <normalised orig="turne" auto="true">turn</normalised> <normalised orig="vnto" auto="true">unto</normalised> him. The <normalised orig="Authour" auto="true">Author</normalised> of all blessing <lb/>
+<normalised orig="giue" auto="true">give</normalised> a blessing <normalised orig="vnto" auto="true">unto</normalised> it. The God of peace which <lb/>
+brought <normalised orig="againe" auto="true">again</normalised> from the dead our Lord <normalised orig="Iesus" auto="true">Jesus</normalised>, the <lb/>
+great <normalised orig="shepheard" auto="true">shepherd</normalised> of the <normalised orig="sheepe" auto="true">sheep</normalised>, through the <normalised orig="bloud" auto="true">blood</normalised> <lb/>
+of the <normalised orig="euerlasting" auto="true">everlasting</normalised> <normalised orig="couenant" auto="true">covenant</normalised>, make <normalised orig="vs" auto="true">us</normalised> perfect in all <lb/>
+good <normalised orig="workes" auto="true">works</normalised>, <normalised orig="sanctifie" auto="true">sanctify</normalised> <normalised orig="vs" auto="true">us</normalised> throughout, amend all <lb/>
+our imperfections, and <normalised orig="keepe" auto="true">keep</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="blamelesse" auto="true">blameless</normalised> <normalised orig="vntill" auto="true">until</normalised> <lb/>
+the day of his most glorious appearing. Amen.<lb/>
+                  <lb/>
+Thine in the Lord. <lb/>
+                  <lb/>
+A.D.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="catechism_1695_Isham_R3">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catechism of the Church</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ZaIs1651"><notvariant>Isham</notvariant>, <notvariant>Zacheus</notvariant></author>
+               <title type="main">The catechism of the Church: with proofs from the New Testament: And some Additional Questions and Answers. Divided into XII sections, for the Use of a Parish in London.</title>
+               <title type="short">Catechism of the Church</title>
+               <date when="1694">1694</date>
+               <date type="this_edition" when="1695">1695</date>
+               <idno type="Wing">I1067</idno>
+               <note type="genre" subtype="catechism">catechism</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>octavo</notvariant></term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+        <div xml:id="sample1">
+            
+            <head>THE
+CATECHISM,
+WITH
+Proofs from the New Testament,
+and some Additional Questions
+and Answers.</head>
+            <head>Sect. I. Of the Benefits of BAPTISM.</head>
+            <sp who="a">
+               <p>Quest. WHat is your Name?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. N. or M.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. Why <normalised orig="dost" auto="true">do</normalised> thou<lb/>
+tell me the Name <normalised orig="receiv'd" auto="true">received</normalised> in thy Baptism,<lb/>
+rather <notvariant>than</notvariant> that of thy Family?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. Because the Name I <normalised orig="receiv'd" auto="true">received</normalised> at my<lb/>
+Baptism, puts me in mind of the Duties<lb/>
+and <normalised orig="Priviledges" auto="true">Privileges</normalised> of the Christian Religion.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. Who gave you this Name?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. My God-fathers and God-mothers in<lb/>
+my Baptism; wherein I was made a Member<lb/>
+of Christ, the Child of God, and an Inheritor<lb/>
+of the Kingdom of Heaven.<lb/>
+               </p>
+            </sp>
+            
+            <fw type="pageNum">B</fw>
+            <pb n="1"/>
+            <sp who="a">
+               <p>Quest. Why did your God-fathers and<lb/>
+God-mothers give you your Christian<lb/>
+Name?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. Because they presented me to<lb/>
+my Baptism, by which I was made a<lb/>
+Christian; and did answer, and engage<lb/>
+for me; and gave security to the Church<lb/>
+for my Christian Education: And therefore<lb/>
+I regard them as my Spiritual Parents.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How <normalised orig="wast" auto="true">were</normalised> thou made in Baptism<lb/>
+a Member of Christ?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. In being then made a Member<lb/>
+of his Spiritual Body, the Church; and<lb/>
+thereby united to him as our Head, and<lb/>
+deriving from him all my Strength, and<lb/>
+Power to live as a Christian.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How is this <normalised orig="prov'd" auto="true">proved</normalised> from Scripture?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From <notvariant>Rom</notvariant>. 12.5. <quote type="biblical" ana="Rom 12.5">We being<lb/>
+many, are one Body in Christ.</quote> 
+                  <lb/>
+1 Cor. 12.12, 13. As <quote type="biblical" ana="1 Cor 12.12-13">the Body is one,<lb/>
+and <normalised orig="hath" auto="true">has</normalised> many Members, so also is Christ:<lb/>
+For by one Spirit are we all <normalised orig="Baptized" auto="true">Baptised</normalised> into<lb/>
+one Body.</quote>
+                  <lb/>
+<notvariant>Eph</notvariant>. 1.22, 23 <quote type="biblical" ana="Eph 1.22-23">He gave him to be the<lb/>
+head over all things to the Church, Which<lb/>
+is his Body.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <pb n="2"/>
+            <sp who="a">
+               <p>Quest. How <normalised orig="wast" auto="true">were</normalised> thou made in Baptism<lb/>
+the Child of God?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. In being then by the Grace,<lb/>
+and favour of God adopted for one of<lb/>
+his Children; through Christ, and our<lb/>
+regeneration in him.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How is this <normalised orig="prov'd" auto="true">proved</normalised> from Scripture?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From <notvariant>Joh</notvariant>. 1.12. <quote type="biblical" ana="Jn 1.12">As many as<lb/>
+received him, to them gave he power to become<lb/>
+the Sons of God, even to them that<lb/>
+believe on his Name.</quote>
+                  <lb/>
+<notvariant>Rom</notvariant>. 8.15. <quote type="biblical" ana="Rom 8.15"><normalised orig="Ye" auto="true">You</normalised> have received the Spirit<lb/>
+of adoption, whereby we cry, <notvariant>Abba</notvariant>,<lb/>
+Father.</quote>
+                  <lb/>
+Gal. 3.26, 27. <quote type="biblical" ana="Gal 3.26-27"><normalised orig="Ye" auto="true">You</normalised> are all the Children<lb/>
+of God by faith in Christ Jesus: For as<lb/>
+many of you as have been <normalised orig="baptized" auto="true">baptised</normalised> into<lb/>
+Christ, have put on Christ.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How <normalised orig="wast" auto="true">were</normalised> thou made in Baptism<lb/>
+an Inheritor of the Kingdom of<lb/>
+Heaven? <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. In having the promise of this<lb/>
+Eternal Inheritance; so that I may surely<lb/>
+attain to it, by leading a Christian life.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How is this <normalised orig="prov'd" auto="true">proved</normalised> from Scripture?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Luke 12.32. <quote type="biblical" ana="Lk 12.32">Fear not,<lb/>
+                     <lb/>
+                    <fw type="pageNum">B2</fw>
+                     <pb n="3"/>
+                     <lb/>
+little Flock; for it is your Father's good<lb/>
+pleasure to give you the Kingdom.</quote>
+                  <lb/>
+<notvariant>Rom</notvariant>. 8.16, 17. <quote type="biblical" ana="Rom 8.16-17">We are the Children of<lb/>
+God; And if Children, then Heirs, Heirs<lb/>
+of God, and <normalised orig="Joynt-heirs" auto="false">Joint-heirs</normalised> with Christ.</quote>
+                  <lb/>
+Tit. 3.5, 7. <quote type="biblical" ana="Titus 3.5">According to his mercy he<lb/>
+saved us, by the washing of regeneration, and<lb/>
+renewing of the Holy Ghost</quote>: <quote type="biblical" ana="Titus 3.7">That being<lb/>
+justified by his Grace, we should be made<lb/>
+Heirs according to the hope of eternal Life.</quote>
+                  <lb/>
+1 John 2.25. <quote type="biblical" ana="1 Jn 2.25">This is the promise that<lb/>
+he <normalised orig="hath" auto="true">has</normalised> <normalised orig="promis'd" auto="true">promised</normalised> us, even eternal Life.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+        </div>
+         <div>
+            <head>SECT. II. Of the Vow of Baptism.</head>
+            <sp who="a">
+               <p>Quest. YOu have told me what you<lb/>
+were made in Baptism: but<lb/>
+cannot you forfeit these great advantages?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I cannot fail of them, if I keep<lb/>
+the Promises made for me, when I was<lb/>
+<normalised orig="baptiz'd" auto="true">baptised</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What did your God-fathers and<lb/>
+God-mothers then for you?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. They did promise, and vow three things<lb/>
+in my Name: First, that I should renounce<lb/>
+the Devil, and all his works; the <normalised orig="pomps" auto="false">pumps</normalised>, and<lb/>
+vanity of this wicked World; and all the sinful<lb/>
+lusts of the Flesh. Secondly, that I should<lb/>
+believe all the <choice ana="illegible">
+                     <sic>*r*les</sic>
+                     <corr>Articles</corr>
+                  </choice> of the Christian Faith.<lb/>
+                  <pb n="4"/>
+                  <lb/>
+And thirdly, that I should keep God's holy Will,<lb/>
+and Commandments; and walk in the same all<lb/>
+the days of my life. <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. <normalised orig="Dost" auto="true">Do</normalised> thou not think, that thou art<lb/>
+bound to believe, and to do, as they have promised<lb/>
+for thee?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. Yes verily; and by God's help so I<lb/>
+will. And I heartily thank our heavenly <choice ana="illegible">
+                     <sic>F*<notvariant>ther</notvariant></sic>
+                     <corr>Father</corr>
+                  </choice>,<lb/>
+that he <normalised orig="hath" auto="true">has</normalised> called me to this state of salvation,<lb/>
+through <normalised orig="Iesus" auto="true">Jesus</normalised> Christ our Saviour. And<lb/>
+I pray unto God, to give me his Grace, that I<lb/>
+may continue in the same unto my lives end.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. Thou <normalised orig="dost" auto="true">do</normalised> well in praying to<lb/>
+God for his Grace, and in owning the<lb/>
+necessity of his help: But what Proof<lb/>
+<normalised orig="hast" auto="true">have</normalised> thou from Scripture, for the doing so?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From John 15.5. <quote type="biblical" ana="Jn 15.5">Without me <normalised orig="ye" auto="true">you</normalised><lb/>
+can do nothing.</quote>
+                  <lb/>
+2 Cor. 12.9. <quote type="biblical" ana="2 Cor 12.9">He said unto me, My<lb/>
+Grace is sufficient for thee; for my strength<lb/>
+is made perfect in weakness.</quote>
+                  <lb/>
+Phil. 2.13. <quote type="biblical" ana="Phil 2.13">It is God which <normalised orig="worketh" auto="true">works</normalised> in<lb/>
+you, both to will, and to do, of his good<lb/>
+pleasure.</quote>
+                  <lb/>
+Phil. 4.13. <quote type="biblical" ana="Phil 4.13">I can do all things through<lb/>
+Christ, which <normalised orig="strengthneth" auto="true">strengthens</normalised> me.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. Where <normalised orig="didst" auto="true">did</normalised> thou learn to pray<lb/>
+to God for his Grace?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Luke 11.13. <quote type="biblical" ana="Lk 11.13">If <normalised orig="ye" auto="true">you</normalised> being<lb/>
+                     <lb/>
+                    <fw type="pageNum">B3</fw>
+                     <pb n="5"/>
+                     <lb/>
+evil, know how to give good gifts unto your<lb/>
+Children; how much more shall your heavenly<lb/>
+Father, give the holy Spirit to them<lb/>
+that ask him?</quote>
+                  <lb/>
+<notvariant>Heb</notvariant>. 4.16. <quote type="biblical" ana="Heb 4.16">Let us come boldly unto the<lb/>
+Throne of Grace; that we may obtain mercy,<lb/>
+and find Grace to help in time of need. </quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="dost" auto="true">do</normalised> thou bind thy self to,<lb/>
+in renouncing the Devil, and all his works?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I bind my self to the abhorrence of<lb/>
+Satan, and all his temptations; and to the<lb/>
+avoiding of all wickedness, either prompted<lb/>
+by him, or done in imitation of him.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of this<lb/>
+Obligation? <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From 1 John 3.8. <quote type="biblical" ana="1 Jn 3.8">He that <normalised orig="committeth" auto="true">commits</normalised><lb/>
+Sin is of the Devil; for the Devil<lb/>
+<normalised orig="sinneth" auto="true">sins</normalised> from the beginning: For this purpose<lb/>
+the Son of God was manifested, that he<lb/>
+might destroy the works of the Devil.</quote>
+                  <lb/>
+1 John 5.18. <quote type="biblical" ana="1 Jn 5.18">We know that whosoever<lb/>
+is born of God, <normalised orig="sinneth" auto="true">sins</normalised> not: But he that is<lb/>
+begotten of God, <normalised orig="keepeth" auto="true">keeps</normalised> himself; and that<lb/>
+wicked one <normalised orig="toucheth" auto="true">touches</normalised> him not.</quote>
+                  <lb/>
+<notvariant>Ephes</notvariant>. 4.27. <quote type="biblical" ana="Eph 4.27">Neither give place to the<lb/>
+Devil.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="dost" auto="true">do</normalised> thou bind thy self<lb/>
+to, in renouncing the <notvariant>pomps</notvariant> and vanity<lb/>
+of this wicked World?<lb/>
+               </p>
+            </sp>
+            <pb n="6"/>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I bind my self not to seek greedily,<lb/>
+or by unlawful means, after Honour,<lb/>
+and Glory, and Riches; nor to use any of<lb/>
+God's Creatures to excess; but to refrain<lb/>
+from Pride, and Ambition, and Covetousness;<lb/>
+and from ungodly and vain Customs,<lb/>
+and all the outward <notvariant>allurements</notvariant> to Sin.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of this<lb/>
+Obligation?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From 1 John 2.15. <quote type="biblical" ana="1 Jn 2.15">Love not the<lb/>
+World, neither the things that are in the<lb/>
+World. If any Man love the World, the love<lb/>
+of the Father is not in him.</quote>
+                  <lb/>
+<notvariant>Rom</notvariant>. 12.2. <quote type="biblical" ana="Rom 12.2">Be not conformed to this<lb/>
+World.</quote>
+                  <lb/>
+Jam. 4.4. <quote type="biblical" ana="Jas 4.4">Know <normalised orig="ye" auto="true">you</normalised> not, that the friendship<lb/>
+of the World is enmity with God?<lb/>
+Whosoever therefore will be a friend of the<lb/>
+World, is the enemy of God.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="dost" auto="true">do</normalised> thou bind thy self to,<lb/>
+in renouncing the sinful lusts of the Flesh?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I bind my self to abstain from<lb/>
+those sensual Pleasures, which God <normalised orig="hath" auto="true">has</normalised><lb/>
+forbidden; and to resist all impure desires;<lb/>
+and to tame, and regulate my disorderly<lb/>
+Inclinations, and corrupt Nature,<lb/>
+inwardly delighting in what is evil.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of this<lb/>
+Obligation?<lb/>
+               </p>
+            </sp>
+            
+            <fw type="pageNum">B4</fw>
+            <pb n="7"/>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Gal. 5.24. <quote type="biblical" ana="Gal 5.24">They that are<lb/>
+Christ's have crucified the Flesh, with the<lb/>
+affections, and lusts.</quote>
+                  <lb/>
+<notvariant>Rom</notvariant>. 8.13. <quote type="biblical" ana="Rom 8.13">If <normalised orig="ye" auto="true">you</normalised> live after the Flesh, <normalised orig="ye" auto="true">you</normalised><lb/>
+shall die: but if <normalised orig="ye" auto="true">you</normalised> through the spirit do <normalised orig="mortifie" auto="true">mortify</normalised><lb/>
+the deeds of the Body, <normalised orig="ye" auto="true">you</normalised> shall live.</quote>
+                  <lb/>
+1 Pet. 2.11. <quote type="biblical" ana="1 Pet 2.11">I beseech you as Strangers,<lb/>
+and Pilgrims, abstain from fleshly lusts,<lb/>
+which war against the Soul.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of being<lb/>
+bound to believe all the Articles of the<lb/>
+Christian Faith?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From John 3.36. <quote type="biblical" ana="Jn 3.36">He that <normalised orig="believeth" auto="true">believes</normalised><lb/>
+on the Son, <normalised orig="hath" auto="true">has</normalised> everlasting life: and<lb/>
+he that <normalised orig="believeth" auto="true">believes</normalised> not the Son, shall not see<lb/>
+life; but the wrath of God <normalised orig="abideth" auto="true">abides</normalised> on him.</quote>
+                  <lb/>
+John 17.3. <quote type="biblical" ana="Jn 17.3">This is life eternal, that<lb/>
+they might know thee the only true God, and<lb/>
+Jesus Christ whom thou <normalised orig="hast" auto="true">have</normalised> sent.</quote>
+                  <lb/>
+Mar. 16.16. <quote type="biblical" ana="Mk 16.16">He that <normalised orig="believeth" auto="true">believes</normalised>, and is<lb/>
+<normalised orig="baptized" auto="true">baptised</normalised>, shall be saved: but he that <normalised orig="believeth" auto="true">believes</normalised><lb/>
+not, shall be damned.</quote>
+                  <lb/>
+1 John 3.23. <quote type="biblical" ana="1 Jn 3.23">This is his commandment,<lb/>
+that we should believe on the Name of his<lb/>
+Son Jesus Christ.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of being<lb/>
+bound to keep all the Commandments of<lb/>
+God?<lb/>
+               </p>
+            </sp>
+            <pb n="8"/>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From John 14.15. <quote type="biblical" ana="Jn 14.15">If <normalised orig="ye" auto="true">you</normalised> love<lb/>
+me, keep my Commandments.</quote>
+                  <lb/>
+Mat. 28.20. <quote type="biblical" ana="Mt 28.20">Teaching them to observe<lb/>
+all things, whatsoever I have commanded you.</quote>
+                  <lb/>
+1 John 2.3.4. <quote type="biblical" ana="1 Jn 2.3-4">Hereby we do know that<lb/>
+we know him, if we keep his Commandments.<lb/>
+He that saith, I know him, and <normalised orig="keepeth" auto="true">keeps</normalised><lb/>
+not his Commandments, is a liar, and the<lb/>
+truth is not in him.</quote>
+                  <lb/>
+<notvariant>Eph</notvariant>. 2.10. <quote type="biblical" ana="Eph 2.10">We are his Workmanship,<lb/>
+created in Christ Jesus unto good works,<lb/>
+which God <normalised orig="hath" auto="true">has</normalised> before ordained, that we<lb/>
+should walk in them.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+         </div>
+         <div>
+            <head>SECT. III. Of the Creed: and more particularly
+of God the Father.</head>
+            <sp who="a">
+               <p><notvariant>Catechist</notvariant>. Rehearse the Articles of thy Belief.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>.  I Believe in God the Father Almighty,<lb/>
+Maker of Heaven, and<lb/>
+Earth:  And in <normalised orig="Iesus" auto="true">Jesus</normalised> Christ, his only Son,<lb/>
+our Lord:  Who was Conceived by the Holy<lb/>
+Ghost, Born of the <normalised orig="Uirgin" auto="true">Virgin</normalised> Mary:  Suffered<lb/>
+under <notvariant>Pontius</notvariant> Pilate; was Crucified, Dead,<lb/>
+and Buried; He descended into Hell:  The<lb/>
+third day he rose again from the dead:  He<lb/>
+ascended into Heaven, and <normalised orig="sitteth" auto="true">sits</normalised> at the right-hand<lb/>
+of God the Father Almighty.  From<lb/>
+thence he shall come to judge the Quick, and the<lb/>
+                  <pb n="9"/>
+                  <lb/>
+Dead.  I believe in the Holy Ghost:  The<lb/>
+Holy <normalised orig="Catholick" auto="true">Catholic</normalised> Church, the Communion of<lb/>
+Saints:  The forgiveness of <choice ana="illegible">
+                     <sic>Sin*</sic>
+                     <corr>Sins</corr>
+                  </choice>: <choice ana="illegible">
+                     <sic>T*</sic>
+                     <corr>The</corr>
+                  </choice>
+                  <lb/>
+Resurrection of the Body:  And the Life<lb/>
+Everlasting. Amen.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. Thou <normalised orig="hast" auto="true">have</normalised> well repeated this<lb/>
+Apostolical Summary of the Principles of<lb/>
+the Christian Religion: But why <normalised orig="dost" auto="true">do</normalised><lb/>
+thou say Amen, after the rehearsing of it?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. To <normalised orig="testifie" auto="true">testify</normalised> my <normalised orig="stedfast" auto="true">steadfast</normalised> belief of<lb/>
+it; and my desire to live, as one that<lb/>
+heartily believes it.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="dost" auto="true">do</normalised> thou chiefly learn in<lb/>
+these Articles of thy <choice ana="illegible">
+                     <sic>B*l*</sic>
+                     <corr>Belief</corr>
+                  </choice>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. First, I learn to believe in God the<lb/>
+Father, who <normalised orig="hath" auto="true">has</normalised> made me, and all the World.<lb/>
+Secondly, In God the Son, who <normalised orig="hath" auto="true">has</normalised> redeemed<lb/>
+me, and all Mankind.<lb/>
+Thirdly, In God the Holy Ghost; who<lb/>
+<normalised orig="sanctifieth" auto="false">sanctifies</normalised> me, and all the <choice ana="illegible">
+                     <sic>El*<notvariant>ct</notvariant></sic>
+                     <corr>Elect</corr>
+                  </choice>
+                  <lb/>
+                  <choice ana="illegible">
+                     <sic>P*<notvariant>ple</notvariant></sic>
+                     <corr>People</corr>
+                  </choice> of God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What is it to believe in God?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. To believe that God is, and that<lb/>
+he is faithful, and true in all his words:<lb/>
+and to trust in him, and depend upon him.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>
+                  <lb/>
+                  <choice ana="illegible">
+                     <sic>Q*</sic>
+                     <corr>Quest.</corr>
+                  </choice> Let us go over the Articles of<lb/>
+the Creed more distinctly: What <choice ana="illegible">
+                     <sic><notvariant>beli</notvariant>*est</sic>
+                     <corr><normalised orig="believest" auto="true">believe</normalised></corr>
+                  </choice>
+                  <lb/>
+thou concerning the first Article,<lb/>
+I believe in God the Father Almighty, Maker<lb/>
+of Heaven, and Earth?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe that there is one living,<lb/>
+                  <pb n="10"/>
+                  <lb/>
+and true God; an Infinite, Eternal,<lb/>
+and Incomprehensible Spirit; having all<lb/>
+Perfections in, and of himself: and that<lb/>
+God was from all Eternity the Father of<lb/>
+our Lord Christ; and that he <normalised orig="hath" auto="true">has</normalised> an<lb/>
+unlimited Power, and Right to do whatsoever<lb/>
+he <normalised orig="pleaseth" auto="true">pleases</normalised>; and that he did exert<lb/>
+this Power in making out of nothing, by<lb/>
+his Word alone, the Heavens, and the<lb/>
+Earth, and all things therein; which he<lb/>
+still preserves, and <normalised orig="disposeth" auto="true">disposes</normalised> of most<lb/>
+wisely, according to his own Will.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of God's<lb/>
+being an Eternal Spirit?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From John 4.24. <quote type="biblical" ana="Jn 4.24">God is a Spirit.</quote>
+                  <lb/>
+1 Tim. 1.17. <quote type="biblical" ana="1 Tim 1.17"><normalised orig="Vnto" auto="true">Unto</normalised> the King eternal,<lb/>
+immortal, invisible, the only wise God, be<lb/>
+honour and glory, for ever and ever.</quote>
+                  <lb/>
+1 Tim 6.16. <quote type="biblical" ana="1 Tim 6.16">Who only <normalised orig="hath" auto="true">has</normalised> Immortality,<lb/>
+                     <choice ana="illegible">
+                        <sic>d*<notvariant>elling</notvariant></sic>
+                        <corr>dwelling</corr>
+                     </choice> in the light which no Man<lb/>
+can approach unto; whom no Man <normalised orig="hath" auto="true">has</normalised><lb/>
+seen, nor can see: to <choice ana="illegible">
+                        <sic><notvariant>wh</notvariant>*m</sic>
+                        <corr>whom</corr>
+                     </choice> be honour and<lb/>
+power everlasting.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou, that<lb/>
+there is but One God? <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From 1 Cor. 8.4. <quote type="biblical" ana="1 Cor 8.4">There is none<lb/>
+other God but One.</quote>
+                  <lb/>
+<notvariant>Eph</notvariant>. 4.6. <quote type="biblical" ana="Eph 4.6">One God, and Father of all<lb/>
+                     <pb n="11"/>
+                     <lb/>
+who is above all, and through all, and in<lb/>
+you all.</quote>
+                  <lb/>
+1 Tim. 2.5. <quote type="biblical" ana="1 Tim 2.5">There is one God, and one<lb/>
+Mediator between God and Men, the Man<lb/>
+Christ Jesus.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of Three<lb/>
+Persons in the Unity of this <normalised orig="Godhead" auto="false">Godhood</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From 1 John 5.7. <quote type="biblical" ana="1 Jn 5.7">There are<lb/>
+Three that bear record in Heaven, the Father,<lb/>
+the Word, and the Holy Ghost: and<lb/>
+these Three are One.</quote>
+                  <lb/>
+Mat. 28.19. <quote type="biblical" ana="Mt 28.19">Teach all Nations <normalised orig="baptizing" auto="false">baptising</normalised><lb/>
+them in <choice ana="illegible">
+                        <sic>th*</sic>
+                        <corr>the</corr>
+                     </choice> Name of the Father, and<lb/>
+of the Son, and of the Holy Ghost.</quote> 
+                  <lb/>
+2 Cor. 13.14. <quote type="biblical" ana="2 Cor 13.14">The Grace of the Lord<lb/>
+Jesus Christ, and the love of God, and the<lb/>
+communion of the Holy Ghost, be with you all.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of God's<lb/>
+being Almighty?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Mat. 19.26. <quote type="biblical" ana="Mt 19.26">With God<lb/>
+all things are possible.</quote> 
+                  <lb/>
+Mar. 14.36. <quote type="biblical" ana="Mk 14.36"><notvariant>Abba</notvariant>, Father, All things<lb/>
+are possible unto thee.</quote> 
+                  <lb/>
+<notvariant>Rom</notvariant>. 4.21. <quote type="biblical" ana="Rom 4.21">Being fully <normalised orig="perswaded" auto="true">persuaded</normalised>, that<lb/>
+what he had promised, he was able also to<lb/>
+perform.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of God's<lb/>
+Creating the World?<lb/>
+               </p>
+            </sp>
+            <pb n="12"/>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. Besides the History of the Creation,<lb/>
+from Acts 4.24. <quote type="biblical" ana="Acts 4.24">Lord, thou art<lb/>
+God, which <normalised orig="hast" auto="true">have</normalised> made Heaven, and Earth,<lb/>
+and the Sea, and all that in them is.</quote>
+                  <lb/>
+1 Cor. 8.6. <quote type="biblical" ana="1 Cor 8.6">To us there is but one God<lb/>
+the Father, of whom are all things, and we<lb/>
+in him; and one Lord Jesus Christ, by whom<lb/>
+are all things, and we by him.</quote>
+                  <lb/>
+<notvariant>Heb</notvariant>. 11.3. <quote type="biblical" ana="Heb 11.3">Through Faith we understand,<lb/>
+that the Worlds were framed by the Word of<lb/>
+God; so that things which are seen, were<lb/>
+not made of things which do appear.</quote>
+                  <lb/>
+Rev. 4.11. <quote type="biblical" ana="Rev 4.11">O Lord, thou <normalised orig="hast" auto="true">have</normalised> created<lb/>
+all things; and for thy pleasure they are,<lb/>
+and were created.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+         </div>
+         <div>
+            <head>SECT. IV. Of Christ in his Divine
+Nature, and Incarnation.</head>
+            <sp who="a">
+               <p>Quest. WHat <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+the second Article<lb/>
+of the Creed, And in Jesus Christ,<lb/>
+his only Son, our Lord?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe in Jesus, as the Saviour<lb/>
+of Mankind; and that he is truly the<lb/>
+Christ, who was promised to come for our<lb/>
+Redemption: and that he is the only Son<lb/>
+of God by Nature, begotten from everlasting<lb/>
+                  <pb n="13"/>
+                  <lb/>
+of the Father: and that he is our<lb/>
+Lord, and Master, and God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What is <normalised orig="imply'd" auto="true">implied</normalised> by owning<lb/>
+Jesus to be Christ, or the <notvariant>Messias</notvariant>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. That he was the promised Redeemer<lb/>
+of his People; and was anointed<lb/>
+with the Spirit of God, to be their<lb/>
+King, and Priest, and Prophet.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How is Christ our King, and<lb/>
+Priest, and Prophet?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. He is our King, in governing,<lb/>
+and protecting his Church: He is our<lb/>
+Priest, in offering one Sacrifice, and always<lb/>
+interceding for us: and he is our<lb/>
+Prophet, in teaching us most perfectly<lb/>
+the Will of God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of being<lb/>
+bound to <choice ana="illegible">
+                     <sic>*<notvariant>elieve</notvariant></sic>
+                     <corr>believe</corr>
+                  </choice> in Christ?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From John 3.18. <quote type="biblical" ana="Jn 3.18">He that <normalised orig="believeth" auto="true">believes</normalised><lb/>
+on him, is not condemned: but he<lb/>
+that <normalised orig="believeth" auto="true">believes</normalised> not, is condemned already;<lb/>
+because he <normalised orig="hath" auto="true">has</normalised> not believed in the Name of<lb/>
+the only begotten Son of God.</quote>
+                  <lb/>
+John 14.1. <quote type="biblical" ana="Jn 14.1"><normalised orig="Ye" auto="true">You</normalised> believe in God; believe<lb/>
+also in me.</quote>
+                  <lb/>
+Acts 16.31. <quote type="biblical" ana="Acts 16.31">Believe on the Lord Jesus<lb/>
+Christ, and thou shalt be saved.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <pb n="14"/>
+            <sp who="a">
+               <p>Quest. How <normalised orig="dost" auto="true">do</normalised> thou prove, that<lb/>
+Christ is the Saviour of Mankind?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Mat. 1.21. <quote type="biblical" ana="Mt 1.21">Thou shalt call<lb/>
+his Name Jesus: for he shall save his People<lb/>
+from their Sins.</quote>
+                  <lb/>
+1 Tim. 1.15. <quote type="biblical" ana="1 Tim 1.15">This a faithful saying,<lb/>
+and worthy of all <normalised orig="acceptation" auto="true">acceptance</normalised>; That Christ<lb/>
+Jesus came into the World to save Sinners.</quote>
+                  <lb/>
+<notvariant>Heb</notvariant>. 5.9. <quote type="biblical" ana="1 Jn 4.14">He became the Author of eternal<lb/>
+Salvation, unto all them that obey him.</quote>
+                  <lb/>
+1 John 4.14. <quote type="biblical" ana="1 Jn 4.14">We have seen, and do<lb/>
+<normalised orig="testifie" auto="true">testify</normalised>, that the Father sent the Son to be<lb/>
+the Saviour of the World.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How <normalised orig="dost" auto="true">do</normalised> thou prove, that Salvation<lb/>
+can be <normalised orig="obtain'd" auto="true">obtained</normalised> by no other way,<lb/>
+but by Christ alone?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From John 14.6. <quote type="biblical" ana="Jn 14.6">I am the Way,<lb/>
+and the Truth, and the Life: no Man<lb/>
+<normalised orig="cometh" auto="true">comes</normalised> unto the Father, but by me.</quote>
+                  <lb/>
+John 15.6. <quote type="biblical" ana="Jn 15.6">If a Man abide not in me,<lb/>
+he is cast forth as a Branch, and is <normalised orig="wither'd" auto="true">withered</normalised>;<lb/>
+and Men gather them, and cast them into<lb/>
+the Fire, and they are burned.</quote>
+                  <lb/>
+Acts 4.12. <quote type="biblical" ana="Acts 4.12">Neither is there Salvation<lb/>
+in any other: for there is none other Name<lb/>
+under Heaven given among Men, whereby<lb/>
+we must be saved.</quote>
+                  <lb/>
+1 John 5.12. <quote type="biblical" ana="1 Jn 5.12">He that <normalised orig="hath" auto="true">has</normalised> the Son,<lb/>
+                     <pb n="15"/>
+                     <lb/>
+<normalised orig="hath" auto="true">has</normalised> Life: and he that <normalised orig="hath" auto="true">has</normalised> not the Son,<lb/>
+<normalised orig="hath" auto="true">has</normalised> not Life.</quote> 1 <normalised orig="Jn" auto="true">In</normalised> 5.12<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How <normalised orig="dost" auto="true">do</normalised> thou prove, that<lb/>
+Jesus is the Christ?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Mat. 16.16. <quote type="biblical" ana="Mt 16.16">Thou art<lb/>
+Christ, the Son of the living God.</quote>
+                  <lb/>
+John 6.69. <quote type="biblical" ana="Jn 6.69">We believe, and are sure<lb/>
+that thou art that Christ, the Son of the<lb/>
+living God.</quote>
+                  <lb/>
+Acts 2.36.<quote type="biblical" ana="Acts 2.36">Let all the House of Israel<lb/>
+know assuredly, that God <normalised orig="hath" auto="true">has</normalised> made that<lb/>
+same Jesus, whom <normalised orig="ye" auto="true">you</normalised> have Crucified, both<lb/>
+Lord, and Christ.</quote>
+                  <lb/>
+1 John 5.1. <quote type="biblical" ana="1 Jn 5.1">Whosoever <normalised orig="believeth" auto="true">believes</normalised> that<lb/>
+Jesus is the Christ, is born of God.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How <normalised orig="dost" auto="true">do</normalised> thou prove, that<lb/>
+                  <lb/>
+Christ is the Only Son of God?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From John 1.18. <quote type="biblical" ana="Jn 1.18">No Man <normalised orig="hath" auto="true">has</normalised><lb/>
+seen God at any time: the only-begotten<lb/>
+Son, which is in the bosom of the Father, he<lb/>
+<normalised orig="hath" auto="true">has</normalised> declared him.</quote>
+                  <lb/>
+1 John 4.9. <quote type="biblical" ana="1 Jn 4.9">In this was manifested the<lb/>
+love of God towards us, because that God<lb/>
+sent his only-begotten Son into the World,<lb/>
+that we might live through him.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How <normalised orig="dost" auto="true">do</normalised> thou prove our Saviour<lb/>
+to be God?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From John 1.1. <quote type="biblical" ana="Jn 1.1">In the beginning<lb/>
+                     <pb n="16"/>
+                     <lb/>
+was the Word, and the Word was with<lb/>
+God, and the Word was God.</quote>
+                  <lb/>
+<notvariant>Rom</notvariant>. 9.5. <quote type="biblical" ana="Rom 9.5">Christ came, who is over all,<lb/>
+God blessed for ever.</quote> 
+                  <lb/>
+Phil. 2.6. <quote type="biblical" ana="Phil 2.6">Who being in the form of God,<lb/>
+thought it not Robbery to be <choice ana="illegible">
+                        <sic><notvariant>equ</notvariant>*l</sic>
+                        <corr>equal</corr>
+                     </choice> with God.</quote>
+                  <lb/>
+Col 2.9. <quote type="biblical" ana="Col 2.9">In him <normalised orig="dwelleth" auto="true">dwells</normalised> all the <normalised orig="fulness" auto="false">fullness</normalised><lb/>
+of the <normalised orig="Godhead" auto="false">Godhood</normalised> bodily.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+the third Article of the Creed,<lb/>
+Who was Conceived by the Holy Ghost,<lb/>
+Born of the Virgin Mary?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe that Christ was Conceived<lb/>
+without any Sin, by the miraculous<lb/>
+Power of the Holy Ghost over-shadowing<lb/>
+a pure Virgin, whose Name<lb/>
+was Mary: and that he perfectly took<lb/>
+our Nature, and was born of her, appearing<lb/>
+hereby to be the Son of David.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of our<lb/>
+Lord's Conception by the Holy Ghost?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Mat. 1.20. <quote type="biblical" ana="Mt 1.20">Fear not to take<lb/>
+unto thee Mary thy Wife; for that which is<lb/>
+conceived in her, is of the Holy Ghost.</quote> 
+                  <lb/>
+Luke 1.35. <quote type="biblical" ana="Lk 1.35">The holy Ghost shall come<lb/>
+upon thee: and the power of the Highest<lb/>
+shall overshadow thee: therefore also that<lb/>
+                     <lb/>
+                    <fw type="pageNum">C</fw>
+                     <pb n="17"/>
+                     <lb/>
+Holy thing which shall be born of thee, shall<lb/>
+be called the Son of God.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou, that our<lb/>
+Lord did really take <choice ana="illegible">
+                     <sic>*he</sic>
+                     <corr>the</corr>
+                  </choice> Nature of Man?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From <choice ana="illegible">
+                     <sic>*oh*</sic>
+                     <corr>John</corr>
+                  </choice> 1.14. <quote type="biblical" ana="Jn 1.14">The Word was<lb/>
+made Flesh, and dwelt among us.</quote>
+                  <lb/>
+Gal. 4.4. <quote type="biblical" ana="Gal 4.4">God sent forth his Son made<lb/>
+of a Woman.</quote>
+                  <lb/>
+<notvariant>Heb</notvariant>. 2.16. <quote type="biblical" ana="Heb 2.16">Verily he took not upon him<lb/>
+the Nature of Angels; but he took on him<lb/>
+the Seed of Abraham.</quote>
+                  <lb/>
+1 Tim. 3.16 <quote type="biblical" ana="1 Tim 3.16">God was manifest in the<lb/>
+Flesh.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How <normalised orig="dost" auto="true">do</normalised> thou prove, that<lb/>
+Christ descended from David?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From his Genealogy in the<lb/>
+Gospel; and from<lb/>
+Mat. 21.9. <quote type="biblical" ana="Mt 21.9">Hosanna to the Son of David.</quote>
+                  <lb/>
+Luke 1.32. <quote type="biblical" ana="Lk 1.32">The Lord God shall give<lb/>
+unto him the Throne of his Father David.</quote>
+                  <lb/>
+Acts 13.23. <quote type="biblical" ana="Acts 13.23">Of this Man's Seed <normalised orig="hath" auto="true">has</normalised><lb/>
+God, according to his Promise, raised unto<lb/>
+Israel a Saviour, Jesus.</quote> 
+                  <lb/>
+<notvariant>Rom</notvariant>. 1.3. <quote type="biblical" ana="Rom 1.3">Jesus Christ our Lord, who was<lb/>
+made of the Seed of David, according to<lb/>
+the Flesh.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How <normalised orig="dost" auto="true">do</normalised> thou prove, that<lb/>
+Christ was born of a Virgin?<lb/>
+               </p>
+            </sp>
+            <pb n="18"/>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Mat. 1.22, 23. <quote type="biblical" ana="Mt 1.22-23">Now all<lb/>
+this was done, that it might be fulfilled<lb/>
+which was spoken of the Lord by the Prophet,<lb/>
+saying. Behold, a Virgin shall be with<lb/>
+Child, and shall bring forth a Son.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+         </div>
+         <div>
+            <head>SECT. V. Of Christ in his Sufferings,
+and Exaltation.</head>
+            <sp who="a">
+               <p>Quest. WHat <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+the fourth Article<lb/>
+of the Creed, Suffered under <notvariant>Pontius</notvariant> Pilate,<lb/>
+was Crucified, Dead, and<lb/>
+Buried; He descended into<lb/>
+Hell? <lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe that the<lb/>
+Son of God having taken<lb/>
+our Flesh, did therein, for<lb/>
+our benefit, undergo the accursed<lb/>
+death of the Cross; to which<lb/>
+he was condemned by <notvariant>Pontius</notvariant> Pilate,<lb/>
+the Roman <normalised orig="Governour" auto="true">Governor</normalised> of <notvariant>Judea</notvariant>: and<lb/>
+that his Soul was really separated from<lb/>
+his Body; which lying for some time in<lb/>
+the Grave, his Soul removed to the Spirits<lb/>
+of Men departed; and having <normalised orig="conquer'd" auto="true">conquered</normalised><lb/>
+the Powers of Darkness by his<lb/>
+Cross, he went down into Hell.<lb/>
+               </p>
+            </sp>
+            
+            <fw type="pageNum">C2</fw>
+            <pb n="19"/>
+            <sp who="a">
+               <p>Quest. Why did our Lord submit to<lb/>
+the death of the Cross?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. To deliver Mankind, by the infinite<lb/>
+price of his Blood, from the Punishment,<lb/>
+and Curse that was due for<lb/>
+our Sins; and to reconcile his Father to<lb/>
+us, by satisfying his Justice, and making<lb/>
+himself a Sacrifice for us.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How is this end of our Saviour's<lb/>
+death <normalised orig="prov'd" auto="true">proved</normalised> from the Scripture?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Gal. 3.13. <quote type="biblical" ana="Gal 3.13">Christ <normalised orig="hath" auto="true">has</normalised><lb/>
+redeemed us from the Curse of the Law, being<lb/>
+made a Curse for us.</quote>
+                  <lb/>
+<notvariant>Rom</notvariant> 5 10. <quote type="biblical" ana="Rom 5.10">When we were Enemies, we<lb/>
+were reconciled to God by the death of his Son.</quote>
+                  <lb/>
+1 Pet. 2.24. <quote type="biblical" ana="1 Pet 2.24">Who his own self bare our<lb/>
+sins in his own Body on the Tree, that we being<lb/>
+dead to Sins, should live unto Righteousness:<lb/>
+by whose Stripes <normalised orig="ye" auto="true">you</normalised> were healed.</quote>
+                  <lb/>
+1 John 2.2. <quote type="biblical" ana="1 Jn 2.2">He is the propitiation for<lb/>
+our Sins: and not for ours only, but also for<lb/>
+the Sins of the whole World.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof is there of Christ's<lb/>
+descending into Hell?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Acts 2.25, 27. <quote type="biblical" ana="Acts 2.25">David<lb/>
+<normalised orig="speaketh" auto="true">speaks</normalised> concerning him</quote>, <quote type="biblical" ana="Acts 2.27">Thou wilt not<lb/>
+leave my Soul in Hell.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+                  <pb n="20"/>
+                  <lb/>
+the fifth Article of the Creed, The<lb/>
+third day he rose again from the dead?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe that on the Morning<lb/>
+of the third day after his Passion, the<lb/>
+Soul of Christ was united again to his<lb/>
+<normalised orig="crucify'd" auto="true">crucified</normalised> Body; and he arose from the<lb/>
+Grave, to an Immortal Life, by the<lb/>
+Power of God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How <normalised orig="dost" auto="true">do</normalised> thou prove the Resurrection<lb/>
+of Christ in this manner?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From the History of the Gospel:<lb/>
+and from<lb/>
+Acts 2.24. <quote type="biblical" ana="Acts 2.24">Whom God <normalised orig="hath" auto="true">has</normalised> raised up,<lb/>
+having loosed the pains of Death; because it<lb/>
+was not possible, that he should be holden of it.</quote>
+                  <lb/>
+Acts 13.37. <quote type="biblical" ana="Acts 13.37">He whom God raised again,<lb/>
+saw no corruption.</quote>
+                  <lb/>
+<notvariant>Rom</notvariant>. 6.9. <quote type="biblical" ana="Rom 6.9">Christ being raised from the<lb/>
+dead, <normalised orig="dieth" auto="true">dies</normalised> no more; Death <normalised orig="hath" auto="true">has</normalised> no more<lb/>
+dominion over him.</quote>
+                  <lb/>
+Rev. 1.18. <quote type="biblical" ana="Rev 1.18">I am he that <normalised orig="liveth" auto="true">lives</normalised>, and<lb/>
+was dead: and behold, I am alive for evermore,<lb/>
+Amen; and have the Keys of Hell,<lb/>
+and of Death.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+the sixth Article of the Creed, He<lb/>
+ascended into Heaven; and <normalised orig="sitteth" auto="true">sits</normalised> at the<lb/>
+right hand of God the Father Almighty?<lb/>
+               </p>
+            </sp>
+            
+            <fw type="pageNum">C3</fw>
+            <pb n="21"/>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe that Christ, having<lb/>
+<normalised orig="finish'd" auto="true">finished</normalised> by his death the work of our<lb/>
+Redemption, was in his <normalised orig="glorify'd" auto="false">glorified</normalised> Body<lb/>
+taken up to Heaven, in the sight of his<lb/>
+Disciples, forty days after his Resurrection:<lb/>
+and that from his entrance into<lb/>
+Heaven, he <normalised orig="hath" auto="true">has</normalised> been exalted to the<lb/>
+honour of sitting at the right hand of<lb/>
+God the Father; and of appearing for us<lb/>
+in his Presence, with full Power, and<lb/>
+Dominion.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. Thou <normalised orig="didst" auto="true">did</normalised> tell me truly, that<lb/>
+God is a Spirit; and how then can Christ<lb/>
+sit at his right hand?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. This Expression is <normalised orig="borrow'd" auto="true">borrowed</normalised><lb/>
+from the manner of Men, in counting<lb/>
+it the most honourable place, to be set<lb/>
+on the right hand of a Prince: and so<lb/>
+it signifies, that Christ is <normalised orig="advanc'd" auto="true">advanced</normalised> in<lb/>
+Heaven to the highest Dignity, and<lb/>
+Authority under God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of the<lb/>
+truth of this Article?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From the History of our Lord's<lb/>
+Ascension: and from<lb/>
+1 Pet. 3.22. <quote type="biblical" ana="1 Pet 3.22">Who is gone into Heaven,<lb/>
+and is on the right hand of God;<lb/>
+Angels, and Authorities, and Powers being<lb/>
+made subject unto him.</quote>
+                  <lb/>
+                  <pb n="22"/>
+                  <lb/>
+<notvariant>Eph</notvariant>. 1.20, 21. <quote type="biblical" ana="Eph 1.20-21">He raised him from the<lb/>
+dead, and set him at his own right hand in<lb/>
+the heavenly places; Far above all Principality,<lb/>
+and Power, and Might, and Dominion;<lb/>
+and every name that is named, not only in this<lb/>
+World, but also in that which is to come.</quote>
+                  <lb/>
+<notvariant>Heb</notvariant>. 10.12. <quote type="biblical" ana="Heb 10.12">This Man after he had<lb/>
+offered one sacrifice for sins, for ever sat<lb/>
+down on the right hand of God.</quote> 
+                  <lb/>
+Acts 7.56. <quote type="biblical" ana="Acts 7.56">Behold, I see the Heavens<lb/>
+opened, and the Son of Man standing on the<lb/>
+right hand of God.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+the seventh Article of the Creed,<lb/>
+                  <lb/>
+From thence he shall come to <choice ana="illegible">
+                     <sic>j*e</sic>
+                     <corr>judge</corr>
+                  </choice> the<lb/>
+                  <lb/>
+Quick, and the Dead?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe that Christ shall come<lb/>
+down again from Heaven with great Majesty,<lb/>
+to judge all Men according to their<lb/>
+works done in this Life; both the Righteous,<lb/>
+and the Wicked; both such as shall<lb/>
+be found alive at his second coming, and<lb/>
+such as have died, and shall die before it,<lb/>
+in all Ages of the World.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How is this <normalised orig="prov'd" auto="true">proved</normalised> from Scripture?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Mat. 16.27. <quote type="biblical" ana="Mt 16.27">The Son of<lb/>
+Man shall come in the glory of his Father,<lb/>
+                     <lb/>
+                    <fw type="pageNum">C4</fw>
+                     <pb n="23"/>
+                     <lb/>
+with his Angels; and then he shall reward<lb/>
+every Man according to his works.</quote>
+                  <lb/>
+Acts 10.42. <quote type="biblical" ana="Acts 10.42">He commanded us to preach<lb/>
+unto the People, and to <normalised orig="testifie" auto="true">testify</normalised>; that it is he<lb/>
+which was ordained of God, to be the Judge<lb/>
+of quick, and Dead.</quote> 
+                  <lb/>
+Acts 17.31. <quote type="biblical" ana="Acts 17.31">He <normalised orig="hath" auto="true">has</normalised> appointed a day, in<lb/>
+the which he will judge the World in righteousness,<lb/>
+by that Man whom he <normalised orig="hath" auto="true">has</normalised> ordained;<lb/>
+whereof he <normalised orig="hath" auto="true">has</normalised> given assurance unto all Men,<lb/>
+in that he <normalised orig="hath" auto="true">has</normalised> raised him from the dead.</quote>
+                  <lb/>
+2 Cor. 5.10. <quote type="biblical" ana="2 Cor 5.10">We must all appear before<lb/>
+the Judgment-seat of Christ; that every one<lb/>
+may receive the things done in his body, according<lb/>
+to that he <normalised orig="hath" auto="true">has</normalised> done, whether it be<lb/>
+good, or <normalised orig="bad" auto="true">bade</normalised>.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+         </div>
+         <div>
+            <head>SECT. VI. Of the Holy Ghost: and the
+following Articles of the Creed.</head>
+            <sp who="a">
+               <p>Quest. WHat <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+the eighth Article<lb/>
+of the Creed, I believe in the Holy Ghost?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe in the Holy Spirit, as<lb/>
+God, together with the Father, and the<lb/>
+Son: and that as the Scriptures come<lb/>
+from his Inspiration; so by his working<lb/>
+upon the Soul, all good Christians are<lb/>
+                  <pb n="24"/>
+                  <lb/>
+led, and converted, and <normalised orig="sanctify'd" auto="true">sanctified</normalised>, and<lb/>
+made acceptable to God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of these<lb/>
+operations of the Divine Spirit?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From <notvariant>Rom</notvariant>. 8.14. <quote type="biblical" ana="Rom 8.14">As many as<lb/>
+are led by the Spirit of God, they are the<lb/>
+Sons of God.</quote>
+                  <lb/>
+1 Cor. 3.16. <quote type="biblical" ana="1 Cor 3.16">Know <normalised orig="ye" auto="true">you</normalised> not that <normalised orig="ye" auto="true">you</normalised> are<lb/>
+the Temple of God; and that the Spirit of<lb/>
+God <normalised orig="dwelleth" auto="true">dwells</normalised> in you?</quote>
+                  <lb/>
+1 Cor. 6.11. <quote type="biblical" ana="1 Cor 6.11">But <normalised orig="ye" auto="true">you</normalised> are washed, but<lb/>
+<normalised orig="ye" auto="true">you</normalised> are sanctified, but <normalised orig="ye" auto="true">you</normalised> are justified in the<lb/>
+name of the Lord Jesus, and by the Spirit<lb/>
+of our God.</quote>
+                  <lb/>
+1 John 4.13. <quote type="biblical" ana="1 Jn 4.13">Hereby know we that we<lb/>
+dwell in him, and he in us, because he <normalised orig="hath" auto="true">has</normalised><lb/>
+given us of his Spirit.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou, that<lb/>
+the Scriptures come from the Inspiration<lb/>
+of the Holy Ghost?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From 2 Tim. 3.16. <quote type="biblical" ana="2 Tim 3.16">All Scripture<lb/>
+is given by inspiration of God?</quote> 
+                  <lb/>
+2 Pet. 1.21. <quote type="biblical" ana="2 Pet 1.21">The Prophecy came not in<lb/>
+old time by the Will of Man: but holy Men<lb/>
+of God <normalised orig="spake" auto="true">spoke</normalised>, as they were moved by the<lb/>
+Holy Ghost.</quote>
+                  <lb/>
+Acts 3.21. <quote type="biblical" ana="Acts 3.21">God <normalised orig="hath" auto="true">has</normalised> spoken by the<lb/>
+mouth of all his holy Prophets, since the<lb/>
+World began.</quote>
+                  <lb/>
+                  <pb n="25"/>
+                  <lb/>
+<notvariant>Joh</notvariant>. 16.13. <quote type="biblical" ana="Jn 16.13">When he the Spirit of Truth<lb/>
+is come, he will guide you into all truth.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+the ninth Article of the Creed, The Holy<lb/>
+<normalised orig="Catholick" auto="true">Catholic</normalised> Church, the Communion of Saints?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe that the Servants of<lb/>
+God in all ages, and places, have made<lb/>
+up one Body under Christ their Head;<lb/>
+and that there is, and always will be a<lb/>
+company of true Believers, appointed to<lb/>
+Salvation, and <normalised orig="joyning" auto="true">joining</normalised> in the Word, and<lb/>
+Sacraments under Pastors lawfully <normalised orig="ordain'd" auto="true">ordained</normalised>:<lb/>
+and that the Members of this<lb/>
+Church are called to be Saints; and<lb/>
+ought to maintain communion with<lb/>
+Christ, and fellowship with one another<lb/>
+in all the Offices of Piety, and Charity.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. Why is the Church called Holy,<lb/>
+and <normalised orig="Catholick" auto="true">Catholic</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. The Church is called Holy,<lb/>
+because <normalised orig="'tis" auto="true">it is</normalised> <normalised orig="joyned" auto="true">joined</normalised> to God in Covenant;<lb/>
+and the true Members of it are <normalised orig="sanctify'd" auto="true">sanctified</normalised><lb/>
+by the Spirit of Holiness: and <normalised orig="'tis" auto="true">it is</normalised> called<lb/>
+<normalised orig="Catholick" auto="true">Catholic</normalised>, or Universal because <normalised orig="'tis" auto="true">it is</normalised> spread<lb/>
+over all the World, and all Nations are<lb/>
+equally admitted to it.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What Proof <normalised orig="hast" auto="true">have</normalised> thou of this Holy,<lb/>
+<normalised orig="Catholick" auto="true">Catholic</normalised> Church?<lb/>
+               </p>
+            </sp>
+            <pb n="26"/>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Mat. 16.18. <quote type="biblical" ana="Mt 16.18"><normalised orig="Vpon" auto="true">Upon</normalised> this<lb/>
+Rock I will build my Church; and the Gates<lb/>
+of Hell shall not prevail against it.</quote> 
+                  <lb/>
+Acts 20.28. <quote type="biblical" ana="Acts 20.28">The Holy Ghost <normalised orig="hath" auto="true">has</normalised> made<lb/>
+you Overseers, to feed the Church of God,<lb/>
+which he <normalised orig="hath" auto="true">has</normalised> purchased with his own blood.</quote>
+                  <lb/>
+Mar. 16.15. <quote type="biblical" ana="Mk 16.15">Go <normalised orig="ye" auto="true">you</normalised> into all the World,<lb/>
+and preach the Gospel to every creature.</quote>
+                  <lb/>
+<notvariant>Eph</notvariant>. 5.27. <quote type="biblical" ana="Eph 5.27">That he might present it to<lb/>
+himself a <choice ana="illegible">
+                        <sic>*l*</sic>
+                        <corr>glorious</corr>
+                     </choice> Church, <choice ana="illegible">
+                        <sic>*t</sic>
+                        <corr>not</corr>
+                     </choice> having spot,<lb/>
+or wrinkle: but that it should be holy, and<lb/>
+without blemish.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What Proof <normalised orig="hast" auto="true">have</normalised> thou of the<lb/>
+Communion of Saints?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Acts 2.42. <quote type="biblical" ana="Acts 2.42">They continued<lb/>
+<normalised orig="stedfastly" auto="true">steadfastly</normalised> in the Apostles doctrine, and fellowship;<lb/>
+and in breaking of bread, and in prayers.</quote> 
+                  <lb/>
+<notvariant>Eph</notvariant>. 4.3. <quote type="biblical" ana="Eph 4.3">Endeavouring to keep the<lb/>
+unity of the spirit, in the bond of peace.</quote>
+                  <lb/>
+1 Cor. 1.10. <quote type="biblical" ana="1 Cor 1.10">I <choice ana="illegible">
+                        <sic>b*s*ch</sic>
+                        <corr>beseech</corr>
+                     </choice> you, brethren, by<lb/>
+the name of our Lord Jesus Christ, that <normalised orig="ye" auto="true">you</normalised><lb/>
+all speak the same thing, and that there be no<lb/>
+divisions among you: but that <normalised orig="ye" auto="true">you</normalised> <choice ana="illegible">
+                        <sic/>
+                        <corr/>
+                     </choice> be perfectly<lb/>
+<normalised orig="joyned" auto="true">joined</normalised> together in the same mind, and in the<lb/>
+same judgment.</quote>
+                  <lb/>
+1 John 1.7. <quote type="biblical" ana="1 Jn 1.7">If we walk in the light, as<lb/>
+he is in the light, we have fellowship one<lb/>
+with another.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <pb n="27"/>
+            <sp who="a">
+               <p>Quest. What <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+the tenth Article of the Creed,<lb/>
+                  <lb/>
+The forgiveness of Sins?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe that in the Christian<lb/>
+Church, pardon is <normalised orig="offer'd" auto="true">offered</normalised> by God to all<lb/>
+penitent Sinners, and sealed in Baptism,<lb/>
+through the Merits of our Saviour's<lb/>
+Death, and Satisfaction: and that he<lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="authoriz'd" auto="true">authorised</normalised> the Ministers of his<lb/>
+Church, to declare, and apply this release<lb/>
+from the guilt of Sin, to all such as<lb/>
+sincerely believe, and repent. <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How is this <normalised orig="prov'd" auto="true">proved</normalised> from Scripture?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Luke 24.47. <quote type="biblical" ana="Lk 24.47">That repentance,<lb/>
+and remission of sins should be<lb/>
+preached in his name among all Nations.</quote>
+                  <lb/>
+2 Cor. 5.19. <quote type="biblical" ana="2 Cor 5.19">God was in Christ, reconciling<lb/>
+the World unto himself, not imputing<lb/>
+their trespasses unto them; and <normalised orig="hath" auto="true">has</normalised><lb/>
+committed unto us the word of reconciliation.</quote>
+                  <lb/>
+<notvariant>Eph</notvariant>. 1.7. <quote type="biblical" ana="Eph 1.7">In whom we have redemption<lb/>
+through his blood, the forgiveness of sins,<lb/>
+according to the riches of his Grace.</quote>
+                  <lb/>
+John 20.23. <quote type="biblical" ana="Jn 20.23">Whose <notvariant>soever</notvariant> sins <normalised orig="ye" auto="true">you</normalised> remit,<lb/>
+they are remitted unto them.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+the eleventh Article of the Creed,<lb/>
+                  <lb/>
+The Resurrection of the Body?<lb/>
+               </p>
+            </sp>
+            <pb n="28"/>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe that the dead Bodies<lb/>
+of all Men shall hereafter be <normalised orig="rais'd" auto="true">raised</normalised> out of<lb/>
+the Grave, and <normalised orig="restor'd" auto="true">restored</normalised> for ever to their<lb/>
+Souls; that they may be judged in the<lb/>
+very same flesh, which they had in this<lb/>
+life; and that the Saints may be freed<lb/>
+from Corruption, and clothed with Immortality.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How is this <normalised orig="prov'd" auto="true">proved</normalised> from Scripture?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From John 5.28, 29. <quote type="biblical" ana="Jn 5.28-29">The hour<lb/>
+is coming, in the which all that are in the<lb/>
+Graves shall hear his voice, And shall come<lb/>
+forth; they that have done good, unto the resurrection<lb/>
+of Life; and they that have done<lb/>
+evil, unto the resurrection of Damnation.</quote>
+                  <lb/>
+Acts 24.15. <quote type="biblical" ana="Acts 24.15">I <choice ana="illegible">
+                        <sic>h*<notvariant>ve</notvariant></sic>
+                        <corr>have</corr>
+                     </choice> hope towards God,<lb/>
+which they themselves also allow, that there<lb/>
+shall be a resurrection of the dead, both of the<lb/>
+just, and unjust.</quote> 
+                  <lb/>
+2 Cor. 4.14. <quote type="biblical" ana="2 Cor 4.14">Knowing that he which<lb/>
+raised up the Lord Jesus, shall raise up us also<lb/>
+by Jesus.</quote>
+                  <lb/>
+1 <normalised orig="Thes" auto="true">These</normalised>. 4.14. <quote type="biblical" ana="1 Thess 4.14">If we believe that Jesus<lb/>
+died, and rose again; even so them also which<lb/>
+sleep in Jesus, will God bring with him.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. What <normalised orig="believest" auto="true">believe</normalised> thou concerning<lb/>
+the twelfth Article of the Creed,<lb/>
+                  <lb/>
+And the Life everlasting?<lb/>
+               </p>
+            </sp>
+            <pb n="29"/>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. I believe that after the Resurrection,<lb/>
+all the Righteous shall enjoy<lb/>
+eternal, and unspeakable happiness, both<lb/>
+in Body, and Soul; and dwell for ever<lb/>
+with Christ in the highest Heavens.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How is this <normalised orig="prov'd" auto="true">proved</normalised> from Scripture?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From John 6.47. <quote type="biblical" ana="Jn 6.47">Verily, verily<lb/>
+I say unto you; He that <normalised orig="believeth" auto="true">believes</normalised> on me,<lb/>
+<normalised orig="hath" auto="true">has</normalised> everlasting life.</quote>
+                  <lb/>
+John 10.28. <quote type="biblical" ana="Jn 10.28">I give unto them eternal<lb/>
+life; and they shall never perish, neither<lb/>
+shall any pluck them out of my hand.</quote>
+                  <lb/>
+1 Pet. 5.4. <quote type="biblical" ana="1 Pet 5.4">When the chief Shepherd<lb/>
+shall appear, <normalised orig="ye" auto="true">you</normalised> shall receive a Crown of glory<lb/>
+that <normalised orig="fadeth" auto="true">fades</normalised> not away.</quote> 
+                  <lb/>
+1 John 5.11. <quote type="biblical" ana="1 Jn 5.11">This is the record, that<lb/>
+God <normalised orig="hath" auto="true">has</normalised> given to us eternal life: and this<lb/>
+life is in his Son.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How are the Wicked to be <normalised orig="dispos'd" auto="true">disposed</normalised><lb/>
+of hereafter?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. They are to be <normalised orig="banish'd" auto="true">banished</normalised> from<lb/>
+the presence of God; and tormented<lb/>
+eternally in Hell, with the Devil, and<lb/>
+his Angels.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Quest. How is this <normalised orig="prov'd" auto="true">proved</normalised> from Scripture?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p><notvariant>Answ</notvariant>. From Mat. 25.41. <quote type="biblical" ana="Mt 52.41">Depart from<lb/>
+                     <pb n="30"/>
+                     <lb/>
+me <normalised orig="ye" auto="true">you</normalised> cursed, into everlasting fire, prepared<lb/>
+for the Devil, and his Angels.</quote> 
+                  <lb/>
+Luke 3.17. <quote type="biblical" ana="Lk 3.17">He will gather the Wheat<lb/>
+into his Garner; but the Chaff he will burn<lb/>
+with fire unquenchable.</quote>
+                  <lb/>
+1 Cor. 6.9. <quote type="biblical" ana="1 Cor 6.9">Know <normalised orig="ye" auto="true">you</normalised> not, that the <notvariant>unrighteous</notvariant><lb/>
+shall not inherit the Kingdom of<lb/>
+God?</quote> 
+                  <lb/>
+2 <normalised orig="Thes" auto="true">These</normalised>. 1.7, 8, 9. <quote type="biblical" ana="2 Thess 1.7-9">The Lord Jesus shall<lb/>
+be revealed from Heaven, with his mighty<lb/>
+Angels; In flaming fire, taking vengeance<lb/>
+on them that know not God, and that obey<lb/>
+not the Gospel of our Lord Jesus Christ:<lb/>
+Who shall be punished with <choice ana="illegible">
+                        <sic/>
+                        <corr/>
+                     </choice> everlasting destruction,<lb/>
+from the presence of the Lord,<lb/>
+and from the glory of his Power.</quote>
+                  <lb/>
+                  <lb/>
+               </p>
+            </sp>
+        </div>
+      </body>
+   </text>
+</TEI>

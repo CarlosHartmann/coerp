@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="treatise_doctrinal_1674_Baxter_R2">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poor man's family book</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="RiBa1615">Baxter, Richard</author>
+               <title type="main">The poor man's family book. 1. Teaching him how to become a true Christian. 2. How to Live as a Christian, towards God, himself and others, in all his relations; especially in his Family. 3. How to Die as a Christian in Hope and Comfort, and so to be Glorified with Christ for ever. In plain familiar Conferences between a Teacher and a Learner.</title>
+               <title type="short">Poor man's family book</title>
+               <date when="1674">1674</date>
+               <date type="this_edition" when="1674">1674</date>
+               <idno type="Wing">B1352</idno>
+               <note type="genre" subtype="treatise_doctrinal">doctrinal treatise</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="sample">
+            <div>
+               <head>The Second <normalised orig="dayes" auto="true">days</normalised> Conference.</head>
+                  <lb/>
+                  <head>Of the Conversion of a Sinner; What it is?</head>
+                  <lb/>
+            </div>
+            <div>
+               <head>Of the Conversion of a Sinner; What it is?</head>
+               <p> 
+                  <lb/>
+                  <lb/>
+Speakers. <lb/>
+Paul, A Teacher.<lb/>
+Saul, A Learner.<lb/>
+Paul. WEll Neighbour; Have you <lb/>
+examined your self by the word <lb/>
+of God, since I saw you, as <lb/>
+I directed you?<lb/>
+            Saul. I have done what I can in it.<lb/>
+            P. And what do you think now of your case, upon <lb/>
+<normalised orig="tryal" auto="true">trial</normalised>?<lb/>
+            S. I think it is much worse than I had hoped it was; <lb/>
+and as <normalised orig="bad" auto="true">bade</normalised> as you feared: When I first read the promises <lb/>
+to all that Believe in Christ, I was ready again <lb/>
+to hope that I was safe: But when I read further, I <lb/>
+found that it was as you had told me; and that I had <lb/>
+none of Christs Spirit and therefore am none of his; <lb/>
+and that I am not a Penitent Convert, and am not in <lb/>
+a State of life. But I now beseech you Sir, upon my <lb/>
+                  <lb/>
+                  <fw type="pageNum">E 3</fw>
+                  <pb n="1"/> 
+                  <lb/>
+knees, as you <normalised orig="pitty" auto="true">pity</normalised> a poor Sinner, tell me what I <lb/>
+must do to be saved?<lb/>
+            P. Are you willing and Resolved to do it if I tell <lb/>
+it you, and prove it to you fully by the word of God?<lb/>
+            S. By the grace of God I am Resolved to do it, be it <lb/>
+what it will: For I know it cannot be so <normalised orig="bad" auto="true">bade</normalised> as sin and <lb/>
+Hell.<lb/>
+            P. You say well. I will first tell you this again in <lb/>
+the General, 1. That your Case is not remediless, <lb/>
+but a full and sufficient Salvation is purchased, and <lb/>
+<normalised orig="tendred" auto="true">tendered</normalised> in the Gospel to you as well as to any others. <lb/>
+2. That Christ and his Grace is this Remedy; and <lb/>
+that God <normalised orig="hath" auto="true">has</normalised> given us eternal life, and this life <lb/>
+is in his Son: He that <normalised orig="hath" auto="true">has</normalised> the Son <normalised orig="hath" auto="true">has</normalised> life, and he that <lb/>
+<normalised orig="hath" auto="true">has</normalised> not the Son <normalised orig="hath" auto="true">has</normalised> not life, but <normalised orig="remaineth" auto="true">remains</normalised> in his <lb/>
+guilt and sin. <lb/>
+3. That Christ having already made himself a sufficient <lb/>
+sacrifice for sins, and merited our Reconciliation, <lb/>
+pardon and Salvation, to be given in his way, <lb/>
+<normalised orig="hath" auto="true">has</normalised> made a Covenant of Grace (Conditional) <lb/>
+with sinful man, by the Promise of which he <normalised orig="forgiveth" auto="true">forgives</normalised> <lb/>
+us all our sins and <normalised orig="giveth" auto="true">gives</normalised> us right to everlasting life. <lb/>
+4. That Christs way of saving men from sin is by <lb/>
+sending his Ministry and word to call them, and <lb/>
+giving his Spirit within to <normalised orig="sanctifie" auto="true">sanctify</normalised> them: And this <lb/>
+Spirit is Christs Advocate to plead his cause, and do <lb/>
+his work, and prepare us by Holiness for the Heavenly <lb/>
+Glory. <lb/>
+5. That all the Condition required of you that you <lb/>
+                  <pb n="2"/> 
+                  <lb/>
+may have all these Blessings of the Covenant of Grace, <lb/>
+is but sincerely to Believe and Consent, and give up <lb/>
+your self in Covenant to God the Father, Son and Holy <lb/>
+Ghost, and continue true to the Covenant which you <lb/>
+make. <lb/>
+Read over these five points well, and consider of <lb/>
+them: and then tell me whether this be not glad tidings <lb/>
+to an undone miserable sinner? - Have you read <lb/>
+them over?<lb/>
+            S. I have read them: And I perceive that they are <lb/>
+glad tidings of hope indeed. But truly Sir, I have <lb/>
+heard the Gospel so <normalised orig="carelesly" auto="true">carelessly</normalised>, that I do not <normalised orig="throughly" auto="true">thoroughly</normalised> <lb/>
+understand these things; And therefore <normalised orig="intreat" auto="true">entreat</normalised> you to <lb/>
+open them to me more fully and plainly.<lb/>
+            P. I know you were <normalised orig="Baptized" auto="true">Baptised</normalised> in your Infancy; <lb/>
+which was your <normalised orig="priviledge" auto="true">privilege</normalised>, being entered by your Parents <lb/>
+into the Covenant of God. But their Consent and <lb/>
+Dedication, will serve your turn no longer than till you <lb/>
+come to age and natural capacity to consent and Covenant <lb/>
+for your self. Tell me then, have you ever soberly <lb/>
+considered what your Baptism was, and what Covenant <lb/>
+was then made betwixt God and you? And have you <lb/>
+seriously renewed that Covenant your self, and so given <lb/>
+up your self to God?<lb/>
+            S. Alas, I never either seriously considered or renewed <lb/>
+it; But I thought I was made a Christian by it, <lb/>
+and was sufficiently regenerated, and my sins done <lb/>
+away, and that I was a Child of God and an heir of <lb/>
+Heaven.<lb/>
+            P. And how did you think all your sins since your <lb/>
+Baptism were forgiven you?<lb/>
+                  <lb/>
+                  <fw type="pageNum">E 4</fw>
+                  <pb n="3"/>
+                  <lb/>
+            S. I confessed them to God, and some of them to the <lb/>
+Minister, and I received the Lords Supper; and I <lb/>
+thought that then I was forgiven; though I never had <lb/>
+the true sense and power thereof, on my heart and <lb/>
+life.<lb/>
+            P. What if you had never been <normalised orig="Baptized" auto="true">Baptised</normalised>, and were <lb/>
+now first to be <normalised orig="Baptized" auto="true">Baptised</normalised>. What would you do?<lb/>
+            S. I would understand and consider better of it, that <lb/>
+I might not do I knew not what.<lb/>
+            P. Why truly <normalised orig="Baptizing" auto="true">Baptising</normalised> is well called Christening: <lb/>
+For Baptism is such a Covenant between God and man, <lb/>
+as <normalised orig="maketh" auto="true">makes</normalised> the Receiver of it a visible Christian; And if <lb/>
+you had sincerely renewed and kept this same Covenant, <lb/>
+you had needed no new Conversion, or Regeneration, <lb/>
+but only particular Repentance for your particular following <lb/>
+sins. Baptism is to our Christianity, what Matrimony <lb/>
+is to a State of Marriage; or like the listing and <lb/>
+Oath of a Soldier to his Captain, or of a Subject to <lb/>
+his Prince. And therefore I will put you upon no other <lb/>
+Conversion, than to Review your Baptism, and understand <lb/>
+it well, and after the most serious <choice ana="illegible">
+                     <sic>delibera*on</sic>
+                     <corr>deliberation</corr>
+                  </choice>, <lb/>
+to make the same Covenant with God over again, <lb/>
+                  <choice ana="illegible">
+                     <sic/>
+                     <corr>as</corr>
+                  </choice> if you had never your self made it before, or rather as <lb/>
+                  <choice ana="illegible">
+                     <sic/>
+                     <corr>one</corr>
+                  </choice> that <normalised orig="hath" auto="true">has</normalised> not kept the Covenant which once you <lb/>
+                  <choice ana="illegible">
+                     <sic>*de</sic>
+                     <corr>made</corr>
+                  </choice>. <lb/>
+                  <choice ana="illegible">
+                     <sic>N*w</sic>
+                     <corr>Now</corr>
+                  </choice> if you were to be <normalised orig="Baptized" auto="true">Baptised</normalised> presently, there <lb/>
+                  <choice ana="illegible">
+                     <sic>*hese</sic>
+                     <corr>are these</corr>
+                  </choice> three things which you must do: 1. Your <lb/>
+                  <choice ana="illegible">
+                     <sic>*standing</sic>
+                     <corr>understanding</corr>
+                  </choice> must know the meaning of the Covenant, <lb/>
+                  <choice ana="illegible">
+                     <sic/>
+                     <corr>and</corr>
+                  </choice> Believe the Truth of the word of God, which <lb/>
+                  <choice ana="illegible">
+                     <sic/>
+                     <corr>is his</corr>
+                  </choice> part. 2. Your Will must heartily Desire and <lb/>
+                  <choice ana="illegible">
+                     <sic>*pt</sic>
+                     <corr>Accept</corr>
+                  </choice> of the Benefits of Gods Covenant offered you, <lb/>
+                  <pb n="4"/> 
+                  <lb/>
+and Resolvedly Consent to the Conditions required <lb/>
+of you. 3. And you must presently Oblige your self, <lb/>
+to the faithful Practice of them, and to continue true <lb/>
+to your Covenant from the time of your Baptism till <lb/>
+death.<lb/>
+            S. Truly if Conversion be no more than to do what I <lb/>
+vowed to do, and to be a Christian seriously, which before <lb/>
+I was but by name and Hypocritical profession, I <lb/>
+have no more Reason to stick at it, than to be against <lb/>
+Baptism and Christianity it self. First then will you <lb/>
+help my Understanding about it.<lb/>
+            P. I. You must understand and Believe the Articles <lb/>
+of the Christian faith, expressed in the Common Creed: <lb/>
+which you hear every day at Church, and profess <lb/>
+Assent to it.<lb/>
+            S. Alas, I hear it and say it by rote; but I never <lb/>
+well understood it, or considered it.<lb/>
+            P. The Christian Belief <normalised orig="hath" auto="true">has</normalised> three principal parts: <lb/>
+that is, our Believing in God the Father, and <lb/>
+in God the Son, and in God the Holy Ghost: And each <lb/>
+of these <normalised orig="hath" auto="true">has</normalised> divers Articles. 1. In the first part all <lb/>
+these things must be understood and believed. 1. That <lb/>
+there is one only GOD, in three Persons the <lb/>
+Father, Son, and Holy Ghost: who is an Infinite, <lb/>
+Eternal, Perfect Spirit: a perfect life, understanding <lb/>
+and will; perfectly powerful, wise and good: The first <lb/>
+efficient, chief governing, and final cause or end of <lb/>
+all: Of whom, and through whom, and to whom are <lb/>
+                  <pb n="5"/> 
+                  <lb/>
+all things: The Creator and therefore the Owner, the <lb/>
+Ruler and the Benefactor and End, especially of <lb/>
+man. <lb/>
+2. That this God made Adam and Eve in his own <lb/>
+Image, under a perfect Law of <normalised orig="Innocency" auto="true">Innocence</normalised>, requiring <lb/>
+perfect obedience of them, on pain of death. <lb/>
+3. That they broke this perfect Law by wilful <lb/>
+sin, and thereby fell under the sentence of death, the <lb/>
+displeasure of God, the forfeiture of his Grace, and of <lb/>
+all their Happiness. <lb/>
+4. That all of us having our very Beings and Natures <lb/>
+from them (and their <normalised orig="successours" auto="true">successors</normalised>,) derive Corruption <lb/>
+or Pravity of nature also from them, and a <lb/>
+participation of Guilt: And these corrupted natures <lb/>
+are disposed to all Actual sin, by which we should <lb/>
+grow much worse and more miserable. <lb/>
+5. That God of his mercy and wisdom took advantage <lb/>
+of mans sin and misery to <normalised orig="glorifie" auto="true">glorify</normalised> his Grace, and <lb/>
+promised man a Redeemer, and made a new Law <lb/>
+or Covenant for his Government and Salvation, forgiving <lb/>
+him all his sins, and promising him Salvation, <lb/>
+if he Believe and Trust in God his Saviour, and Repent <lb/>
+of sin, and live in thankful sincere obedience, though <lb/>
+imperfect. <lb/>
+6. In the <normalised orig="fulness" auto="true">fullness</normalised> of time, God sent his Son, <lb/>
+                  <fw type="pageNum">58</fw>
+                  <pb n="6"/> 
+                  <lb/>
+his eternal Word made man, to be our Redeemer; who <lb/>
+was conceived in a Virgin by the Holy Ghost, and by <lb/>
+perfect obedience fulfilled Gods Law, and became our <lb/>
+example, and conquered all temptations, and gave <lb/>
+himself a Sacrifice for our sins, in suffering, after a <lb/>
+life of humiliation, a cursed shameful death upon a Cross; <lb/>
+and being Buried, he Rose again the third day, and <lb/>
+having conquered Death, assured us of a Resurrection; <lb/>
+and after <normalised orig="fourty" auto="true">forty</normalised> <normalised orig="dayes" auto="true">days</normalised> continuance upon earth, he ascended <lb/>
+bodily in the sight of his Disciples into Heaven; <lb/>
+where he is the Teacher, the King and the <normalised orig="Intercessour" auto="true">Intercessor</normalised> <lb/>
+for the Church with God; by whom alone <lb/>
+we must come unto the Father, and who <normalised orig="prepareth" auto="true">prepares</normalised> for <lb/>
+us the heavenly Glory, and us for it. <lb/>
+7. Before he ascended, he made a more full and plain <lb/>
+Edition of the <normalised orig="foresaid" auto="true">aforesaid</normalised> Law or Covenant of Grace; <lb/>
+And he gave authority to his chosen Ministers, <lb/>
+to go and preach it to all the world and promised them <lb/>
+the extraordinary gift and assistance of his Holy Spirit: <lb/>
+And he ordained Baptism to be used as the solemn <lb/>
+initiation of all that will come into his Church, and <lb/>
+enter into the Covenant of God: In which Covenant, <lb/>
+[God the Father consenteth to be our Reconciled <lb/>
+God and Father, to pardon our sins, for the sake of <lb/>
+Christ, and give us his holy Spirit, and <normalised orig="Glorifie" auto="true">Glorify</normalised> us in <lb/>
+Heaven for ever: And God the Son <normalised orig="consenteth" auto="true">consents</normalised> to be our <lb/>
+Saviour, our King and Head, our Teacher and Mediator, <lb/>
+to bring us <choice ana="print-error">
+                     <sic>reconciltd</sic>
+                     <corr>reconciled</corr>
+                  </choice> to his Father, and to <normalised orig="justifie" auto="true">justify</normalised> us, <lb/>
+and give us his Spirit and eternal life: And God the Holy <lb/>
+Ghost <normalised orig="consenteth" auto="true">consents</normalised> to dwell in us as the Agent and <lb/>
+                  <pb n="7"/> 
+                  <lb/>
+Advocate of Christ, to be our Quickener, our <choice ana="print-error">
+                     <sic>Illuminanater</sic>
+                     <corr><normalised orig="Iluminater" auto="false">illuminator</normalised></corr>
+                  </choice> 
+                  <lb/>
+and <notvariant>sanctifier</notvariant>, the witness of Christ, and the <lb/>
+earness of our Salvation. And we on our part must <lb/>
+profess unfeigned Belief of this Gospel of Christ, and <lb/>
+Repentance for our former sins, and consent to <lb/>
+receive these Gifts of God, Giving up our selves <lb/>
+soul and body to him as our only God, our Saviour and <lb/>
+our <notvariant>Sanctifier</notvariant>, as our chiefest Owner, Ruler and Benefactor; <lb/>
+Resolving to live as his Own, as his Subjects <lb/>
+and his Children, in true Resignation of our selves to <lb/>
+Him, in true Obedience, and Thankful Love: <lb/>
+Renouncing the world, the flesh and the Devil, that <lb/>
+would tempt us to the contrary; and this to the end; <lb/>
+but not in our own strength, but by the gracious help of <lb/>
+the Spirit of God.] <lb/>
+This is the Baptismal Covenant, the manner of <lb/>
+whose outward administration you have often seen. <lb/>
+By this Covenant as it is Gods Law and Act on his <lb/>
+part, all that truly consent and give up themselves thus <lb/>
+absolutely to God the Father, Son and Holy Ghost, <lb/>
+are presently pardoned all the sins that ever they were <lb/>
+guilty of, as by Gods instrumental Act of oblivion: <lb/>
+And in it they have the Gift of their Right to the <lb/>
+Spirit, and to everlasting life, and of all the mercies <lb/>
+necessary thereunto. <lb/>
+8. The Holy Ghost in a peculiar manner is <lb/>
+given to all that thus truly Believe and consent to the <lb/>
+holy Covenant: To dwell and work in them, and <lb/>
+                  <pb n="8"/> 
+                  <lb/>
+Regenerate them more fully to the Nature and Image of <lb/>
+God, working in them, 1. A holy Liveliness and <lb/>
+Activity for God; 2. A holy Light and knowledge of <lb/>
+God; 3. A holy Love and Desire after God, and all that <lb/>
+by which God is manifested unto man. And they that <lb/>
+have not this renewing Spirit of Christ, are none of <lb/>
+his: And by this the Temptations of the flesh, the world <lb/>
+and the Devil must be overcome. <lb/>
+9. At death <normalised orig="mens" auto="true">men's</normalised> souls are judged particularly and <lb/>
+enter into joy or misery; And at the end of this <lb/>
+world, Christ will come in glory, and raise the dead, <lb/>
+and judge all the world according to their works. And <lb/>
+they that have sincerely kept this Covenant (according <lb/>
+to the several Editions of it, which they were under) <lb/>
+shall be openly Justified and Glorified with Christ: <lb/>
+Where they shall be made perfect themselves in soul <lb/>
+and body, and perfectly know, love, praise and please <lb/>
+the most blessed God for evermore, among the blessed <lb/>
+Saints and Angels: And those that have not performed <lb/>
+this Covenant, shall be for ever deprived of this glory, <lb/>
+and suffer in Hell everlasting misery, with Devils and <lb/>
+ungodly men. <lb/>
+These nine Points must all be competently understood <lb/>
+by you; or else you cannot understand what Baptism, <lb/>
+Repentance, Conversion or Christianity is: And you <lb/>
+cannot consent to you know not what.<lb/>
+            S. Alas, Sir, when shall I ever be able to understand <lb/>
+and remember all this?<lb/>
+                  <pb n="9"/>
+                  <lb/>
+            P. It is all but your common Catechism; Yea it is all <lb/>
+but the Creed which you daily repeat, a little opened. <lb/>
+But if you do not Remember all these words; if yet you <lb/>
+remember the <normalised orig="sence" auto="true">sense</normalised> and matter of them, it will suffice.<lb/>
+            S. But you told me that besides Understanding and <lb/>
+Belief, the Wills true Consent is also necessary.<lb/>
+            P. II. That is the second part of Religion and Holiness, <lb/>
+and indeed the very Heart of all: for what the <lb/>
+Will is that the Man is. But I need not here many <lb/>
+words to tell you, that when you have considered the <lb/>
+terms of the Baptismal Covenant, your hearty resolved <lb/>
+full consent to it, is the Condition of your present <lb/>
+Right, upon which Christ <normalised orig="taketh" auto="true">takes</normalised> you as his own.<lb/>
+            S. But <normalised orig="hath" auto="true">has</normalised> my Will no more to do but to consent to <lb/>
+that Covenant?<lb/>
+            P. That <normalised orig="implieth" auto="false">implied</normalised> that your consent must still continue, <lb/>
+and that it reach to the particular means and duties <lb/>
+which Christ shall appoint you. And the Lords Prayer <lb/>
+is given as the more particular Rule of all the Desires of <lb/>
+your Will. Therefore you must well study the meaning <lb/>
+of that Prayer.<lb/>
+            S. You told me also that Practice is the third part of <lb/>
+Religion: How shall I know what that must be?<lb/>
+            P. III. You must here know, 1. The Rule of <lb/>
+your Practice; 2. What your Practice must be according <lb/>
+to that Rule. The Foundation and the End of all <lb/>
+your Practice is laid down already in what is said: <lb/>
+                  <pb n="10"/> 
+                  <lb/>
+I. The Foundation and Root of all is your Relation to <lb/>
+God according to this Covenant: 1. You are Devoted <lb/>
+to Him as being totally His Own: And therefore <lb/>
+you must live to Him, and seek his Glory, and <lb/>
+rest in his Disposals. 2. You are related to him as his <lb/>
+Subject: And therefore must endeavour absolutely <lb/>
+to Obey Him, above all the world. 3. You are Related <lb/>
+to him (when you are true Believer) as his <lb/>
+Child and Friend: And therefore must live in <lb/>
+Faithfulness and Love. And this is the Foundation and <lb/>
+<normalised orig="summ" auto="true">sum</normalised> of all your holy life. <lb/>
+II. And the Ends of all your Practice must be, 1. That <lb/>
+you may be fully delivered from all sin and misery, and <lb/>
+be made more Holy, and more serviceable to <lb/>
+God, and profitable to men, and may <normalised orig="Glorifie" auto="true">Glorify</normalised> your <lb/>
+Father, Redeemer and <notvariant>Sanctifier</notvariant>, by the Glory of his <lb/>
+Image on you, and so may be more pleasing to Him; <lb/>
+And 2. that you may be perfectly Holy and Glorious <lb/>
+and happy in Heaven, and may with Saints and Angels <lb/>
+dwell with Christ, and know and love and praise and <lb/>
+serve the Lord in Glory, in perfect joy for evermore. <lb/>
+These Ends being all most excellent and sure, must be <lb/>
+still in your eye, as the great and constant poise and <lb/>
+motive of all your Practice. <lb/>
+III. As you are a Subject, your obedience <normalised orig="hath" auto="true">has</normalised> its <lb/>
+Rule: And the Rule is the Law of your Redeemer <lb/>
+                  <fw type="pageNum">63</fw>
+                  <pb n="11"/> 
+                  <lb/>
+and Creator. This Law, is the Law of Nature, and the <lb/>
+Commands of Christ superadded in the Gospel, set together. <lb/>
+The Law of Nature is the whole Nature <lb/>
+and Order of all things in the world, and specially of <lb/>
+man himself, as it <normalised orig="signifieth" auto="true">signifies</normalised> the will of God about mans <lb/>
+duty and his reward or punishment. <lb/>
+The special superadded Commands of Christ are, that <lb/>
+we Believe in him as our Saviour, and believe <lb/>
+all the added Articles of Faith, and hope for Life by his <lb/>
+purchase, and promise, and love God as his goodness <normalised orig="appeareth" auto="true">appears</normalised> <lb/>
+in his Son and Gospel, and love Christs members <lb/>
+for his sake: that we pray for the Spirit of Christ and <lb/>
+obey him; and that we Observe that Church Order, <lb/>
+as to Ministry, Church-assemblies, the Lords day, the <lb/>
+two Sacraments, <normalised orig="publick" auto="true">public</normalised> worship and Discipline, which <lb/>
+Christ by himself or his Spirit in his Apostles <normalised orig="hath" auto="true">has</normalised> <lb/>
+commanded us. <lb/>
+And yet you must understand 1. That the Law of <lb/>
+Nature it self, is much more plainly described <lb/>
+and opened in the Holy Scripture, than you are able to <lb/>
+read it in it self. 2. That even these Gospel superadded <lb/>
+Laws have somewhat of a natural obligation in them, <lb/>
+supposing but foregoing matters of fact, (that Christ did <lb/>
+all that indeed he did.) So much for your Rule. <lb/>
+IV. The Degree of Obedience which is your Duty, <lb/>
+is indeed Perfection without further sin: But <lb/>
+your daily Infirmities have a pardon: And therefore the <lb/>
+                  <fw type="pageNum">64</fw>
+                  <pb n="12"/> 
+                  <lb/>
+Degree of Obedience necessary to your Salvation is but <lb/>
+that it be sincere, that is, That as to the predominant <lb/>
+bent of your Heart and Life, you truly obey your <lb/>
+Creator and Redeemer, and make this the chief trade <lb/>
+or business, which you live for and manage the world. <lb/>
+V. I must also add, that in all this you must still <lb/>
+remember, that 1. the Devil, and 2. the World, 3. <lb/>
+but above all your own Fleshly mind and appetite, <lb/>
+will be the great Enemies of all this Holiness and obedience: <lb/>
+And therefore you must understand their enmity <lb/>
+and the danger of it; and resolve by Gods grace, <lb/>
+to Renounce them, and Resist them as your Enemies to <lb/>
+the last. <lb/>
+And though only sincerity is necessary to salvation, <lb/>
+yet 1. You have not sincerity unless you have a <lb/>
+desire and <normalised orig="endeavor" auto="true">endeavour</normalised> after Perfection. 2. And a greater <lb/>
+degree of holiness is necessary to a great degree of <lb/>
+Glory.<lb/>
+            S. Alas, Sir, I shall never Remember all this.<lb/>
+            P. You may see then how foolishly you have done, <lb/>
+to lose your time in Child-hood and Youth, which <lb/>
+should have been spent in learning the Will of God, <lb/>
+and the way to your Salvation. If you had morning <lb/>
+and night <normalised orig="desirously" auto="false">desireously</normalised> meditated on these things, and read <lb/>
+Gods word, and asked Counsel of your Teachers, and <lb/>
+<normalised orig="learn'd" auto="true">learned</normalised> Catechisms, and read good Books, and if <lb/>
+you had <normalised orig="markt" auto="true">marked</normalised> well what you heard at Church, and <lb/>
+had spent all the Lords <normalised orig="Dayes" auto="true">Days</normalised> in such work as this, <lb/>
+which you spent in play and idleness and vain talk, you <lb/>
+might have been acquainted familiarly with all this and <lb/>
+                  <lb/>
+                  <fw type="pageNum">F</fw>
+                  <pb n="13"/> 
+                  <lb/>
+more. But that which is past cannot be recalled. If <lb/>
+you cannot remember all this, 1. Labour to understand <lb/>
+it well; 2. And remember that which is the <normalised orig="summ" auto="true">sum</normalised> of all.<lb/>
+            S. What is that?<lb/>
+            P. 1. The shortest <normalised orig="summ" auto="true">sum</normalised> is the <normalised orig="Baptismall" auto="false">Baptismal</normalised> Covenant <lb/>
+it self, To Believe in and Give up your self <lb/>
+to God the Father, the Son and the Holy Ghost, as <lb/>
+your Creator, Redeemer and <notvariant>Sanctifier</notvariant>, your Owner, <lb/>
+Ruler and Chief Good and End: Renouncing the Flesh, <lb/>
+the World and the Devil. <lb/>
+2. The next summary explaining this more <lb/>
+largely is, 1. The Creed as the <normalised orig="summ" auto="true">sum</normalised> of what you <lb/>
+must Believe. 2. The Lords Prayer as the <normalised orig="summ" auto="true">sum</normalised> <lb/>
+of what you must Desire. 3. And the <normalised orig="summ" auto="true">sum</normalised> of the <lb/>
+Law of nature is in the Ten Commandments: <lb/>
+And the Church Laws of Christ, about Ministry, Communion, <lb/>
+Sacraments and other worship, you will be <lb/>
+taught in the Church by sense, and use, and daily teaching. <lb/>
+Cannot you say the Creed, Lords Prayer and <lb/>
+Ten Commandments?<lb/>
+            S. Yes, I learned the words, but I never laid the <lb/>
+sense and substance of them to heart.<lb/>
+            P. All that I have said to you is but the sense of <lb/>
+those three: Understand the exposition, and Remember <lb/>
+the forms or words themselves. But even your Duty <lb/>
+is yet shortlier summed up in Love, which is the <lb/>
+fulfilling of the Law. For Justice is comprehended <choice ana="illegible">
+                     <sic>*n</sic>
+                     <corr>in</corr>
+                  </choice> 
+                  <lb/>
+Love, which will teach you to do as you would be <lb/>
+done by.<lb/>
+                  <pb n="14"/>
+                  <lb/>
+            S. What Love is it that you mean?<lb/>
+            P. The Love of God, the Love of your self, and <lb/>
+the Love of your Neighbour, is the <normalised orig="summ" auto="true">sum</normalised> of all your <lb/>
+duty.<lb/>
+            S. This is but Reasonable duty, which no man can <lb/>
+deny or speak against. And one part of it I shall easily <lb/>
+keep, which is, to Love my Self.<lb/>
+            P. Alas poor man: Have you kept it <choice ana="illegible">
+                     <sic>hi*herto</sic>
+                     <corr>hitherto</corr>
+                  </choice>? <lb/>
+What <normalised orig="enemie" auto="true">enemy</normalised> have you had in all the world comparable <lb/>
+to your self? All that your enemies could do <lb/>
+against you is but as a flea-biting. What if they slander <lb/>
+you, oppress you, imprison you, or otherwise <lb/>
+abuse you? Wrong not your self, and all this cannot <lb/>
+hinder your salvation, nor make God love you ever <lb/>
+the less, nor make death ever the more terrible; nor <lb/>
+will it ever be your sorrow in Heaven to think of it. <lb/>
+All your enemies in the world, cannot force you to <lb/>
+commit one sin, nor make you a jot displeasing unto <lb/>
+God. But you your self have committed thousands of <lb/>
+sins, and made your self an enemy to God. O the folly <lb/>
+of ungodly men! They can hardly forgive another if <lb/>
+he do but beat them, or slander them, or impoverish <lb/>
+them: And yet they can go on to abuse, undo and destroy <lb/>
+their souls, and run towards Hell, and easily forgive <lb/>
+themselves all this; yea take it for their benefit, <lb/>
+and will not be restrained, nor <normalised orig="perswaded" auto="true">persuaded</normalised> <lb/>
+to forbear, nor <normalised orig="shew" auto="true">show</normalised> any mercy to their own miserable <lb/>
+souls. I tell you, though the Devil hate you, yet all <lb/>
+the Devils in the world have not done so much against <lb/>
+you as you have done against your self. The Devils <lb/>
+                  <lb/>
+                  <fw type="pageNum">F 2</fw>
+                  <pb n="15"/> 
+                  <lb/>
+did but Tempt you to sin, but never did nor could <lb/>
+compel you: But it is you that have wilfully sinned <lb/>
+your self, and sold your soul, as Esau his birthright, for <lb/>
+a morsel, for a pleasant cup or game, or for a lust or <lb/>
+filthy pleasure, and for a thing that's worse than nothing. <lb/>
+Was it not You, even you your self, that forgot your <lb/>
+God, neglected your Saviour, resisted the holy Spirit, <lb/>
+refused sanctifying grace, despised Heaven, and set <lb/>
+more by this dirty world? Was it not You your self <lb/>
+that loved not Holiness, nor a holy God, nor the <lb/>
+holy Scriptures, nor holy persons, nor holy thoughts, <lb/>
+or words, or ways? that lost your precious Time; <lb/>
+and omitted almost all your duty, and run into a multitude <lb/>
+of sins? And if the Devil studied his worst <lb/>
+to hurt you, what could he do more, than to tempt <lb/>
+you unto sin? If you had been a sworn enemy to your <lb/>
+self, and plotted how to do your self the greatest mischief, <lb/>
+what could you do worse, than to sin and run on <lb/>
+Gods displeasure? Which is the way to the Gallows, <lb/>
+but by breaking the Law, by murder, felony or the <lb/>
+like? And which is the way to Hell, but Loving sin, <lb/>
+and refusing Grace? And yet are you a Lover of your <lb/>
+self?<lb/>
+            S. All this is too true: And yet I am sure that I <lb/>
+love my self: How then comes all this to pass?<lb/>
+            P. You Love your self with a Sensitive Love, that <lb/>
+<normalised orig="goeth" auto="true">goes</normalised> all by sense, and little by Reason, much less by <lb/>
+Faith. As a Swine <normalised orig="Loveth" auto="true">Loves</normalised> himself when he is bursting <lb/>
+his belly with Whey; or a Rat when he is eating Ratsbane. <lb/>
+You Love your Appetite, but you have little <lb/>
+care of your Soul: You love your self: but you love <lb/>
+not that which is Good for your self: As a sick man <lb/>
+<normalised orig="loveth" auto="true">loves</normalised> his life, but <normalised orig="abhorreth" auto="true">abhors</normalised> his meat and medicine. <lb/>
+                  <pb n="16"/> 
+                  <lb/>
+Indeed God <normalised orig="hath" auto="true">has</normalised> planted a Love to our selves so <lb/>
+deep in nature that no man can choose but Love himself: <lb/>
+And therefore in the Commandments the Love of <lb/>
+God and our Neighbour only are expressed; and the <lb/>
+Love of our selves is presupposed. But Christ knowing <lb/>
+what destroyers men are of themselves, and forsakers <lb/>
+of their own salvation, <normalised orig="doth" auto="true">does</normalised> call upon sinners to <lb/>
+Love, Care and Labour for their own souls. <lb/>
+These things conjunctly make up mans enmity against <lb/>
+his own salvation. 1. The soul <normalised orig="hath" auto="true">has</normalised> lost much of the <lb/>
+knowledge of its own excellency in its higher faculties. <lb/>
+2. Its Love to it self as Rational is dulled, and <normalised orig="wanteth" auto="true">wants</normalised> <lb/>
+stirring up. 3. It is inordinately fallen in Love <lb/>
+with it self as sensitive, and its lower faculties. <lb/>
+4. It <normalised orig="doteth" auto="true">dotes</normalised> on all sensual objects that are delightful. <lb/>
+5. It is as dead and averse to those noble spiritual <lb/>
+higher objects, in which it must be happy. And in <lb/>
+this sense, Man is his own greatest enemy. <lb/>
+I the rather speak all this to you on this point, because <lb/>
+your very Repentance <normalised orig="consisteth" auto="true">consists</normalised> in being angry <lb/>
+with your self, and falling out with and even loathing <lb/>
+your self for your sins, and your self-undoing. And <lb/>
+till you come to see what you have done against your <lb/>
+self, you will never come to that true humiliation and <lb/>
+self-distrust as is needful to your salvation. And also <lb/>
+because that it is here and here only that your safety <lb/>
+and happiness is like to stick for the time to come. <lb/>
+Do but as a man that <normalised orig="Loveth" auto="true">Loves</normalised> Himself, and you are safe. <lb/>
+God <normalised orig="intreateth" auto="true">entreats</normalised> you to have mercy on your self. He <lb/>
+<normalised orig="hath" auto="true">has</normalised> resolved on what terms he will have mercy upon <lb/>
+sinners: They are unchangeably set down in his Gospel. <lb/>
+And sinners will not yield unto his terms. <lb/>
+Though they be no harder, than, To Receive his Gifts <lb/>
+according to their nature, men will not be <normalised orig="intreated" auto="true">entreated</normalised> to <lb/>
+                  <lb/>
+                  <fw type="pageNum">F 3</fw>
+                  <pb n="17"/> 
+                  <lb/>
+Receive them, They would have fleshly and worldly <lb/>
+prosperity, but deliverance from sin, and Holy <lb/>
+communion with God, they will not have. Here is the <lb/>
+only stop of their salvation. All men might be <lb/>
+Holy and happy if they would: But most men will <lb/>
+not. This is the <normalised orig="woful" auto="true">woeful</normalised> state of sinners! They will cry <lb/>
+to God for mercy, mercy, when judgement <normalised orig="cometh" auto="true">comes</normalised>, <lb/>
+and it is too late; and yet now no counsel, no reason, <lb/>
+no <normalised orig="intreaty" auto="true">entreaty</normalised> will <normalised orig="perswade" auto="true">persuade</normalised> them to accept it. It is a <lb/>
+pitiful thing, to hear Christs Ministers in his Name, <lb/>
+beseech men to accept of sanctifying saving mercy, from <lb/>
+day to day, and all in vain, and to think how these <lb/>
+same men will cry for mercy, when mercy <normalised orig="hath" auto="true">has</normalised> done <lb/>
+with them, and the door is shut. Yea now they still <lb/>
+say, We hope to be saved because God is merciful, <lb/>
+while they will not have his saving mercy. As if <lb/>
+mercy stuck in the hand of God as an unwilling giver, <lb/>
+while it is they that refuse it as unwilling to receive <lb/>
+it. Like a thief that is <normalised orig="intreated" auto="true">entreated</normalised> by the Judge to give <lb/>
+over in time and to have mercy on himself, and not <lb/>
+to cast away his life, and will not hear nor be <normalised orig="perswaded" auto="true">persuaded</normalised>; <lb/>
+and yet at the Barr of Gallows will cry out for <lb/>
+mercy. What would you say to a famished Beggar <lb/>
+that should stand begging for an alms and will not take it? <lb/>
+would it not be a strange sight at once to hear the Beggar <lb/>
+say, I pray you give me <normalised orig="mony" auto="true">money</normalised> or bread, and the Giver <lb/>
+offering it, and say, I <normalised orig="intreat" auto="true">entreat</normalised> thee to take it, and have <lb/>
+pity on thy self, and do not famish; and cannot prevail?<lb/>
+            S. It is a sad and mad condition that you describe, <lb/>
+and it is too true: But methinks it were a fitter comparison <lb/>
+if you likened them to a sick man that begs for <lb/>
+health of the <normalised orig="Physicion" auto="true">Physician</normalised>, but will take no <normalised orig="physick" auto="true">physic</normalised>; while <lb/>
+                  <pb n="18"/> 
+                  <lb/>
+the <normalised orig="Physicion" auto="true">Physician</normalised> begs of him in vain, to take <normalised orig="physick" auto="true">physic</normalised> that <lb/>
+he may have health. For it is not the health that men <lb/>
+are unwilling of but the <normalised orig="Physick" auto="true">Physic</normalised>. It is not salvation, <lb/>
+but the strait gate and narrow way.<lb/>
+            P. There is some Truth in what you say, (that they <lb/>
+are against the means;) But you are mistaken in the rest: <lb/>
+For Holiness which they refuse, is not only a means, <lb/>
+but it is much of Salvation it self. Holiness is <lb/>
+the souls health, and not only its medicine: And perfect <lb/>
+holiness, which is the perfect Knowledge and Love <lb/>
+of God, will be Heaven it self. And to refuse Holiness <lb/>
+is to refuse Health and Heaven.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Short INSTRUCTIONS for 
+the SICK, to be Read by the 
+Master of the Family to them, 
+or by themselves; especially the 
+<normalised orig="Vnprepared" auto="true">Unprepared</normalised>.</head>
+               <p> 
+                  <lb/>
+                  <lb/>
+THose happy persons who have made <lb/>
+it the chief care and business of their <lb/>
+lives, to be always ready for a dying <lb/>
+hour, have least need of my present <lb/>
+counsel: It is therefore those unhappy Souls, <lb/>
+who are yet unprepared, whom I shall now <lb/>
+Instruct. And, O that the Lord would bless <lb/>
+these Words; and <normalised orig="perswade" auto="true">persuade</normalised> them yet, ere <lb/>
+Time be gone! <lb/>
+                  <lb/>
+If sin had not bewitched men, and made <lb/>
+them Monsters of senslesness and unbelief, it <lb/>
+could not be, that an Endless Life, so sure, so <lb/>
+near, could be so sottishly made light of all <lb/>
+their lives, as is by most, till they perceive <lb/>
+that Death is ready to <normalised orig="surprize" auto="true">surprise</normalised> them. But, <lb/>
+poor sinner, if this have been thy Case, supposing <lb/>
+that thou art unwilling to be damned, <lb/>
+I earnestly <normalised orig="intreat" auto="true">entreat</normalised> thee in the Name of Christ, <lb/>
+for the sake of thy Immortal soul, that thou <lb/>
+wilt presently lay to heart these short Instructions, <lb/>
+before Time and Hope are gone for ever. <lb/>
+                  <lb/>
+                  <pb n="19"/> 
+                  <lb/>
+I. At last bethink thee what thou Art? <lb/>
+and for what End and Work thou <normalised orig="comest" auto="true">come</normalised> into <lb/>
+the World? Thou art a Man of Reason, and <lb/>
+not a <normalised orig="Bruit" auto="true">Brute</normalised>; and <normalised orig="hast" auto="true">have</normalised> a Soul which was made <lb/>
+to Know, and Love, and Serve thy Maker: <lb/>
+and that not in the second Place, with the <lb/>
+leavings of the flesh; but in the first place, and <lb/>
+with all thy Heart and Might. If this had <lb/>
+been indeed thy Life, God would have been <lb/>
+thy portion, thy Father and thy Defence, and <lb/>
+thou <normalised orig="mightst" auto="true">might</normalised> have <normalised orig="liv'd" auto="true">lived</normalised> and <normalised orig="dy'd" auto="true">died</normalised> in peace <lb/>
+and comfort, and then have <normalised orig="liv'd" auto="true">lived</normalised> with God <lb/>
+for ever. And should not a Creature live to <lb/>
+the Ends and Uses which it was made for? <lb/>
+Must God give thee all thy powers for Himself, <lb/>
+and wilt thou turn them from him, to <lb/>
+the service of the flesh, and that when thou <lb/>
+<normalised orig="hadst" auto="true">had</normalised> vowed the contrary in thy Baptism? <lb/>
+How wilt thou answer for such treacherous <lb/>
+ungodliness? <lb/>
+                  <lb/>
+II. It is time for thee now to have serious <lb/>
+thoughts of the Life which thou art going to. If <lb/>
+thou <normalised orig="couldst" auto="true">could</normalised> sleepily forget it all the way, it <lb/>
+is time to awaken when thou <normalised orig="comest" auto="true">come</normalised> almost <lb/>
+there. When thy friends are burying that <lb/>
+flesh in the earth, which thou <normalised orig="didst" auto="true">did</normalised> more regard <lb/>
+than God and thy Salvation, thy Soul <lb/>
+must appear in an endless world, and see <lb/>
+those things which God foretold thee of, <lb/>
+and thou <normalised orig="wouldst" auto="true">would</normalised> not believe, or set thy <lb/>
+heart upon. As soon as Death <normalised orig="hath" auto="true">has</normalised> <lb/>
+opened the Curtains, O what a sight must <lb/>
+thou presently behold! A world of <lb/>
+                  <fw type="pageNum">111</fw>
+                  <pb n="20"/> 
+                  <lb/>
+Angels and of holy Souls adoring and praising, <lb/>
+and admiring that God, whom thou <lb/>
+<normalised orig="didst" auto="true">did</normalised> refuse to mind, and love, and serve: <lb/>
+A world of Devils and damned souls, in <lb/>
+torment and despair, bewailing their contempt <lb/>
+of Christ and Grace, their neglect of <lb/>
+God and their Salvation; their serving the <lb/>
+Flesh, and loving the World, and wilfully <lb/>
+losing the time of Mercy, and all the means <lb/>
+which God vouchsafed them. Believe it <lb/>
+Sinner, there is an Endless Joy and Glory for <lb/>
+the Saints, and an Endless Misery for all the <lb/>
+Ungodly; and one of these must quickly be <lb/>
+thy case. Thy state is changeable while <lb/>
+thou art in the Flesh; if thy Soul be miserable, <lb/>
+there is yet a Remedy; it's possible <lb/>
+Christ may renew and pardon it: But as <lb/>
+soon as thou <normalised orig="goest" auto="false">go</normalised> hence, thou <normalised orig="enterest" auto="true">enter</normalised> into a <lb/>
+state of Joy or Torment which must never <lb/>
+change; no not when millions of years are <lb/>
+past. And <normalised orig="dost" auto="false">do</normalised> thou not think now in <lb/>
+thy conscience that such an Endless misery <lb/>
+should have been prevented with greater care <lb/>
+and diligence, than all the sufferings of this <lb/>
+life? And that the attaining of such an Endless <lb/>
+Glory had been worth thy greatest care <lb/>
+and labour? And that it is far better to see -<lb/>
+the Glory of God, and be filled with his <lb/>
+Love, and joyfully praise him with his Saints <lb/>
+and Angels for evermore, and by a holy life <lb/>
+to have prepared for this; than to please the <lb/>
+Flesh, and follow the World a little while, <lb/>
+and be undone for ever? <normalised orig="Hast" auto="true">Have</normalised> thou got more <lb/>
+by the World and Sin than Heaven is worth? <lb/>
+                  <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

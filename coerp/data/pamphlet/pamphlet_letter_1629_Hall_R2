@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="pamphlet_letter_1629_Hall_R2">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><notvariant>Reconciler</notvariant></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JoHa1574">Hall, Joseph</author>
+               <title type="main">The <notvariant>reconciler</notvariant>. An epistle <normalised orig="pacificatorie" auto="false">pacificatory</normalised> of the seeming-differences of opinion concerning the <normalised orig="truenesse" auto="true">trueness</normalised> and visibility of the Roman Church.</title>
+               <title type="short"><notvariant>Reconciler</notvariant></title>
+               <date when="1629">1629</date>
+               <date type="this_edition" when="1629">1629</date>
+               <idno type="STC">12709.5</idno>
+               <note type="genre" subtype="pamphlet_letter">letter pamphlet</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="sample">
+            <div>
+               <head>TO 
+THE RIGHT <normalised orig="HONOVRABLE" auto="true">HONOURABLE</normalised>, AND 
+truly religious, my singular 
+good Lord, Edward <normalised orig="Earle" auto="true">Earl</normalised> 
+of Norwich.</head><lb/>
+                  <opener>My ever <normalised orig="honored" auto="true">honoured</normalised> Lord:</opener><lb/>
+            <p> 
+I <normalised orig="Confesse" auto="true">Confess</normalised> my <lb/>
+charity led me <lb/>
+into an error; <lb/>
+Your <normalised orig="Lordshippe" auto="true">Lordship</normalised> well <lb/>
+knows how <lb/>
+apt I am to be <lb/>
+overtaken with these better deceits <lb/>
+of an over <normalised orig="kinde" auto="true">kind</normalised> credulity. I <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 4</fw>
+                  <pb n="1"/> 
+                  <lb/>
+had thought that any dash of my <lb/>
+pen, in a sudden, and <normalised orig="easie" auto="true">easy</normalised> advertisement, <lb/>
+might have served to <lb/>
+have quitted that ignorant <normalised orig="scandall" auto="true">scandal</normalised>, <lb/>
+which was cast upon my <lb/>
+<normalised orig="naif" auto="false">naive</normalised> taken assertion, of the true visibility <lb/>
+of the <normalised orig="Romane" auto="true">Roman</normalised> Church. <lb/>
+The issue proves all otherwise: <lb/>
+I <normalised orig="finde" auto="true">find</normalised>, to my <normalised orig="griefe" auto="true">grief</normalised>, that the misunderstanding <lb/>
+<normalised orig="tenacitie" auto="false">tenacity</normalised> of some <lb/>
+zealous spirits <normalised orig="hath" auto="true">has</normalised> made it a <lb/>
+<normalised orig="quarrell" auto="true">quarrel</normalised>. It cannot but trouble <lb/>
+me to see that the position, which <lb/>
+is so familiarly current with the <lb/>
+best reformed Divines; &amp; which <lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="beene" auto="true">been</normalised> so oft and long since <lb/>
+published by <normalised orig="mee" auto="true">me</normalised> without contradiction; <lb/>
+yea, not without the <lb/>
+approbation and applause of the <lb/>
+whole representative body of the <lb/>
+<normalised orig="Clergie" auto="true">Clergy</normalised> of this <normalised orig="kingdome" auto="true">kingdom</normalised>, should <lb/>
+                  <fw type="pageNum">2</fw>
+                  <pb n="2"/> 
+                  <lb/>
+now be quarrelled, and <normalised orig="drawne" auto="true">drawn</normalised> <lb/>
+into the detestation of those that <lb/>
+know it not; As one therefore <lb/>
+that should <normalised orig="thinke" auto="true">think</normalised> it <normalised orig="corosive" auto="false">corrosive</normalised> <lb/>
+enough, that any occasion should <lb/>
+be taken by ought of mine, to <normalised orig="ravell" auto="true">ravel</normalised> <lb/>
+but one <normalised orig="thred" auto="false">thread</normalised> of that seamless <lb/>
+coat, I <normalised orig="doe" auto="true">do</normalised> earnestly desire, by a <lb/>
+more full explication, to give <lb/>
+<normalised orig="cleare" auto="true">clear</normalised> satisfaction to all Readers; <lb/>
+and by this seasonable reconcilement, <lb/>
+to stop the flood-gates of <lb/>
+contention; I know it will not be <lb/>
+unpleasing to your Lordship, that <lb/>
+through your <normalised orig="honorable" auto="true">honourable</normalised> and pious <lb/>
+hands, these welcome papers <lb/>
+should be transmitted to many; <lb/>
+Wherein I shall first beseech, yea <lb/>
+adjure <normalised orig="al" auto="true">all</normalised> Christians, under whose <lb/>
+<normalised orig="eies" auto="true">eyes</normalised> they shall fall, by the <normalised orig="dreadfull" auto="true">dreadful</normalised> <lb/>
+name of that GOD, who shall <lb/>
+                  <fw type="pageNum">3</fw>
+                  <pb n="3"/> 
+                  <lb/>
+judge both the <normalised orig="quicke" auto="true">quick</normalised>, and the <lb/>
+dead, to lay aside all unjust prejudices; <lb/>
+and to allow the words of <lb/>
+Truth, and Peace; I dare confidently <lb/>
+say, Let us be understood, <lb/>
+and we are agreed. <lb/>
+The searcher of all harts knows <lb/>
+how far it was from my thoughts <lb/>
+to <normalised orig="speake" auto="true">speak</normalised> ought in favour of the <lb/>
+Roman Synagogue: If I have not <lb/>
+sufficiently branded that <normalised orig="Stru~pet" auto="false">Strumpet</normalised>, I <lb/>
+justly suffer. <normalised orig="Luthers" auto="true">Luther's</normalised> broad word is <lb/>
+by me <normalised orig="alread" auto="true">already</normalised> both safely construed, <lb/>
+&amp; sufficiently vindicated. But, <lb/>
+<normalised orig="doe" auto="true">do</normalised> you not say, It is a true visible <lb/>
+Church? Do you not <normalised orig="yeeld" auto="true">yield</normalised> some <lb/>
+<normalised orig="kinde" auto="true">kind</normalised> of communion with these <lb/>
+clients of Antichrist? What is, if <lb/>
+this be not, favour? <normalised orig="Marke" auto="true">Mark</normalised> well, <lb/>
+Christian Reader, and the Lord <lb/>
+give thee understanding in all <lb/>
+                  <fw type="pageNum">4</fw>
+                  <pb n="4"/>
+                  <lb/>
+things: To <normalised orig="beginne" auto="true">begin</normalised> with the <lb/>
+latter; No man can say but the <lb/>
+Church of Rome holds some <lb/>
+Truths; those truths are Gods, <lb/>
+and in his right, ours; why should <lb/>
+not wee challenge our <normalised orig="owne" auto="true">own</normalised>, <lb/>
+wheresoever we <normalised orig="finde" auto="true">find</normalised> it? If a <normalised orig="verie" auto="true">very</normalised> <lb/>
+<normalised orig="Devill" auto="true">Devil</normalised> shall say of Christ, Thou <lb/>
+art the <normalised orig="Sonne" auto="true">Son</normalised> of the living God, wee <lb/>
+will snatch this truth out of his <lb/>
+mouth, as usurped; and in <normalised orig="spight" auto="true">spite</normalised> <lb/>
+of him, <normalised orig="proclaime" auto="true">proclaim</normalised> it for our own. <lb/>
+Indeed, there is no communion <lb/>
+betwixt light and <normalised orig="darknesse" auto="true">darkness</normalised>; but <lb/>
+there is communion betwixt <lb/>
+light and light; Now all truth is <lb/>
+light, and therefore <normalised orig="symbolizeth" auto="false">symbolizes</normalised> <lb/>
+with it <normalised orig="selfe" auto="true">self</normalised>. With that light, <lb/>
+therefore, whose glimmering yet <lb/>
+<normalised orig="remaines" auto="true">remains</normalised> in their <normalised orig="darknesse" auto="true">darkness</normalised>, our <lb/>
+clearer light will, and must hold <lb/>
+                  <fw type="pageNum">5</fw>
+                  <pb n="5"/> 
+                  <lb/>
+communion; If they <normalised orig="professe" auto="true">profess</normalised> <lb/>
+three Persons in one <normalised orig="Godhead" auto="true">Godhood</normalised>; <lb/>
+two natures in one person of <lb/>
+Christ; shall we <normalised orig="detrect" auto="false">detract</normalised> to <normalised orig="joine" auto="true">join</normalised> <lb/>
+with them in this Christian <normalised orig="veritie" auto="true">verity</normalised>? <lb/>
+We <normalised orig="abhorre" auto="true">abhor</normalised> to have any communion <lb/>
+with them in their errors, <lb/>
+in their idolatrous or superstitious <lb/>
+practices, these are their <lb/>
+<normalised orig="owne" auto="true">own</normalised>, not ours. If we durst have <lb/>
+taken their part in these, this breach <lb/>
+had not <normalised orig="beene" auto="true">been</normalised>; Now, who can <lb/>
+but say that we must hate their <normalised orig="evill" auto="true">evil</normalised>, <lb/>
+and allow their good? It is no <lb/>
+countenance to their <normalised orig="errours" auto="true">errors</normalised> that <lb/>
+wee embrace our <normalised orig="owne" auto="true">own</normalised> truths; <lb/>
+It is no disparagement to our <lb/>
+truths, that they have blended <lb/>
+them with their errors: Here can <lb/>
+be no difference, then, if this communion <lb/>
+<normalised orig="bee" auto="true">be</normalised> not mis-taken; no <lb/>
+                  <fw type="pageNum">6</fw>
+                  <pb n="6"/> 
+                  <lb/>
+man will say that wee may sever <lb/>
+from their common truths; No <lb/>
+man will say that wee may <normalised orig="joyne" auto="true">join</normalised> <lb/>
+with them in their <normalised orig="hatefull" auto="true">hateful</normalised> <normalised orig="errours" auto="true">errors</normalised>. <lb/>
+For the former; <normalised orig="Hee" auto="true">He</normalised> that saith <lb/>
+a <normalised orig="theefe" auto="true">thief</normalised> is truly a man, <normalised orig="doth" auto="true">does</normalised> <normalised orig="hee" auto="true">he</normalised> <lb/>
+therein favour that <normalised orig="theefe" auto="true">thief</normalised>? He that <lb/>
+saith, a diseased, dropsied, dying <lb/>
+<normalised orig="bodie" auto="true">body</normalised>, is a true (though corrupt) <lb/>
+body, <normalised orig="doth" auto="true">does</normalised> he favour that disease, <lb/>
+or that living <normalised orig="carcasse" auto="true">carcass</normalised>? It is no other, <lb/>
+no more that I say of the <lb/>
+Church of Rome: <normalised orig="Truenesse" auto="true">Trueness</normalised> of <lb/>
+being, and outward visibility, are <lb/>
+no praise to her; Yea, these are aggravations <lb/>
+to her <normalised orig="falshood" auto="true">falsehood</normalised>: The <lb/>
+advantage that is both sought and <lb/>
+found in this assertion, is <normalised orig="onely" auto="true">only</normalised> <lb/>
+ours; as we shall see in the <normalised orig="sequell" auto="true">sequel</normalised>, <lb/>
+without any danger of their gain. <lb/>
+                  <fw type="pageNum">7</fw>
+                  <pb n="7"/> 
+                  <lb/>
+I say, then, that she is a true church, <lb/>
+but, I say <normalised orig="withall" auto="true">withal</normalised>, <normalised orig="shee" auto="true">she</normalised> is a false <lb/>
+Church: True in existence, but <lb/>
+false in <normalised orig="beleefe" auto="true">belief</normalised>: Let not the <normalised orig="homonymie" auto="false">homonymy</normalised> <lb/>
+of a word breed jarres, <lb/>
+where the sense is accorded: If <lb/>
+we <normalised orig="doe" auto="true">do</normalised> not <normalised orig="yeeld" auto="true">yield</normalised> her the true being <lb/>
+of a Church, why do we call <lb/>
+her the Church of Rome? What <lb/>
+<normalised orig="speake" auto="true">speak</normalised> we of? or where is the subject <lb/>
+of our question? who sees <lb/>
+not that there is a <normalised orig="morall" auto="true">moral</normalised> trueness, <lb/>
+and a <normalised orig="naturall" auto="true">natural</normalised>? He that is morally <lb/>
+the falsest man, is, in nature, as <lb/>
+truly a man, as the honestest; and <lb/>
+therefore in this regard as true a <lb/>
+man: In the same sense therefore <lb/>
+that wee say the <normalised orig="Devill" auto="true">Devil</normalised> is a true <lb/>
+(though false) spirit; that a cheater <lb/>
+is a true (<normalised orig="thogh" auto="true">though</normalised> false) man, we may <lb/>
+and must say, that the Church of <lb/>
+                  <fw type="pageNum">8</fw>
+                  <pb n="8"/> 
+                  <lb/>
+Rome us a true (though false) <lb/>
+Church; <normalised orig="Certainely" auto="true">Certainly</normalised>, there <normalised orig="hath" auto="true">has</normalised> <lb/>
+<normalised orig="beene" auto="true">been</normalised> a true <normalised orig="errour" auto="true">error</normalised>, and mis-taking <lb/>
+of the sense that is <normalised orig="guiltie" auto="true">guilty</normalised> of <lb/>
+this <normalised orig="quarrell" auto="true">quarrel</normalised>. As for the visibility, <lb/>
+there can be no question: Would <lb/>
+God, that Church did not too <lb/>
+much fill our <normalised orig="eie" auto="true">eye</normalised>, yea the world; <lb/>
+There is nothing wherein it <normalised orig="doth" auto="true">does</normalised>  <lb/>
+more pride it <normalised orig="selfe" auto="true">self</normalised>, that in a glorious <lb/>
+<normalised orig="conspicuitie" auto="false">conspicuity</normalised>, scorning, in <lb/>
+this regard, the obscure <normalised orig="paucitie" auto="false">paucity</normalised> <lb/>
+of their opposers. <lb/>
+But you say, What is this but <lb/>
+to play with ambiguities; That <lb/>
+the Church of Rome is it <normalised orig="selfe" auto="true">self</normalised>, <lb/>
+that is, a Church; that it is visible; <lb/>
+that it is truly existent, there can <lb/>
+be no <choice ana="typeset-error">
+                     <sic/>
+                     <corr>doubt</corr>
+                  </choice>; but is it still a part <lb/>
+of the truly existent, visible church <lb/>
+of Christ? Surely, no otherwise <lb/>
+                  <pb n="9"/>
+                  <lb/>
+than an <normalised orig="hereticall" auto="true">heretical</normalised> and <normalised orig="Apostaticall" auto="false">Apostatical</normalised> <lb/>
+Church is, and may be: Reader, <lb/>
+whosoever thou art, for Gods <lb/>
+sake, for thy <normalised orig="soules" auto="true">souls</normalised> sake, <normalised orig="marke" auto="true">mark</normalised> <lb/>
+where thou <normalised orig="treadest" auto="true">treads</normalised>; Else thou <lb/>
+shalt <normalised orig="bee" auto="true">be</normalised> sure to fall either into an <lb/>
+open <normalised orig="gulfe" auto="true">gulf</normalised> of <normalised orig="uncharitablenesse" auto="false">uncharitableness</normalised>, <lb/>
+or into a dangerous precipice of <lb/>
+<normalised orig="errour" auto="true">error</normalised>. There is no <normalised orig="feare" auto="true">fear</normalised>, nor favour <lb/>
+to say, that the Church of <lb/>
+Rome, under a Christian face, <lb/>
+<normalised orig="hath" auto="true">has</normalised> an Antichristian heart; overturning <lb/>
+that foundation by <normalised orig="necessarie" auto="true">necessary</normalised> <lb/>
+inferences, which by open <lb/>
+profession it <normalised orig="avoweth" auto="false">avows</normalised>: That face,<lb/>
+that profession, those avowed <lb/>
+principles are enough to give it <lb/>
+<normalised orig="claime" auto="true">claim</normalised> to a true outward <normalised orig="visibilitie" auto="false">visibility</normalised> <lb/>
+of a Christian Church; whiles <lb/>
+those damnable inferences are enough <lb/>
+to <normalised orig="feoffe" auto="false">fife</normalised> it in the true style <lb/>
+                  <fw type="pageNum">10</fw>
+                  <pb n="10"/> 
+                  <lb/>
+of <normalised orig="heresie" auto="true">heresy</normalised>, and <normalised orig="Antichristianisme" auto="false">Antichristianism</normalised>; <lb/>
+Now, this <normalised orig="heresie" auto="true">heresy</normalised>, this <normalised orig="Antichristianisme" auto="false">Antichristianism</normalised> <lb/>
+makes Rome justly odious, <lb/>
+and execrable to God, to Angels, <lb/>
+and Men; but cannot utterly <lb/>
+dischurch it, whiles those main <lb/>
+principles <normalised orig="maintaine" auto="true">maintain</normalised> a <normalised orig="weake" auto="true">weak</normalised> life <lb/>
+in that <normalised orig="crazie" auto="false">crazy</normalised>, and corrupted <lb/>
+<normalised orig="bodie" auto="true">body</normalised>. <lb/>
+But is not this language different <lb/>
+from that whereto our <normalised orig="eares" auto="true">ears</normalised> <lb/>
+and <normalised orig="eies" auto="true">eyes</normalised> have <normalised orig="beene" auto="true">been</normalised> inured, from <lb/>
+the <normalised orig="mouthes" auto="true">mouths</normalised>, and pens of some <lb/>
+reverend Divines and professors <lb/>
+of our Church? Know, Reader, <lb/>
+that the <normalised orig="streame" auto="true">stream</normalised> of the famous <lb/>
+Doctors, both at home, and abroad, <lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="runne" auto="true">run</normalised> strongly my <lb/>
+way: I should have feared, and <lb/>
+hated to <normalised orig="goe" auto="true">go</normalised> alone; what reason <lb/>
+is there then to single out one man <lb/>
+                  <lb/>
+                  <fw type="pageNum">B</fw>
+                  <pb n="11"/> 
+                  <lb/>
+in a throng? Some few <normalised orig="worthie" auto="true">worthy</normalised> <lb/>
+Authors have spoken otherwise, <lb/>
+in the warmth of their zealous <lb/>
+contention; yet so, as that even to <lb/>
+them durst I <normalised orig="appeale" auto="true">appeal</normalised> for my <normalised orig="Iudges" auto="true">Judges</normalised>; <lb/>
+for if their sound differ from <lb/>
+me, their sense agrees with <normalised orig="mee" auto="true">me</normalised>: <lb/>
+that, which as I touched in my <lb/>
+Advertisement, so I am now <normalised orig="readie" auto="true">ready</normalised> <lb/>
+to make <normalised orig="cleare" auto="true">clear</normalised> by the instance <lb/>
+of learned Zanchius; whose pregnant <lb/>
+testimonies compared together, <lb/>
+shall plainly teach us, how <lb/>
+<normalised orig="easie" auto="true">easy</normalised> a reconcilement may <normalised orig="bee" auto="true">be</normalised> <lb/>
+made betwixt these two, seemingly <lb/>
+<normalised orig="contrarie" auto="true">contrary</normalised>, opinions: That <normalised orig="worthie" auto="true">worthy</normalised> <lb/>
+Author, in his profession of <lb/>
+Christian Religion, which <normalised orig="hee" auto="true">he</normalised> <lb/>
+wrote, and published, in the 70. <lb/>
+<normalised orig="yeare" auto="true">year</normalised> of his age, having defined <lb/>
+the Church of Christ in <normalised orig="generall" auto="true">general</normalised>, <lb/>
+                  <fw type="pageNum">12</fw>
+                  <pb n="12"/> 
+                  <lb/>
+and passed <normalised orig="thorow" auto="false">through</normalised> the properties <lb/>
+of it, at last, descending to the subdivision <lb/>
+of the Church militant, <lb/>
+comes to inquire, how particular <lb/>
+Churches may be <normalised orig="knowne" auto="true">known</normalised> to be <lb/>
+the true churches of Christ; whereof <lb/>
+he determines thus. Illas igitur, <lb/>
+&amp;c. Those Churches therefore <lb/>
+<normalised orig="doe" auto="true">do</normalised> wee acknowledge for the <lb/>
+true Churches of Christ; in which <lb/>
+first of all, the pure doctrine of the <lb/>
+<normalised orig="Gospell" auto="true">Gospel</normalised> is preached, heard, admitted; <lb/>
+and so <normalised orig="onely" auto="true">only</normalised> admitted, that <lb/>
+there is neither place, nor <normalised orig="eare" auto="true">ear</normalised> given <lb/>
+to the <normalised orig="contrarie" auto="true">contrary</normalised>: For both <lb/>
+these are the just <normalised orig="propertie" auto="true">property</normalised> of the <lb/>
+<normalised orig="flocke" auto="true">flock</normalised> or <normalised orig="sheepe" auto="true">sheep</normalised> of Christ; namely, <lb/>
+both to <normalised orig="heare" auto="true">hear</normalised> the voice of their <lb/>
+<normalised orig="owne" auto="true">own</normalised> Pastor, and to reject the <lb/>
+voice of strangers. <normalised orig="Jn" auto="true">In</normalised> 10.4 In <lb/>
+which, secondly, the Sacraments <lb/>
+                  <lb/>
+                  <fw type="pageNum">B 2</fw>
+                  <pb n="13"/> 
+                  <lb/>
+instituted by Christ, are lawfully; <lb/>
+and (as much as may <normalised orig="bee" auto="true">be</normalised>) according <lb/>
+to Christs institution, <normalised orig="administred" auto="true">administered</normalised>, <lb/>
+and received; and therefore, <lb/>
+in which the Sacraments <lb/>
+devised by men are not admitted,<lb/>
+and allowed; In which lastly, the <lb/>
+discipline of Christ <normalised orig="hath" auto="true">has</normalised> the due <lb/>
+place, that is, where both <normalised orig="publiquely" auto="true">publicly</normalised>, <lb/>
+and privately, charitable <lb/>
+care is had, both by admonitions, <lb/>
+corrections, and at last (if need be) <lb/>
+by excommunications, that the <lb/>
+<normalised orig="Commandements" auto="true">Commandments</normalised> of God be duly <lb/>
+kept, and that all persons live <lb/>
+soberly, justly, and piously, to the <lb/>
+<normalised orig="glorie" auto="true">glory</normalised> of God, and edification of <lb/>
+their Neighbour. Thus <normalised orig="hee" auto="true">he</normalised>; <lb/>
+wherein; who sees not how directly <lb/>
+he <normalised orig="aimes" auto="true">aims</normalised>, both at the justifying <lb/>
+of our Churches, and the <lb/>
+                  <fw type="pageNum">14</fw>
+                  <pb n="14"/> 
+                  <lb/>
+<normalised orig="casheering" auto="true">cashiering</normalised> of the Roman, which <lb/>
+is palpably <normalised orig="guiltie" auto="true">guilty</normalised> of the violation <lb/>
+of these <normalised orig="wholsome" auto="true">wholesome</normalised> rules? and indeed, <lb/>
+it must needs be said, if we <lb/>
+bring the Roman Church to this <lb/>
+touch, she is cast for a <normalised orig="meer" auto="true">mere</normalised> counterfeit; <lb/>
+<normalised orig="shee" auto="true">she</normalised> is as <normalised orig="farre" auto="true">far</normalised> from truth, <lb/>
+as truth is from <normalised orig="falshood" auto="true">falsehood</normalised>: Now <lb/>
+by this time you <normalised orig="goe" auto="true">go</normalised> away with <lb/>
+an opinion that learned Zanchie <lb/>
+is my professed <normalised orig="adversarie" auto="true">adversary</normalised>, and <lb/>
+<normalised orig="hath" auto="true">has</normalised> directly condemned my position, <lb/>
+of the <normalised orig="truenesse" auto="true">trueness</normalised>, and <normalised orig="visibilitie" auto="false">visibility</normalised> <lb/>
+of the Roman Church: Have <lb/>
+but patience, I beseech you, to read <lb/>
+what the same excellent Author <lb/>
+writes, in his golden Preface to <lb/>
+that <normalised orig="nobleworke" auto="false">noblework</normalised>, De natura Dei; <lb/>
+where this question is clearly and <lb/>
+punctually decided. There you <lb/>
+shall <normalised orig="finde" auto="true">find</normalised>, that having passed <lb/>
+                  <lb/>
+                  <fw type="pageNum">B 3</fw>
+                  <pb n="15"/> 
+                  <lb/>
+through the <normalised orig="wofull" auto="true">woeful</normalised> and <normalised orig="gloomie" auto="true">gloomy</normalised> <lb/>
+offuscations of the Church of <lb/>
+God, in all former ages, he, descending <lb/>
+to the <normalised orig="darknesse" auto="true">darkness</normalised> of the present <lb/>
+Babylon, concludes thus <choice ana="illegible">
+                     <sic/>
+                     <corr>a</corr>
+                  </choice> 
+                  <lb/>
+                  Deinde non potuit Satan, &amp;c. Moreover; <lb/>
+Satan could not, in the <normalised orig="verie" auto="true">very</normalised> <lb/>
+Roman Church, <normalised orig="doe" auto="true">do</normalised> what he listed, <lb/>
+as <normalised orig="hee" auto="true">he</normalised> had done in the <normalised orig="Easterne" auto="true">Eastern</normalised>; <lb/>
+to bring all things to such <lb/>
+<normalised orig="passe" auto="true">pass</normalised>, as that it should no more <lb/>
+have the <normalised orig="forme" auto="true">form</normalised> of a Christian <lb/>
+Church; For, in <normalised orig="spight" auto="true">spite</normalised> of Satan, <lb/>
+that Church retained still the chief <lb/>
+foundations of the faith, although <lb/>
+<normalised orig="weakned" auto="true">weakened</normalised> with the doctrines of <lb/>
+men; it retained the <normalised orig="publique" auto="true">public</normalised> preaching <lb/>
+of the word of God, <normalised orig="thogh" auto="true">though</normalised> <lb/>
+in many places <normalised orig="mis-understood" auto="true">misunderstood</normalised>, <lb/>
+and mis-construed; the invocation <lb/>
+of the name of Christ, though <lb/>
+                  <pb n="16"/> 
+                  <lb/>
+<normalised orig="joyned" auto="true">joined</normalised> also with the invocation <lb/>
+of dead men; the administration <lb/>
+of <normalised orig="Baptisme" auto="true">Baptism</normalised>, instituted by Christ <lb/>
+<normalised orig="himselfe" auto="true">himself</normalised>, howsoever defiled with <lb/>
+the addition of many superstitions. <lb/>
+So as, together with the <normalised orig="symbole" auto="true">symbol</normalised> <lb/>
+of the covenant, the Covenant <lb/>
+it <normalised orig="selfe" auto="true">self</normalised> remained still in her; <lb/>
+I mean in all the Churches of the <lb/>
+West, no otherwise than it did in <lb/>
+the Church of Israel, even after <lb/>
+that all things were in part profaned <lb/>
+by <normalised orig="Ieroboam" auto="true">Jeroboam</normalised>, and other impious, <lb/>
+and idolatrous Kings, upon <lb/>
+the defection made by them from <lb/>
+the Church, and Tribe of <normalised orig="Iuda" auto="true">Juda</normalised>; <lb/>
+For, neither <normalised orig="doe" auto="true">do</normalised> I assent to them <lb/>
+which would have the Church <lb/>
+of Rome to have no <normalised orig="lesse" auto="true">less</normalised> ceased <lb/>
+to be the Church of Christ, than <lb/>
+those <normalised orig="Easterne" auto="true">Eastern</normalised> Churches, which <lb/>
+                  <lb/>
+                  <fw type="pageNum">B 4</fw>
+                  <pb n="17"/> 
+                  <lb/>
+afterwards turned Mahumetan; <lb/>
+what Church was ever more <lb/>
+corrupt than the Church of the <lb/>
+ten Tribes, yet we <normalised orig="learne" auto="true">learn</normalised> from the <lb/>
+Scriptures, that it was still the <lb/>
+Church of God? And how <normalised orig="doth" auto="true">does</normalised> <lb/>
+Saint Paul call that Church, wherein <lb/>
+Antichrist (<normalised orig="hee" auto="true">he</normalised> saith) shall sit, <lb/>
+the Temple of God? neither is it <lb/>
+any <normalised orig="Baptisme" auto="true">Baptism</normalised> at all, that is <normalised orig="administred" auto="true">administered</normalised> <lb/>
+out of the Church of Christ. <lb/>
+The wife that is an <normalised orig="Adulteresse" auto="true">Adulteress</normalised>, <lb/>
+<normalised orig="doth" auto="true">does</normalised> not cease to be a wife, unless <lb/>
+being despoiled of her <normalised orig="mariagering" auto="false">marriagering</normalised>, <lb/>
+she be manifestly divorced: <lb/>
+The Church of Rome, therefore, <lb/>
+is yet the Church of Christ; but <lb/>
+what manner of Church? Surely <lb/>
+so corrupted and depraved, and <lb/>
+with so great <normalised orig="tyrannie" auto="true">tyranny</normalised> oppressed; <lb/>
+that you can neither, with a good <lb/>
+                  <fw type="pageNum">18</fw>
+                  <pb n="18"/> 
+                  <lb/>
+conscience, partake with them, in <lb/>
+their holy things, nor safely dwell <lb/>
+amongst them. Thus he <normalised orig="againe" auto="true">again</normalised>; <lb/>
+wherein you see <normalised orig="hee" auto="true">he</normalised> <normalised orig="speakes" auto="true">speaks</normalised> as <lb/>
+home for me, as I could devise to <lb/>
+<normalised orig="speake" auto="true">speak</normalised> for my <normalised orig="selfe" auto="true">self</normalised>, and as appositely <lb/>
+<normalised orig="professeth" auto="true">professes</normalised> to oppose the <lb/>
+<normalised orig="contrarie" auto="true">contrary</normalised>. <lb/>
+<normalised orig="Looke" auto="true">Look</normalised>, now, how this learned <lb/>
+Author may be reconciled to his <lb/>
+<normalised orig="owne" auto="true">own</normalised> pen; and by the <normalised orig="verie" auto="true">very</normalised> same <lb/>
+way, shall my pen <normalised orig="bee" auto="true">be</normalised> reconciled <lb/>
+with others. Either he agrees not <lb/>
+with <normalised orig="himselfe" auto="true">himself</normalised>, or else, in his sense, <lb/>
+I agree with my gainsayers. Nothing <lb/>
+is more <normalised orig="plaine" auto="true">plain</normalised>, then that <normalised orig="hee" auto="true">he</normalised> <lb/>
+in that former speech, and all other <lb/>
+<normalised orig="classick" auto="true">classic</normalised> Authors, that <normalised orig="speake" auto="true">speak</normalised> <lb/>
+in that Key, <normalised orig="meane" auto="true">mean</normalised>, by a True <lb/>
+Church, a sound, pure, right <normalised orig="beleeving" auto="true">believing</normalised> <lb/>
+Church, so as their vera is <lb/>
+                  <pb n="19"/> 
+                  <lb/>
+rather verax: Zanchie explicates <lb/>
+the <normalised orig="terme" auto="true">term</normalised>, whiles he joines veram <lb/>
+&amp; puram together; so as in this <lb/>
+construction, it is no true Church <lb/>
+that is an unsound one; as if truth <lb/>
+of existence were all one with <lb/>
+truth of doctrine: In this sense, <lb/>
+whosoever shall say the Church <lb/>
+of Rome is a true Church, I say he <lb/>
+calls <normalised orig="evill" auto="true">evil</normalised> good, and is no better <lb/>
+than a teacher of lies. But, if we <lb/>
+measure the true being of a visible <lb/>
+Church, by the direct maintenance <lb/>
+of <normalised orig="fundamentall" auto="true">fundamental</normalised> principles, <lb/>
+though by consequences indirectly <lb/>
+overturned, and by the possession <lb/>
+of the word of God, and his <lb/>
+Sacraments, though not without <lb/>
+<normalised orig="foule" auto="true">foul</normalised> adulteration, what judicious <lb/>
+Christian can but, with <normalised orig="mee" auto="true">me</normalised>, <lb/>
+subscribe to learned Zanchius, that <lb/>
+                  <pb n="20"/> 
+                  <lb/>
+the Church of Rome <normalised orig="hath" auto="true">has</normalised> yet the <lb/>
+true <normalised orig="visibilitie" auto="false">visibility</normalised> of a Church of <lb/>
+Christ: what should I need to <lb/>
+press the latitude, and multiplicity <lb/>
+of sense of the word, Church; <lb/>
+there is no one term that I know, <lb/>
+in all use of speech, so various; If, <lb/>
+in a large sense, it be taken to comprehend <lb/>
+the society of all that <normalised orig="professe" auto="true">profess</normalised> <lb/>
+Christian Religion, through <lb/>
+the whole world, howsoever impured, <lb/>
+who can <normalised orig="denie" auto="true">deny</normalised> this title to <lb/>
+the Roman? If, in a strict sense, it <lb/>
+be taken (as it is by Zanchius here, <lb/>
+and all those Divines who refuse <lb/>
+to give this style to the Synagogue <lb/>
+of Rome) for the <normalised orig="companie" auto="true">company</normalised> of elect <lb/>
+<normalised orig="faithfull" auto="true">faithful</normalised> men gathered into <lb/>
+one <normalised orig="mysticall" auto="true">mystical</normalised> <normalised orig="bodie" auto="true">body</normalised> under one <lb/>
+head, Christ; washed by his blood, <lb/>
+justified by his merits, sanctified <lb/>
+                  <fw type="pageNum">21</fw>
+                  <pb n="21"/> 
+                  <lb/>
+by his Spirit, <normalised orig="conscionablie" auto="false">conscionably</normalised> waiting <lb/>
+upon the true ordinances of <lb/>
+God, in his pure Word, and <normalised orig="holie" auto="true">holy</normalised> <lb/>
+<normalised orig="Sacrame~ts" auto="true">Sacraments</normalised>, who can be so <normalised orig="shamelesse" auto="true">shameless</normalised>, <lb/>
+as to give this title to the Roman <lb/>
+Church? Both these sentences, <lb/>
+then, are equally true; The <lb/>
+Church of Rome is yet a true Church, <lb/>
+in the first sense; The Church of Rome <lb/>
+long since ceased to <normalised orig="bee" auto="true">be</normalised> a true Church <lb/>
+in the second. As those friendly <normalised orig="souldiers" auto="true">soldiers</normalised> <lb/>
+therefore, of old, said to their <lb/>
+<normalised orig="fellowes" auto="true">fellows</normalised> (<foreign ana="omitted"/>) why fight <lb/>
+we? Stay, stay, <normalised orig="deare" auto="true">dear</normalised> brethren, for <lb/>
+Gods sake, for his Churches sake, <lb/>
+for your <normalised orig="soules" auto="true">souls</normalised> sake, stay <choice ana="illegible">
+                     <sic>th*<normalised orig="se" auto="true">see</normalised></sic>
+                     <corr>these</corr>
+                  </choice> <normalised orig="busie" auto="true">busy</normalised> <lb/>
+and unprofitable litigations;<lb/>
+put upon both sides, your <normalised orig="angrie" auto="true">angry</normalised> <lb/>
+pens; <normalised orig="Turne" auto="true">Turn</normalised> your Swords into <lb/>
+                  <choice ana="illegible">
+                     <sic><normalised orig="Sithe" auto="true">Sith</normalised>*</sic>
+                     <corr>Sithes</corr>
+                  </choice> to cut <normalised orig="downe" auto="true">down</normalised> the <normalised orig="ranke" auto="true">rank</normalised><lb/>
+                  <choice ana="illegible">
+                     <sic>co*up*io~s</sic>
+                     <corr><normalised orig="corruptio~s" auto="false">corruptions</normalised></corr>
+                  </choice> of the Roman church; <lb/>
+                  <pb n="22"/> 
+                  <lb/>
+and your <normalised orig="Speares" auto="true">Spears</normalised> into Mattockes, <lb/>
+to beat <normalised orig="downe" auto="true">down</normalised> the walls of this <lb/>
+<normalised orig="mysticall" auto="true">mystical</normalised> Babylon; There are enemies <lb/>
+<normalised orig="enow" auto="true">enough</normalised> abroad, Let us <normalised orig="bee" auto="true">be</normalised> <lb/>
+friends at home; But if our sense <lb/>
+be the same, you will <normalised orig="aske" auto="true">ask</normalised>, why <lb/>
+our <normalised orig="termes" auto="true">terms</normalised> <normalised orig="varie" auto="true">vary</normalised>, and why wee <lb/>
+have chosen to fall upon that manner <lb/>
+of expression, which gives advantage <lb/>
+to the <normalised orig="Adversarie" auto="true">Adversary</normalised>, offence <lb/>
+to our <normalised orig="owne" auto="true">own</normalised>? Christian Reader, <lb/>
+let me beseech thee, in the bowels <lb/>
+of Christ, to weigh well this matter, <lb/>
+and then tell me why such offence, <lb/>
+such advantage should <normalised orig="bee" auto="true">be</normalised> <lb/>
+rather given by my words, than <lb/>
+by the same words, in the mouth <lb/>
+of Luther, of Calvin, of Zanchie, Iunius, <lb/>
+Plessee, Hooker, <normalised orig="Andrewes" auto="true">Andrews</normalised>, <lb/>
+Field, Crakenthorpe, Bedel, and that <lb/>
+whole cloud of learned and pious <lb/>
+                  <fw type="pageNum">23</fw>
+                  <pb n="23"/> 
+                  <lb/>
+Authors, who have, without <lb/>
+<normalised orig="exceptio~" auto="false">exception</normalised>, used the same language? <lb/>
+And why more by my words, <lb/>
+now, than <normalised orig="twentie" auto="true">twenty</normalised> years <normalised orig="agoe" auto="true">ago</normalised>, at <lb/>
+which time I published the same <lb/>
+truth, in a more <normalised orig="ful" auto="true">full</normalised> and <normalised orig="liberall" auto="true">liberal</normalised> expression. <lb/>
+Wise and charitable <lb/>
+Christians may not be apt to take <lb/>
+offence where none is given. As <lb/>
+for <normalised orig="anie" auto="true">any</normalised> advantage that is hereby <lb/>
+given to the Adversaries, they <lb/>
+may put it in their eye, and see never <lb/>
+the worse. <normalised orig="Loe" auto="true">Lo</normalised>, say they, <lb/>
+we are of the true visible Church; <lb/>
+this is enough for us; why are we <lb/>
+forsaken, why are we persecuted, <lb/>
+why are we solicited to a change? <lb/>
+Alas, <normalised orig="poore" auto="true">poor</normalised> <normalised orig="soules" auto="true">souls</normalised>, <normalised orig="doe" auto="true">do</normalised> they not <lb/>
+know, that Hypocrites, <normalised orig="leud" auto="true">lewd</normalised> persons, <lb/>
+reprobates, are no <normalised orig="lesse" auto="true">less</normalised> members <lb/>
+of the true visible Church? <lb/>
+                  <fw type="pageNum">24</fw>
+                  <pb n="24"/> 
+                  <lb/>
+what <normalised orig="gaine" auto="true">gain</normalised> they by this but a deeper <lb/>
+damnation? To what purpose <lb/>
+did the <normalised orig="Iewes" auto="true">Jews</normalised> <normalised orig="crie" auto="true">cry</normalised>, The Temple <lb/>
+of the Lord, whiles they <normalised orig="despighted" auto="true">despited</normalised> <lb/>
+the Lord of that Temple? Is <lb/>
+the sea-weed ever the <normalised orig="lesse" auto="true">less</normalised> vile, because <lb/>
+it is <normalised orig="dragd" auto="false">dragged</normalised> up together with <lb/>
+good fish? They are of the visible <lb/>
+Church, such as it is; what is this <lb/>
+but to say, they are neither <normalised orig="Iewes" auto="true">Jews</normalised>, <lb/>
+nor <normalised orig="Turkes" auto="true">Turks</normalised>, nor Pagans; but <normalised orig="misbeleevers" auto="false">misbelievers</normalised>, <lb/>
+<normalised orig="damnablie" auto="false">damnably</normalised> <normalised orig="hereticall" auto="true">heretical</normalised> in <lb/>
+opinion, <normalised orig="shamefullie" auto="false">shamefully</normalised> idolatrous <lb/>
+in practice; Let them make their <lb/>
+best of this just <normalised orig="Elogie" auto="true">Elegy</normalised>; and triumph <lb/>
+in this style; may we never <lb/>
+prosper if we <normalised orig="envie" auto="true">envy</normalised> them this <normalised orig="glorie" auto="true">glory</normalised>: <lb/>
+Our care shall be, that besides <lb/>
+the Church sensible, (as Zuinglius <lb/>
+<normalised orig="distinguisheth" auto="true">distinguishes</normalised>) we may be of the <lb/>
+Church <normalised orig="spirituall" auto="true">spiritual</normalised>; and not resting <lb/>
+                  <fw type="pageNum">25</fw>
+                  <pb n="25"/> 
+                  <lb/>
+in a <normalised orig="fruitlesse" auto="true">fruitless</normalised> <normalised orig="visibilitie" auto="false">visibility</normalised>, wee may <lb/>
+<normalised orig="finde" auto="true">find</normalised> our selves <normalised orig="livelie" auto="false">lively</normalised> <normalised orig="limbes" auto="true">limbs</normalised> of <lb/>
+the mystical body of Christ; which <lb/>
+<normalised orig="onelie" auto="true">only</normalised> condition shall give us a <lb/>
+true right to heaven; whiles fashionable <lb/>
+profession, in vain cries, <lb/>
+Lord, Lord, and is barred out of <lb/>
+those blessed gates, with an, I know <lb/>
+you not. <lb/>
+Neither may the Reader think, <lb/>
+that I affect to <normalised orig="goe" auto="true">go</normalised> <normalised orig="by-waies" auto="false">by-ways</normalised> of <lb/>
+speech: no, I had not taken this <lb/>
+path, <normalised orig="unlesse" auto="true">unless</normalised> I had found it both <lb/>
+more beaten, and fairer: I am not <lb/>
+so unwise, to teach the <normalised orig="Adversarie" auto="true">Adversary</normalised> <lb/>
+what disadvantage I conceive to <lb/>
+be given to our most just cause, by <lb/>
+the other manner of explication. <lb/>
+Let it suffice to say, that this form <lb/>
+of defence more fully stops the adversaries <lb/>
+mouth in those two <lb/>
+                  <fw type="pageNum">26</fw>
+                  <pb n="26"/> 
+                  <lb/>
+maine and envious scandals, <lb/>
+<normalised orig="wich" auto="true">which</normalised> <normalised orig="hee" auto="true">he</normalised> casts upon our holy <lb/>
+Religion, Defection from the <lb/>
+Church, and Innovation; than <lb/>
+which, no suggestion <normalised orig="hath" auto="true">has</normalised> wont <lb/>
+to <normalised orig="bee" auto="true">be</normalised> more prevalent with <lb/>
+<normalised orig="weake" auto="true">weak</normalised>, and ungrounded hearts, <lb/>
+what wee further win by this, <lb/>
+not more charitable, than safe <lb/>
+Tenet, I had rather it should be <lb/>
+silently conceived by the judicious, <lb/>
+then blazoned by my <lb/>
+free <normalised orig="penne" auto="true">pen</normalised>; shortly, in this state <lb/>
+of the question, our <normalised orig="gaine" auto="true">gain</normalised> is as <lb/>
+<normalised orig="cleare" auto="true">clear</normalised>, as the Adversaries <normalised orig="losse" auto="true">loss</normalised>: <lb/>
+our ancient Truth <normalised orig="triumphes" auto="true">triumphs</normalised> <lb/>
+over their upstart <normalised orig="errours" auto="true">errors</normalised>, our <lb/>
+<normalised orig="charitie" auto="true">charity</normalised> over their <normalised orig="mercilesse" auto="true">merciless</normalised> presumptions; <lb/>
+<normalised orig="Feare" auto="true">Fear</normalised> not therefore, <lb/>
+<normalised orig="deare" auto="true">dear</normalised> brethren, where there is <lb/>
+                  <lb/>
+                  <fw type="pageNum">C</fw>
+                  <pb n="27"/> 
+                  <lb/>
+no <normalised orig="roome" auto="true">room</normalised> for danger; Suspect <lb/>
+not fraud where there is nothing <lb/>
+but <normalised orig="plaine" auto="true">plain</normalised>, honest, <normalised orig="simplicitie" auto="true">simplicity</normalised> <lb/>
+of intentions; censure <lb/>
+not where there is the same <lb/>
+Truth, clad in a different, but <lb/>
+more <normalised orig="easie" auto="true">easy</normalised> <normalised orig="habite" auto="true">habit</normalised> of words; <lb/>
+But if any mans fervent <normalised orig="zeale" auto="true">zeal</normalised> <lb/>
+shall rather draw him to the liking <lb/>
+of that other, rougher, and <lb/>
+harder way, so as in the <normalised orig="meane" auto="true">mean</normalised> <lb/>
+time he <normalised orig="keepe" auto="true">keep</normalised> within the bounds <lb/>
+of Christian <normalised orig="charitie" auto="true">charity</normalised>, I <normalised orig="taxe" auto="true">tax</normalised> him <lb/>
+not; let <normalised orig="everie" auto="true">every</normalised> man abound in <lb/>
+his <normalised orig="owne" auto="true">own</normalised> sense; <normalised orig="Onely" auto="true">Only</normalised> let our <lb/>
+hearts, and tongues, and hands, <lb/>
+conspire together in peace with <lb/>
+our selves, in <normalised orig="warre" auto="true">war</normalised> with our <lb/>
+common enemies. <lb/>
+Thus <normalised orig="farre" auto="true">far</normalised> have I (Right Honourable) <lb/>
+                  <fw type="pageNum">28</fw>
+                  <pb n="28"/> 
+                  <lb/>
+in a desire of peace, <lb/>
+poured out my <normalised orig="selfe" auto="true">self</normalised> into a <normalised orig="plaine" auto="true">plain</normalised> <lb/>
+explication, and <normalised orig="easie" auto="true">easy</normalised> accordance: <lb/>
+Those whom I strive to <normalised orig="satisfie" auto="true">satisfy</normalised>, <lb/>
+are <normalised orig="onely" auto="true">only</normalised> mis-takers; whose <lb/>
+censures, if some man would <lb/>
+have either <normalised orig="laught" auto="true">laughed</normalised> out, or despised,<lb/>
+yet I have condescended to <lb/>
+take off by a serious deprecation, <lb/>
+and just defence. <lb/>
+It is an unreasonable motion <lb/>
+to request <normalised orig="mindes" auto="true">minds</normalised> prepossessed <lb/>
+with prejudice to <normalised orig="heare" auto="true">hear</normalised> reason; <lb/>
+Whole Volumes are nothing to <lb/>
+such as have contented themselves <lb/>
+<normalised orig="onely" auto="true">only</normalised> to take up opinions <lb/>
+upon trust, and will hold <lb/>
+them, because they know where <lb/>
+they had them: In <normalised orig="vaine" auto="true">vain</normalised> should <lb/>
+I spend my <normalised orig="selfe" auto="true">self</normalised> in beating upon <lb/>
+                  <lb/>
+                  <fw type="pageNum">C 2</fw>
+                  <pb n="29"/> 
+                  <lb/>
+such <normalised orig="anviles" auto="false">anvils</normalised>; but for those <lb/>
+ingenuous Christians, which <lb/>
+will hold an <normalised orig="eare" auto="true">ear</normalised> open for justice, <lb/>
+and truth, I have said enough, <lb/>
+if ought at all needed. <lb/>
+Alas, my Lord, I see and <lb/>
+grieve to see it; It is my Rochet <lb/>
+that <normalised orig="hath" auto="true">has</normalised> offended, and not I; <lb/>
+In another habit, I, long since, <lb/>
+published this, and more, without <lb/>
+dislike; It is this colour of <lb/>
+innocence that <normalised orig="hath" auto="true">has</normalised> <normalised orig="bleared" auto="true">blared</normalised> some <lb/>
+over-tender eyes; Wherein I <lb/>
+know not whether I should <lb/>
+more <normalised orig="pittie" auto="true">pity</normalised> their <normalised orig="errour" auto="true">error</normalised>, or applaud <lb/>
+my <normalised orig="owne" auto="true">own</normalised> sufferings; although <lb/>
+I may not say with the <lb/>
+Psalmist, What <normalised orig="hath" auto="true">has</normalised> the righteous <lb/>
+done? Let <normalised orig="mee" auto="true">me</normalised> (I beseech your <lb/>
+Lordship) upon this occasion, <lb/>
+                  <fw type="pageNum">30</fw>
+                  <pb n="30"/> 
+                  <lb/>
+have leave to give a little vent to <lb/>
+my just <normalised orig="griefe" auto="true">grief</normalised> in this point. <lb/>
+The other day I fell upon a <lb/>
+<normalised orig="Latine" auto="true">Latin</normalised> Pamphlet, homely for <lb/>
+style, tedious for length, <choice ana="illegible">
+                     <sic>zealou*<normalised orig="ly" auto="true">lie</normalised></sic>
+                     <corr>zealously</corr>
+                  </choice> 
+                  <lb/>
+uncharitable for <normalised orig="stuffe" auto="true">stuff</normalised>, <choice ana="illegible">
+                     <sic>where*n</sic>
+                     <corr>wherein</corr>
+                  </choice> 
+                  <lb/>
+the Author (<normalised orig="onely" auto="true">only</normalised> wise in <lb/>
+                  <choice ana="illegible">
+                     <sic>*his</sic>
+                     <corr>this</corr>
+                  </choice>, that <normalised orig="hee" auto="true">he</normalised> would <normalised orig="bee" auto="true">be</normalised> <normalised orig="unknowne" auto="true">unknown</normalised> <lb/>
+in a grave <normalised orig="fiercenesse" auto="true">fierceness</normalised> <lb/>
+flies in the face of our English <lb/>
+<normalised orig="Prelacie" auto="false">Prelacy</normalised>; not so much <choice ana="illegible">
+                     <sic>inveigh*ng</sic>
+                     <corr>inveighing</corr>
+                  </choice> 
+                  <lb/>
+against their persons, (which <lb/>
+<normalised orig="hee" auto="true">he</normalised> could <normalised orig="bee" auto="true">be</normalised> content to <choice ana="illegible">
+                     <sic>reve*ence</sic>
+                     <corr>reverence</corr>
+                  </choice>) <lb/>
+as their <normalised orig="verie" auto="true">very</normalised> places. I <lb/>
+<normalised orig="blest" auto="true">blessed</normalised> my <normalised orig="selfe" auto="true">self</normalised> to see the case so <lb/>
+                  <choice ana="illegible">
+                     <sic>*ltered</sic>
+                     <corr>altered</corr>
+                  </choice>: Heretofore, the Person <lb/>
+had wont to <normalised orig="beare" auto="true">bear</normalised> off <normalised orig="manie" auto="true">many</normalised> <lb/>
+                  <choice ana="illegible">
+                     <sic>*lowes</sic>
+                     <corr><normalised orig="blowes" auto="true">blows</normalised></corr>
+                  </choice> from the function; now <lb/>
+                  <choice ana="illegible">
+                     <sic>*he</sic>
+                     <corr>the</corr>
+                  </choice> <normalised orig="verie" auto="true">very</normalised> function wounds the <lb/>
+person: In what case are wee, <lb/>
+                  <lb/>
+                  <fw type="pageNum">C 3</fw>
+                  <pb n="31"/> 
+                  <lb/>
+when that which should command <lb/>
+respect, brands us? What <lb/>
+<normalised orig="blacke" auto="true">black</normalised> Art <normalised orig="hath" auto="true">has</normalised> raised up this <lb/>
+spirit of Ærius from his pit? <normalised orig="Wo" auto="false">Woe</normalised> <lb/>
+is <normalised orig="mee" auto="true">me</normalised>, that <normalised orig="zeale" auto="true">zeal</normalised> should breed <lb/>
+such monsters of conceit: It is <lb/>
+the honour, the <normalised orig="pompe" auto="true">pomp</normalised>, the <lb/>
+wealth, the pleasure (<normalised orig="hee" auto="true">he</normalised> saith) <lb/>
+of the <normalised orig="Episcopall" auto="true">Episcopal</normalised> <normalised orig="Chaire" auto="true">Chair</normalised> that is <lb/>
+<normalised orig="guiltie" auto="true">guilty</normalised> of the <normalised orig="depravation" auto="false">deprivation</normalised> of our <lb/>
+Calling; and if <normalised orig="himselfe" auto="true">himself</normalised> were <lb/>
+so <normalised orig="overlayd" auto="false">overlaid</normalised> with <normalised orig="greatnesse" auto="true">greatness</normalised>, <normalised orig="hee" auto="true">he</normalised> <lb/>
+should suspect his <normalised orig="owne" auto="true">own</normalised> <normalised orig="fidelitie" auto="true">fidelity</normalised>. <lb/>
+Alas, <normalised orig="poore" auto="true">poor</normalised> man, at what <lb/>
+distance <normalised orig="doth" auto="true">does</normalised> <normalised orig="hee" auto="true">he</normalised> see us? <normalised orig="Foggie" auto="true">Foggy</normalised> <lb/>
+<normalised orig="Ayre" auto="true">Air</normalised> <normalised orig="useth" auto="true">uses</normalised> to represent <normalised orig="everie" auto="true">every</normalised> <lb/>
+object <normalised orig="farre" auto="true">far</normalised> bigger than it <lb/>
+is. Our <normalised orig="SAVIOVR" auto="false">SAVIOUR</normalised> in his temptation <lb/>
+upon the Mount, had <lb/>
+<normalised orig="onely" auto="true">only</normalised> the <normalised orig="glorie" auto="true">glory</normalised> of those <normalised orig="Kingdomes" auto="true">Kingdoms</normalised> <lb/>
+                  <fw type="pageNum">32</fw>
+                  <pb n="32"/> 
+                  <lb/>
+showed to him, by that <lb/>
+<normalised orig="subtile" auto="true">subtle</normalised> Spirit, not the cares, and <lb/>
+vexations; Right so are our dignities <lb/>
+exhibited to these envious <lb/>
+beholders; Little <normalised orig="doe" auto="true">do</normalised> these men <lb/>
+see the <normalised orig="toyles" auto="true">toils</normalised>, and anxieties that <lb/>
+attend this supposedly-pleasing <lb/>
+eminence. <lb/>
+All the revenge that I would <lb/>
+wish to this uncharitable Censurer, <lb/>
+should <normalised orig="bee" auto="true">be</normalised> this, that <normalised orig="hee" auto="true">he</normalised> <lb/>
+might <normalised orig="bee" auto="true">be</normalised> but for a while adjudged <lb/>
+to this so glorious <normalised orig="seate" auto="true">seat</normalised> <lb/>
+of mine; that so his experience <lb/>
+might taste the bewitching pleasures <lb/>
+of this envied <normalised orig="greatnesse" auto="true">greatness</normalised>; <lb/>
+<normalised orig="hee" auto="true">he</normalised> should well <normalised orig="finde" auto="true">find</normalised> more danger <lb/>
+of being over-spent with <lb/>
+<normalised orig="worke" auto="true">work</normalised>, than of languishing with <lb/>
+ease and <normalised orig="delicacie" auto="true">delicacy</normalised>. <lb/>
+                  <lb/>
+                  <fw type="pageNum">C 4</fw>
+                  <pb n="33"/> 
+                  <lb/>
+For <normalised orig="mee" auto="true">me</normalised> I need not <normalised orig="appeale" auto="true">appeal</normalised> <lb/>
+to Heaven: Eyes <normalised orig="enow" auto="true">enough</normalised> can <normalised orig="witnesse" auto="true">witness</normalised> <lb/>
+how few free <normalised orig="houres" auto="true">hours</normalised> I <lb/>
+have enjoyed, since I put on these <lb/>
+Robes of sacred honour. In so <lb/>
+much as I could <normalised orig="finde" auto="true">find</normalised> in my <lb/>
+heart, with holy <normalised orig="Gregorie" auto="true">Gregory</normalised>, to <lb/>
+<normalised orig="complaine" auto="true">complain</normalised> of my change; were <lb/>
+it not, that I see these <normalised orig="publique" auto="true">public</normalised> <lb/>
+troubles are so many acceptable <lb/>
+services to my GOD, whose <lb/>
+<normalised orig="glorie" auto="true">glory</normalised> is the end of my being: <lb/>
+Certainly, my Lord, if none but <lb/>
+earthly respects should sway me, <lb/>
+I should heartily wish to change <lb/>
+this <normalised orig="Pallace" auto="true">Palace</normalised> (which the Providence <lb/>
+of GOD, and the <normalised orig="bountie" auto="true">bounty</normalised> <lb/>
+of my gracious <normalised orig="Sovereigne" auto="false">Sovereign</normalised> <lb/>
+<normalised orig="hath" auto="true">has</normalised> put <normalised orig="mee" auto="true">me</normalised> into) for my quiet <lb/>
+Cell at Waltham, where I had <lb/>
+                  <fw type="pageNum">34</fw>
+                  <pb n="34"/> 
+                  <lb/>
+so sweet <normalised orig="leasure" auto="true">leisure</normalised> to enjoy God, <lb/>
+your Lordship, and my <normalised orig="selfe" auto="true">self</normalised>: <lb/>
+But I have followed the calling <lb/>
+of my GOD, to whose service <lb/>
+I am willingly sacrificed; and <lb/>
+must now, in an holy obedience <lb/>
+to his Divine <normalised orig="Majestie" auto="true">Majesty</normalised>, <lb/>
+with what <normalised orig="cheerefulnesse" auto="true">cheerfulness</normalised> I may, <lb/>
+ride out all the <normalised orig="stormes" auto="true">storms</normalised> of <normalised orig="envie" auto="true">envy</normalised>, <lb/>
+which unavoidably will alight <lb/>
+upon the least appearance <lb/>
+of a conceived <normalised orig="greatnesse" auto="true">greatness</normalised>; in the <lb/>
+<normalised orig="meane" auto="true">mean</normalised> time, what ever I may <lb/>
+<normalised orig="seeme" auto="true">seem</normalised> to others, I was never less <lb/>
+in my <normalised orig="owne" auto="true">own</normalised> apprehensions; and, <lb/>
+were it not for this attendance <lb/>
+of <normalised orig="envie" auto="true">envy</normalised>, could not <normalised orig="yeeld" auto="true">yield</normalised> my <lb/>
+<normalised orig="selfe" auto="true">self</normalised> any whit greater than I was; <lb/>
+what ever I am, that good God <lb/>
+of mine, make <normalised orig="mee" auto="true">me</normalised> <normalised orig="faithfull" auto="true">faithful</normalised> to <lb/>
+                  <fw type="pageNum">35</fw>
+                  <pb n="35"/>
+                  <lb/>
+him; and compose the unquiet <lb/>
+spirits of men, to a conscionable <lb/>
+care of the <normalised orig="publique" auto="true">public</normalised> peace; with <lb/>
+which prayer, together with the <lb/>
+appreciation of all <normalised orig="happinesse" auto="true">happiness</normalised> to <lb/>
+your Lordship, and all yours, I <lb/>
+take leave and am: <lb/></p>
+<closer>Your Lordships truly devoted 
+in all hearty 
+observance and 
+<normalised orig="dutie" auto="true">duty</normalised>, 
+IOS. EXON.</closer>
+                  <lb/>
+                  <lb/>
+
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

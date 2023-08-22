@@ -1,0 +1,154 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface <normalised orig="Briefe" auto="true">Brief</normalised> <normalised orig="rehersal" auto="true">rehearsal</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="Anon">Anonymous</author>
+               <title type="main">"The preface and introduction into the history of the Passion and death of Christ." In: Anonymous. A <normalised orig="briefe" auto="true">brief</normalised> <normalised orig="rehersal" auto="true">rehearsal</normalised> of the death <normalised orig="resurrectio~" auto="true">resurrection</normalised>, &amp; ascension of Christ [...]</title>
+               <title type="short">Preface <normalised orig="Briefe" auto="true">Brief</normalised> <normalised orig="rehersal" auto="true">rehearsal</normalised></title>
+               <date when="1561">1561</date>
+               <date type="this_edition" when="1561">1561</date>
+               <idno type="STC">26135</idno>
+               <note type="genre" subtype="preface_biography">biography preface</note>
+               <note type="sample" target="#Anon_1561_preface_biography_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="contains" subtype="page">Fol. + Arabic numbers</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="Anon_1561_preface_biography_1">
+            <div>
+               <head>The preface and introduction<lb/>
+into the history of the<lb/>
+Passion and death of Christ.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+AMong all the histories<lb/>
+(gentle reader) that any<lb/>
+time <normalised orig="haue" auto="true">have</normalised> <normalised orig="bene" auto="true">been</normalised> written<lb/>
+<normalised orig="fro~" auto="true">from</normalised> the beginning of the<lb/>
+world <normalised orig="vnto" auto="true">unto</normalised> this present<lb/>
+was there <normalised orig="neuer" auto="true">never</normalised> any to be compared<lb/>
+to the <normalised orig="historie" auto="true">history</normalised> of the Passion, resurrection,<lb/>
+and ascension of Christ, written<lb/>
+most exactly by y<hi rend="high">e</hi> <normalised orig="foure" auto="true">four</normalised> <normalised orig="Euangelists" auto="true">Evangelists</normalised>,<lb/>
+albeit dispersed and in <normalised orig="sondry" auto="true">sundry</normalised> places,<lb/>
+and <normalised orig="aptely" auto="false">aptly</normalised> not without great <normalised orig="trauell" auto="true">travel</normalised><lb/>
+and <normalised orig="payne" auto="true">pain</normalised> gathered in due order by y<hi rend="high">e</hi>
+                  <lb/>
+most godly &amp; <normalised orig="wel" auto="true">well</normalised> learned man <normalised orig="Zuinglius" auto="false">Zwinglius</normalised>,<lb/>
+with <normalised orig="certaine" auto="true">certain</normalised> <normalised orig="briefe" auto="true">brief</normalised> <normalised orig="annotatio~s" auto="false">annotations</normalised><lb/>
+and many <normalised orig="wholesom" auto="true">wholesome</normalised> &amp; godly instructions<lb/>
+and declarations of the harder<lb/>
+places <normalised orig="adioyned" auto="true">adjoined</normalised> <normalised orig="vnto" auto="true">unto</normalised> it by the same<lb/>
+man for the easier <normalised orig="vnderstanding" auto="true">understanding</normalised> to y<hi rend="high">e</hi>
+                  <lb/>
+reader, which history as it is most <normalised orig="certaine" auto="true">certain</normalised><lb/>
+and true, for that no <normalised orig="percel" auto="false">parcel</normalised> <normalised orig="therof" auto="true">thereof</normalised><lb/>
+was written but by the holy <normalised orig="ghoste" auto="true">ghost</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum" n="4">A.ii.</fw>
+                  <pb n="1"/>
+                  <lb/>
+(although he <normalised orig="vsed" auto="true">used</normalised> men as <normalised orig="instrume~ts" auto="false">instruments</normalised><lb/>
+<normalised orig="therunto" auto="true">thereunto</normalised>) which <normalised orig="onely" auto="true">only</normalised> is truth, &amp; <normalised orig="fro~" auto="true">from</normalised><lb/>
+whom <normalised orig="proceadeth" auto="false">proceeded</normalised> nothing but truth.<lb/>
+So by it is <normalised orig="sette" auto="true">set</normalised> <normalised orig="forthe" auto="true">forth</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> the<lb/>
+<normalised orig="springe" auto="true">spring</normalised> and ground of our <normalised orig="saluation" auto="true">salvation</normalised>,<lb/>
+namely the <normalised orig="passio~" auto="true">passion</normalised> and death of Christ<lb/>
+the price of our redemption, the <normalised orig="onely" auto="true">only</normalised><lb/>
+<normalised orig="pacifieng" auto="false">pacifying</normalised> of the wrath of god <normalised orig="towarde" auto="true">toward</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised>, &amp; way to eternal <normalised orig="ioy" auto="true">joy</normalised> which <normalised orig="Paule" auto="true">Paul</normalised><lb/>
+                  <choice ana="print-error">
+                     <sic>affirmethto</sic>
+                     <corr><normalised orig="affirmeth" auto="true">affirms</normalised> to</corr>
+                  </choice> be great and wonderful &amp;<lb/>
+such as neither eye <normalised orig="hath" auto="true">has</normalised> <normalised orig="sene" auto="true">seen</normalised>, neither<lb/>
+<normalised orig="eare" auto="true">ear</normalised> <normalised orig="hath" auto="true">has</normalised> heard, nor heart can <normalised orig="imagin" auto="true">imagine</normalised><lb/>
+but what <normalised orig="shal" auto="true">shall</normalised> I <normalised orig="nede" auto="true">need</normalised> now to make any<lb/>
+<normalised orig="lo~g" auto="true">long</normalised> or further <normalised orig="declaratio~" auto="true">declaration</normalised> either of<lb/>
+y<hi rend="high">e</hi> <normalised orig="certaintie" auto="true">certainty</normalised> <normalised orig="therof" auto="true">thereof</normalised>, <normalised orig="wherof" auto="true">whereof</normalised> no <normalised orig="christia~" auto="true">christian</normalised><lb/>
+man <normalised orig="hauing" auto="true">having</normalised> y<hi rend="high">e</hi> <normalised orig="feare" auto="true">fear</normalised> of god before his<lb/>
+<normalised orig="eies" auto="true">eyes</normalised> <normalised orig="hath" auto="true">has</normalised> <normalised orig="euer" auto="true">ever</normalised> <normalised orig="douted" auto="true">doubted</normalised>: or of the <normalised orig="co~moditie" auto="true">commodity</normalised><lb/>
+<normalised orig="comming" auto="true">coming</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> by the same,<lb/>
+<normalised orig="whiche" auto="true">which</normalised> is so amply and manifestly set<lb/>
+forth in the treatise it <normalised orig="selfe" auto="true">self</normalised>. But for as<lb/>
+much as it is <normalised orig="writte~" auto="true">written</normalised> in a <normalised orig="stra~ge" auto="true">strange</normalised> <normalised orig="tonge" auto="true">tongue</normalised><lb/>
+namely in latin which y<hi rend="high">e</hi> multitude of<lb/>
+our <normalised orig="countrey" auto="true">country</normalised> <normalised orig="vnderstand" auto="true">understand</normalised> not, and also<lb/>
+(which is much to be lamented) <normalised orig="manie" auto="true">many</normalised><lb/>
+                  <pb n="2"/>
+                  <lb/>
+of these which are in place of teachers,<lb/>
+such is the <normalised orig="infelicitie" auto="true">infelicity</normalised> of this our<lb/>
+time, lest these I say <normalised orig="shuld" auto="true">should</normalised> <normalised orig="vtterly" auto="true">utterly</normalised> <normalised orig="wa~t" auto="false">want</normalised><lb/>
+the <normalised orig="vse" auto="true">use</normalised> of so <normalised orig="fruitefull" auto="true">fruitful</normalised> a <normalised orig="worke" auto="true">work</normalised>, I was<lb/>
+<normalised orig="moued" auto="true">moved</normalised> and thought good both for the<lb/>
+<normalised orig="aduau~cement" auto="false">advancement</normalised> of the glory of god, and<lb/>
+also for our brethrens farther <normalised orig="encrease" auto="true">increase</normalised><lb/>
+of knowledge, to bestow some labour<lb/>
+at such <normalised orig="conuenie~t" auto="false">convenient</normalised> <normalised orig="leasure" auto="true">leisure</normalised> as I <normalised orig="coulde" auto="true">could</normalised><lb/>
+well spare, to <normalised orig="turne" auto="true">turn</normalised> it into our English<lb/>
+tongue plainly and truly without<lb/>
+all <normalised orig="arte" auto="true">are</normalised> or eloquence, as one <normalised orig="tendyng" auto="true">tending</normalised><lb/>
+nothing <normalised orig="els" auto="true">else</normalised> but the <normalised orig="endes" auto="true">ends</normalised> <normalised orig="aforesaide" auto="true">aforesaid</normalised>,<lb/>
+which if I <normalised orig="obtein" auto="true">obtain</normalised>, I <normalised orig="shal" auto="true">shall</normalised> <normalised orig="accompt" auto="true">account</normalised><lb/>
+my labours right <normalised orig="wel" auto="true">well</normalised> bestowed,<lb/>
+minding also farther to<lb/>
+<normalised orig="trauail" auto="true">travail</normalised> in the same kind<lb/>
+of <normalised orig="labor" auto="true">labour</normalised>, if I shall <normalised orig="se" auto="true">see</normalised> by<lb/>
+this that my labour<lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="bene" auto="true">been</normalised> profitable.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

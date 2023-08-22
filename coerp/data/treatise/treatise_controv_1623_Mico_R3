@@ -1,0 +1,801 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pill to <normalised orig="pvrge" auto="false">purge</normalised> <normalised orig="ovt" auto="false">out</normalised> <normalised orig="poperie" auto="true">popery</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JoMi1623t">Mico, John</author>
+               <title type="main">A pill to <normalised orig="pvrge" auto="false">purge</normalised> <normalised orig="ovt" auto="false">out</normalised> <normalised orig="poperie" auto="true">popery</normalised>: or, A <normalised orig="Catechisme" auto="true">Catechism</normalised> for <normalised orig="Romish" auto="true">Roman</normalised> <normalised orig="Catholikes" auto="true">Catholics</normalised>; <normalised orig="Shewing" auto="true">Showing</normalised> that Popery is <normalised orig="contrarie" auto="true">contrary</normalised> to the grounds of the <normalised orig="Catholike" auto="true">Catholic</normalised> religion, and that therefore Papists cannot be good <normalised orig="Catholikes" auto="true">Catholics</normalised>.</title>
+               <title type="short">Pill to <normalised orig="pvrge" auto="false">purge</normalised> <normalised orig="ovt" auto="false">out</normalised> <normalised orig="poperie" auto="true">popery</normalised></title>
+               <date when="1623">1623</date>
+               <date type="this_edition" when="1623">1623</date>
+               <idno type="STC">17858</idno>
+               <note type="genre" subtype="treatise_controversial">controversial treatise</note>
+               <note type="sample" target="#JoMi1623t_1623_treatise_controversial_1">p.16, l.24 – p.27, l.10</note>
+               <note type="sample" target="#JoMi1623t_1623_treatise_controversial_2">p.29, l.23 – p.32, l.29</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="due_to">close binding</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="JoMi1623t_1623_treatise_controversial_1">
+            <div>
+               <head><normalised orig="DIALOGVE" auto="false">DIALOGUE</normalised> 5.</head>
+               <p>
+                  <lb/>
+            C. <normalised orig="Doe" auto="true">Do</normalised> they teach any thing else contrary to the <normalised orig="Creede" auto="true">Creed</normalised>?<lb/>
+            M. Yes: The sixth Article saith, that Christ ascended into<lb/>
+<normalised orig="Heauen" auto="true">Heaven</normalised>, &amp;c. And the Scriptures say, that the <normalised orig="Heauens" auto="true">Heavens</normalised> must<lb/>
+<normalised orig="containe" auto="true">contain</normalised> him, &amp;c. Acts. 1. 11. 3. 21. They teach <normalised orig="contrarie" auto="true">contrary</normalised><lb/>
+hereunto, namely, that Christ is corporally present in the<lb/>
+Sacrament, and that in many places at once: The which <choice ana="illegible">
+                     <sic>i*</sic>
+                     <corr>is</corr>
+                  </choice>
+                  <lb/>
+contrary to the nature of a true body, and <normalised orig="contrarie" auto="true">contrary</normalised> to <choice ana="illegible">
+                     <sic>th*</sic>
+                     <corr>the</corr>
+                  </choice>
+                  <lb/>
+nature of the Sacrament, which is a remembrance <choice ana="illegible">
+                     <sic>o*</sic>
+                     <corr>of</corr>
+                  </choice>
+                  <lb/>
+Christ. Virgilius against Eutyches. lib. 4. saith thus: When <choice ana="illegible">
+                     <sic>i*</sic>
+                     <corr>it</corr>
+                  </choice>
+                  <lb/>
+(that is the flesh of Christ) was on earth, it was not in <choice ana="illegible">
+                     <sic>he*uen</sic>
+                     <corr><normalised orig="heauen" auto="true">heaven</normalised></corr>
+                  </choice>:<lb/>
+and because it is now in <normalised orig="Heauen" auto="true">Heaven</normalised>, it is not on <choice ana="illegible">
+                     <sic>eart*</sic>
+                     <corr>earth</corr>
+                  </choice>.<lb/>
+This is the <normalised orig="Catholike" auto="true">Catholic</normalised> faith and confession. It is an <choice ana="illegible">
+                     <sic>Artic*</sic>
+                     <corr>Article</corr>
+                  </choice>
+                  <lb/>
+                  <pb n="1"/>
+                  <lb/>
+of faith to <normalised orig="beleeue" auto="true">believe</normalised> the <normalised orig="Catholike" auto="true">Catholic</normalised> Church: and <quote type="biblical" ana="Heb 11.1">faith is the<lb/>
+<normalised orig="euidence" auto="true">evidence</normalised> of things not <normalised orig="seene" auto="true">seen</normalised>,</quote> Heb. 11.1. Therefore the <normalised orig="Catholike" auto="true">Catholic</normalised><lb/>
+Church is <normalised orig="alwaies" auto="true">always</normalised> <normalised orig="vnto" auto="true">unto</normalised> the world <normalised orig="inuisible" auto="true">invisible</normalised>, and not<lb/>
+to be espied but by the eyes of faith: because things <normalised orig="seene" auto="true">seen</normalised> are<lb/>
+not <normalised orig="beleeued" auto="true">believed</normalised>. The Papists teach that the <normalised orig="Catholike" auto="true">Catholic</normalised> Church<lb/>
+is, and <normalised orig="hath" auto="true">has</normalised> <normalised orig="bin" auto="true">been</normalised> <normalised orig="alwaies" auto="true">always</normalised> visible. <normalised orig="Rhem" auto="true">Them</normalised>. on Mat. 5. Sect. 3. The<lb/>
+Church is said to be <normalised orig="Catholike" auto="true">Catholic</normalised>, that is, <normalised orig="vniuersall" auto="true">universal</normalised>, because it<lb/>
+is not <normalised orig="tyed" auto="true">tied</normalised> to any one <normalised orig="speciall" auto="true">special</normalised> place, but is <normalised orig="spred" auto="true">spread</normalised> abroad <normalised orig="ouer" auto="true">over</normalised><lb/>
+the face of the earth. They <normalised orig="tye" auto="true">tie</normalised> it to Rome alone, which can<lb/>
+be but a particular Church, &amp; not <normalised orig="vniuersall" auto="true">universal</normalised>, In the Church<lb/>
+there is a Communion of Saints: and these are they that<lb/>
+are sanctified by the <normalised orig="bloud" auto="true">blood</normalised> and Spirit of Christ, <normalised orig="hauing" auto="true">having</normalised> the<lb/>
+perfect <normalised orig="holines" auto="true">holiness</normalised> of Christ put <normalised orig="vpon" auto="true">upon</normalised> them, by imputation of<lb/>
+faith, and the quality of imperfect <normalised orig="holines" auto="true">holiness</normalised> <normalised orig="powred" auto="true">powered</normalised> into their<lb/>
+heart by the Spirit of sanctification. And such are the <normalised orig="Faithfull" auto="true">Faithful</normalised><lb/>
+here on earth, 1. Cor. 1. 2. <normalised orig="Psal" auto="true">Psalm</normalised>. 16. 2.<lb/>
+The Papists acknowledge none to <normalised orig="bee" auto="true">be</normalised> Saints, but such as<lb/>
+are in <normalised orig="heauen" auto="true">heaven</normalised>. They teach that the Pope can <normalised orig="canonize" auto="false">canonise</normalised><lb/>
+Saints: whereas to make one a Saint, is <normalised orig="onely" auto="true">only</normalised> the <normalised orig="worke" auto="true">work</normalised> of<lb/>
+God, 1. Cor. 1 1. The Pope <normalised orig="hath" auto="true">has</normalised> <choice ana="illegible">
+                     <sic>c*nonized</sic>
+                     <corr><normalised orig="canonized" auto="true">canonised</normalised></corr>
+                  </choice> many, that <normalised orig="indeede" auto="true">indeed</normalised><lb/>
+were <normalised orig="neuer" auto="true">never</normalised> true Saints of God, but wicked men, and<lb/>
+<normalised orig="ranke" auto="true">rank</normalised> <normalised orig="Traitours" auto="true">Traitors</normalised> to their Princes, as Becket, with many others.<lb/>
+This canonizing of Saints was never heard of with the<lb/>
+Fathers, <normalised orig="vntill" auto="true">until</normalised> the <normalised orig="yeere" auto="true">year</normalised> 880. and then Adrian <normalised orig="tooke" auto="true">took</normalised> <normalised orig="vp" auto="true">up</normalised> this<lb/>
+                  <choice ana="illegible">
+                     <sic>autho*itie</sic>
+                     <corr><normalised orig="authoritie" auto="true">authority</normalised></corr>
+                  </choice>. And Alexander the Third, after him, confirmed<lb/>
+it in his decrees.<lb/>
+In the <normalised orig="Creede" auto="true">Creed</normalised> we <normalised orig="professe" auto="true">profess</normalised>, to <normalised orig="beleeue" auto="true">believe</normalised> the <normalised orig="forgiuenesse" auto="true">forgiveness</normalised> of<lb/>
+<normalised orig="sinnes" auto="true">sins</normalised>, that is, I <normalised orig="beleeue" auto="true">believe</normalised> that God, for Christ his sake, <normalised orig="doth" auto="true">does</normalised><lb/>
+freely <normalised orig="forgiue" auto="true">forgive</normalised> the <normalised orig="sinnes" auto="true">sins</normalised> of his Elect, and my <normalised orig="sinnes" auto="true">sins</normalised> also. And<lb/>
+herein <normalised orig="consisteth" auto="true">consists</normalised> our <normalised orig="iustification" auto="true">justification</normalised>, namely, in the free <normalised orig="forgiuenes" auto="true">forgiveness</normalised><lb/>
+of our <normalised orig="sinnes" auto="true">sins</normalised>, and the imputation of Christs <normalised orig="righteousnes" auto="true">righteousness</normalised><lb/>
+to <normalised orig="vs" auto="true">us</normalised>. The Papists teach many things contrary to<lb/>
+this Article. First, that men are to make satisfaction for<lb/>
+their <normalised orig="sinnes" auto="true">sins</normalised>. Now, satisfaction for <normalised orig="sinnes" auto="true">sins</normalised>, and <normalised orig="forgiuenes" auto="true">forgiveness</normalised> of<lb/>
+<normalised orig="sinnes" auto="true">sins</normalised>, are contraries. If we <normalised orig="satisfie" auto="true">satisfy</normalised> in our own person, wee<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="18">B2</fw>
+                  <pb n="2"/>
+                  <lb/>
+are not <normalised orig="iustified" auto="true">justified</normalised> freely: if we be <normalised orig="iustified" auto="true">justified</normalised> freely (as most <normalised orig="certainely" auto="true">certainly</normalised><lb/>
+we are, Rom. 3. 23.) then we make no satisfaction at<lb/>
+all. If a man can <normalised orig="satisfie" auto="true">satisfy</normalised> and pay a debt, then he <normalised orig="needes" auto="true">needs</normalised> no<lb/>
+<normalised orig="forgiuenesse" auto="true">forgiveness</normalised>: but if the debt <normalised orig="bee" auto="true">be</normalised> <normalised orig="forgiuen" auto="true">forgiven</normalised> him, then it is<lb/>
+<normalised orig="plaine" auto="true">plain</normalised>, that there is no satisfaction made. The satisfaction<lb/>
+for our <normalised orig="sinnes" auto="true">sins</normalised> was made by Christ, and not by <normalised orig="vs" auto="true">us</normalised>.<lb/>
+            C. Did not the ancient Fathers teach men to make satisfaction for<lb/>
+their <normalised orig="sinnes" auto="true">sins</normalised>?<lb/>
+            M. The satisfaction which they maintained, was an <normalised orig="ecclesiasticall" auto="true">ecclesiastical</normalised><lb/>
+and <normalised orig="publike" auto="true">public</normalised> mulct, or penalty imposed <normalised orig="vpon" auto="true">upon</normalised> notorious<lb/>
+offenders, thereby to <normalised orig="testifie" auto="true">testify</normalised> their repentance, and to<lb/>
+<normalised orig="satisfie" auto="true">satisfy</normalised> the Church whom they had offended, Perkins.1. V.<lb/>
+577, &amp;c 2 vol 165.2 D. 166.<lb/>
+The efficient <choice ana="illegible">
+                     <sic><normalised orig="caus" auto="true">cause</normalised>*</sic>
+                     <corr>cause</corr>
+                  </choice> of our <normalised orig="iustification" auto="true">justification</normalised>, is God alone. It<lb/>
+is God <normalised orig="onely" auto="true">only</normalised> that <normalised orig="forgiueth" auto="true">forgives</normalised> our <normalised orig="sinnes" auto="true">sins</normalised>. Esa. 43. 25. Mar. 2. 7.<lb/>
+<normalised orig="Ro" auto="true">To</normalised>. 8. 33. They teach that the Pope can <normalised orig="forgiue" auto="true">forgive</normalised> <normalised orig="sinnes" auto="true">sins</normalised>, and<lb/>
+we know that he <normalised orig="giues" auto="true">gives</normalised> pardons, not only for the time past,<lb/>
+but also for the time to come: yea they teach that priests<lb/>
+<normalised orig="haue" auto="true">have</normalised> right to remit <normalised orig="sinnes" auto="true">sins</normalised>, and they <normalised orig="alleadge" auto="true">allege</normalised> these places to<lb/>
+<normalised orig="proue" auto="true">prove</normalised> it: Math. 16. 19. Ioh. 20. 23. Now we are to note this,<lb/>
+that as none can <normalised orig="forgiue" auto="true">forgive</normalised> a debt, but the party to whom the<lb/>
+debt is due: so none can <normalised orig="forgiue" auto="true">forgive</normalised> <normalised orig="sinnes" auto="true">sins</normalised>, but God <normalised orig="onely" auto="true">only</normalised>, against<lb/>
+whom the <normalised orig="sinne" auto="true">sin</normalised> is committed, Ps. 51. 4. The power of<lb/>
+binding and loosing committed to the Apostles &amp; Ministers<lb/>
+of the Word, is, by declaring the will and pleasure of GOD<lb/>
+out of his Word, both to pronounce <normalised orig="forgiuenes" auto="true">forgiveness</normalised> of <normalised orig="sinnes" auto="true">sins</normalised> to<lb/>
+all that are <normalised orig="truely" auto="true">truly</normalised> penitent: and the <normalised orig="retayning" auto="true">retaining</normalised> of them to<lb/>
+the impenitent. The Pope and his <normalised orig="Clergie" auto="true">Clergy</normalised> are <normalised orig="neuer" auto="true">never</normalised> able to<lb/>
+<normalised orig="proue" auto="true">prove</normalised> <normalised orig="themselues" auto="true">themselves</normalised> to <normalised orig="bee" auto="true">be</normalised> the true Ministers of Christ: and<lb/>
+they cannot so much as challenge this latter <normalised orig="authoritie" auto="true">authority</normalised> and<lb/>
+power to <normalised orig="themselues" auto="true">themselves</normalised>, much <normalised orig="lesse" auto="true">less</normalised> the former which is proper<lb/>
+to God <normalised orig="onely" auto="true">only</normalised>. The <normalised orig="motiue" auto="true">motive</normalised> or <normalised orig="impulsiue" auto="false">impulsive</normalised> cause, which <normalised orig="moued" auto="true">moved</normalised><lb/>
+God to <normalised orig="iustifie" auto="true">justify</normalised> <normalised orig="vs" auto="true">us</normalised>, was not any thing in <normalised orig="vs" auto="true">us</normalised>, but <normalised orig="onely" auto="true">only</normalised> the<lb/>
+grace of God, that is the free good will and pleasure of God,<lb/>
+Rom. 3. 24. Eph. 2. 8. Tit. 3. 5, 7. They teach that wee are not<lb/>
+<normalised orig="iustified" auto="true">justified</normalised> by grace <normalised orig="onely" auto="true">only</normalised>, but by <normalised orig="workes" auto="true">works</normalised> also, that is, by <choice ana="illegible">
+                     <sic>th*</sic>
+                     <corr>the</corr>
+                  </choice>
+                  <lb/>
+                  <pb n="3"/>
+                  <lb/>
+merit of our works. And to this end they <normalised orig="haue" auto="true">have</normalised> (of late <normalised orig="yeeres" auto="true">years</normalised>)<lb/>
+<normalised orig="deuised" auto="true">devised</normalised> a first &amp; second <normalised orig="Iustification" auto="true">Justification</normalised>. The first is, when a sinner<lb/>
+(of an <normalised orig="euill" auto="true">evil</normalised> man) is made a good man: and this (they say)<lb/>
+<normalised orig="commeth" auto="true">comes</normalised> <normalised orig="onely" auto="true">only</normalised> of Gods mercy by the merit of Christ. The<lb/>
+second is, when one (of a good or <normalised orig="iust" auto="true">just</normalised> man) is made better<lb/>
+and more <normalised orig="iust" auto="true">just</normalised>: and this <normalised orig="proceedeth" auto="true">proceeds</normalised> from <normalised orig="workes" auto="true">works</normalised>.<lb/>
+But we are to know, that there are not two kinds of <normalised orig="iustification" auto="true">justification</normalised>,<lb/>
+a first and <choice ana="illegible">
+                     <sic>seco*d</sic>
+                     <corr>second</corr>
+                  </choice>; but one and the same <normalised orig="iustification" auto="true">justification</normalised>,<lb/>
+considered in different respects. In respect of Gods <normalised orig="actuall" auto="true">actual</normalised><lb/>
+<normalised orig="acceptation" auto="true">acceptance</normalised> of mans person, <normalised orig="iustification" auto="true">justification</normalised> is absolute: but<lb/>
+in respect of the <normalised orig="actuall" auto="true">actual</normalised> application, and manifestation of<lb/>
+Gods <normalised orig="acceptation" auto="true">acceptance</normalised> <normalised orig="vnto" auto="true">unto</normalised> a mans conscience, <normalised orig="iustification" auto="true">justification</normalised> is by<lb/>
+parts and degrees. (M. Scudder on the Lords Prayer, <normalised orig="pag" auto="true">page</normalised>. 303.<lb/>
+to 309.<lb/>
+And further we are to note, that the Papists second <normalised orig="iustification" auto="true">justification</normalised>,<lb/>
+is no other then sanctification, which is an effect &amp; fruit<lb/>
+of <normalised orig="iustification" auto="true">justification</normalised>: the which is imperfect, &amp; not able to <normalised orig="iustifie" auto="true">justify</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised> before God The <normalised orig="materiall" auto="true">material</normalised> cause of our <normalised orig="iustification" auto="true">justification</normalised>, is the<lb/>
+<normalised orig="actiue" auto="true">active</normalised> and <normalised orig="passiue" auto="true">passive</normalised> <normalised orig="righteousnesse" auto="true">righteousness</normalised> and obedience of <normalised orig="Iesus" auto="true">Jesus</normalised><lb/>
+Christ, his inherent <normalised orig="holinesse" auto="true">holiness</normalised>, his fulfilling of the Law, his<lb/>
+death, sacrifice, and full satisfaction.<lb/>
+The <normalised orig="formall" auto="true">formal</normalised> cause, or the <normalised orig="forme" auto="true">form</normalised> of <normalised orig="iustification" auto="true">justification</normalised>, is the <normalised orig="righteousnesse" auto="true">righteousness</normalised><lb/>
+of Christ, imputed of God <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>, Rom. 5. 19. Rom.<lb/>
+4, 5, 6, 7, 8. 1. Cor. 1. 30. 2. Cor. 5. 19, 21. Phil. 3. 9. The Papists deride<lb/>
+this doctrine, that Men are <normalised orig="iustified" auto="true">justified</normalised> by the imputation<lb/>
+of the <normalised orig="righteousnesse" auto="true">righteousness</normalised> of Christ: which <normalised orig="righteousnesse" auto="true">righteousness</normalised> is not<lb/>
+in <normalised orig="vs" auto="true">us</normalised>, but in Christ. The Rhemists call in a new <normalised orig="no-iustice" auto="false">no-justice</normalised>, a<lb/>
+<normalised orig="phantasticall" auto="true">fantastical</normalised> apprehension of that which is not. <normalised orig="Rhem" auto="true">Them</normalised>. on <normalised orig="Ro" auto="true">To</normalised>. 3.<lb/>
+Sect 7. They hold them accursed that so <normalised orig="affirme" auto="true">affirm</normalised> and teach:<lb/>
+And they teach, that the <normalised orig="onely" auto="true">only</normalised> <normalised orig="formall" auto="true">formal</normalised> cause of our <normalised orig="iustification" auto="true">justification</normalised>,<lb/>
+is the <normalised orig="iustice" auto="true">justice</normalised> of God, whereby wee are not reputed and<lb/>
+                  <choice ana="illegible">
+                     <sic>*ccounted</sic>
+                     <corr>accounted</corr>
+                  </choice> <normalised orig="iust" auto="true">just</normalised>, but are made <normalised orig="iust" auto="true">just</normalised> indeed: and this <normalised orig="iustice" auto="true">justice</normalised> is<lb/>
+                  <choice ana="illegible">
+                     <sic>*hat</sic>
+                     <corr>that</corr>
+                  </choice> which <normalised orig="euery" auto="true">every</normalised> man <normalised orig="hath" auto="true">has</normalised> within <normalised orig="himselfe" auto="true">himself</normalised>, and is inherent<lb/>
+                  <choice ana="illegible">
+                     <sic>i*</sic>
+                     <corr>in</corr>
+                  </choice> him, <normalised orig="Concil" auto="true">Council</normalised>. Trid. Seff. 6. can. 10, 11. <normalised orig="Rhem" auto="true">Them</normalised>. on Phil. cha. 3. Sect. 3.<lb/>
+                  <choice ana="illegible">
+                     <sic>*he</sic>
+                     <corr>The</corr>
+                  </choice> <normalised orig="instrumentall" auto="true">instrumental</normalised> cause of <normalised orig="iustification" auto="true">justification</normalised>, on our part, is a true<lb/>
+                  <choice ana="illegible">
+                     <sic>*nd</sic>
+                     <corr>and</corr>
+                  </choice> <normalised orig="liuely" auto="true">lively</normalised> faith, whereby wee <normalised orig="receiue" auto="true">receive</normalised> and apply <normalised orig="vnto" auto="true">unto</normalised> our<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="20">B3</fw>
+                  <pb n="4"/>
+                  <lb/>
+<normalised orig="selues" auto="true">selves</normalised> the mercy of God, Christ <normalised orig="Iesus" auto="true">Jesus</normalised> and all his benefits,<lb/>
+resting <normalised orig="vpon" auto="true">upon</normalised> him alone for <normalised orig="saluation" auto="true">salvation</normalised>.<lb/>
+They teach, that faith <normalised orig="doth" auto="true">does</normalised> not <normalised orig="iustifie" auto="true">justify</normalised>, as an instrument in<lb/>
+apprehending the <normalised orig="righteousnesse" auto="true">righteousness</normalised> of Christ, but as a proper<lb/>
+and true cause, it actually <normalised orig="iustifieth" auto="true">justifies</normalised> by the dignity, <normalised orig="worthinesse" auto="true">worthiness</normalised><lb/>
+and meritorious <normalised orig="worke" auto="true">work</normalised> thereof, Bellar. l.1. de iustificat. cap.<lb/>
+17. They teach also, that faith is not the <normalised orig="onely" auto="true">only</normalised> cause of our<lb/>
+<normalised orig="iustification" auto="true">justification</normalised>, but that there are other also, as hope, charity,<lb/>
+<normalised orig="almes-deeds" auto="false">alms-deeds</normalised> and other <normalised orig="vertues" auto="true">virtues</normalised>: yea, they say, that <normalised orig="workes" auto="true">works</normalised><lb/>
+are more <normalised orig="principall" auto="true">principal</normalised> then faith, in the matter of <normalised orig="iustification" auto="true">justification</normalised>:<lb/>
+and pronounce him accursed that shall say, a man is <normalised orig="iustified" auto="true">justified</normalised><lb/>
+<normalised orig="onely" auto="true">only</normalised> by faith. <normalised orig="Rhem" auto="true">Them</normalised>. on Rom. 8. Sect. 6. and on <normalised orig="Iam" auto="true">Jam</normalised>. 2. Sect. 7. Belliar.<lb/>
+l. 1 de iustif. c. 13. <normalised orig="Concil" auto="true">Council</normalised>. Trid. Sess. 6 Can. 9. These and other such<lb/>
+like things they teach, contrary to the doctrine of <normalised orig="iustification" auto="true">justification</normalised>,<lb/>
+which is a maine ground of Religion. And if there were<lb/>
+no more points of difference <normalised orig="betweene" auto="true">between</normalised> <normalised orig="vs" auto="true">us</normalised>, these were sufficient<lb/>
+to <normalised orig="keepe" auto="true">keep</normalised> <normalised orig="vs" auto="true">us</normalised> from <normalised orig="vniting" auto="true">uniting</normalised> of our Religions: for <normalised orig="heereby" auto="true">hereby</normalised><lb/>
+the Church of Rome <normalised orig="doth" auto="true">does</normalised> raze the very foundation.<lb/>
+            C. You said before, that we are <normalised orig="iustified" auto="true">justified</normalised> freely: I would know <choice ana="illegible">
+                     <sic>h*</sic>
+                     <corr>how</corr>
+                  </choice>
+                  <lb/>
+this can be, if we be <normalised orig="iustified" auto="true">justified</normalised> by the <normalised orig="righteousnes" auto="true">righteousness</normalised>, and for the merit <choice ana="illegible">
+                     <sic/>
+                     <corr>of</corr>
+                  </choice>
+                  <lb/>
+Christ.<lb/>
+            M. Because the Degree of God the Father for our Redemption<lb/>
+is free, and we pay nothing <normalised orig="againe" auto="true">again</normalised> to God of <choice ana="illegible">
+                     <sic>ou*</sic>
+                     <corr>our</corr>
+                  </choice>
+                  <lb/>
+<normalised orig="owne" auto="true">own</normalised>. And therefore by the word (freely) our merits are excluded,<lb/>
+but not Christs. By which it <normalised orig="appeareth" auto="true">appears</normalised>, that in respect<lb/>
+of our <normalised orig="selues" auto="true">selves</normalised>, we are <normalised orig="iustified" auto="true">justified</normalised> freely of Gods <normalised orig="meere" auto="true">mere</normalised> <choice ana="illegible">
+                     <sic>m*cy</sic>
+                     <corr>mercy</corr>
+                  </choice>
+                  <lb/>
+and grace, without any respect of our <normalised orig="owne" auto="true">own</normalised> <choice ana="illegible">
+                     <sic>righteousne*</sic>
+                     <corr><normalised orig="righteousnesse" auto="true">righteousness</normalised></corr>
+                  </choice>
+                  <lb/>
+or <normalised orig="worthinesse" auto="true">worthiness</normalised>, but yet through Christ, and for his <normalised orig="righteousnesse" auto="true">righteousness</normalised><lb/>
+and obedience imputed to <normalised orig="vs" auto="true">us</normalised>: both which are <choice ana="illegible">
+                     <sic>signif*</sic>
+                     <corr>signified</corr>
+                  </choice>
+                  <lb/>
+by the Apostle, Rom. 3. 23, 24.<lb/>
+            C. <normalised orig="Shew" auto="true">Show</normalised> me (I pray you) what in meant by (Merit) what the <choice ana="illegible">
+                     <sic>doct*</sic>
+                     <corr>doctrine</corr>
+                  </choice>
+                  <lb/>
+of the Papists is concerning merit, and whether that our <normalised orig="workes" auto="true">works</normalised> be <choice ana="illegible">
+                     <sic>m*torious</sic>
+                     <corr>meritorious</corr>
+                  </choice>
+                  <lb/>
+or no.<lb/>
+            M. By (Merit) wee <normalised orig="vnderstand" auto="true">understand</normalised> any thing, or any <normalised orig="worke" auto="true">work</normalised><lb/>
+whereby Gods <normalised orig="fauour" auto="true">favour</normalised> and life <normalised orig="euerlasting" auto="true">everlasting</normalised> is procured; <choice ana="illegible">
+                     <sic/>
+                     <corr>and</corr>
+                  </choice>
+                  <lb/>
+that for the <normalised orig="dignitie" auto="true">dignity</normalised> and excellency of the <normalised orig="worke" auto="true">work</normalised> or <choice ana="illegible">
+                     <sic><normalised orig="thi" auto="true">thy</normalised>*</sic>
+                     <corr>thing</corr>
+                  </choice>
+                  <lb/>
+                  <pb n="5"/>
+                  <lb/>
+done. Now the true merit whereby wee <normalised orig="looke" auto="true">look</normalised> to <normalised orig="attaine" auto="true">attain</normalised> the<lb/>
+<normalised orig="fauour" auto="true">favour</normalised> of God, and life <normalised orig="euerlasting" auto="true">everlasting</normalised>, is to be found in the person<lb/>
+of Christ alone, in whom God is well pleased. The Papists<lb/>
+make two <normalised orig="kindes" auto="true">kinds</normalised> of merit: the merit of the person, and<lb/>
+the merit of the <normalised orig="worke" auto="true">work</normalised>. The merit of the person is (as they<lb/>
+say) a <normalised orig="dignitie" auto="true">dignity</normalised> in the person, whereby it is worthy of life <normalised orig="euerlasting" auto="true">everlasting</normalised>.<lb/>
+The merit of the <normalised orig="worke" auto="true">work</normalised>, is a <normalised orig="dignitie" auto="true">dignity</normalised> or excellency<lb/>
+in the <normalised orig="worke" auto="true">work</normalised>, whereby it is made fit, and <normalised orig="inabled" auto="true">enabled</normalised> to <normalised orig="deserue" auto="true">deserve</normalised><lb/>
+life <normalised orig="euerlasting" auto="true">everlasting</normalised> for the doer of the <normalised orig="worke" auto="true">work</normalised>. See <normalised orig="Rhem" auto="true">Them</normalised>. on<lb/>
+Rom. 8. Sect. 5. We now <normalised orig="doe" auto="true">do</normalised> renounce our <normalised orig="owne" auto="true">own</normalised> <normalised orig="personall" auto="true">personal</normalised> merits,<lb/>
+and all merit of our <normalised orig="owne" auto="true">own</normalised> <choice ana="illegible">
+                     <sic>wor*es</sic>
+                     <corr><normalised orig="workes" auto="true">works</normalised></corr>
+                  </choice>, and rely <normalised orig="onely" auto="true">only</normalised> <normalised orig="vpon" auto="true">upon</normalised><lb/>
+the merits of Christ, and we hold that no <normalised orig="workes" auto="true">works</normalised> of ours can<lb/>
+merit. That no man by any <normalised orig="workes" auto="true">works</normalised> of his can merit, may <normalised orig="bee" auto="true">be</normalised><lb/>
+<normalised orig="proued" auto="true">proved</normalised> by the properties and conditions that must <normalised orig="bee" auto="true">be</normalised> in a<lb/>
+<normalised orig="worke" auto="true">work</normalised> meritorious, and they are <normalised orig="fiue" auto="true">five</normalised>.<lb/>
+First, the <normalised orig="worke" auto="true">work</normalised> must be absolutely perfect: but all our<lb/>
+<normalised orig="workes" auto="true">works</normalised> are <normalised orig="vnperfect" auto="true">imperfect</normalised>, as well in parts, as in degrees of accomplishment.<lb/>
+In parts, because we omit many things which<lb/>
+the Law <normalised orig="prescribeth" auto="true">prescribes</normalised>, and <normalised orig="doe" auto="true">do</normalised> many <normalised orig="euill" auto="true">evil</normalised> things which the<lb/>
+Law <normalised orig="prohibiteth" auto="false">prohibited</normalised>. In degrees, because the works of the Saints<lb/>
+are <normalised orig="vncleane" auto="true">unclean</normalised>, <normalised orig="Esay" auto="true">Essay</normalised> 64. 6. Phil. 3. 8.<lb/>
+Secondly, a man must <normalised orig="doe" auto="true">do</normalised> the <normalised orig="worke" auto="true">work</normalised> of <normalised orig="himselfe" auto="true">himself</normalised>, and by<lb/>
+<normalised orig="himselfe" auto="true">himself</normalised>: for if it be done by the <normalised orig="helpe" auto="true">help</normalised> of another, the merit<lb/>
+<normalised orig="doth" auto="true">does</normalised> not properly belong to the <normalised orig="dooer" auto="true">doer</normalised>. But the good <normalised orig="workes" auto="true">works</normalised><lb/>
+which we <normalised orig="doe" auto="true">do</normalised>, are not ours, but are wrought by God in <normalised orig="vs" auto="true">us</normalised>.<lb/>
+Thirdly, a man must <normalised orig="doe" auto="true">do</normalised> the <normalised orig="worke" auto="true">work</normalised>, of his <normalised orig="owne" auto="true">own</normalised> free will<lb/>
+and pleasure, not of due debt: for when we <normalised orig="doe" auto="true">do</normalised> that which we<lb/>
+are bound to <normalised orig="doe" auto="true">do</normalised>, we <normalised orig="doe" auto="true">do</normalised> no more but our duty. But <normalised orig="whatsoeuer" auto="true">whatsoever</normalised><lb/>
+we <normalised orig="doe" auto="true">do</normalised>, we <normalised orig="doe" auto="true">do</normalised> it as <normalised orig="poore" auto="true">poor</normalised> <normalised orig="debters" auto="true">debtors</normalised>; nay, wee are worse<lb/>
+then <normalised orig="poore" auto="true">poor</normalised> <normalised orig="debters" auto="true">debtors</normalised>; we are miserable <normalised orig="bankerupts" auto="false">bankrupts</normalised>, wee <normalised orig="haue" auto="true">have</normalised><lb/>
+nothing; we <normalised orig="haue" auto="true">have</normalised> <normalised orig="lesse" auto="true">less</normalised> then nothing to pay, Luke 17. 10.<lb/>
+Fourthly, the <normalised orig="worke" auto="true">work</normalised> must be done to the benefit and profit<lb/>
+of him from whom we <normalised orig="looke" auto="true">look</normalised> to be <normalised orig="repayed" auto="false">repaid</normalised>. But no man by any<lb/>
+<normalised orig="worke" auto="true">work</normalised> of his can bring any profit <normalised orig="vnto" auto="true">unto</normalised> God, Iob 22. 2. 35. 7.<lb/>
+<normalised orig="Psal" auto="true">Psalm</normalised>. 16. 2. 50. 12. We may benefit men, but we cannot benefit<lb/>
+our Maker, from whom we <normalised orig="haue" auto="true">have</normalised> <normalised orig="receiued" auto="true">received</normalised> life and limb, <normalised orig="soule" auto="true">soul</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum" n="22">B4</fw>
+                  <pb n="6"/>
+                  <lb/>
+and body, and all that we <normalised orig="haue" auto="true">have</normalised>: wee can <normalised orig="giue" auto="true">give</normalised> him nothing,<lb/>
+and therefore can <normalised orig="deserue" auto="true">deserve</normalised> nothing from him, Rom. 11. 35, 36.<lb/>
+Lastly, the <normalised orig="worke" auto="true">work</normalised> and the reward must be in proportion <normalised orig="equall" auto="true">equal</normalised>:<lb/>
+for if the reward be more then the <normalised orig="worke" auto="true">work</normalised>, it is not then<lb/>
+a reward of desert, but a gift of good-will. But there is no<lb/>
+proportion <normalised orig="betweene" auto="true">between</normalised> our <normalised orig="workes" auto="true">works</normalised>, which are altogether <normalised orig="vnperfect" auto="true">imperfect</normalised>,<lb/>
+and the excellency of those great blessings, and benefits<lb/>
+which the Father <normalised orig="giueth" auto="true">gives</normalised> <normalised orig="vs" auto="true">us</normalised> freely in his <normalised orig="Sonne" auto="true">Son</normalised>, Rom. 8. 18.<lb/>
+And therefore in this and the former respects, there can be<lb/>
+no merit in any <normalised orig="meere" auto="true">mere</normalised> man: wherefore it is no <normalised orig="lesse" auto="true">less</normalised> absurd<lb/>
+to say, that we merit <normalised orig="saluation" auto="true">salvation</normalised> at Gods hands by good works,<lb/>
+then if one should say, Thou haft <normalised orig="giuen" auto="true">given</normalised> <normalised orig="mee" auto="true">me</normalised> an hundred<lb/>
+pounds, therefore thou <normalised orig="oughtest" auto="true">ought</normalised> to <normalised orig="giue" auto="true">give</normalised> me a thousand.<lb/>
+            C. Was not this doctrine of merit taught in the times of ancient<lb/>
+Fathers?<lb/>
+            M. Merit being taken in his proper sense, for due &amp; <normalised orig="iust" auto="true">just</normalised><lb/>
+desert, was <normalised orig="neuer" auto="true">never</normalised> allowed of the sound Professors for a thousand<lb/>
+<normalised orig="yeeres" auto="true">years</normalised> after Christ, Perkins 1. Vol. 574, 575. second Vol.<lb/>
+535, 536. Such therefore as will be <normalised orig="iustified" auto="true">justified</normalised> and <normalised orig="saued" auto="true">saved</normalised> by their<lb/>
+<normalised orig="owne" auto="true">own</normalised> <normalised orig="workes" auto="true">works</normalised>, and challenge <normalised orig="eternall" auto="true">eternal</normalised> life by their merits, <normalised orig="doe" auto="true">do</normalised><lb/>
+<normalised orig="shew" auto="true">show</normalised> <normalised orig="themselues" auto="true">themselves</normalised> to be most proud and <normalised orig="vnthankefull" auto="true">unthankful</normalised> persons,<lb/>
+and <normalised orig="deserue" auto="true">deserve</normalised> most <normalised orig="iustly" auto="true">justly</normalised> to be condemned eternally.<lb/>
+            C. The <choice ana="illegible">
+                     <sic>Pap*sts</sic>
+                     <corr>Papists</corr>
+                  </choice> at their end, <normalised orig="doe" auto="true">do</normalised> renounce their <normalised orig="owne" auto="true">own</normalised> merits, and<lb/>
+<normalised orig="professe" auto="true">profess</normalised> that they <normalised orig="looke" auto="true">look</normalised> to be <choice ana="illegible">
+                     <sic>s*ued</sic>
+                     <corr><normalised orig="saued" auto="true">saved</normalised></corr>
+                  </choice> <normalised orig="onely" auto="true">only</normalised> by the merits of Christ.<lb/>
+            M. If there were nothing else but this, it were enough to<lb/>
+<normalised orig="proue" auto="true">prove</normalised> their doctrine of merit, to be a false doctrine: for if it<lb/>
+were a truth, then a man is not <normalised orig="onely" auto="true">only</normalised> in his life time to <normalised orig="professe" auto="true">profess</normalised><lb/>
+it, and <normalised orig="maintaine" auto="true">maintain</normalised> it, but also in his death, yea rather to<lb/>
+<normalised orig="dye" auto="true">die</normalised> for it, then to deny it. But seeing they in their life <normalised orig="professe" auto="true">profess</normalised><lb/>
+it and <normalised orig="maintaine" auto="true">maintain</normalised> it, but at their death renounce it; it is<lb/>
+a manifest argument, that <normalised orig="euen" auto="true">even</normalised> they <normalised orig="themselues" auto="true">themselves</normalised> <normalised orig="doe" auto="true">do</normalised> know,<lb/>
+that it is not a true, but a false doctrine.<lb/>
+            C. If they know that it is not a truth, what makes them then in<lb/>
+their life-time so <normalised orig="stiffely" auto="true">stiffly</normalised> to <normalised orig="maintaine" auto="true">maintain</normalised> it?<lb/>
+            M. It <normalised orig="serues" auto="true">serves</normalised> greatly to <normalised orig="maintaine" auto="true">maintain</normalised> and <normalised orig="vphold" auto="true">uphold</normalised> the Popes<lb/>
+<normalised orig="kingdome" auto="true">kingdom</normalised>: for they teach, that <choice ana="illegible">
+                     <sic>*h*</sic>
+                     <corr>the</corr>
+                  </choice> <normalised orig="ouer-plus" auto="false">over-plus</normalised> of Christ merits,<lb/>
+                  <pb n="7"/>
+                  <lb/>
+and of the merits of Saints and Martyrs, is the treasure<lb/>
+of the Church, which being gathered together, and put into<lb/>
+a store-chest, is in the Popes <normalised orig="custodie" auto="true">custody</normalised>, and he alone <normalised orig="hath" auto="true">has</normalised> the<lb/>
+plenary opening and shutting of this Chest, and the ordering<lb/>
+and disposing of these merits: By <normalised orig="vertue" auto="true">virtue</normalised> whereof, <normalised orig="hee" auto="true">he</normalised><lb/>
+<normalised orig="giues" auto="true">gives</normalised> out Indulgences and Pardons when and to whom <normalised orig="hee" auto="true">he</normalised><lb/>
+will: So that such as <normalised orig="haue" auto="true">have</normalised> not merits <normalised orig="enow" auto="true">enough</normalised> of their own, may<lb/>
+<normalised orig="haue" auto="true">have</normalised> them from thence. And so hereby <normalised orig="hee" auto="true">he</normalised> <normalised orig="maintaines" auto="true">maintains</normalised> and<lb/>
+<normalised orig="vpholds" auto="false">upholds</normalised> his <normalised orig="kingdome" auto="true">kingdom</normalised>: for hereby comes in infinite wealth<lb/>
+and <normalised orig="reuenewes" auto="true">revenues</normalised>, Perkins 3. vol. 1. part. <normalised orig="pag" auto="true">page</normalised>. 165 2. D. 2. vol. 590. 2. d.<lb/>
+In these and many other particular points, the Papist teach<lb/>
+contrary to the Articles of the Creed, and therefore are no<lb/>
+true <normalised orig="Catholikes" auto="true">Catholics</normalised>, neither <normalised orig="doe" auto="true">do</normalised> they belong to the <normalised orig="Catholike" auto="true">Catholic</normalised><lb/>
+Church, as is thus <normalised orig="proued" auto="true">proved</normalised>: <normalised orig="Whosoeuer" auto="true">Whosoever</normalised> <normalised orig="haue" auto="true">have</normalised> not the <normalised orig="Catholike" auto="true">Catholic</normalised><lb/>
+faith, <normalised orig="doe" auto="true">do</normalised> <choice ana="illegible">
+                     <sic>no*</sic>
+                     <corr>not</corr>
+                  </choice> belong to the <normalised orig="Catholike" auto="true">Catholic</normalised> Church: but the<lb/>
+Papists <normalised orig="haue" auto="true">have</normalised> not the <normalised orig="Catholike" auto="true">Catholic</normalised> faith; therefore they <normalised orig="doe" auto="true">do</normalised> not<lb/>
+belong to the <normalised orig="Catholike" auto="true">Catholic</normalised> Church. That they <normalised orig="haue" auto="true">have</normalised> not the<lb/>
+<normalised orig="Catholike" auto="true">Catholic</normalised> faith, is <normalised orig="plaine" auto="true">plain</normalised> by that aforegoing.<lb/>
+               </p>
+            </div>
+            <div>
+               <head><normalised orig="DIALOGVE" auto="false">DIALOGUE</normalised> 6.</head>
+               <p>
+                  <lb/>
+            C. <normalised orig="Doe" auto="true">Do</normalised> they teach any thing contrary to the doctrine of the Sacraments?<lb/>
+            M. Yes, many things. Christ ordained but <normalised orig="onely" auto="true">only</normalised> two Sacraments.<lb/>
+The Church of Rome <normalised orig="hath" auto="true">has</normalised> added to them <normalised orig="fiue" auto="true">five</normalised><lb/>
+more; namely, Confirmation, Penance, <normalised orig="Matrimonie" auto="true">Matrimony</normalised>, Orders,<lb/>
+and <choice ana="illegible">
+                     <sic>ext*eme</sic>
+                     <corr>extreme</corr>
+                  </choice> <normalised orig="Vnction" auto="true">Unction</normalised>.<lb/>
+            C. Are not these Sacraments indeed?<lb/>
+            M. No surely: for there are <normalised orig="foure" auto="true">four</normalised> things necessarily required<lb/>
+to make a Sacrament. First, the <normalised orig="authoritie" auto="true">authority</normalised> of Christ commanding<lb/>
+it. Secondly, the element or outward <normalised orig="signe" auto="true">sign</normalised>, as the<lb/>
+matter of it. Thirdly, the word of institution, as the <normalised orig="forme" auto="true">form</normalised>.<lb/>
+Fourthly, the end and <normalised orig="vse" auto="true">use</normalised>, to be a <normalised orig="seale" auto="true">seal</normalised> of our faith, for remission<lb/>
+of <normalised orig="sinnes" auto="true">sins</normalised>. These <normalised orig="foure" auto="true">four</normalised> things are not to be found in<lb/>
+their <normalised orig="fiue" auto="true">five</normalised> latter Sacraments, and therefore they are no Sacraments<lb/>
+indeed. Master Attersoll on the Sacraments, <normalised orig="pag" auto="true">page</normalised>. 119.<lb/>
+to 150. Synopsis Papis. Controu. 14, 15, 16.<lb/>
+            C. May not the Church then institute and <normalised orig="ordaine" auto="true">ordain</normalised> Sacraments?<lb/>
+                  <pb n="8"/>
+                  <lb/>
+            M. None may <normalised orig="ordaine" auto="true">ordain</normalised> a Sacrament, but <normalised orig="onely" auto="true">only</normalised> the Lord.<lb/>
+As none may put a <normalised orig="signe" auto="true">sign</normalised> and <normalised orig="seale" auto="true">seal</normalised> to a mans last Will and<lb/>
+Testament, but <normalised orig="onely" auto="true">only</normalised> the maker of the Testament: so none<lb/>
+may <normalised orig="ordaine" auto="true">ordain</normalised> Sacraments (which are <normalised orig="signes" auto="true">signs</normalised> and <normalised orig="seales" auto="true">seals</normalised> of the<lb/>
+new Testament and <normalised orig="couenant" auto="true">covenant</normalised> of grace) but <normalised orig="onely" auto="true">only</normalised> the Lord<lb/>
+which made the <normalised orig="couenant" auto="true">covenant</normalised>. And therefore the Church of<lb/>
+Rome, in doing the contrary, <normalised orig="proues" auto="true">proves</normalised> her <normalised orig="selfe" auto="true">self</normalised> not to <normalised orig="bee" auto="true">be</normalised> the<lb/>
+true Church of Christ, but rather the Church of Antichrist.<lb/>
+They <normalised orig="doe" auto="true">do</normalised> also in many other things teach contrary to the<lb/>
+doctrine of the Sacraments. As;<lb/>
+First, that the Sacraments <normalised orig="doe" auto="true">do</normalised> <normalised orig="giue" auto="true">give</normalised> grace, and namely, remission<lb/>
+of <normalised orig="sinnes" auto="true">sins</normalised>, ex opere operato, by the <normalised orig="worke" auto="true">work</normalised> wrought,<lb/>
+<normalised orig="Rhem" auto="true">Them</normalised>. Acts 22. Sect. 1.<lb/>
+Secondly, that not <normalised orig="onely" auto="true">only</normalised> faith <normalised orig="doth" auto="true">does</normalised> <normalised orig="iustifie" auto="true">justify</normalised>, but the Sacraments<lb/>
+also, <normalised orig="Rhem" auto="true">Them</normalised>. Rom. 6. Sect. 5. Whereas Sacraments are<lb/>
+                  <choice ana="illegible">
+                     <sic>*ignes</sic>
+                     <corr><normalised orig="signes" auto="true">signs</normalised></corr>
+                  </choice> and <normalised orig="seales" auto="true">seals</normalised> of <normalised orig="iustification" auto="true">justification</normalised>, Rom. 4. 11.<lb/>
+Thirdly, that Infants dying without <normalised orig="Baptisme" auto="true">Baptism</normalised>, cannot <normalised orig="bee" auto="true">be</normalised><lb/>
+<normalised orig="saued" auto="true">saved</normalised>, <normalised orig="Rhem" auto="true">Them</normalised>. Ioh. 3. Sect. 2. They <normalised orig="haue" auto="true">have</normalised> also added many idle<lb/>
+ceremonies to <normalised orig="Baptisme" auto="true">Baptism</normalised>, as <normalised orig="Creame" auto="true">Cream</normalised>, Tapers, Salt, &amp;c. with an<lb/>
+opinion of <normalised orig="saluation" auto="true">salvation</normalised> and worship annexed <normalised orig="vnto" auto="true">unto</normalised> them: yea<lb/>
+in times past they <normalised orig="baptized" auto="true">baptised</normalised> <normalised orig="Bels" auto="true">Bells</normalised>, but now they begin to be ashamed<lb/>
+of it, and say that they were but <normalised orig="onely" auto="true">only</normalised> hallowed and<lb/>
+consecrated to holy <normalised orig="vses" auto="true">uses</normalised>, Bellar. l. 4. de Pont. Rom. c. 12. Synopsis Papismi,<lb/>
+Controu. 12. Quest. 5. Concerning the Lords Supper, they<lb/>
+<normalised orig="haue" auto="true">have</normalised> likewise most <normalised orig="grossely" auto="true">grossly</normalised> abused it in many things.<lb/>
+First, they take away the Cup from the Laity: whereas the<lb/>
+Church of Rome for <normalised orig="aboue" auto="true">above</normalised> a thousand <normalised orig="yeeres" auto="true">years</normalised> after <choice ana="illegible">
+                     <sic>Chri*</sic>
+                     <corr>Christ</corr>
+                  </choice>,<lb/>
+<normalised orig="vsed" auto="true">used</normalised> both <normalised orig="signes" auto="true">signs</normalised> in the Communion. The Communion <normalised orig="vnder" auto="true">under</normalised><lb/>
+one kind, was decreed, defined, and determined as a <normalised orig="publike" auto="true">public</normalised><lb/>
+Law in the <normalised orig="Councell" auto="true">Council</normalised> of Constance, about the <normalised orig="yeere" auto="true">year</normalised><lb/>
+1114. Perk. 2. Vol. 554.2. b.<lb/>
+Secondly, they <normalised orig="reserue" auto="true">reserve</normalised> the Bread in boxes, pixes &amp; other<lb/>
+vessels of the Church, for <normalised orig="dayes" auto="true">days</normalised>, <normalised orig="weekes" auto="true">weeks</normalised>, and <normalised orig="moneths" auto="true">months</normalised>. They<lb/>
+<normalised orig="shew" auto="true">show</normalised> it to the people, the Priest lifting it <normalised orig="ouer" auto="true">over</normalised> his head, <choice ana="illegible">
+                     <sic>an*</sic>
+                     <corr>and</corr>
+                  </choice>
+                  <lb/>
+going with it in procession. All this is contrary to the Sacrament:<lb/>
+for it is no Sacrament, <normalised orig="vnlesse" auto="true">unless</normalised> there be a <normalised orig="giuing" auto="true">giving</normalised>, <normalised orig="receiuing" auto="true">receiving</normalised>,<lb/>
+                  <pb n="9"/>
+                  <lb/>
+eating, and drinking, M. Attersoll on the Sacraments,<lb/>
+386, 387.<lb/>
+The <normalised orig="reseruation" auto="true">reservation</normalised> of the Sacrament was not allowed of, but<lb/>
+rather found fault <normalised orig="withall" auto="true">withal</normalised> by the Fathers, Perk. 2. vol. 557.<lb/>
+Thirdly, they adore, fall <normalised orig="downe" auto="true">down</normalised> and honour the Sacrament<lb/>
+with <normalised orig="diuine" auto="true">divine</normalised> worship, calling it their Lord and God. A<lb/>
+thing <normalised orig="neuer" auto="true">never</normalised> heard of among the heathen Idolaters, namely,<lb/>
+to worship a piece of bread, or rather, a thin Wafer.<lb/>
+The adoration in the Sacrament <normalised orig="belongeth" auto="true">belongs</normalised> <normalised orig="vnto" auto="true">unto</normalised> Christ<lb/>
+sitting in <normalised orig="heauen" auto="true">heaven</normalised>: and is an inward worship of the heart, or<lb/>
+lifting <normalised orig="vp" auto="true">up</normalised> of the <normalised orig="minde" auto="true">mind</normalised>, being stirred <normalised orig="vp" auto="true">up</normalised> with the outward<lb/>
+<normalised orig="signes" auto="true">signs</normalised>. Pope Honorius the third (in the <normalised orig="yeere" auto="true">year</normalised> 1220.) was the<lb/>
+first that <normalised orig="euer" auto="true">ever</normalised> instituted the adoration of the Sacrament. And<lb/>
+after him <normalised orig="Vrban" auto="false">Urban</normalised> the fourth ordained a feast in honour of the<lb/>
+body of Christ. Perk. 2. Vol. 564. Attersoll on the Sacraments,<lb/>
+388, 389.<lb/>
+Fourthly, they <normalised orig="turne" auto="true">turn</normalised> the Sacrament into a sacrifice for the<lb/>
+quick &amp; the dead, abolishing the fruit &amp; remembrance of the<lb/>
+death of Christ, disannulling his Priesthood, <normalised orig="giuing" auto="true">giving</normalised> him to<lb/>
+his Father, whereas the Father <normalised orig="hath" auto="true">has</normalised> <normalised orig="giuen" auto="true">given</normalised> him to <normalised orig="vs" auto="true">us</normalised>, &amp;c. ibid.<lb/>
+page 390.<lb/>
+Fiftly, they <normalised orig="maintaine" auto="true">maintain</normalised> Transubstantiation. These are their<lb/>
+very words: If any man shall say, that there <normalised orig="remaineth" auto="true">remains</normalised> the<lb/>
+substance of Bread and Wine in the Sacrament, after the<lb/>
+words of consecration, or <normalised orig="shal" auto="true">shall</normalised> deny that the whole substance<lb/>
+of Bread and Wine is changed and <normalised orig="conuerted" auto="true">converted</normalised> into the <normalised orig="bodie" auto="true">body</normalised><lb/>
+and <normalised orig="bloud" auto="true">blood</normalised> of Christ (the <normalised orig="formes" auto="true">forms</normalised> and <normalised orig="shewes" auto="true">shows</normalised> <normalised orig="onely" auto="true">only</normalised> of Bread<lb/>
+and Wine remaining: which singular and miraculous <normalised orig="conuersion" auto="true">conversion</normalised><lb/>
+the Church <normalised orig="calleth" auto="true">calls</normalised> Transubstantiation:) let him be accursed.<lb/>
+Con. Trid. Sess. 13. Can. 2. This their doctrine of Transubstantiation,<lb/>
+is a very fable to mock <normalised orig="fooles" auto="true">fools</normalised> <normalised orig="withall" auto="true">withal</normalised>, and it <normalised orig="ouerturneth" auto="false">overturned</normalised><lb/>
+both the nature and <normalised orig="vse" auto="true">use</normalised> of the Sacrament, Attersoll on<lb/>
+the Sacraments, page 45, 46, &amp; page 365. to 369. If there were<lb/>
+a miraculous <normalised orig="conuersion" auto="true">conversion</normalised> (as they say there is) of the Bread<lb/>
+an Wine, it would <normalised orig="appeare" auto="true">appear</normalised> to the outward senses. For <normalised orig="al" auto="true">all</normalised> true<lb/>
+miracles are wrought openly, <normalised orig="cleerely" auto="true">clearly</normalised>, &amp; <normalised orig="euidently" auto="true">evidently</normalised> to <normalised orig="mens" auto="true">men's</normalised><lb/>
+                  <fw type="pageNum" n="26">25</fw>
+                  <pb n="10"/>
+                  <lb/>
+senses, Ioh. 6. 26. But the Bread and Wine, by the <normalised orig="iudgement" auto="true">judgment</normalised> of<lb/>
+all the senses, <normalised orig="remaineth" auto="true">remains</normalised> and <normalised orig="appeareth" auto="true">appears</normalised> to be the same in<lb/>
+substance which it was before, of the same quality, <normalised orig="quantitie" auto="true">quantity</normalised>,<lb/>
+colour, taste, handling, smelling, <normalised orig="vertue" auto="true">virtue</normalised> and nourishment:<lb/>
+there is not any one sense, or all the senses together, that can<lb/>
+                  <choice ana="illegible">
+                     <sic>*<normalised orig="udge" auto="true">judge</normalised></sic>
+                     <corr><normalised orig="iudge" auto="true">judge</normalised></corr>
+                  </choice> otherwise of it, then it did before. If a man should <normalised orig="bee" auto="true">be</normalised><lb/>
+called in, when the Bread and Wine is set on the Table, and<lb/>
+bidden to consider well what he there <normalised orig="seeth" auto="true">sees</normalised>, <normalised orig="smelleth" auto="true">smells</normalised> &amp; <normalised orig="tasteth" auto="true">tastes</normalised>,<lb/>
+and then is willed to <normalised orig="goe" auto="true">go</normalised> forth, and to come in <normalised orig="againe" auto="true">again</normalised>,<lb/>
+after the Consecration is ended by the Priest, and to do the<lb/>
+like: and then is asked what he <normalised orig="thinketh" auto="true">thinks</normalised> of it: he, no doubt,<lb/>
+will <normalised orig="answere" auto="true">answer</normalised> (<normalised orig="vnlesse" auto="true">unless</normalised> <normalised orig="feare" auto="true">fear</normalised> of persecution make him to <normalised orig="conceale" auto="true">conceal</normalised><lb/>
+the truth) I see, <normalised orig="feele" auto="true">feel</normalised>, smell, and taste the same wafercake,<lb/>
+and wine that I did before: I can <normalised orig="perceiue" auto="true">perceive</normalised> no <normalised orig="naturall" auto="true">natural</normalised><lb/>
+and <normalised orig="substantiall" auto="true">substantial</normalised> change therein. And therefore it <normalised orig="followeth" auto="true">follows</normalised>,<lb/>
+that there is no miracle wrought, and consequently, no transubstantiation,<lb/>
+at all. The difference that is, is in the end &amp; <normalised orig="vse" auto="true">use</normalised><lb/>
+<normalised orig="onely" auto="true">only</normalised>. Before consecration, it was common bread and wine,<lb/>
+ordained for the nourishing of our bodies. After consecration,<lb/>
+it <normalised orig="becommeth" auto="true">becomes</normalised> holy Bread and Wine, sanctified by the<lb/>
+Lord, not so much to <normalised orig="feede" auto="true">feed</normalised> the body, as the <normalised orig="soule" auto="true">soul</normalised>.<lb/>
+            C. Did not the ancient Fathers hold this doctrine of Transubstantiation?<lb/>
+            M. They knew nothing hereof, for at least 800. <normalised orig="yeeres" auto="true">years</normalised> after<lb/>
+Christ. Afterwards begun the disputations of Transubstantiation,<lb/>
+but not <normalised orig="approued" auto="true">approved</normalised> as an Article of faith. The<lb/>
+Church for a whole thousand <normalised orig="yeeres" auto="true">years</normalised> taught no other then<lb/>
+<normalised orig="spirituall" auto="true">spiritual</normalised> <normalised orig="receiuing" auto="true">receiving</normalised> of Christ. In the <normalised orig="yeere" auto="true">year</normalised> 1215. Transubstantiation<lb/>
+was decreed and determined in the <normalised orig="Councell" auto="true">Council</normalised> of<lb/>
+Lateran, <normalised orig="vnder" auto="true">under</normalised> Pope Innocent the Third, and made a maine<lb/>
+matter of faith, Perk. 2. vol. 558, 559.<lb/>
+            C. What say you then of their Transubstantiated, or consecrated host (as<lb/>
+it is called) or the bread in the <normalised orig="boxe" auto="true">box</normalised> carried in <choice ana="illegible">
+                     <sic>processi*n</sic>
+                     <corr>procession</corr>
+                  </choice> &amp; worshipped?<lb/>
+            M. Surely it is nothing else, but a wheaten, or breaden<lb/>
+god, or rather an Idol, nothing <normalised orig="inferiour" auto="true">inferior</normalised> to <normalised orig="Aarons" auto="true">Aaron's</normalised> <normalised orig="Calfe" auto="true">Calf</normalised>, or<lb/>
+Ieroboams <normalised orig="Calues" auto="true">Calves</normalised>, or the Nehustan, and piece of <normalised orig="brasse" auto="true">brass</normalised> that Ezechias<lb/>
+                  <pb n="11"/>
+                  <lb/>
+brake in pieces: nay, as vile and detestable as an <normalised orig="Idoll" auto="true">Idol</normalised><lb/>
+among the Heathen. And for a conclusion of their doctrine<lb/>
+of Transubstantiation, I will <normalised orig="heere" auto="true">here</normalised> set <normalised orig="downe" auto="true">down</normalised> a <normalised orig="wittie" auto="true">witty</normalised> conceit<lb/>
+which one <normalised orig="shewed" auto="true">showed</normalised> me not long since: I <normalised orig="haue" auto="true">have</normalised> kept the<lb/>
+matter, but changed the meeter, to make it sound somewhat<lb/>
+the sweeter.<lb/>
+The Priests <normalised orig="doe" auto="true">do</normalised> make Christs body and <normalised orig="bloud" auto="true">blood</normalised>,<lb/>
+Hereof none must once doubt:<lb/>
+They <normalised orig="eate" auto="true">eat</normalised>, they <normalised orig="drinke" auto="true">drink</normalised>, they box him <normalised orig="vp" auto="true">up</normalised>,<lb/>
+They <normalised orig="beare" auto="true">bear</normalised> him all about.<lb/>
+               </p>
+            </div>
+         </div>
+         <div xml:id="JoMi1623t_1623_treatise_controversial_2">
+            <div>
+               <head><normalised orig="DIALOGVE" auto="false">DIALOGUE</normalised> 8</head>
+               <p>
+                  <lb/>
+            C. <normalised orig="Shew" auto="true">Show</normalised> me, I pray you, in particular, what things they teach contrary<lb/>
+to the <normalised orig="Commandements" auto="true">Commandments</normalised>?<lb/>
+            M. I could <normalised orig="plainely" auto="true">plainly</normalised> <normalised orig="proue" auto="true">prove</normalised> <normalised orig="vnto" auto="true">unto</normalised> you, that they <normalised orig="doe" auto="true">do</normalised> both<lb/>
+teach and practise many things contrary to <normalised orig="euery" auto="true">every</normalised> one of the<lb/>
+<normalised orig="Commandements" auto="true">Commandments</normalised>: but I will <normalised orig="onely" auto="true">only</normalised> <choice ana="illegible">
+                     <sic><normalised orig="se" auto="true">see</normalised>*</sic>
+                     <corr>set</corr>
+                  </choice> <normalised orig="downe" auto="true">down</normalised> the chiefest,<lb/>
+and such as most men know to be true.<lb/>
+The first <normalised orig="Commandement" auto="true">Commandment</normalised> <normalised orig="concernes" auto="true">concerns</normalised> the inward worship<lb/>
+of God: the ground of which worship is the true knowledge<lb/>
+of God; and without which, none can <normalised orig="truely" auto="true">truly</normalised> worship and<lb/>
+<normalised orig="serue" auto="true">serve</normalised> him: for such as our knowledge is, such is our worship,<lb/>
+1. Chron. 28. 9. <normalised orig="Psal" auto="true">Psalm</normalised>. 9. 10. Ier 9. 24. The Papists teach, that<lb/>
+                  <choice ana="illegible">
+                     <sic>*gnorance</sic>
+                     <corr>ignorance</corr>
+                  </choice> is the mother of <normalised orig="deuotion" auto="true">devotion</normalised>: but the truth is, it is<lb/>
+                  <choice ana="illegible">
+                     <sic>*he</sic>
+                     <corr>the</corr>
+                  </choice> mother of superstition and idolatry, Gal. 4. 8. The Papists<lb/>
+                  <pb n="12"/>
+                  <lb/>
+therefore being ignorant, and without the true knowledge of<lb/>
+God, cannot <normalised orig="truely" auto="true">truly</normalised> worship him, but must needs <normalised orig="bee" auto="true">be</normalised> Idolaters,<lb/>
+worshipping they know not what. The first <normalised orig="Commandement" auto="true">Commandment</normalised><lb/>
+<normalised orig="requireth" auto="true">requires</normalised> that wee <normalised orig="haue" auto="true">have</normalised> the true Iehoua for our <normalised orig="onely" auto="true">only</normalised><lb/>
+God. They make Christs body to be God, because they hold<lb/>
+that it may be in many places at once, which thing is proper<lb/>
+only to God. They make the Pope to be God, &amp; that in <normalised orig="plaine" auto="true">plain</normalised><lb/>
+words. Christopher Marcellus said to the Pope, Thou art another<lb/>
+God <normalised orig="vpon" auto="true">upon</normalised> earth: and the Pope <normalised orig="tooke" auto="true">took</normalised> it to <normalised orig="himselfe" auto="true">himself</normalised>,<lb/>
+<normalised orig="Concil" auto="true">Council</normalised>. Later. Sess. 4.<lb/>
+They <normalised orig="giue" auto="true">give</normalised> the power to the Pope, which is proper to God,<lb/>
+and so make him to be God. As, that he can make holy that<lb/>
+which is <normalised orig="vnholy" auto="true">unholy</normalised>, pardon <normalised orig="sinnes" auto="true">sins</normalised>, &amp;c. Perkins I. vol. 400. 1.<lb/>
+and they <normalised orig="giue" auto="true">give</normalised> <normalised orig="diuine" auto="true">divine</normalised> worship to creatures, and so make <choice ana="illegible">
+                     <sic>the*</sic>
+                     <corr>them</corr>
+                  </choice>
+                  <lb/>
+their Gods. The second <normalised orig="Commandement" auto="true">Commandment</normalised> <normalised orig="concerneth" auto="true">concerns</normalised> the<lb/>
+outward worship of God, or the <normalised orig="forme" auto="true">form</normalised> &amp; manner of his worship.<lb/>
+This <normalised orig="Commandement" auto="true">Commandment</normalised> they <normalised orig="haue" auto="true">have</normalised> <normalised orig="cleane" auto="true">clean</normalised> put out of the<lb/>
+Decalogue, and to fill <normalised orig="vp" auto="true">up</normalised> the number, they <normalised orig="diuide" auto="true">divide</normalised> the last into<lb/>
+two. The scope of this <normalised orig="Commandement" auto="true">Commandment</normalised> is, that no Image<lb/>
+is to be made of God, nor any worship performed to<lb/>
+him in an Image, Deut. 4. 15, 16. But they teach it <normalised orig="lawfull" auto="true">lawful</normalised> to<lb/>
+make Images of the true God, and to worship him in them,<lb/>
+and that there is a religious worship due to them, Belarm. de<lb/>
+imag. sanct. lib. 2. cap. 21. And in the second Nicen <normalised orig="Councell" auto="true">Council</normalised> <choice ana="print-error">
+                     <sic>it it</sic>
+                     <corr>it</corr>
+                  </choice>
+                  <lb/>
+was decreed, that the Image of God should be worshipped<lb/>
+with the same worship that is due <normalised orig="vnto" auto="true">unto</normalised> God. Their practice<lb/>
+is answerable to their doctrine: for they worship the Images<lb/>
+of God, of Christ, the Saints, the <normalised orig="woodden" auto="true">wooden</normalised> <normalised orig="Crosse" auto="true">Cross</normalised>, yea, a<lb/>
+piece of bread.<lb/>
+            C. They say, that they <normalised orig="doe" auto="true">do</normalised> not worship the images, but God, <choice ana="illegible">
+                     <sic>Chr*</sic>
+                     <corr>Christ</corr>
+                  </choice>,<lb/>
+and the Saints in the image.<lb/>
+            M. Suppose that this were true, yet in so doing, they commit<lb/>
+<normalised orig="grosse" auto="true">gross</normalised> idolatry, and the same that the people of Israel<lb/>
+did, for which God plagued them greatly, Exod. 32. 5, 28. I<lb/>
+<normalised orig="thinke" auto="true">think</normalised> there is none so very a <normalised orig="Calfe" auto="true">Calf</normalised>, as to <normalised orig="thinke" auto="true">think</normalised> that they<lb/>
+did worship the <normalised orig="Calfe" auto="true">Calf</normalised> it <normalised orig="selfe" auto="true">self</normalised>.The <normalised orig="Calfe" auto="true">Calf</normalised> was but a representation<lb/>
+                  <pb n="13"/>
+                  <lb/>
+of God; and yet they sinned greatly in making it, and<lb/>
+worshipping God in it. The Heathen in times past could say<lb/>
+as much for <normalised orig="themselues" auto="true">themselves</normalised>, concerning their worshipping of Images,<lb/>
+as the Papists now <normalised orig="doe" auto="true">do</normalised>: and yet as they were Idolaters,<lb/>
+so are the Papists: for as touching their superstition and<lb/>
+idolatry, <normalised orig="bloud" auto="true">blood</normalised> <normalised orig="ca~not" auto="true">cannot</normalised> be more like to <normalised orig="bloud" auto="true">blood</normalised>, or an <normalised orig="egge" auto="true">egg</normalised> to an<lb/>
+<normalised orig="egge" auto="true">egg</normalised>, then the one of them is to another. The Heathen had<lb/>
+for <normalised orig="euery" auto="true">every</normalised> Nation and <normalised orig="Prouince" auto="true">Province</normalised>, some peculiar god. Among<lb/>
+them, the Elements had their <normalised orig="seueral" auto="true">several</normalised> gods to rule <normalised orig="ouer" auto="true">over</normalised> them.<lb/>
+The Heathen had a certain god assigned to their <normalised orig="cattell" auto="true">cattle</normalised>. The<lb/>
+Heathen had peculiar gods for learning and learned men,<lb/>
+and for <normalised orig="handi-crafts" auto="false">handicrafts</normalised> men. And all these <normalised orig="haue" auto="true">have</normalised> the Papists likewise.<lb/>
+The Heathen erected Altars, ordained Priests to offer<lb/>
+sacrifices, fell <normalised orig="downe" auto="true">down</normalised> before their <choice ana="illegible">
+                     <sic>ido*s</sic>
+                     <corr>idols</corr>
+                  </choice>, &amp;c. So the Papists<lb/>
+deck and <normalised orig="adorne" auto="true">adorn</normalised> their images, <normalised orig="goe" auto="true">go</normalised> on Pilgrimage to them,<lb/>
+fall <normalised orig="downe" auto="true">down</normalised> <normalised orig="vpon" auto="true">upon</normalised> their knees before them, and make their<lb/>
+prayers <normalised orig="vnto" auto="true">unto</normalised> them. And what is all this, but to worship the<lb/>
+very images <normalised orig="themselues" auto="true">themselves</normalised>, the which is most <normalised orig="grosse" auto="true">gross</normalised> idolatry?<lb/>
+Musculus on Psa. 16. ver. 4. page 139.140. Virels grounds, <normalised orig="pag" auto="true">page</normalised>. 87. to<lb/>
+92. Attersoll on Philemon, <normalised orig="pag" auto="true">page</normalised>. 63. 64.<lb/>
+            C. They say, that there be degrees of religious worship, the highest is<lb/>
+latria, and this is due <normalised orig="vnto" auto="true">unto</normalised> God: the lowest is Dulia, proper to Saints,<lb/>
+&amp;c. Bellar. de imag. Sanct. lib. 2. cap. 25. The Scripture <normalised orig="acknowledgeth" auto="true">acknowledges</normalised><lb/>
+one <normalised orig="onely" auto="true">only</normalised> <normalised orig="kinde" auto="true">kind</normalised> of religious worship, and that due <normalised orig="onely" auto="true">only</normalised> to God,<lb/>
+Math. 4. 10. Reu 22. 9. And this distinction of theirs was not known<lb/>
+and <normalised orig="receiued" auto="true">received</normalised> into the Church, till 400. <normalised orig="yeeres" auto="true">years</normalised> after Christ, Perk. 1.<lb/>
+vol. page 696. 2. vol. 530.<lb/>
+C. Was not the making and worshipping of Images <normalised orig="approued" auto="true">approved</normalised> of <choice ana="illegible">
+                     <sic/>
+                     <corr>by</corr>
+                  </choice>
+                  <lb/>
+                  <choice ana="illegible">
+                     <sic>*he</sic>
+                     <corr>the</corr>
+                  </choice> ancient Fathers?<lb/>
+            M. There was no <normalised orig="vse" auto="true">use</normalised> of Images among Christians, <choice ana="illegible">
+                     <sic>speci*lly</sic>
+                     <corr>specially</corr>
+                  </choice>
+                  <lb/>
+in their Churches, for 379. <normalised orig="yeeres" auto="true">years</normalised> after Christ. <choice ana="illegible">
+                     <sic>Adora*on</sic>
+                     <corr>Adoration</corr>
+                  </choice>
+                  <lb/>
+of Images was <normalised orig="neuer" auto="true">never</normalised> <normalised orig="publikely" auto="true">publicly</normalised> authorized till 788. <normalised orig="yeres" auto="true">years</normalised><lb/>
+                  <choice ana="illegible">
+                     <sic>*fter</sic>
+                     <corr>after</corr>
+                  </choice> Christ, in the second <normalised orig="Councell" auto="true">Council</normalised> of Nice, Perk. 1. vol. page<lb/>
+696. 2. vol. 421.<lb/>
+If you be disposed to see more at large when images first<lb/>
+                  <choice ana="illegible">
+                     <sic>*me</sic>
+                     <corr>came</corr>
+                  </choice> <normalised orig="vp" auto="true">up</normalised>, how they were forbidden and condemned by Fathers,<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="32">C</fw>
+                  <pb n="14"/>
+                  <lb/>
+<normalised orig="Emperours" auto="true">Emperors</normalised> and <normalised orig="Councels" auto="true">Counsels</normalised>, and how all that the Papists<lb/>
+can say for them, is answered: then read the <normalised orig="booke" auto="true">book</normalised> of Homilies<lb/>
+against <normalised orig="perill" auto="true">peril</normalised> of idolatry: for I know none that <normalised orig="hath" auto="true">has</normalised><lb/>
+written more soundly, fully and <normalised orig="plainely" auto="true">plainly</normalised> thereof.<lb/>
+            C. <normalised orig="Doe" auto="true">Do</normalised> they teach and practise any thing else against the second<lb/>
+<normalised orig="Commandement" auto="true">Commandment</normalised>?<lb/>
+            M. Yes: to the right worshipping of God, there is required<lb/>
+a <normalised orig="reuerend" auto="true">reverend</normalised> <normalised orig="vse" auto="true">use</normalised> of the <normalised orig="meanes" auto="true">means</normalised> of Gods worship and <normalised orig="seruice" auto="true">service</normalised>,<lb/>
+the which are sincere prayer, preaching, hearing of<lb/>
+Gods Word, and the <normalised orig="vse" auto="true">use</normalised> of the Sacraments. Concerning<lb/>
+prayer, it must be made with <normalised orig="vnderstanding" auto="true">understanding</normalised>, 1. Cor. 14. ver. 15.<lb/>
+Contrary hereunto is their praying in an <normalised orig="vnknown" auto="true">unknown</normalised> tongue.<lb/>
+In the purest Churches for the space of 800. <normalised orig="yeeres" auto="true">years</normalised> at the<lb/>
+least, <normalised orig="diuine" auto="true">divine</normalised> prayer was <normalised orig="neuer" auto="true">never</normalised> performed in a tongue <normalised orig="vnknowne" auto="true">unknown</normalised><lb/>
+to the people, Perk. 2. vol. 557. Concerning the Sacraments,<lb/>
+they <normalised orig="doe" auto="true">do</normalised> not rightly administer and <normalised orig="receiue" auto="true">receive</normalised> them,<lb/>
+but <normalised orig="haue" auto="true">have</normalised> added and taken from them at their pleasure.<lb/>
+The helps and furtherances of Gods worship are specially<lb/>
+two; <normalised orig="vowes" auto="true">vows</normalised> and fasting. The Papists make these to be parts<lb/>
+of Gods worship: yea, they make fasting to be a <normalised orig="worke" auto="true">work</normalised> of satisfaction<lb/>
+to Gods <normalised orig="iustice" auto="true">justice</normalised>, for the <normalised orig="temporall" auto="true">temporal</normalised> punishment of<lb/>
+<normalised orig="sinne" auto="true">sin</normalised>, and a meritorious <normalised orig="worke" auto="true">work</normalised>, <normalised orig="Rhem" auto="true">Them</normalised>. on 1. Cor. 15. Sect. 7. <choice ana="illegible">
+                     <sic/>
+                     <corr>Perk</corr>
+                  </choice>.<lb/>
+1. vol. 596. Synopsis Papismi. The <normalised orig="sixt" auto="true">sixth</normalised> <normalised orig="generall" auto="true">general</normalised> <normalised orig="Controuersie" auto="true">Controversy</normalised>,<lb/>
+quest. 3. 4. The 19. <normalised orig="generall" auto="true">general</normalised> <normalised orig="Controuersie" auto="true">Controversy</normalised>, quest. 8. In a word, all<lb/>
+their <normalised orig="carnall" auto="true">carnal</normalised> ceremonies, <normalised orig="deuised" auto="true">devised</normalised> by men, and wherein they<lb/>
+place the worship of God, are contrary to the second <normalised orig="Commandement" auto="true">Commandment</normalised>.<lb/>
+The most of which ceremonies, they <normalised orig="haue" auto="true">have</normalised> borrowed,<lb/>
+partly, from the <normalised orig="Iewes" auto="true">Jews</normalised>, partly from the Gentiles, <choice ana="illegible">
+                     <sic/>
+                     <corr>Willet</corr>
+                  </choice>
+                  <lb/>
+on Iude, <normalised orig="pag" auto="true">page</normalised>. 215. 216.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

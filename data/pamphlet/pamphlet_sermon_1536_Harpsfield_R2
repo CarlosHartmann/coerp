@@ -1,0 +1,1014 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A notable sermon by <normalised orig="Mayster" auto="true">Master</normalised> <normalised orig="Ihon" auto="false">John</normalised> <normalised orig="Harpesfeild" auto="false">harpsfield</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JoHa1516"><notvariant>Harpsfield</notvariant>, John</author>
+               <title type="main">A notable and learned sermon or <normalised orig="homilie" auto="true">homily</normalised>, made <normalised orig="vpon" auto="true">upon</normalised> saint <normalised orig="Andrewes" auto="true">Andrews</normalised> <normalised orig="daye" auto="true">day</normalised> last past 1556 in the Cathedral <normalised orig="churche" auto="true">church</normalised> of S. <normalised orig="Paule" auto="true">Paul</normalised> in London, by <normalised orig="Mayster" auto="true">Master</normalised> <normalised orig="Ihon" auto="false">John</normalised> <normalised orig="Harpesfeild" auto="false">harpsfield</normalised> <normalised orig="doctour" auto="true">doctor</normalised> of <normalised orig="diuinitie" auto="true">divinity</normalised> and canon <normalised orig="residenciary" auto="false">residentiary</normalised> of the <normalised orig="sayd" auto="true">said</normalised> <normalised orig="churche" auto="true">church</normalised>, set <normalised orig="furthe" auto="true">forth</normalised> by the bishop of London.</title>
+               <title type="short">A notable sermon by <normalised orig="Mayster" auto="true">Master</normalised> <normalised orig="Ihon" auto="false">John</normalised> <normalised orig="Harpesfeild" auto="false">harpsfield</normalised></title>
+               <date when="1536">1536</date>
+               <date type="this_edition" when="1536">1536</date>
+               <idno type="STC">12795</idno>
+               <note type="genre" subtype="pamphlet_sermon">sermon pamphlet</note>
+               <note type="sample" target="#JoHa1516_1536_pamphlet_sermon_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="JoHa1516_1536_pamphlet_sermon_1">
+            <div>
+               <head>
+                  Constituite diem solemnem<lb/>
+in condensis, <choice ana="print">
+                        <sic>vsq3</sic>
+                        <corr>vsque</corr>
+                     </choice> ad cornu altaris.
+               </head>
+               <p>
+                  <lb/>
+                  <lb/>
+<normalised orig="HOnorable" auto="true">Honourable</normalised>, <normalised orig="worshipfull" auto="true">worshipful</normalised>,<lb/>
+and <normalised orig="deuout" auto="true">devout</normalised> <lb/>
+<normalised orig="christia~" auto="true">christian</normalised> audience,<lb/>
+the holy<lb/>
+prophet <normalised orig="Dauid" auto="true">David</normalised>,<lb/>
+in his <normalised orig="hundreth" auto="true">hundredth</normalised><lb/>
+and .xvii. <normalised orig="psalme" auto="true">psalm</normalised><lb/>
+(<normalised orig="whe~ce" auto="false">whence</normalised> the <normalised orig="wordes" auto="true">words</normalised> of my theme<lb/>
+are taken out) <normalised orig="dothe" auto="true">does</normalised> <normalised orig="intreate" auto="true">entreat</normalised> of<lb/>
+<normalised orig="foure" auto="true">four</normalised> <normalised orig="pointes" auto="true">points</normalised> <normalised orig="moste" auto="true">most</normalised> <normalised orig="mete" auto="true">meat</normalised> to <normalised orig="bee" auto="true">be</normalised><lb/>
+<normalised orig="duely" auto="true">duly</normalised> <normalised orig="co~sidered" auto="true">considered</normalised>, and effectually<lb/>
+of <normalised orig="vs" auto="true">us</normalised> all practised at this <normalised orig="prese~t" auto="true">present</normalised>.<lb/>
+<normalised orig="Fyrst" auto="true">First</normalised> he <normalised orig="declareth" auto="true">declares</normalised> that <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+had been in extreme <normalised orig="perill" auto="true">peril</normalised> and<lb/>
+<normalised orig="daunger" auto="true">danger</normalised> of life, and in great affliction<lb/>
+&amp; tribulation of <normalised orig="mynde" auto="true">mind</normalised>. <lb/>
+<normalised orig="Secondely" auto="true">Secondly</normalised>, he <normalised orig="acknowledgeth" auto="true">acknowledges</normalised><lb/>
+that God of his infinite <normalised orig="mercye" auto="true">mercy</normalised><lb/>
+and <normalised orig="goodnes" auto="true">goodness</normalised> did <normalised orig="deliuer" auto="true">deliver</normalised> him.<lb/>
+                  <lb/>
+                  <fw type="pageNum">A.ii.</fw>
+                  <pb n="1"/>
+                  <lb/>
+<normalised orig="Thirdelye" auto="false">Thirdly</normalised> that he <normalised orig="doeth" auto="true">doth</normalised> <normalised orig="esteme" auto="true">esteem</normalised><lb/>
+those <normalised orig="daungers" auto="true">dangers</normalised> and <normalised orig="veracions" auto="false">verations</normalised><lb/>
+as a scourge for <normalised orig="synne" auto="true">sin</normalised>. <normalised orig="Fourthlye" auto="false">Fourthly</normalised><lb/>
+and <normalised orig="laste" auto="true">last</normalised> he <normalised orig="geueth" auto="true">gives</normalised> <normalised orig="thankes" auto="true">thanks</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised> GOD his <normalised orig="deliuerer" auto="true">deliverer</normalised>, and<lb/>
+<normalised orig="exhorteth" auto="true">exhorts</normalised> <normalised orig="al" auto="true">all</normalised> other to do the like.<lb/>
+Concerning the <normalised orig="perill" auto="true">peril</normalised> he was<lb/>
+in, he <normalised orig="sayth" auto="true">saith</normalised>: Circundantes circundederunt <lb/>
+me sicut apes. My enemies<lb/>
+compassed me round about<lb/>
+as <normalised orig="thicke" auto="true">thick</normalised> as it had <normalised orig="ben" auto="true">been</normalised> a swarm<lb/>
+of Bees. And <normalised orig="againe" auto="true">again</normalised> within a<lb/>
+while after. Impulsus euersus sum<lb/>
+ut caderem, I was <normalised orig="thruste" auto="true">thrust</normalised> at so<lb/>
+sore, that I was <normalised orig="lyke" auto="true">like</normalised> to be <normalised orig="ouerthrowne" auto="true">overthrown</normalised>:<lb/>
+and after that he <normalised orig="calleth" auto="true">calls</normalised> <lb/>
+him <normalised orig="selfe" auto="true">self</normalised>, <quote type="biblical" ana="Ps 118.22">
+                     lapide~ quem reprobauerunt<lb/>
+edifica~tes
+                  </quote>. <quote type="biblical" ana="Ps 118.22">A <normalised orig="ston" auto="false">stone</normalised> which<lb/>
+the builders did refuse</quote> and cast<lb/>
+<normalised orig="awaye" auto="true">away</normalised>: meaning in those .iii. places,<lb/>
+the persecution <normalised orig="whiche" auto="true">which</normalised> he<lb/>
+<normalised orig="susteyned" auto="true">sustained</normalised> at the <normalised orig="handes" auto="true">hands</normalised> of wicked<lb/>
+                  <pb n="2"/>
+                  <lb/>
+Saul, who (as it is written<lb/>
+in the <normalised orig="fyrst" auto="true">first</normalised> <normalised orig="booke" auto="true">book</normalised> of the <normalised orig="kinges" auto="true">kings</normalised>)<lb/>
+sometime <normalised orig="threwe" auto="true">threw</normalised> a <normalised orig="darte" auto="true">dart</normalised> at <normalised orig="Dauid" auto="true">David</normalised>:<lb/>
+<normalised orig="sometyme" auto="true">sometime</normalised> sent men <normalised orig="sodenlye" auto="true">suddenly</normalised><lb/>
+to <normalised orig="Dauids" auto="true">David's</normalised> house, to take him<lb/>
+in his <normalised orig="beed" auto="true">been</normalised> and <normalised orig="bringe" auto="true">bring</normalised> him <normalised orig="vnto" auto="true">unto</normalised><lb/>
+him, that he might be slain: <normalised orig="somtime" auto="true">sometime</normalised>,<lb/>
+persecuted him with an <normalised orig="ope~" auto="true">open</normalised><lb/>
+<normalised orig="armye" auto="true">army</normalised>. Concerning the <normalised orig="seconde" auto="true">second</normalised><lb/>
+<normalised orig="pointe" auto="true">point</normalised>, <normalised orig="whiche" auto="true">which</normalised> is how <normalised orig="Dauid" auto="true">David</normalised> in<lb/>
+the <normalised orig="forsaied" auto="true">foresaid</normalised> <normalised orig="Psalme" auto="true">Psalm</normalised> <normalised orig="dothe" auto="true">does</normalised> <normalised orig="confesse" auto="true">confess</normalised><lb/>
+and acknowledge that god<lb/>
+of his mere <normalised orig="goodnes" auto="true">goodness</normalised> <normalised orig="miraculouslye" auto="true">miraculously</normalised><lb/>
+protected and <normalised orig="deliuered" auto="true">delivered</normalised> <normalised orig="hym" auto="true">him</normalised>,<lb/>
+it is there written, Dominus suscepit<lb/>
+me, God was my help. <quote type="biblical" ana="Ps 118.14">
+                     Fortitudo<lb/>
+&amp; laus mea dominus, &amp; factus<lb/>
+est mihi in salutem
+                  </quote>, God is my <lb/>
+strength &amp; my <normalised orig="reioysing" auto="true">rejoicing</normalised>, and is<lb/>
+become my <normalised orig="saluatio~" auto="true">salvation</normalised>. Dextera domini<lb/>
+fecit uirtutem, dextera domini <lb/>
+exaltauit me, dextera domine fecit<lb/>
+                     <lb/>
+                     <fw type="pageNum">A.iii.</fw>
+                     <pb n="3"/>
+                     <lb/>
+virtutem. The <normalised orig="ryght" auto="true">right</normalised> <normalised orig="hande" auto="true">hand</normalised> of<lb/>
+God <normalised orig="hathe" auto="true">has</normalised> done <normalised orig="myghtelye" auto="false">mightily</normalised>, the<lb/>
+right <normalised orig="hande" auto="true">hand</normalised> of God <normalised orig="hath" auto="true">has</normalised> exalted<lb/>
+me, the right <normalised orig="hande" auto="true">hand</normalised> of God <normalised orig="hath" auto="true">has</normalised><lb/>
+done <normalised orig="myghtely" auto="true">mightily</normalised>. Concerning the<lb/>
+<normalised orig="thirde" auto="true">third</normalised> <normalised orig="pointe" auto="true">point</normalised>, <normalised orig="whiche" auto="true">which</normalised> is that the<lb/>
+prophet <normalised orig="Dauid" auto="true">David</normalised> <normalised orig="cou~teth" auto="false">counted</normalised> his troubles<lb/>
+and persecutions as a chastisement <lb/>
+for <normalised orig="sinne" auto="true">sin</normalised>, he <normalised orig="sayth" auto="true">saith</normalised>. Castigans<lb/>
+casigauit me dominus. God<lb/>
+<normalised orig="hathe" auto="true">has</normalised> chastened &amp; corrected me.<lb/>
+The <normalised orig="laste" auto="true">last</normalised> and <normalised orig="fourthe" auto="true">fourth</normalised> <normalised orig="pointe" auto="true">point</normalised> is<lb/>
+<normalised orig="thankes" auto="true">thanks</normalised> <normalised orig="geuing" auto="true">giving</normalised> &amp; <normalised orig="prouoking" auto="true">provoking</normalised> all<lb/>
+other to the like. This point is<lb/>
+to be <normalised orig="fou~d" auto="true">found</normalised> in many places of the<lb/>
+<normalised orig="Psalme" auto="true">Psalm</normalised>, but most notably in the<lb/>
+<normalised orig="wordes" auto="true">words</normalised> of my theme when he<lb/>
+<normalised orig="saieth" auto="true">says</normalised>: Constituite diem solennem<lb/>
+in condensis <choice ana="print">
+                        <sic>vsq3</sic>
+                        <corr>vsque</corr>
+                     </choice> ad cornu altaris.
+                  <lb/>
+Appoint you to <normalised orig="kepe" auto="true">keep</normalised> a <normalised orig="solempne" auto="true">solemn</normalised> <lb/>
+<normalised orig="feaste" auto="true">feast</normalised>, in great frequencies or<lb/>
+multitudes, &amp; <normalised orig="co~course" auto="false">concourse</normalised> of people  <lb/>
+                  <pb n="4"/>
+                  <lb/>
+<normalised orig="euen" auto="true">even</normalised> <normalised orig="reachinge" auto="true">reaching</normalised> to the corners of<lb/>
+the alter. It was <normalised orig="commaunded" auto="true">commanded</normalised><lb/>
+in the old <normalised orig="lawe" auto="true">law</normalised> that at <normalised orig="solempne" auto="true">solemn</normalised><lb/>
+<normalised orig="feastes" auto="true">feasts</normalised> the people should <normalised orig="bringe" auto="true">bring</normalised><lb/>
+Oxen, <normalised orig="Calues" auto="true">Calves</normalised>, <normalised orig="lambes" auto="true">lambs</normalised>, or <normalised orig="Goates" auto="true">Goats</normalised>,<lb/>
+to be <normalised orig="offred" auto="true">offered</normalised> <normalised orig="vp" auto="true">up</normalised> <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="aulter" auto="true">alter</normalised><lb/>
+in sacrifice, and that the <normalised orig="preist" auto="true">priest</normalised><lb/>
+<normalised orig="shoulde" auto="true">should</normalised> <normalised orig="sprynkell" auto="false">sprinkle</normalised> of the <normalised orig="bloude" auto="true">blood</normalised><lb/>
+<normalised orig="vpo~" auto="true">upon</normalised> the corners of the <normalised orig="aultar" auto="true">altar</normalised>: &amp; <lb/>
+he <normalised orig="nowe" auto="true">now</normalised> <normalised orig="exhorteth" auto="true">exhorts</normalised> them so to do,<lb/>
+in <normalised orig="geuynge" auto="true">giving</normalised> <normalised orig="thankes" auto="true">thanks</normalised> to God, for<lb/>
+that he had <normalised orig="deliuered" auto="true">delivered</normalised> him out of<lb/>
+the <normalised orig="handes" auto="true">hands</normalised> of Saul: and he <normalised orig="moueth" auto="true">moves</normalised><lb/>
+them to <normalised orig="kepe" auto="true">keep</normalised> a <normalised orig="newe" auto="true">new</normalised> <normalised orig="solemnetie" auto="false">solemnity</normalised><lb/>
+for this purpose, besides<lb/>
+the accustomed <normalised orig="feastes" auto="true">feasts</normalised> <normalised orig="commau~ded" auto="true">commanded</normalised><lb/>
+in the <normalised orig="lawe" auto="true">law</normalised>. <normalised orig="Accordynge" auto="true">According</normalised> to<lb/>
+this example <normalised orig="geuen" auto="true">given</normalised> <normalised orig="vs" auto="true">us</normalised> by <normalised orig="kynge" auto="true">king</normalised> <lb/>
+<normalised orig="Dauid" auto="true">David</normalised>, it is our <normalised orig="parte" auto="true">part</normalised> to <normalised orig="vse" auto="true">use</normalised> our<lb/>
+<normalised orig="selfes" auto="true">selves</normalised> this present <normalised orig="daye" auto="true">day</normalised>. First to<lb/>
+remember what miserable and<lb/>
+<normalised orig="parilous" auto="false">perilous</normalised> case we were in of late<lb/>
+                  <lb/>
+                  <fw type="pageNum">A.iiii.</fw>
+                  <pb n="5"/>
+                  <lb/>
+<normalised orig="yeres" auto="true">years</normalised>. <normalised orig="Nexte" auto="true">Next</normalised> to consider <normalised orig="howe" auto="true">how</normalised><lb/>
+God by his <normalised orig="myghtye" auto="true">mighty</normalised> <normalised orig="hande" auto="true">hand</normalised>, and<lb/>
+<normalised orig="thoroughe" auto="false">through</normalised> <normalised orig="hys" auto="true">his</normalised> infinite <normalised orig="mercye" auto="true">mercy</normalised><lb/>
+<normalised orig="hathe" auto="true">has</normalised> <normalised orig="deliuered" auto="true">delivered</normalised> <normalised orig="vs" auto="true">us</normalised>. <normalised orig="Thirdlye" auto="true">Thirdly</normalised> to<lb/>
+<normalised orig="perswade" auto="true">persuade</normalised> <normalised orig="oure" auto="true">our</normalised> <normalised orig="selues" auto="true">selves</normalised>, that wee<lb/>
+<normalised orig="worthely" auto="true">worthily</normalised> suffered those miseries<lb/>
+for <normalised orig="oure" auto="true">our</normalised> <normalised orig="synnes" auto="true">sins</normalised>. <normalised orig="Fourthlye" auto="false">Fourthly</normalised> to be<lb/>
+<normalised orig="thankefull" auto="true">thankful</normalised>, and induce other to<lb/>
+<normalised orig="tha~kes" auto="true">thanks</normalised> <normalised orig="geuing" auto="true">giving</normalised> for our <normalised orig="deliuery" auto="true">delivery</normalised>.<lb/>
+<normalised orig="Whiche" auto="true">Which</normalised> that <normalised orig="ye" auto="true">you</normalised> may the rather<lb/>
+do, I <normalised orig="intende" auto="true">intend</normalised> by <normalised orig="Goddes" auto="true">Gods</normalised> grace<lb/>
+and your patience, to <normalised orig="stande" auto="true">stand</normalised> <normalised orig="vpon" auto="true">upon</normalised><lb/>
+the <normalised orig="twoo" auto="true">two</normalised> <normalised orig="fyrste" auto="true">first</normalised> <normalised orig="pointes" auto="true">points</normalised>, and<lb/>
+to set forth the <normalised orig="excedinge" auto="false">exceeding</normalised> <normalised orig="greate" auto="true">great</normalised><lb/>
+<normalised orig="benefite" auto="true">benefit</normalised> of <normalised orig="oure" auto="true">our</normalised> reconciliation to<lb/>
+the <normalised orig="vnitie" auto="true">unity</normalised> of the <normalised orig="catholike" auto="true">catholic</normalised> <normalised orig="churche" auto="true">church</normalised>,<lb/>
+and the horrible miseries<lb/>
+which we were in, in the <normalised orig="tyme" auto="true">time</normalised> of<lb/>
+<normalised orig="schisme" auto="true">schism</normalised> and <normalised orig="diuision" auto="true">division</normalised>, &amp; then no<lb/>
+more, but <normalised orig="touche" auto="true">touch</normalised> the other two<lb/>
+<normalised orig="partes" auto="true">parts</normalised>, and so <normalised orig="committe" auto="true">commit</normalised> you to<lb/>
+God. And that the <normalised orig="thinges" auto="true">things</normalised> to be<lb/>
+                  <pb n="6"/>
+                  <lb/>
+<normalised orig="vttered" auto="true">uttered</normalised> at this <normalised orig="presente" auto="true">present</normalised> by me,<lb/>
+may be to Gods honour, to your<lb/>
+edification and <normalised orig="comforte" auto="true">comfort</normalised>, I <normalised orig="desyre" auto="true">desire</normalised><lb/>
+you <normalised orig="fyrste" auto="true">first</normalised> to <normalised orig="helpe" auto="true">help</normalised> me with<lb/>
+your prayers. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>The prayers.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+I <normalised orig="fynde" auto="true">find</normalised> in <normalised orig="holye" auto="true">holy</normalised> scripture<lb/>
+that there <normalised orig="wer" auto="true">were</normalised> two <normalised orig="comen" auto="true">come</normalised><lb/>
+<normalised orig="weales" auto="true">weals</normalised>, instituted, <normalised orig="ordeined" auto="true">ordained</normalised>,<lb/>
+and <normalised orig="appoynted" auto="true">appointed</normalised> by God him<lb/>
+<normalised orig="selfe" auto="true">self</normalised>. The one <normalised orig="emonge" auto="false">among</normalised> the <normalised orig="chyldren" auto="true">children</normalised><lb/>
+of <normalised orig="Israell" auto="true">Israel</normalised>, the other <normalised orig="emong" auto="true">among</normalised><lb/>
+the christians. The <normalised orig="co~mon" auto="true">common</normalised> <normalised orig="weale" auto="true">weal</normalised><lb/>
+of the Israelites or <normalised orig="Iewes" auto="true">Jews</normalised>, was<lb/>
+in <normalised orig="tyme" auto="true">time</normalised> before the <normalised orig="comminaltie" auto="false">commonalty</normalised><lb/>
+of <normalised orig="christendome" auto="true">christendom</normalised>. But this in <normalised orig="worthines" auto="true">worthiness</normalised><lb/>
+is <normalised orig="farre" auto="true">far</normalised> before it. For the<lb/>
+<normalised orig="thinges" auto="true">things</normalised> <normalised orig="belo~ging" auto="false">belonging</normalised> to that estate,<lb/>
+were figures, types, and <normalised orig="shadowes" auto="true">shadows</normalised><lb/>
+of <normalised orig="thynges" auto="true">things</normalised> <normalised orig="belonginge" auto="true">belonging</normalised> too<lb/>
+<normalised orig="christianitie" auto="true">christianity</normalised>. The children of Israel<lb/>
+were <normalised orig="vnder" auto="true">under</normalised> cruel <normalised orig="Pharao" auto="true">Pharaoh</normalised>, in<lb/>
+                  <lb/>
+                  <fw type="pageNum">A.v.</fw>
+                  <pb n="7"/>
+                  <lb/>
+great <normalised orig="captiuitie" auto="true">captivity</normalised> &amp; <normalised orig="thraldom" auto="true">thralldom</normalised>, <normalised orig="vntil" auto="true">until</normalised><lb/>
+such time as god of his <normalised orig="goodnes" auto="true">goodness</normalised><lb/>
+called them <normalised orig="oute" auto="true">out</normalised> of <normalised orig="Egypte" auto="true">Egypt</normalised>,<lb/>
+and drowned their <normalised orig="enemyes" auto="true">enemies</normalised> in<lb/>
+the <normalised orig="redde" auto="false">red</normalised> Sea: <normalised orig="lykewise" auto="true">likewise</normalised> is all<lb/>
+<normalised orig="mankinde" auto="true">mankind</normalised> <normalised orig="thralt" auto="false">thralled</normalised> to the spiritual<lb/>
+<normalised orig="Pharao" auto="true">Pharaoh</normalised>, that is the <normalised orig="deuil" auto="true">devil</normalised>, before<lb/>
+they <normalised orig="comme" auto="false">come</normalised> to <normalised orig="passe" auto="true">pass</normalised> <normalised orig="thoroughe" auto="false">through</normalised><lb/>
+<normalised orig="baptisme" auto="true">baptism</normalised>, <normalised orig="whiche" auto="true">which</normalised> because it <normalised orig="taketh" auto="true">takes</normalised><lb/>
+his force and strength of the<lb/>
+<normalised orig="bloud" auto="true">blood</normalised> of our <normalised orig="sauiour" auto="true">saviour</normalised>, and is <normalised orig="ministred" auto="true">ministered</normalised><lb/>
+in water, <normalised orig="maye" auto="true">may</normalised> well be<lb/>
+<normalised orig="lykened" auto="true">likened</normalised> to the read Sea, and in<lb/>
+it all power of the <normalised orig="deuill" auto="true">devil</normalised> is quite<lb/>
+<normalised orig="ouerwhelmed" auto="true">overwhelmed</normalised> and destroyed.<lb/>
+The <normalised orig="chyldren" auto="true">children</normalised> of <normalised orig="Israell" auto="true">Israel</normalised> <normalised orig="hauing" auto="true">having</normalised><lb/>
+passed the read Sea, were not<lb/>
+<normalised orig="furth" auto="true">forth</normalised> W<hi rend="high">e</hi> directly <normalised orig="conueied" auto="true">conveyed</normalised> to the<lb/>
+<normalised orig="lande" auto="true">land</normalised> of promise: but were <normalised orig="faine" auto="false">fain</normalised><lb/>
+to <normalised orig="traueill" auto="false">travail</normalised> in the <normalised orig="baren" auto="false">barren</normalised> &amp; <normalised orig="vnpleasaunt" auto="true">unpleasant</normalised><lb/>
+<normalised orig="wyldernes" auto="false">wilderness</normalised>, a <normalised orig="longe" auto="true">long</normalised> space,<lb/>
+there abiding <normalised orig="muche" auto="true">much</normalised> trouble and<lb/>
+                  <pb n="8"/>
+                  <lb/>
+vexation. <normalised orig="Euen" auto="true">Even</normalised> so christen people<lb/>
+after their <normalised orig="Baptisme" auto="true">Baptism</normalised> are left<lb/>
+in this vale of <normalised orig="miserie" auto="true">misery</normalised>, here to endure<lb/>
+many sharp &amp; perilous <normalised orig="stormes" auto="true">storms</normalised>,<lb/>
+and are not <normalised orig="immediatly" auto="true">immediately</normalised> <normalised orig="fro~" auto="true">from</normalised><lb/>
+the font, had <normalised orig="vp" auto="true">up</normalised> to the <normalised orig="lande" auto="true">land</normalised> of<lb/>
+the <normalised orig="liuyng" auto="true">living</normalised>, <normalised orig="whiche" auto="true">which</normalised> is the <normalised orig="lande" auto="true">land</normalised><lb/>
+promised to the <normalised orig="iust" auto="true">just</normalised>. In many<lb/>
+other <normalised orig="pointes" auto="true">points</normalised> the <normalised orig="lawe" auto="true">law</normalised> of <normalised orig="Moyses" auto="true">Moses</normalised><lb/>
+was a <normalised orig="shadowe" auto="true">shadow</normalised> of <normalised orig="christianitie" auto="true">christianity</normalised>,<lb/>
+but <normalised orig="moste" auto="true">most</normalised> especially in the<lb/>
+<normalised orig="kynd" auto="true">kind</normalised> &amp; <normalised orig="maner" auto="true">manner</normalised> of <normalised orig="gouernement" auto="true">government</normalised>,<lb/>
+is <normalised orig="liuely" auto="true">lively</normalised> represented the <normalised orig="gouernment" auto="true">government</normalised><lb/>
+<normalised orig="vsed" auto="true">used</normalised> in <normalised orig="Christes" auto="true">Christ's</normalised> <normalised orig="churche" auto="true">church</normalised>:<lb/>
+<normalised orig="whiche" auto="true">which</normalised> is the matter I specially<lb/>
+purpose to set <normalised orig="furth" auto="true">forth</normalised> <normalised orig="vnto" auto="true">unto</normalised> you, &amp;<lb/>
+<normalised orig="therfore" auto="true">therefore</normalised> desire you to <normalised orig="geue" auto="true">give</normalised> good<lb/>
+<normalised orig="eare" auto="true">ear</normalised> <normalised orig="vnto" auto="true">unto</normalised> it. The <normalised orig="co~men" auto="true">common</normalised> <normalised orig="weale" auto="true">weal</normalised><lb/>
+of the <normalised orig="Iewes" auto="true">Jews</normalised>, in that their passage<lb/>
+from Egypt to the <normalised orig="lande" auto="true">land</normalised> of<lb/>
+promise, <normalised orig="hadde" auto="true">had</normalised> <normalised orig="twoo" auto="true">two</normalised> rulers, by<lb/>
+Gods own <normalised orig="appointme~t" auto="false">appointment</normalised> set <normalised orig="ouer" auto="true">over</normalised><lb/>
+                  <pb n="9"/>
+                  <lb/>
+them, <normalised orig="Moyses" auto="true">Moses</normalised> and Aaron both<lb/>
+<normalised orig="preistes" auto="true">priests</normalised>: but the one, that is<lb/>
+<normalised orig="Moyses" auto="true">Moses</normalised>, which was the higher,<lb/>
+made <normalised orig="preist" auto="true">priest</normalised> <normalised orig="immediatly" auto="true">immediately</normalised> by God,<lb/>
+the other, that is Aaron, made<lb/>
+<normalised orig="preist" auto="true">priest</normalised> at <normalised orig="Goddes" auto="true">Gods</normalised> <normalised orig="commaundement" auto="true">commandment</normalised><lb/>
+by <normalised orig="Moyses" auto="true">Moses</normalised>. Of those two<lb/>
+rulers, the higher and worthier<lb/>
+<normalised orig="receiued" auto="true">received</normalised> at Gods <normalised orig="hande" auto="true">hand</normalised> all that<lb/>
+God <normalised orig="woulde" auto="true">would</normalised> <normalised orig="haue" auto="true">have</normalised> <normalised orig="sayed" auto="true">said</normalised> to the<lb/>
+people, and he <normalised orig="deliuered" auto="true">delivered</normalised> it to Aaron,<lb/>
+and then Aaron <normalised orig="deliuered" auto="true">delivered</normalised> it<lb/>
+to the people, or at the least instructed<lb/>
+the people <normalised orig="therin" auto="true">therein</normalised>. Contrariwise<lb/>
+<normalised orig="whe~" auto="true">when</normalised> the people would<lb/>
+<normalised orig="haue" auto="true">have</normalised> any question <normalised orig="demaunded" auto="true">demanded</normalised> of<lb/>
+God, Aaron did <normalised orig="moue" auto="true">move</normalised> that question<lb/>
+to <normalised orig="Moyses" auto="true">Moses</normalised>, and <normalised orig="Moyses" auto="true">Moses</normalised> to <lb/>
+God: So that <normalised orig="Moyses" auto="true">Moses</normalised> was <normalised orig="Aaro~s" auto="false">Aaron's</normalised><lb/>
+mouth, in <normalised orig="thinges" auto="true">things</normalised> to be <normalised orig="moued" auto="true">moved</normalised><lb/>
+from the people to God: and<lb/>
+Aaron was <normalised orig="Moyses" auto="true">Moses</normalised> mouth in<lb/>
+                  <pb n="10"/>
+                  <lb/>
+<normalised orig="thinges" auto="true">things</normalised> to be <normalised orig="reueled" auto="true">reveled</normalised> from God<lb/>
+to the people: as it is written in<lb/>
+the .iiii. of Exodus, where god <normalised orig="speketh" auto="true">speaks</normalised> <lb/>
+thus to <normalised orig="Moyses" auto="true">Moses</normalised>. <quote type="biblical" ana="Ex 4.16">
+                     Ipse loquetur<lb/>
+pro te ad populum &amp; erit os<lb/>
+tuum. Tu autem <normalised orig="eris" auto="true">ears</normalised> ei in his quæ<lb/>
+ad deum pertinent
+                  </quote>, that is. Thy<lb/>
+brother Aaron <normalised orig="shalbe" auto="true">shall be</normalised> thy spokesman<lb/>
+to the people, he <normalised orig="shalbe" auto="true">shall be</normalised> thy<lb/>
+<normalised orig="mouthe" auto="true">mouth</normalised>. And thou <normalised orig="shalte" auto="true">shalt</normalised> be <normalised orig="hys" auto="true">his</normalised><lb/>
+spokesman, and <normalised orig="hys" auto="true">his</normalised> <normalised orig="mouthe" auto="true">mouth</normalised> in<lb/>
+<normalised orig="thinges" auto="true">things</normalised> that come from GOD.<lb/>
+<normalised orig="Againe" auto="true">Again</normalised> <normalised orig="Moyses" auto="true">Moses</normalised> went <normalised orig="vp" auto="true">up</normalised> to the<lb/>
+<normalised orig="toppe" auto="true">top</normalised> of mount Sinay, &amp; there<lb/>
+talked face to face with GOD:<lb/>
+but Aaron in the <normalised orig="meane" auto="true">mean</normalised> season<lb/>
+<normalised orig="taried" auto="true">tarried</normalised> <normalised orig="beneth" auto="true">beneath</normalised> at the <normalised orig="foote" auto="true">foot</normalised> of the<lb/>
+<normalised orig="hyll" auto="true">hill</normalised> <normalised orig="emonge" auto="false">among</normalised> the people to <normalised orig="instructe" auto="true">instruct</normalised> <lb/>
+and <normalised orig="guyde" auto="true">guide</normalised> them. These<lb/>
+iii. <normalised orig="pointes" auto="true">points</normalised> in <normalised orig="Moyses" auto="true">Moses</normalised> &amp; Aaron,<lb/>
+as they were <normalised orig="thinges" auto="true">things</normalised> fulfilled<lb/>
+in <normalised orig="dede" auto="true">deed</normalised> in their persons, so were<lb/>
+                  <pb n="11"/>
+                  <lb/>
+they significations of <normalised orig="thynges" auto="true">things</normalised><lb/>
+to come, in the state of <normalised orig="christianitie" auto="true">christianity</normalised>.<lb/>
+For as S. <normalised orig="Paule" auto="true">Paul</normalised> <normalised orig="saieth" auto="true">says</normalised> in<lb/>
+the first to the <normalised orig="Corinthyans" auto="false">Corinthians</normalised> the<lb/>
+<normalised orig="te~th" auto="true">tenth</normalised> <normalised orig="chapitre" auto="true">chapter</normalised>. <quote type="biblical" ana="1 Cor 10.11">
+                     Hæc omnia in figura<lb/>
+contingebant illis.
+                  </quote> All these <normalised orig="thinges" auto="true">things</normalised> <lb/>
+<normalised orig="chaunced" auto="true">chanced</normalised> to the <normalised orig="Iewes" auto="true">Jews</normalised> in a<lb/>
+type of figure. And in the <normalised orig="tenthe" auto="true">tenth</normalised><lb/>
+to the <normalised orig="Hebreues" auto="true">Hebrews</normalised> he <normalised orig="alsoo" auto="true">also</normalised> <normalised orig="saieth" auto="true">says</normalised>,<lb/>
+                  Vmbram habens lex
+                  <quote type="biblical" ana="Heb 10.1">
+                     futuroru~ non<lb/>
+ipsa~ imaginem reru~.
+                  </quote> The <normalised orig="lawe" auto="true">law</normalised> of<lb/>
+<normalised orig="Moyses" auto="true">Moses</normalised> <normalised orig="hadde" auto="true">had</normalised> but a <normalised orig="shadowe" auto="true">shadow</normalised> of<lb/>
+<normalised orig="thinges" auto="true">things</normalised> to come, &amp; not the true<lb/>
+shape of those <normalised orig="thinges" auto="true">things</normalised> in <normalised orig="dede" auto="true">deed</normalised>.<lb/>
+To come <normalised orig="therfore" auto="true">therefore</normalised> to the <normalised orig="publike" auto="true">public</normalised><lb/>
+<normalised orig="weale" auto="true">weal</normalised> of <normalised orig="Christendome" auto="true">Christendom</normalised>, and the<lb/>
+<normalised orig="gouernement" auto="true">government</normalised> <normalised orig="therof" auto="true">thereof</normalised>: There are<lb/>
+in the <normalised orig="churche" auto="true">church</normalised> of Christ <normalised orig="alwayes" auto="true">always</normalised><lb/>
+two head rulers, <normalised orig="bothe" auto="true">both</normalised> <normalised orig="preistes" auto="true">priests</normalised>,<lb/>
+that is, Christ <normalised orig="oure" auto="true">our</normalised> <normalised orig="hyghe" auto="true">high</normalised> <normalised orig="preist" auto="true">priest</normalised><lb/>
+made by God the father <normalised orig="immediatlye" auto="true">immediately</normalised>,<lb/>
+<normalised orig="accordinge" auto="true">according</normalised> as we reed in<lb/>
+                  <pb n="12"/>
+                  <lb/>
+the <normalised orig="hundreth" auto="true">hundredth</normalised> and ninth <normalised orig="psalme" auto="true">psalm</normalised>, <lb/>
+                  Tu es sacerdos ineterum secundii<lb/>
+ordinem Melchisedech. The other<lb/>
+<normalised orig="preist" auto="true">priest</normalised> inferior to Christ and yet<lb/>
+<normalised orig="gouernour" auto="true">governor</normalised> of the whole church,<lb/>
+first was saint Peter, and now<lb/>
+is his successor. Now Peter was<lb/>
+made <normalised orig="preist" auto="true">priest</normalised> by Christ, as Aaron<lb/>
+was by <normalised orig="Moyses" auto="true">Moses</normalised>: and his <normalised orig="successours" auto="true">successors</normalised><lb/>
+are made <normalised orig="preistes" auto="true">priests</normalised> by men<lb/>
+as <normalised orig="Aarons" auto="true">Aaron's</normalised> <normalised orig="successours" auto="true">successors</normalised> were.<lb/>
+<normalised orig="Christe" auto="true">Christ</normalised> is Peters spokesman to<lb/>
+God, and Peter was <normalised orig="Christes" auto="true">Christ's</normalised><lb/>
+<normalised orig="mouthe" auto="true">mouth</normalised> to the church: as <normalised orig="appeareth" auto="true">appears</normalised> <lb/>
+in the .xxii. of Luke, in these<lb/>
+<normalised orig="wordes" auto="true">words</normalised>, <quote type="biblical" ana="Lk 22.31-32">
+                     Simon, Simon, ecce Sathanas<lb/>
+expetiuit uos, ut cribraret, sicut<lb/>
+triticum. Ego autem rogaui pro te<lb/>
+ut non deficiat fides tua. Tu autem<lb/>
+aliquando conuertus, confirma fratres<lb/>
+tuos.
+                  </quote> Simon, Simon, behold<lb/>
+<normalised orig="Sathan" auto="true">Satan</normalised> <normalised orig="hathe" auto="true">has</normalised> desired you<lb/>
+                  <pb n="13"/>
+                  <lb/>
+to <normalised orig="sifte" auto="true">sift</normalised> you as it were <normalised orig="wheate" auto="true">wheat</normalised>:<lb/>
+but I <normalised orig="haue" auto="true">have</normalised> prayed for the, that<lb/>
+thy <normalised orig="faieth" auto="false">faith</normalised> <normalised orig="faile" auto="true">fail</normalised> not: &amp; when thou<lb/>
+shalt be <normalised orig="conuerted" auto="true">converted</normalised>, <normalised orig="confirme" auto="true">confirm</normalised> thy<lb/>
+brethren. In that <normalised orig="Christe" auto="true">Christ</normalised> <normalised orig="praieth" auto="true">prays</normalised><lb/>
+for Peter to God the father,<lb/>
+that Peters <normalised orig="faieth" auto="false">faith</normalised> <normalised orig="shoulde" auto="true">should</normalised> not<lb/>
+<normalised orig="faile" auto="true">fail</normalised>, he is Peters mouth to god<lb/>
+ward, as <normalised orig="Moyses" auto="true">Moses</normalised> was <normalised orig="Aaro~s" auto="false">Aaron's</normalised>. <lb/>
+<normalised orig="Agayne" auto="true">Again</normalised> in that Peter <normalised orig="confirmeth" auto="true">confirms</normalised> <lb/>
+his brethren, in the <normalised orig="trueth" auto="true">truth</normalised><lb/>
+of <normalised orig="christes" auto="true">christ's</normalised> religion, he is <normalised orig="christes" auto="true">christ's</normalised><lb/>
+<normalised orig="mouthe" auto="true">mouth</normalised> to the people. Christ is<lb/>
+ascended in to the <normalised orig="highe" auto="true">high</normalised> mount<lb/>
+of <normalised orig="heauen" auto="true">heaven</normalised>, <quote type="biblical" ana="Heb 9.24">
+                     Vt appareat nunc vultui<lb/>
+dei pro nobis.
+                  </quote> That he might<lb/>
+<normalised orig="appeare" auto="true">appear</normalised> before the face of God<lb/>
+for <normalised orig="vs" auto="true">us</normalised>. But the other ruler that<lb/>
+is <normalised orig="christes" auto="true">christ's</normalised> vicar, <normalised orig="remaineth" auto="true">remains</normalised> here<lb/>
+on earth, to <normalised orig="gouerne" auto="true">govern</normalised> the <normalised orig="churche" auto="true">church</normalised><lb/>
+<normalised orig="militaunt" auto="false">militant</normalised>, as did Aaron <normalised orig="emong" auto="true">among</normalised><lb/>
+the Israelites, as shall <normalised orig="anone" auto="true">anon</normalised><lb/>
+                  <pb n="14"/>
+                  <lb/>
+<normalised orig="appere" auto="true">appear</normalised> <normalised orig="mooste" auto="true">most</normalised> <normalised orig="euidently" auto="true">evidently</normalised> by <normalised orig="ineuitable" auto="true">inevitable</normalised><lb/>
+authorities of the new<lb/>
+<normalised orig="testame~t" auto="true">testament</normalised>. Now when God had<lb/>
+placed those to <normalised orig="priestes" auto="true">priests</normalised> in the<lb/>
+<normalised orig="gouernment" auto="true">government</normalised> of the <normalised orig="Iewes" auto="true">Jews</normalised>, <normalised orig="hee" auto="true">he</normalised><lb/>
+would such obedience to be <normalised orig="giue~" auto="true">given</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised>, them of the whole people,<lb/>
+that none might once <normalised orig="repine" auto="false">rapine</normalised> <normalised orig="againste" auto="true">against</normalised><lb/>
+the <normalised orig="authoritie" auto="true">authority</normalised> of either<lb/>
+of them, as is <normalised orig="euide~t" auto="true">evident</normalised> in the .xvi.<lb/>
+of <normalised orig="Numbres" auto="false">Numbers</normalised>, where Chore, Dathan,<lb/>
+and Abiron, for making<lb/>
+rebellion against <normalised orig="Moises" auto="true">Moses</normalised>, and<lb/>
+Aaron, were <normalised orig="swalowed" auto="false">swallowed</normalised> <normalised orig="vp" auto="true">up</normalised> in to<lb/>
+the earth <normalised orig="aliue" auto="true">alive</normalised>, and most terribly<lb/>
+perished, that the rest <normalised orig="myght" auto="true">might</normalised><lb/>
+by their example, <normalised orig="feare" auto="true">fear</normalised> at any<lb/>
+time to attempt the like. And in<lb/>
+the .xvii. of <normalised orig="Numbres" auto="false">Numbers</normalised>, GOD to<lb/>
+declare, that <normalised orig="hee" auto="true">he</normalised> had appointed<lb/>
+Aaron as <normalised orig="wel" auto="true">well</normalised> as <normalised orig="Moises" auto="true">Moses</normalised>, to be<lb/>
+<normalised orig="rular" auto="false">ruler</normalised> <normalised orig="ouer" auto="true">over</normalised> the Israelites, caused<lb/>
+                  <lb/>
+                  <fw type="pageNum">B.i.</fw>
+                  <pb n="15"/>
+                  <lb/>
+<normalised orig="euery" auto="true">every</normalised> captain of the <normalised orig="twelue" auto="true">twelve</normalised> tribes<lb/>
+to bring in a <normalised orig="rodde" auto="true">rod</normalised> to <normalised orig="Moyses" auto="true">Moses</normalised>,<lb/>
+and <normalised orig="al" auto="true">all</normalised> the <normalised orig="twelue" auto="true">twelve</normalised> <normalised orig="roddes" auto="true">rods</normalised> to<lb/>
+<normalised orig="bee" auto="true">be</normalised> <normalised orig="layed" auto="true">laid</normalised> in the tabernacle all<lb/>
+night, and whose <normalised orig="rodde" auto="true">rod</normalised> <normalised orig="shoulde" auto="true">should</normalised><lb/>
+<normalised orig="burgin" auto="false">bargain</normalised> on the <normalised orig="morowe" auto="true">morrow</normalised>, that he<lb/>
+was the <normalised orig="chefe" auto="true">chief</normalised> <normalised orig="gouernour" auto="true">governor</normalised> <normalised orig="vnder" auto="true">under</normalised><lb/>
+<normalised orig="Moyses" auto="true">Moses</normalised>. Which being done, on<lb/>
+the <normalised orig="morow" auto="true">morrow</normalised>, <normalised orig="Aarons" auto="true">Aaron's</normalised> <normalised orig="rodde" auto="true">rod</normalised> was<lb/>
+<normalised orig="founde" auto="true">found</normalised> with <normalised orig="buddes" auto="true">buds</normalised> on it. The<lb/>
+same <normalised orig="authoritie" auto="true">authority</normalised> that was in<lb/>
+<normalised orig="Aaro~" auto="false">Aaron</normalised> at that time, and thus <normalised orig="co~firmed" auto="true">confirmed</normalised><lb/>
+miraculously, remained<lb/>
+in the high priest, <normalised orig="Aarons" auto="true">Aaron's</normalised> <normalised orig="successour" auto="true">successor</normalised><lb/>
+from <normalised orig="tyme" auto="true">time</normalised> to <normalised orig="tyme" auto="true">time</normalised> so<lb/>
+long as the estate of that <normalised orig="co~mon" auto="true">common</normalised><lb/>
+<normalised orig="welth" auto="true">wealth</normalised> endured. <normalised orig="Euen" auto="true">Even</normalised> so is it in<lb/>
+<normalised orig="Christendome" auto="true">Christendom</normalised>. Peter <normalised orig="fyrst" auto="true">first</normalised> was<lb/>
+placed in the chief <normalised orig="gouernement" auto="true">government</normalised><lb/>
+<normalised orig="vnder" auto="true">under</normalised> Christ, and after Peter<lb/>
+his <normalised orig="successours" auto="true">successors</normalised> continue in the<lb/>
+same, and <normalised orig="haue" auto="true">have</normalised> the rule of the <lb/>
+                  <pb n="16"/>
+                  <lb/>
+whole church. But you <normalised orig="wil" auto="true">will</normalised> <normalised orig="peradue~ture" auto="true">peradventure</normalised><lb/>
+require farther <normalised orig="proofe" auto="true">proof</normalised><lb/>
+hereof, and <normalised orig="woulde" auto="true">would</normalised> gladly here<lb/>
+whether this may be established<lb/>
+by the ghospel, and the <normalised orig="auncient" auto="true">ancient</normalised><lb/>
+fathers: <normalised orig="wherin" auto="true">wherein</normalised> for your <normalised orig="conte~tacio~" auto="false">contentation</normalised><lb/>
+I will <normalised orig="so~what" auto="true">somewhat</normalised> say. And <normalised orig="fyrst" auto="true">first</normalised><lb/>
+touching Peter and his <normalised orig="authoritie" auto="true">authority</normalised><lb/>
+wee <normalised orig="reade" auto="true">read</normalised> in the .xvii. of <lb/>
+<normalised orig="Mathew" auto="true">Matthew</normalised>, how the gatherers<lb/>
+of the tribute money came to<lb/>
+<normalised orig="aske" auto="true">ask</normalised> the tribute of Christ, and<lb/>
+how Christ bade Peter cast <normalised orig="hys" auto="true">his</normalised><lb/>
+angle into the see, &amp; <normalised orig="looke" auto="true">look</normalised> what<lb/>
+<normalised orig="fishe" auto="true">fish</normalised> he <normalised orig="tooke" auto="true">took</normalised> first, he <normalised orig="tolde" auto="true">told</normalised> him<lb/>
+that in his mouth he should find<lb/>
+so much money as two <normalised orig="me~" auto="true">men</normalised> were<lb/>
+bound to pay and said, <quote type="biblical" ana="Mt 17.27">
+                     da eis pro<lb/>
+me et te
+                  </quote>. <normalised orig="Paye" auto="true">Pay</normalised> that money to <normalised orig="the~" auto="true">them</normalised><lb/>
+for me and thy <normalised orig="selfe" auto="true">self</normalised>. Upon this<lb/>
+<normalised orig="facte" auto="true">fact</normalised> of <normalised orig="Christe" auto="true">Christ</normalised> S. Augustine<lb/>
+saith Didrachma capitum solurio<lb/>
+                     <lb/>
+                     <fw type="pageNum">B.ii.</fw>
+                     <pb n="17"/>
+                     <lb/>
+intelligitur. Saluator cum pro <normalised orig="se" auto="true">see</normalised> et<lb/>
+Petro dari iubet, pro omnibus exoluisse<lb/>
+videtur: quod sicut in saluatore<lb/>
+erant omnes causa magisterii,<lb/>
+ira et post saluatore~ in Petro omnes<lb/>
+continentur: ipsum enim constituit<lb/>
+caput eoru~: that is to say, The<lb/>
+tribute money was <normalised orig="hed" auto="true">head</normalised> money<lb/>
+or <normalised orig="paiment" auto="true">payment</normalised> which <normalised orig="euery" auto="true">every</normalised> <normalised orig="hed" auto="true">head</normalised> or<lb/>
+ruler was bound to pay. <normalised orig="Wherfore" auto="true">Wherefore</normalised><lb/>
+when our <normalised orig="sauiour" auto="true">saviour</normalised> <normalised orig="co~maunded" auto="true">commanded</normalised><lb/>
+the tribute to be <normalised orig="paied" auto="true">paid</normalised> for<lb/>
+himself and for Peter, he <normalised orig="semeth" auto="true">seems</normalised><lb/>
+to <normalised orig="haue" auto="true">have</normalised> <normalised orig="paied" auto="true">paid</normalised> for them all. For <lb/>
+as they were all in our <normalised orig="sauiour" auto="true">saviour</normalised><lb/>
+by reason he was their <normalised orig="maister" auto="true">master</normalised>,<lb/>
+so after our <normalised orig="sauiour" auto="true">saviour</normalised> they were<lb/>
+all <normalised orig="conteined" auto="true">contained</normalised> in Peter. For he<lb/>
+had made Peter their <normalised orig="hed" auto="true">head</normalised> or ruler.<lb/>
+The same S. Austine writing<lb/>
+<normalised orig="vpo~" auto="true">upon</normalised> that place of S. Luke<lb/>
+in his .xxii. chapter where Christ<lb/>
+                  <pb n="18"/>
+                  <lb/>
+<normalised orig="saieth" auto="true">says</normalised> that he <normalised orig="praied" auto="true">prayed</normalised> for Peter,<lb/>
+<normalised orig="hath" auto="true">has</normalised> these <normalised orig="wordes" auto="true">words</normalised>, Non orauit<lb/>
+pro Iacobo et Ioanne et reliquis,<lb/>
+sed pro Petro in quo reliqui continentur
+                  <lb/>
+<normalised orig="Christe" auto="true">Christ</normalised> did not pray<lb/>
+for <normalised orig="Iames" auto="true">James</normalised> and <normalised orig="Iohn" auto="true">John</normalised> and for <lb/>
+the rest of his Apostles, but for<lb/>
+Peter, in <normalised orig="whome" auto="true">whom</normalised> the rest are <normalised orig="co~tained" auto="false">contained</normalised>.<lb/>
+In the .xxi. of <normalised orig="Mathew" auto="true">Matthew</normalised><lb/>
+we <normalised orig="finde" auto="true">find</normalised> how our <normalised orig="sauiour" auto="true">saviour</normalised> <normalised orig="sayed" auto="true">said</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised> Peter in most <normalised orig="speciall" auto="true">special</normalised> and<lb/>
+earnest <normalised orig="maner" auto="true">manner</normalised>, pasce agnos, pasce<lb/>
+agnos, pasce oues, <normalised orig="fede" auto="true">fed</normalised> my <normalised orig="lambes" auto="true">lambs</normalised><lb/>
+<normalised orig="fede" auto="true">fed</normalised> my <normalised orig="lambes" auto="true">lambs</normalised>, <normalised orig="fede" auto="true">fed</normalised> my <normalised orig="shepe" auto="true">sheep</normalised>: <lb/>
+And though <normalised orig="certe~" auto="true">certain</normalised> of the other apostles,<lb/>
+&amp; <normalised orig="thei" auto="true">they</normalised> also the most notablest,<lb/>
+were then present, yet he<lb/>
+<normalised orig="gaue" auto="true">gave</normalised> the charge <normalised orig="onely" auto="true">only</normalised> to Peter.<lb/>
+Wherupo~ Cipria~, Christostome,<lb/>
+Ambrose, Austine, gather that<lb/>
+Peter was made <normalised orig="rular" auto="false">ruler</normalised> <normalised orig="aboue" auto="true">above</normalised> &amp;<lb/>
+<normalised orig="ouer" auto="true">over</normalised> them all. Now as concerning<lb/>
+                  <pb n="19"/>
+                  <lb/>
+Peters <normalised orig="successours" auto="true">successors</normalised>, where<lb/>
+they are to be found and of their<lb/>
+<normalised orig="authoritie" auto="true">authority</normalised> <normalised orig="writeth" auto="true">writes</normalised> the <normalised orig="auncie~t" auto="false">ancient</normalised><lb/>
+father Ireneus, in his third <normalised orig="boke" auto="true">book</normalised><lb/>
+against y<hi rend="high">e</hi> heresies of Valentinus,<lb/>
+and other <normalised orig="heretikes" auto="true">heretics</normalised>, and in the<lb/>
+<normalised orig="thirde" auto="true">third</normalised> <normalised orig="chapiter" auto="true">chapter</normalised> of the same <normalised orig="boke" auto="true">book</normalised><lb/>
+in this <normalised orig="maner" auto="true">manner</normalised>. Quoniam valde<lb/>
+longum est omnium ecclesiarum<lb/>
+enumerare successiones, maximæ<lb/>
+et antiquissemæ et o~nibus cognitæ<lb/>
+a gloriosissimis duobus Apostolis<lb/>
+Petro et paulo Romæ fundatæ et<lb/>
+constitutæ ecclesiæ, eam qua~ habet<lb/>
+ab apostolis traditione~ et annu~ciata~<lb/>
+hominibus fidem per successiones<lb/>
+episcoporu~ peruenie~tem vsque ad<lb/>
+nos, indicantes confundimus eos<lb/>
+omnes qui quoquo modo vel per<lb/>
+sui complacentiam malam, vel vanam<lb/>
+gloriam, vel per cæcitatem et<lb/>
+mala~ sententia~, preterquam oportet<lb/>
+                     <pb n="20"/>
+                     <lb/>
+colligunt. Ad ha~c enim ecclesia~<lb/>
+propter potentiorem principalitatem<lb/>
+necesse est omnem co~uenire<lb/>
+ecclesiam, hoc est eos qui su~t <choice ana="print">
+                        <sic/>
+                        <corr>vndiq3</corr>
+                     </choice>
+                     <lb/>
+fideles, that is to say. Forasmuch<lb/>
+as it were a long <normalised orig="processe" auto="true">process</normalised> to recite<lb/>
+the succession of all christen <lb/>
+seas, we <normalised orig="showe" auto="true">show</normalised> the succession of<lb/>
+<normalised orig="Bishoppes" auto="true">Bishops</normalised> in the greatest, the<lb/>
+most <normalised orig="aunciente" auto="true">ancient</normalised>, and the <normalised orig="moste" auto="true">most</normalised><lb/>
+<normalised orig="knowen" auto="true">known</normalised> sea, founded and <normalised orig="stablished" auto="true">established</normalised><lb/>
+at Rome by the most <normalised orig="glorie" auto="true">glory</normalised><lb/>
+apostles <normalised orig="Petre" auto="true">Peter</normalised> &amp; <normalised orig="Paule" auto="true">Paul</normalised>: and we<lb/>
+declare what is the <normalised orig="tradicion" auto="true">tradition</normalised>,<lb/>
+which that sea <normalised orig="hath" auto="true">has</normalised> <normalised orig="receiued" auto="true">received</normalised> <normalised orig="fro~" auto="true">from</normalised><lb/>
+the apostles and what faith <normalised orig="hath" auto="true">has</normalised><lb/>
+<normalised orig="ben" auto="true">been</normalised> preached to men there, and<lb/>
+is <normalised orig="comen" auto="true">come</normalised> by succession of <normalised orig="byshoppes" auto="true">bishops</normalised><lb/>
+<normalised orig="euen" auto="true">even</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>, and so doing<lb/>
+we confound and put to <normalised orig="sylence" auto="true">silence</normalised><lb/>
+<normalised orig="al" auto="true">all</normalised> those, which by any <normalised orig="meanes" auto="true">means</normalised><lb/>
+either by standing to <normalised orig="muche" auto="true">much</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum">B.iiii.</fw>
+                  <pb n="21"/>
+                  <lb/>
+in their own <normalised orig="co~ceife" auto="false">conceive</normalised>, or for <normalised orig="vaine" auto="true">vain</normalised><lb/>
+<normalised orig="glorye" auto="true">glory</normalised>, or through <normalised orig="blinde" auto="true">blind</normalised> <normalised orig="ignoraunce" auto="true">ignorance</normalised>,<lb/>
+or <normalised orig="throughe" auto="true">through</normalised> wrong opinion,<lb/>
+<normalised orig="dooe" auto="true">do</normalised> gather otherwise in<lb/>
+matters of religion then is <normalised orig="behouable" auto="false">behooveable</normalised>.<lb/>
+For <normalised orig="vnto" auto="true">unto</normalised> this sea, by<lb/>
+<normalised orig="reson" auto="true">reason</normalised> of the higher <normalised orig="gouernment" auto="true">government</normalised>,<lb/>
+<normalised orig="euery" auto="true">every</normalised> sea, that is, all faithful,<lb/>
+<normalised orig="whersoeuer" auto="true">wheresoever</normalised> they <normalised orig="dwel" auto="true">dwell</normalised>, must <normalised orig="nedes" auto="true">needs</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> recourse. The like is<lb/>
+also in <normalised orig="Sainct" auto="true">Saint</normalised> Austine in <normalised orig="hys" auto="true">his</normalised>,<lb/>
+xxiv. epistle, where he <normalised orig="improuing" auto="false">improving</normalised><lb/>
+the <normalised orig="secte" auto="true">sect</normalised> of the Donatistes <normalised orig="writeth" auto="true">writes</normalised><lb/>
+in this <normalised orig="maner" auto="true">manner</normalised>, Si ordo episco<lb/>
+poru~ sibi succedentium co~siderandus<lb/>
+est, qua~to citius et <normalised orig="vere" auto="true">very</normalised> salubriter<lb/>
+ab ipso Petro numeramus, cui<lb/>
+totius ecclesiæ figuram gerenti dominus<lb/>
+ait. Tu es Petrus, et super<lb/>
+hanc Petra~ ædificabo ecclesia~ mea~,<lb/>
+If the order of Bishops <normalised orig="succeding" auto="true">succeeding</normalised><lb/>
+one a <normalised orig="nother" auto="true">another</normalised> is to be considered,<lb/>
+                  <pb n="22"/>
+                  <lb/>
+<normalised orig="howe" auto="true">how</normalised> much inore <normalised orig="soner" auto="true">sooner</normalised> &amp;<lb/>
+in <normalised orig="dede" auto="true">deed</normalised> more <normalised orig="wholsomly" auto="false">wholesomly</normalised> <normalised orig="doe" auto="true">do</normalised> we<lb/>
+<normalised orig="recken" auto="true">reckon</normalised> from Peter himself, <normalised orig="vnto" auto="true">unto</normalised><lb/>
+whom bearing the figure of<lb/>
+the whole church, our lord saith:<lb/>
+                  <quote type="biblical" ana="Mt 16.18">Thou art Peter, and <normalised orig="vpon" auto="true">upon</normalised> this<lb/>
+<normalised orig="rocke" auto="true">rock</normalised> will I <normalised orig="builde" auto="true">build</normalised> my <normalised orig="churche" auto="true">church</normalised>.</quote>
+                  <lb/>
+And <normalised orig="whithin" auto="true">within</normalised> a <normalised orig="litle" auto="true">little</normalised> after he saith<lb/>
+                  In hoc ordine successionis nullus<lb/>
+Donatista inuenitur. In this order<lb/>
+of succession no Donatist is<lb/>
+<normalised orig="founde" auto="true">found</normalised>. Thus concerning the<lb/>
+<normalised orig="primacye" auto="false">primacy</normalised> of S. Peter and <normalised orig="hys" auto="true">his</normalised><lb/>
+<normalised orig="successours" auto="true">successors</normalised>, we <normalised orig="haue" auto="true">have</normalised> matter sufficient<lb/>
+both in scripture and in<lb/>
+the fathers to content <normalised orig="vs" auto="true">us</normalised>. But<lb/>
+it may not here be omitted, that<lb/>
+though in the <normalised orig="numbre" auto="true">number</normalised> of many<lb/>
+<normalised orig="successours" auto="true">successors</normalised> of <normalised orig="Sainct" auto="true">Saint</normalised> Peter it<lb/>
+might <normalised orig="somtime" auto="true">sometime</normalised> <normalised orig="chau~ce" auto="true">chance</normalised> some one<lb/>
+or mo to be <normalised orig="euil" auto="true">evil</normalised>: yet that <choice ana="print-error">
+                     <sic>nothig</sic>
+                     <corr>nothing</corr>
+                  </choice>
+                  <lb/>
+can <normalised orig="preiudicate" auto="true">prejudicate</normalised> to the <normalised orig="authorite" auto="true">authority</normalised><lb/>
+                  <pb n="23"/>
+                  <lb/>
+nor <normalised orig="me~" auto="true">men</normalised> ought <normalised orig="therfore" auto="true">therefore</normalised> to withdraw <lb/>
+their obedience. And that<lb/>
+in this point also <normalised orig="ye" auto="true">you</normalised> may <normalised orig="se" auto="true">see</normalised> good<lb/>
+<normalised orig="mater" auto="true">matter</normalised> to content you: I <normalised orig="shal" auto="true">shall</normalised> recite<lb/>
+a notable <normalised orig="sayeng" auto="true">saying</normalised> of <normalised orig="Sainct" auto="true">Saint</normalised><lb/>
+Austin in his <normalised orig="forsaied" auto="true">foresaid</normalised> epistle to<lb/>
+this <normalised orig="effecte" auto="true">effect</normalised>, where he <normalised orig="writeth" auto="true">writes</normalised> in<lb/>
+this <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="mauer" auto="false">manner</normalised></corr>
+                  </choice>. In illu~ autem ordine~<lb/>
+episcoporu~ qui ducitur ab ipso Petro<lb/>
+                     <choice ana="print">
+                        <sic/>
+                        <corr>vsq3</corr>
+                     </choice> ad Anastasiu~, qui nu~c ea~de~<lb/>
+sedet cathedram, etia~ si quisquam<lb/>
+traditor per illa tempora surrepsisset,<lb/>
+nihil præiudicaret ecclesiæ, et<lb/>
+innoce~tibus christianis, quibus dn~s<lb/>
+prouidens ait de præpositis <normalised orig="malis" auto="true">malice</normalised>:<lb/>
+Quæ dicu~t facite, quæ aute~ faciunt<lb/>
+nolite facere. Dicunt enim &amp; non<lb/>
+faciunt, vt certa sit spes fidelis quæ<lb/>
+<normalised orig="no~" auto="true">no</normalised> in homine, sed in deo collocata<lb/>
+nunquam tempestate sacrilegi scismatis<lb/>
+dissipetur, that is to <normalised orig="saye" auto="true">say</normalised>.<lb/>
+<normalised orig="Thoughe" auto="true">Though</normalised> some <normalised orig="traitour" auto="true">traitor</normalised> had by<lb/>
+these days crept into that order,<lb/>
+                  <pb n="24"/>
+                  <lb/>
+or <normalised orig="numbre" auto="true">number</normalised> of <normalised orig="Bishoppes" auto="true">Bishops</normalised>, which<lb/>
+is <normalised orig="reckened" auto="false">reckoned</normalised> from Peter <normalised orig="vnto" auto="true">unto</normalised><lb/>
+Anastasius, which now <normalised orig="sitteth" auto="true">sits</normalised><lb/>
+in that sea, yet were it not <normalised orig="preiudicial" auto="false">prejudicial</normalised> <lb/>
+to the church, and to the<lb/>
+innocent christen <normalised orig="folke" auto="true">folk</normalised>, for <normalised orig="who~" auto="true">whom</normalised><lb/>
+our lord <normalised orig="prouiding" auto="true">providing</normalised> <normalised orig="saieth" auto="true">says</normalised>. <normalised orig="Doe" auto="true">Do</normalised><lb/>
+the <normalised orig="thinges" auto="true">things</normalised> which they say, but<lb/>
+that they do, do <normalised orig="ye" auto="true">you</normalised> not: for they<lb/>
+<normalised orig="saye" auto="true">say</normalised> and <normalised orig="doe" auto="true">do</normalised> not, that the hope<lb/>
+of a christen man might be sure,<lb/>
+and being set not on man, but<lb/>
+on god, should <normalised orig="neuer" auto="true">never</normalised> be shaken<lb/>
+with any tempest or <normalised orig="storme" auto="true">storm</normalised> of<lb/>
+wicked <normalised orig="scisme" auto="false">schism</normalised>. <normalised orig="Nowe" auto="true">Now</normalised> that <normalised orig="ye" auto="true">you</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> heard how <normalised orig="necessarye" auto="true">necessary</normalised> it is<lb/>
+for <normalised orig="al" auto="true">all</normalised> <normalised orig="christendome" auto="true">christendom</normalised> to be <normalised orig="vnder" auto="true">under</normalised><lb/>
+y<hi rend="high">e</hi> <normalised orig="gouerneme~t" auto="false">government</normalised> of the <normalised orig="Apostolike" auto="true">Apostolic</normalised><lb/>
+sea, and thereby must <normalised orig="needes" auto="true">needs</normalised><lb/>
+<normalised orig="perceiue" auto="true">perceive</normalised> that the <normalised orig="benefite" auto="true">benefit</normalised> of our<lb/>
+reconciliation and reduction to<lb/>
+that sea, is a most excellent and<lb/>
+<normalised orig="exceadyng" auto="false">exceeding</normalised> <normalised orig="gret" auto="true">great</normalised> benefit: I think<lb/>
+                  <pb n="25"/>
+                  <lb/>
+good to note <normalised orig="vnto" auto="true">unto</normalised> you the <normalised orig="circu~stances" auto="false">circumstances</normalised><lb/>
+incident with the same,<lb/>
+<normalised orig="wherby" auto="true">whereby</normalised> the benefit is made the<lb/>
+more notable. This most <normalised orig="ioyful" auto="true">joyful</normalised><lb/>
+<normalised orig="reconciliacion" auto="true">reconciliation</normalised> came <normalised orig="vnto" auto="true">unto</normalised> this<lb/>
+<normalised orig="realme" auto="true">realm</normalised> on the first <normalised orig="feastiual" auto="false">festival</normalised> day<lb/>
+in the whole <normalised orig="yeare" auto="true">year</normalised>, by the order<lb/>
+of the <normalised orig="ecclesiasticall" auto="true">ecclesiastical</normalised> <normalised orig="seruice" auto="true">service</normalised>, that<lb/>
+is, on <normalised orig="sainct" auto="true">saint</normalised> <normalised orig="Andrewes" auto="true">Andrews</normalised> day. It <lb/>
+came in the feast of S. Andrew<lb/>
+brother to S. Peter, to whose<lb/>
+sea we are reconciled, in the day<lb/>
+of such a saint as was crucified,<lb/>
+as <normalised orig="bothe" auto="true">both</normalised> Peter was, the <normalised orig="firste" auto="true">first</normalised><lb/>
+<normalised orig="taht" auto="false">that</normalised> <normalised orig="enioyed" auto="true">enjoyed</normalised> this <normalised orig="autoritie" auto="true">authority</normalised>, and<lb/>
+as <normalised orig="Christe" auto="true">Christ</normalised> was, <normalised orig="whoe" auto="true">who</normalised> <normalised orig="gaue" auto="true">gave</normalised> the<lb/>
+<normalised orig="autoritie" auto="true">authority</normalised> <normalised orig="vnto" auto="true">unto</normalised> Peter. It <normalised orig="chau~ced" auto="true">chanced</normalised><lb/>
+in the <normalised orig="tyme" auto="true">time</normalised> of a parliament,<lb/>
+and by the full consent and glad<lb/>
+<normalised orig="approbatio~" auto="false">approbation</normalised> of the whole <normalised orig="realme" auto="true">realm</normalised>,<lb/>
+in that parliament represented:<lb/>
+It came <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> by <normalised orig="oure" auto="true">our</normalised> <normalised orig="owne" auto="true">own</normalised><lb/>
+                  <pb n="26"/>
+                  <lb/>
+<normalised orig="countrey" auto="true">country</normalised> man the most <normalised orig="honorable" auto="true">honourable</normalised><lb/>
+<normalised orig="lorde" auto="true">lord</normalised> Legates grace, who<lb/>
+<normalised orig="neuer" auto="true">never</normalised> <normalised orig="swarued" auto="true">swerved</normalised> from that sea:<lb/>
+In the <normalised orig="raigne" auto="true">reign</normalised> of our <normalised orig="soueraines" auto="false">sovereigns</normalised><lb/>
+<normalised orig="kynge" auto="true">king</normalised> <normalised orig="Phylip" auto="false">Philip</normalised> and <normalised orig="quene" auto="true">queen</normalised> Mary,<lb/>
+who <normalised orig="alwayes" auto="true">always</normalised> continued in their<lb/>
+<normalised orig="obedyence" auto="true">obedience</normalised> to that <normalised orig="supremicye" auto="false">supremacy</normalised>.<lb/>
+It came by see <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>, a <normalised orig="mete" auto="true">meat</normalised><lb/>
+passage for the <normalised orig="authoritye" auto="true">authority</normalised> of<lb/>
+<normalised orig="hym" auto="true">him</normalised>, <normalised orig="whiche" auto="true">which</normalised> was called to that<lb/>
+<normalised orig="autoritie" auto="true">authority</normalised> <normalised orig="frome" auto="true">from</normalised> the see, and in<lb/>
+his feast, who was made an apostle <lb/>
+from the see, that is of a<lb/>
+                  <choice ana="print-error">
+                     <sic>fyssher</sic>
+                     <corr><normalised orig="fysher" auto="true">fisher</normalised></corr>
+                  </choice>. I shall not <normalised orig="nede" auto="true">need</normalised> <normalised orig="muche" auto="true">much</normalised><lb/>
+to <normalised orig="speake" auto="true">speak</normalised> of the great <normalised orig="euils" auto="true">evils</normalised> that<lb/>
+this <normalised orig="realme" auto="true">realm</normalised> is <normalised orig="ryd" auto="true">rid</normalised> from by this<lb/>
+benefit. <normalised orig="Euery" auto="true">Every</normalised> <normalised orig="ma~" auto="true">man</normalised> <normalised orig="feleth" auto="true">feels</normalised> in him<lb/>
+self the great <normalised orig="relife" auto="false">relieve</normalised>, that he <normalised orig="hath" auto="true">has</normalised><lb/>
+by his reconciliation: I <normalised orig="meane" auto="true">mean</normalised><lb/>
+not <normalised orig="onely" auto="true">only</normalised> for the <normalised orig="temporall" auto="true">temporal</normalised> <normalised orig="cruelte" auto="true">cruelty</normalised>,<lb/>
+<normalised orig="myserye" auto="true">misery</normalised>, tumult, <normalised orig="feare" auto="true">fear</normalised>, and<lb/>
+<normalised orig="tyrannye" auto="true">tyranny</normalised>, <normalised orig="whiche" auto="true">which</normalised> <normalised orig="ceasse" auto="true">cease</normalised> by this<lb/>
+                  <pb n="27"/>
+                  <lb/>
+<normalised orig="benefyte" auto="true">benefit</normalised>, but most of all for the<lb/>
+<normalised orig="inwarde" auto="true">inward</normalised> ghostly <normalised orig="relyfe" auto="false">relief</normalised>, of which<lb/>
+<normalised orig="saincte" auto="true">saint</normalised> <normalised orig="Paule" auto="true">Paul</normalised> <normalised orig="speakynge" auto="true">speaking</normalised> in the <lb/>
+<normalised orig="seconde" auto="true">second</normalised> <normalised orig="chapiter" auto="true">chapter</normalised> of his first epistle<lb/>
+to the Corinthians, <normalised orig="sayeth" auto="true">says</normalised>:<lb/>
+                  <quote type="biblical" ana="1 Cor 2.11">
+                     Quis scit hominu~ quæ su~t hominis,<lb/>
+nisi spiritus hominis qui ipso est: Ita<lb/>
+et quæ dei sunt nemo nouit nisi spiritus<lb/>
+dei.
+                  </quote> what man <normalised orig="knoweth" auto="true">knows</normalised> the<lb/>
+<normalised orig="thinges" auto="true">things</normalised> <normalised orig="whiche" auto="true">which</normalised> are in man, but<lb/>
+the <normalised orig="spirite" auto="true">spirit</normalised> of <normalised orig="manne" auto="true">man</normalised> <normalised orig="whiche" auto="true">which</normalised> is<lb/>
+within him? <normalised orig="Euen" auto="true">Even</normalised> so those <normalised orig="thinges" auto="true">things</normalised><lb/>
+<normalised orig="whiche" auto="true">which</normalised> <normalised orig="longe" auto="true">long</normalised> to god, none<lb/>
+<normalised orig="knoweth" auto="true">knows</normalised> but <normalised orig="onely" auto="true">only</normalised> the <normalised orig="spirite" auto="true">spirit</normalised> of<lb/>
+god. In <normalised orig="whiche" auto="true">which</normalised> <normalised orig="wordes" auto="true">words</normalised> <normalised orig="saincte" auto="true">saint</normalised><lb/>
+<normalised orig="Paule" auto="true">Paul</normalised> <normalised orig="geueth" auto="true">gives</normalised> <normalised orig="vs" auto="true">us</normalised> to <normalised orig="wete" auto="true">wet</normalised>, that<lb/>
+who so <normalised orig="hath" auto="true">has</normalised> not y<hi rend="high">e</hi> <normalised orig="spirite" auto="true">spirit</normalised> of god<lb/>
+in him, <normalised orig="knoweth" auto="true">knows</normalised> not gods truth.<lb/>
+Now the <normalised orig="spirite" auto="true">spirit</normalised> of god can not<lb/>
+be but in them that are of the<lb/>
+body, <normalised orig="whiche" auto="true">which</normalised> is <normalised orig="gouerned" auto="true">governed</normalised> with<lb/>
+<normalised orig="goddes" auto="true">gods</normalised> <normalised orig="spirite" auto="true">spirit</normalised>, and this <normalised orig="bodye" auto="true">body</normalised> is<lb/>
+                  <pb n="28"/>
+                  <lb/>
+the <normalised orig="Churche" auto="true">Church</normalised>: whereof they are<lb/>
+not, <normalised orig="whiche" auto="true">which</normalised> <normalised orig="deuyde" auto="true">divide</normalised> <normalised orig="theim" auto="true">them</normalised> <normalised orig="selues" auto="true">selves</normalised><lb/>
+from the <normalised orig="gouernment" auto="true">government</normalised> appointed<lb/>
+by god to be in the <normalised orig="churche" auto="true">church</normalised>, <normalised orig="whiche" auto="true">which</normalised><lb/>
+<normalised orig="gouernment" auto="true">government</normalised> is as you <normalised orig="haue" auto="true">have</normalised><lb/>
+<normalised orig="hearde" auto="true">heard</normalised>, the obedience to the sea<lb/>
+of Rome, from <normalised orig="whiche" auto="true">which</normalised> we <normalised orig="haue" auto="true">have</normalised><lb/>
+<normalised orig="deuided" auto="true">divided</normalised> our <normalised orig="selues" auto="true">selves</normalised> of late <normalised orig="yeres" auto="true">years</normalised>:<lb/>
+and <normalised orig="whervnto" auto="true">whereunto</normalised> we were by <normalised orig="thys" auto="true">this</normalised><lb/>
+<normalised orig="dayes" auto="true">days</normalised> benefit <normalised orig="vnited" auto="true">united</normalised> and reconciled<lb/>
+<normalised orig="againe" auto="true">again</normalised>. We were I say rid<lb/>
+from that <normalised orig="mysery" auto="true">misery</normalised>, which <normalised orig="sainct" auto="true">saint</normalised><lb/>
+<normalised orig="Paule" auto="true">Paul</normalised> <normalised orig="speaketh" auto="true">speaks</normalised> of in the second<lb/>
+<normalised orig="chapiter" auto="true">chapter</normalised> of his Epistle of the Ephesians,<lb/>
+<normalised orig="sayinge" auto="true">saying</normalised>: <quote type="biblical" ana="Eph 2.12">
+                     Eratis illo in<lb/>
+tempore sine christo, alienati a conuersatione<lb/>
+Israel, et hospites testamentorum, <lb/>
+promissionis spem<lb/>
+non habentes, et sine deo in hoc<lb/>
+mundo.
+                  </quote> <normalised orig="Ye" auto="true">You</normalised> were at that <normalised orig="tyme" auto="true">time</normalised><lb/>
+without <normalised orig="Christe" auto="true">Christ</normalised>: <normalised orig="Ye" auto="true">You</normalised> were <choice ana="print-error">
+                     <sic>straiinge</sic>
+                     <corr><normalised orig="strainge" auto="true">strange</normalised></corr>
+                  </choice>
+                  <lb/>
+from the <normalised orig="conuersacion" auto="true">conversation</normalised> of<lb/>
+                  <pb n="29"/>
+                  <lb/>
+Israel, <normalised orig="ye" auto="true">you</normalised> were strangers from<lb/>
+the <normalised orig="testamentes" auto="true">testaments</normalised> <normalised orig="hauyng" auto="true">having</normalised> no hope<lb/>
+of the <normalised orig="promysse" auto="false">promise</normalised>, and men without<lb/>
+god in this <normalised orig="worlde" auto="true">world</normalised>. <normalised orig="Yf" auto="true">If</normalised> wee<lb/>
+<normalised orig="nowe" auto="true">now</normalised> <normalised orig="perceaue" auto="true">perceive</normalised> these two <normalised orig="pointes" auto="true">points</normalised><lb/>
+<normalised orig="whiche" auto="true">which</normalised> I <normalised orig="haue" auto="true">have</normalised> declared, the<lb/>
+one of <normalised orig="goddes" auto="true">gods</normalised> singular <normalised orig="benefyte" auto="true">benefit</normalised><lb/>
+as this day conferred and bestowed<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> <normalised orig="vs" auto="true">us</normalised>, the other touching<lb/>
+the <normalised orig="dredfull" auto="true">dreadful</normalised> <normalised orig="daungers" auto="true">dangers</normalised> we were<lb/>
+in before, we <normalised orig="haue" auto="true">have</normalised> then a <normalised orig="thirde" auto="true">third</normalised><lb/>
+<normalised orig="parte" auto="true">part</normalised> to <normalised orig="playe" auto="true">play</normalised> with <normalised orig="kynge" auto="true">king</normalised> <normalised orig="Dauyd" auto="true">David</normalised>,<lb/>
+that is, to <normalised orig="acknoweledge" auto="false">acknowledge</normalised><lb/>
+these miseries to <normalised orig="haue" auto="true">have</normalised> <normalised orig="comen" auto="true">come</normalised> <normalised orig="vpon" auto="true">upon</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised> for <normalised orig="oure" auto="true">our</normalised> offences in <normalised orig="sayinge" auto="true">saying</normalised><lb/>
+<normalised orig="euery" auto="true">every</normalised> one of <normalised orig="vs" auto="true">us</normalised>. Castigans<lb/>
+castigauit
+                  <quote type="biblical" ana="Ps 118.18">
+                     me dominus, et morti<lb/>
+non tradidit me.
+                  </quote> God <normalised orig="hath" auto="true">has</normalised> chastened<lb/>
+me, but he <normalised orig="hath" auto="true">has</normalised> not <normalised orig="delyuered" auto="true">delivered</normalised><lb/>
+me into death. The <normalised orig="fourthe" auto="true">fourth</normalised><lb/>
+<normalised orig="poynt" auto="true">point</normalised> also is to be <normalised orig="ioyned" auto="true">joined</normalised> to the<lb/>
+other three, that is to <normalised orig="giue" auto="true">give</normalised> <normalised orig="thankes" auto="true">thanks</normalised><lb/>
+                  <pb n="30"/>
+                  <lb/>
+as <normalised orig="Dauid" auto="true">David</normalised> <normalised orig="dyd" auto="true">did</normalised>, and to exhort<lb/>
+all other to do the same, <normalised orig="whiche" auto="true">which</normalised><lb/>
+for my <normalised orig="parte" auto="true">part</normalised> I shall do with the<lb/>
+<normalised orig="wordes" auto="true">words</normalised> of my theme, <normalised orig="sayinge" auto="true">saying</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised> you.Constituite diem solennem<lb/>
+in condensis <choice ana="print">
+                        <sic>vsq</sic>
+                        <corr>vsque</corr>
+                     </choice>; ad cornu altaris.
+                  <lb/>
+Of late men pulled <normalised orig="downe" auto="true">down</normalised><lb/>
+<normalised orig="aultars" auto="true">altars</normalised>, <normalised orig="contempned" auto="false">condemned</normalised> the <normalised orig="seruice" auto="true">service</normalised><lb/>
+and sacrifice of the <normalised orig="aultar" auto="true">altar</normalised>, but<lb/>
+now we must come in <normalised orig="gret" auto="true">great</normalised> multitudes<lb/>
+to the <normalised orig="aultar" auto="true">altar</normalised>, to the <normalised orig="seruice" auto="true">service</normalised> <lb/>
+of the <normalised orig="aultar" auto="true">altar</normalised>, and the sacrifice<lb/>
+of the <normalised orig="aultar" auto="true">altar</normalised>, I <normalised orig="meane" auto="true">mean</normalised> to the<lb/>
+<normalised orig="Masse" auto="true">Mass</normalised>. And in <normalised orig="consideracion" auto="true">consideration</normalised> of<lb/>
+the <normalised orig="highe" auto="true">high</normalised> <normalised orig="worke" auto="true">work</normalised> of god done on<lb/>
+the <normalised orig="aultar" auto="true">altar</normalised>, we must make great<lb/>
+<normalised orig="solempnity" auto="true">solemnity</normalised>, specially on this day<lb/>
+And <normalised orig="beholde" auto="true">behold</normalised> besides the <normalised orig="benefyt" auto="false">benefit</normalised><lb/>
+of our <normalised orig="reconciliacion" auto="true">reconciliation</normalised> <normalised orig="chauncyng" auto="true">chancing</normalised><lb/>
+on this <normalised orig="daye" auto="true">day</normalised>, we <normalised orig="haue" auto="true">have</normalised> yet by S.<lb/>
+<normalised orig="Andrewe" auto="false">Andrew</normalised> a <choice ana="print-error">
+                     <sic>confirmacionof</sic>
+                     <corr><normalised orig="confirmacion" auto="true">confirmation</normalised> of</corr>
+                  </choice> our<lb/>
+<normalised orig="beliefe" auto="true">belief</normalised> in the sacrament and sacrifice<lb/>
+                  <lb/>
+                  <fw type="pageNum">C.i.</fw>
+                  <pb n="31"/>
+                  <lb/>
+of the <normalised orig="aulter" auto="true">alter</normalised> by that <normalised orig="hee" auto="true">he</normalised><lb/>
+<normalised orig="saide" auto="true">said</normalised> and did this <normalised orig="daye" auto="true">day</normalised>. For <normalised orig="amonge" auto="true">among</normalised><lb/>
+other <normalised orig="aunsweres" auto="true">answers</normalised> <normalised orig="whiche" auto="true">which</normalised><lb/>
+the blessed apostle S. <normalised orig="Andrewe" auto="false">Andrew</normalised><lb/>
+made to the cruel Aegeas, he said:<lb/>
+                  Omnipote~ti deo qui vnus &amp; <choice ana="print">
+                        <sic/>
+                        <corr>versus</corr>
+                     </choice>
+                     <lb/>
+est, ego omni die <choice ana="print-error">
+                        <sic>facrifico</sic>
+                        <corr>sacrifico</corr>
+                     </choice>, Non<lb/>
+thuris fumu~, nec taurorum mugientium<lb/>
+carnes, nec hircorum <choice ana="print-error">
+                        <sic>fanguine~</sic>
+                        <corr>sanguine~</corr>
+                     </choice>, <lb/>
+sed immaculatum agnum<lb/>
+quotidie in altari sacrifico cuius carnes<lb/>
+posteaquam omnis <choice ana="print">
+                        <sic/>
+                        <corr>populus</corr>
+                     </choice> ma~ducauerit,<lb/>
+&amp; sanguine~ eius biberit,<lb/>
+tamen integer parmanet &amp; immaculatus, <lb/>
+that is. I do offer sacrifice<lb/>
+<normalised orig="euery" auto="true">every</normalised> day to God almighty,<lb/>
+not the smoke of <normalised orig="franckencens" auto="false">frankincense</normalised>,<lb/>
+nor the <normalised orig="fleshe" auto="true">flesh</normalised> of <normalised orig="roring" auto="true">roaring</normalised> <normalised orig="bulles" auto="true">bulls</normalised> or<lb/>
+the blood of <normalised orig="goates" auto="true">goats</normalised>, but I sacrifice<lb/>
+<normalised orig="euery" auto="true">every</normalised> <normalised orig="daye" auto="true">day</normalised> on the <normalised orig="aultar" auto="true">altar</normalised> the<lb/>
+immaculate <normalised orig="lambe" auto="true">lamb</normalised>, whose flesh<lb/>
+after that <normalised orig="al" auto="true">all</normalised> the people <normalised orig="hath" auto="true">has</normalised> eaten<lb/>
+                  <pb n="32"/>
+                  <lb/>
+and <normalised orig="hath" auto="true">has</normalised> <normalised orig="dronke" auto="true">drunk</normalised> his <normalised orig="bloud" auto="true">blood</normalised>,<lb/>
+yet he <normalised orig="abideth" auto="true">abides</normalised> whole and immaculate.<lb/>
+What can <normalised orig="bee" auto="true">be</normalised> plainer<lb/>
+spoken either of the presence of<lb/>
+<normalised orig="Christes" auto="true">Christ's</normalised> body &amp; <normalised orig="bloud" auto="true">blood</normalised> in the sacrament<lb/>
+of the <normalised orig="aultar" auto="true">altar</normalised>, or of the<lb/>
+sacrifice of the <normalised orig="Masse" auto="true">Mass</normalised>, then here<lb/>
+is spoken? And as <normalised orig="plainely" auto="true">plainly</normalised> the<lb/>
+same blessed apostle <normalised orig="vttereth" auto="true">utters</normalised> in<lb/>
+that that <normalised orig="foloweth" auto="true">follows</normalised>, a <normalised orig="nother" auto="true">another</normalised><lb/>
+point worthy to be considered.<lb/>
+For when Aegeas <normalised orig="maruailinge" auto="false">marveling</normalised><lb/>
+at his <normalised orig="talke" auto="true">talk</normalised> <normalised orig="saied" auto="true">said</normalised> <normalised orig="vnto" auto="true">unto</normalised> him:<lb/>
+                  Quomodo potest hoc fieri? <normalised orig="howe" auto="true">how</normalised><lb/>
+can this <normalised orig="bee" auto="true">be</normalised> done? S. <normalised orig="Andrewe" auto="false">Andrew</normalised><lb/>
+<normalised orig="auswered" auto="true">answered</normalised>. Si vis scire quomodo<lb/>
+potest fieri, assume forma~ discipuli<lb/>
+vt possis discernere quod quæris, <lb/>
+If thou wilt know how it may<lb/>
+be done, take <normalised orig="vpo~" auto="true">upon</normalised> thee the shape<lb/>
+of <normalised orig="fourme" auto="true">form</normalised> of a disciple or <normalised orig="lerner" auto="false">learner</normalised>,<lb/>
+that thou may <normalised orig="discerne" auto="true">discern</normalised> y<hi rend="high">e</hi> thing<lb/>
+                  <pb n="33"/>
+                  <lb/>
+that thou <normalised orig="askest" auto="false">ask</normalised>. Which because<lb/>
+Aegeas would not do, he could<lb/>
+not <normalised orig="vndersta~d" auto="true">understood</normalised> the <normalised orig="mistery" auto="true">mystery</normalised>, as in<lb/>
+our days, so many as would <normalised orig="presu~pteously" auto="false">presumpteously</normalised><lb/>
+<normalised orig="teache" auto="true">teach</normalised> <normalised orig="themselfes" auto="true">themselves</normalised>, &amp;<lb/>
+not <normalised orig="lerne" auto="true">learn</normalised> of <normalised orig="Christes" auto="true">Christ's</normalised> church, erred<lb/>
+in the <normalised orig="truthe" auto="true">truth</normalised> of <normalised orig="Christes" auto="true">Christ's</normalised> <normalised orig="sacramentes" auto="true">sacraments</normalised>. <lb/>
+<normalised orig="Wherfore" auto="true">Wherefore</normalised> I <normalised orig="exhorte" auto="true">exhort</normalised> <lb/>
+you with the <normalised orig="woordes" auto="true">words</normalised> of my<lb/>
+theme: <normalised orig="kepe" auto="true">keep</normalised> this day a <normalised orig="solemne" auto="true">solemn</normalised><lb/>
+day: <normalised orig="kepe" auto="true">keep</normalised> <normalised orig="solempne" auto="true">solemn</normalised> procession,<lb/>
+make great <normalised orig="sole~nitie" auto="false">solemnity</normalised>, so as your<lb/>
+<normalised orig="deuotion" auto="true">devotion</normalised> may stretch <normalised orig="euen" auto="true">even</normalised> to the<lb/>
+<normalised orig="aultar" auto="true">altar</normalised>: or rather the <normalised orig="prophete" auto="true">prophet</normalised><lb/>
+<normalised orig="Dauid" auto="true">David</normalised> <normalised orig="foreseyng" auto="true">foreseing</normalised> in <normalised orig="spirite" auto="true">spirit</normalised> the<lb/>
+<normalised orig="benefite" auto="true">benefit</normalised> of christian <normalised orig="vnitie" auto="true">unity</normalised>, <normalised orig="doth" auto="true">does</normalised><lb/>
+exhort you <normalised orig="therto" auto="true">thereto</normalised>, and with the<lb/>
+<normalised orig="prophete" auto="true">prophet</normalised> <normalised orig="Dauid" auto="true">David</normalised>, S. Peter the<lb/>
+prince of the Apostles (to whose<lb/>
+<normalised orig="authoritie" auto="true">authority</normalised> wee are <normalised orig="recouered" auto="true">recovered</normalised>) <normalised orig="exhorteth" auto="true">exhorts</normalised><lb/>
+you, and with <normalised orig="Dauid" auto="true">David</normalised> &amp;<lb/>
+S. Peter, Peters brother saint<lb/>
+                  <pb n="34"/>
+                  <lb/>
+<normalised orig="Andrewe" auto="false">Andrew</normalised>, whose feast we <normalised orig="kepe" auto="true">keep</normalised>,<lb/>
+<normalised orig="exhorteth" auto="true">exhorts</normalised> you: and with <normalised orig="the~" auto="true">them</normalised>, &amp;<lb/>
+<normalised orig="aboue" auto="true">above</normalised> them, Christ our <normalised orig="sauiour" auto="true">saviour</normalised><lb/>
+<normalised orig="exhorteth" auto="true">exhorts</normalised> you, to <normalised orig="reioyce" auto="true">rejoice</normalised> and be<lb/>
+<normalised orig="thankeful" auto="false">thankful</normalised> for the great <normalised orig="benefite" auto="true">benefit</normalised><lb/>
+of god <normalised orig="comen" auto="true">come</normalised> this day <normalised orig="vnto" auto="true">unto</normalised> you,<lb/>
+that we <normalised orig="keping" auto="true">keeping</normalised> our <normalised orig="selues" auto="true">selves</normalised> with<lb/>
+in his <normalised orig="folde" auto="true">fold</normalised> on earth, <normalised orig="maye" auto="true">may</normalised> <normalised orig="bee" auto="true">be</normalised><lb/>
+found in the <normalised orig="numbre" auto="true">number</normalised> of those <normalised orig="la~bes" auto="false">lambs</normalised>,<lb/>
+which <normalised orig="sta~ding" auto="true">standing</normalised> on his right<lb/>
+hand at the <normalised orig="daye" auto="true">day</normalised> of Dome shall<lb/>
+<normalised orig="heare" auto="true">hear</normalised> our <normalised orig="lorde" auto="true">lord</normalised> say <normalised orig="vnto" auto="true">unto</normalised> them.<lb/>
+Come <normalised orig="ye" auto="true">you</normalised> blessed children of my<lb/>
+father <normalised orig="possesse" auto="true">possess</normalised> the <normalised orig="kyngdome" auto="true">kingdom</normalised><lb/>
+which was prepared for you <normalised orig="fro~" auto="true">from</normalised><lb/>
+the beginning of the <normalised orig="worlde" auto="true">world</normalised>.<lb/>
+Which send <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="al" auto="true">all</normalised>, the<lb/>
+father, the <normalised orig="sonne" auto="true">son</normalised>, and the<lb/>
+holy ghost, to <normalised orig="whome" auto="true">whom</normalised><lb/>
+be <normalised orig="al" auto="true">all</normalised> honour &amp; glory<lb/>
+world without<lb/>
+<normalised orig="ende" auto="true">end</normalised>,<lb/>
+Amen.  <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

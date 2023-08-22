@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="preface_sermon_1641_Grantham_R2">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Marriage Sermon by Tho. Grantham</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ThGr1664d">Grantham, Thomas</author>
+               <title type="main">"No title" In: Grantham, Thomas. A Marriage Sermon. A sermon called A Wife mistaken, or a Wife and no Wife: or Leah in stead of Rachel; A Sermon accused for Railing against Women; for maintaining <normalised orig="Polygamie" auto="false">Polygamy</normalised>, many Wives, for calling Iacob a Hocus-Pocus. [...]</title>
+               <title type="short">Preface Marriage Sermon by Tho. Grantham</title>
+               <date when="1641">1641</date>
+               <date type="this_edition" when="1641">1641</date>
+               <idno type="Wing">G1553</idno>
+               <note type="genre" subtype="preface_sermon">sermon preface</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+    <text>
+      <body>
+         <div xml:id="sample"/>
+      </body>
+   </text>
+</TEI>

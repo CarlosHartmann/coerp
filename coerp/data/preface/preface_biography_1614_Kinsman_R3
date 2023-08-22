@@ -1,0 +1,191 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Lives of saints</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="EdKi1614t">Kinsman, Edward</author>
+               <title type="main">"No title" In: Kinsman, Edward. The lives of saints Written in Spanish, by the learned and <normalised orig="Reuerend" auto="true">Reverend</normalised> Father Alfonso Villegas [...]</title>
+               <title type="short">Preface Lives of saints</title>
+               <date when="1614">1614</date>
+               <date type="this_edition" when="1614">1614</date>
+               <idno type="STC">24731.5</idno>
+               <note type="genre" subtype="preface_biography">biography preface</note>
+               <note type="sample" target="#EdKi1614t_1614_preface_biography_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="EdKi1614t_1614_preface_biography_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+To the Reader.<lb/>
+                  <lb/>
+WE present the now at length, <normalised orig="deere" auto="true">dear</normalised> <choice ana="illegible">
+                     <sic>Chri*tian</sic>
+                     <corr>Christian</corr>
+                  </choice>
+                  <lb/>
+Reader, with the <normalised orig="foure" auto="true">four</normalised> last <normalised orig="moneths" auto="true">months</normalised> of<lb/>
+                  <choice ana="illegible">
+                     <sic>*<normalised orig="heyre" auto="true">heir</normalised></sic>
+                     <corr><normalised orig="theyre" auto="true">their</normalised></corr>
+                  </choice> glorious <normalised orig="liues" auto="true">lives</normalised>, whose names, as <choice ana="illegible">
+                     <sic>re*owned</sic>
+                     <corr>renowned</corr>
+                  </choice>
+                  <lb/>
+<normalised orig="Sainctes" auto="true">Saints</normalised> of God, are in the Roman<lb/>
+<normalised orig="Calender" auto="true">Calendar</normalised>. This debt, I must confess, <normalised orig="hath" auto="true">has</normalised><lb/>
+<normalised orig="bin" auto="true">been</normalised> due this long time: but could not be<lb/>
+discharged, <normalised orig="vntill" auto="true">until</normalised> this present; wherein the<lb/>
+grace of God <choice ana="illegible">
+                     <sic>ha*h</sic>
+                     <corr><normalised orig="hath" auto="true">has</normalised></corr>
+                  </choice> freed our passage <choice ana="print-error">
+                     <sic>thtough</sic>
+                     <corr>through</corr>
+                  </choice> a maine sea of<lb/>
+difficulties. For such is the nature of all <choice ana="print">
+                     <sic>Catholiq;</sic>
+                     <corr><normalised orig="Catholique" auto="true">Catholic</normalised></corr>
+                  </choice> writings in<lb/>
+<normalised orig="oure" auto="true">our</normalised> distressed <normalised orig="countrie" auto="true">country</normalised>. what through <normalised orig="penurie" auto="true">penury</normalised>, pressure, and<lb/>
+long imprisonment of <normalised orig="theyre" auto="true">their</normalised> authors <choice ana="illegible">
+                     <sic>a*</sic>
+                     <corr>at</corr>
+                  </choice> home; ignorance<lb/>
+neglect &amp; <normalised orig="carelesnes" auto="true">carelessness</normalised> of <normalised orig="suche" auto="true">such</normalised> as are put in trust <normalised orig="abroade" auto="true">abroad</normalised>; wee<lb/>
+must <normalised orig="wynde" auto="true">wind</normalised> <normalised orig="oure" auto="true">our</normalised> <normalised orig="selues" auto="true">selves</normalised> out of a <normalised orig="laberynth" auto="false">labyrinth</normalised> of crosses, before<lb/>
+wee can bring to light <normalised orig="oure" auto="true">our</normalised> <normalised orig="laboures" auto="true">labours</normalised>. And <normalised orig="euen" auto="true">even</normalised> then must<lb/>
+they <normalised orig="runne" auto="true">run</normalised> so <normalised orig="manie" auto="true">many</normalised> hard fortunes, and <normalised orig="haue" auto="true">have</normalised> <normalised orig="suche" auto="true">such</normalised> <normalised orig="bad" auto="true">bade</normalised> <normalised orig="wellcome" auto="true">welcome</normalised><lb/>
+and entertainment, that only this were able to check<lb/>
+all <normalised orig="endeuoures" auto="false">endeavours</normalised>, not <normalised orig="strengthned" auto="true">strengthened</normalised> by the hand of God. And<lb/>
+<normalised orig="yett" auto="true">yet</normalised> could I <normalised orig="neuer" auto="true">never</normalised> <normalised orig="finde" auto="true">find</normalised> <normalised orig="anie" auto="true">any</normalised> reason, why this <normalised orig="worke" auto="true">work</normalised> of <normalised orig="oures" auto="true">ores</normalised><lb/>
+should not be <normalised orig="wellcome" auto="true">welcome</normalised> to people of all sorts and conditions.<lb/>
+For <normalised orig="yf" auto="true">if</normalised> the <normalised orig="liues" auto="true">lives</normalised> of those <normalised orig="auncyent" auto="true">ancient</normalised> worthies, whose<lb/>
+highest <normalised orig="ayme" auto="true">aim</normalised> was a <normalised orig="fayned" auto="true">feigned</normalised>, shadowed, <normalised orig="transitorie" auto="true">transitory</normalised> <normalised orig="glorie" auto="true">glory</normalised>, or<lb/>
+<normalised orig="els" auto="true">else</normalised> the <normalised orig="loue" auto="true">love</normalised> and <normalised orig="renowne" auto="true">renown</normalised> of <normalised orig="theyre" auto="true">their</normalised> <normalised orig="natiue" auto="true">native</normalised> <normalised orig="countrie" auto="true">country</normalised>, be so<lb/>
+<normalised orig="gratefull" auto="true">grateful</normalised> to most men, principally <normalised orig="suche" auto="true">such</normalised> as follow <normalised orig="theyre" auto="true">their</normalised><lb/>
+steppes: they, who, taking <normalised orig="vp" auto="true">up</normalised> <normalised orig="theyre" auto="true">their</normalised> <normalised orig="crosse" auto="true">cross</normalised> and following<lb/>
+<normalised orig="Christe" auto="true">Christ</normalised>, did <normalised orig="beate" auto="true">beat</normalised> the narrow path, that <normalised orig="leadeth" auto="true">leads</normalised> to <normalised orig="saluation" auto="true">salvation</normalised>;<lb/>
+they whose <normalised orig="ayme" auto="true">aim</normalised> was <normalised orig="euerlasting" auto="true">everlasting</normalised> <normalised orig="glorie" auto="true">glory</normalised>, whose <normalised orig="loue" auto="true">love</normalised><lb/>
+<normalised orig="Hierusalem" auto="true">Jerusalem</normalised> <normalised orig="theyre" auto="true">their</normalised> mother <normalised orig="citty" auto="true">city</normalised> in <normalised orig="heauen" auto="true">heaven</normalised>; they whose valour<lb/>
+and violence did <normalised orig="winne" auto="true">win</normalised> the <normalised orig="Kingdome" auto="true">Kingdom</normalised> purchased for<lb/>
+them with the <normalised orig="bloud" auto="true">blood</normalised> of <normalised orig="Christe" auto="true">Christ</normalised>; why should not <normalised orig="theyr" auto="true">their</normalised><lb/>
+<normalised orig="liues" auto="true">lives</normalised> be acceptable to all, whose name <normalised orig="doth" auto="true">does</normalised> <normalised orig="wittness" auto="true">witness</normalised> <normalised orig="theyr" auto="true">their</normalised><lb/>
+profession, to be nothing <normalised orig="els" auto="true">else</normalised> but a following of <normalised orig="Christe" auto="true">Christ</normalised>?<lb/>
+Or why should wee <normalised orig="gleane" auto="true">glean</normalised>, with a <normalised orig="hungrie" auto="true">hungry</normalised> delight &amp; <normalised orig="greedie" auto="true">greedy</normalised><lb/>
+appetite, some few barren <normalised orig="eares" auto="true">ears</normalised> of <normalised orig="morall" auto="true">moral</normalised> <normalised orig="vertues" auto="true">virtues</normalised>, scattered<lb/>
+in the <normalised orig="liues" auto="true">lives</normalised> of <normalised orig="Heathnish" auto="true">Heathenish</normalised> authors; &amp; care not for the <normalised orig="chiefe" auto="true">chief</normalised><lb/>
+<normalised orig="croppe" auto="true">crop</normalised> and <normalised orig="principall" auto="true">principal</normalised> <normalised orig="haruest" auto="true">harvest</normalised> of all <normalised orig="naturall" auto="true">natural</normalised> &amp; <normalised orig="supernaturall" auto="true">supernatural</normalised><lb/>
+<normalised orig="vertues" auto="true">virtues</normalised>, which are to be found in that <normalised orig="hundreth-yielding" auto="false">hundred-yielding</normalised><lb/>
+                  <pb n="1"/>
+                  <lb/>
+field of the <normalised orig="Churche" auto="true">Church</normalised> of <normalised orig="CHRISTE" auto="true">CHRIST</normalised>? Especially <normalised orig="seing" auto="true">seeing</normalised>,<lb/>
+that, what is most <normalised orig="emine~t" auto="false">eminent</normalised> in <normalised orig="suche" auto="true">such</normalised> as only walked by light of<lb/>
+reason, may <normalised orig="nowayes" auto="false">noways</normalised> compare with the <normalised orig="verie" auto="true">very</normalised> beginnings of<lb/>
+those <normalised orig="sainctes" auto="true">saints</normalised>, that were guided by the light of faith. These<lb/>
+God therefore <normalised orig="hath" auto="true">has</normalised> placed in the churches firmament, to<lb/>
+<normalised orig="serue" auto="true">serve</normalised> <normalised orig="vs" auto="true">us</normalised> as <choice ana="illegible">
+                     <sic>l*<normalised orig="ght" auto="true">light</normalised></sic>
+                     <corr>light</corr>
+                  </choice> to guide <normalised orig="oure" auto="true">our</normalised> steps: these he did <normalised orig="leaue" auto="true">leave</normalised> <normalised orig="vs" auto="true">us</normalised> as<lb/>
+<normalised orig="patternes" auto="true">patterns</normalised> and <normalised orig="myrrhoures" auto="false">mirrors</normalised>, wherein wee might behold<lb/>
+<normalised orig="oure" auto="true">our</normalised> offences, to <normalised orig="shunne" auto="true">shun</normalised> them; <normalised orig="theyre" auto="true">their</normalised> <normalised orig="vertues" auto="true">virtues</normalised>, to embrace<lb/>
+them. In them all callings &amp; professions shall <normalised orig="finde" auto="true">find</normalised> how to<lb/>
+rule and square <normalised orig="theyre" auto="true">their</normalised> actions, to the <normalised orig="honoure" auto="true">honour</normalised> of God, and<lb/>
+                  <choice ana="print-error">
+                     <sic>profi t</sic>
+                     <corr>profit</corr>
+                  </choice> of <normalised orig="theyre" auto="true">their</normalised> <normalised orig="soules" auto="true">souls</normalised>. They will <normalised orig="teache" auto="true">teach</normalised> <normalised orig="vs" auto="true">us</normalised> how to wage<lb/>
+<normalised orig="warre" auto="true">war</normalised> <choice ana="illegible">
+                     <sic>w*h</sic>
+                     <corr>with</corr>
+                  </choice> <normalised orig="oure" auto="true">our</normalised> enemies, World, Flesh &amp; <normalised orig="Deuill" auto="true">Devil</normalised>: how to<lb/>
+<normalised orig="preuent" auto="true">prevent</normalised> <normalised orig="theyre" auto="true">their</normalised> wiles &amp; <normalised orig="trappes" auto="true">traps</normalised>, when they <normalised orig="goe" auto="true">go</normalised> about to win<lb/>
+<normalised orig="vs" auto="true">us</normalised> with <normalised orig="coloure" auto="true">colour</normalised> of sanctity: how to <normalised orig="arme" auto="true">arm</normalised>, order, &amp; ward <normalised orig="oure" auto="true">our</normalised><lb/>
+<normalised orig="selues" auto="true">selves</normalised>, when they <normalised orig="assaile" auto="true">assail</normalised> <normalised orig="vs" auto="true">us</normalised> with open force and hostility.<lb/>
+There <choice ana="illegible">
+                     <sic>we*</sic>
+                     <corr>wee</corr>
+                  </choice> shall see <normalised orig="howe" auto="true">how</normalised> to <normalised orig="behaue" auto="true">behave</normalised> <normalised orig="oure" auto="true">our</normalised> <normalised orig="selues" auto="true">selves</normalised> in the <normalised orig="boysterous" auto="true">boisterous</normalised><lb/>
+<normalised orig="stormes" auto="true">storms</normalised> of <choice ana="illegible">
+                     <sic>*duersitie</sic>
+                     <corr><normalised orig="aduersitie" auto="true">adversity</normalised></corr>
+                  </choice>, how in the <normalised orig="deceytfull" auto="true">deceitful</normalised> <normalised orig="calme" auto="true">calm</normalised> of<lb/>
+<normalised orig="prosperitie" auto="true">prosperity</normalised>. Finally <normalised orig="theyre" auto="true">their</normalised> <normalised orig="liues" auto="true">lives</normalised> will be <normalised orig="oure" auto="true">our</normalised> card and <normalised orig="compasse" auto="true">compass</normalised>,<lb/>
+teaching <normalised orig="vs" auto="true">us</normalised> how to direct <normalised orig="oure" auto="true">our</normalised> course, that without<lb/>
+suffering <normalised orig="shipwracke" auto="true">shipwreck</normalised> of <normalised orig="oure" auto="true">our</normalised> <normalised orig="soules" auto="true">souls</normalised> wee may <normalised orig="arriue" auto="true">arrive</normalised> at the<lb/>
+<normalised orig="hauen" auto="true">haven</normalised> of health &amp; <normalised orig="saluatio~" auto="true">salvation</normalised>. Wherefore, <normalised orig="deere" auto="true">dear</normalised> Christian Reader,<lb/>
+                  <choice ana="illegible">
+                     <sic>d*ubt</sic>
+                     <corr>doubt</corr>
+                  </choice> not to <normalised orig="wellcome" auto="true">welcome</normalised> &amp; entertain that <normalised orig="ghuest" auto="false">guest</normalised>, whose<lb/>
+presence with pleasure will <normalised orig="affoord" auto="true">afford</normalised> thee such <normalised orig="profitt" auto="false">profit</normalised>. And<lb/>
+when thou doest <normalised orig="finde" auto="true">find</normalised> some few <normalised orig="suche" auto="true">such</normalised> things as are more to<lb/>
+be admired then imitated, pass not thy <normalised orig="iudgement" auto="true">judgment</normalised> <normalised orig="vpon" auto="true">upon</normalised> <normalised orig="the~" auto="true">them</normalised><lb/>
+with passion: measure not the <normalised orig="vertues" auto="true">virtues</normalised> of God his <normalised orig="Sainctes" auto="true">Saints</normalised><lb/>
+by thy <normalised orig="owne" auto="true">own</normalised> <normalised orig="feeblenes" auto="true">feebleness</normalised>: <normalised orig="goe" auto="true">go</normalised> not about to weaken or discredit<lb/>
+the <normalised orig="promisses" auto="true">promises</normalised> of <normalised orig="Christe" auto="true">Christ</normalised>, nor confine the <normalised orig="omnipote~t" auto="true">omnipotent</normalised><lb/>
+hand of God within the narrow bounds of <normalised orig="humaine" auto="true">human</normalised> <choice ana="illegible">
+                     <sic>*eason</sic>
+                     <corr>reason</corr>
+                  </choice>.<lb/>
+for the <normalised orig="holie" auto="true">holy</normalised> Ghost <normalised orig="hath" auto="true">has</normalised> all ready fore told <normalised orig="vs" auto="true">us</normalised>, that God is<lb/>
+admirable in his <normalised orig="sainctes" auto="true">saints</normalised>: and <normalised orig="Christe" auto="true">Christ</normalised> did promise, that<lb/>
+his disciples should <normalised orig="worke" auto="true">work</normalised> greater wonders, then <normalised orig="theyre" auto="true">their</normalised><lb/>
+<normalised orig="maisters" auto="true">masters</normalised>.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

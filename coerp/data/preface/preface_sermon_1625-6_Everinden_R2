@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="preface_sermon_1625-6_Everinden_R2">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Everinden's Sermon</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="HuEv1626t">Everinden, Humphrey</author>
+               <title type="main">"To the Christian Reader."/"To the Christian reader." In: Everinden, Humphrey. The reward of the Wicked./The recompence of the righteovs.</title>
+               <title type="short">Preface Everinden's Sermon</title>
+               <date when="1625">1625</date>
+               <date type="this_edition" when="1625">1625</date>
+               <idno type="STC">10601.9, STC 10601.3</idno>
+               <note type="genre" subtype="prayer">prayer</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">not identifiable</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font and italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="sample">
+            <div>
+               <head>To the Christian Reader.</head>
+               <p>
+THe <normalised orig="meanes" auto="false">means</normalised> of <choice ana="illegible">
+                     <sic>ed*fication</sic>
+                     <corr>edification</corr>
+                  </choice> in <lb/>
+the holy Scripture (gentle <lb/>
+Reader) may all be referred <lb/>
+to three heads. Instructions <lb/>
+for all. Consolations for <lb/>
+the oppressed. Threats, for those that <normalised orig="erre" auto="false">err</normalised> <lb/>
+and are obstinate. These make a threefold <lb/>
+cord, whereby God laboured to <lb/>
+draw mankind to this end. Heere <normalised orig="hast" auto="false">have</normalised> <lb/>
+thou one <normalised orig="strane" auto="false">strain</normalised> twisted, viz. the <normalised orig="iudgement" auto="false">judgment</normalised> <lb/>
+or death of the damned. If therefore <lb/>
+Gods mercies cannot <normalised orig="alure" auto="false">allure</normalised> thee to <lb/>
+<normalised orig="loue" auto="false">love</normalised> him, <normalised orig="heere" auto="false">here</normalised> <normalised orig="hast" auto="false">have</normalised> thou his <normalised orig="iudgement" auto="false">judgment</normalised> <lb/>
+to scourge thee, that thou <normalised orig="maist" auto="false">may</normalised> <normalised orig="feare" auto="false">fear</normalised> <lb/>
+him, that <choice ana="print-error">
+                     <sic>begining</sic>
+                     <corr>beginning</corr>
+                  </choice> thy <normalised orig="wisdome" auto="false">wisdom</normalised> in <normalised orig="feare" auto="false">fear</normalised>, <lb/>
+thou <normalised orig="maist" auto="false">may</normalised> so <normalised orig="learne" auto="false">learn</normalised> to <normalised orig="loue" auto="false">love</normalised> him, that his <lb/>
+<normalised orig="iudgements" auto="false">judgements</normalised> being bitter to thy <choice ana="illegible">
+                     <sic>*ast</sic>
+                     <corr><normalised orig="tast" auto="false">taste</normalised></corr>
+                  </choice>, may <lb/>
+cause thee to <normalised orig="seeke" auto="false">seek</normalised> to try how good he is <lb/>
+in his mercies. God <normalised orig="giue" auto="false">give</normalised> his blessing to <lb/>
+his <normalised orig="owne" auto="false">own</normalised> ordinance, for thy good.<lb/>
+               </p>
+                  <closer>Thine in Christ.   
+Humphry </closer>
+
+            </div>
+            <div>
+               <head>TO THE CHRISTIAN 
+READER.</head>
+               <p>
+<normalised orig="THinke" auto="false">Think</normalised> it not strange <normalised orig="beloued" auto="false">beloved</normalised> <lb/>
+in Christ <normalised orig="Iesus" auto="false">Jesus</normalised>, I come <lb/>
+in with my <normalised orig="poore" auto="false">poor</normalised> mite amongst <lb/>
+the rich gifts of many <lb/>
+learned writers published <lb/>
+in the <normalised orig="kingdome" auto="false">kingdom</normalised> (whose <normalised orig="excellencie" auto="false">excellency</normalised> I <lb/>
+<normalised orig="reuerence" auto="false">reverence</normalised>, and whose earnest I earnestly <lb/>
+desire, for the benefit of Gods Church, <lb/>
+and the confusion of the <normalised orig="kingdome" auto="false">kingdom</normalised> <lb/>
+of Satan.) It is the benefit of the simple I <lb/>
+desire and <normalised orig="ayme" auto="false">aim</normalised> at; if thou <normalised orig="canst" auto="false">can</normalised> from so <lb/>
+silly flower <normalised orig="sucke" auto="false">suck</normalised> but one drop of honey <lb/>
+to sweeten thy <normalised orig="soule" auto="false">soul</normalised>, my labour is not <lb/>
+lost, my gift not to be despised, <normalised orig="reade" auto="false">read</normalised> then <lb/>
+and consider, and God grant his blessings <lb/>
+to rest on his <normalised orig="owne" auto="false">own</normalised> ordinance, to the glory <lb/>
+of his blessed name, Amen.<lb/>
+               </p>
+                  <closer> in Sussex,
+September the 26, 
+1624. 
+Thine in Christ Humphry  
+the <normalised orig="vnworthy" auto="false">unworthy</normalised> Minister of 
+Christ in that place.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

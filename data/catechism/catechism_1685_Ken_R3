@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="catechism_1685_Ken_R3">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ken's Catechism</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ThKe1637">Ken, Thomas</author>
+               <title type="main">
+An exposition on the Church-Catechism, or the Practice of Divine Love.
+</title>
+               <title type="short">Ken's Catechism</title>
+               <date when="1685">1685</date>
+               <date type="this_edition" when="1685">1685</date>
+               <idno type="Wing">K261</idno>
+               <note type="genre" subtype="catechism">catechism</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>octavo</notvariant></term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="sample1">
+
+            <head>AN
+EXPOSITION
+ON THE
+Church-Catechism, &amp;c.</head>
+            <sp who="a">
+               <p>Question.<lb/>
+WHAT is your Name?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>Answer.<lb/>
+N. or M.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Why do you answer by that Name, rather<lb/>
+<normalised orig="than" auto="true">then</normalised> by your <normalised orig="Sirname" auto="true">Surname</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Because it is my Christian Name, and was<lb/>
+given me when I was made a Christian, and puts<lb/>
+me in mind both of the Happiness, and duty of a<lb/>
+Christian.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Where do <choice ana="illegible">
+                     <sic/>
+                     <corr>you</corr>
+                  </choice> learn the Happiness, and the<lb/>
+Duty of a <choice ana="illegible">
+                     <sic>Christ*</sic>
+                     <corr>Christian</corr>
+                  </choice>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The very next answer teaches me the Happiness,<lb/>
+and all the rest of the Catechism, the Duty of<lb/>
+a Christian.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Who gave you this Name?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. My Godfathers and Godmothers<lb/>
+in my Baptism, wherein I<lb/>
+was made a Member of Christ, the<lb/>
+Child of God, and an <normalised orig="Inheritour" auto="true">Inheritor</normalised> of<lb/>
+the Kingdom of Heaven.<lb/>
+               </p>
+            </sp>
+            
+            <fw type="pageNum">A4</fw>
+            <pb n="1"/>
+            <sp who="a">
+               <p>Q. <normalised orig="Shew" auto="true">Show</normalised> me from hence the Happiness of a<lb/>
+Christian.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The Happiness of a good Christian, is altogether<lb/>
+unutterable, he is one who has Christ for<lb/>
+his Head, God for his Father, and Heaven with all<lb/>
+its joys and glories, which are all eternal, for his<lb/>
+Inheritance.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <normalised orig="Shew" auto="true">Show</normalised> me on the contrary the condition of a<lb/>
+<normalised orig="bad" auto="true">bade</normalised> Christian.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The misery of a <normalised orig="bad" auto="true">bade</normalised> Christian is altogether<lb/>
+insupportable, He has Christ for his Enemy, the<lb/>
+Devil for his Father, and Hell, with all its miseries,<lb/>
+and torments, and despair, which are all eternal,<lb/>
+for his Doom.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Which of these Conditions do you <normalised orig="chuse" auto="true">choose</normalised>?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. I adore the goodness of God, who has set before<lb/>
+me life and death, blessing and cursing; and in<lb/>
+great compassion to my Soul, has bid me <normalised orig="chuse" auto="true">choose</normalised><lb/>
+life, and with all my heart I <normalised orig="chuse" auto="true">choose</normalised> life, even life<lb/>
+eternal.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Are there not many in the World that <normalised orig="chuse" auto="true">choose</normalised><lb/>
+death?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. It is too too visible there are, such is the extreme<lb/>
+madness and folly of obstinate Sinners, that<lb/>
+they <normalised orig="chuse" auto="true">choose</normalised> the Service of the Devil before the Service<lb/>
+of God, and Hell before Heaven, the damnation<lb/>
+of such men is wholly from themselves, and<lb/>
+having chosen death, even death eternal, it is most<lb/>
+just with God to give them their choice.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Blessed be God who has given you grace, to<lb/>
+make a right choice; Tell me what you must <normalised orig="doe" auto="false">do</normalised><lb/>
+to obtain that which you have chosen, life eternal?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. All that I am to <normalised orig="doe" auto="false">do</normalised> is <normalised orig="reduc'd" auto="true">reduced</normalised> to one word<lb/>
+only, and that is Love; This is the first and the<lb/>
+great Command; which comprehends all others, the<lb/>
+proper Evangelical Grace; and eternal Truth has<lb/>
+assured me, <quote type="biblical" ana="Lk 10.28">This <normalised orig="doe" auto="false">do</normalised>, and thou shalt live;</quote> So<lb/>
+that if I truly love God, I shall live beloved by<lb/>
+God to all eternity.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Tell me wherein the love of God <normalised orig="doth" auto="false">does</normalised> consist?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The love of God is a grace rather to be felt<lb/>
+<normalised orig="than" auto="true">then</normalised> <normalised orig="defin'd" auto="true">defined</normalised>, So that I can <normalised orig="doe" auto="false">do</normalised> no more <normalised orig="than" auto="true">then</normalised> rudely<lb/>
+describe it; It is the general inclination and tendency<lb/>
+of the whole man, of all his heart, and soul,<lb/>
+and strength, of all his powers and affections, and<lb/>
+                  <pb n="2"/>
+                  <lb/>
+of the utmost strength of them all to God, as his<lb/>
+chief, and <normalised orig="onely" auto="true">only</normalised>, and perfect, and infinite Good.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Is this love of God taught in the Catechism?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The Catechism having in the entrance of it<lb/>
+presented to our choice the happiness of a Christian,<lb/>
+does throughout all the remaining parts of it<lb/>
+instruct us in the duties of a Christian, by which<lb/>
+that happiness is to be <normalised orig="attain'd" auto="true">attained</normalised>, which are all<lb/>
+<normalised orig="sum'd" auto="true">summed</normalised> up in the love of God, which is here most<lb/>
+methodically taught.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. In what method does the Catechism teach<lb/>
+the love of God?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. In a method so excellent and natural, that<lb/>
+if by God's help, I can but faithfully observe it, I<lb/>
+shall not fail of the love of God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Explain this method to me.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. It teaches me how the love of God is <normalised orig="produc'd" auto="true">produced</normalised>,<lb/>
+how <normalised orig="practis'd" auto="true">practised</normalised>, and how preserved.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <normalised orig="Shew" auto="true">Show</normalised> me more distinctly in what parts of the<lb/>
+Catechism each of these particulars is <normalised orig="coucht" auto="true">couched</normalised>.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. If I seriously desire the love God, I must<lb/>
+first <normalised orig="expell" auto="true">expel</normalised> all contrary loves out of my heart, and<lb/>
+then consider the motives and causes that excite it,<lb/>
+the former is taught in the Vow of Baptism, the<lb/>
+latter in the Creed.<lb/>
+When divine love is once <normalised orig="produc'd" auto="true">produced</normalised>, my next<lb/>
+care is to put it in practice, and that is, by bringing<lb/>
+forth the fruits, or effects of Love, which are<lb/>
+all <normalised orig="contain'd" auto="true">contained</normalised> in the Ten Commandments.<lb/>
+When the love of God is <normalised orig="produc'd" auto="true">produced</normalised> in my heart,<lb/>
+and is set on work, my last concern is to preserve,<lb/>
+and ensure, and quicken it; It is <normalised orig="preserv'd" auto="true">preserved</normalised> by<lb/>
+Prayer, the pattern of which is the Lord's Prayer;<lb/>
+It is ensured to us by the Sacraments, which are the<lb/>
+Pledges of Love; and more particularly it is <normalised orig="quickned" auto="true">quickened</normalised><lb/>
+by the Holy Eucharist, which is the feast of<lb/>
+Love. So that the plain order of the Catechism<lb/>
+teaches me the rise, the progress, and the perfection<lb/>
+of Divine love, which God of his great mercy<lb/>
+give me grace to follow.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. I beseech God to give you the grace you pray<lb/>
+for, that you may prosecute this method with your<lb/>
+heart, as well as with your words.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. It is the full purpose of my Soul so to <normalised orig="doe" auto="false">do</normalised>,<lb/>
+and I trust in God I shall <normalised orig="doe" auto="false">do</normalised> it.<lb/>
+               </p>
+            </sp>
+            <pb n="3"/>
+            <sp who="a">
+               <p>Q. You are to begin with the vow you made at<lb/>
+your Baptism. Tell me,<lb/>
+What did your Godfathers and<lb/>
+Godmothers then for you?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. They did promise and vow<lb/>
+three things in my name.<lb/>
+First, That I should renounce the<lb/>
+Devil and all his works; the <normalised orig="pomps" auto="true">pumps</normalised><lb/>
+and vanities of this wicked World,<lb/>
+and all the <normalised orig="sinfull" auto="true">sinful</normalised> lusts of the flesh.<lb/>
+Secondly, That I should believe<lb/>
+all the Articles of the Christian<lb/>
+Faith.<lb/>
+And thirdly, That I should keep<lb/>
+God's holy Will and Commandments,<lb/>
+and walk in the same all the<lb/>
+days of my life.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. <normalised orig="Dost" auto="true">Do</normalised> thou not think thou art<lb/>
+bound to believe, and to <normalised orig="doe" auto="false">do</normalised> as they<lb/>
+have promised for thee?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Yes verily; and by God's help<lb/>
+so I will, and I heartily thank our<lb/>
+Heavenly Father, that he <normalised orig="hath" auto="true">has</normalised> <normalised orig="call'd" auto="true">called</normalised><lb/>
+me to his state of Salvation, through<lb/>
+<normalised orig="Iesus" auto="true">Jesus</normalised> Christ our Saviour. And I<lb/>
+pray unto God to give me his grace,<lb/>
+that I may continue in the same unto<lb/>
+my lives end.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. The promises of faith and obedience, which<lb/>
+you made in your baptism, will be <normalised orig="mention'd" auto="true">mentioned</normalised><lb/>
+in their proper places, when you come to the<lb/>
+Creed, and to the <notvariant>Decalogue</notvariant>; that which now lies<lb/>
+before you is to <normalised orig="shew" auto="true">show</normalised>, how your <notvariant>Abrenunciation</notvariant> is<lb/>
+preparatory to the love of God.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. As all particular graces are but the love of<lb/>
+God, varied by different instances and relations, so<lb/>
+all particular sins are nothing but <notvariant>concupiscence</notvariant>, or<lb/>
+the love of one Creature or other, in competition<lb/>
+                  <pb n="4"/>
+                  <lb/>
+with, or opposition to, the love of God; Now all the<lb/>
+Creatures on which we set our love, are <notvariant>reducible</notvariant> to<lb/>
+these three, the Devil, the World, and the Flesh, and<lb/>
+my heart must be emptied of these impure Loves,<lb/>
+before it is capable of entertaining the pure love<lb/>
+of God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. If you are conscious to your self, that you<lb/>
+have entertained these impure Loves, and have violated<lb/>
+your baptismal Vow, and have in your heart<lb/>
+<normalised orig="renounc'd" auto="true">renounced</normalised> God, instead of renouncing his Enemies,<lb/>
+what must you <normalised orig="doe" auto="false">do</normalised> to recover that favour of God<lb/>
+you have lost, and to be <normalised orig="deliver'd" auto="true">delivered</normalised> from the wrath<lb/>
+to come?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. I must <normalised orig="throughly" auto="true">thoroughly</normalised> repent of all the breaches of<lb/>
+my vow, and I must seriously renew it.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Express your repentance for breaking it.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. I express it thus.<lb/>
+O Lord God, with shame, and sorrow, and confusion<lb/>
+of <choice ana="illegible">
+                     <sic>*ace</sic>
+                     <corr>Face</corr>
+                  </choice>, I confess and acknowledge thy infinite<lb/>
+mercy and goodness to me, my infinite vileness<lb/>
+and ingratitude to thee!<lb/>
+Thou Lord infinitely good and <normalised orig="gratious" auto="true">gracious</normalised> <normalised orig="wast" auto="true">were</normalised><lb/>
+<normalised orig="pleas'd" auto="true">pleased</normalised> out of thy own free mercy, first to love me,<lb/>
+to excite me to love again, glory be to thee.<lb/>
+Thou Lord <normalised orig="didst" auto="true">did</normalised> vouchsafe, of a miserable Sinner,<lb/>
+to make me a Member of my Saviour, thy<lb/>
+own Child, and an Heir of Heaven, glory be to<lb/>
+thee.<lb/>
+I infinitely wicked and unworthy, have <normalised orig="despis'd" auto="true">despised</normalised>,<lb/>
+and rejected, and forfeited all the inestimable Blessings,<lb/>
+to which I was <normalised orig="intitled" auto="true">entitled</normalised> by my Baptism; Lord<lb/>
+have mercy upon me.<lb/>
+Woe is me, wretch that I am, I have cut my<lb/>
+self off by my sins, from being a true Member of<lb/>
+Christ's Mystical Body, and from all the <normalised orig="gratious" auto="true">gracious</normalised><lb/>
+influences I might have <normalised orig="deriv'd" auto="true">derived</normalised> from my union to<lb/>
+him; Lord have mercy upon me.<lb/>
+Woe is me, wretch that I am, I have by my<lb/>
+numerous provocations, lost that holy Spirit of<lb/>
+Adoption, whereby I might become thy Child, O<lb/>
+God, and call thee Father, and am become a Child<lb/>
+of wrath; Lord have mercy upon me.<lb/>
+Woe is me, wretch that I am, I have by my<lb/>
+own <normalised orig="willfull" auto="true">wilful</normalised> impiety, disclaimed my being an <normalised orig="Inheritour" auto="true">Inheritor</normalised><lb/>
+of the Kingdom of Heaven, and am become<lb/>
+an Heir to the Kingdom of Darkness, Lord<lb/>
+have mercy upon me.<lb/>
+                  <pb n="5"/>
+                  <lb/>
+Woe is me, I have easily yielded to the temptations<lb/>
+of Satan, and have wrought the works of my<lb/>
+Father the Devil; Lord have mercy upon me.<lb/>
+Woe is me, I have greedily coveted and pursued<lb/>
+the <normalised orig="pomps" auto="true">pumps</normalised> and vanity of this wicked World;<lb/>
+Lord have mercy upon me.<lb/>
+Woe is me, I have often <normalised orig="indulg'd" auto="true">indulged</normalised> the <normalised orig="sinfull" auto="true">sinful</normalised><lb/>
+lusts of the Flesh; Lord have mercy upon me.<lb/>
+Woe is me, I have <normalised orig="lov'd" auto="true">loved</normalised> all things which thou<lb/>
+Lord <normalised orig="hatest" auto="true">hate</normalised>, and am my self become odious in thy<lb/>
+sight; Lord have mercy upon me.<lb/>
+Woe is me, I have neither <normalised orig="believ'd" auto="true">believed</normalised> in thee, O<lb/>
+my God, nor <normalised orig="obey'd" auto="true">obeyed</normalised> thee, nor <normalised orig="lov'd" auto="true">loved</normalised> thee, as I<lb/>
+ought, and as I solemnly <normalised orig="vow'd" auto="true">vowed</normalised> I would; Lord<lb/>
+have mercy upon me.<lb/>
+O Lord God most <normalised orig="gratious" auto="true">gracious</normalised> and <normalised orig="reconcileable" auto="true">reconcilable</normalised>,<lb/>
+<normalised orig="Pitty" auto="true">Pity</normalised> and pardon me.<lb/>
+I lament, O Lord God, my detestable impiety,<lb/>
+for having so long, and so often, and so obstinately<lb/>
+offended thee.<lb/>
+In the bitterness of my Soul, O Father of mercy,<lb/>
+I bewail and abhor my unworthiness, and the hardness<lb/>
+of my heart, that has <quote type="biblical" ana="Rom 2.4"><normalised orig="despis'd" auto="true">despised</normalised> the riches of thy<lb/>
+goodness, and forbearance, and long-suffering, which<lb/>
+should have lead me to repentance.</quote>
+                  <lb/>
+O Lord God, whatever thou <normalised orig="deny'st" auto="true">deny</normalised> me, deny<lb/>
+me not a <quote type="psalm" ana="Ps 51.17">broken and a contrite heart.</quote>
+                  <lb/>
+                  <quote type="biblical" ana="Jer 9.1">O that my head were waters, and my eyes fountains<lb/>
+of tears, </quote> that I might weep much and love<lb/>
+much, having much to be forgiven.<lb/>
+Lord, hear me, help me, save me, for thy own<lb/>
+<normalised orig="gratious" auto="true">gracious</normalised> promise sake, for thy own tender mercies<lb/>
+sake, for the merits and sufferings of Jesus thy beloved,<lb/>
+in whom thou <normalised orig="hast" auto="true">have</normalised> made Penitents accepted.<lb/>
+Amen. Amen.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Having repented of the violations of your<lb/>
+Baptismal Vow, <normalised orig="shew" auto="true">show</normalised> me how you will renew it.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. I shall <normalised orig="doe" auto="false">do</normalised> it after this manner.<lb/>
+I have sinned, O Lord God, I have sinned, and<lb/>
+done evil in thy sight, but I repent, I turn to thee.<lb/>
+                  <quote type="psalm" ana="Ps 38.18">I confess, and forsake my wickedness, and am<lb/>
+sorry for my sins.</quote>
+                  <lb/>
+It grieves me, O most amiable Goodness, it<lb/>
+grieves me that ever I offended thee.<lb/>
+                  <pb n="6"/>
+                  <lb/>
+With all my heart, O my God, do I now renew<lb/>
+the Sacred vow, which, alas! alas! I have<lb/>
+so often violated.<lb/>
+O Lord God, I do, for the future, Renounce<lb/>
+the devil, that Arch-rebel against thee, with all<lb/>
+his Apostate-Angels.<lb/>
+I renounce all his worship, all his impious suggestions,<lb/>
+delusions and temptations, for which<lb/>
+he is called the tempter, and all the ways of consulting<lb/>
+him, which ungodly men have taken.<lb/>
+I renounce all his <choice ana="illegible">
+                     <sic>w*ks</sic>
+                     <corr>works</corr>
+                  </choice>, all those sins of the<lb/>
+Spirit, all pride, and malice, and envy; all<lb/>
+treachery and lying, revenge and cruelty; all<lb/>
+tempting others to Sin, hatred to Holiness and<lb/>
+<normalised orig="Apostasie" auto="true">Apostasy</normalised>, which are his daily practice, and are<lb/>
+truly diabolical.<lb/>
+I utterly renounce, O Lord God, the <normalised orig="pomps" auto="true">pumps</normalised><lb/>
+and vanity of this wicked world; all covetous<lb/>
+desires of honour, riches and pleasure; all <normalised orig="sinfull" auto="true">sinful</normalised><lb/>
+excesses in things <normalised orig="lawfull" auto="true">lawful</normalised>.<lb/>
+I renounce, Lord, all evil customs, all evil<lb/>
+companions, all that is vain or wicked in the<lb/>
+world, all that friendship with the world, which<lb/>
+is enmity with thee; all things that may alienate my<lb/>
+heart from thee.<lb/>
+I renounce, O Lord God, all worldly comforts<lb/>
+and possessions; all my natural relations, and my<lb/>
+own life, whenever they stand in competition with<lb/>
+my duty to thee.<lb/>
+I utterly renounce, O Lord God, all the <choice ana="illegible">
+                     <sic>s*full</sic>
+                     <corr><normalised orig="sinfull" auto="true">sinful</normalised></corr>
+                  </choice>
+                  <lb/>
+lusts of the flesh, all the inordinate desires<lb/>
+of my own corrupt nature, of my own carnal<lb/>
+mind, which is enmity with thee.<lb/>
+I Renounce, Lord, all fleshly lusts which war against<lb/>
+thee, and against my own Soul, all sloth<lb/>
+and idleness, and intemperance, and <choice ana="illegible">
+                     <sic><notvariant>lasciviou</notvariant>*<notvariant>ness</notvariant></sic>
+                     <corr>lasciviousness</corr>
+                  </choice>;<lb/>
+all <quote type="biblical" ana="2 Cor 7.1">filthiness of flesh and spirit</quote>, which render us<lb/>
+unclean in <choice ana="illegible">
+                     <sic>*<notvariant>hy</notvariant></sic>
+                     <corr>thy</corr>
+                  </choice> sight.<lb/>
+O Lord God, I utterly Renounce all things that<lb/>
+may any way displease thee; from them all let it be<lb/>
+thy good pleasure to deliver me.<lb/>
+I know, Lord, that Sin is the utmost abomination<lb/>
+to thy purity, the most audacious outrage to<lb/>
+thy Adorable Majesty, the perfect contradiction to<lb/>
+thy Deity, and therefore I utterly renounce and<lb/>
+abhor it.<lb/>
+                  <pb n="7"/>
+                  <lb/>
+I know, Lord, that Sin exposes us to all the Vials<lb/>
+of thy wrath, and to vengeance eternal; I know<lb/>
+it sets the Sinner at the extremest distance, and<lb/>
+opposition and defiance to thee, and therefore I<lb/>
+utterly renounce and abhor it.<lb/>
+I know, Lord, I cannot love thee, but I must<lb/>
+hate evil, and therefore I renounce and detest it.<lb/>
+Turn thou me, O Lord God, and so shall I be<lb/>
+turned.<lb/>
+Turn, O Lord, the whole stream of my affections,<lb/>
+from sensual love, to the love of thee.<lb/>
+O my God, let thy heavenly love be the constant<lb/>
+<normalised orig="byass" auto="true">bias</normalised> of my Soul; O may it be the natural spring<lb/>
+and weight of my heart, that it may always move<lb/>
+towards thee.<lb/>
+Thy love, O my God, shall hereafter be the sole<lb/>
+rule and guide of my life; I will love thee, and<lb/>
+love whatever thou <normalised orig="lovest" auto="true">love</normalised>, and hate whatever thou<lb/>
+<normalised orig="hatest" auto="true">hate</normalised>, I will believe all the Articles of the<lb/>
+Christian Faith, and I will keep thy Holy<lb/>
+Will and Commandments, and walk in the<lb/>
+same all the days of <choice ana="illegible">
+                     <sic>*y</sic>
+                     <corr>my</corr>
+                  </choice> life.<lb/>
+All this, O my God, I own my self bound to<lb/>
+believe and <normalised orig="doe" auto="false">do</normalised>, and though of my self I am impotent<lb/>
+to all good, yet by thy help I will<lb/>
+perform it; and I heartily thank thee, O heavenly<lb/>
+Father, who out of mere compassion to<lb/>
+my Soul, <normalised orig="hast" auto="true">have</normalised> <normalised orig="call'd" auto="true">called</normalised> me to this state of salvation,<lb/>
+through <normalised orig="Iesus" auto="true">Jesus</normalised> Christ our Lord.<lb/>
+Glory be to thee, O Lord, who <normalised orig="hast" auto="true">have</normalised> <normalised orig="indulg'd" auto="true">indulged</normalised> me<lb/>
+this opportunity of repentance; Glory be to thee<lb/>
+who <normalised orig="hast" auto="true">have</normalised> wrought in me this Will, to renew my<lb/>
+Baptismal vow.<lb/>
+O my God, I humbly, I earnestly pray unto<lb/>
+thee to give me continual supplies of thy grace,<lb/>
+that I may continue in thy love unto my lives<lb/>
+end, that being <normalised orig="faithfull" auto="true">faithful</normalised> to death, I may receive the<lb/>
+Crown of life.<lb/>
+O Lord God, I have sworn, and I will perform<lb/>
+it, that I will keep thy righteous judgments.<lb/>
+My heart is empty and <normalised orig="disengag'd" auto="true">disengaged</normalised>, and longs for<lb/>
+thee; my heart is entirely devoted to thee: Enter,<lb/>
+O my God; possess it with thy <normalised orig="gratious" auto="true">gracious</normalised> presence,<lb/>
+and fill it with thy love.<lb/>
+Lord, for thy tender mercies sake, restore me<lb/>
+to thy favour; to all the graces and privileges of<lb/>
+                  <pb n="8"/>
+                  <lb/>
+my Baptism, of which I have been <normalised orig="spoil'd" auto="true">spoiled</normalised> by my<lb/>
+sins.<lb/>
+Lord, make me a living member of thy Church,<lb/>
+the mystical body of thy Son.<lb/>
+O my God, unite me inseparably to Christ my<lb/>
+Head, and from thence let his <normalised orig="gratious" auto="true">gracious</normalised> influences,<lb/>
+be ever streaming into my soul.<lb/>
+                  <quote type="biblical" ana="Lk 15.21">Father, I have sinned against Heaven, and in thy<lb/>
+sight, and am no more worthy to be called thy Son:</quote>
+                  <lb/>
+But I return with the Prodigal; O let thy paternal<lb/>
+bowels yearn on me, and <normalised orig="gratiously" auto="true">graciously</normalised> receive me.<lb/>
+Lord, send thy Spirit of Adoption into my heart,<lb/>
+to instill true filial affections, that I may again be<lb/>
+<normalised orig="own'd" auto="true">owned</normalised> by thee for thy Child, and call thee Father,<lb/>
+and share in the blessings of thy Children, and at<lb/>
+last become an <normalised orig="Inheritour" auto="true">Inheritor</normalised> of the <choice ana="illegible">
+                     <sic>*<notvariant>ingdom</notvariant></sic>
+                     <corr>Kingdom</corr>
+                  </choice> of<lb/>
+Heaven.<lb/>
+O heavenly Father, accept my imperfect repentance,<lb/>
+compassionate my infirmities, forgive my<lb/>
+wickedness, <normalised orig="purifie" auto="true">purify</normalised> my uncleanness, strengthen my<lb/>
+weakness, fix my <notvariant>unstableness</notvariant>, and let thy love<lb/>
+ever rule in my heart, through the merits, and sufferings,<lb/>
+and love of the Son of thy love, in whom<lb/>
+thou art always infinitely <normalised orig="pleas'd" auto="true">pleased</normalised>. Amen. <lb/>
+               </p>
+            </sp>
+<p>This Office may be <normalised orig="us'd" auto="true">used</normalised> in times of devout Retirement,
+or on the Lord's day, or in Affliction or
+Sickness, but especially before the Holy Eucharist.</p>
+            <sp who="a">
+               <p>Q. Rehearse the Articles of your<lb/>
+Belief.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. I. I Believe in God the Father<lb/>
+Almighty, maker of Heaven and<lb/>
+Earth.<lb/>
+II. And in <normalised orig="Iesus" auto="true">Jesus</normalised> Christ his <normalised orig="onely" auto="true">only</normalised><lb/>
+Son our Lord,<lb/>
+III. Who was Conceived by the<lb/>
+Holy Ghost,<lb/>
+Born of the <normalised orig="Uirgin" auto="true">Virgin</normalised> Mary.<lb/>
+                  <pb n="9"/>
+                  <lb/>
+IV. Suffered under <notvariant>Pontius</notvariant> Pilate,<lb/>
+was Crucified, Dead and Buried,<lb/>
+He descended into Hell.<lb/>
+V. The third day He rose again<lb/>
+from the Dead.<lb/>
+VI. He ascended into Heaven, and<lb/>
+<normalised orig="sitteth" auto="true">sits</normalised> at the right hand of God the<lb/>
+Father Almighty;<lb/>
+VII. From thence he shall come to<lb/>
+judge the quick and the dead.<lb/>
+VIII. I believe in the Holy Ghost.<lb/>
+IX. The Holy <normalised orig="Catholick" auto="true">Catholic</normalised> Church,<lb/>
+the Communion of Saints.<lb/>
+X. The Forgiveness of Sins.<lb/>
+XI. The resurrection of the body.<lb/>
+XII. And the life everlasting. Amen.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What <normalised orig="dost" auto="true">do</normalised> thou chiefly learn<lb/>
+in these Articles of thy belief?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. First, I learn to believe in<lb/>
+God the Father, who <normalised orig="hath" auto="true">has</normalised> made me<lb/>
+and all the world.<lb/>
+Secondly, in God the Son, who<lb/>
+<normalised orig="hath" auto="true">has</normalised> redeemed me, and all mankind.<lb/>
+Thirdly, In God the Holy Ghost,<lb/>
+who <normalised orig="sanctifieth" auto="true">sanctifies</normalised> me, and all the Elect<lb/>
+people of God.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. What is the method of the Creed?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. The Creed teaches me to believe in God, and<lb/>
+to believe his Church.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How in God?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. It teaches me to believe in God, with respect<lb/>
+to his Unity, and then to the Trinity of Persons in<lb/>
+that Unity, Father, Son, and holy Ghost.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How does it teach you to believe the Church?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. It teaches me to believe the Church, with regard<lb/>
+                  <pb n="10"/>
+                  <lb/>
+to its two different states, either Militant below,<lb/>
+or Triumphant above.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. How are the Articles of the Creed Motives of<lb/>
+Love?<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. Every Article includes a Blessing as well as a<lb/>
+Mystery, and is as proper to excite our Love, as to<lb/>
+engage our Faith.<lb/>
+               </p>
+            </sp>
+            <sp who="a">
+               <p>Q. Give me such a Paraphrase on the Creed, that<lb/>
+throughout the whole, your Faith may work by<lb/>
+Love.<lb/>
+               </p>
+            </sp>
+            <sp who="b">
+               <p>A. I shall <normalised orig="doe" auto="false">do</normalised> it to the best of my power, in such<lb/>
+Instructive and <notvariant>Pathetical</notvariant> Aspirations, as follow.<lb/>
+               </p>
+            </sp>
+         </div>
+         <div>
+            <head>I Believe.</head>
+            <p>
+
+My Lord and my God, with a full, free and firm
+assent, I believe all the Articles of my Creed, because
+thou <normalised orig="hast" auto="true">have</normalised> revealed them; I know thou art
+infallible Truth, and <normalised orig="canst" auto="true">can</normalised> not, thou art infinite
+Love, and wilt not deceive me: Glory be to
+thee.
+With all my heart, O my God, do I love and
+praise thee, who art so infinitely amiable in thy
+self, and so full of love to us, that all I can know,
+or believe of thee, excites me to love thee.
+Lord, daily increase my Faith; make it active
+and <normalised orig="fruitfull" auto="true">fruitful</normalised>, that I may believe and love thee as
+entirely, as becomes one entirely devoted to thee.
+            </p>
+         </div>
+         <div>
+<head>In God.</head>
+<p>
+I believe, O my God, that thou art One, and
+that there is no other God besides thee; thou art that
+One infinite and independent Being, that One <normalised orig="onely" auto="true">only</normalised>
+true God, whom all Men, and all Angels are to
+Adore: All glory be to thee.
+O Lord God, help me to love and to praise
+thee with God-like affections, and a <normalised orig="sutable" auto="true">suitable</normalised> Devotion.
+I believe, O my God, that in the Unity of thy
+<normalised orig="Godhead" auto="true">Godhood</normalised>, there is a Trinity of Persons, I believe
+in thee, O Father, Son and Holy Ghost, in
+whose Name I was <normalised orig="baptized" auto="true">baptised</normalised>, to whose Service I
+am religiously devoted: All glory be to thee.
+I believe, I admire, I love, I praise, I adore thee,
+O most blessed and glorious Trinity, God the Father,
+
+            <fw type="pageNum">B</fw>
+            <pb n="11"/>
+God the Son, and God the Holy Ghost, for
+being the joint <normalised orig="Authours" auto="true">Authors</normalised> of our Salvation: All
+glory be to thee.
+O sacred, and <normalised orig="dreadfull" auto="true">dreadful</normalised>, and mysterious Trinity,
+though I cannot conceive thee, yet let me daily
+experiment thy goodness; Let thy Grace, O Lord
+Jesus; let thy Love, O God the Father; let thy Communications,
+O Holy Spirit, be ever with me.
+</p>
+         </div>
+         <div>
+<head>The Father.</head>
+<p>
+I believe, and love, and praise thee, O my God,
+the first Person in the most Adorable Trinity; the
+Fountain of the <normalised orig="Godhead" auto="true">Godhood</normalised>; the Eternal Father of
+thy <notvariant>coeternal</notvariant> Son, Jesus my Saviour.
+Glory be to thee, O God the Father, for so loving
+the world, as to give thy <normalised orig="onely" auto="true">only</normalised> begotten Son to redeem
+us.
+Glory be to thee, O heavenly Father, for first
+loving us, and giving the dearest thing thou <normalised orig="hadst" auto="true">had</normalised>
+for us; O help me to love again, and to think nothing
+too dear for thee.
+</p>
+         </div>
+         <div>
+<head>Almighty.</head>
+<p>
+I believe, O my God, that thou art a Spirit
+most pure, and holy, and infinite in all perfections,
+in Power, and Knowledge, and Goodness;
+that thou art Eternal, Immutable, and
+Omnipresent; all love, all glory be to thee.
+I believe, O Lord, that thou art most wise and
+just, most happy and glorious, and <notvariant>allsufficient</notvariant>,
+most <normalised orig="gratious" auto="true">gracious</normalised> and <normalised orig="mercifull" auto="true">merciful</normalised>, and tender,
+and benign, and liberal, and beneficent; all
+love, all glory be to thee.
+I believe thy Divine Nature, O my God, to be
+in all respects amiable, to be <notvariant>Amiableness</notvariant> it self, to
+be Love it self; and therefore I love, I admire, I
+praise, and fear, and adore thee.
+Thou, Lord, art my Hope, my Trust, my Life,
+my Joy, my Glory, my God, my All, my Love.
+<pb n="12"/>
+</p>
+         </div>
+         <div>
+            <head>Maker of Heaven and Earth.</head>
+<p>
+I believe that thou, O Father Almighty, <normalised orig="didst" auto="true">did</normalised>
+create Heaven and Earth, the whole World, and
+all things in it, visible and invisible, out of nothing,
+and by thy Word <normalised orig="onely" auto="true">only</normalised>: All glory be to
+thee.
+I believe, O thou great <normalised orig="Creatour" auto="true">Creator</normalised>, that thy Divine
+Love made thee communicate Being to thy
+Creatures; that thou <normalised orig="lovest" auto="true">love</normalised> all things, and <normalised orig="hatest" auto="true">hate</normalised>
+nothing thou <normalised orig="hast" auto="true">have</normalised> made: Glory be to thee.
+I believe, O God, that thou art the sole Lord,
+and <notvariant>Proprietour</notvariant> of all things thou <normalised orig="hast" auto="true">have</normalised> made;
+that all things do necessarily depend on thee; that
+<normalised orig="'tis" auto="true">it is</normalised> in thee <normalised orig="onely" auto="true">only</normalised> <quote type="biblical" ana="Acts 17.28">we live, and move, and have our<lb/>
+Being:</quote> All Love, all Glory be to thee.
+I believe, O thou Communicative Goodness,
+that thou <normalised orig="dost" auto="true">do</normalised> preserve, and sustain, and protect,
+and bless all things thou <normalised orig="hast" auto="true">have</normalised> made, <normalised orig="sutably" auto="false">suitably</normalised> to the
+Natures thou <normalised orig="hast" auto="true">have</normalised> given them: All Love, all
+Glory be to thee.
+I believe, O mighty <normalised orig="Wisedom" auto="true">Wisdom</normalised>, that thou <normalised orig="dost" auto="true">do</normalised>
+most sweetly order and govern, and dispose all
+things; even the most minute; even the very
+sins of men, to conspire in thy Glory; O do
+thou conduct my whole life, steer every motion of
+my soul, towards the great End of our Creation;
+to love, and to <normalised orig="glorifie" auto="true">glorify</normalised> thee.
+I believe, O Lord, that thy Love was more illustrious
+in the Creation of Man, <normalised orig="than" auto="true">then</normalised> in all the rest
+of the visible World; thou <normalised orig="wert" auto="true">were</normalised> pleased to make
+him in thy own Image, and after thy own divine
+likeness: All Love, all Glory be to thee.
+Thou, Lord, <normalised orig="didst" auto="true">did</normalised> make Man for thy self, and
+all things visible for Man; Thou <normalised orig="designedst" auto="false">designed</normalised> all creatures
+for his use, and <normalised orig="didst" auto="true">did</normalised> subject them to his
+Dominion; the very Angels thou <normalised orig="didst" auto="true">did</normalised> charge to
+keep him in all his ways: All Love, all Glory be
+to thee.
+Thy Works, O Lord, are <normalised orig="wonderfull" auto="true">wonderful</normalised> and amiable;
+I love, and admire, and praise thy Universal
+Providence over the whole World; the perpetual
+flux of thy Goodness on every Creature: All glory
+be to thee.
+
+            <fw type="pageNum">B2</fw>
+            <pb n="13"/>
+I love and praise thee, O my God, for all the
+particular <notvariant>vouchsafements</notvariant> of thy love to me, for
+all thy <notvariant>deliverances</notvariant> and blessings, either to my body
+or to my soul, known or unknown; for all that I
+do not remember, or did not consider: All Love,
+all Glory be to thee.
+The longer I live, O my God, the more reason
+I have to love thee, because every day supplies me
+with fresh experiments and new motives of thy
+manifold love to me; and therefore all Love, all
+Glory be to thee.
+</p>
+         </div>
+         <div>
+<head>And in <normalised orig="Iesus" auto="true">Jesus</normalised>.</head>
+<p>
+I believe in thee, O Jesus, and rejoice in that
+dear Name which is so full and expressive of thy
+Love.
+Thou art Jesus our Saviour, because thou <normalised orig="camest" auto="true">came</normalised>
+into the World on purpose to save us from our sins:
+All Love, all Glory be to thee,
+O be thou ever Jesus to me; O let me feel the
+kind force of that sweet name, in which I and all
+sinners do <normalised orig="reade" auto="true">read</normalised> our danger, and our deliverance,
+our guilt, and our salvation.
+O most benign <notvariant>Jesu</notvariant>! He well deserves to be accursed
+that does not love thee: Who, Lord, can ever
+hope to share in thy Salvation, who does not
+love thee his Saviour?
+</p>
+         </div>
+         <div>
+<head>Christ.</head>
+<p>
+I believe, O <normalised orig="mercifull" auto="true">merciful</normalised> Jesus, that thou art Christ
+the true <notvariant>Messias</notvariant>, the Anointed of the Lord, the
+promised seed which was to bruise the Serpent's head,
+long expected by the Fathers, foretold by the
+Prophets, represented by Types, which were
+all fulfilled in thee, O thou the desire of all Nations:
+All Love, all Glory be to thee.
+I believe that thou, O Jesus, <normalised orig="wert" auto="true">were</normalised> Anointed with
+the Holy Spirit, that all his Gifts and Graces were
+poured out, and diffused like a sweet ointment on thy
+soul, without measure; thou art altogether lovely,
+O Christ, and of thy <normalised orig="fulness" auto="true">fullness</normalised> we all receive: All
+Love, all Glory be to thee.
+<pb n="14"/>
+I believe, O thou Anointed of God, that as
+Kings, and Priests, and Prophets, were heretofore
+anointed with Material oil; so by thy Heavenly
+Anointing, thou <normalised orig="wast" auto="true">were</normalised> Consecrated to be our
+Prophet, our King, and our Priest, and in all those
+three Offices, to manifest thy love to us; and
+therefore all Love, all Glory be to thee.
+Glory be to thee, O Christ, our Prophet, who
+<normalised orig="didst" auto="true">did</normalised> teach, and reveal, and interpret thy Father's
+Will, and all saving truth to the World.
+Glory be to thee, O Christ, our King, who
+<normalised orig="dost" auto="true">do</normalised> give Laws to thy People, <normalised orig="dost" auto="true">do</normalised> govern and
+protect us, and <normalised orig="hast" auto="true">have</normalised> subdued all our Ghostly Enemies.
+Glory be to thee, O Christ, our Priest, who <normalised orig="dost" auto="true">do</normalised>
+bless us, who <normalised orig="didst" auto="true">did</normalised> offer thy self a sacrifice, and
+<normalised orig="dost" auto="true">do</normalised> still <quote type="biblical" ana="Rom 8.34">make intercession for us</quote>.
+Our Redemption, our Illumination, our Support
+is wholly from thy Love, O thou Anointed of God:
+All Love, all Glory be to thee.
+</p>
+         </div>
+         <div>
+<head>His <normalised orig="onely" auto="true">only</normalised> Son.</head>
+<p>
+I believe that thou, O most Adorable Jesus, art
+the Son of God by ineffable generation; thou
+<normalised orig="didst" auto="true">did</normalised> from Eternity derive thy <normalised orig="Godhead" auto="true">Godhood</normalised> from the
+Father; thou art <quote type="biblical" ana="Heb 1.3">the brightness of his Glory, and<lb/>
+the express Image of his Person</quote>: All Love, all Glory
+be to thee.
+Thou, O blessed <notvariant>Jesu</notvariant>, art the <normalised orig="onely" auto="true">only</normalised> Son of God,
+the <normalised orig="onely" auto="true">only</normalised> begotten Son, <quote type="biblical" ana="Jn 1.14">full of Grace and Truth;</quote>
+Thou art the <normalised orig="onely" auto="true">only</normalised> beloved Son, in whom thy Father
+is well pleased; <normalised orig="'tis" auto="true">it is</normalised> <normalised orig="onely" auto="true">only</normalised> in thee, and for thee, that
+Sinners have Hope; and therefore all Love, all Glory
+be to thee.
+Thou art equal to thy Father, O <notvariant>Jesu</notvariant>, in <notvariant>amiableness</notvariant>
+and in love to us, and art equally to be loved
+by us; and therefore all Love and praise be to
+the Father that eternally <normalised orig="begat" auto="true">begot</normalised>, and to the Son
+eternally begotten.
+</p>
+         </div>
+         <div>
+<head>Our Lord.</head>
+<p>
+I believe, O thou eternal Son of the Father, that
+thou art the great and true God, <notvariant>Jehovah</notvariant> our
+Righteousness, God above all blessed for ever, and
+
+            <fw type="pageNum">B3</fw>
+            <pb n="15"/>
+mighty to save: All love, all Glory be to thee.
+I believe, O Lord Jesus, that thou <normalised orig="didst" auto="true">did</normalised> make,
+and <normalised orig="dost" auto="true">do</normalised> sustain all things by thy Power, and that
+thou art to be honoured by Men, and by Angels, as
+thy Father is honoured: All Love, all Glory be
+to thee.
+I believe, O thou <quote type="biblical" ana="Rev 19.16">King of Kings, and Lord of<lb/>
+Lords</quote>, that thou art the Lord, and the <normalised orig="Authour" auto="true">Author</normalised>
+of the new Creation, as well as of the old, that
+thou art more peculiarly Lord of us Sinners by purchase;
+O that I, and all that own thy Dominion,
+may for ever love, and revere, and obey so <normalised orig="powerfull" auto="true">powerful</normalised>
+and <normalised orig="gratious" auto="true">gracious</normalised> a Lord!
+</p>
+         </div>
+         <div>
+<head>Who was conceived by the Holy
+Ghost.</head>
+<p>
+I believe, O most condescending Majesty, that
+when thou <normalised orig="didst" auto="true">did</normalised> stoop so low as to assume our frail
+Nature, the Holy Ghost came on thy sacred Mother.
+and that the Power of the Highest did overshadow
+her, and that she did conceive, and lodge thee
+in her Womb, where thou, who <normalised orig="fillest" auto="false">fills</normalised> Heaven and
+Earth, <normalised orig="wert" auto="true">were</normalised> about nine months for our sakes <normalised orig="imprison'd" auto="true">imprisoned</normalised>;
+and therefore all love, all glory be to thee.
+</p>
+         </div>
+         <div>
+<head>Born of the <normalised orig="Uirgin" auto="true">Virgin</normalised> Mary.</head>
+<p>
+I believe, O most adorable Humility, that thou
+<normalised orig="wast" auto="true">were</normalised> at last born into the World, that thou having
+<normalised orig="onely" auto="true">only</normalised> God for thy Father, and Mary, a pure Virgin,
+for thy Mother, whom all Generations do call
+Blessed, both thy Conception and Birth were
+perfectly immaculate, that being without sin thy
+self, thou <normalised orig="mightest" auto="true">might</normalised> be a fit sacrifice to <normalised orig="attone" auto="true">atone</normalised> for
+us Sinners, who being born of unclean Parents,
+were all by nature unclean; and therefore all love,
+all glory be to thee, O immaculate <quote type="biblical" ana="Jn 1.29">Lamb of God,<lb/>
+who <normalised orig="takest" auto="true">take</normalised> away the sins of the World.</quote>
+I believe, O blessed Saviour, that the two Natures
+of God, and of Man, were in thee so mysteriously
+united, without either change, or confusion,
+that they made in thee but one Person, but one <normalised orig="Mediatour" auto="true">Mediator</normalised>,
+one Lord: Thou, O Eternal Word,
+<normalised orig="didst" auto="true">did</normalised> become flesh, and <normalised orig="didst" auto="true">did</normalised> dwell among us, on
+purpose to save us; and therefore all love, all glory
+be to thee.
+<pb n="16"/>
+</p>
+         </div>
+         <div>
+            <head>Suffered.</head>
+<p>
+I believe, O adorable Love, that thy whole life
+was made up of sufferings, and that for <normalised orig="sinfull" auto="true">sinful</normalised> men,
+and in particular for me; O let me never cease to
+adore and love thee.
+It was for us Sinners, O tenderest Love, that in thy
+very infancy thou <normalised orig="wast" auto="true">were</normalised> <normalised orig="circumcis'd" auto="false">circumcised</normalised>, and <normalised orig="design'd" auto="true">designed</normalised>
+by <notvariant>Herod</notvariant> for slaughter, and <normalised orig="forc't" auto="true">forced</normalised> to fly into Egypt,
+and therefore I praise and love thee.
+It was for us Sinners that thou, O afflicted Love,
+were all thy life-long, a man of sorrows, and acquainted
+with grief, that thou <normalised orig="wast" auto="true">were</normalised> persecuted and <normalised orig="revil'd" auto="true">reviled</normalised>,
+<normalised orig="despis'd" auto="true">despised</normalised> and rejected, and <normalised orig="hadst" auto="true">had</normalised> not where to
+lay thy head, and therefore I am bound to praise,
+and love thee.
+It was for us Sinners, that thou, O compassionate
+Love, when thou <normalised orig="tookest" auto="true">took</normalised> on thee our nature, <normalised orig="wast" auto="true">were</normalised>
+<quote type="biblical" ana="Heb 4.15"><normalised orig="toucht" auto="true">touched</normalised> with a feeling of our infirmities, and <normalised orig="wast" auto="true">were</normalised> in all<lb/>
+points tempted like as we are, yet without sin,</quote> that
+thou <normalised orig="mightest" auto="true">might</normalised> the more affectionately pity the
+weak, and succour the tempted; and therefore I
+praise and love thee.
+It was for us Sinners, that thou, O beneficent
+Love, <normalised orig="didst" auto="true">did</normalised> go about doing good, preaching repentance,
+publishing the glad tidings of salvation, sending
+thy Disciples, confirming thy heavenly Doctrine
+by many glorious Miracles, and illustrating
+it by a God-like example; all thy life is full of <notvariant>attractives</notvariant>
+of sweetest love and pity to us Sinners,
+which kindly and forcibly constrain us to praise
+and love thee.
+O most exuberant Love, how amiable are all thy
+Graces, O fill my heart with thy love, and transform
+me into thy likeness, that I may all my life-long
+imitate thy perfect obedience, <notvariant>unspotted</notvariant> Holiness,
+unchangeable Resolution, universal Charity,
+uninterrupted Devotion, contempt of the World,
+Heavenly-mindedness, <normalised orig="gratious" auto="true">gracious</normalised> <normalised orig="Condescention" auto="true">Condescension</normalised>, ardent
+Zeal for thy Father's Glory, and unbounded
+Love, and that for the sake of that dearest Love,
+which inclined thee to become incarnate for me.
+            <fw type="pageNum">B4</fw>
+            <pb n="17"/>
+</p>
+         </div>
+         <div>
+            <head>Under <notvariant>Pontius</notvariant> Pilate.</head>
+<p>
+I believe, O my Lord, and my God, that though
+thou <normalised orig="didst" auto="true">did</normalised> suffer all thy life long, yet thy greatest
+sufferings were under the Roman <normalised orig="Governour" auto="true">Governor</normalised> of <notvariant>Judea</notvariant>,
+<notvariant>Pontius</notvariant> Pilate; I believe all those mighty sufferings,
+but am as little able to express the greatness
+of <choice ana="illegible">
+               <sic>th*m</sic>
+               <corr>them</corr>
+            </choice>, as I am the greatness of thy love which
+<normalised orig="mov'd" auto="true">moved</normalised> thee to suffer: All I can <normalised orig="doe" auto="false">do</normalised> is to love, and
+to praise thee.
+How great were thy sufferings, O Saviour of the
+World, when the very apprehension of them made
+thy Soul very heavy, exceeding <normalised orig="sorrowfull" auto="true">sorrowful</normalised> even to
+death, made thee offer up prayers, with strong crying
+and tears, that if it were thy Father's will the Cup
+might pass from thee, threw thee into an agony and
+<normalised orig="bloudy" auto="true">bloody</normalised> sweat, <normalised orig="insomuch" auto="true">inasmuch</normalised> that there was an Angel
+sent from Heaven on purpose to strengthen thee! O
+thou agonising Love, impress on my heart so tender
+a sense of thy sufferings for me, that I may agonise
+with thee, that I may feel all thy sorrows, that
+though I cannot sweat <normalised orig="bloud" auto="true">blood</normalised> like thee, I may dissolve
+into tears for thee, that I may love and suffer
+with thee throughout every part of thy Passion.
+O suffering Jesus, when my Meditations follow
+thee from the Garden to Mount <notvariant>Calvary</notvariant>, I grieve
+and I love all the way.
+I grieve, and I love, when I see thee, O Incarnate
+God, who <normalised orig="couldst" auto="true">could</normalised> command more <normalised orig="than" auto="true">then</normalised> twelve
+legions of Angels for thy rescue; out of love to Sinners,
+and in particular to me, one of the vilest of
+all that number, humbling thy self to be apprehended,
+and bound by the rude <normalised orig="Souldiers" auto="true">Soldiers</normalised>, as a <normalised orig="Malefactour" auto="true">Malefactor</normalised>.
+I grieve, and I love, when I see thee, O <normalised orig="gratious" auto="true">gracious</normalised>
+Lord, for my sake, <normalised orig="betray'd" auto="true">betrayed</normalised> by the treacherous
+kiss of Judas, <normalised orig="deny'd" auto="true">denied</normalised> by Peter, and forsaken of
+all thy Disciples.
+I grieve, and I love, when I see thee, O spotless
+innocence, out of love to me, <normalised orig="dragg'd" auto="true">dragged</normalised> to <notvariant>Annas</notvariant>
+and <notvariant>Caiaphas</notvariant> the High-priest, when I see thee <normalised orig="accus'd" auto="true">accused</normalised>
+by false Witnesses, <normalised orig="arraign'd" auto="true">arraigned</normalised> and <normalised orig="condemn'd" auto="true">condemned</normalised>.
+I grieve, and I love, when I see thee, O divine
+Majesty, out of love to me, spit upon, and blindfolded,
+and buffeted, and <normalised orig="mockt" auto="true">mocked</normalised>, sent to Pilate
+<pb n="18"/>
+an Infidel Judge, then to wicked <notvariant>Herod</notvariant>, who
+with his men of war set thee at <notvariant>naught</notvariant>, <normalised orig="array'd" auto="true">arrayed</normalised>
+thee in a white Robe of Mockery, and sent thee
+again to Pilate.
+I grieve, and I love, O <normalised orig="injur'd" auto="true">injured</normalised> Goodness, when
+I see thee, though <normalised orig="declar'd" auto="true">declared</normalised> innocent by the very
+<normalised orig="Traytour" auto="true">Traitor</normalised> Judas, who out of <normalised orig="horrour" auto="true">horror</normalised> for his Crime,
+went and <normalised orig="hang'd" auto="true">hanged</normalised> himself, though <normalised orig="declar'd" auto="true">declared</normalised> innocent
+by Pilate himself, the Judge to whom thine Enemies
+<normalised orig="appeal'd" auto="true">appealed</normalised>, yet worried to death by the clamours
+of the Rabble, that <normalised orig="cry'd" auto="true">cried</normalised> out Crucify, Crucify, when
+I see <notvariant>Barabbas</notvariant> a <normalised orig="Traytour" auto="true">Traitor</normalised> and a <normalised orig="Murtherer" auto="true">Murderer</normalised> <normalised orig="preferr'd" auto="true">preferred</normalised>
+before thee.
+I grieve, and I love, when I see thee, O lover
+of Souls, for my sake most unjustly given up into
+the hands of infidel <normalised orig="Souldiers" auto="true">Soldiers</normalised>, to be <normalised orig="stript" auto="true">stripped</normalised> naked,
+and tied to a Pillar, and <normalised orig="scourg'd" auto="true">scourged</normalised>; to see <quote type="psalm" ana="Ps 129.3">the<lb/>
+<notvariant>Plowers</notvariant> <notvariant>plowing</notvariant> on thy back, and making long furrows.</quote>
+I grieve, and I love, O King of Heaven, when
+I see thee out of love to me, humbling thy self to
+be <normalised orig="array'd" auto="true">arrayed</normalised> in Purple, with a Reed in thy hand,
+when I see thee <normalised orig="crown'd" auto="true">crowned</normalised> with Thorns, to multiply
+thy torments; when I see thee <normalised orig="mockt" auto="true">mocked</normalised> by barbarous
+Wretches, with their <notvariant>bended</notvariant> knee, and with <quote type="biblical" ana="Mt 27.29">hail<lb/>
+King of the Jews.</quote>
+I grieve, and I love, when I see thee, O Lord
+God, whom the Angels worship, spit upon again,
+and buffeted, and for my sake, made the extreme
+scorn, and contempt, and sport, of thy insolent
+and insulting Enemies; and though still <normalised orig="declar'd" auto="true">declared</normalised>
+innocent by Pilate, yet <normalised orig="surrender'd" auto="true">surrendered</normalised> to the
+unrelenting Cruelty of the multitude, to be crucified.
+My Lord, my God, my Saviour, with all my
+heart, I love and adore thy infinite love and <notvariant>benignity</notvariant>
+to Sinners; with all my heart, I lament and
+detest the hatred, and outrage of Sinners to thee.
+</p>
+         </div>
+         <div>
+<head>Was <normalised orig="crucifyed" auto="true">crucified</normalised>.</head>
+<p>
+I grieve, and I love, O sorrowful Jesus, when
+I see thee for my sake <normalised orig="opprest" auto="true">oppressed</normalised> with the weight of
+thy own Cross, till thy tender Body, quite spent
+with sufferings, sank under it.
+<pb n="19"/>
+I grieve, and I love, O thou great Martyr of
+Love, when for my sake I see thy virgin Body <normalised orig="stript" auto="true">stripped</normalised>
+naked, thy Hands and thy Feet <normalised orig="nail'd" auto="true">nailed</normalised> to the Cross;
+when I see thee crucified between two Thieves, and
+<normalised orig="numbred" auto="true">numbered</normalised> with the <normalised orig="Transgressours" auto="true">Transgressors</normalised>, when I see Gall given
+thee to eat, and Vinegar to drink.
+I grieve, and I love, when I see thee, O incarnate
+Deity hanging on the Cross, and for my sake,
+by thy own People, in the height of thy anguish,
+derided, <normalised orig="reproacht" auto="true">reproached</normalised> and <normalised orig="blasphem'd" auto="true">blasphemed</normalised> with wagging of
+their heads <normalised orig="mockt" auto="true">mocked</normalised> by the <normalised orig="Souldiers" auto="true">Soldiers</normalised>, and by the impenitent
+Thief.
+I grieve, and I love, when I see thee, O God blessed
+for evermore, O Fountain of all blessing, hang bleeding
+on the Cross, and made a curse for me; How
+does my indignation swell against the injustice, and
+ingratitude, and inhumanity of the Jews, who
+could thus cruelly treat so <notvariant>unreproachable</notvariant> an Innocence,
+so amiable a Charity, so compassionate a Saviour!
+Alas, alas, it was the Sinner, O Love incarnate,
+rather <normalised orig="than" auto="true">then</normalised> the Jew, that <normalised orig="betray'd" auto="true">betrayed</normalised>, and derided
+and blasphemed and <normalised orig="tortur'd" auto="true">tortured</normalised> and <normalised orig="crucify'd" auto="true">crucified</normalised> thee;
+the sins of <notvariant>lapst</notvariant> mankind, and particularly my sins,
+they were thy <normalised orig="Tormentours" auto="false">Tormentors</normalised>; and therefore from my
+heart I bewail, detest and abjure them.
+My Lord, and my God, instill penitential love
+into my Soul, that I may grieve for my sins, which
+<normalised orig="griev'd" auto="true">grieved</normalised> thee, that I may love thee for suffering for
+us Sinners, who <normalised orig="occasion'd" auto="true">occasioned</normalised> all thy griefs; O may I
+always love thee, O may I never grieve thee
+more!
+</p>
+         </div>
+         <div>
+<head>Dead.</head>
+<p>
+I grieve, and I love, O bleeding Love, when I
+see thee on the Cross, quite spent with pain and
+anguish, when I see thee in thy dying pangs commending
+thy Spirit into the hands of thy heavenly Father,
+bowing thy head, and giving up the Ghost.
+Thou, O Lord of life, <normalised orig="didst" auto="true">did</normalised> for us Sinners humble
+thy self to death, even to the death of the Cross, a
+death of utmost shame and ignominy, and of torment
+insupportable; all love, all glory be to thee.
+Was ever any sorrow, O <normalised orig="crucify'd" auto="true">crucified</normalised> Lord, like that
+sorrow my sins created thee?
+<pb n="20"/>
+        Was ever any love, O <normalised orig="outrag'd" auto="true">outraged</normalised> Mercy, like that
+love thou <normalised orig="didst" auto="true">did</normalised> <normalised orig="shew" auto="true">show</normalised>, in dying for Sinners!
+All the frame of Nature, O dying Saviour, fell
+into convulsions at the crucifixion of their great
+<normalised orig="Creatour" auto="true">Creator</normalised>; The <quote type="biblical" ana="Lk 23.45">Sun was <normalised orig="darkned" auto="true">darkened</normalised>,</quote>
+            <quote type="biblical" ana="Mt 27.51-52"> the veil of the<lb/>
+Temple was rent from the top to the bottom, the Earth<lb/>
+<normalised orig="quak't" auto="false">quaked</normalised>, the Rocks <normalised orig="clave" auto="false">clove</normalised> asunder, the Bodies of dead<lb/>
+Saints rose out of their Graves,</quote> <normalised orig="insomuch" auto="true">inasmuch</normalised> that the
+Centurion and infidel <normalised orig="Souldiers" auto="true">Soldiers</normalised> <normalised orig="acknowledg'd" auto="true">acknowledged</normalised> thee
+to be the Son of God, thou <normalised orig="wast" auto="true">were</normalised> lovely, and glorious,
+and adorable in thy lowest humiliation; all
+love, all praise be to thee.
+Thy bodily Sufferings, O almighty Love, were
+intolerable, but yet thy inward were far greater.
+I grieve, I love, I melt all <normalised orig="o'er" auto="false">over</normalised>, when I hear
+thee on the Cross crying out, <quote type="biblical" ana="Mt 27.46">My God, my God, why<lb/>
+<normalised orig="hast" auto="true">have</normalised> thou forsaken me.</quote> Ah <normalised orig="sinfull" auto="true">sinful</normalised> Wretch that I
+am, how infinite and <normalised orig="unconceivable" auto="false">inconceivable</normalised> were the inward
+<notvariant>Dolours</notvariant> and Agonies thou <normalised orig="didst" auto="true">did</normalised> undergo for us
+Sinners, when thou <normalised orig="didst" auto="true">did</normalised> tread the <notvariant>Winepress</notvariant> of thy
+Father's wrath alone, when it <normalised orig="pleas'd" auto="true">pleased</normalised> thy own most
+beloved Father to bruise thee, and to put thee to grief,
+when the iniquities of the whole World were laid on
+thee, and my numerous sins <normalised orig="increast" auto="true">increased</normalised> thy load, and
+<normalised orig="heightned" auto="true">heightened</normalised> thy torment, when thy own Deity withdrew
+all consolation from thee, when God, offended
+by our sins, did afflict thee in the day of his fierce
+anger; no sufferings, no love was ever like unto
+thine for me; no grief, no love but thy own should
+exceed mine for thee.
+For whom, O unutterable goodness, <normalised orig="didst" auto="true">did</normalised> thou
+suffer the extreme bitterness <choice ana="illegible">
+               <sic>o*</sic>
+               <corr>of</corr>
+            </choice> sorrow, but for the
+vilest of all thy Creatures, <normalised orig="sinfull" auto="true">sinful</normalised> man, and for me
+one of the worst of Sinners? and therefore I praise
+and love thee.
+For what end <normalised orig="didst" auto="true">did</normalised> thou suffer, O most ardent
+Charity, but to save Sinners from all things that
+were <notvariant>destructicve</notvariant>, the Curse of the Law, the <normalised orig="Terrours" auto="true">Terrors</normalised>
+of Death, the Tyranny of Sin, the Powers
+of Darkness, and Torments Eternal, to purchase
+for us all things <notvariant>conducible</notvariant> to our Happiness,
+Pardon and Grace, Consolation and Acceptance,
+and the everlasting Joys and Glories of the Kingdom
+of Heaven; and therefore I praise and love
+thee.
+<pb n="21"/>
+Out of what motive <normalised orig="didst" auto="true">did</normalised> thou suffer, O
+boundless <notvariant>Benignity</notvariant>, but out of thy own preventing
+love, free mercy, and pure compassion,
+and therefore I praise and love thee.
+When no other Sacrifice could <normalised orig="attone" auto="true">atone</normalised> thy Father's
+Anger, O thou the beloved Son of God, and
+reconcile Divine Justice and Mercy together, but
+the Sacrifice of God incarnate, who as man was to
+die, and to suffer in our stead, as God was to
+merit and make satisfaction for our sins; <normalised orig="'twas" auto="true">it was</normalised> then
+that thou, O God the Son, <normalised orig="didst" auto="true">did</normalised> become Man, the
+very meanest of Men, <normalised orig="didst" auto="true">did</normalised> take upon thee the form of
+a Servant, and <normalised orig="didst" auto="true">did</normalised> on the Cross <normalised orig="shew" auto="true">show</normalised> us the mystery
+and the Miracle of Love, God crucified for Sinners,
+and Sinners <normalised orig="redeem'd" auto="true">redeemed</normalised> by the <normalised orig="bloud" auto="true">blood</normalised> of God.
+O thou propitious Wonder, God incarnate on
+the Cross, by what Names shall I adore thee, all
+are too short, too scanty, to express thee, Love
+<normalised orig="onely" auto="true">only</normalised>, nothing but Love will reach thee, thou art
+Love, O <notvariant>Jesu</notvariant>, thou art all love, O tenderest, O
+sweetest, O purest, O dearest Love, soften, sweeten,
+refine, love me into all Love like thee!
+By the love of thy Cross, O <notvariant>Jesu</notvariant>, I live, in
+that I will <normalised orig="onely" auto="true">only</normalised> glory, that above all things will I
+study, that before all things will I value; by
+the love of thy Cross I will take up my Cross daily,
+and follow thee, I will persecute and torment, and
+crucify my <normalised orig="sinfull" auto="true">sinful</normalised> Affections and Lusts, which persecuted,
+tormented and <normalised orig="crucify'd" auto="true">crucified</normalised> thee; and if thy
+love calls me to it, I will suffer on the Cross for
+thee, as thou <normalised orig="hast" auto="true">have</normalised> done for me.
+How illustrious and amiable were thy Graces amidst
+all thy Sufferings, O thou afflicted <notvariant>Jesu</notvariant>; I admire,
+and I love thy profound Humility, <notvariant>unwearied</notvariant>
+Patience, Lamb-like Meekness, immaculate Innocence,
+invincible Courage, absolute Resignation,
+compassionate love of Souls, and perfect Charity
+to thy Enemies. O my Love, I cannot love thee,
+but I must desire above all things to be like my
+Beloved; O give me grace to tread in thy steps,
+and conform me to thy Divine Image, that the
+more I grow like thee, the more I may love thee,
+and the more I may be <normalised orig="lov'd" auto="true">loved</normalised> by thee.
+<fw type="pageNum">22</fw>
+            <pb n="22"/>
+</p>
+         </div>
+         <div>
+            <head>And Buried, He descended into Hell.</head>
+<p>
+I believe, O crucified Lord, that thou <normalised orig="wast" auto="true">were</normalised> really
+dead, and that there was a separation of thy
+Body and Soul: That thy side was mortally wounded,
+and pierced with a Spear on the Cross, and
+thy sacred Body was buried, to assure us of thy
+death: All love, all glory be to thee.
+I believe, O pierced, O wounded Love, that thy
+Soul in the state of separation did descend into
+Hell, to vanquish Death and all the Spirits of
+darkness in their own Dominions, and therefore I
+adore and love thee.
+Glory be to thee, O thou great Champion of
+Love, who <normalised orig="didst" auto="true">did</normalised> for our sakes singly encounter all
+our ghostly Enemies, who <normalised orig="didst" auto="true">did</normalised> thy self taste of
+death, that thou <normalised orig="mightst" auto="true">might</normalised> take away the sting of
+death, who <normalised orig="didst" auto="true">did</normalised> wrestle with principalities and
+powers, and all the force of Hell that we might
+share in thy Victory; for which <normalised orig="wonderfull" auto="true">wonderful</normalised> Salvation
+I will always praise and love thee.
+</p>
+         </div>
+         <div>
+<head>The third day he rose again from
+the .</head>
+<p>
+I believe, O Almighty Love, that, according to
+the Types and Prophecies which went before of
+thee, and according to thy own infallible predictions,
+thou <normalised orig="didst" auto="true">did</normalised> by thy own power rise from the
+dead the third day: All love, all glory be to thee.
+Glory be to thee, who <normalised orig="didst" auto="true">did</normalised> lie so long in the
+Grave to undergo the full condition of the dead,
+and to convince all the world thou <normalised orig="wert" auto="true">were</normalised> dead; and
+<normalised orig="didst" auto="true">did</normalised> rise so soon that thou <normalised orig="mightst" auto="true">might</normalised> not see corruption
+or retard our joy; All love, all glory
+be to thee.
+</p>
+         </div>
+         <div>
+<head>He ascended into Heaven.</head>
+<p>
+I believe, O Victorious Love, that thou, after
+thy conquest over Death and Hell, <normalised orig="didst" auto="true">did</normalised> ascend in
+triumph to Heaven, that thou <normalised orig="mightst" auto="true">might</normalised> prepare
+Mansions for us, and from thence as <normalised orig="Conquerour" auto="true">Conqueror</normalised>
+bestow the gifts of they conquest on us, and above
+all the gift of thy Holy Spirit; that thou <normalised orig="mightst" auto="true">might</normalised>
+<pb n="23"/>
+enter into the Holy of <notvariant>Holies</notvariant>, as our great High-priest,
+to present to thy Father the sweet-smelling
+Sacrifice of his crucified Son, the sole propitiation
+for Sinners; and therefore all Love, all
+glory be to thee.
+Glory be to thee, O <notvariant>Jesu</notvariant>, who <normalised orig="didst" auto="true">did</normalised> leave the world
+and ascend to Heaven about the 33<hi rend="high">d</hi> year of thy age,
+to teach us in the prime of our years to despise this
+world, when we are best able to enjoy it, and to
+reserve our full vigour for Heaven and for thy Love.
+O thou whom my Soul <normalised orig="loveth" auto="true">loves</normalised>, since thou <normalised orig="hast" auto="true">have</normalised>
+left the world, what was there ever in it worthy
+of our Love! O let all my affections ascend after
+thee, and never return to the earth more; <quote type="psalm" ana="Ps 73.25">for<lb/>
+whom have I in heaven but thee? and there is none<lb/>
+upon earth that I desire in comparison of thee.</quote>
+</p>
+         </div>
+         <div>
+            <head>And <normalised orig="sitteth" auto="true">sits</normalised> at the right hand of God
+the Father Almighty.</head>
+<p>
+I believe, O Triumphant Love, that thou now
+<normalised orig="sittest" auto="true">sit</normalised> in full and <normalised orig="peacefull" auto="true">peaceful</normalised> possession of bliss, and
+at the right hand of God, that thy humane Nature
+is exalted to the most honourable place in Heaven,
+where thou <normalised orig="sittest" auto="true">sit</normalised> on thy throne of glory, <normalised orig="ador'd" auto="true">adored</normalised>
+by Angels, and interceding for Sinners; and
+therefore all love, all glory be to thee.
+Glory be to thee, O Love <normalised orig="enthron'd" auto="true">enthroned</normalised>, thy Resurrection,
+Ascension and Session, are all signal instances
+of thy love, and earnests of our future felicity,
+the entire purchase of thy love: All our hopes
+of Heaven, our Resurrection, Ascension and Glorification
+depend on, and are derived from thine,
+and are all the trophies of thy love to us; and
+therefore I will ever praise and love thee.
+</p>
+         </div>
+         <div>
+<head>From thence he shall come to judge
+the quick and the dead.</head>
+<p>
+I believe, O Glorified Love, that from thy
+Throne at God's right hand, where thou now <normalised orig="sittest" auto="true">sit</normalised>,
+thou wilt come again to judge the world,
+attended with thy holy Angels. All glory be to
+thee.
+I believe, O thou adorable Judge, that all mankind
+shall be <normalised orig="summon'd" auto="true">summoned</normalised> before thy <normalised orig="awfull" auto="true">awful</normalised> Tribunal.
+<pb n="24"/>
+All the <choice ana="illegible">
+               <sic>D*ad</sic>
+               <corr>Dead</corr>
+            </choice>, who shall be <normalised orig="wak'd" auto="true">waked</normalised> out of their
+Graves when the Angel shall blow the last Trump,
+and all that are then Quick, and alive, shall then
+appear before thee. All glory be to thee.
+I believe, Lord, that I and all the world shall
+give a strict account of all our thoughts, and words,
+and actions; that the Books will be then opened,
+that out of those <normalised orig="dreadfull" auto="true">dreadful</normalised> Registers we shall be
+judged; that Satan and our own Consciences
+will be our accusers. O let the last Trump be ever
+sounding in my ears, that I may ever be <normalised orig="mindfull" auto="true">mindful</normalised>
+of my great accounts, and that I may neither
+speak, nor <normalised orig="doe" auto="false">do</normalised>, nor think any thing that may
+wound my own Conscience, or provoke thy Anger,
+or make me tremble at the <normalised orig="awfull" auto="true">awful</normalised> day.
+I know, O thou adorable Judge, that Love <normalised orig="onely" auto="true">only</normalised>
+shall then endure that terrible Test, that Love
+<normalised orig="onely" auto="true">only</normalised> shall be acquitted, that love <normalised orig="onely" auto="true">only</normalised> shall be
+eternally <normalised orig="blest" auto="true">blessed</normalised>; and therefore I will ever praise and
+love thee.
+Glory be to thee, O thou beloved Son of God,
+to whom the Father has committed all Judgment.
+How can they that love thee, O <notvariant>Jesu</notvariant>, ever <notvariant>despond</notvariant>,
+though their love in this life is always imperfect,
+when at last they shall have love for their
+Judge, Love that <normalised orig="hath" auto="true">has</normalised> felt and will compassionate
+all their infirmities; and therefore all love, all glory
+be to thee.
+</p>
+         </div>
+         <div>
+<head>I believe in the Holy Ghost.</head>
+<p>
+I believe in thee, O thou Spirit of God, the
+third Person in the most adorable Trinity; I believe,
+O blessed Spirit, that thou art the Lord,
+that thou art God eternal and omniscient,
+a Person distinct from both the Father and the
+Son, eternally proceeding from both, and equally
+sent by both, and <normalised orig="joint-authour" auto="false">joint-author</normalised> with both of
+our Salvation; and therefore all love, all glory be
+to thee.
+I believe, O blessed Spirit, that thou art Holy,
+essentially Holy, in respect of thy own Divine Nature,
+and being essentially Holy, art infinitely Amiable;
+and therefore all love, all glory be to thee.
+I believe, O blessed Spirit, that thou art personally
+Holy, that thou art the <normalised orig="Authour" auto="true">Author</normalised> of all internal
+<pb n="25"/>
+Holiness, and all internal and sanctifying Grace,
+that thou art the principle of all <normalised orig="spirituall" auto="true">spiritual</normalised> life in us;
+and therefore all love, all glory be to thee.
+Glory be to thee, O Love Incarnate, for sending
+the Spirit in thy stead, and for promising it to our
+Prayers; all love, all glory be to thee.
+Glory be to thee, O Spirit of Love, for shedding
+the love of God abroad in our hearts, for
+filling all that love thee with exuberance of joy
+and consolation; all love, all glory be to thee.
+O thou blessed Spirit the Comforter, <normalised orig="purifie" auto="true">purify</normalised> my
+Soul, and infuse thy love into it, and consecrate it
+to be thy Temple, and fix thy Throne immovably
+there, and set all my affections on fire, that my
+heart may be a continual Sacrifice of Love <normalised orig="offer'd" auto="true">offered</normalised>
+up to thee, and the flame may be ever aspiring towards
+thee.
+</p>
+         </div>
+         <div>
+<head>The Holy <normalised orig="Catholick" auto="true">Catholic</normalised> Church.</head>
+<p>
+I believe, O blessed and adorable <normalised orig="Mediatour" auto="true">Mediator</normalised>, that
+the Church is a Society of persons, founded by thy
+love to Sinners, united into one Body of which
+thou art the Head, initiated by Baptism, <normalised orig="nourish't" auto="false">nourished</normalised>
+by the Eucharist, <normalised orig="govern'd" auto="true">governed</normalised> by <normalised orig="Pastours" auto="true">Pastors</normalised>
+<normalised orig="commission'd" auto="true">commissioned</normalised> by thee, and <normalised orig="endow'd" auto="true">endowed</normalised> with the power
+of the Keys, professing the Doctrine taught by
+thee, and <normalised orig="deliver'd" auto="true">delivered</normalised> to the Saints, and devoted
+to praise and to love thee.
+I believe, O holy Jesus, that thy Church is holy
+like thee its <normalised orig="authour" auto="true">author</normalised>; holy by the original design
+of its Institution, holy by baptismal dedication,
+holy in all its administrations which tend to produce
+holiness; and though there will be always
+a mixture of good and <normalised orig="bad" auto="true">bade</normalised> in it in this world, yet
+that it has always many real Saints in it; and therefore
+all love, all glory be to thee.
+</p>
+</div>
+      </body>
+   </text>
+</TEI>

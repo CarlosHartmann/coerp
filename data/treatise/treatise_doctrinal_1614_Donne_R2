@@ -1,0 +1,871 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essays in divinity</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JoDo1572"><normalised orig="Donne" auto="true">Done</normalised>, John</author>
+               <title type="main">Essays in divinity</title>
+               <title type="short">Essays in divinity</title>
+               <date when="1614">1614</date>
+               <date type="this_edition" when="1952">1952</date>
+               <idno type="Simpson,">Evelyn M. 1952. Essays in Divinity by John <normalised orig="Donne" auto="true">Done</normalised>. Oxford: Clarendon Press</idno>
+               <note type="genre" subtype="treatise_doctrinal">doctrinal treatise</note>
+               <note type="sample" target="#JoDo1572_1952_treatise_doctrinal_1">p.13, l.33 – p.32, l.5</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="JoDo1572_1952_treatise_doctrinal_1">
+            <div>
+               <head>Of Genesis</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Picus Earl of <normalised orig="Mirandula" auto="true">Myrandula</normalised> (happier in no one thing in this <lb/>
+life, then in the Author which writ it to us) being a man <lb/>
+of an incontinent wit, and subject to the concupiscence <lb/>
+of inaccessible knowledges and transcendencies, pursuing <lb/>
+the rules of Cabal, out of the word Bresit, which is the <lb/>
+title of this first Book, by vexing, and transposing, and <lb/>
+                  <pb n="1"/>
+                  <lb/>
+anagrammatizing the letters, <normalised orig="hath" auto="true">has</normalised> <normalised orig="express'd" auto="true">expressed</normalised> and wrung <lb/>
+out this <normalised orig="Sum" auto="true">Some</normalised> of Christian Religion [The Father, in and <lb/>
+through the Son, which is the beginning, end, and rest, created <lb/>
+in a perfect league, the head, fire and foundation (which he <lb/>
+calls Heaven, Air and Earth) of the great man] (which he <lb/>
+calls the World). And he <normalised orig="hath" auto="true">has</normalised> not <normalised orig="onely" auto="true">only</normalised> delivered Moses <lb/>
+from any dissonance with other sound Philosophers, but <lb/>
+<normalised orig="hath" auto="true">has</normalised> observed all other Philosophy in Moses's words; and <lb/>
+more, <normalised orig="hath" auto="true">has</normalised> found all Moses's learning in every verse of <lb/>
+Moses. But since our merciful God <normalised orig="hath" auto="true">has</normalised> afforded us the <lb/>
+whole and <normalised orig="intire" auto="true">entire</normalised> book, why should wee tear it into rags, or <lb/>
+rent the seamless garment? Since the intention of God, <lb/>
+through Moses, in this, was, that it might be to the Jews <lb/>
+a Book of the generation of Adam; since in it is purposely <lb/>
+propounded, That all this Universe, Plants, the chiefest <lb/>
+contemplation of <normalised orig="Naturall" auto="true">Natural</normalised> <normalised orig="Philosophie" auto="true">Philosophy</normalised> and <normalised orig="Physick" auto="true">Physic</normalised>, and <lb/>
+no small part of the Wisdom of Solomon, [who spake of <lb/>
+plants, from Cedar to Hyssop:] And Beasts, who have often <lb/>
+the honour to be our reproach, accited for examples of <lb/>
+<normalised orig="vertue" auto="true">virtue</normalised> and <normalised orig="wisdome" auto="true">wisdom</normalised> in the scriptures, and some of them <lb/>
+seposed for the particular passive service of God in Sacrifices <lb/>
+(which <normalised orig="hee" auto="true">he</normalised> gave to no man but his Son, and withheld <lb/>
+from Isaac:) And Man, who (like his own eye) sees <lb/>
+all but himself, in his opinion, but so dimly, that there are <lb/>
+marked an hundred differences in <normalised orig="mens" auto="true">men's</normalised> Writings concerning <lb/>
+an Ant: And Spirits, of whom we understand no more, <lb/>
+then a horse of us: and the receptacles and theaters of all <lb/>
+these, Earth, Sea, Air, Heaven, and all things were once <lb/>
+nothing: That Man <normalised orig="chusing" auto="true">choosing</normalised> his own destruction, did what <lb/>
+he could to annihilate himself again, and yet received a <lb/>
+promise of a Redeemer: That Gods mercy may not be <lb/>
+distrusted, nor his Justice tempted, since the <normalised orig="generall" auto="true">general</normalised> <lb/>
+Deluge, and Joseph's preservation are here related, filling <lb/>
+an History of more then 2300 <normalised orig="yeers" auto="true">years</normalised>, with such examples <lb/>
+as might <normalised orig="mollifie" auto="true">mollify</normalised> the Jews in their wandering. I say, since <lb/>
+this was directly and <normalised orig="onely" auto="true">only</normalised> purposed by Moses; to put him <lb/>
+in a <normalised orig="wine-presse" auto="false">wine-press</normalised>, and squeeze out Philosophy and particular <lb/>
+<normalised orig="Christianitie" auto="true">Christianity</normalised>, is a degree of that injustice, which all <lb/>
+laws forbid, to torture a man, sine indiciis aut sine probationibus.
+                  <lb/>
+                  <pb n="2"/>
+                  <lb/>
+Of the time when Moses writ this <normalised orig="booke" auto="true">book</normalised>, there <lb/>
+are two opinions which have good guides, and good followers. <lb/>
+I, because to me it seems reasonable and clear, that <lb/>
+no Divine work preceded the Decalogue, have before <lb/>
+engaged my <normalised orig="selfe" auto="true">self</normalised> to accompany Chemnitius, who is <normalised orig="perswaded" auto="true">persuaded</normalised> <lb/>
+by Theodoret, <normalised orig="Bede" auto="true">Bed</normalised>, and Reason (because here is <lb/>
+intimation of a <normalised orig="Sabboth" auto="true">Sabbath</normalised>, and distinction of clean and <lb/>
+unclean in beasts,) that this book was written after the <lb/>
+Law; And leave Pererius, whom Eusebius <normalised orig="hath" auto="true">has</normalised> won to <lb/>
+<normalised orig="thinke" auto="true">think</normalised> this <normalised orig="booke" auto="true">book</normalised> was written in Madian, <normalised orig="induc'd" auto="true">induced</normalised> only by <lb/>
+Moses forty years leisure there; and a likelihood, that this <lb/>
+Story might well conduce to his end, of reclining the Jews <lb/>
+from Egypt. <lb/>
+And thus much necessarily, or conveniently, or pardonably, <lb/>
+may have been said, before my Entrance, without <lb/>
+disproportioning the whole work. For even in Solomon's <lb/>
+magnificent Temple, the Porch to the Temple had the <lb/>
+proportion of twenty Cubits to sixty. Our next step is <lb/>
+upon the threshold it self, In the beginning, &amp;c. <lb/>
+               </p>
+            </div>
+            <div>
+               <head>PART 1</head>
+               <p>
+                  <lb/>
+                  <lb/>
+<normalised orig="'In" auto="true">In</normalised> the Beginning whereof, O <normalised orig="onely" auto="true">only</normalised> <normalised orig="Eternall" auto="true">Eternal</normalised> God, of <lb/>
+whose being, beginning, or lasting, this beginning is no <lb/>
+period, nor measure; which art no Circle, for thou <normalised orig="hast" auto="true">have</normalised> <lb/>
+no ends to close up; which art not within this All, for it <lb/>
+cannot comprehend thee; nor without it, for thou <normalised orig="fillest" auto="true">fills</normalised> <lb/>
+it; nor art it thy self, for thou <normalised orig="madest" auto="true">made</normalised> it; which having <lb/>
+decreed from all eternity, to do thy great work of Mercy, <lb/>
+our Redemption in the <normalised orig="fulnesse" auto="true">fullness</normalised> of time, <normalised orig="didst" auto="true">did</normalised> now create <lb/>
+time it <normalised orig="selfe" auto="true">self</normalised> to conduce to it; and <normalised orig="madest" auto="true">made</normalised> thy glory and <lb/>
+thy mercy equal thus, that though thy glorious work of <lb/>
+Creation were first, thy <normalised orig="mercifull" auto="true">merciful</normalised> work of Redemption <lb/>
+was greatest. Let me in thy beloved Servant Augustine's <lb/>
+own words, when with an humble <normalised orig="boldnesse" auto="true">boldness</normalised> he <normalised orig="begg'd" auto="true">begged</normalised> <lb/>
+the understanding of this passage, say, Moses writ this, <lb/>
+but is gon from me to thee; if he were here, I would hold <lb/>
+him, and beseech him for thy sake, to tell me what he meant. <lb/>
+                  <pb n="3"/>
+                  <lb/>
+If he <normalised orig="spake" auto="true">spoke</normalised> Hebrew, he would frustrate my hope; but if <lb/>
+<normalised orig="Latine" auto="true">Latin</normalised>, I should comprehend him. But from whence should <lb/>
+I know that he said true? Or when I knew it, came that <lb/>
+knowledge from him? No, for within me, within me there is <lb/>
+a truth, not Hebrew, nor Greek, nor Latin, nor barbarous; <lb/>
+which without organs, without <normalised orig="noyse" auto="true">noise</normalised> of Syllables, <normalised orig="tels" auto="true">tells</normalised> me <lb/>
+true, and would enable me to say confidently to Moses, Thou <lb/>
+<normalised orig="say'st" auto="false">say</normalised> true.' <lb/>
+Thus did he whom thou <normalised orig="hadst" auto="true">had</normalised> filled with faith, desire <lb/>
+reason and understanding; as men <normalised orig="blest" auto="true">blessed</normalised> with great fortunes <lb/>
+desire numbers of servants, and other Complements <lb/>
+of honour. But another instrument and engine of thine, <lb/>
+whom thou <normalised orig="hadst" auto="true">had</normalised> so enabled, that nothing was too <lb/>
+<normalised orig="minerall" auto="true">mineral</normalised> nor centrick for the search and reach of his wit, <lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="remembred" auto="true">remembered</normalised> me; That it is an Article of our Belief, <lb/>
+that the world began. And therefore for this point, we are <lb/>
+not under the insinuations and mollifyings of <normalised orig="perswasion" auto="true">persuasion</normalised>, <lb/>
+and <normalised orig="conveniency" auto="true">convenience</normalised>; nor under the reach and violence of <lb/>
+Argument, or Demonstration, or Necessity; but under the <lb/>
+<normalised orig="Spirituall" auto="true">Spiritual</normalised>, and peaceable Tyranny, and <normalised orig="easie" auto="true">easy</normalised> yoke of sudden <lb/>
+and present Faith. Nor <normalised orig="doth" auto="true">does</normalised> he say this, that we <lb/>
+should discharge our selves upon his word, and slumber in <lb/>
+a lazy faith; for no man was ever more endeavourous then <lb/>
+he in such inquisitions; nor he in any, more then in this <lb/>
+point. But after he had given answers to all the Arguments <lb/>
+of reasonable and <normalised orig="naturall" auto="true">natural</normalised> men, for a beginning of this <lb/>
+world; to advance Faith duly above Reason, he <normalised orig="assignes" auto="true">assigns</normalised> <lb/>
+this with other mysteries only to her comprehension. For <lb/>
+Reason is our Sword, Faith our Target. With that we prevail <lb/>
+against others, with this we defend our selves: And <lb/>
+old, well disciplined Armies punished more severely the <lb/>
+loss of this, then that. <lb/>
+This word, In the beginning, is the beginning of this <lb/>
+book, which we <normalised orig="finde" auto="true">find</normalised> first placed of all the holy books; <lb/>
+And also of the Gospel by Saint John, which we know to <lb/>
+be last written of all. But that last beginning was the first; <lb/>
+for the Word was with God, before God created Heaven <lb/>
+and Earth. And Moses his In the Beginning, <normalised orig="hath" auto="true">has</normalised> ever been <lb/>
+                  <fw type="pageNum" n="17">16</fw>
+                  <pb n="4"/>
+                  <lb/>
+used powerfully, and prosperously, against Philosophers <lb/>
+and <normalised orig="Hereticks" auto="true">Heretics</normalised> relapsed into an opinion of the worlds <lb/>
+eternity. But Saint John's In the Beginning, <normalised orig="hath" auto="true">has</normalised> ever had <lb/>
+strength against the Author of all <normalised orig="errour" auto="true">error</normalised>, the <normalised orig="Divel" auto="true">Devil</normalised> himself, <lb/>
+if we may <normalised orig="beleeve" auto="true">believe</normalised> the relations of exorcists, who in <lb/>
+their dispossessings, mention strange obediences of the <lb/>
+<normalised orig="Divell" auto="true">Devil</normalised> at the naked enunciation of that word. It is not then <lb/>
+all one Beginning; for here God Did, there he Was. That <lb/>
+confesses a limitation of time, this excludes it. The great <lb/>
+Philosopher, (whom I call so, rather for his Conversion, <lb/>
+then his Arguments) who was Arius his Advocate at the <lb/>
+first Nicene <normalised orig="Councell" auto="true">Council</normalised>, <normalised orig="assign'd" auto="true">assigned</normalised> a beginning between these <lb/>
+two beginnings; saying, that after John's eternal Beginning, <lb/>
+and before Moses's timely beginning, Christ had his beginning, <lb/>
+being then created by God for an instrument in his <lb/>
+<normalised orig="generall" auto="true">general</normalised> Creation. But God forbid that anything should <lb/>
+need to be said against this, now. We therefore confessing <lb/>
+two Beginnings, say, that this first was simul cum tempore, <lb/>
+and that it is truly said of it, Erat quando non erat, and that <lb/>
+it instantly vanished; and that the last Beginning lasts yet, <lb/>
+and ever shall: And that our <normalised orig="Mercifull" auto="true">Merciful</normalised> God, as he made <lb/>
+no Creature so frail and corruptible as the first Beginning, <lb/>
+which being but the first point of time, <normalised orig="dyed" auto="true">died</normalised> as soon as it <lb/>
+was made, flowing into the next point; so though he made <lb/>
+no creature like the last Beginning, (for if it had been as <lb/>
+it, <normalised orig="eternall" auto="true">eternal</normalised>, it had been no creature;) yet it pleased him to <lb/>
+come so <normalised orig="neer" auto="true">near</normalised> it, that our soul, though it began with that <lb/>
+first Beginning, shall continue and ever last with the last. <lb/>
+We may not dissemble, nor dare reprove, nor would avoid <lb/>
+another ordinary interpretation of this Beginning, because <lb/>
+it <normalised orig="hath" auto="true">has</normalised> great and agreeing <normalised orig="autority" auto="true">authority</normalised>, and a consonance with <lb/>
+our faith: which is, that by the beginning here, is meant <lb/>
+the Son our Savior; for that is elsewhere said of him, I am <lb/>
+first and last, <quote type="biblical" ana="Rev 1.8">which is, and was, and is to come</quote>. And hereby <lb/>
+they would establish his coeternity, and consubstantialness, <lb/>
+because he can be no creature, who is present at <lb/>
+the first Creation. But because although to us, whom <lb/>
+the Spirit <normalised orig="hath" auto="true">has</normalised> made faithfully credulous, and filled us <lb/>
+with an assurance of this truth, every conducing, and <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="18">C</fw>
+                  <pb n="5"/>
+                  <lb/>
+convenient application governs and commands our assent, <lb/>
+because it <normalised orig="doth" auto="true">does</normalised> but remember us, not teach us. But to the <lb/>
+Jews, who roundly deny this Exposition, and to the Arians, <lb/>
+who accept it, and yet call Christ a creature, as forecreated <lb/>
+for an Assistant in this Second Creation; these <lb/>
+detortions have small force, but as Sun-beams striking <lb/>
+obliquely, or arrows diverted with a twig by the way, they <lb/>
+lessen their strength, being turned upon another mark <lb/>
+then they were destined to. And therefore by the Example <lb/>
+of our late learned Reformers, I forbear this interpretation; <lb/>
+the rather, because we are utterly dis-provided of <lb/>
+any history of the Worlds Creation, except we defend and <lb/>
+maintain this Book of Moses to be Historical, and therefore <lb/>
+literally to be interpreted. Which I urge not with that <lb/>
+peremptorinesse, as Bellarmine <normalised orig="doth" auto="true">does</normalised>, who answers all the <lb/>
+Arguments of Moses's silence in many points maintained <lb/>
+by that Church, with this only, Est liber Historiarum, non <lb/>
+Dogmatum. For then it were unproperly argued by our <lb/>
+Saviour, <quote type="biblical" ana="Jn 5.46">If <normalised orig="ye" auto="true">you</normalised> believed Moses, <normalised orig="ye" auto="true">you</normalised> would believe me, for he <lb/>
+writ of me.</quote> There is then in Moses, both History and Precept, <lb/>
+but evidently distinguishable without violence. That <lb/>
+then this Beginning was, is matter of faith, and so, infallible. <lb/>
+When it was, is matter of reason, and therefore <lb/>
+various and <normalised orig="perplex'd" auto="true">perplexed</normalised>. In the Epistle of Alexander the <lb/>
+Great to his Mother, <normalised orig="remembred" auto="true">remembered</normalised> by Cyprian and Augustin, <lb/>
+there is mention of 8000. years. The Caldeans have delivered <lb/>
+observations of 470000 years. And the Egyptians of <lb/>
+100000. The <normalised orig="Chineses" auto="true">Chinese</normalised> vex us at this day, with <normalised orig="irreconciliable" auto="true">irreconcilable</normalised> <lb/>
+accounts. And to be sure, that none shall prevent <lb/>
+them, some have <normalised orig="call'd" auto="true">called</normalised> themselves Aborigenes. The poor <lb/>
+remedy of Lunary and other planetary years, the silly and <lb/>
+contemptible escape that some Authors speak of running <lb/>
+years, some of years expired and perfected; or that the <lb/>
+account of <normalised orig="dayes" auto="true">days</normalised> and <normalised orig="monthes" auto="true">months</normalised> are neglected, cannot ease <lb/>
+us, nor afford us line enough to fathom this bottom. The <lb/>
+last refuge uses to be, that <normalised orig="prophane" auto="true">profane</normalised> history cannot clear, <lb/>
+but Scripture can. Which is the best, because it is <normalised orig="halfe" auto="true">half</normalised> <lb/>
+true; But that the later part is true, or that God purposes <lb/>
+to reveal it in his Book, it seems <normalised orig="doubtfull" auto="true">doubtful</normalised>, because Sextus <lb/>
+                  <pb n="6"/>
+                  <lb/>
+Senensis reckons almost thirty <normalised orig="severall" auto="true">several</normalised> supputations of the <lb/>
+years between the Creation, and our blessed Saviours birth, <lb/>
+all of accepted Authors, grounded upon the Scriptures; <lb/>
+and Pererius confesses, he might have <normalised orig="encreased" auto="true">increased</normalised> the number <lb/>
+by 20. And they who in a devout melancholy delight <lb/>
+themselves with this Meditation, that they can <normalised orig="assigne" auto="true">assign</normalised> the <lb/>
+beginning of all Arts which we use for Necessity or Ornament; <lb/>
+and conclude, that men which cannot live without <lb/>
+such, were not long before such inventions, forget both <lb/>
+that many Nations want those commodities yet, and that <lb/>
+there are as great things <normalised orig="perish'd" auto="true">perished</normalised> and forgot(t)en, as are <lb/>
+now remaining. Truly, the Creation and the last Judgement, <lb/>
+are the Diluculum and Crepusculum, the Morning and <lb/>
+the Evening <normalised orig="twi-lights" auto="false">twilights</normalised> of the long day of this world. Which <lb/>
+times, though they be not utterly dark, yet they are but <lb/>
+of uncertain, <normalised orig="doubtfull" auto="true">doubtful</normalised>, and <normalised orig="conjecturall" auto="true">conjectural</normalised> light. Yet not <lb/>
+equally; for the break of the day, because it <normalised orig="hath" auto="true">has</normalised> a succession <lb/>
+of more and more light, is clearer then the shutting <lb/>
+in, which is overtaken with more and more <normalised orig="darknesse" auto="true">darkness</normalised>; so <lb/>
+is the birth of the world more <normalised orig="discernable" auto="true">discernible</normalised> then the death, <lb/>
+because upon this God <normalised orig="hath" auto="true">has</normalised> cast more clouds: yet since <lb/>
+the world in her first infancy did not speak to us at all (by <lb/>
+any Authors;) and when she began to speak by Moses, she <lb/>
+<normalised orig="spake" auto="true">spoke</normalised> not plain, but <normalised orig="diversly" auto="true">diversely</normalised> to divers understandings; we <lb/>
+must return again to our strong hold, faith, and end with <lb/>
+this, That this Beginning was, and before it, Nothing. It is <lb/>
+elder then <normalised orig="darknesse" auto="true">darkness</normalised>, which is elder then light; And was <lb/>
+before Confusion, which is elder then Order, by how much <lb/>
+the <normalised orig="universall" auto="true">universal</normalised> Chaos preceded forms and distinctions. A <lb/>
+beginning so near Eternity, that there was no Then, nor a <lb/>
+<normalised orig="minite" auto="false">minute</normalised> of Time between them. Of which, Eternity could <lb/>
+never say, To morrow, nor speak as of a future thing, because <lb/>
+this Beginning was the first point of time, before which, <lb/>
+whatsoever God did, he did it uncessantly and unintermittingly; <lb/>
+which was but the generation of the Son, and <lb/>
+procession of the Spirit, and enjoying one another; Things, <lb/>
+which if ever they had ended, had begun; And those be <lb/>
+terms incompatible with Eternity. And therefore Saint <lb/>
+Augustin says religiously and exemplarily, If one ask me <lb/>
+                  <pb n="7"/>
+                  <lb/>
+what God did before this beginning, I will not answer, as <lb/>
+another did merrily, He made Hell for such <normalised orig="busie" auto="true">busy</normalised> inquirers: <lb/>
+But I will sooner say, I know not, when I know not, then <lb/>
+answer that, by which he shall be deluded which asked too <lb/>
+high a Mystery, and he be <normalised orig="praysed" auto="true">praised</normalised>, which answered a lie.'<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>PART 2</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Now we have ended our Consideration of this beginning, <lb/>
+we will begin with that, which was before it, and was <lb/>
+Author of it, God himself; and bend our thoughts first <lb/>
+upon himself, then upon his Name, and then upon the <lb/>
+particular Name here used, Elohim. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Of God</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Men which seek God by reason, and <normalised orig="naturall" auto="true">natural</normalised> strength, <lb/>
+(though we do not deny common notions and <normalised orig="generall" auto="true">general</normalised> <lb/>
+impressions of a <normalised orig="soveraign" auto="true">sovereign</normalised> power) are like Mariners which <lb/>
+voyaged before the invention of the Compass, which were <lb/>
+but Costers, and unwillingly left the sight of the land. <lb/>
+Such are they which would arrive at God by this world, <lb/>
+and contemplate him <normalised orig="onely" auto="true">only</normalised> in his Creatures, and seeming <lb/>
+Demonstration. Certainly, every Creature <normalised orig="shewes" auto="true">shows</normalised> God, <lb/>
+as a glass, but <normalised orig="glimeringly" auto="false">glimmeringly</normalised> and transitiorily, by the frailty <lb/>
+both of the receiver, and beholder: Our selves have his <lb/>
+Image, as Medals, permanently, and preciously delivered. <lb/>
+But by these meditations we get no further, then to know <lb/>
+what he <normalised orig="doth" auto="true">does</normalised>, not what he is. But as by the use of the <lb/>
+Compass, men safely dispatch Ulysses dangerous ten years <lb/>
+<normalised orig="travell" auto="true">travel</normalised> in so many <normalised orig="dayes" auto="true">days</normalised>, and have found out a new world <lb/>
+richer then the old; so <normalised orig="doth" auto="true">does</normalised> Faith, as soon as our hearts <lb/>
+are touched with it, direct and inform us in that great <lb/>
+search of the discovery of Gods Essence, and the new <lb/>
+<normalised orig="Hierusalem" auto="true">Jerusalem</normalised>, which Reason durst not attempt. And though <lb/>
+the faithfullest heart is not ever directly, and constantly <lb/>
+upon God, but that it sometimes descends also to Reason; <lb/>
+yet it is (not) thereby so departed from him, but that it <lb/>
+still looks towards him, though not fully to him: as the <lb/>
+Compass is ever Northward, though it decline, and have <lb/>
+often variations towards East, and West. By this faith, as <lb/>
+                  <pb n="8"/>
+                  <lb/>
+by reason, I know, that God is all that which all men can <lb/>
+say of all Good; I <normalised orig="beleeve" auto="true">believe</normalised> he is somewhat which no man <lb/>
+can say nor know. For, si scirem quid Deus esset, Deus essem. <lb/>
+For all acquired <normalised orig="knowledg" auto="true">knowledge</normalised> is by degrees, and successive; <lb/>
+but God is impartible, and only faith which can receive it <lb/>
+all at once, can comprehend him. <lb/>
+<normalised orig="Canst" auto="true">Can</normalised> thou then, O my soul, when faith <normalised orig="hath" auto="true">has</normalised> extended <lb/>
+and enlarged thee, not as wind <normalised orig="doth" auto="true">does</normalised> a bladder (which is <lb/>
+the nature of humane learning) but as God <normalised orig="hath" auto="true">has</normalised> <normalised orig="displaid" auto="true">displayed</normalised> <lb/>
+the Curtain of the firmament, and more spaciously; for <lb/>
+thou <normalised orig="comprehendest" auto="false">comprehends</normalised> that, and him which comprehends it: <lb/>
+<normalised orig="Canst" auto="true">Can</normalised> thou be satisfied with such a late <normalised orig="knowledg" auto="true">knowledge</normalised> of God, <lb/>
+as is gathered from effects; when even reason, which feeds <lb/>
+upon the <normalised orig="crums" auto="true">crumbs</normalised> and fragments of appearances and verisimilitudes, <lb/>
+requires causes? <normalised orig="Canst" auto="true">Can</normalised> thou rely and <normalised orig="leane" auto="true">lean</normalised> <lb/>
+upon so infirm a <normalised orig="knowledg" auto="true">knowledge</normalised>, as is delivered by negations? <lb/>
+And because a devout speculative man <normalised orig="hath" auto="true">has</normalised> said, Negationes <lb/>
+de Deo sunt verae, affirmationes autem sunt inconvenientes, <lb/>
+will it serve thy turn to hear, that God is that <lb/>
+which cannot be named, cannot be comprehended, or <lb/>
+which is nothing else? When every negation <normalised orig="implyes" auto="true">implies</normalised> some <lb/>
+privation, which cannot be safely enough admitted in God; <lb/>
+and is, besides, so inconsiderable a kind of <normalised orig="proofe" auto="true">proof</normalised>, that <lb/>
+in <normalised orig="civill" auto="true">civil</normalised> and judic(i)all practice, no man is bound by it, <lb/>
+nor bound to prove it. Can it give thee any satisfaction, <lb/>
+to hear God called by concrete names, Good, Just, Wise; <lb/>
+since these words can never be without confessing better, <lb/>
+wiser, and more just? Or if he be called Best, etc. or in such <lb/>
+phrase, the highest degree respects some lower, and mean, <lb/>
+one: and are those in God? Or is there any Creature, any <lb/>
+Degree of that Best, by which we should call God? Or <lb/>
+art thou got any <normalised orig="neerer" auto="true">nearer</normalised>, by hearing him called Abstractly, <lb/>
+Goodness; since that, and such, are communicable, and <lb/>
+daily applied to Princes? Art thou delighted with Arguments <lb/>
+arising from Order, and Subordination of Creatures, <lb/>
+which must at last end in some one, which ends in none? <lb/>
+Or from the preservation of all this Universe, when men <lb/>
+which have not had faith, and have opposed reason to <lb/>
+                  <pb n="9"/>
+                  <lb/>
+reason, have escaped from all these, without confessing <lb/>
+such a God, as thou <normalised orig="knowest" auto="true">know</normalised>; at least, without seeing <lb/>
+thereby, what he is? Have they furthered, or eased thee <lb/>
+any more, who not able to consider whole and <normalised orig="infinit" auto="true">infinite</normalised> God, <lb/>
+have made a particular God, not only of every power of <lb/>
+God, but of every benefit? And so filled the world (which <lb/>
+our God alone <normalised orig="doth" auto="true">does</normalised> better) with so many, that Varro <lb/>
+could account 30000 and of them 300 Jupiters. Out of <lb/>
+this proceeded Dea febris, and Dea fraus, and Tenebrae, and <lb/>
+Onions, and <normalised orig="Garlike" auto="true">Garlic</normalised>. For the Egyptians, most abundant in <lb/>
+Idolatry, were from thence said to have Gods grow in their <lb/>
+gardens. And Tertullian, noting that Gods became <normalised orig="mens" auto="true">men's</normalised> <lb/>
+Creatures, said, Homo incipit esse propitius Deo, because <lb/>
+Gods were beholden to men for their being. And thus did <lb/>
+a great Greek <normalised orig="Generall" auto="true">General</normalised>, when he pressed the Ilanders for <lb/>
+money, tell them, that he presented two Gods, Vim et <lb/>
+Suasionem; and conformably to this they answered, that <lb/>
+they opposed two Gods, Paupertatem et Impossibilitatem. <lb/>
+And this multiplicity of Gods may teach thee, that the <lb/>
+resultance of all these powers is one God, and that no place <lb/>
+nor action is hid from him: but it <normalised orig="teacheth" auto="true">teaches</normalised> not, who, nor <lb/>
+what he is. And too particular and <normalised orig="restrain'd" auto="true">restrained</normalised> are all those <lb/>
+descents of God in his word, when he speaks of a body, <lb/>
+and of passions, like ours. And such also is their reverend <lb/>
+silence, who have expressed God in <normalised orig="Hieroglyphicks" auto="true">Hieroglyphics</normalised>, ever <lb/>
+determining in some one power of God, without larger <lb/>
+extent. And lastly, can thy great capacity be fulfilled with <lb/>
+that <normalised orig="knowledg" auto="true">knowledge</normalised>, which the Roman Church affords of God? <lb/>
+which, as though the state of a Monarchy were too terrible, <lb/>
+and refulgent for our sight, <normalised orig="hath" auto="true">has</normalised> changed the <normalised orig="Kingdome" auto="true">Kingdom</normalised> <lb/>
+of heaven into an <normalised orig="Olygarchy" auto="false">Oligarchy</normalised>; or at least, given God <normalised orig="leasure" auto="true">leisure</normalised>, <lb/>
+and deputed Masters of his Requests, and <normalised orig="Counsellers" auto="true">Counsellors</normalised> in <lb/>
+his great <normalised orig="Starr-chamber" auto="false">Star-chamber</normalised>? <lb/>
+Thou shalt not then, O my <normalised orig="faithfull" auto="true">faithful</normalised> soul, despise any <lb/>
+of these erroneous pictures, thou shalt not destroy, nor <lb/>
+demolish their buildings; but thou shalt not make them thy <lb/>
+foundation. For thou <normalised orig="beleevest" auto="false">believe</normalised> more then they pretend <lb/>
+to teach and art assured of more then thou <normalised orig="canst" auto="true">can</normalised> utter. <lb/>
+                  <pb n="10"/>
+                  <lb/>
+For if thou <normalised orig="couldest" auto="true">could</normalised> express all which thou <normalised orig="seest" auto="true">see</normalised> of God, <lb/>
+there would be <normalised orig="somthing" auto="true">something</normalised> presently beyond that. Not that <lb/>
+God <normalised orig="growes" auto="true">grows</normalised>, but faith <normalised orig="doth" auto="true">does</normalised>. For, God himself is so unutterable, <lb/>
+that he <normalised orig="hath" auto="true">has</normalised> a name which we cannot pronounce. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Of the Name of God</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Names are either to avoid confusion, and distinguish particulars, <lb/>
+and so every day begetting new inventions, and the <lb/>
+names often overliving the things, curious and entangled <lb/>
+Wits have vexed themselves to know, whether in the world <lb/>
+there were more things or names;) But such a name, God <lb/>
+who is one needs not; Or else, names are to instruct us, and <lb/>
+express natures and essences. This Adam was able to do. And <lb/>
+an enormous pretending Wit of our nation and age undertook <lb/>
+to frame such a language, herein exceeding Adam, <lb/>
+that whereas he named every thing by the most eminent <lb/>
+and <normalised orig="virtuall" auto="true">virtual</normalised> property, our man gave names, by the first <lb/>
+naked enuntiation whereof, any understanding should <lb/>
+comprehend the essence of the thing, better then by a <lb/>
+definition. And such a name, we who know not Gods <lb/>
+essence cannot give him. So that it is truly said, there is <lb/>
+no name given by man to God, Ejus essentiam adaequate <lb/>
+representans. And Hermes says humbly and reverently, Non <lb/>
+spero, I cannot hope, that the maker of all Majesty, can be <lb/>
+<normalised orig="call'd" auto="true">called</normalised> by any one name, though compounded of many. I <lb/>
+have <normalised orig="therfore" auto="true">therefore</normalised> sometimes suspected, that there was some <lb/>
+degree of pride, and overboldness, in the first naming of <lb/>
+God; the rather, because I <normalised orig="marke" auto="true">mark</normalised>, that the first which <lb/>
+ever pronounced the name, God, was the <normalised orig="Divell" auto="true">Devil</normalised>; and presently <lb/>
+after the woman; who in the next chapter proceeded <lb/>
+further, and first durst pronounce that sacred and <lb/>
+<normalised orig="mystick" auto="true">mystic</normalised> name of <normalised orig="foure" auto="true">four</normalised> letters. For when an <normalised orig="Angell" auto="true">Angel</normalised> did but <lb/>
+Ministerially represent God <normalised orig="wrastling" auto="true">wrestling</normalised> with Jacob, he reproves <lb/>
+Jacob, for asking his name; <quote type="biblical" ana="Gen 32.39">
+                     Cur quaeris nomen meum?
+                  </quote>
+                  <lb/>
+And so also to Manoah, <quote type="biblical" ana="Judg 13.18">Why <normalised orig="askest" auto="false">ask</normalised> thou my Name</quote>, <quote type="biblical" ana="Judg 13.18">
+                     quod <lb/>
+est mirabile?
+                  </quote> And God, to dignify that <normalised orig="Angell" auto="true">Angel</normalised> which he <lb/>
+promises to lead his people, says, Fear him, <quote type="biblical" ana="Ex 23.21">provoke him <lb/>
+not</quote>, &amp;c. <quote type="biblical" ana="Ex 23.21">For my Name is in him</quote>; but he <normalised orig="tels" auto="true">tells</normalised> them not what <lb/>
+it is. But since, necessity <normalised orig="hath" auto="true">has</normalised> enforced, and Gods will <lb/>
+                  <pb n="11"/>
+                  <lb/>
+<normalised orig="hath" auto="true">has</normalised> revealed some names. For in truth, we could not say <lb/>
+this, God cannot be named, except God could be named. <lb/>
+To handle the Mysteries of these names, is not for the <lb/>
+<normalised orig="straitness" auto="true">straightness</normalised> of these leaves, nor of my stock. But yet I will <lb/>
+take from Picus, those words which his <normalised orig="extream" auto="true">extreme</normalised> learning <lb/>
+needed not, Ex <normalised orig="lege" auto="true">leg</normalised>, spicula linquuntur pauperibus in <normalised orig="messe" auto="true">mess</normalised>, <lb/>
+the richest and <normalised orig="learnedst" auto="true">learned</normalised> must leave gleanings behind <lb/>
+them. Omitting therefore Gods attributes, Eternity, Wisdom, <lb/>
+and such; and his Names communicable with Princes, <lb/>
+and such; there are two Names proper, and expressing his <lb/>
+Essence: One imposed by us, God; The other taken by <lb/>
+God, the Name of four letters; for the Name, I am, is <lb/>
+derived from the same root. The Name imposed by us, <lb/>
+comes so near the other, that most Nations express it in <lb/>
+four letters; and the Turk almost as <normalised orig="Mistically" auto="true">Mystically</normalised> as the <lb/>
+Hebrew, in Abgd, almost ineffably: And hence perchance <lb/>
+was derived the Pythagorean oath, by the number of four. <lb/>
+And in this also, that though it be given from Gods Works, <lb/>
+not from his Essence, (for that is impossible to us) yet the <lb/>
+root signifies all this, Curare, Ardere, and Considerare; and <lb/>
+is purposed and intended to <normalised orig="signifie" auto="true">signify</normalised> as much the Essence, <lb/>
+as we can express; and is never afforded absolutely to any <lb/>
+but God himself. And therefore Aquinas, after he had <lb/>
+preferred the Name I am, above all, both because others <lb/>
+were from <normalised orig="formes" auto="true">forms</normalised>, this from Essence; they signified some <lb/>
+determined and limited property, this whole and entire <lb/>
+God; and this best expressed, that nothing was past, nor <lb/>
+future to God; he adds, yet the Name, God, is more proper <lb/>
+then this, and the Name of four letters more then that. <lb/>
+Of which Name one says, that as there is a secret property <lb/>
+by which we are changed into God, (referring, I <lb/>
+think, to that, We are made partakers of the godly nature) <lb/>
+so God <normalised orig="hath" auto="true">has</normalised> a certain name, to which he <normalised orig="hath" auto="true">has</normalised> annexed <lb/>
+certain conditions, which being observed, he <normalised orig="hath" auto="true">has</normalised> bound <lb/>
+himself to be present. This is the Name, which the Jews <lb/>
+stubbornly deny ever to have been attributed to the <lb/>
+Messias in the Scriptures. This is the name, which they <lb/>
+say none could utter, but the priests, and the <normalised orig="knowledg" auto="true">knowledge</normalised> <lb/>
+                  <pb n="12"/>
+                  <lb/>
+of it perished with the Temple. And this is the name by <lb/>
+which they say our Blessed Saviour did all his miracles, <lb/>
+having learned the true use of it, by a <normalised orig="Scedule" auto="true">Schedule</normalised> which he <lb/>
+found of Solomon's and that any other, by that means, <lb/>
+might do them. <lb/>
+How this name should be sounded, is now upon the <lb/>
+<normalised orig="anvile" auto="true">anvil</normalised>, and every body is beating and hammering upon it. <lb/>
+That it is not Jehova, this governs me, that the Septuagint <lb/>
+never called it so; Nor Christ; nor the Apostles, where <lb/>
+they vouch the old Testament; Nor <normalised orig="Origen" auto="true">Origin</normalised>, nor <normalised orig="Hierome" auto="true">Jerome</normalised>, <lb/>
+curious in language. And though negatives have ever their <lb/>
+infirmities, and must not be built on, this may, that our <lb/>
+Fathers heard not the first sound of this word Jehova. For <lb/>
+(for any thing appearing,) Galatinus, in their Age, was the <lb/>
+first that offered it. For, that <normalised orig="Hierome" auto="true">Jerome</normalised> should name it in <lb/>
+the exposition of the eighth Psalm, it is peremptorily <lb/>
+averred by Drusius, and admitted by our <normalised orig="learnedst" auto="true">learned</normalised> Doctor, <lb/>
+that in the old Editions it was not Jehova. But more then <lb/>
+any other reason, this <normalised orig="doth" auto="true">does</normalised> accomplish and perfect the <lb/>
+opinion against that word, that whereas that language <lb/>
+<normalised orig="hath" auto="true">has</normalised> no <normalised orig="naturall" auto="true">natural</normalised> vowels inserted, but points subjected of <lb/>
+the value and sound of our vowels, added by the Masorits, <lb/>
+the Hebrew <normalised orig="Criticks" auto="true">Critics</normalised>, after Esdras; and therefore they <lb/>
+observe a necessity of such a <normalised orig="naturall" auto="true">natural</normalised> and infallible concurrence <lb/>
+of consonants, that when such and such consonants <lb/>
+meet, such and such vowels must be imagined, and <lb/>
+sounded, by which they have an Art of reading it without <lb/>
+points; by those rules, those vowels cannot serve those <lb/>
+Consonants, nor the name Jehova be built of those four <lb/>
+letters, and the vowels of Adonay. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Elohim</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Of the name used in this place, much needs not. But as old <lb/>
+age is justly charged with this sickness, that though it <lb/>
+abound, it ever covets, though it need less then youth did: <lb/>
+so <normalised orig="hath" auto="true">has</normalised> also this decrepit age of the world such a sickness; <lb/>
+for though we have now a clearer understanding of the <lb/>
+Scriptures then former times, (for we inherit the talents <lb/>
+                  <pb n="13"/>
+                  <lb/>
+and travels of <normalised orig="al" auto="true">all</normalised> Expositors, and have overlived most of the <lb/>
+prophecies,) and though the gross thick clouds of Arianism <lb/>
+be dispersed, and so we have few enemies; yet we affect, <lb/>
+and strain at more Arguments for the Trinity, then those <lb/>
+times did, which needed them more. Hereupon <normalised orig="hath" auto="true">has</normalised> an <lb/>
+opinion, that by this name of God, Elohim, because it is <lb/>
+plurally pronounced in this place, and with a singular <lb/>
+<normalised orig="verbe" auto="true">verb</normalised>, the Trinity is insinuated, first of any begun by <lb/>
+Peter Lumbard, been since earnestly pursued by Lyra, <lb/>
+Galatin, and very many. And because Calvin, in a brave <lb/>
+religious scorn of this extortion, and beggarly wresting of <lb/>
+Scriptures, <normalised orig="denyes" auto="true">denies</normalised> this place, with others usually offered <lb/>
+for that point, to concern it, and his defender Paraeus <lb/>
+<normalised orig="denyes" auto="true">denies</normalised> any good Author to approve it, Hunnius opposes <lb/>
+Luther, and some after, but none before, to be of that <lb/>
+opinion. But, lest any should think this a prevarication in <lb/>
+me, or a purpose to <normalised orig="shew" auto="true">show</normalised> the nakedness of the Fathers of <lb/>
+our Church, by opening their disagreeing, though in no <lb/>
+<normalised orig="fundamentall" auto="true">fundamental</normalised> thing, I will also remember, that great pillars <lb/>
+of the Roman Church differ with as much bitterness, and <lb/>
+less reason in this point. For, when Cajetan had said true, <lb/>
+that this place was not so interpretable, but yet upon false <lb/>
+grounds, That the word Elohim had no singular, which is <lb/>
+evidently false, Catharinus in his Animadversions upon <lb/>
+Cajetan, reprehends him bitterly for his truth, and spies <lb/>
+not his <normalised orig="Errour" auto="true">Error</normalised>: And though Tostatus long before said the <lb/>
+same, and Lumbard were the first that writ the contrary, <lb/>
+he denies any to have been of Cajetan's opinion. It satisfies <lb/>
+me, for the phrase, that I am taught by collation of many <lb/>
+places in the Scriptures, that it is a <normalised orig="meer" auto="true">mere</normalised> Idiotism. And <lb/>
+for the matter, that our Saviour never <normalised orig="applyed" auto="true">applied</normalised> this place <lb/>
+to that purpose: And that I mark, the first place which the <lb/>
+Fathers in the Nicen <normalised orig="Councel" auto="true">Council</normalised> objected against Arius his <lb/>
+Philosopher, was, Faciamus hominem, and this never mentioned. <lb/>
+Thus much of him, who <normalised orig="hath" auto="true">has</normalised> said, I have been <lb/>
+found by them which have not sought me: And therefore <lb/>
+most assuredly in another place, If thou seek me, thou shalt <lb/>
+<normalised orig="finde" auto="true">find</normalised> me. I have adventured in his Name, upon his Name. <lb/>
+                  <pb n="14"/>
+                  <lb/>
+Our next consideration must be his most glorious <normalised orig="worke" auto="true">work</normalised> <lb/>
+which he <normalised orig="hath" auto="true">has</normalised> yet done in any time, the Creation. <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>PART 3</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <quote type="biblical" ana="Eccl 3.11">
+                     Mundum tradidit disputationi eorum, ut non inveniat homo <lb/>
+opus quod operatus est Deus ab initio usque ad finem.
+                  </quote> So that <lb/>
+God will be glorified both in our searching these Mysteries, <lb/>
+because it testifies our liveliness towards him, and <lb/>
+in our not finding them. Lawyers, more then others, have <lb/>
+ever been Tyrants over words, and have made them accept <lb/>
+other significations, then their nature <normalised orig="enclined" auto="true">inclined</normalised> to. Hereby <lb/>
+have Casuists drawn the word Anathema, which is consecrated <lb/>
+or separated, and separated or seposed for Divine <lb/>
+use, to signify necessarily accursed, and cut off from the <lb/>
+communion of the Church. Hereby Criminists have commanded <lb/>
+<normalised orig="Heresie" auto="true">Heresy</normalised>, which is but election, (and thereupon <lb/>
+Paul <normalised orig="gloryed" auto="true">gloried</normalised> to be of the strictest <normalised orig="Heresie" auto="true">Heresy</normalised>, a Pharisee; and <lb/>
+the Scepticks were despised, because they were of no <normalised orig="Heresie" auto="true">Heresy</normalised>) <lb/>
+to undertake a <normalised orig="capitall" auto="true">capital</normalised> and infamous signification. <lb/>
+Hereby also the Civilists have dignified the word <normalised orig="Priviledge" auto="true">Privilege</normalised>, <lb/>
+whose ancientest meaning was, a law to the disadvantage <lb/>
+of any private man (and so Cicero speaks of one <lb/>
+banished by <normalised orig="priviledg" auto="true">privilege</normalised>, and lays the names, cruel and <normalised orig="capitall" auto="true">capital</normalised> <lb/>
+upon <normalised orig="Priviledg" auto="true">Privilege</normalised>) and appointed it to express only the <lb/>
+favours and graces of Princes. Schoolmen, which have <lb/>
+invented new things, and found out, or added Suburbs to <lb/>
+Hell, will not be exceeded in this boldness upon words. <lb/>
+As therefore in many other, so they have practised it in <lb/>
+this word creare: which being but of an even nature with <lb/>
+                  facere, or producere, they have laid a necessity upon it to <lb/>
+<normalised orig="signifie" auto="true">signify</normalised> a Making of Nothing; For so is Creation defined. <lb/>
+But in this place neither the Hebrew nor Greek word afford <lb/>
+it; neither is it otherwise then indifferently used in the <lb/>
+holy books. Sometimes of things of a preexistent matter, <lb/>
+He <quote type="biblical" ana="Sir 17.1">created man of Earth</quote>, and he created him a helper out of <lb/>
+himself. Sometimes of things but then revealed, <quote type="biblical" ana="Isa 48.7">They are <lb/>
+created now, and not of old</quote>. Sometimes of that, whereof God <lb/>
+                  <pb n="15"/>
+                  <lb/>
+is neither Creator, nor Maker, nor Concurrent, as of <normalised orig="Evill" auto="true">Evil</normalised>; <lb/>
+                  <quote type="biblical" ana="Isa 45.7">
+                     faciens Pacem, et creans malum
+                  </quote>: And sometimes of that <lb/>
+which was neither created nor made by God, nor any <lb/>
+other, as darkness, which is but privation; <quote type="biblical" ana="Isa 45.7">
+                     formans lucem, <lb/>
+et creans tenebras
+                  </quote>. And the first that I can observe to have <lb/>
+taken away the liberty of this word, and made it to signify, <lb/>
+of Nothing, is our countryman <normalised orig="Bede" auto="true">Bed</normalised> upon this place. For <lb/>
+Saint Augustin was as opposite and diametrall against it, <lb/>
+as it is against truth. For he says, facere est quod omnino non <lb/>
+erat; creare vero est, ex eo quod jam erat educendo constituere. <lb/>
+Truly, it is not the power and victory of reason, that evicts <lb/>
+the world to be made of Nothing; for neither this word <lb/>
+                  creare <normalised orig="inforces" auto="true">enforces</normalised> it, nor is it expressly said so in any Scripture. <lb/>
+When Paul says himself to be Nothing, it is but a diminution <lb/>
+and Extenuation (not of himself, for he says there, <quote type="biblical" ana="2 Cor 12.11">I <lb/>
+am not inferior</quote> to the very chief of the Apostles, but) of Mankind. <lb/>
+Where it is said to Man, Your making is of Nothing, <lb/>
+it is but a respective, and comparative undervaluing; as in <lb/>
+a lower descent then that before, All Nations before God <lb/>
+are less then Nothing. As in another place by a like extreme <lb/>
+extending it is said, Deus
+                  <quote type="biblical" ana="Ex 15.18">
+                     regnabit in aeternum et ultra
+                  </quote>: <lb/>
+Only it is once said, Ex nihilo fecit omnia Deus; but in a <lb/>
+book of no straight obligation (if the matter needed <lb/>
+authority) and it is also well translated by us, Of things <lb/>
+which were not. But therefore we may spare Divine Authority, <lb/>
+and ease our faith too, because it is present to our <lb/>
+reason. For, Omitting the <normalised orig="quarelsome" auto="false">quarrelsome</normalised> contending of Sextus <lb/>
+Empiricus the Pyrrhonian, (of the Author of which sect <lb/>
+Laertius says, that he handled Philosophy bravely, having <lb/>
+invented a way by which a man should determine nothing <lb/>
+of every thing) who with his Ordinary weapon, a twoedged <lb/>
+sword, thinks he cuts off all Arguments against production <lb/>
+of Nothing, by this, Non fit quod jam est, Nec quod <lb/>
+non est; nam non patitur mutationem quod non est; And <lb/>
+omitting those Idolaters of Nature, the Epicureans, who <lb/>
+pretending a mannerly lothness to trouble God, because <lb/>
+                  Nec <normalised orig="bene" auto="true">been</normalised> promeritis capitur, nec tangitur ira, indeed out of <lb/>
+                  <pb n="16"/>
+                  <lb/>
+their pride are <normalised orig="loth" auto="true">loath</normalised> to be beholden to God, say, that we <lb/>
+are sick of the fear of God, Quo morbo mentem concusse? <lb/>
+Timore Deorum; And cannot therefore admit creation of <lb/>
+Nothing, because then Nil semine egeret, but <normalised orig="ferre" auto="true">far</normalised> omnes <lb/>
+omnia possent, And subito exorirentur, incerto spacio, with <lb/>
+such other dotages. To make our <normalised orig="approches" auto="true">approaches</normalised> nearer, and <lb/>
+batter effectually, let him that will not confess this Nothing, <lb/>
+assign <normalised orig="som" auto="true">some</normalised>(e)thing of which the world was made. <lb/>
+If it be of it self, it is God: and it is God, if it be of God; <lb/>
+who is also so simple, that it is impossible to imagine any <lb/>
+thing before him of which he should be compounded, or <lb/>
+any workman to do it. For to say, as one <normalised orig="doth" auto="true">does</normalised>, that the <lb/>
+world might be <normalised orig="eternall" auto="true">eternal</normalised>, and yet not be God, because <lb/>
+Gods eternity is all at once, and the worlds successive, will <lb/>
+not reconcile it; for yet, some part of the world must be <lb/>
+as old as God, and infinite things are <normalised orig="equall" auto="true">equal</normalised>, and <normalised orig="equalls" auto="true">equals</normalised> to <lb/>
+God are God. The greatest Dignity which we can give <lb/>
+this world, is, that the Idaea of it is <normalised orig="eternall" auto="true">eternal</normalised>, and was ever <lb/>
+in God: And that he knew this world, not only Scientia <lb/>
+Intellectus, by which he knows things which shall never be, <lb/>
+and are in his purpose impossible, though yet possible and <lb/>
+contingent to us; but, after failing, become also to our <lb/>
+<normalised orig="knowledg" auto="true">knowledge</normalised> impossible, (as it is yet possible that you will <lb/>
+read this book thorow now, but if you discontinue it <lb/>
+(which is in your liberty) it is then impossible to your <lb/>
+knowledge, and was ever so to Gods;) but also Scientia <lb/>
+Visionis, by which he knows only infallible things; and <lb/>
+therefore these Idaeas and <normalised orig="eternall" auto="true">eternal</normalised> impressions in God, <lb/>
+may boldly be said to be God; for nothing understands <lb/>
+God of it self, but God; and it is said, Intellectae Jynges a <lb/>
+patre, intelligunt et ipsae: And with Zoroaster (if I misconceive <lb/>
+not) Jynx is the same as Idaea with Plato. The <lb/>
+eternity of these Idaeas wrought so much, and obtained so <lb/>
+high an estimation with Scotus, that he thinks them the <lb/>
+Essence of this world, and the Creation was but their <lb/>
+Existence; which Reason and Scaliger reprehend roundly, <lb/>
+when they do but ask him, whether the Creation were <lb/>
+only of accidents. <lb/>
+But because all which can be said hereof is cloudy, and <lb/>
+                  <pb n="17"/>
+                  <lb/>
+therefore apt to be mis-imagined, and ill interpreted, for, <lb/>
+                  obscurum loquitur quisque suo periculo, I will turn to certain <lb/>
+and evident things; And tell thee, O man, which art said <lb/>
+to be the Epilogue, and compendium of all this world, and <lb/>
+the Hymen and <normalised orig="Matrimoniall" auto="true">Matrimonial</normalised> knot of Eternal and <normalised orig="Mortall" auto="true">Mortal</normalised> <lb/>
+things, whom one says to be all Creatures, because the <lb/>
+Gospel, of which <normalised orig="onely" auto="true">only</normalised> man is capable, is sent to be <lb/>
+preached to all Creatures; And <normalised orig="wast" auto="false">waste</normalised> made by Gods hands, <lb/>
+not his commandment; and <normalised orig="hast" auto="true">have</normalised> thy head erected to <lb/>
+heaven, and all others to the Center; that yet only thy <lb/>
+heart of all others, points downwards, and <normalised orig="onely" auto="true">only</normalised> trembles. <lb/>
+And, oh <normalised orig="ye" auto="true">you</normalised> chief of men, <normalised orig="ye" auto="true">you</normalised> Princes of the Earth, (for to <lb/>
+you especially it is said, Terram dedit filiis hominum; for <lb/>
+the sons of God have the least portion thereof; And you <lb/>
+are so Princes of the Earth, as the <normalised orig="Divell" auto="true">Devil</normalised> is Prince of the <lb/>
+Air, it is given to you to raise storms of <normalised orig="warr" auto="true">war</normalised> and persecution) <lb/>
+know <normalised orig="ye" auto="true">you</normalised> by how few descents <normalised orig="ye" auto="true">you</normalised> are derived from <lb/>
+Nothing? you are the Children of the Lust and Excrements <lb/>
+of your parents, they and theirs the Children of <lb/>
+Adam, the child of <normalised orig="durt" auto="true">dirt</normalised>, the child of Nothing. Yea, our <lb/>
+soul, which we magnify so much, and by which we consider <lb/>
+this, is a <normalised orig="veryer" auto="true">verier</normalised> upstart then our body, being but of <lb/>
+the first head, and immediately made of Nothing: for <lb/>
+how many souls <normalised orig="hath" auto="true">has</normalised> this world, which were not nothing <lb/>
+a hundred years since? And of whole man compounded <lb/>
+of Body and Soul, the best, and most <normalised orig="spirituall" auto="true">spiritual</normalised> and delicate <lb/>
+parts, which are Honour and Pleasure, have such <lb/>
+a neighbourhood and alliance with Nothing, that they <lb/>
+lately were Nothing, and even now when they are, they <lb/>
+are Nothing, or at least shall quickly become Nothing: <lb/>
+which, even at the last great fire, shall not befall the most <lb/>
+wretched <normalised orig="worme" auto="true">worm</normalised>, nor most abject grain of dust: for that <lb/>
+fire shall be a purifier, not consumer to nothing. For to be <lb/>
+Nothing, is so deep a curse, and high degree of punishment, <lb/>
+that Hell and the prisoners there, not only have it <lb/>
+not, but cannot wish so great a loss to themselves, nor <lb/>
+such a frustrating of Gods purposes. Even in Hell, where <lb/>
+if our mind could contract and gather together all the old <lb/>
+persecutions of the first Church, where men were tormented <lb/>
+                  <pb n="18"/>
+                  <lb/>
+with exquisite deaths, and oftentimes more, by <lb/>
+being <normalised orig="denyed" auto="true">denied</normalised> that; And all the inhumanities of the Inquisition, <lb/>
+where repentance <normalised orig="encreaseth" auto="true">increases</normalised> the torture, (for <lb/>
+they <normalised orig="dy" auto="true">die</normalised> also, and lose the comfort of perseverance;) And <lb/>
+all the miseries which the mistakings, and furies, and sloth <lb/>
+of Princes, and infinity and corrosiveness of officers, the <lb/>
+<normalised orig="trechery" auto="true">treachery</normalised> of women, and bondage of reputation <normalised orig="hath" auto="true">has</normalised> laid <lb/>
+upon mankind, since it was, and distil the <normalised orig="poyson" auto="true">poison</normalised> and <lb/>
+strength of all these, and throw it upon one soul, it would <lb/>
+not <normalised orig="equall" auto="true">equal</normalised> the torment of so much time as you sound one <lb/>
+syllable. And for the lasting, if you take as many of Plato's <lb/>
+years, as a million of them <normalised orig="hath" auto="true">has</normalised> minutes, and multiply <lb/>
+them by Clavius his number, which expresses how many <lb/>
+sands would fill the hollowness to the first Mover, you <lb/>
+were so far from proceeding towards the end, that you <lb/>
+had not described one minute. In Hell, I say, to escape <lb/>
+which, some have prayed to have <normalised orig="hils" auto="true">hills</normalised> fall upon them, and <lb/>
+many <normalised orig="horrours" auto="true">horrors</normalised> shadowed in the Scriptures and Fathers, <lb/>
+none is ever said to have wished himself Nothing. Indeed, <lb/>
+as reposedly, and at home within himself no man is an <lb/>
+Atheist, however he pretend it, and serve the company <lb/>
+with his braveries (as Saint Augustine <normalised orig="sayes" auto="true">says</normalised> of himself, that <lb/>
+though he knew nothing was blameable but vice, yet he <lb/>
+seemed vicious, lest he should be blameable; and <normalised orig="fain'd" auto="true">feigned</normalised> <lb/>
+false vices when he had not true, lest he should be despised <lb/>
+for his <normalised orig="innocency" auto="true">innocence</normalised>;) so it is impossible that any man should <lb/>
+wish himself Nothing: for we can desire nothing but that <lb/>
+which seems satisfactory, and better to us at that time; <lb/>
+and whatsoever is better, is something. <normalised orig="Doth" auto="true">Does</normalised>, or can any <lb/>
+man wish that, of which, if it were granted, he should, <lb/>
+even by his wishing it, have no sense, nor benefit? To <lb/>
+speak truth freely, there was no such Nothing as this <lb/>
+before the beginning: for, he that <normalised orig="hath" auto="true">has</normalised> <normalised orig="refin'd" auto="true">refined</normalised> all the old <lb/>
+Definitions, <normalised orig="hath" auto="true">has</normalised> put this ingredient Creabile, (which cannot <lb/>
+be absolutely nothing) into his Definition of Creation: <lb/>
+And that Nothing which was, we cannot desire; for mans <lb/>
+will is not larger then Gods power; and since Nothing was <lb/>
+not a pre-existent matter, nor mother of this All, but <lb/>
+<normalised orig="onely" auto="true">only</normalised> a limitation when any thing began to be; how <lb/>
+                  <pb n="19"/>
+                  <lb/>
+impossible is it to return to that first point of time, since <lb/>
+God (if it imply contradiction) cannot reduce yesterday? <lb/>
+Of this we will say no more; for this Nothing being no <lb/>
+creature, is more incomprehensible then all the rest: but <lb/>
+we will proceed to that which is All, Heaven and Earth. <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preface Life of Jospeh Alleine</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ThAl1630">Alleine, Theodosia</author>
+               <title type="main">"No title" In: Alleine, Theodosia. The Life and Death Of that Excellent minister of Christ Mr Joseph Alleine [...]</title>
+               <title type="short">Preface Life of Jospeh Alleine</title>
+               <date when="1671">1671</date>
+               <date type="this_edition" when="1671">1671</date>
+               <idno type="Wing">A1011B</idno>
+               <note type="genre" subtype="preface_biography">biography preface</note>
+               <note type="sample" target="#ThAl1630_1671_preface_biography_1">full text</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ThAl1630_1671_preface_biography_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+LET the Reader know, (to assure him that Faction<lb/>
+and Partiality are not the Authors of<lb/>
+this History) That the two full Narratives that<lb/>
+are not subscribed, are written by two Conformable<lb/>
+Ministers of very great sincerity and abilities,<lb/>
+who were long and intimately acquainted<lb/>
+with Mr. Joseph Alleine.<lb/>
+                  <lb/>
+READER, thou art desired to take notice,<lb/>
+That that part of the Life which is<lb/>
+drawn up by Mrs. Theodosia Alleine, was sent up<lb/>
+by her to a worthy Divine, by him to be published<lb/>
+in his own stile, she not imagining it should<lb/>
+be put forth in her own words. But that worthy<lb/>
+Person, and divers others, upon perusal, saw no<lb/>
+reason to alter it, but caused it to be printed as<lb/>
+it is.<lb/>
+         /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,871 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Life of John <notvariant>Janeway</notvariant></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JaJa1636"><notvariant>Janeway</notvariant>, James</author>
+               <title type="main"><notvariant>Invisibles</notvariant>, Realities, Demonstrated in the holy life and Triumphant Death of Mr. John <notvariant>Janeway</notvariant>, Fellow of Kings <normalised orig="Colledge" auto="true">College</normalised> in Cambridge.</title>
+               <title type="short">Life of John <notvariant>Janeway</notvariant></title>
+               <date when="1673">1673</date>
+               <date type="this_edition" when="1673">1673</date>
+               <idno type="Wing">J470</idno>
+               <note type="genre" subtype="biography">biography</note>
+               <note type="sample" target="#JaJa1636_1673_biography_1">p.1, l.1 – p.8, l.22</note>
+               <note type="sample" target="#JaJa1636_1673_biography_2">p.21, l.23 – p.27, l.24</note>
+               <note type="sample" target="#JaJa1636_1673_biography_3">p.98, l.7 – p.104, l.26</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>octavo</notvariant></term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="JaJa1636_1673_biography_1">
+            <div>
+               <head>
+                  <lb/>
+                  <choice ana="illegible">
+                     <sic><notvariant>Invi</notvariant>*<notvariant>cible</notvariant></sic>
+                     <corr>Invincible</corr>
+                  </choice> Realities demonstrated<lb/>
+in the holy Life and Triumphant<lb/>
+Death of M<hi rend="high">r</hi>. John <notvariant>Janeway</notvariant>,<lb/>
+sometimes Fellow of Kings <normalised orig="Colledge" auto="true">College</normalised>,<lb/>
+Cambridge.</head>
+               <p>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>CHAP. I.</head>
+               <p>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>An account of him from his Childhood to the<lb/>
+seventeenth year of his Age.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+MR. John <notvariant>Janeway</notvariant> was born <notvariant>Anno</notvariant><lb/>
+1633. <notvariant>Octob</notvariant>. 27. of Religious<lb/>
+Parents, in <notvariant>Lylly</notvariant>, in the County<lb/>
+of <notvariant>Hertford</notvariant>. He soon gave his<lb/>
+Parents the hope of much comfort,<lb/>
+and the symptoms of something more than<lb/>
+ordinary quickly appeared in him, so that some<lb/>
+which saw this Child much feared that his life<lb/>
+would be but short, others hoped that God had<lb/>
+some rare piece of work to do by or for this<lb/>
+Child before he died; he <normalised orig="shewed" auto="true">showed</normalised> that neither<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="2">B</fw>
+                  <pb n="2"/>
+                  <lb/>
+of them were much mistaken in their conjecture<lb/>
+concerning him. He soon out-ran his <normalised orig="superiours" auto="true">superiors</normalised><lb/>
+for age in learning. And it was thought<lb/>
+by no incompetent Judges that for pregnancy of<lb/>
+wit, solidity of judgement, the vastness of his<lb/>
+intellectual, and the greatness of his memory,<lb/>
+that he had no <normalised orig="superiours" auto="true">superiors</normalised>, few equals <choice ana="illegible">
+                     <sic>*<notvariant>nsidering</notvariant></sic>
+                     <corr>considering</corr>
+                  </choice>
+                  <lb/>
+his age and education.<lb/>
+He was initiated in the <normalised orig="Latine" auto="true">Latin</normalised> tongue by his<lb/>
+own Father; <normalised orig="afterward" auto="true">afterwards</normalised> he was brought up for<lb/>
+some time at <normalised orig="Pauls" auto="false">Paul's</normalised> School in London, where he<lb/>
+made a considerable <normalised orig="proficiencie" auto="true">proficiency</normalised> in <normalised orig="Latine" auto="true">Latin</normalised> and<lb/>
+   Greek under the care of Mr. <notvariant>Langly</notvariant>. When<lb/>
+   he was about eleven years old he took a great<lb/>
+   fancy to <normalised orig="Arithmetick" auto="true">Arithmetic</normalised> and the Hebrew tongue.<lb/>
+   About this time his Parents removing into a<lb/>
+   little Village called <notvariant>Aspoden</notvariant>, had the opportunity<lb/>
+   of having this their Son instructed, by a learned<lb/>
+   neighbour who was pleased to count it a pleasant<lb/>
+   diversion, to read <normalised orig="Mathematicks" auto="true">Mathematics</normalised> to him being<lb/>
+   then about twelve years old; and he made<lb/>
+   such progress in those profound studies; that<lb/>
+   he read <notvariant>Oughthred</notvariant> with understanding, before<lb/>
+   he was thirteen years old. A person of quality,<lb/>
+   hearing of the admirable proficiency of this Boy,<lb/>
+   sent for him up to London, and kept him with<lb/>
+   him for some time, to Read <normalised orig="Mathematicks" auto="true">Mathematics</normalised> to<lb/>
+   him; that which made him the more to be admired<lb/>
+   was, that he did what he did with the<lb/>
+   greatest facility. He had no small skill in <normalised orig="Musick" auto="true">Music</normalised><lb/>
+   and other concomitants of <normalised orig="Mathematicks" auto="true">Mathematics</normalised>.<lb/>
+                  <pb n="3"/>
+                  <lb/>
+   In the year 1616. he was chosen by that<lb/>
+   Learned Gentleman Mr. <notvariant>Rous</notvariant> the Provost of<lb/>
+   Eton <normalised orig="Colledge" auto="true">College</normalised> one of the foundation of that<lb/>
+   School being examined by provost and <notvariant>posiers</notvariant> in<lb/>
+   the Hebrew tongue, which was thought was beyond<lb/>
+   president. Where he gave no unsuitable<lb/>
+   returns to the high expectations that were conceived<lb/>
+   of him.<lb/>
+   After a little continuance at Eton he obtained<lb/>
+   leave of his Master to go to Oxford to perfect<lb/>
+   himself in the study of <normalised orig="Mathematicks" auto="true">Mathematics</normalised>, where<lb/>
+   being owned by that great Scholar Dr. Ward<lb/>
+   one of the professors of the University, he attained<lb/>
+   to a strange exactness in that <choice ana="illegible">
+                     <sic>s*y</sic>
+                     <corr>study</corr>
+                  </choice>, nothing<lb/>
+   being within the reach of a man but he<lb/>
+   would undertake and <normalised orig="graspe" auto="true">grasp</normalised>. That great Doctor<lb/>
+   gave him great help and <normalised orig="incouragement" auto="true">encouragement</normalised>, and<lb/>
+   looked upon him as one of the wonders of his age,<lb/>
+   loved him dearly, and could for some time after<lb/>
+   his death scarce mention his name without tears.<lb/>
+   When he had spent about a quarter of a year<lb/>
+   with Dr. Ward at Oxford, he was commanded<lb/>
+   to return again to Eton, where he soon gave<lb/>
+   proof of his great improvement of his time<lb/>
+   while he was absent; by making an <normalised orig="Almanack" auto="true">Almanac</normalised>,<lb/>
+   and calculating of the Eclipses for many years<lb/>
+   before hand; so that by this time he had many<lb/>
+   eyes upon him as the glory of the School. That<lb/>
+   which put an accent upon his real worth was<lb/>
+   that he did not discover the least affectation<lb/>
+   or self-conceit, neither did any <normalised orig="discernable" auto="false">discernible</normalised><lb/>
+   pride attend these <notvariant>excellencies</notvariant>. So that every<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="4">B2</fw>
+                  <pb n="4"/>
+                  <lb/>
+   one took more notice of his parts than himself.<lb/>
+   At about seventeen years old he was chosen to<lb/>
+   Kings <normalised orig="Colledge" auto="true">College</normalised> in Cambridge, at which time<lb/>
+   the <normalised orig="Electioners" auto="false">Electioneers</normalised> did even contend for the patronage<lb/>
+   of this Scholar. He was chosen first that<lb/>
+   year, and an elder brother of his in the sixth<lb/>
+   place; but he was very willing to change places<lb/>
+   with his elder brother; letting him have the<lb/>
+   first, and thankfully accepting of the sixth place.<lb/>
+   Besides his great learning, and many other<lb/>
+   ornaments of nature, his deportment was so<lb/>
+   sweet and lovely, his demeanour so courteous<lb/>
+   and obliging, even when he seemed <notvariant>unconverted</notvariant>,<lb/>
+   that he must be vile with a witness that did not<lb/>
+   love him. Yea many of them which had little<lb/>
+   kindness for morality, much less for grace;<lb/>
+   could not but speak well of him. His great<lb/>
+   wisdom and learning did even command respect,<lb/>
+   where they did not find it: he had an excellent<lb/>
+   power over his passions, and was in a great measure<lb/>
+   free from the vices which usually attend such<lb/>
+   an age and place.<lb/>
+   But all this while it is to be feared, that he<lb/>
+   understood little of the worth of Christ, and his<lb/>
+   own soul; he studied indeed the heavens, and<lb/>
+   knew the motion of the Sun, Moon and Stars,<lb/>
+   but that was his highest; he thought yet but little<lb/>
+   of God, which made all these things, he<lb/>
+   pried but little into the motions of his own<lb/>
+   heart; he did not as yet much <normalised orig="busie" auto="true">busy</normalised> himself, in<lb/>
+   the serious observation of the <normalised orig="wandring" auto="true">wandering</normalised> of his<lb/>
+   spirit; the Creature had not yet led him to the<lb/>
+                  <fw type="pageNum" n="5">4</fw>
+                  <pb n="5"/>
+                  <lb/>
+   Creator; but was still too ready to take up with<lb/>
+   <normalised orig="meer" auto="true">mere</normalised> speculation, but God who from all eternity,<lb/>
+   had chosen him to be one of those, who<lb/>
+   should shine as the Sun in the Firmament for<lb/>
+   ever in glory; did when he was about eighteen<lb/>
+   years old, shine in upon his soul with power;<lb/>
+   and did convince him what a poor thing it was<lb/>
+   to know so much of the heavens and never come<lb/>
+   there. And that the greatest knowledge in the<lb/>
+   world without Christ, was but an empty dry<lb/>
+   business. He now thought Mr. <notvariant>Bolten</notvariant> had some<lb/>
+   reason on his side, when he said; "Give me the<lb/>
+   most magnificent glorious <notvariant>worldling</notvariant>, that<lb/>
+   ever trod upon earthly mould, richly crowned<lb/>
+   with all the Ornaments and <notvariant>excellencies</notvariant> of nature;<lb/>
+   art, policy, preferment; or what heart<lb/>
+   can wish besides; yet without the life of grace,<lb/>
+   to animate and ennoble them; he were to the<lb/>
+   eye of heavenly wisdom, but as a rotten carcase,<lb/>
+   stuck over with flowers; magnified<lb/>
+   dung, <normalised orig="guilded" auto="true">gilded</normalised> rottenness, golden damnation."<lb/>
+   He began now to be of <notvariant>Anaxagoras's</notvariant><lb/>
+   mind, that his work upon earth, it was to study<lb/>
+   Heaven and to get thither, and that except a man<lb/>
+   might be admitted to greater preferment than<lb/>
+   this world can bestow upon her favourites, it<lb/>
+   were scarce worth the while to be born.<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="6">B3</fw>
+                  <pb n="6"/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>CHAP. II.</head>
+               <p>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>Of his Conversion with visible proofs thereof.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+   THE great work of Conversion, it was not<lb/>
+   carried on upon his soul, in that dreadful<lb/>
+   manner, that it is upon some, that God intends<lb/>
+   to communicate much to, and make great use<lb/>
+   of; but the Lord was pleased, sweetly to unlock<lb/>
+   his heart, by the exemplary life, and Heavenly<lb/>
+   and powerful discourse, of a young man<lb/>
+   in the <normalised orig="Colledge" auto="true">College</normalised>, whose heart God had inflamed<lb/>
+   with love to his soul, he quickly made an attempt<lb/>
+   upon this hopeful young man, and the<lb/>
+   spirit of God did set home his counsels with<lb/>
+   such power, that they proved effectual, for his<lb/>
+   awakening; being accompanied with the Preaching<lb/>
+   of these two famous worthies Dr. Hill, and<lb/>
+   Dr. <notvariant>Arrowsmith</notvariant>, together with the reading several<lb/>
+   parts of Mr. <normalised orig="Baxters" auto="true">Baxter</normalised> Saints Everlasting<lb/>
+   Rest.<lb/>
+   Now a mighty alteration might easily be <normalised orig="descerned" auto="true">discerned</normalised><lb/>
+   in him, he quickly looks quite like another<lb/>
+   man. He is now so much taken up with things<lb/>
+   above the Moon and Stars that he had little leisure<lb/>
+   to think of these things only as they pointed<lb/>
+   higher. He began now not to <normalised orig="tast" auto="true">taste</normalised> so much sweetness<lb/>
+   in those kind of studies, which he did so<lb/>
+   greedily <normalised orig="imploy" auto="true">employ</normalised> himself in formerly. He now<lb/>
+   began to pity them which were curious in their<lb/>
+                  <pb n="7"/>
+                  <lb/>
+   <notvariant>inquires</notvariant> after every thing but that which is most<lb/>
+   needful to be known, Christ and Themselves, and<lb/>
+   that which sometimes was his gain, he now<lb/>
+   counted loss for Christ; yea doubtless he esteemed<lb/>
+   all things but as dung and dross in comparison<lb/>
+   of Christ and desired to know nothing but<lb/>
+   Christ and him crucified. Not that he looked<lb/>
+   upon humane learning as useless: but when<lb/>
+   fixed below Christ and not improved for Christ;<lb/>
+   he looked upon wisdom as folly, and learning<lb/>
+   as madness, and that which would make one<lb/>
+   more like the Devil more fit for his service, and<lb/>
+   put a greater accent upon their misery in another<lb/>
+   world.<lb/>
+   Mr. <notvariant>Janeway</notvariant> now begins to cast about how he<lb/>
+   might best improve what he did already know,<lb/>
+   and to turn all his studies into the right <normalised orig="chanel" auto="false">channel</normalised>;<lb/>
+   grace did not take him off from, but made him<lb/>
+   more diligent and spiritual in his study. And<lb/>
+   now Christ was at the end and bottom of every<lb/>
+   thing; how did he plot and contrive how he<lb/>
+   might most express his love and thankfulness to<lb/>
+   him who had brought him out of darkness into<lb/>
+   his marvellous light; to this end he sent up and<lb/>
+   down packets of divine letters, in which he did<lb/>
+   discourse so substantially and experimentally of<lb/>
+   the great things of God, that it would not at all<lb/>
+   have <notvariant>unbecome</notvariant> some gray head to have owned<lb/>
+   what he did write.<lb/>
+   He was not a little like young <notvariant>Elihu</notvariant>, whose<lb/>
+   words he used to excuse his freedom with persons<lb/>
+   of years, whose souls he did dearly pity.<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="8">B4</fw>
+                  <pb n="8"/>
+                  <lb/>
+   He said <quote type="biblical" ana="Job 32.7-8"><normalised orig="daies" auto="true">days</normalised> should speak, and multitude of<lb/>
+   years should teach wisdom, but there is a spirit<lb/>
+   in a man and the inspiration of the almighty<lb/>
+   <normalised orig="giveth" auto="true">gives</normalised> them understanding</quote>; <quote type="biblical" ana="Job 32.18-20">I am full of matter,<lb/>
+   the spirit within me <normalised orig="constraineth" auto="true">constrains</normalised> me, behold my<lb/>
+   belly is as wine which <normalised orig="hath" auto="false">has</normalised> no vent, it is ready<lb/>
+   to burst like new bottles, I will speak that I may<lb/>
+   be refreshed, </quote> &amp;c. O then how sweet was the<lb/>
+   favour of his graces! He could not but speak the<lb/>
+   things which he had seen and heard, and even invite<lb/>
+   all the world to <normalised orig="tast" auto="true">taste</normalised> and see how good the<lb/>
+   Lord was.<lb/>
+   He began first with his Relations, begging<lb/>
+   and wooing of them to think of their precious<lb/>
+   and immortal souls, and to lay in speedy provisions<lb/>
+   for a death-bed and eternity. O with<lb/>
+   what compassion did he plead the cause of Christ<lb/>
+   with their souls! What <notvariant>Pathetical</notvariant> expressions<lb/>
+   did he use, what vehement expostulations, how<lb/>
+   frequent, how particular in his applications to<lb/>
+   them? O with what gravity and majesty would<lb/>
+   he speak of the mysteries of the Gospel.<lb/>
+               </p>
+            </div>
+         </div>
+         <div xml:id="JaJa1636_1673_biography_2">
+            <div>
+               <head>CHAP. IV.</head>
+               <p>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>His Particular addresses to his brethren, for<lb/>
+   their souls good and the success thereof.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+   HE wrote many Letters of this nature, and<lb/>
+   desired oftentimes to be visiting his brethren<lb/>
+   that he might particularly address himself<lb/>
+   to them and see what became of his letters,<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="22">C3</fw>
+                  <pb n="9"/>
+                  <lb/>
+   prayers and tears, and he was very watchful<lb/>
+   over them, ready to reprove and convince them<lb/>
+   of sin, and ready to <normalised orig="incourage" auto="true">encourage</normalised> any beginnings of<lb/>
+   a good work in them, To instance in a particular<lb/>
+   or two.<lb/>
+   One time perceiving one of his brothers asleep<lb/>
+   at prayer in the family; he presently took occasion<lb/>
+   to show him what a high contempt it was<lb/>
+   of God, what a little sense such a man must have<lb/>
+   of his own danger, what dreadful <normalised orig="hypocrisie" auto="true">hypocrisy</normalised>,<lb/>
+   what a miracle of patience that he was not<lb/>
+   awakened in flames. After he had been a while<lb/>
+   affectionately pleading with him, it pleased the<lb/>
+   Lord to strike in with some power and to melt<lb/>
+   and soften his brothers heart when he was about<lb/>
+   eleven years old, so that it was to be hoped that<lb/>
+   then the Lord began <notvariant>savingly</notvariant> to work upon the<lb/>
+   heart of that Child. For from that time forward<lb/>
+   a considerable <choice ana="illegible">
+                     <sic>alter*<notvariant>tion</notvariant></sic>
+                     <corr>alteration</corr>
+                  </choice> might be discerned<lb/>
+   in him. When he perceived it he was not<lb/>
+   a little pleased. This put him upon carrying on<lb/>
+   the work, that conviction might not wear off till<lb/>
+   it ended in conversion. To this end he wrote<lb/>
+   to him to put him in mind of what God had<lb/>
+   done for his soul, begging of him not to rest<lb/>
+   satisfied till he knew what a <normalised orig="thorow" auto="true">thorough</normalised> change and<lb/>
+   effectual calling meant. I hope, said he, that<lb/>
+   God <normalised orig="hath" auto="false">has</normalised> a good work to do in you, for you,<lb/>
+   and by you; yea I hope he <normalised orig="hath" auto="false">has</normalised> already begun<lb/>
+   it. But O take not up with some beginnings,<lb/>
+   faint desires, lazy <notvariant>seekings</notvariant>; O remember your<lb/>
+   former tears, one may weep a little for sin and<lb/>
+                  <pb n="10"/>
+                  <lb/>
+   yet go to Hell for sin; many that are under<lb/>
+   some such work, shake of the sense of sin, murder<lb/>
+   their convictions and return again to folly.<lb/>
+   O! take heed! if any draw back the Lord<lb/>
+   will take no pleasure in them; but I hope better<lb/>
+   things of you.<lb/>
+   He would also observe how his brethren carried<lb/>
+   it after duty, whether they seemed to run<lb/>
+   presently to the world with greediness as if<lb/>
+   duty were a task, or whether there seemed to<lb/>
+   be an abiding impression of God and the things<lb/>
+   of God upon them.<lb/>
+   His vehement love and compassion to souls<lb/>
+   may be further judged of by these following<lb/>
+   expressions, which he used to one of his relations.<lb/>
+   After he had been speaking how infinitely<lb/>
+   it was below a Christian to pursue with<lb/>
+   greediness the things which will be but as gravel<lb/>
+   in the teeth, if we mind not the rich provision<lb/>
+   which is in our Fathers house. O what folly<lb/>
+   is it to trifle in the things of God! but I hope<lb/>
+   better things of you; did I not hope; why<lb/>
+   should I not mourn in secret for you as one cast<lb/>
+   out among the dead? O what should I do for<lb/>
+   you but pour out my soul like water, and give<lb/>
+   my God no rest till he should graciously visit<lb/>
+   you with his salvation; till he cast you down<lb/>
+   and raise you up, till he wound you and heal<lb/>
+   you again.<lb/>
+   Thus what with his holy example, warm and<lb/>
+   wise exhortations, prayers, tears and secret<lb/>
+   groans, somewhat of the beauty of Religion<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="24">C4</fw>
+                  <pb n="11"/>
+                  <lb/>
+   was to be seen in the family where he lived.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>CHAP. V.</head>
+               <p>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>His great love to, and frequency in the duty<lb/>
+   of Prayers: with remarkable success.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+   HE was mighty in Prayer, and his spirit<lb/>
+   was oftentimes so transported in it that<lb/>
+   he forgot the weakness of his own body and<lb/>
+   of others spirits; indeed the acquaintance that<lb/>
+   he had with God was so sweet, and his converse<lb/>
+   with him so frequent, that when he was<lb/>
+   <normalised orig="ingaged" auto="true">engaged</normalised> in duty he scarce knew how to leave<lb/>
+   that which was so delightful and suited to his<lb/>
+   spirit. His constant course for some years was<lb/>
+   this. He prayed at least three times a day in<lb/>
+   secret, sometimes seven times, twice a day in<lb/>
+   the family or <normalised orig="Colledge" auto="true">College</normalised>. And he found the<lb/>
+   sweetness of it beyond imagination, and <normalised orig="injoyed" auto="true">enjoyed</normalised><lb/>
+   wonderful communion with God, and<lb/>
+   tasted much of the pleasantness of a Heavenly<lb/>
+   life. And he could say by experience that<lb/>
+   the <normalised orig="waies" auto="true">ways</normalised> of wisdom were <normalised orig="waies" auto="true">ways</normalised> of pleasantness,<lb/>
+   and all her paths peace. He knew what it<lb/>
+   was to wrestle with God and was come to that<lb/>
+                  <choice ana="illegible">
+                     <sic>pa*</sic>
+                     <corr>path</corr>
+                  </choice> that he could scarce come off his knees<lb/>
+   without <choice ana="illegible">
+                     <sic>hi*</sic>
+                     <corr>his</corr>
+                  </choice> Fathers blessing. He was used to<lb/>
+   converse with God with a holy familiarity as a<lb/>
+   friend, and would upon all occasions run to<lb/>
+   him for advise, and had many strange and immediate<lb/>
+                  <pb n="12"/>
+                  <lb/>
+   answers of prayer. One of which I<lb/>
+   think it not altogether impertinent to give the<lb/>
+   world an account of.<lb/>
+   His Honoured Father Mr. William <notvariant>Janeway</notvariant><lb/>
+   Minister of <notvariant>Kelshall</notvariant> in <notvariant>Hartfortshire</notvariant> being sick,<lb/>
+   and being under somewhat dark apprehensions<lb/>
+   as to the state of his soul, he would often say<lb/>
+   to his son John: O son! this passing upon eternity<lb/>
+   is a great thing, this dying is a solemn<lb/>
+   business and enough to make any ones heart<lb/>
+   <normalised orig="ake" auto="true">ache</normalised>, that <normalised orig="hath" auto="false">has</normalised> not his pardon sealed, and his<lb/>
+   evidences for Heaven clear. And truly son I<lb/>
+   am under no small fears as to my own estate for<lb/>
+   another world. O that God would clear his<lb/>
+   love! O that I could say <normalised orig="chearfully" auto="true">cheerfully</normalised> I can die,<lb/>
+   and upon good grounds be able to look death<lb/>
+   in the face and venture upon eternity with<lb/>
+   well grounded peace and comfort!<lb/>
+   His sweet and dutiful Son made a <normalised orig="sutable" auto="true">suitable</normalised> reply<lb/>
+   at present; but seeing his dear Father continuing<lb/>
+   under <notvariant>despondings</notvariant> of spirit (though no<lb/>
+   Christians that knew him but had a high<lb/>
+   esteem of him for his <notvariant>uprightness</notvariant>) he got by<lb/>
+   himself and spent some time in wrestling with<lb/>
+   God upon his Fathers account, earnestly begging<lb/>
+   of God that he would fill him with joy<lb/>
+   unspeakable in believing, and that he would<lb/>
+   speedily give him some token for good that he<lb/>
+   might joyfully and honourably leave this world<lb/>
+   to go to a better. After he was risen from his<lb/>
+   knees he came down to his sick Father and asked<lb/>
+   him how he felt himself. His Father made no<lb/>
+                  <fw type="pageNum" n="26">25</fw>
+                  <pb n="13"/>
+                  <lb/>
+   answer for some time but wept exceedingly<lb/>
+   (a passion that he was not subject to) and continued<lb/>
+   for some considerable time in an extraordinary<lb/>
+   passion of weeping, so that he was<lb/>
+   not able to speak. But at last having recovered<lb/>
+   himself with unspeakable joy he burst out into<lb/>
+   such expressions as these. O Son! now it<lb/>
+   is come, it is come, it is come. I bless God I<lb/>
+   can <normalised orig="dye" auto="false">die</normalised>: The spirit of God <normalised orig="hath" auto="false">has</normalised> witnessed with<lb/>
+   my spirit that I am his child: now I can look<lb/>
+   up to God as my dear Father, and Christ as<lb/>
+   my redeemer, I can now say this is my friend<lb/>
+   and this is my beloved. My heart is full, it is<lb/>
+   brim full: I can hold no more. I know now<lb/>
+   what that sentence means, the peace of God<lb/>
+   which <normalised orig="passeth" auto="true">passes</normalised> understanding, I know now what<lb/>
+   that white stone is wherein a new name is<lb/>
+   written, which none know but they which<lb/>
+   have it. And that fit of weeping which you<lb/>
+   saw me in, was a fit of overpowering love and<lb/>
+   joy, so great that I could not for my heart contain<lb/>
+   my self: neither can I express what glorious<lb/>
+   discoveries God <normalised orig="hath" auto="false">has</normalised> made of himself unto<lb/>
+   me. And had that joy been greater, I<lb/>
+   question whether I could have born it, and<lb/>
+   whether it would not have separated soul and<lb/>
+   body. Bless the Lord, O my soul, and all that<lb/>
+   is within me bless his holy name that <normalised orig="hath" auto="false">has</normalised> pardoned<lb/>
+   all my sins and sealed the pardon. He<lb/>
+   <normalised orig="hath" auto="false">has</normalised> healed my wounds and caused the bones<lb/>
+   which he had broken to rejoice. O help me<lb/>
+   to bless the Lord! he <normalised orig="hath" auto="false">has</normalised> put a new song into my<lb/>
+                  <fw type="pageNum" n="27">26</fw>
+                  <pb n="14"/>
+                  <lb/>
+   mouth: O bless the Lord for his infinite goodness<lb/>
+   and rich mercy! O now I can <normalised orig="dye" auto="false">die</normalised>! it is nothing.<lb/>
+   I bless God I can <normalised orig="dye" auto="false">die</normalised>. I desire to be dissolved<lb/>
+   and to be with Christ. You may well think<lb/>
+   that his sons heart was not a little refreshed to<lb/>
+   hear such words, and see such a sight, and to<lb/>
+   meet the messenger that he had sent to Heaven<lb/>
+   returned back again so speedily. He counted<lb/>
+   himself a <notvariant>sharer</notvariant> with his Father in this mercy,<lb/>
+   and it was upon a double account welcome,<lb/>
+   and it did so wonderfully <normalised orig="satisfie" auto="true">satisfy</normalised> his Father and<lb/>
+   as it was so immediate and clear an answer of<lb/>
+   his own prayers, as if God had from Heaven<lb/>
+   said unto him thy tears and prayers are heard<lb/>
+   for thy Father: thou <normalised orig="hast" auto="false">have</normalised> like a Prince prevailed<lb/>
+   with God: thou <normalised orig="hast" auto="false">have</normalised> got the blessing:<lb/>
+   thy fervent prayers have been effectual: go<lb/>
+   down and see else.<lb/>
+   Upon this, this <normalised orig="pretious" auto="true">precious</normalised> young man broke<lb/>
+   forth into praises and even into another <normalised orig="extasie" auto="true">ecstasy</normalised><lb/>
+   of joy that God should deal so familiarly<lb/>
+   with him; and the Father and Son together<lb/>
+   were so full of joy, light, life, love and praise<lb/>
+   that there was a little Heaven in the place.<lb/>
+               </p>
+            </div>
+         </div>
+         <div xml:id="JaJa1636_1673_biography_3">
+            <div>
+               <head>CHAP. XVII.</head>
+               <p>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>His last Sickness, and Death.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+   AND now the time draws nigh, wherein<lb/>
+   his longings shall be satisfied; he is called<lb/>
+   to his last work; and truly, his deportment<lb/>
+   in it, was honourable; his carriage so eminently<lb/>
+   <normalised orig="gratious" auto="true">gracious</normalised>, so meek, patient, fruitful, joyful<lb/>
+   and thankful, that it made all his friends stand<lb/>
+   and wonder as being abundantly above their experience<lb/>
+   and reading; and those Christians that<lb/>
+   saw him, could not but admire God in him, and<lb/>
+   look upon him as one of the most singular instances<lb/>
+   of rich grace, and even bless God that their<lb/>
+   eyes ever saw, or their ears ever heard, such<lb/>
+   things; and had such a sensible demonstration of<lb/>
+   the reality of <notvariant>invisibles</notvariant>.<lb/>
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>He falls into a deep Consumption.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+   His body is now shaken again, and he falls<lb/>
+   into a deep Consumption; but, this messenger<lb/>
+   of God did not in the least damp him. Spitting<lb/>
+                  <pb n="15"/>
+                  <lb/>
+   of blood, was no ghastly thing to one that had<lb/>
+   his eye upon the blood of Jesus; faint sweats<lb/>
+   did not daunt him that had always such reviving<lb/>
+   cordials at hand. It's matter of joy to him,<lb/>
+   that he was now in some hopes of having his<lb/>
+   earnest desires satisfied.<lb/>
+   After he had been a while sick, a sudden dimness<lb/>
+   seized upon his eyes; by and by his sight<lb/>
+   quite failed; and there was such a visible alteration<lb/>
+   in him, that he and others judged these<lb/>
+   things to be the symptoms of death approaching.<lb/>
+   But when he was thus taken, he was not<lb/>
+   in the least <normalised orig="surprized" auto="true">surprised</normalised>; but was lifted up with<lb/>
+   joy to think, what a life he was going to, looking<lb/>
+   upon death it self as one of his Fathers servants,<lb/>
+   and his friend that was sent as a messenger<lb/>
+   to conduct him safely to his glorious palace.<lb/>
+   When he felt his body ready to faint, he called<lb/>
+   to his Mother and said, "Dear Mother I<lb/>
+   am dying, but I beseech you be not troubled;<lb/>
+   for, I am through mercy, quite above the<lb/>
+   fears of death, it's no great matter I have nothing<lb/>
+   troubles me but the apprehensions of<lb/>
+   your grief. I am going to Him, whom I<lb/>
+   love above life.<lb/>
+   But it pleased the Lord to raise him again a<lb/>
+   little out of this fainting fit, for his master had<lb/>
+   yet more work for him to do before he must receive<lb/>
+   his wages. Although his outward man<lb/>
+   <normalised orig="decaied" auto="true">decayed</normalised> apace, yet he is renewed in the inward<lb/>
+   man day by day: his graces were never more<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="100">H2</fw>
+                  <pb n="16"/>
+                  <lb/>
+   active, and his experiences were never greater.<lb/>
+   When one would have thought, he should have<lb/>
+   been taken up with his distemper, and that it<lb/>
+   had been enough for him to grapple with his<lb/>
+   pains, then he quite forgets his weakness; and is<lb/>
+   so swallowed up of the life to come, that he had<lb/>
+   scarce leisure to think of his sickness.<lb/>
+   For several weeks together, I never heard<lb/>
+   the least word that favoured of any complaint,<lb/>
+   or weariness under the hand of God; except,<lb/>
+   his eager desire to be with Christ, be counted<lb/>
+   complaining, and his haste to be in Heaven be<lb/>
+   called impatience. <notvariant>Now's</notvariant> the time when one<lb/>
+   might have seen Heaven and the Glory of another<lb/>
+   world realized to sense. His faith grew<lb/>
+   exceedingly and his love was <notvariant>proportionable</notvariant>,<lb/>
+   and his joys were equal to both.<lb/>
+   O the rare attainments! The high and divine<lb/>
+   expressions, that dropped from his mouth! I<lb/>
+   have not words to express what a strange, triumphant,<lb/>
+   <notvariant>angelical</notvariant> frame, he was in, for some<lb/>
+   considerable time together. It was a very Heaven<lb/>
+   upon earth, to see and hear a man admiring<lb/>
+   God at such a rate, as I never heard any, nor<lb/>
+   ever expect to hear or see more, till I come to<lb/>
+   Heaven. Those that did not see cannot well<lb/>
+   conceive, what a sweet frame he was in, for at<lb/>
+   least six weeks before he died. His soul was<lb/>
+   almost <normalised orig="alwaies" auto="true">always</normalised> filled with those joys unspeakable<lb/>
+   and full of glory. How oft would he cry<lb/>
+   out; O, that I could but let you know what I<lb/>
+   now feel! O, that I could show you what I see!<lb/>
+                  <fw type="pageNum" n="101">100</fw>
+                  <pb n="17"/>
+                  <lb/>
+   O, that I could express the thousandth part of<lb/>
+   that sweetness that I now find in Christ! You<lb/>
+   would all then think it well worth the while to<lb/>
+   make it your business to be religious. O my dear<lb/>
+   friends, we little think what a Christ is worth upon<lb/>
+   a death-bed. I would not for a world, nay<lb/>
+   for millions of worlds, be now without a Christ<lb/>
+   and a pardon. I would not for a world be to live<lb/>
+   any longer: the very thoughts of a possibility<lb/>
+   of recovery, makes me even tremble.<lb/>
+   When one came to visit him, and told him,<lb/>
+   that he hoped it might please God to raise him<lb/>
+   again, and that he had seen many a weaker man<lb/>
+   restored to health, and that lived many a good<lb/>
+   year after: And do you think to please me<lb/>
+   (said he) by such discourse as this? No,<lb/>
+   Friend, you are much mistaken in me, if you<lb/>
+   think that the thoughts of life, and health, and<lb/>
+   the world, are pleasing to me. The world <normalised orig="hath" auto="false">has</normalised><lb/>
+   quite lost its <notvariant>excellency</notvariant> in my judgement. O<lb/>
+   how poor and contemptible a thing is it in all<lb/>
+   its glory, compared with the glory of that invisible<lb/>
+   world which I now live in the sight of!<lb/>
+   And as for life, Christ is my life, health and<lb/>
+   strength; and I know, I shall have another<lb/>
+   kind of life, when I leave this. I tell you it<lb/>
+   would incomparably more please me, if you<lb/>
+   should say to me, [You are no man of this<lb/>
+   world; you cannot possibly hold out long; before<lb/>
+   to morrow you will be in eternity]. I tell<lb/>
+   you I do so long to be with Christ, that I could be<lb/>
+   contented to be cut <normalised orig="apeices" auto="false">to pieces</normalised>, and to be put to the<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="102">H3</fw>
+                  <pb n="18"/>
+                  <lb/>
+   most exquisite torments, so I might but die, and<lb/>
+   be with Christ. O, how sweet is Jesus! Come,<lb/>
+   Lord Jesus, come quickly. Death, do thy worst!<lb/>
+   Death <normalised orig="hath" auto="false">has</normalised> lost his <notvariant>terribleness</notvariant>. Death, it is<lb/>
+   nothing. I say, Death is nothing (through<lb/>
+   grace) to me. I can as easily die as shut my<lb/>
+   eyes, or turn my head and sleep: I long to be<lb/>
+   with Christ; I long to die; that was still his<lb/>
+   note.<lb/>
+   His Mother and <choice ana="print-error">
+                     <sic><normalised orig="Brethen" auto="true">Brethren</normalised></sic>
+                     <corr>Brethren</corr>
+                  </choice> standing by him he<lb/>
+   said; "Dear Mother, I beseech you as earnestly<lb/>
+   as ever I desired any thing of you in my life,<lb/>
+   that you would cheerfully give me up to<lb/>
+   Christ; I beseech you, do not hinder me, now<lb/>
+   I am going to rest and glory. I am afraid of<lb/>
+   your prayers, lest they pull one way and mine<lb/>
+   another."<lb/>
+   And then turning to his Brethren he <normalised orig="spake" auto="false">spoke</normalised><lb/>
+   thus to them, "I charge you all, do not pray<lb/>
+   for my life any more: you do me wrong, if<lb/>
+   you do! O that glory, the unspeakable glory<lb/>
+   that I behold. My heart is full, my heart is<lb/>
+   full. Christ smiles, and I cannot choose but<lb/>
+   smile: can you find in your heart, to stop me<lb/>
+   who am now going to the <normalised orig="compleat" auto="true">complete</normalised> and eternal<lb/>
+   <normalised orig="injoyment" auto="true">enjoyment</normalised> of Christ? Would you keep<lb/>
+   me from my Crown? The arms of my blessed<lb/>
+   Saviour are open to <normalised orig="imbrace" auto="true">embrace</normalised> me; the Angels<lb/>
+   stand ready to carry my soul in his bosom.<lb/>
+   O, did you but see what I see; you<lb/>
+   would all cry out with me, how long, <choice ana="illegible">
+                     <sic>d*<normalised orig="ar" auto="true">are</normalised></sic>
+                     <corr>dear</corr>
+                  </choice>
+                  <lb/>
+   Lord, come Lord Jesus come quickly! O,<lb/>
+                  <pb n="19"/>
+                  <lb/>
+   why are his Chariot-wheels so long a coming!"<lb/>
+   And all this while he lay like a triumphing<lb/>
+   conqueror, smiling and rejoicing in spirit.<lb/>
+   There was never a day towards his end but<lb/>
+   (as weak as he was) he did some special piece<lb/>
+   of service in, for his great Master. Yea, almost<lb/>
+   every hour did produce fresh wonders.<lb/>
+   A Reverend, Judicious and holy Minister<lb/>
+   came often to visit him, and discoursed with<lb/>
+   him of the <notvariant>excellency</notvariant> of Christ, and the glory<lb/>
+   of the invisible world. Sir, said he, I feel<lb/>
+   something of it; my heart is as full as it can<lb/>
+   hold in this lower state; I can hold no more<lb/>
+   here. O that I could but let you know what I<lb/>
+   feel!<lb/>
+   This holy Minister praying with him his<lb/>
+   soul was ravished with the abundant incomes of<lb/>
+   light, life and love; so that he could scarce<lb/>
+   hear it, nor the thought of staying any longer<lb/>
+   in the world, but longed to be in such a condition,<lb/>
+   wherein he should have yet more grace<lb/>
+   and more comfort, and be better able to bear that<lb/>
+   weight of glory; some manifestations whereof<lb/>
+   did even almost sink his weak body, and had<lb/>
+   he not been sustained by a great power, his<lb/>
+   very joys would have overwhelmed him; and<lb/>
+   whilst he was in these <normalised orig="extasies" auto="true">ecstasies</normalised> of joy and love,<lb/>
+   he was wont to cry out,<lb/>
+   "Who am I Lord, who am I, that thou<lb/>
+   <normalised orig="shouldst" auto="false">should</normalised> be mindful of me! Why me Lord,<lb/>
+   why me, and pass by thousands and look upon<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="104">H4</fw>
+                  <pb n="20"/>
+                  <lb/>
+   such a wretch as me. O, what shall I say,<lb/>
+   unto thee, O thou preserver of men? O, why<lb/>
+   me Lord, why me? O blessed, and for ever<lb/>
+   blessed, be free grace! How is it, Lord, that thou<lb/>
+   <normalised orig="shouldst" auto="false">should</normalised> manifest thy self unto me, and not<lb/>
+   unto others, even so Father, because it <normalised orig="seemeth" auto="true">seems</normalised><lb/>
+   good in thy eyes, Thou wilt have mercy because<lb/>
+   thou wilt have mercy. And if thou<lb/>
+   wilt look upon such a poor worm who can<lb/>
+                  <choice ana="illegible">
+                     <sic>hi*der</sic>
+                     <corr>hinder</corr>
+                  </choice>! Who would not love thee! O blessed<lb/>
+   Father! O how sweet and <normalised orig="gratious" auto="true">gracious</normalised> <normalised orig="hast" auto="false">have</normalised> thou<lb/>
+   been unto me? O, that he should have me in<lb/>
+   his thoughts of love, before the foundations of<lb/>
+   the world."<lb/>
+   And thus he went on, admiring and adoring<lb/>
+   of God, in a more high and heavenly manner<lb/>
+   than I can clothe with words. Suppose what you<lb/>
+   can on this side Heaven; and I am <normalised orig="perswaded" auto="true">persuaded</normalised><lb/>
+   you might have seen it in him. He was wonderfully<lb/>
+   taken with the goodness of God to him<lb/>
+   in sending that aged experienced Minister to<lb/>
+   help him in his last great work upon earth.<lb/>
+   "Who am I", said he, "that God should send to<lb/>
+   me a <choice ana="illegible">
+                     <sic>*<notvariant>ssenger</notvariant></sic>
+                     <corr>messenger</corr>
+                  </choice> one among a thousand (meaning<lb/>
+                  <choice ana="illegible">
+                     <sic>t*t</sic>
+                     <corr>that</corr>
+                  </choice> Minister who had been praying<lb/>
+   with<lb/>
+   him <choice ana="illegible">
+                     <sic>*<notvariant>ith</notvariant></sic>
+                     <corr>with</corr>
+                  </choice> tears of joy)."<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

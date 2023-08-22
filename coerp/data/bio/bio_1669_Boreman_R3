@@ -1,0 +1,705 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Mirrour" auto="true">Mirror</normalised> of Christianity</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="IzWa1593">Walton, <notvariant>Izaak</notvariant></author>
+               <title type="main">A <normalised orig="Mirrour" auto="true">Mirror</normalised> of Christianity, and A Miracle of Charity; Or, A true and Exact narrative of the life and death Of the most Virtuous Lady Alice <normalised orig="Dutchess" auto="true">Duchess</normalised> <notvariant>Duddeley</notvariant>. Published after the Sermon in the Church of St. Giles in the Fields by R. B. D. D. Rector of the said Church on Sunday the 14th of March, <notvariant>MDCLXIX</notvariant>.</title>
+               <title type="short"><normalised orig="Mirrour" auto="true">Mirror</normalised> of Christianity</title>
+               <date when="1669">1669</date>
+               <date type="this_edition" when="1669">1669</date>
+               <idno type="Wing">B3758</idno>
+               <note type="genre" subtype="biography">biography</note>
+               <note type="sample" target="#IzWa1593_1669_biography_1">p.1, l.1 – p.17, l.28&gt;</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="IzWa1593_1669_biography_1">
+            <div>
+               <head>An Exact<lb/>
+NARRATIVE<lb/>
+OF THE<lb/>
+LIFE and DEATH<lb/>
+Of the Renowned <normalised orig="Dutchess" auto="true">Duchess</normalised><lb/>
+DUDLEY<lb/>
+Who departed this Life in her<lb/>
+House <normalised orig="neer" auto="true">near</normalised> the Church of St. Giles in the<lb/>
+Fields, <notvariant>Januarii</notvariant> 22. <notvariant>Anno</notvariant> 1669. in<lb/>
+the <notvariant>XC</notvariant>. year of her Age.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+WE never read of any that were blamed for<lb/>
+drawing of too much water out of the<lb/>
+Well of Life, I mean for devoting themselves<lb/>
+with an earnest <notvariant>assiduity</notvariant> to the reading<lb/>
+and study of Gods Word: Neither can we possibly<lb/>
+give too much honour to the Lord of Glory, and<lb/>
+King of Saints, though we should put our inventions<lb/>
+upon the rack, and <normalised orig="scrue" auto="false">screw</normalised> up our expressions to the<lb/>
+highest.<lb/>
+There be many ways and divers means, whereby<lb/>
+God may be glorified by us, but none more effectual<lb/>
+and powerful to the advancement of his glory, than by<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="2">B</fw>
+                  <pb n="1"/>
+                  <lb/>
+acknowledging with due praises the many eminent<lb/>
+Virtues, which (as so many Rivulets) stream into<lb/>
+the Souls of the Saints from the everlasting Spring of<lb/>
+Divine Grace. <quote type="biblical" ana="Gal 1.24">They glorified God in me,</quote> so said<lb/>
+S. Paul of himself, Gal. 1.24. Who, though he stiled<lb/>
+himself out of the depth of humility the chiefest of<lb/>
+sinners, and the least of Saints; yet in Gods esteem he<lb/>
+was as great as the greatest of the Latter, and Less then<lb/>
+the least of the former.<lb/>
+Now to the glory of God (which is the aim of my<lb/>
+weak endeavours) to the praise of his eternal goodness<lb/>
+(which should be the object of yours) I shall,<lb/>
+by his Blessing and Divine Assistance, discharge a duty<lb/>
+which is <normalised orig="pattern'd" auto="true">patterned</normalised> to us by the practice of the Heathens,<lb/>
+Jews, and Christians in all ages; it is to present to<lb/>
+the view of your Meditations one of the Fairest Flowers<lb/>
+in the Garden of Gods Church, one (for <choice ana="illegible">
+                     <sic>h*r</sic>
+                     <corr>her</corr>
+                  </choice> <notvariant>Saintship</notvariant>)<lb/>
+of the highest Stars in this lower firmament,<lb/>
+whilst I embalm the memory of the most Virtuous deceased<lb/>
+<notvariant>Dutches</notvariant> D. with a just <notvariant>Encomium</notvariant>, and praises<lb/>
+due to her rare and transcendent perfections.<lb/>
+In the doing whereof I shall perform a double commendable<lb/>
+work; First, A Duty of Civility and Christianity<lb/>
+to the dead; Secondly, A Duty of Piety to the<lb/>
+Living, whilst I stir up their Devotions to an Holy<lb/>
+Emulation and Zealous Imitation of the Graces and<lb/>
+Virtues which Shined in the Life and Death of the<lb/>
+Renowned <normalised orig="Dutchess" auto="true">Duchess</normalised>; <notvariant>NoValue</notvariant>
+                  <lb/>
+To speak<lb/>
+in the Language of the Learned <choice ana="illegible">
+                     <sic><notvariant>Naz</notvariant>*<notvariant>anzen</notvariant></sic>
+                     <corr><notvariant>Nazianzen</notvariant></corr>
+                  </choice> whose<lb/>
+Tongue, (that Tongue which sored so high in the praise<lb/>
+of S. <choice ana="illegible">
+                     <sic><notvariant>Athanasi</notvariant>*</sic>
+                     <corr><notvariant>Athanasios</notvariant></corr>
+                  </choice> and S. Basil) would suit well with this<lb/>
+great work better then mine; who, when I have said<lb/>
+                  <pb n="2"/>
+                  <lb/>
+all that I can, being not able to speak enough, may incur<lb/>
+that censure of endeavouring, or going about, to<lb/>
+fit a Dwarfs Shoe to a Giants Foot.<lb/>
+But to hold your expectation no longer in suspense<lb/>
+I shall lay the Foundation of this Structure in Her Graces<lb/>
+Birth, and Education, and then lay upon it the<lb/>
+weight of an Holy Life, and happy Death, this done,<lb/>
+refer all to your godly imitation, and so commend you<lb/>
+to God's blessing.<lb/>
+First, For her <normalised orig="Ladiships" auto="true">Ladyships</normalised> Birth: we have here a Righteous<lb/>
+Branch sprung of a Righteous Stock, She was the<lb/>
+second Daughter of Sir Thomas <notvariant>Leighe</notvariant> of <notvariant>Stoneley</notvariant> in<lb/>
+the County of <notvariant>Wa'wick</notvariant>, Knight and Baronet, the <normalised orig="Relict" auto="false">Relic</normalised><lb/>
+of Sir <normalised orig="Robrt" auto="false">Robert</normalised> Dudley Knight, Son to Robert late Earl<lb/>
+of Leicester; and for his extraordinary merits created<lb/>
+a Duke by Ferdinand the Second, late Emperor of<lb/>
+Germany.<lb/>
+For divers great considerations, She was by Letters<lb/>
+Patents, bearing date at Oxford the twentieth day of<lb/>
+May, In the twentieth year of King Charles the first of<lb/>
+Blessed Memory, By the said King advanced to the title<lb/>
+of a <normalised orig="Dutchess" auto="true">Duchess</normalised>, being by the <normalised orig="foresaid" auto="true">aforesaid</normalised> Robert the Mother<lb/>
+of five gracious Daughters, Alice, <notvariant>Douglasse</notvariant>,<lb/>
+Frances wife of Sir Gilbert <notvariant>Kniueton</notvariant> Knight, Anne wife<lb/>
+of Sir Robert <notvariant>Holburne</notvariant> Late of <notvariant>Lincolnes</notvariant> <normalised orig="Inne" auto="true">Inn</normalised> (all<lb/>
+these Deceased,) And Katherine the <normalised orig="onely" auto="true">only</normalised> surviving<lb/>
+Picture in Piety and goodness of her Lady Mother,<lb/>
+and Widow of Sir Richard <notvariant>Leveson</notvariant> Knight of the<lb/>
+Bath.<lb/>
+The Town of <notvariant>Stonely</notvariant>, in which our Illustrious <normalised orig="Dutchess" auto="true">Duchess</normalised><lb/>
+was born, has more reason to glory in that She<lb/>
+<normalised orig="breath'd" auto="true">breathed</normalised> her first breath in it than the seven Cities<lb/>
+had in Homer the Prince of Poets; who by all of them<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="4">B2</fw>
+                  <pb n="3"/>
+                  <lb/>
+was challenged, all laying a claim or Title to his birth<lb/>
+in them. But as her <normalised orig="Ladiships" auto="true">Ladyships</normalised> being born in the <normalised orig="foresaid" auto="true">aforesaid</normalised><lb/>
+<notvariant>Stoneley</notvariant> will not add any inward virtue (though it<lb/>
+may an outward luster) to it, so Her being descended<lb/>
+from, and related to an Ancient Noble Family is the<lb/>
+slenderest part or piece of her Character and Glory.<lb/>
+That she was born of God by Spiritual Regeneration<lb/>
+(and so His Daughter by Adoption) and a Sister of<lb/>
+Christ by love and likeness of Him, this is her Chiefest<lb/>
+glory, the highest degree of her commendation.<lb/>
+                  <notvariant>NoValue</notvariant>
+                  <lb/>
+So said S. <notvariant>Chrysostome</notvariant> in a <notvariant>Panegyrical</notvariant><lb/>
+Oration, The principal thing to be <normalised orig="look'd" auto="true">looked</normalised> at, and commended<lb/>
+in recounting a Genealogy, is the Virtue of a<lb/>
+man or woman.<lb/>
+If we consider the whole Series or course of her<lb/>
+life, we shall have a just occasion to say, that in her<lb/>
+person, and by her actions she gave a stop or check in<lb/>
+a way of answer to that doubtful Question of Solomon,<lb/>
+<notvariant>Prov</notvariant>. 31.10. <quote type="biblical" ana="Prov 31.10">Who can find a Virtuous Woman!</quote>
+                  <lb/>
+who can without God's special blessing obtained<lb/>
+by Prayer unto Him, and without God's Divine<lb/>
+appointment and Ordination? This sure was the<lb/>
+<normalised orig="wisemans" auto="false">wiseman's</normalised> meaning. But to return to my purpose<lb/>
+from this short digression. The precious <normalised orig="balme" auto="true">balm</normalised> of<lb/>
+Grace that was <normalised orig="powred" auto="true">powered</normalised> by God's blessed Spirit into<lb/>
+the Soul of our Renowned <normalised orig="Dutchess" auto="true">Duchess</normalised> at her Baptism,<lb/>
+or in her Infancy, being <normalised orig="strengthned" auto="true">strengthened</normalised> with the addition<lb/>
+of a godly Education, brake forth in such a sweet perfume,<lb/>
+even from her Childhood to Her riper years;<lb/>
+that she was <normalised orig="look'd" auto="true">looked</normalised> upon as an Earthly Saint, an Angel<lb/>
+clothed in Flesh, a lawful Image of Her Maker,<lb/>
+and Redeemer, a model of Heaven made up in<lb/>
+                  <pb n="4"/>
+                  <lb/>
+Clay, the living Temple of the Holy Ghost.<lb/>
+This was evidenced by these ensuing Graces.<lb/>
+First, By Her Extraordinary Piety, or Religion.<lb/>
+Her behaviour towards God was rare and admirable;<lb/>
+for being instructed in, and <normalised orig="perswaded" auto="true">persuaded</normalised> of the<lb/>
+truth of that Religion which we profess (as distinct<lb/>
+from that false one of the Church of Rome) and being<lb/>
+firmly grounded in those Fundamentals, and saving<lb/>
+Truths which our Religion teaches us, viz. That God<lb/>
+alone is to be prayed unto and worshipped (not Saints<lb/>
+nor Angels,) That by Christ only we can be saved,<lb/>
+by his merits and Gods mercy, not by our own works,<lb/>
+she accordingly upon these grounds <quote type="biblical" ana="Lk 2.37">served God night<lb/>
+and day</quote> (as that good old Prophetess Anna did, Luke<lb/>
+2.37.) <quote type="biblical" ana="Lk 2.37">with <notvariant>fastings</notvariant> and prayers,</quote> especially during the<lb/>
+time of her Virgin-widowhood; she was <notvariant>NoValue</notvariant>
+                  <lb/>
+1 Tim. 5.5. <quote type="biblical" ana="1 Tim 5.5">a widow indeed,</quote> such as was that famous<lb/>
+Paula and <notvariant>Marcella</notvariant> by S. <notvariant>Hierome</notvariant> in his Epistles so<lb/>
+highly magnified. She well knew, that though second<lb/>
+marriage is no sin, yet (as one says) <notvariant>Iteratò</notvariant> <notvariant>nubere</notvariant> est<lb/>
+<notvariant>signum</notvariant> <notvariant>Incontinentia</notvariant>, &amp;c. She therefore, to preserve<lb/>
+in her fame the honour, and in her soul and body the<lb/>
+joy and sweet content of <normalised orig="Continency" auto="false">Continence</normalised>, refused to marry;<lb/>
+declaring thereby, that though many great persons<lb/>
+wanted her or rather (as the fashion of the world is)<lb/>
+her money, yet she had no need of any to be <normalised orig="joyn'd" auto="true">joined</normalised><lb/>
+with her in a conjugal society.<lb/>
+An enlargement of her Estate she never designed,<lb/>
+nor <normalised orig="desir'd" auto="true">desired</normalised> by the addition of a <normalised orig="Joynture" auto="true">Jointure</normalised>, but moving<lb/>
+in the <normalised orig="Sphear" auto="true">Sphere</normalised> of her own fortune, and contenting her<lb/>
+self with the portion God had given her, she <notvariant>clave</notvariant><lb/>
+close to God, and was <normalised orig="joyn'd" auto="true">joined</normalised> to Him by Faith and<lb/>
+<notvariant>Affiance</notvariant>; and so she was espoused to God, and the<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="6">B3</fw>
+                  <pb n="5"/>
+                  <lb/>
+Lord of Heaven married to her, being her Husband<lb/>
+(as he professes himself to have been to Israel, <notvariant>Jer</notvariant>. 31.<lb/>
+32.) in regard of his Love, Care and Providence to<lb/>
+her Religious Person; who spent as much time (or<lb/>
+more) in reading of God's word, and other godly<lb/>
+books the extracts of it, as others do in their Glasses,<lb/>
+by which they correct the defaults in their dresses, and<lb/>
+blemishes in their faces, not regarding in the mean<lb/>
+while the blots and spots, the <notvariant>defilements</notvariant> and stains<lb/>
+of sin, that disfigure the native beauty of their Souls,<lb/>
+which are usually left naked, and, for want of<lb/>
+prayer to God divested of Grace, but clothed<lb/>
+with the black mantle of Lascivious and Unclean<lb/>
+thoughts.<lb/>
+Our pious <normalised orig="Dutchess" auto="true">Duchess</normalised> took into her prime care her<lb/>
+righteous soul the spouse of God: by Prayer and Meditation<lb/>
+(with which a soul is winged) she sent it up<lb/>
+in a flight to Heaven every morning, and thus conversing<lb/>
+with God in the mount of Devotion it <normalised orig="return'd" auto="true">returned</normalised><lb/>
+again into her <normalised orig="bosome" auto="true">bosom</normalised> (as Moses did from the<lb/>
+Mount) with it's face shining, and <notvariant>lightsome</notvariant> with joy<lb/>
+and inward Consolation.<lb/>
+The more familiar conference we have with<lb/>
+God in prayer, the more do we partake of<lb/>
+him.<lb/>
+He that passes by the fire may have some gleams<lb/>
+of heat, but he that stands by it will have his Colour<lb/>
+changed: It is not possible a man should have any long<lb/>
+conference with God in Prayer, and Meditation, but<lb/>
+that his heart shine with inward illumination, and, being<lb/>
+<normalised orig="enflamed" auto="true">inflamed</normalised> with the love of God, partake of some<lb/>
+Divine Inspiration.<lb/>
+And thus she acquainting her self daily and conversing<lb/>
+                  <fw type="pageNum" n="7">6</fw>
+                  <pb n="6"/>
+                  <lb/>
+with God, in her Closet, or Private, and more<lb/>
+<normalised orig="publike" auto="true">public</normalised> family devotions (which she never omitted)<lb/>
+was wonderfully beautified, and <normalised orig="strengthned" auto="true">strengthened</normalised> in her<lb/>
+soul by Grace; which had taken up it's lodging in<lb/>
+her, and displayed it self outwardly in five special<lb/>
+Saint-like Qualities, which made her conversation<lb/>
+amiable, pleasant, and Venerable to all her Equals and<lb/>
+Inferiors.<lb/>
+The first was a winning and obliging way or disposition,<lb/>
+that sweetly scatters favours; by this, being a<lb/>
+desire of doing good to all, even to our very<lb/>
+enemies, we attract friendships, and make friends<lb/>
+even of those that hate us. Thus did that good<lb/>
+<normalised orig="Dutchess" auto="true">Duchess</normalised>.<lb/>
+The second is Affability, this was eminently in her,<lb/>
+<normalised orig="joyn'd" auto="true">joined</normalised> with a becoming Grace and sweet behaviour,<lb/>
+and <normalised orig="hath" auto="false">has</normalised> in it a power to charm Souls that are in any<lb/>
+the least way or degree inclined to Honesty and Civility:<lb/>
+She was Courteous to all even the meanest person,<lb/>
+who might find her ear, open to any just Request<lb/>
+or Modest Petition. When she bestowed any<lb/>
+favour, or gave an Alms, She gave it cheerfully without<lb/>
+grudging, or any the least <notvariant>repining</notvariant>, so the loaf<lb/>
+which she gave was not <notvariant>Panis</notvariant> <notvariant>Lapidosus</notvariant>, as <notvariant>Seneca</notvariant><lb/>
+speaks, but pure and fine <notvariant>Manchet</notvariant> without any mixture<lb/>
+of Gravel. An Alms given with hard Language,<lb/>
+reproach or an harsh <notvariant>exprobration</notvariant>, is gravel-bread,<lb/>
+and at once loses both it's thanks and commendation.<lb/>
+The third, Prudence, a gracious Quality of the Soul,<lb/>
+which is ever <normalised orig="joyn'd" auto="true">joined</normalised> with Wisdom as it's inseparable<lb/>
+Companion, as appears by <notvariant>Eph</notvariant>. 1. 8. - - <quote type="biblical" ana="Eph 1.7-8">According to<lb/>
+the riches of his Grace, wherein he <normalised orig="hath" auto="false">has</normalised> abounded towards<lb/>
+                     <pb n="7"/>
+                     <lb/>
+us in all Wisdom and Prudence.</quote> So <notvariant>Prov</notvariant>. 8.12.<lb/>
+                  <quote type="biblical" ana="Prov 8.12">I Wisdom dwell with Prudence,</quote> Here too they are mated,<lb/>
+they cannot be severed. The property of Wisdom,<lb/>
+is <notvariant>NoValue</notvariant>, to propound to it self a right or good end,<lb/>
+as it is the Office of Prudence, (which derives it's name<lb/>
+from Providence) <notvariant>NoValue</notvariant> to advise of and devise<lb/>
+proper and fit means suitable to that end. To be<lb/>
+happy hereafter in Heaven and to live honourably<lb/>
+with repute here on Earth, should be our main end:<lb/>
+Faith in Christ attended with good works is the way<lb/>
+to attain the former, Justice and Honesty to man is the<lb/>
+means to acquire the other.<lb/>
+This virtue, this <notvariant>NoValue</notvariant>, was most eminent in our<lb/>
+Renowned <normalised orig="Dutchess" auto="true">Duchess</normalised>, she made it her whole business,<lb/>
+her <notvariant>NoValue</notvariant> to get a place in Heaven, (where she now<lb/>
+sits and <normalised orig="raigns" auto="false">reigns</normalised>) and by well-doing to leave a good<lb/>
+name behind her, being dead; that the <normalised orig="transplendent" auto="false">transplanted</normalised><lb/>
+light of her beneficence shining amongst men, and<lb/>
+they beholding her good works <quote type="biblical" ana="Mt 5.16">might <normalised orig="glorifie" auto="true">glorify</normalised> her Father<lb/>
+which is in Heaven</quote>, Matt. 5.16.<lb/>
+Her Prudence likewise was seen in this that she had<lb/>
+a great command over her Tongue, and Passions; she<lb/>
+knew that (as Th. de <notvariant>Kempis</notvariant> says well, lib. 1.c. 20.)<lb/>
+It was an easier thing to be silent then not to offend in<lb/>
+speech, or multitude of words: she therefore seldom<lb/>
+<normalised orig="spake" auto="false">spoke</normalised> but to the benefit of the Hearer; Grieve she did<lb/>
+at the miscarriages of men (whereby God was dishonoured)<lb/>
+and for <normalised orig="publike" auto="true">public</normalised> calamities when the Church<lb/>
+was afflicted, but this sorrow was allayed with Religion,<lb/>
+it never exceeded; Thus also her Anger was<lb/>
+tempered with Meekness, so that if at any time her<lb/>
+blood boiled up in her tender heart out of a dislike of<lb/>
+any thing that did offend her, it never ran over the<lb/>
+                  <pb n="8"/>
+                  <lb/>
+brim of Reason, or bounds of Moderation. Her ears<lb/>
+were ever open to the complaints of the poor, but<lb/>
+shut against all calumny and Detraction; Her <choice ana="illegible">
+                     <sic>*yes</sic>
+                     <corr>Eyes</corr>
+                  </choice>
+                  <lb/>
+ever open too, looking up to Heaven (<quote type="psalm" ana="Ps 123.2">as the eyes of<lb/>
+Servants look unto the hands of their masters</quote>- <notvariant>-Psal</notvariant>.<lb/>
+123.2.) but shut against Objects <normalised orig="dress'd" auto="true">dressed</normalised> up with vanity,<lb/>
+through these casements they could not enter into<lb/>
+her capacious Soul, the receptacle <normalised orig="onely" auto="true">only</normalised> of chaste<lb/>
+thoughts decked with Purity of good Intentions;<lb/>
+Her mouth had a watch set upon it, which then opened<lb/>
+when she was to give rules of Instruction, and Orders<lb/>
+for direction to her well-ordered Religious Family,<lb/>
+or when she fell into discourse of Religion, and<lb/>
+of the <notvariant>NoValue</notvariant> the things above, heavenly things; which<lb/>
+she ever used to do, <normalised orig="whensoever" auto="true">whenever</normalised> I was admitted into<lb/>
+her blessed Private Society. In a word, which is another<lb/>
+high degree of Prudence, and that which the Philosopher<lb/>
+terms <notvariant>NoValue</notvariant>, <notvariant>Perspicacitas</notvariant>, she could quickly,<lb/>
+and warily discern the dispositions, capacities,<lb/>
+manners, humours, affections, and aims of those with<lb/>
+whom she did converse, and accordingly did suit<lb/>
+her carriage to every mans temper without flattery,<lb/>
+which was far from, and beneath, her.<lb/>
+She was a <normalised orig="magazen" auto="false">magazine</normalised> of experience, the fruit or benefit<lb/>
+of Old Age, and the <notvariant>proxime</notvariant> cause of Prudence.<lb/>
+Her vast Memory, which was strong and vigorous to<lb/>
+admiration, was the Storehouse and Treasury of Observations,<lb/>
+and Knowledge of Occurrences for many<lb/>
+scores of years: so that I often have said, what I truly<lb/>
+found by her rare discourses, that she was a Living<lb/>
+Chronicle bound up with the thread of a <normalised orig="long-spund" auto="false">long-spun</normalised><lb/>
+Age; the which being cut asunder by the hand of<lb/>
+Death, we are thereby deprived of a great Jewel and<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="10">C</fw>
+                  <pb n="9"/>
+                  <lb/>
+comfortable benefit. In divers accidents and things<lb/>
+relating to our Parish I oft <normalised orig="appeal'd" auto="true">appealed</normalised> to her <normalised orig="stupendious" auto="true">stupendous</normalised><lb/>
+Memory, as an ancient Record, and as that was admirable,<lb/>
+so what the Son of <notvariant>Sirach</notvariant> says of <notvariant>Judas</notvariant> <notvariant>Maccabeus</notvariant>,<lb/>
+<notvariant>Eccl</notvariant>. 93. 7. Her memorial is, and shall be blessed<lb/>
+for ever. Who in the fourth and fifth place was admired<lb/>
+and highly honoured for her Humility and Patience.<lb/>
+The former of these is a <normalised orig="Vertue" auto="true">Virtue</normalised> which is the Cognisance<lb/>
+of a Saint, and the true Badge of a Christian; it is<lb/>
+the first Lesson which is to be <normalised orig="Learn'd" auto="true">Learned</normalised> in the School<lb/>
+of Christ, who is <notvariant>Magister</notvariant> <notvariant>humilitatis</notvariant> so styled oft by<lb/>
+S. Aug. <quote type="biblical" ana="Mt 11.29">Learn of me for I am meek and lowly, &amp;c.</quote>
+                  <lb/>
+Matt. 11.29. The Doctrinal saying of this great<lb/>
+Master of <normalised orig="Humilty" auto="false">Humility</normalised>. It is grounded upon an high apprehension<lb/>
+of the Majesty and Greatness of Almighty<lb/>
+God, together with a low estimation a man <normalised orig="hath" auto="false">has</normalised> of<lb/>
+himself, in regard of his many weaknesses, and sinful<lb/>
+Infirmities; These being ever proposed to the eye of<lb/>
+Her Conscience, and looking upon all the good things<lb/>
+She had, her Gifts and Graces, as God's <notvariant>Donatives</notvariant>,<lb/>
+(who can and will, if we be proud of them to a contempt<lb/>
+of others, take them from us) She therefore<lb/>
+ever payed to God the Tribute of thankfulness for<lb/>
+them, bowing Her Soul to God by an humble submission<lb/>
+to His Will, and to the just commands of<lb/>
+her <normalised orig="Superiours" auto="true">Superiors</normalised>; being likewise assured of this, that if<lb/>
+she had more riches, others might have more Grace,<lb/>
+and if she exceeded them in one or more gifts, they<lb/>
+might excel in others. Hence did spring and arise Her<lb/>
+meekness, and Humility, a Grace which renders a<lb/>
+man amiable in the sight of God, who <normalised orig="dwels" auto="true">dwells</normalised> (as<lb/>
+the Prophet <notvariant>Isaiah</notvariant> speaks, chap. 57.11.) in an<lb/>
+humble heart, it being the Chief Mansion or <notvariant>Manour-House</notvariant><lb/>
+                  <pb n="10"/>
+                  <lb/>
+of the holy Ghost, <notvariant>NoValue</notvariant>
+                  <lb/>
+<normalised orig="Chrys" auto="true">Chris</normalised>. There is nothing more<lb/>
+acceptable and pleasing to God than for a man to degrade<lb/>
+himself in his humble thoughts, and to rank himself<lb/>
+among the lowest, even then when he is in a<lb/>
+place of Dignity or Eminence: Such a one is God's<lb/>
+delight, his special <normalised orig="Favorite" auto="true">Favourite</normalised>. So was the good <choice ana="illegible">
+                     <sic>Dutch*ss</sic>
+                     <corr><normalised orig="Dutchess" auto="true">Duchess</normalised></corr>
+                  </choice>,<lb/>
+who reflecting in her Religious thoughts upon her<lb/>
+frail composition, as being (what Abraham stiled<lb/>
+himself, Gen. 18.and what the greatest are) <quote type="biblical" ana="Gen 18.27">but Dust</quote>
+                  <lb/>
+(in regard of her beginning) <quote type="biblical" ana="Gen 18.27">and Ashes</quote> (in respect<lb/>
+of her end) and knowing that (as the <notvariant>forenamed</notvariant> de<lb/>
+<notvariant>Kempis</notvariant> says of man in General) that she was Culpable in<lb/>
+many things, prone by nature to evil, and unable of her<lb/>
+self to stand and persist in that which is good. This knowledge<lb/>
+of her self beat down Pride, and set up a throne<lb/>
+for Humility in her heart, which displayed it self by her<lb/>
+delighting to be concealed by her private retirement,<lb/>
+yet shining in goodness though unseen, like those stars<lb/>
+(called, <notvariant>Sporades</notvariant>) in the <normalised orig="Galaxie" auto="false">Galaxy</normalised> or milk-way in the<lb/>
+firmament: It likewise <normalised orig="discover'd" auto="true">discovered</normalised> it self, First, By<lb/>
+taking no content or delight in the praise of men,<lb/>
+when it was offered; Secondly, By her <normalised orig="contentation" auto="false">content</normalised><lb/>
+in every estate and condition, every mutation or<lb/>
+change of fortune, conceiving that what good she enjoyed<lb/>
+was more, and what evil she <normalised orig="sustain'd" auto="true">sustained</normalised> was less,<lb/>
+than she deserved.<lb/>
+This Grace of Humility in Her was the parent of<lb/>
+                  <choice ana="illegible">
+                     <sic>Pa*<notvariant>ience</notvariant></sic>
+                     <corr>Patience</corr>
+                  </choice>, a cheerful bearing of affliction without murmuring<lb/>
+or <notvariant>repining</notvariant> at God's dispensations or providence.<lb/>
+He that thinks or believes he is the Son of God will<lb/>
+not <normalised orig="murmure" auto="false">murmur</normalised> at any dispensation of his Providence;<lb/>
+should I lead your Meditations through all the Stages<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="12">C2</fw>
+                  <pb n="11"/>
+                  <lb/>
+of her sufferings in the late bloody Rebellious times,<lb/>
+truly I might tire yours, though they did not overcome<lb/>
+Her, Patience. But she with a most <normalised orig="Heroick" auto="true">Heroic</normalised><lb/>
+<normalised orig="Christianlike" auto="false">christian-like</normalised> Courage and Spirit, bore up against all<lb/>
+the batteries and storms of plundering <notvariant>Persecutours</notvariant>, of<lb/>
+railing <notvariant>Shimei's</notvariant>, and backbiting <notvariant>Rabshakes</notvariant>, against<lb/>
+whom her <normalised orig="Innocency" auto="true">Innocence</normalised> was no fence to keep of their<lb/>
+approaches: And as those lesser lights of Heaven shine<lb/>
+brightest in the dark Winter nights, and fire burns<lb/>
+hottest in the cold frost; so the Star of her profession<lb/>
+<normalised orig="shind" auto="true">shined</normalised> most gloriously, the fire of her Zeal to the<lb/>
+Truth glowed with a greater heat under the rage of<lb/>
+those, who did persecute her with their hands robbing<lb/>
+her of her goods (because she would not be as<lb/>
+they were, bad, rebels against the King and Church)<lb/>
+and blasting her reputation with their black Tongues<lb/>
+not dreading to report she was a <notvariant>Papist</notvariant>, or (as one<lb/>
+said before a Committee) something like one: and<lb/>
+why? Because she was loyal to her <normalised orig="Soveraign" auto="true">Sovereign</normalised>, a lover<lb/>
+and <notvariant>Patroness</notvariant> of Orthodox Divines, and abounded<lb/>
+in good works. If it were only Charity that did<lb/>
+constitute a <notvariant>Papist</notvariant>, I would not refuse or dislike to be<lb/>
+so called; but her soundness in her opinion, and<lb/>
+practice of the true Religion manifested to the<lb/>
+World that she was a rare Christian, a Christian<lb/>
+indeed and not only in name <notvariant>NoValue</notvariant> <notvariant>Ign</notvariant>.<lb/>
+One of a most exact conversation, and fit to be proposed<lb/>
+to this loose and sinful Age as a pattern of<lb/>
+good living; and as St. Augustine <normalised orig="referr'd" auto="true">referred</normalised> those that<lb/>
+desired to profit in Virtue to the life and conversation<lb/>
+of S. <notvariant>Paulinus</notvariant>, <lb/>
+                  <notvariant>Vade</notvariant> in <notvariant>Campaniam</notvariant> <normalised orig="disce" auto="true">disc</normalised> <notvariant>Paulinum</notvariant>,<lb/>
+Go to <notvariant>Campania</notvariant> and study <notvariant>Paulinus</notvariant>; so would I say<lb/>
+to any person, that should desire to attain to some<lb/>
+                  <pb n="12"/>
+                  <lb/>
+degree of perfection in Grace, Goodness, and Piety,<lb/>
+                  <notvariant>Vade</notvariant> ad <notvariant>Sancti</notvariant> <notvariant>Ægidii</notvariant> <notvariant>oppidum</notvariant>, &amp; <normalised orig="Disce" auto="true">Disc</normalised> <notvariant>Ducissam</notvariant><lb/>
+<notvariant>Dudleyam</notvariant>, Have recourse to St. <notvariant>Giles's</notvariant> and enquire<lb/>
+after the Life and manners of <normalised orig="Dutchess" auto="true">Duchess</normalised> Dudley; conform<lb/>
+your Life to Her Religious Conversation (who<lb/>
+<normalised orig="hath" auto="false">has</normalised> left behind her there many Ladies much like<lb/>
+unto her) so may you prove a good proficient in<lb/>
+Religion.<lb/>
+Her Patience likewise discovered it self highly all<lb/>
+the time of her sickness which was long and tedious,<lb/>
+and in the midst of all her pains, which were sharp<lb/>
+and grievous; her Soul was drowned in the Contemplation<lb/>
+of that great Ocean of bliss in Heaven,<lb/>
+to which she was sailing through the narrow channel<lb/>
+of this life: She never complained with murmuring<lb/>
+or bitter Lamentation, as too many do in their sickness,<lb/>
+nor saying as <notvariant>Rebekah</notvariant> did, Gen. 25.22. when<lb/>
+the twins <normalised orig="strugled" auto="true">struggled</normalised> in her womb, <quote type="biblical" ana="Gen 25.22">If it be so why am I<lb/>
+thus?</quote> No she knew that <notvariant>NoValue</notvariant> that<lb/>
+the gate is strait which <normalised orig="leadeth" auto="true">leads</normalised> into the City of bliss,<lb/>
+and that <quote type="biblical" ana="Acts 14.22">through many tribulations we must enter into<lb/>
+heaven</quote> (which she had learned out of Acts 13. 22.)<lb/>
+and therefore embraced her Cross with cheerfulness --<lb/>
+                  <quote type="biblical" ana="Lam 3.39">and why, should a living man complain, a man for the<lb/>
+punishment of his Sin?</quote> Lam. 3.39. She in effect oft<lb/>
+said what St. <notvariant>Hierome</notvariant> suggested to Paula concerning<lb/>
+the death of <notvariant>Blasilla</notvariant>, The Lord is good, and<lb/>
+whatsoever a good God <normalised orig="doth" auto="false">does</normalised> cannot be bad. To<lb/>
+conclude this particular, She <normalised orig="look'd" auto="true">looked</normalised> upon her<lb/>
+troubles as the Lot of God's Children, the <normalised orig="Physick" auto="true">Physic</normalised> of<lb/>
+the Soul, the Pledge of Divine Love, the Badge of<lb/>
+her profession (as a Christian) the Incentive of her<lb/>
+Devotion, and a mark of her Conformity with<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="14">C3</fw>
+                  <pb n="13"/>
+                  <lb/>
+Christ her Head, and the Captain of our Salvation;<lb/>
+and therefore, following him, she bore all with Patience.<lb/>
+To whom that she might by a closer Union be <normalised orig="joyned" auto="true">joined</normalised>,<lb/>
+Now that her Soul was drawing towards Heaven,<lb/>
+having spent all the time of her sickness in Prayer and<lb/>
+Repentance, and heavenly Conferences, of which I<lb/>
+could give a large account, She (as she had done<lb/>
+oft-times before) desired to receive her last <notvariant>Viaticum</notvariant>
+                  <lb/>
+that heavenly food, which might (as it did)<lb/>
+strengthen her Spirit in it's last conflict with Death,<lb/>
+and in it's long journey to eternity, or everlasting<lb/>
+life; I mean that which is a Sacrament,<lb/>
+as of a thankful Commemoration of Christ crucified,<lb/>
+so of a blessed Confirmation, for that it confirms<lb/>
+our Faith that Christ is, and will be in all<lb/>
+respects to our Souls (I had rather say to our<lb/>
+Persons) what the Bread and Wine is to our<lb/>
+Bodies.<lb/>
+Had you been then present and seen with what<lb/>
+flaming devotion, with what burning affection, and<lb/>
+lowly Reverence upon her Knees (when she could<lb/>
+hardly stand upon her feeble legs) she received that<lb/>
+heavenly Food that <notvariant>NoValue</notvariant> (as <notvariant>Ign</notvariant>. calls it)<lb/>
+which <normalised orig="Physicks" auto="true">Physics</normalised> the Soul for Eternity, the seal of her<lb/>
+pardon, and token of her Communion with Christ;<lb/>
+had you then beheld her devout deportment, and<lb/>
+heard the Divine expressions, which <normalised orig="immediatly" auto="true">immediately</normalised> fell<lb/>
+from her gracious lips, you would hence have concluded<lb/>
+that she was a rare Saint - - Having thus got a<lb/>
+firmer hold of Christ by Faith in the Merits of his<lb/>
+Death and Passion, and grasping her Saviour in the<lb/>
+Arms of Her Love and Thankfulness, She ever after<lb/>
+                  <pb n="14"/>
+                  <lb/>
+<normalised orig="chaunted" auto="true">chanted</normalised> out old <notvariant>Simeons</notvariant> Song, Luke 2.29. <quote type="biblical" ana="Lk 2.29">
+                     <lb/>
+                     <notvariant>Domine</notvariant><lb/>
+<notvariant>nunc</notvariant> <notvariant>dimittis</notvariant>, &amp;c. Lord now <normalised orig="lettest" auto="false">let</normalised> thou thy<lb/>
+servant depart in peace.</quote> She (as St. Augustine says<lb/>
+of Faith) tore of Death's grim <notvariant>Vizard</notvariant>, and beheld<lb/>
+under it a comely smiling face; so as, whiles unto<lb/>
+the enemies of God (those that are not <normalised orig="reconcil'd" auto="true">reconciled</normalised><lb/>
+unto him by Faith in Christ and the amendment of<lb/>
+their lives) it is no other than a terrible executioner<lb/>
+of Divine Vengeance, it seemed to her an<lb/>
+<normalised orig="Herauld" auto="true">Herald</normalised> of Peace, a messenger of Joy, a plausible<lb/>
+and sure Convoy unto Blessedness. For this<lb/>
+cause, or upon these considerations she longed after<lb/>
+her <notvariant>NoValue</notvariant> her dissolution, even as the weary<lb/>
+Traveller after he <normalised orig="hath" auto="false">has</normalised> measured many tedious miles<lb/>
+(as she had years) and passed many dangers both<lb/>
+by Sea and Land, and felt the harsh entertainments<lb/>
+of a stranger, <normalised orig="rejoyces" auto="true">rejoices</normalised> to draw near in his<lb/>
+return to a pleasant and Rich habitation. Thus<lb/>
+she desired earnestly to be released from Her Prison,<lb/>
+(the body is such and no more to the Soul)<lb/>
+She often wished to be dissolved, and to be admitted<lb/>
+into a nearer familiarity or Communion<lb/>
+with Christ: a few days after the Lord in Mercy<lb/>
+made her partaker of her holy wish and desire,<lb/>
+gave her an happy Release by Death, and Grace<lb/>
+to utter these last words of the <notvariant>Protomartyr</notvariant> Saint<lb/>
+Stephen, Act. 7.59. <quote type="biblical" ana="Acts 7.59">Lord Jesus receive my Spirit</quote>;<lb/>
+and when she had said this she (after ninety<lb/>
+years current spent in God's service) fell asleep.<lb/>
+Death was no more to this Illustrious <normalised orig="Dutchess" auto="true">Duchess</normalised><lb/>
+then a sleep. Her body after many vexatious Toils,<lb/>
+Troubles, and Disquiets in this World shall sleep<lb/>
+                  <pb n="15"/>
+                  <lb/>
+or rest for a while in it's <notvariant>NoValue</notvariant>, it's Dormitory the<lb/>
+Grave. But her soul is now awake in <choice ana="illegible">
+                     <sic><normalised orig="Hea" auto="true">Hey</normalised>*en</sic>
+                     <corr>Heaven</corr>
+                  </choice>, wearing<lb/>
+the Crown of Perseverance, and singing with the triumphant<lb/>
+Chorus of Angels and Saints glorified a joyful<lb/>
+Song to the Lamb Christ Jesus sitting upon a<lb/>
+golden glorious Throne; who will at the great<lb/>
+day raise up her body from it's long sleep by virtue<lb/>
+of that Spirit which <normalised orig="rais'd" auto="true">raised</normalised> him from the dead (<notvariant>Rom</notvariant>.<lb/>
+8. 11.) and dwelt by a full measure of Grace in the<lb/>
+Soul of our deceased Saint, who <quote type="biblical" ana="Heb 11.4">being dead yet <normalised orig="speaketh" auto="true">speaks</normalised></quote>
+                  <lb/>
+(as the Apostle attests of righteous Abel, <notvariant>Heb</notvariant>. 11.4.)<lb/>
+and methinks bespeaks as now on Earth her <normalised orig="survivers" auto="false">survivors</normalised>,<lb/>
+from Heaven, in the words of St. Paul. Let your <quote type="biblical" ana="Phil 3.20">conversation<lb/>
+be</quote>, as mine was, <quote type="biblical" ana="Phil 3.20">in Heaven</quote>, where I <normalised orig="raign" auto="true">reign</normalised><lb/>
+now in the Embraces and Glories of my Saviour: and,<lb/>
+                  <quote type="biblical" ana="1 Cor 11.1">Be <normalised orig="ye" auto="false">you</normalised> followers of me as I was of the Lord Jesus</quote>, in<lb/>
+Faith and Love, in Humility, Meekness, Piety and Patience,<lb/>
+and suppose too that she bespeaks you all in the<lb/>
+words of <notvariant>Gideon</notvariant> to his <normalised orig="Souldiers" auto="true">Soldiers</normalised>, and of <notvariant>Abimeleck</notvariant><lb/>
+to his. <normalised orig="Judg" auto="true">Judge</normalised>. 7.17. chap. 9.48. <quote type="biblical" ana="Judg 7.17">Look on me and do<lb/>
+likewise, what <normalised orig="ye" auto="false">you</normalised> have seen me do</quote> [and shall hear I<lb/>
+have done] <quote type="biblical" ana="Judg 7.17">even so do <normalised orig="ye" auto="false">you</normalised></quote>, according to your abilities,<lb/>
+and several capacities;<lb/>
+Clothe the backs of the poor, and feed the hungry<lb/>
+"bellies; adorn God's Houses, and contribute to the Rebuilding<lb/>
+of <normalised orig="decaied" auto="true">decayed</normalised>, and, by war and fire, wasted<lb/>
+Churches; endow poor <notvariant>Vicaradges</notvariant> with Annual Accessions<lb/>
+or Augmentations of large Salaries; relieve<lb/>
+poor Widows in Hospitals by yearly Pensions; give<lb/>
+good and competent <normalised orig="Summes" auto="true">Sums</normalised> for the redemption of<lb/>
+Christian Captives now <normalised orig="chain'd" auto="true">chained</normalised> up to slavery in the<lb/>
+hands, or under the power, of Infidels; and for placing<lb/>
+out of poor Children or Orphans yearly to be Apprentices,<lb/>
+                  <pb n="16"/>
+                  <lb/>
+Honour your Ministers who are set over you in<lb/>
+the Lord, <quote type="biblical" ana="1 Tim 5.17">especially those who labour, in the Word,</quote>
+                  <lb/>
+1 Tim. 5.17. i.e. take great pains to dispense the<lb/>
+lively Oracles of it, and administer frequently the<lb/>
+holy Sacraments for the edifying and saving of your<lb/>
+Souls; give what is due unto them, and take nothing<lb/>
+by fraud or violence from them, and, if they want an<lb/>
+house to dwell in, provide one for them;" All that has<lb/>
+been said the Illustrious <normalised orig="Dutchess" auto="true">Duchess</normalised> did, and gave to<lb/>
+God the Glory of it, who afforded Her, by his blessing,<lb/>
+that good and plentiful seed which she liberally<lb/>
+sowed and <normalised orig="scatter'd" auto="true">scattered</normalised> in the fields of the poor, and<lb/>
+<normalised orig="hath" auto="false">has</normalised> sprung in a rich and large crop of blessings which<lb/>
+she now enjoys with God in the <normalised orig="Cœlestial" auto="false">celestial</normalised> Paradise.<lb/>
+                  <notvariant>Pauperum</notvariant> <notvariant>fundus</notvariant> est <notvariant>fæcundissimus</notvariant>;
+                  <lb/>
+                  <quote type="biblical" ana="Prov 13.23">The poor man's<lb/>
+field affords the largest Crop.</quote> And though all cannot<lb/>
+keep an even pace, or go along with her in her<lb/>
+Bounty and Magnificence, yet follow her (though at<lb/>
+a distance) by conforming your lives and actions to<lb/>
+her Charity, and goodness. Thus if you do (as her<lb/>
+good deeds in a manner exhort you) and declare the<lb/>
+Sincerity or Truth of your Faith by your goods works,<lb/>
+Imitating Christ the King of Saints, and this deceased<lb/>
+<normalised orig="Dutchess" auto="true">Duchess</normalised> a Queen among her Sex for her rare exemplary<lb/>
+Virtues and Graces, you shall be for ever blessed,<lb/>
+as She is, and <normalised orig="Crown'd" auto="true">Crowned</normalised> with Everlasting Glory, and<lb/>
+Happiness.<lb/>
+                  <lb/>
+                  <notvariant>Trin-uni</notvariant> <notvariant>Deo</notvariant> <notvariant>Laus</notvariant>, <normalised orig="honor" auto="true">honour</normalised>, &amp; Gloria, &amp;c.
+                  <lb/>
+                  <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

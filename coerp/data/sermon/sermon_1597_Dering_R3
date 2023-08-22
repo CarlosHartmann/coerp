@@ -1,0 +1,673 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermon at the Tower of London</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="EdDe1540"><notvariant>Dering</notvariant>, Edward</author>
+               <title type="main">
+A Sermon preached at the Tower of London, by M. Edward <notvariant>Dering</notvariant>, the 11. of December. 1569.
+</title>
+               <title type="short">Sermon at the Tower of London</title>
+               <date when="1569">1569</date>
+               <date type="this_edition" when="1597">1597</date>
+               <idno type="STC">6677</idno>
+               <note type="genre" subtype="sermon">sermon</note>
+               <note type="sample" target="#EdDe1540_1597_sermon_1">p.30, l.1 – p.45, l.26</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="contains" subtype="page">fol. + Arabic numbers</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="comments_references">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="EdDe1540_1597_sermon_1">
+            <div>
+               <head>A Sermon preached at the Tower of<lb/>
+London, by M. Edward <notvariant>Dering</notvariant>, the 11. of<lb/>
+December. 1569.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+<normalised orig="IOHN" auto="true">JOHN</normalised>. 6.34.<lb/>
+                  <quote type="biblical" ana="Jn 6.34-35">Then they <normalised orig="sayd" auto="true">said</normalised> <normalised orig="vnto" auto="true">unto</normalised> him. Lord, <normalised orig="giue" auto="true">give</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="euermore" auto="true">evermore</normalised> of this bread.<lb/>
+And <normalised orig="Iesus" auto="true">Jesus</normalised> said <normalised orig="vnto" auto="true">unto</normalised> them. I am the bread of life: <normalised orig="Hee" auto="true">He</normalised> that <normalised orig="commeth" auto="true">comes</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised> me shall not hunger: and he that <normalised orig="beleeueth" auto="true">believes</normalised> in me, shall<lb/>
+<normalised orig="neuer" auto="true">never</normalised> thirst.</quote>
+                  <lb/>
+                  <lb/>
+WE <normalised orig="haue" auto="true">have</normalised> (<normalised orig="deerely" auto="true">dearly</normalised> <normalised orig="beloued" auto="true">beloved</normalised> in our <normalised orig="Lorde" auto="true">Lord</normalised> and<lb/>
+<normalised orig="Sauiour" auto="true">Saviour</normalised> Christ) we <normalised orig="haue" auto="true">have</normalised> in this portion of<lb/>
+Scripture to consider; First, this <normalised orig="peticion" auto="true">petition</normalised><lb/>
+or request which the <normalised orig="Iewes" auto="true">Jews</normalised> make <normalised orig="vnto" auto="true">unto</normalised><lb/>
+our <normalised orig="Sauiour" auto="true">Saviour</normalised> Christ in these <normalised orig="wordes" auto="true">words</normalised>: <quote type="biblical" ana="Jn 6.34"><normalised orig="Lorde" auto="true">Lord</normalised><lb/>
+<normalised orig="giue" auto="true">give</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="euermore" auto="true">evermore</normalised> of this bread.</quote> Then the <normalised orig="aunswer" auto="true">answer</normalised> that our<lb/>
+<normalised orig="Sauiour" auto="true">Saviour</normalised> Christ <normalised orig="maketh" auto="true">makes</normalised> <normalised orig="againe" auto="true">again</normalised>; <quote type="biblical" ana="Jn 6.35">I am the bread of life</quote>, &amp;c.<lb/>
+<normalised orig="Theyr" auto="true">Their</normalised> request <normalised orig="riseth" auto="true">rises</normalised> of <normalised orig="certaine" auto="true">certain</normalised> words, spoken <normalised orig="immediatly" auto="true">immediately</normalised><lb/>
+before, where Christ <normalised orig="sayth" auto="true">saith</normalised>; <quote type="biblical" ana="Jn 6.32-33">My Father <normalised orig="giueth" auto="true">gives</normalised> <normalised orig="vnto" auto="true">unto</normalised><lb/>
+you from <normalised orig="heauen" auto="true">heaven</normalised> the true bread. For the bread of God is he that<lb/>
+<normalised orig="commeth" auto="true">comes</normalised> <normalised orig="downe" auto="true">down</normalised> from <normalised orig="heauen" auto="true">heaven</normalised>, and <normalised orig="giueth" auto="true">gives</normalised> life <normalised orig="vnto" auto="true">unto</normalised> the world.</quote>
+                  <lb/>
+Through which words they brake out straight into <normalised orig="thys" auto="true">this</normalised><lb/>
+prayer: <quote type="biblical" ana="Jn 6.34">O Lord <normalised orig="giue" auto="true">give</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="alwayes" auto="true">always</normalised> this bread.</quote> These <normalised orig="wordes" auto="true">words</normalised><lb/>
+they do not <normalised orig="vtter" auto="true">utter</normalised> with any good affection or longing desires<lb/>
+to be <normalised orig="pertakers" auto="false">partakers</normalised> of the mercies, which are offered <normalised orig="vnto" auto="true">unto</normalised><lb/>
+all in Christ <normalised orig="Iesu" auto="true">Jesus</normalised>; but rather of a distempered <normalised orig="minde" auto="true">mind</normalised>,<lb/>
+<normalised orig="drawne" auto="true">drawn</normalised> into <normalised orig="contrarie" auto="true">contrary</normalised> desires, seeking by all <normalised orig="meanes" auto="true">means</normalised> to<lb/>
+fill <normalised orig="themselues" auto="true">themselves</normalised> with <normalised orig="happines" auto="true">happiness</normalised>, and yet to <normalised orig="iest" auto="true">jest</normalised> and <normalised orig="scoffe" auto="true">scoff</normalised> at<lb/>
+the doctrine of Christ.<lb/>
+                  <pb n="2"/>
+                  <lb/>
+The thoughts of their minds are made manifest, both<lb/>
+by these words of Christ: <quote type="biblical" ana="Jn 6.26"><normalised orig="Ye" auto="true">You</normalised> <normalised orig="seeke" auto="true">seek</normalised> <normalised orig="mee" auto="true">me</normalised> because you <normalised orig="eate" auto="true">eat</normalised> of<lb/>
+the <normalised orig="loues" auto="true">loves</normalised> &amp; were filled</quote>: and also by their own words to the<lb/>
+same effect, where they say, <quote type="biblical" ana="Jn 6.31">Our Fathers did <normalised orig="eate" auto="true">eat</normalised> Manna<lb/>
+in the <normalised orig="wildernesse" auto="true">wilderness</normalised></quote>. Likewise requiring that Christ <normalised orig="woulde" auto="true">would</normalised><lb/>
+so feed them still by miracle, and then they would follow<lb/>
+him. And <normalised orig="afterward" auto="true">afterwards</normalised> also, when Christ had further taught<lb/>
+them, that he would in no such sort feed them daintily on<lb/>
+earth, but if they would <normalised orig="eate" auto="true">eat</normalised> of the bread that he <normalised orig="woulde" auto="true">would</normalised><lb/>
+<normalised orig="giue" auto="true">give</normalised>, they must renounce such fleshly <normalised orig="co~cupiscence" auto="true">concupiscence</normalised>, <normalised orig="crucifie" auto="true">crucify</normalised><lb/>
+<normalised orig="themselues" auto="true">themselves</normalised> <normalised orig="vnto" auto="true">unto</normalised> the world, &amp; be with a <normalised orig="liuely" auto="true">lively</normalised> <normalised orig="fayth" auto="true">faith</normalised><lb/>
+incorporate into his body, then they <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="eate" auto="true">eat</normalised> of <normalised orig="lyuing" auto="true">living</normalised><lb/>
+bread: as <normalised orig="soone" auto="true">soon</normalised> as they <normalised orig="hearde" auto="true">heard</normalised> this, they murmured<lb/>
+at him, <normalised orig="shewing" auto="true">showing</normalised> that he was not the bread that they <normalised orig="dyd" auto="true">did</normalised><lb/>
+<normalised orig="seeke" auto="true">seek</normalised> for, and then declared what was <normalised orig="theyr" auto="true">their</normalised> scoffing spirit,<lb/>
+and <normalised orig="saide" auto="true">said</normalised> openly: <quote type="biblical" ana="Jn 6.42">Is not this <normalised orig="Iesus" auto="true">Jesus</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Ioseph" auto="true">Joseph</normalised>,<lb/>
+whose father and mother we know? how came <normalised orig="hee" auto="true">he</normalised> <normalised orig="downe" auto="true">down</normalised> from<lb/>
+<normalised orig="heauen" auto="true">heaven</normalised>?</quote> Thus <normalised orig="deerly" auto="true">dearly</normalised> <normalised orig="beloued" auto="true">beloved</normalised>, we learn what minds these<lb/>
+men had that would so <normalised orig="faine" auto="true">fain</normalised> <normalised orig="haue" auto="true">have</normalised> <normalised orig="bin" auto="true">been</normalised> fed with the bread<lb/>
+of life. They would <normalised orig="liue" auto="true">live</normalised> for <normalised orig="euer" auto="true">ever</normalised>, but they would <normalised orig="liue" auto="true">live</normalised> as<lb/>
+they lift. They would follow Christ, but they would neither<lb/>
+hunger nor thirst. They would <normalised orig="doe" auto="true">do</normalised> the <normalised orig="wil" auto="true">will</normalised> of God,<lb/>
+but they would not <normalised orig="crucifie" auto="true">crucify</normalised> their affections. They <normalised orig="wold" auto="true">would</normalised><lb/>
+come <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="heauen" auto="true">heaven</normalised>, but they would not be <normalised orig="ledde" auto="true">led</normalised> by <normalised orig="Iesus" auto="true">Jesus</normalised><lb/>
+the <normalised orig="poore" auto="true">poor</normalised> Carpenters <normalised orig="sonne" auto="true">son</normalised>. Their <normalised orig="carnall" auto="true">carnal</normalised> fancies beguiled<lb/>
+<normalised orig="the~" auto="true">them</normalised>. Their scoffing at <normalised orig="Iesus" auto="true">Jesus</normalised> made their harts so blind:<lb/>
+and their desire of <normalised orig="happines" auto="true">happiness</normalised> was nothing but the <normalised orig="shew" auto="true">show</normalised> of<lb/>
+their <normalised orig="owne" auto="true">own</normalised> folly. <normalised orig="Nowe" auto="true">Now</normalised> let <normalised orig="vs" auto="true">us</normalised> beware by other <normalised orig="mens" auto="true">men's</normalised><lb/>
+<normalised orig="harmes" auto="true">harms</normalised>. Let <normalised orig="vs" auto="true">us</normalised> not fall after the same example of disobedience.<lb/>
+If we bring our <normalised orig="carnall" auto="true">carnal</normalised> fancies to the word of<lb/>
+GOD, wee shall <normalised orig="neuer" auto="true">never</normalised> <normalised orig="vnderstand" auto="true">understand</normalised> it. The <normalised orig="naturall" auto="true">natural</normalised> man<lb/>
+<normalised orig="perceiueth" auto="true">perceives</normalised> not the things that are of God. Such <normalised orig="grosse" auto="true">gross</normalised><lb/>
+imaginations <normalised orig="deceiued" auto="true">deceived</normalised> Nicodemus, that <normalised orig="hee" auto="true">he</normalised> <normalised orig="vnderstood" auto="true">understood</normalised><lb/>
+                  <pb n="3"/>
+                  <lb/>
+not what it was to be borne a <normalised orig="newe" auto="true">new</normalised>. Such fancies made<lb/>
+blind the woman of Samaria, that she knew not how to<lb/>
+<normalised orig="aske" auto="true">ask</normalised> for the water of life. Such carnal imaginations made<lb/>
+the <normalised orig="chyldren" auto="true">children</normalised> of Zebedy to <normalised orig="aske" auto="true">ask</normalised> of our <normalised orig="Sauior" auto="true">Saviour</normalised> Christ, they<lb/>
+knew not what. Yea all the Disciples of our <normalised orig="Sauiour" auto="true">Saviour</normalised><lb/>
+Christ, by such fleshly desires oftentimes <normalised orig="vnderstood" auto="true">understood</normalised> him<lb/>
+not. And how much more ought wee to take <normalised orig="heede" auto="true">heed</normalised> that<lb/>
+<normalised orig="haue" auto="true">have</normalised> so barren harts, not watered so plentifully with the<lb/>
+spirit of God? Whether shall we be led, if we bring <normalised orig="vnto" auto="true">unto</normalised><lb/>
+Gods word our <normalised orig="sensuall" auto="true">sensual</normalised> appetites? Sure <normalised orig="euen" auto="true">even</normalised> <normalised orig="thether" auto="true">thither</normalised>,<lb/>
+whether these <normalised orig="Iewes" auto="true">Jews</normalised> are gone before <normalised orig="vs" auto="true">us</normalised>, to <normalised orig="murmure" auto="true">murmur</normalised> against<lb/>
+Christ, &amp; despise his <normalised orig="Crosse" auto="true">Cross</normalised>. Let <normalised orig="vs" auto="true">us</normalised> then take heed<lb/>
+while it is yet time, and in obedience of Gods <normalised orig="worde" auto="true">word</normalised> banish<lb/>
+<normalised orig="farre" auto="true">far</normalised> from <normalised orig="vs" auto="true">us</normalised> our <normalised orig="owne" auto="true">own</normalised> <normalised orig="vnderstanding" auto="true">understanding</normalised>, and if we <normalised orig="wil" auto="true">will</normalised><lb/>
+be taught of the <normalised orig="Lorde" auto="true">Lord</normalised>, let <normalised orig="vs" auto="true">us</normalised> <normalised orig="leade" auto="true">lead</normalised> into <normalised orig="captiuity" auto="true">captivity</normalised> all our<lb/>
+<normalised orig="owne" auto="true">own</normalised> cogitations, and <normalised orig="seeke" auto="true">seek</normalised> no better estate for the gospel<lb/>
+of God, then <normalised orig="hee" auto="true">he</normalised> <normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="hath" auto="true">has</normalised> appointed by his holy<lb/>
+<normalised orig="wisedome" auto="true">wisdom</normalised>. Otherwise, it will surely come <normalised orig="vpon" auto="true">upon</normalised> <normalised orig="vs" auto="true">us</normalised>, that<lb/>
+came so long <normalised orig="agone" auto="true">agony</normalised> <normalised orig="vpon" auto="true">upon</normalised> these <normalised orig="carnall" auto="true">carnal</normalised> <normalised orig="Iewes" auto="true">Jews</normalised>, &amp; we shall<lb/>
+<normalised orig="haue" auto="true">have</normalised> so good <normalised orig="lyking" auto="true">liking</normalised> of our <normalised orig="owne" auto="true">own</normalised> delight, that wee shall<lb/>
+<normalised orig="contemne" auto="true">contemn</normalised> the <normalised orig="poore" auto="true">poor</normalised> <notvariant>Galilean</notvariant>, and with a proud <normalised orig="countenaunce" auto="true">countenance</normalised><lb/>
+we <normalised orig="shal" auto="true">shall</normalised> <normalised orig="thinke" auto="true">think</normalised> much <normalised orig="scorne" auto="true">scorn</normalised>, that the Carpenters<lb/>
+son should be our <normalised orig="Maister" auto="true">Master</normalised>. <normalised orig="Thys" auto="true">This</normalised> is the <normalised orig="fruite" auto="true">fruit</normalised> that <normalised orig="groweth" auto="true">grows</normalised><lb/>
+out of mans <normalised orig="wisedome" auto="true">wisdom</normalised>. Here it is <normalised orig="plainely" auto="true">plainly</normalised> testified in<lb/>
+<normalised orig="thys" auto="true">this</normalised> <normalised orig="sixt" auto="true">sixth</normalised> of <normalised orig="Iohn" auto="true">John</normalised>. It is testified in the Scribes and <normalised orig="Pharises" auto="true">Pharisees</normalised>,<lb/>
+that so often scoffed at our <normalised orig="Sauiour" auto="true">Saviour</normalised> Christ; in the soldiers<lb/>
+that <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="Crosse" auto="true">Cross</normalised> had him in such derision: in<lb/>
+the whole multitude of the <normalised orig="Iewes" auto="true">Jews</normalised> that <normalised orig="strooke" auto="true">struck</normalised> <normalised orig="hym" auto="true">him</normalised> and<lb/>
+spit on him, and <normalised orig="bad" auto="true">bade</normalised> him aread who had hurt him. Thus<lb/>
+after that by <normalised orig="carnall" auto="true">carnal</normalised> reason they would <normalised orig="needes" auto="true">needs</normalised> <normalised orig="iudge" auto="true">judge</normalised> of<lb/>
+Christ, they grew more and more in <normalised orig="hardnes" auto="true">hardness</normalised> of <normalised orig="hart" auto="true">heart</normalised>, <normalised orig="tyll" auto="true">till</normalised><lb/>
+they thought it good <normalised orig="wisedome" auto="true">wisdom</normalised> to <normalised orig="speake" auto="true">speak</normalised> so great <normalised orig="blasphemie" auto="true">blasphemy</normalised>.<lb/>
+Such <normalised orig="Gospellers" auto="true">Gospelers</normalised> there were many in the <normalised orig="Primitiue" auto="true">Primitive</normalised><lb/>
+                  <fw type="pageNum" n="33">32</fw>
+                  <pb n="4"/>
+                  <lb/>
+Church, that thought <normalised orig="themselues" auto="true">themselves</normalised> wise in making<lb/>
+a <normalised orig="iest" auto="true">jest</normalised> of Christ. So Iulianus the <normalised orig="Apostata" auto="true">Apostate</normalised>, <normalised orig="whe~" auto="true">when</normalised> the christians<lb/>
+asked help against all their <normalised orig="iniuries" auto="true">injuries</normalised>, with mocks<lb/>
+and <normalised orig="scoffes" auto="true">scoffs</normalised> he would <normalised orig="aske" auto="true">ask</normalised> why they did <normalised orig="co~plaine" auto="false">complain</normalised>, when<lb/>
+the <notvariant>Galilean</notvariant> <normalised orig="theyr" auto="true">their</normalised> <normalised orig="maister" auto="true">master</normalised> <normalised orig="bad" auto="true">bade</normalised> them <normalised orig="doe" auto="true">do</normalised> good for <normalised orig="euill" auto="true">evil</normalised>:<lb/>
+if any <normalised orig="woulde" auto="true">would</normalised> take away <normalised orig="theyr" auto="true">their</normalised> <normalised orig="coate" auto="true">coat</normalised>, that then they<lb/>
+should <normalised orig="giue" auto="true">give</normalised> him also their cloak. So many wicked Magistrates<lb/>
+<normalised orig="spoyled" auto="true">spoiled</normalised> the Christians of their <normalised orig="mony" auto="true">money</normalised>, &amp; would<lb/>
+taunt them merrily with the saying of their God: Quod<lb/>
+Cæsaris scis, Cæsari da, <normalised orig="Giue" auto="true">Give</normalised> that <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Cæsar" auto="true">Caesar</normalised>, that thou<lb/>
+<normalised orig="knowest" auto="true">know</normalised> is Cæsars.<lb/>
+Such <normalised orig="Gospellers" auto="true">Gospelers</normalised> at this day wee <normalised orig="haue" auto="true">have</normalised> a great <normalised orig="manie" auto="true">many</normalised><lb/>
+in England, that laugh smoothly in their <normalised orig="sleeues" auto="true">sleeves</normalised>, at their<lb/>
+<normalised orig="madnesse" auto="true">madness</normalised> (as they <normalised orig="thinke" auto="true">think</normalised>) that <normalised orig="followe" auto="true">follow</normalised> so earnestly the<lb/>
+<normalised orig="Gospell" auto="true">Gospel</normalised>. So Saint Peter <normalised orig="hath" auto="true">has</normalised> borne <normalised orig="witnes" auto="true">witness</normalised> generally of<lb/>
+the wicked of all ages, that they shall <normalised orig="thinke" auto="true">think</normalised> it much<lb/>
+<normalised orig="madnes" auto="true">madness</normalised>, that other will not <normalised orig="runne" auto="true">run</normalised> to like effusion of<lb/>
+riot: but let them alone, that <normalised orig="seeke" auto="true">seek</normalised> willingly to <normalised orig="goe" auto="true">go</normalised> so<lb/>
+<normalised orig="farre" auto="true">far</normalised> astray. This is the <normalised orig="tyme" auto="true">time</normalised> of their <normalised orig="reioycing" auto="true">rejoicing</normalised>. The<lb/>
+<normalised orig="dayes" auto="true">days</normalised> of repentance are not yet come. <normalised orig="Whe~" auto="true">When</normalised> they <normalised orig="haue" auto="true">have</normalised><lb/>
+done with their mocking, <normalised orig="themselues" auto="true">themselves</normalised> <normalised orig="shal" auto="true">shall</normalised> be then mocked<lb/>
+at, and for all their pleasant sporting, they shall <normalised orig="bee" auto="true">be</normalised><lb/>
+called to <normalised orig="iudgement" auto="true">judgment</normalised>. Another thing I noted <normalised orig="vnto" auto="true">unto</normalised> you<lb/>
+in the <normalised orig="peticion" auto="true">petition</normalised> of these <normalised orig="Iewes" auto="true">Jews</normalised>, and that was a desire of<lb/>
+<normalised orig="happines" auto="true">happiness</normalised>, which they wished to come <normalised orig="vnto" auto="true">unto</normalised>: And in the<lb/>
+<normalised orig="middest" auto="true">midst</normalised> of their malice, yet an inward sighing of <normalised orig="spyrit" auto="true">spirit</normalised>,<lb/>
+that they might once <normalised orig="eate" auto="true">eat</normalised> of the bread of life. They<lb/>
+pleased <normalised orig="themselues" auto="true">themselves</normalised> exceedingly in fighting against our<lb/>
+<normalised orig="sauiour" auto="true">saviour</normalised> Christ, and yet <normalised orig="againe" auto="true">again</normalised> in remorse of conscience,<lb/>
+they wished to be <normalised orig="pertakers" auto="false">partakers</normalised> of <normalised orig="euerlasting" auto="true">everlasting</normalised> life. And this<lb/>
+is that sparkling of the grace of God, which is kindled<lb/>
+in the harts of all men, of which Saint <normalised orig="Iohn" auto="true">John</normalised> saith: <quote type="biblical" ana="Jn 1.9">That<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="34">C</fw>
+                     <pb n="5"/>
+                     <lb/>
+Christ <normalised orig="lightneth" auto="true">lightened</normalised> all men that come into this world.</quote> Caine<lb/>
+had this light, when the burden of his <normalised orig="sinne" auto="true">sin</normalised> seemed so<lb/>
+<normalised orig="heauie" auto="true">heavy</normalised> <normalised orig="vnto" auto="true">unto</normalised> him that it could not <normalised orig="bee" auto="true">be</normalised> pardoned. Esau<lb/>
+had this light, when for <normalised orig="losse" auto="true">loss</normalised> of his fathers blessing, <normalised orig="hee" auto="true">he</normalised><lb/>
+lifted <normalised orig="vp" auto="true">up</normalised> his <normalised orig="voyce" auto="true">voice</normalised> and wept. <normalised orig="Pharao" auto="true">Pharaoh</normalised> had this light, <normalised orig="whe~" auto="true">when</normalised><lb/>
+in <normalised orig="remembraunce" auto="true">remembrance</normalised> of all his plagues, he <normalised orig="cryed" auto="true">cried</normalised> at the last;<lb/>
+                  <quote type="biblical" ana="Ex 9.27">The Lord is righteous, but I and my people are wicked.</quote> The<lb/>
+Sorcerers <choice ana="illegible">
+                     <sic>o*</sic>
+                     <corr>of</corr>
+                  </choice> <normalised orig="Egipt" auto="true">Egypt</normalised> had this light, when God confounded<lb/>
+their <normalised orig="wisedom" auto="true">wisdom</normalised> in a most vile creature, and they confessed<lb/>
+before <normalised orig="Pharao" auto="true">Pharaoh</normalised>: <quote type="biblical" ana="Ex 8.19">This is the finger of God.</quote> Pilate had<lb/>
+this light, when he washed his hands and <normalised orig="cryed" auto="true">cried</normalised> before<lb/>
+all the <normalised orig="Iewes" auto="true">Jews</normalised>: That he was innocent <normalised orig="fro~" auto="true">from</normalised> the blood of Christ.<lb/>
+Simon Magus had this light, when he <normalised orig="wondred" auto="true">wondered</normalised> at the<lb/>
+<normalised orig="signes" auto="true">signs</normalised> and miracles that were wrought by the Apostles,<lb/>
+and would <normalised orig="haue" auto="true">have</normalised> <normalised orig="giuen" auto="true">given</normalised> money for the holy Ghost. The<lb/>
+Gentiles <normalised orig="themselues" auto="true">themselves</normalised> they had all this light. Antiochus,<lb/>
+when he wept for all the <normalised orig="euill" auto="true">evil</normalised> that <normalised orig="hee" auto="true">he</normalised> had done at <normalised orig="Ierusalem" auto="true">Jerusalem</normalised>.<lb/>
+Iulianus when he <normalised orig="cryed" auto="true">cried</normalised>, Vicisti Galilæe. O <choice ana="print-error">
+                     <sic>man man</sic>
+                     <corr>man</corr>
+                  </choice>
+                  <lb/>
+of Galile, thou <normalised orig="hast" auto="true">have</normalised> gotten the <normalised orig="victorie" auto="true">victory</normalised>. Adrian at<lb/>
+his death, when he <normalised orig="spake" auto="true">spoke</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="himselfe" auto="true">himself</normalised>. <lb/>
+                  Animula <choice ana="illegible">
+                        <sic>vag*la</sic>
+                        <corr>vagula</corr>
+                     </choice>,<lb/>
+blandula, hospes comesque corporis, quæ nunc abibis in loca,<lb/>
+nec vt soles dabis iocos, palidula, regida, nudula?
+                  <lb/>
+             Brutus<lb/>
+had this light, when the night before he was <normalised orig="slaine" auto="true">slain</normalised>, he<lb/>
+thought he saw a spirit that <normalised orig="cryed" auto="true">cried</normalised> thus <normalised orig="vnto" auto="true">unto</normalised> him, Ego<lb/>
+<normalised orig="sum" auto="true">some</normalised> tuus malus genius Brute: <normalised orig="hodie" auto="true">body</normalised> me in Phillippis videbis.
+                  <lb/>
+But what need I (<normalised orig="deerely" auto="true">dearly</normalised> <normalised orig="beloued" auto="true">beloved</normalised>) to make this long<lb/>
+by examples? You your <normalised orig="selues" auto="true">selves</normalised> (I am sure) can <normalised orig="witnesse" auto="true">witness</normalised><lb/>
+with this truth. There is none of you so <normalised orig="farre" auto="true">far</normalised> <normalised orig="giuen" auto="true">given</normalised> <normalised orig="ouer" auto="true">over</normalised><lb/>
+to <normalised orig="vncleanesse" auto="true">uncleanness</normalised>, but I am sure some-time you say<lb/>
+with these <normalised orig="vncleane" auto="true">unclean</normalised> <normalised orig="Iewes" auto="true">Jews</normalised>: <quote type="biblical" ana="Jn 6.34">O <normalised orig="Lorde" auto="true">Lord</normalised> <normalised orig="giue" auto="true">give</normalised> <normalised orig="vs" auto="true">us</normalised> one day the<lb/>
+bread of life.</quote>This is the <normalised orig="tryumph" auto="true">triumph</normalised> that <choice ana="illegible">
+                     <sic>ver*e</sic>
+                     <corr><normalised orig="vertue" auto="true">virtue</normalised></corr>
+                  </choice> <normalised orig="hath" auto="true">has</normalised> <normalised orig="ouer" auto="true">over</normalised><lb/>
+                  <pb n="6"/>
+                  <lb/>
+vice, that <normalised orig="wheresoeuer" auto="true">wheresoever</normalised> she is most hated, there <normalised orig="shee" auto="true">she</normalised> is<lb/>
+often wished for. And this is the great punishment that<lb/>
+God <normalised orig="bringeth" auto="true">brings</normalised> <normalised orig="vpon" auto="true">upon</normalised> the wicked, <normalised orig="euen" auto="true">even</normalised> as the Poet <normalised orig="sayd" auto="true">said</normalised>:<lb/>
+                  Virtutem vt videant, in tabescantque relictas. That though<lb/>
+they <normalised orig="loue" auto="true">love</normalised> not <normalised orig="Vertue" auto="true">Virtue</normalised>, nor cannot like to follow her, yet<lb/>
+they should pine away with a longing desire after her.<lb/>
+And this I am sure it <normalised orig="striketh" auto="true">strikes</normalised> <normalised orig="deepe" auto="true">deep</normalised>, and <normalised orig="woundeth" auto="true">wounds</normalised><lb/>
+the conscience of the wicked. Though they <normalised orig="haue" auto="true">have</normalised> set their<lb/>
+<normalised orig="hart" auto="true">heart</normalised> as an Adamant stone, and made <normalised orig="theyr" auto="true">their</normalised> face as hard<lb/>
+as flint, yet grace <normalised orig="pierceth" auto="true">pierces</normalised> throughout their <choice ana="illegible">
+                     <sic>con*upiscence</sic>
+                     <corr>concupiscence</corr>
+                  </choice>,<lb/>
+and they say <normalised orig="somtime" auto="true">sometime</normalised>, the way of <normalised orig="Vertue" auto="true">Virtue</normalised> is better.<lb/>
+There was <normalised orig="neuer" auto="true">never</normalised> so impure and dissolute an adulterer,<lb/>
+but he <normalised orig="hath" auto="true">has</normalised> <normalised orig="sayd" auto="true">said</normalised> sometime, the <normalised orig="chast" auto="true">chaste</normalised> body is best.<lb/>
+There was <normalised orig="neuer" auto="true">never</normalised> so blasphemous &amp; vile a swearer, but<lb/>
+sometime <normalised orig="hee" auto="true">he</normalised> <normalised orig="hath" auto="true">has</normalised> trembled at Gods <normalised orig="Maiestie" auto="true">Majesty</normalised>.<lb/>
+There was <normalised orig="neuer" auto="true">never</normalised> man so <normalised orig="proude" auto="true">proud</normalised> and <normalised orig="ambicious" auto="true">ambitious</normalised>, but <normalised orig="somtime" auto="true">sometime</normalised><lb/>
+he <normalised orig="remembreth" auto="true">remembers</normalised> he is but earth and ashes. There was <normalised orig="neuer" auto="true">never</normalised><lb/>
+such an <normalised orig="vsurer" auto="true">usurer</normalised>, nor <choice ana="illegible">
+                     <sic>co*ous w*etch</sic>
+                     <corr><normalised orig="couetous" auto="true">covetous</normalised> wretch</corr>
+                  </choice>, but sometime<lb/>
+he <normalised orig="thinketh" auto="true">thinks</normalised> his gold and <normalised orig="siluer" auto="true">silver</normalised> shall canker, and the rust<lb/>
+of it shall be a <normalised orig="witnes" auto="true">witness</normalised> against him. There was <normalised orig="neuer" auto="true">never</normalised> so<lb/>
+                  <choice ana="print-error">
+                     <sic>riotousa</sic>
+                     <corr>riotous a</corr>
+                  </choice> person, sumptuous and <normalised orig="prodigall" auto="true">prodigal</normalised>, but <normalised orig="somtime" auto="true">sometime</normalised><lb/>
+he <normalised orig="condemneth" auto="true">condemns</normalised> his <normalised orig="owne" auto="true">own</normalised> doing, &amp; <normalised orig="sayth" auto="true">saith</normalised> with the Prophet:<lb/>
+                  <quote type="psalm" ana="Ps 37.21">The <normalised orig="vnrighteous" auto="true">unrighteous</normalised> man <normalised orig="borroweth" auto="true">borrows</normalised> and <normalised orig="payeth" auto="true">pays</normalised> not <normalised orig="againe" auto="true">again</normalised>.</quote>
+                  <lb/>
+And what should I say more: There was <normalised orig="neuer" auto="true">never</normalised><lb/>
+so high minded nor <normalised orig="vaine-glorious" auto="false">vainglorious</normalised> a King but <normalised orig="hee" auto="true">he</normalised> <choice ana="illegible">
+                     <sic>h*h</sic>
+                     <corr><normalised orig="hath" auto="true">has</normalised></corr>
+                  </choice>
+                  <lb/>
+some-time thought his <normalised orig="Crowne" auto="true">Crown</normalised> <normalised orig="woulde" auto="true">would</normalised> fall from his<lb/>
+head, &amp; the <normalised orig="crowne" auto="true">crown</normalised> of <normalised orig="righteousnes" auto="true">righteousness</normalised> was better, which<lb/>
+was in the <normalised orig="kingdome" auto="true">kingdom</normalised> of <normalised orig="heauen" auto="true">heaven</normalised>. And this <normalised orig="deerely" auto="true">dearly</normalised> <normalised orig="beloued" auto="true">beloved</normalised>,<lb/>
+as it is in a wicked life, so likewise it is in corrupt religion.<lb/>
+Truth that is strongest and <normalised orig="ouercommeth" auto="true">overcomes</normalised> all, in<lb/>
+religion <normalised orig="forceth" auto="true">forces</normalised> the <normalised orig="enemie" auto="true">enemy</normalised> oftentimes to <normalised orig="confesse" auto="true">confess</normalised> her.<lb/>
+There was <normalised orig="neuer" auto="true">never</normalised> Papist that so magnified <normalised orig="merrits" auto="true">merits</normalised> | and<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="36">C2</fw>
+                  <pb n="7"/>
+                  <lb/>
+talked of his works of Supererogation, but oftentimes<lb/>
+in his conscience he would surely <normalised orig="confesse" auto="true">confess</normalised>: That when<lb/>
+he had done all, yet he was <normalised orig="vnprofitable" auto="true">unprofitable</normalised>. There was <normalised orig="neuer" auto="true">never</normalised><lb/>
+any so great an enemy to Faith, but when his conscience<lb/>
+was touched with the <normalised orig="griefe" auto="true">grief</normalised> of <normalised orig="sinne" auto="true">sin</normalised>, he would<lb/>
+<normalised orig="crie" auto="true">cry</normalised> a <normalised orig="loude" auto="true">loud</normalised>: <normalised orig="Fayth" auto="true">Faith</normalised> alone <normalised orig="doth" auto="true">does</normalised> <normalised orig="iustifie" auto="true">justify</normalised>. There was <normalised orig="neuer" auto="true">never</normalised><lb/>
+(I am sure) Papist yet so drunken, that made so<lb/>
+much of all his fleshly worshippings, of <normalised orig="Organes" auto="true">Organs</normalised>, and<lb/>
+singing, of Altars and Altar <normalised orig="cloathes" auto="true">clothes</normalised>, of <normalised orig="Frankensence" auto="true">Frankincense</normalised>,<lb/>
+and sweet smelling <normalised orig="fauours" auto="true">favours</normalised>: of banners and streamers:<lb/>
+of goodly tunes and melody: of <normalised orig="siluer" auto="true">silver</normalised> crosses and <normalised orig="challices" auto="true">chalices</normalised>,<lb/>
+but <normalised orig="hee" auto="true">he</normalised> <normalised orig="hath" auto="true">has</normalised> <normalised orig="sayd" auto="true">said</normalised> sometime: <quote type="biblical" ana="Isa 1.12">Who required these<lb/>
+things at our hands?</quote>
+                  <lb/>
+                  <quote type="biblical" ana="Jn 4.23">The true worshippers <normalised orig="doe" auto="true">do</normalised> worship in<lb/>
+<normalised orig="spirite" auto="true">spirit</normalised> and <normalised orig="veritie" auto="true">verity</normalised>.</quote> There was <normalised orig="neuer" auto="true">never</normalised> Papist in so <normalised orig="deepe" auto="true">deep</normalised><lb/>
+a <normalised orig="sleepe" auto="true">sleep</normalised> of Pardons and <normalised orig="Purgatorie" auto="true">Purgatory</normalised>, but he <normalised orig="hath" auto="true">has</normalised> surely<lb/>
+<normalised orig="sayde" auto="true">said</normalised> it, such <normalised orig="weake" auto="true">weak</normalised> engines can <normalised orig="breake" auto="true">break</normalised> <normalised orig="downe" auto="true">down</normalised> but paper<lb/>
+walls, and such cold water can quench but <normalised orig="paynted" auto="true">painted</normalised><lb/>
+fires. There was <normalised orig="neuer" auto="true">never</normalised> Pope nor <normalised orig="generall" auto="true">general</normalised> <normalised orig="Councell" auto="true">Council</normalised> so<lb/>
+<normalised orig="desperatly" auto="true">desperately</normalised> bent, to set <normalised orig="vp" auto="true">up</normalised> worshipping of Images, but<lb/>
+their <normalised orig="owne" auto="true">own</normalised> hearts <normalised orig="haue" auto="true">have</normalised> often <normalised orig="cryed" auto="true">cried</normalised> within them: <quote type="psalm" ana="Ps 115.5-7">They<lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="mouthes" auto="true">mouths</normalised> and <normalised orig="speake" auto="true">speak</normalised> not, they <normalised orig="haue" auto="true">have</normalised> eyes and see not, they<lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="eares" auto="true">ears</normalised> and <normalised orig="heare" auto="true">hear</normalised> not, they <normalised orig="haue" auto="true">have</normalised> noses and smell not, they<lb/>
+<normalised orig="haue" auto="true">have</normalised> hands and touch not, they <normalised orig="haue" auto="true">have</normalised> <normalised orig="feete" auto="true">feet</normalised> and <normalised orig="walke" auto="true">walk</normalised> not;</quote>
+                  <lb/>
+                  <quote type="biblical" ana="Ex 20.5">Thou shalt not bow <normalised orig="downe" auto="true">down</normalised> to them, nor worship them.</quote> There<lb/>
+was <normalised orig="neuer" auto="true">never</normalised> Papist so blinded with the great absurdity of<lb/>
+Transubstantiation, but sometime seeing the wine in<lb/>
+the <normalised orig="Challice" auto="true">Chalice</normalised>, he <normalised orig="hath" auto="true">has</normalised> <normalised orig="beene" auto="true">been</normalised> <normalised orig="afraide" auto="true">afraid</normalised> to say: by this and<lb/>
+by nothing else, let my <normalised orig="sinnes" auto="true">sins</normalised> be washed, and seeing<lb/>
+the Cake in the Priests hands: thou alone <normalised orig="hast" auto="true">have</normalised> redeemed<lb/>
+me, and alone by thee I <normalised orig="looke" auto="true">look</normalised> to be <normalised orig="saued" auto="true">saved</normalised>. This<lb/>
+doubt <normalised orig="ye" auto="true">you</normalised> not (<normalised orig="dearely" auto="true">dearly</normalised> <normalised orig="beloued" auto="true">beloved</normalised>) is the working of the<lb/>
+Lord, in the harts of all his enemies. Refuse him how<lb/>
+                  <pb n="8"/>
+                  <lb/>
+<normalised orig="ye" auto="true">you</normalised> <normalised orig="wil" auto="true">will</normalised> in life or in religion, you shall carry day and night<lb/>
+a <normalised orig="witnesse" auto="true">witness</normalised> in your breast against your <normalised orig="selues" auto="true">selves</normalised>, and your<lb/>
+harts will <normalised orig="co~demne" auto="true">condemn</normalised> you, that cry <normalised orig="euermore" auto="true">evermore</normalised> against you;<lb/>
+the way <normalised orig="vnto" auto="true">unto</normalised> true <normalised orig="happines" auto="true">happiness</normalised>, is neither by <normalised orig="sinne" auto="true">sin</normalised> nor superstition:<lb/>
+neither by open rebellion, nor yet by accursed<lb/>
+<normalised orig="Idolatrie" auto="true">Idolatry</normalised>. And thus <normalised orig="farre" auto="true">far</normalised> out of this <normalised orig="peticion" auto="true">petition</normalised> of the<lb/>
+<normalised orig="froward" auto="true">foreward</normalised> <normalised orig="Iewes" auto="true">Jews</normalised>, I <normalised orig="haue" auto="true">have</normalised> noted <normalised orig="vnto" auto="true">unto</normalised> you, what I <normalised orig="haue" auto="true">have</normalised><lb/>
+thought best for our common instruction. The Lord<lb/>
+<normalised orig="graunt" auto="true">grant</normalised> <normalised orig="vs" auto="true">us</normalised> that we make the like request, but with a better<lb/>
+spirit, and pray <normalised orig="euer-more" auto="true">ever-more</normalised> <normalised orig="vnto" auto="true">unto</normalised> him; <quote type="biblical" ana="Jn 6.34">O Lord <normalised orig="giue" auto="true">give</normalised> <normalised orig="vs" auto="true">us</normalised><lb/>
+<normalised orig="alwayes" auto="true">always</normalised> the bread of life.</quote>
+                  <lb/>
+Now let <normalised orig="vs" auto="true">us</normalised> consider the other part which (I <normalised orig="sayd" auto="true">said</normalised>) is<lb/>
+the <normalised orig="aunswer" auto="true">answer</normalised> of our <normalised orig="sauiour" auto="true">saviour</normalised> Christ, in these words; <quote type="biblical" ana="Jn 6.35">I am<lb/>
+the bread of life, he that <normalised orig="commeth" auto="true">comes</normalised> <normalised orig="vnto" auto="true">unto</normalised> me shall <normalised orig="neuer" auto="true">never</normalised> hunger,<lb/>
+and he that <normalised orig="belieueth" auto="false">believes</normalised> in me shall <normalised orig="neuer" auto="true">never</normalised> thirst.</quote> Out<lb/>
+of this place (<normalised orig="deerely" auto="true">dearly</normalised> <normalised orig="beloued" auto="true">beloved</normalised>) I will note <normalised orig="vnto" auto="true">unto</normalised> you, as<lb/>
+the text <normalised orig="giueth" auto="true">gives</normalised> <normalised orig="mee" auto="true">me</normalised> occasion, these three <normalised orig="poynts" auto="true">points</normalised>. First,<lb/>
+who is the bread of life; then by what <normalised orig="meanes" auto="true">means</normalised> he is eaten;<lb/>
+and thirdly, what <normalised orig="fruite" auto="true">fruit</normalised> <normalised orig="commeth" auto="true">comes</normalised> of such sustentation.<lb/>
+Who is this <normalised orig="breade" auto="true">bread</normalised>, Christ <normalised orig="sheweth" auto="true">shows</normalised> in these<lb/>
+words: <quote type="biblical" ana="Jn 6.35">I am the bread of life.</quote> By what <normalised orig="meanes" auto="true">means</normalised> <normalised orig="hee" auto="true">he</normalised> is eaten,<lb/>
+it is <normalised orig="shewed" auto="true">showed</normalised> in these words: <quote type="biblical" ana="Jn 6.35"><normalised orig="Hee" auto="true">He</normalised> that <normalised orig="commeth" auto="true">comes</normalised> <normalised orig="vnto" auto="true">unto</normalised><lb/>
+me, He that <normalised orig="beleeueth" auto="true">believes</normalised> in me.</quote> What <normalised orig="fruite" auto="true">fruit</normalised> <normalised orig="commeth" auto="true">comes</normalised> of it,<lb/>
+it is <normalised orig="shewed" auto="true">showed</normalised> in these <normalised orig="wordes" auto="true">words</normalised>: <quote type="biblical" ana="Jn 6.35">He shall <normalised orig="neuer" auto="true">never</normalised> hunger, <normalised orig="Hee" auto="true">He</normalised><lb/>
+shall <normalised orig="neuer" auto="true">never</normalised> thirst. I am the bread of life.</quote> These words they<lb/>
+<normalised orig="signifie" auto="true">signify</normalised> thus much, that in Christ alone wee <normalised orig="haue" auto="true">have</normalised> life,<lb/>
+&amp; all confidence of <normalised orig="saluation" auto="true">salvation</normalised> must be grounded on him,<lb/>
+and on none <normalised orig="els" auto="true">else</normalised>. Christ crucified is a <normalised orig="continuall" auto="true">continual</normalised> Sacrifice<lb/>
+of reconciliation standing <normalised orig="betweene" auto="true">between</normalised> God and <normalised orig="vs" auto="true">us</normalised>,<lb/>
+so that what <normalised orig="soeuer" auto="true">soever</normalised> grace, mercy, and peace is <normalised orig="powred" auto="true">powered</normalised><lb/>
+<normalised orig="vpon" auto="true">upon</normalised> <normalised orig="vs" auto="true">us</normalised> by God the Father, it <normalised orig="commeth" auto="true">comes</normalised> down through<lb/>
+the body of Christ <normalised orig="vppon" auto="true">upon</normalised> the <normalised orig="Crosse" auto="true">Cross</normalised>: and <normalised orig="whatsoeuer" auto="true">whatsoever</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum" n="38">C3</fw>
+                  <pb n="9"/>
+                  <lb/>
+<normalised orig="ioy" auto="true">joy</normalised> or comfort we can <normalised orig="haue" auto="true">have</normalised> in being vessels of <normalised orig="mercie" auto="true">mercy</normalised>,<lb/>
+thus it is made perfect: when with a <normalised orig="liuely" auto="true">lively</normalised> <normalised orig="fayth" auto="true">faith</normalised> wee<lb/>
+<normalised orig="looke" auto="true">look</normalised> through Christ crucified, and so <normalised orig="goe" auto="true">go</normalised> with <normalised orig="boldnesse" auto="true">boldness</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised> the throne of grace. Thus Christ is called<lb/>
+the bread of life: the <normalised orig="foode" auto="true">food</normalised> of our <normalised orig="soule" auto="true">soul</normalised>, and nourisher<lb/>
+<normalised orig="vp" auto="true">up</normalised> of our consciences to a <normalised orig="perpetuall" auto="true">perpetual</normalised> <normalised orig="quietnesse" auto="true">quietness</normalised>. This<lb/>
+the Scriptures <normalised orig="testifie" auto="true">testify</normalised> most plentifully in all places, witnessing,<lb/>
+that <normalised orig="when-soeuer" auto="false">whensoever</normalised> we <normalised orig="feele" auto="true">feel</normalised> our <normalised orig="selues" auto="true">selves</normalised> hungry,<lb/>
+that is, Labouring and <normalised orig="heauie" auto="true">heavy</normalised> <normalised orig="loaden" auto="true">laden</normalised> with the <normalised orig="burthen" auto="true">burden</normalised> of<lb/>
+our <normalised orig="sinnes" auto="true">sins</normalised>, we must come <normalised orig="vnto" auto="true">unto</normalised> Christ: and <normalised orig="hee" auto="true">he</normalised> will refresh<lb/>
+<normalised orig="vs" auto="true">us</normalised>. From our first Father Adam, <normalised orig="vntill" auto="true">until</normalised> the last man that<lb/>
+shall be borne <normalised orig="vpon" auto="true">upon</normalised> earth, <normalised orig="neuer" auto="true">never</normalised> was nor shall be one<lb/>
+that shall find other food of <normalised orig="lyfe" auto="true">life</normalised>. Adam, by whose <normalised orig="sinne" auto="true">sin</normalised><lb/>
+we were all condemned, when he was cast out of Paradise,<lb/>
+that is, out of Gods <normalised orig="fauour" auto="true">favour</normalised> and the place of rest, he<lb/>
+could not <normalised orig="feede" auto="true">feed</normalised> his <normalised orig="soule" auto="true">soul</normalised> <normalised orig="neyther" auto="true">neither</normalised> with the labour of his<lb/>
+hand, nor with the sweat of his <normalised orig="browes" auto="true">brows</normalised>, but the first<lb/>
+<normalised orig="foode" auto="true">food</normalised> of life he found in this promise, That the seed of the<lb/>
+woman <normalised orig="shoulde" auto="true">should</normalised> tread <normalised orig="downe" auto="true">down</normalised> the <normalised orig="heade" auto="true">head</normalised> of the serpent. Abraham,<lb/>
+<notvariant>Isaack</notvariant>, and <normalised orig="Iacob" auto="true">Jacob</normalised>, in all <normalised orig="theyr" auto="true">their</normalised> wandering <normalised orig="iourneyes" auto="true">journeys</normalised>,<lb/>
+they <normalised orig="lyued" auto="true">lived</normalised> not by this, That <normalised orig="theyr" auto="true">their</normalised> <normalised orig="posteritie" auto="true">posterity</normalised> should<lb/>
+be multiplied, and <normalised orig="enioy" auto="true">enjoy</normalised> a Land that flowed with <normalised orig="milke" auto="true">milk</normalised><lb/>
+and <normalised orig="honnie" auto="true">honey</normalised>; But <normalised orig="thys" auto="true">this</normalised> was the bread of life that made <normalised orig="theyr" auto="true">their</normalised><lb/>
+<normalised orig="hart" auto="true">heart</normalised> glad, <normalised orig="euen" auto="true">even</normalised> the sight of Christ, and by this promise<lb/>
+<normalised orig="euery" auto="true">every</normalised> one of them <normalised orig="liued" auto="true">lived</normalised>; <quote type="biblical" ana="Gen 22.18">In thy seed all the Nations of the<lb/>
+earth shall be blessed.</quote>
+                  <lb/>
+The <normalised orig="Lawe" auto="true">Law</normalised> that came after and taught <normalised orig="vs" auto="true">us</normalised> true obedience,<lb/>
+we learned nothing by it, but the knowledge of our<lb/>
+<normalised orig="sinne" auto="true">sin</normalised>, nor it wrought nothing in <normalised orig="vs" auto="true">us</normalised>, but the multiplying<lb/>
+of our <normalised orig="iniquitie" auto="true">iniquity</normalised>. The <normalised orig="lawes" auto="true">laws</normalised> and <normalised orig="ordinaunces" auto="true">ordinances</normalised>, which were<lb/>
+in <normalised orig="meates" auto="true">meats</normalised> and <normalised orig="drinkes" auto="true">drinks</normalised>, and <normalised orig="carnall" auto="true">carnal</normalised> rites and ceremonies,<lb/>
+they could not <normalised orig="feede" auto="true">feed</normalised> the conscience of him that did the<lb/>
+                  <pb n="10"/>
+                  <lb/>
+<normalised orig="seruice" auto="true">service</normalised>; the sacrifices &amp; offerings were not such as they<lb/>
+could <normalised orig="giue" auto="true">give</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> the food of life. It was altogether <normalised orig="vnpossible" auto="true">unpossible</normalised><lb/>
+that the blood of Bulls and <normalised orig="Goates" auto="true">Goats</normalised> should take away<lb/>
+<normalised orig="sinnes" auto="true">sins</normalised>, but so <normalised orig="farre" auto="true">far</normalised> the Law did <normalised orig="feede" auto="true">feed</normalised> our <normalised orig="soules" auto="true">souls</normalised>, as it shut <normalised orig="vs" auto="true">us</normalised><lb/>
+<normalised orig="vp" auto="true">up</normalised> in the faith that should be <normalised orig="reuealed" auto="true">revealed</normalised>, &amp; led <normalised orig="vs" auto="true">us</normalised> as a <normalised orig="schoolemaister" auto="true">schoolmaster</normalised><lb/>
+<normalised orig="vnto" auto="true">unto</normalised> Christ. The Prophets that came after, <normalised orig="raysed" auto="true">raised</normalised><lb/>
+<normalised orig="vp" auto="true">up</normalised> of GOD to teach his people, they <normalised orig="shewed" auto="true">showed</normalised> no other<lb/>
+<normalised orig="marke" auto="true">mark</normalised> to <normalised orig="looke" auto="true">look</normalised> on, nor other hope to <normalised orig="liue" auto="true">live</normalised> by, but<lb/>
+that child that should be borne <normalised orig="vnto" auto="true">unto</normalised> them, <quote type="biblical" ana="Isa 9.6">And that<lb/>
+<normalised orig="sonne" auto="true">son</normalised> that should be <normalised orig="giuen" auto="true">given</normalised> them, whose name was wonderful,<lb/>
+<normalised orig="councellour" auto="true">councellor</normalised>, the mighty GOD, the <normalised orig="euerlasting" auto="true">everlasting</normalised> Father, the<lb/>
+Prince of peace.</quote> The Apostles and <normalised orig="Euangelists" auto="true">Evangelists</normalised> <normalised orig="nowe" auto="true">now</normalised> sent<lb/>
+in these latter <normalised orig="dayes" auto="true">days</normalised> for the <normalised orig="worke" auto="true">work</normalised> of the <normalised orig="Ministerie" auto="true">Ministry</normalised>, To<lb/>
+gather together the Saints, <quote type="biblical" ana="Eph 4.12">and build <normalised orig="vp" auto="true">up</normalised> the body of Christ.</quote>
+                  <lb/>
+They feed <normalised orig="vs" auto="true">us</normalised> not with the food of our <normalised orig="owne" auto="true">own</normalised> works or<lb/>
+<normalised orig="wel" auto="true">well</normalised> doing, but to make our faith strong, and the promise<lb/>
+of God sure, they tell <normalised orig="vs" auto="true">us</normalised>: <quote type="biblical" ana="Eph 2.14">Christ is our peace</quote>, and there is no<lb/>
+other name <normalised orig="vnder" auto="true">under</normalised> <normalised orig="heauen" auto="true">heaven</normalised> <normalised orig="giuen" auto="true">given</normalised> <normalised orig="vnto" auto="true">unto</normalised> men, by which we shall<lb/>
+<normalised orig="liue" auto="true">live</normalised>, <normalised orig="saue" auto="true">save</normalised> <normalised orig="onely" auto="true">only</normalised> the name of <normalised orig="Iesus" auto="true">Jesus</normalised> Christ. Thus Christ is our<lb/>
+bread of life, and if we will build our <normalised orig="selues" auto="true">selves</normalised> <normalised orig="vpon" auto="true">upon</normalised> Abraham,<lb/>
+<notvariant>Isaack</notvariant>, or <normalised orig="Iacob" auto="true">Jacob</normalised>, to be of <normalised orig="theyr" auto="true">their</normalised> <normalised orig="posteritie" auto="true">posterity</normalised>, if wee<lb/>
+<normalised orig="wil" auto="true">will</normalised> be led by the Law &amp; the Prophets, by the <normalised orig="Apostls" auto="false">Apostles</normalised> &amp;<lb/>
+<normalised orig="Euangelists" auto="true">Evangelists</normalised>, to find the food of life, if we hear Christ him<lb/>
+<normalised orig="selfe" auto="true">self</normalised>, or <normalised orig="wilbe" auto="true">will be</normalised> his disciples, <normalised orig="the~" auto="true">them</normalised> this is our religion: <quote type="biblical" ana="Jn 6.35">Christ<lb/>
+is the bread of life.</quote> Too too wretched <normalised orig="haue" auto="true">have</normalised> the Preachers<lb/>
+<normalised orig="bin" auto="true">been</normalised> that <normalised orig="haue" auto="true">have</normalised> called you <normalised orig="fro~" auto="true">from</normalised> this bread, to feed you with<lb/>
+their corrupt <normalised orig="leauen" auto="true">leaven</normalised>, from this fountain &amp; <normalised orig="welspring" auto="true">wellspring</normalised>, to<lb/>
+their own <normalised orig="puddels" auto="false">puddles</normalised> that can hold no water. Thus they <normalised orig="haue" auto="true">have</normalised><lb/>
+all done that <normalised orig="haue" auto="true">have</normalised> led you any whether <normalised orig="sauing" auto="true">saving</normalised> to Christ<lb/>
+alone, that <normalised orig="haue" auto="true">have</normalised> taught you to pray <normalised orig="vnto" auto="true">unto</normalised> Saints, Angels,<lb/>
+or Archangels, to be your Mediators, that <normalised orig="haue" auto="true">have</normalised> told you<lb/>
+of <normalised orig="iustification" auto="true">justification</normalised> in your <normalised orig="owne" auto="true">own</normalised> <normalised orig="workes" auto="true">works</normalised>, that <normalised orig="haue" auto="true">have</normalised> <normalised orig="solde" auto="true">sold</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum" n="40">C4</fw>
+                  <pb n="11"/>
+                  <lb/>
+<normalised orig="vnto" auto="true">unto</normalised> you <normalised orig="theyr" auto="true">their</normalised> Masses, as sacrifices <normalised orig="propiciatorie" auto="true">propitiatory</normalised> for the<lb/>
+quick and dead, that <normalised orig="haue" auto="true">have</normalised> bid you trust in pardons, and<lb/>
+indulgences for remission of <normalised orig="sinnes" auto="true">sins</normalised>, that <normalised orig="haue" auto="true">have</normalised> brought<lb/>
+you <normalised orig="vnto" auto="true">unto</normalised> the Pope, a <normalised orig="sicke" auto="true">sick</normalised> head of an ill disposed <normalised orig="Sinagogue" auto="true">Synagogue</normalised>,<lb/>
+to hang your faith <normalised orig="vpon" auto="true">upon</normalised> his <normalised orig="sleeue" auto="true">sleeve</normalised>, that <normalised orig="hath" auto="true">has</normalised> told<lb/>
+you of general <normalised orig="Councels" auto="true">Counsels</normalised>, they could not <normalised orig="erre" auto="true">err</normalised>, but <normalised orig="whatsoeuer" auto="true">whatsoever</normalised><lb/>
+they should decree, you <normalised orig="shold" auto="true">should</normalised> so <normalised orig="receiue" auto="true">receive</normalised> it as the<lb/>
+holy <normalised orig="Euangelists" auto="true">Evangelists</normalised>. Thus <normalised orig="haue" auto="true">have</normalised> these monsters spoken, &amp;<lb/>
+thus they <normalised orig="haue" auto="true">have</normalised> deluded you, and yet they say <normalised orig="stil" auto="true">still</normalised>, <normalised orig="wherin" auto="true">wherein</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> we offended? But the Lord be praised, that <normalised orig="hath" auto="true">has</normalised><lb/>
+<normalised orig="deliuered" auto="true">delivered</normalised> <normalised orig="vs" auto="true">us</normalised> out of the kingdom of such <normalised orig="darknesse" auto="true">darkness</normalised>, and<lb/>
+brought <normalised orig="vs" auto="true">us</normalised> <normalised orig="againe" auto="true">again</normalised> into the light of his Gospel. Let <normalised orig="vs" auto="true">us</normalised><lb/>
+now <normalised orig="walke" auto="true">walk</normalised> in it accordingly, &amp; <normalised orig="confesse" auto="true">confess</normalised> Christ alone to<lb/>
+be the bread of life. The second thing that I noted <normalised orig="vnto" auto="true">unto</normalised><lb/>
+you in this answer of our <normalised orig="sauiour" auto="true">saviour</normalised> Christ, is: how we do<lb/>
+eat of this bread, and that (I <normalised orig="saide" auto="true">said</normalised>) was <normalised orig="shewed" auto="true">showed</normalised> in these<lb/>
+words; <quote type="biblical" ana="Jn 6.35">He that <normalised orig="commeth" auto="true">comes</normalised> <normalised orig="vnto" auto="true">unto</normalised> me, He that <normalised orig="belieueth" auto="false">believes</normalised> in me.</quote>
+                  <lb/>
+To come <normalised orig="vnto" auto="true">unto</normalised> Christ, to <normalised orig="belieue" auto="true">believe</normalised> in Christ, that is to <normalised orig="eate" auto="true">eat</normalised><lb/>
+christ, so that we may <normalised orig="wel" auto="true">well</normalised> say, as S. Austin said: Quid pares<lb/>
+dentes aut ventrem, <normalised orig="crede" auto="true">cred</normalised> &amp; manducasti? It is no need<lb/>
+to prepare tooth or belly, <normalised orig="belieue" auto="true">believe</normalised> and thou <normalised orig="hast" auto="true">have</normalised> eaten.<lb/>
+But here (<normalised orig="deerely" auto="true">dearly</normalised> <normalised orig="beloued" auto="true">beloved</normalised>) I must first admonish you,<lb/>
+that this place, nor this <normalised orig="sixt" auto="true">sixth</normalised> chap. of <normalised orig="Iohn" auto="true">John</normalised>, is not meant<lb/>
+of the Sacrament, as some Popish interpreters <normalised orig="haue" auto="true">have</normalised> ignorantly<lb/>
+told you. The Sacrament was not yet instituted,<lb/>
+nor any now present knew whether he would <normalised orig="euer" auto="true">ever</normalised><lb/>
+<normalised orig="ordaine" auto="true">ordain</normalised> any such Sacrament of his body and <normalised orig="bloode" auto="true">blood</normalised>, or<lb/>
+no: so that if he had spoken thereof, <normalised orig="hee" auto="true">he</normalised> had told them<lb/>
+that which they could not <normalised orig="vnderstand" auto="true">understand</normalised>. But <normalised orig="thys" auto="true">this</normalised> Christ<lb/>
+<normalised orig="doth" auto="true">does</normalised>, without all consideration, either of Sacrament<lb/>
+or no Sacrament. <normalised orig="Hee" auto="true">He</normalised> <normalised orig="telleth" auto="true">tells</normalised> them <normalised orig="howe" auto="true">how</normalised> and by what<lb/>
+<normalised orig="meanes" auto="true">means</normalised> his body can be eaten, whether it be in your inward<lb/>
+                  <pb n="12"/>
+                  <lb/>
+<normalised orig="fayth" auto="true">faith</normalised>, when secretly and with your <normalised orig="selfe" auto="true">self</normalised> you feed<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> his body, or whether it be in outward <normalised orig="signe" auto="true">sign</normalised> or Sacrament,<lb/>
+which is a <normalised orig="helpe" auto="true">help</normalised> of our <normalised orig="infirmitie" auto="true">infirmity</normalised>, the more<lb/>
+<normalised orig="liuely" auto="true">lively</normalised> to <normalised orig="tast" auto="true">taste</normalised> of his mercies.<lb/>
+There is but one &amp; the same way, neither to <normalised orig="eate" auto="true">eat</normalised> his<lb/>
+flesh, nor to <normalised orig="drinke" auto="true">drink</normalised> his blood: the which way, <normalised orig="plainelie" auto="true">plainly</normalised><lb/>
+&amp; <normalised orig="expresly" auto="true">expressly</normalised> here is <normalised orig="deliuered" auto="true">delivered</normalised> <normalised orig="vs" auto="true">us</normalised> by Christ, that we <normalised orig="neede" auto="true">need</normalised><lb/>
+not to <normalised orig="erre" auto="true">err</normalised> except we will. And this was <normalised orig="Christes" auto="true">Christ's</normalised> great<lb/>
+mercy, to prepare the harts of his children, that they<lb/>
+should not be offended with any manner of <normalised orig="vnderstanding" auto="true">understanding</normalised>,<lb/>
+when they should <normalised orig="heare" auto="true">hear</normalised> in the institution of the<lb/>
+Sacrament, <quote type="biblical" ana="Mk 14.22">Take, <normalised orig="eate" auto="true">eat</normalised>, this is my body.</quote> They are before<lb/>
+well instructed, and they know what to <normalised orig="belieue" auto="true">believe</normalised>. The<lb/>
+<normalised orig="grosse" auto="true">gross</normalised> and <normalised orig="carnall" auto="true">carnal</normalised> fancies of transubstantiation, <normalised orig="coulde" auto="true">could</normalised><lb/>
+not disquiet them. They <normalised orig="knewe" auto="true">knew</normalised> there was no way to<lb/>
+<normalised orig="eate" auto="true">eat</normalised> Christ, but to come <normalised orig="vnto" auto="true">unto</normalised> him, nor to <normalised orig="drinke" auto="true">drink</normalised> his<lb/>
+blood, but to <normalised orig="belieue" auto="true">believe</normalised> in him. And this <normalised orig="fayth" auto="true">faith</normalised> was the<lb/>
+more precious, the further of his bodily presence was<lb/>
+<normalised orig="remooued" auto="true">removed</normalised> from them: They <normalised orig="knewe" auto="true">knew</normalised> <normalised orig="fayth" auto="true">faith</normalised> was the taking<lb/>
+<normalised orig="holde" auto="true">hold</normalised> and substance of things wee hoped for, and the sure apprehension<lb/>
+and <normalised orig="proofe" auto="true">proof</normalised> of things that were not <normalised orig="seene" auto="true">seen</normalised>. So that<lb/>
+they <normalised orig="knewe" auto="true">knew</normalised> how to <normalised orig="feede" auto="true">feed</normalised> of the body of our <normalised orig="Sauiour" auto="true">Saviour</normalised><lb/>
+with great <normalised orig="boldnes" auto="true">boldness</normalised>, to <normalised orig="lyft" auto="true">lift</normalised> <normalised orig="vp" auto="true">up</normalised> <normalised orig="theyr" auto="true">their</normalised> <normalised orig="soule" auto="true">soul</normalised>, and to take<lb/>
+hold of the mercy of Christ, who <normalised orig="sitteth" auto="true">sits</normalised> in <normalised orig="heauen" auto="true">heaven</normalised> at<lb/>
+the right hand of his Father. Whence <normalised orig="vndoubtedly" auto="true">undoubtedly</normalised> all<lb/>
+the merits of his Passion <normalised orig="doe" auto="true">do</normalised> presently flow <normalised orig="vppon" auto="true">upon</normalised> his<lb/>
+<normalised orig="poore" auto="true">poor</normalised> <normalised orig="chyldren" auto="true">children</normalised>. His conflicts and agonies with <normalised orig="sinne" auto="true">sin</normalised><lb/>
+and condemnation, to set <normalised orig="vs" auto="true">us</normalised> free from Gods wrath and<lb/>
+displeasure, and all his obedience <normalised orig="shewed" auto="true">showed</normalised> <normalised orig="heere" auto="true">here</normalised> in flesh,<lb/>
+from his <normalised orig="corporall" auto="true">corporal</normalised>, <normalised orig="reall" auto="true">real</normalised>, and <normalised orig="substantiall" auto="true">substantial</normalised> body, <normalised orig="commeth" auto="true">comes</normalised><lb/>
+<normalised orig="downe" auto="true">down</normalised> <normalised orig="vpon" auto="true">upon</normalised> <normalised orig="vs" auto="true">us</normalised>, to cloth <normalised orig="vs" auto="true">us</normalised> with <normalised orig="righteousnesse" auto="true">righteousness</normalised>,<lb/>
+that we may be <normalised orig="founde" auto="true">found</normalised> <normalised orig="vnblameable" auto="false">unblameable</normalised> before his Father.<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="42">C5</fw>
+                  <pb n="13"/>
+                  <lb/>
+Thus much the Disciples well <normalised orig="vnderstoode" auto="true">understood</normalised>, and they<lb/>
+murmured not at these words, <quote type="biblical" ana="Mk 14.22">This is my body.</quote> Thus<lb/>
+much let <normalised orig="vs" auto="true">us</normalised> <normalised orig="learne" auto="true">learn</normalised> out of this place against we come <normalised orig="vnto" auto="true">unto</normalised><lb/>
+the Sacrament, That to come <normalised orig="vnto" auto="true">unto</normalised> Christ, and to <normalised orig="beleeue" auto="true">believe</normalised><lb/>
+in Christ that is truly to <normalised orig="eate" auto="true">eat</normalised> Christ. This being <normalised orig="prooued" auto="true">proved</normalised><lb/>
+true <normalised orig="vnto" auto="true">unto</normalised> you, you will <normalised orig="soone" auto="true">soon</normalised> set your <normalised orig="selues" auto="true">selves</normalised> free from<lb/>
+all Popish idolatry. And how true it is, mark well, I beseech<lb/>
+you, what are the words. <quote type="biblical" ana="Jn 6.35">I am saith Christ the<lb/>
+bread of life. He that <normalised orig="commeth" auto="true">comes</normalised> <normalised orig="vnto" auto="true">unto</normalised> me, shall not hunger.</quote> If<lb/>
+Christ had spoken still properly, according to the <normalised orig="metaphore" auto="true">metaphor</normalised>,<lb/>
+he had said thus: I am the bread of life, he that <normalised orig="eateth" auto="true">eats</normalised><lb/>
+me, shall not hunger. Now he <normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="hath" auto="true">has</normalised> <normalised orig="saide" auto="true">said</normalised>:<lb/>
+He that <normalised orig="commeth" auto="true">comes</normalised>, in stead of this, He that <normalised orig="eateth" auto="true">eats</normalised>, if you<lb/>
+will <normalised orig="beleeue" auto="true">believe</normalised> him, you must needs <normalised orig="confesse" auto="true">confess</normalised> it. To <normalised orig="eate" auto="true">eat</normalised><lb/>
+Christ, is to come <normalised orig="vnto" auto="true">unto</normalised> him. So in this other sentence.<lb/>
+<normalised orig="Hee" auto="true">He</normalised> that <normalised orig="beleeueth" auto="true">believes</normalised> in him, shall not thirst. If he had kept<lb/>
+the property of speech, he had said thus: he that <normalised orig="drinketh" auto="true">drinks</normalised><lb/>
+of me, shall not thirst. In stead of, <normalised orig="drinketh" auto="true">drinks</normalised>, he <normalised orig="sayeth" auto="true">says</normalised>,<lb/>
+<normalised orig="beleeueth" auto="true">believes</normalised>, and <normalised orig="therfore" auto="true">therefore</normalised> it is most <normalised orig="certaine" auto="true">certain</normalised>, to <normalised orig="drinke" auto="true">drink</normalised><lb/>
+of Christ, is to <normalised orig="beleeue" auto="true">believe</normalised> in Christ. So that this is now an<lb/>
+<normalised orig="vndoubted" auto="true">undoubted</normalised> truth, to <normalised orig="eate" auto="true">eat</normalised> Christ, to <normalised orig="drinke" auto="true">drink</normalised> Christ, to<lb/>
+come <normalised orig="vnto" auto="true">unto</normalised> Christ, to <normalised orig="beleeue" auto="true">believe</normalised> in Christ, these are all one.<lb/>
+And who <normalised orig="hath" auto="true">has</normalised> <normalised orig="eares" auto="true">ears</normalised> to <normalised orig="heare" auto="true">hear</normalised> and <normalised orig="heareth" auto="true">hears</normalised> not this? Or<lb/>
+whose <normalised orig="iudgement" auto="true">judgment</normalised> is so blind that he cannot <normalised orig="perceiue" auto="true">perceive</normalised> it?<lb/>
+Compare the sayings of Christ in this chap. you cannot<lb/>
+(if you will not) be <normalised orig="deceiued" auto="true">deceived</normalised>, <quote type="biblical" ana="Jn 6.40"><normalised orig="Hee" auto="true">He</normalised> that <normalised orig="beleeueth" auto="true">believes</normalised> in me<lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="euerlasting" auto="true">everlasting</normalised> life.</quote> And after: <quote type="biblical" ana="Jn 6.51">He that <normalised orig="eateth" auto="true">eats</normalised> of this bread,<lb/>
+<normalised orig="hath" auto="true">has</normalised> <normalised orig="euerlasting" auto="true">everlasting</normalised> life.</quote>
+                  <lb/>
+                  <quote type="biblical" ana="Jn 6.53">Except <normalised orig="ye" auto="true">you</normalised> <normalised orig="eate" auto="true">eat</normalised> the flesh of the <normalised orig="Sonne" auto="true">Son</normalised> of<lb/>
+man, and drink his blood, you <normalised orig="haue" auto="true">have</normalised> no life in you.</quote> <normalised orig="Hee" auto="true">He</normalised> that<lb/>
+<normalised orig="beleeueth" auto="true">believes</normalised> on him that sent me, <normalised orig="hath" auto="true">has</normalised> life <normalised orig="euerlasting" auto="true">everlasting</normalised>. You will<lb/>
+not come <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="mee" auto="true">me</normalised> that you may <normalised orig="liue" auto="true">live</normalised>. Who <normalised orig="seeth" auto="true">sees</normalised> is not<lb/>
+<normalised orig="heere" auto="true">here</normalised>, to <normalised orig="eate" auto="true">eat</normalised>, to come, to <normalised orig="beleeue" auto="true">believe</normalised>, is all one. <normalised orig="Againe" auto="true">Again</normalised>:<lb/>
+                  <pb n="14"/>
+                  <lb/>
+He that <normalised orig="beleeueth" auto="true">believes</normalised> in me, I will raise him at the last day. <quote type="biblical" ana="Jn 6.54">And<lb/>
+he that <normalised orig="eateth" auto="true">eats</normalised> my flesh, and <normalised orig="drinketh" auto="true">drinks</normalised> my blood, I will <normalised orig="rayse" auto="true">raise</normalised><lb/>
+him <normalised orig="vp" auto="true">up</normalised> at the last day.</quote> After all those sayings of eating<lb/>
+his flesh in <normalised orig="deede" auto="true">deed</normalised>, and drinking his blood in <normalised orig="deede" auto="true">deed</normalised>, at<lb/>
+which the Capharnaits were offended, and <normalised orig="diuers" auto="true">divers</normalised> of his<lb/>
+Disciples <normalised orig="forsooke" auto="true">forsook</normalised> him, Christ saith then <normalised orig="vnto" auto="true">unto</normalised> his Apostles,<lb/>
+                  <quote type="biblical" ana="Jn 6.67">Will you also <normalised orig="goe" auto="true">go</normalised> away?</quote> As if he should <normalised orig="haue" auto="true">have</normalised> said:<lb/>
+are these words so strange, that you also will be <normalised orig="driuen" auto="true">driven</normalised><lb/>
+away? <normalised orig="Vnto" auto="true">Unto</normalised> which Peter answered: <quote type="biblical" ana="Jn 6.68-69">Lord to whom shall<lb/>
+we <normalised orig="goe" auto="true">go</normalised>, thou <normalised orig="hast" auto="true">have</normalised> the words of <normalised orig="eternall" auto="true">eternal</normalised> life, and wee <normalised orig="beleeue" auto="true">believe</normalised><lb/>
+and know, that thou art Christ the <normalised orig="Sonne" auto="true">Son</normalised> of the <normalised orig="liuing" auto="true">living</normalised> Lord.</quote>
+                  <lb/>
+<normalised orig="Loe" auto="true">Lo</normalised> <normalised orig="heere" auto="true">here</normalised>, how S. Peter <normalised orig="himselfe" auto="true">himself</normalised>, of whose name the<lb/>
+Pope <normalised orig="braggeth" auto="true">brags</normalised> so much, and yet <normalised orig="vtterly" auto="true">utterly</normalised> <normalised orig="renounceth" auto="true">renounced</normalised><lb/>
+his faith. Saint Peter (I say) <normalised orig="vnderstandeth" auto="true">understands</normalised>, all these<lb/>
+words of life, of the eating and drinking of <normalised orig="Christes" auto="true">Christ's</normalised><lb/>
+flesh and his blood, he <normalised orig="expoundeth" auto="true">expounds</normalised> them thus: To <normalised orig="beleeue" auto="true">believe</normalised><lb/>
+in Christ, and to know him to be the <normalised orig="Sonne" auto="true">Son</normalised> of<lb/>
+the <normalised orig="lyuing" auto="true">living</normalised> God, <normalised orig="euen" auto="true">even</normalised> as Christ <normalised orig="himselfe" auto="true">himself</normalised> had before<lb/>
+taught him: <quote type="biblical" ana="Jn 6.63">The words that I <normalised orig="speake" auto="true">speak</normalised> are spirit and life, it is<lb/>
+the Spirit that <normalised orig="quickeneth" auto="true">quickens</normalised>, the flesh <normalised orig="profiteth" auto="true">profits</normalised> nothing.</quote> If all<lb/>
+this be not <normalised orig="plaine" auto="true">plain</normalised> enough, <normalised orig="looke" auto="true">look</normalised> yet, and let S. <normalised orig="Iohn" auto="true">John</normalised><lb/>
+expound <normalised orig="himselfe" auto="true">himself</normalised>. <normalised orig="Heere" auto="true">Here</normalised> Christ <normalised orig="sayeth" auto="true">says</normalised>: <quote type="biblical" ana="Jn 6.56"><normalised orig="Hee" auto="true">He</normalised> that <normalised orig="eateth" auto="true">eats</normalised><lb/>
+my flesh, and <normalised orig="drinketh" auto="true">drinks</normalised> my blood <normalised orig="dwelleth" auto="true">dwells</normalised> in me, and I<lb/>
+in him.</quote> The same S. <normalised orig="Iohn" auto="true">John</normalised> that wrote this, saith thus <normalised orig="againe" auto="true">again</normalised>:<lb/>
+                  <quote type="biblical" ana="1 Jn 4.15">Who so <normalised orig="confesseth" auto="true">confesses</normalised> that <normalised orig="Iesus" auto="true">Jesus</normalised> is the <normalised orig="Sonne" auto="true">Son</normalised> of God,<lb/>
+God <normalised orig="dwelleth" auto="true">dwells</normalised> in him, and he in God.</quote> <normalised orig="Wherby" auto="true">Whereby</normalised> it is <normalised orig="plaine" auto="true">plain</normalised>,<lb/>
+he that <normalised orig="confesseth" auto="true">confesses</normalised> thus of Christ, <normalised orig="hee" auto="true">he</normalised> <normalised orig="eateth" auto="true">eats</normalised> his flesh,<lb/>
+and <normalised orig="drinketh" auto="true">drinks</normalised> his blood. This (<normalised orig="dearely" auto="true">dearly</normalised> <normalised orig="beloued" auto="true">beloved</normalised>) is no<lb/>
+new doctrine, but taught by Christ, <normalised orig="receiued" auto="true">received</normalised> by his<lb/>
+Apostles, written for all ages by his holy <normalised orig="Euangelistes" auto="true">Evangelists</normalised>,<lb/>
+now preached to the comfort of all Christians, and in<lb/>
+the <normalised orig="primitiue" auto="true">primitive</normalised> Church <normalised orig="beleeued" auto="true">believed</normalised> of all the holy Fathers,<lb/>
+                  <pb n="15"/>
+                  <lb/>
+I would <normalised orig="alledge" auto="true">allege</normalised> you their <normalised orig="owne" auto="true">own</normalised> sayings, but that the<lb/>
+time <normalised orig="passeth" auto="true">passes</normalised>, and you <normalised orig="haue" auto="true">have</normalised> them plentifully set out <normalised orig="vnto" auto="true">unto</normalised><lb/>
+you, you may <normalised orig="reade" auto="true">read</normalised> them when you will. These places<lb/>
+<normalised orig="alleadged" auto="true">alleged</normalised> out of the Scriptures, one expounding<lb/>
+another, they are the surest witnesses, to know the meaning<lb/>
+of the holy Ghost. And what if <normalised orig="heere" auto="true">here</normalised> I should reason<lb/>
+out of our <normalised orig="Christes" auto="true">Christ's</normalised> <normalised orig="owne" auto="true">own</normalised> words, to <normalised orig="prooue" auto="true">prove</normalised>, there<lb/>
+can be no transubstantiation. He <normalised orig="sayth" auto="true">saith</normalised> for <normalised orig="proofe" auto="true">proof</normalised>, that<lb/>
+his <normalised orig="naturall" auto="true">natural</normalised> body is risen. <quote type="biblical" ana="Lk 24.39">See my hands and my <normalised orig="feete" auto="true">feet</normalised>, touch<lb/>
+me and handle me, it is <normalised orig="euen" auto="true">even</normalised> I.</quote> Seeing Christ will <normalised orig="haue" auto="true">have</normalised><lb/>
+our <normalised orig="sences" auto="true">senses</normalised> to <normalised orig="iudge" auto="true">judge</normalised> of his body, let <normalised orig="vs" auto="true">us</normalised> <normalised orig="doe" auto="true">do</normalised> so. See, <normalised orig="feele" auto="true">feel</normalised>,<lb/>
+touch, <normalised orig="tast" auto="true">taste</normalised>, is it ought but bread? This argument me<lb/>
+<normalised orig="thinketh" auto="true">thinks</normalised> is good and well warranted by Christ <normalised orig="himselfe" auto="true">himself</normalised>,<lb/>
+and it <normalised orig="seemeth" auto="true">seems</normalised> not so <normalised orig="onely" auto="true">only</normalised> to me, but S. Augu.<lb/>
+thought so now <normalised orig="eleuen" auto="true">eleven</normalised> hundred <normalised orig="yeare" auto="true">year</normalised> <normalised orig="agone" auto="true">agony</normalised>. See, de<lb/>
+doctrina christiana, li. 3, ca. 16. and there you shall find it.<lb/>
+But the time <normalised orig="passeth" auto="true">passes</normalised> and I will come <normalised orig="vnto" auto="true">unto</normalised> that, that I<lb/>
+think you <normalised orig="looke" auto="true">look</normalised> for, and which the Pope <normalised orig="hath" auto="true">has</normalised> made<lb/>
+the substance of all his Masses. Christ saith thus: <quote type="biblical" ana="Mk 14.22">Take<lb/>
+<normalised orig="eate" auto="true">eat</normalised>, this is my body.</quote> And what then? Is there any obscurity<lb/>
+in these words? Is it not often and plainly spoken,<lb/>
+what it is to <normalised orig="eate" auto="true">eat</normalised> his body? Are not his Disciples well<lb/>
+taught? Knew they it not long before? As it is plainly<lb/>
+said: <quote type="biblical" ana="Mk 14.22">This is my body</quote>, so is it not plainly expounded. <quote type="biblical" ana="Jn 6.63">These<lb/>
+words are spirit and life</quote>? No man can <normalised orig="heere" auto="true">here</normalised> be offended,<lb/>
+but he that is dull of hearing, and <normalised orig="hath" auto="true">has</normalised> not hearkened<lb/>
+before to the <normalised orig="wholsome" auto="true">wholesome</normalised> doctrine of truth. But you will<lb/>
+say, why could not Christ as well <normalised orig="haue" auto="true">have</normalised> said, This is a<lb/>
+figure, or <normalised orig="signe" auto="true">sign</normalised>, or token of my body. I <normalised orig="answere" auto="true">answer</normalised>. First,<lb/>
+these words are without danger, that his Disciples <normalised orig="shold" auto="true">should</normalised><lb/>
+<normalised orig="dreame" auto="true">dream</normalised> of transubstantiation: they are so <normalised orig="assuredlie" auto="true">assuredly</normalised><lb/>
+taught before how they should <normalised orig="eate" auto="true">eat</normalised> or <normalised orig="drinke" auto="true">drink</normalised> Christ.<lb/>
+                  <pb n="16"/>
+                  <lb/>
+Then I say, this our <normalised orig="Sauiour" auto="true">Saviour</normalised> Christ did choose to speak,<lb/>
+to <normalised orig="shew" auto="true">show</normalised> his great and <normalised orig="aboundant" auto="true">abundant</normalised> <normalised orig="loue" auto="true">love</normalised> towards <normalised orig="vs" auto="true">us</normalised>, that<lb/>
+we <normalised orig="shold" auto="true">should</normalised> be so fully <normalised orig="perswaded" auto="true">persuaded</normalised> that he were our head,<lb/>
+and we his members, as if this <normalised orig="naturall" auto="true">natural</normalised> and <normalised orig="reall" auto="true">real</normalised> body,<lb/>
+were substantially within <normalised orig="vs" auto="true">us</normalised>, that wee should know,<lb/>
+<normalised orig="whatsoeuer" auto="true">whatsoever</normalised> we could wish from his mercy to comfort<lb/>
+<normalised orig="vs" auto="true">us</normalised>, by this Sacrament or <normalised orig="couenant" auto="true">covenant</normalised> of his mercy wee<lb/>
+should so assure our <normalised orig="selues" auto="true">selves</normalised> of it, as if wee <normalised orig="eate" auto="true">eat</normalised> his <normalised orig="verie" auto="true">very</normalised><lb/>
+flesh, or <normalised orig="drinke" auto="true">drink</normalised> his <normalised orig="naturall" auto="true">natural</normalised> blood. The like phrases or<lb/>
+speeches are <normalised orig="plaine" auto="true">plain</normalised> and often in the Scripture: Christ is<lb/>
+our head, and we his members, he <normalised orig="dwelleth" auto="true">dwells</normalised> in <normalised orig="vs" auto="true">us</normalised>, and we in<lb/>
+him. <normalised orig="Hee" auto="true">He</normalised> is the corner stone, and we are the building <normalised orig="vp" auto="true">up</normalised>.<lb/>
+He the vine, and we the branches. His body is the meat,<lb/>
+and we the eaters. Whose <normalised orig="hart" auto="true">heart</normalised> is so dull that is not stirred<lb/>
+<normalised orig="vp" auto="true">up</normalised> with these speeches? Or who <normalised orig="vnderstandeth" auto="true">understands</normalised> not<lb/>
+by these speeches, that Christ would <normalised orig="shew" auto="true">show</normalised> the <normalised orig="aboundance" auto="true">abundance</normalised><lb/>
+of his <normalised orig="loue" auto="true">love</normalised> towards <normalised orig="vs" auto="true">us</normalised>, and the great <normalised orig="boldnesse" auto="true">boldness</normalised><lb/>
+that Christ will <normalised orig="haue" auto="true">have</normalised> <normalised orig="vs" auto="true">us</normalised> to put in his mercy? As for transubstantiation,<lb/>
+it is so strange from the <normalised orig="sence" auto="true">sense</normalised> of the scripture,<lb/>
+that if the Pope had not <normalised orig="beene" auto="true">been</normalised>, I <normalised orig="thinke" auto="true">think</normalised> it <normalised orig="neuer" auto="true">never</normalised><lb/>
+had <normalised orig="beene" auto="true">been</normalised> thought of. And if the <normalised orig="Councell" auto="true">Council</normalised> of Lateranne<lb/>
+had not <normalised orig="beene" auto="true">been</normalised>, it had <normalised orig="neuer" auto="true">never</normalised> been named. But let<lb/>
+<normalised orig="vs" auto="true">us</normalised> weigh the words a little, and <normalised orig="conferre" auto="true">confer</normalised> them with<lb/>
+these late Popish follies. Christ <normalised orig="sayeth" auto="true">says</normalised>, <quote type="biblical" ana="Mk 14.22">Take, <normalised orig="eate" auto="true">eat</normalised>, this<lb/>
+is my <normalised orig="bodie" auto="true">body</normalised>.</quote> But the Pope <normalised orig="sayeth" auto="true">says</normalised>, take not, <normalised orig="eate" auto="true">eat</normalised> not,<lb/>
+<normalised orig="sitte" auto="true">sit</normalised> a <normalised orig="farre" auto="true">far</normalised> off, and <normalised orig="looke" auto="true">look</normalised> on, fall <normalised orig="downe" auto="true">down</normalised> and worship.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

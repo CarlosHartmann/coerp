@@ -1,0 +1,888 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermons preached by Henry Smith</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author"/>
+               <title type="main">
+<normalised orig="Sixe" auto="true">Six</normalised> sermons preached by <normalised orig="Maister" auto="true">Master</normalised> Henry Smith at Clement Danes <normalised orig="Chvrch" auto="true">Church</normalised> without Temple <normalised orig="barre" auto="true">bar</normalised>. With two prayers of the same Author hereunto annexed.
+</title>
+               <title type="short">Sermons preached by Henry Smith</title>
+               <date when="1592">1592</date>
+               <date type="this_edition" when="1592">1592</date>
+               <idno type="STC">22775.3</idno>
+               <note type="genre" subtype="sermon">sermon</note>
+               <note type="sample" target="#_1592_sermon_1">p.75, l.1 – p.97, l.15</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="illustrations" subtype="FehlendeEingabe">true</term>
+                     </item>
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="_1592_sermon_1">
+            <div>
+               <head> THE CALLING<lb/>
+OF <notvariant>IONAH</notvariant>.</head>
+               <p>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head><notvariant>Ionah</notvariant> 1.1.2</head>
+               <p>
+                  <lb/>
+                  <quote type="biblical" ana="Jon 1.1-2">1 The word of the Lord came to<lb/>
+<notvariant>Ionah</notvariant> the <normalised orig="sonne" auto="true">son</normalised> of Amistai saying,<lb/>
+2 Arise, and go to the <notvariant>Niniuie</notvariant> that<lb/>
+great <normalised orig="Citie" auto="true">City</normalised>, and <normalised orig="crie" auto="true">cry</normalised> against it, for their<lb/>
+<normalised orig="wickednesse" auto="true">wickedness</normalised> is come <normalised orig="vp" auto="true">up</normalised> before me.</quote>
+                  <lb/>
+                  <lb/>
+YOu <normalised orig="haue" auto="true">have</normalised> heard the<lb/>
+sweet song of old father<lb/>
+<notvariant>Simeon</notvariant>, like the<lb/>
+<normalised orig="pleasaunt" auto="true">pleasant</normalised> song of a<lb/>
+sweet bird before her<lb/>
+death, setting <normalised orig="foorth" auto="true">forth</normalised><lb/>
+the <normalised orig="ioy" auto="true">joy</normalised> of the righteous<lb/>
+which embrace<lb/>
+Christ <normalised orig="Iesus" auto="true">Jesus</normalised>. Before Christ <normalised orig="Iesus" auto="true">Jesus</normalised> vouchsafed<lb/>
+to come <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>, we would not come <normalised orig="vnto" auto="true">unto</normalised><lb/>
+him, but in all our doings we wrought our<lb/>
+condemnation, &amp; through the innumerable<lb/>
+                  <pb n="1"/>
+                  <lb/>
+<normalised orig="heapes" auto="true">heaps</normalised> of our iniquities, laboured to <normalised orig="driue" auto="true">drive</normalised><lb/>
+him without all hope of <normalised orig="mercie" auto="true">mercy</normalised> from <normalised orig="vs" auto="true">us</normalised>. So<lb/>
+we continued like flies which flutter about<lb/>
+the candle till they <normalised orig="haue" auto="true">have</normalised> consumed them<lb/>
+<normalised orig="selues" auto="true">selves</normalised>. When we had done as much as in <normalised orig="vs" auto="true">us</normalised><lb/>
+lay to <normalised orig="driue" auto="true">drive</normalised> him away from <normalised orig="vs" auto="true">us</normalised>, then he <normalised orig="saued" auto="true">saved</normalised>,<lb/>
+and <normalised orig="recompenced" auto="true">recompensed</normalised> good for <normalised orig="euill" auto="true">evil</normalised> <normalised orig="vnto" auto="true">unto</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised>. So that if God had <normalised orig="loued" auto="true">loved</normalised> <normalised orig="vs" auto="true">us</normalised> no better <normalised orig="the~" auto="true">them</normalised><lb/>
+we <normalised orig="loued" auto="true">loved</normalised> our <normalised orig="selues" auto="true">selves</normalised>, we might <normalised orig="haue" auto="true">have</normalised> perished<lb/>
+in our <normalised orig="sinne" auto="true">sin</normalised>, and our <normalised orig="bloud" auto="true">blood</normalised> should be <normalised orig="vpon" auto="true">upon</normalised><lb/>
+our <normalised orig="owne" auto="true">own</normalised> heads. If Christ be the light of the<lb/>
+Gentiles, let <normalised orig="vs" auto="true">us</normalised> embrace him; and let <normalised orig="euerie" auto="true">every</normalised><lb/>
+one <normalised orig="walke" auto="true">walk</normalised> as <normalised orig="becommeth" auto="true">becomes</normalised> the children of<lb/>
+light, but many do shut their eyes against it,<lb/>
+least they should see, and many do not <normalised orig="onely" auto="true">only</normalised><lb/>
+smoother their <normalised orig="owne" auto="true">own</normalised> light, but the<lb/>
+<normalised orig="Sunne" auto="true">Sun</normalised> <normalised orig="sayth" auto="true">saith</normalised> <normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="Moone" auto="true">Moon</normalised>, shine not,<lb/>
+and the <normalised orig="Moone" auto="true">Moon</normalised> <normalised orig="sayth" auto="true">saith</normalised> <normalised orig="vnto" auto="true">unto</normalised> the Stars, be not<lb/>
+bright. And many <normalised orig="haue" auto="true">have</normalised> smothered their<lb/>
+light so long, that the <normalised orig="dampe" auto="true">damp</normalised> <normalised orig="hath" auto="true">has</normalised> put out<lb/>
+the candle, and thus they <normalised orig="labor" auto="true">labour</normalised> to bring the<lb/>
+<normalised orig="darkenesse" auto="true">darkness</normalised> of Egypt <normalised orig="vpon" auto="true">upon</normalised> Goshen: so that<lb/>
+their eyes <normalised orig="haue" auto="true">have</normalised> forgotten to see, and so <normalised orig="manie" auto="true">many</normalised><lb/>
+<normalised orig="goe" auto="true">go</normalised> out of the way, because they<lb/>
+would not <normalised orig="looke" auto="true">look</normalised> <normalised orig="vpon" auto="true">upon</normalised> the candle, and the<lb/>
+<normalised orig="deuill" auto="true">devil</normalised> <normalised orig="giueth" auto="true">gives</normalised> to <normalised orig="euerie" auto="true">every</normalised> one that which he<lb/>
+<normalised orig="wisheth" auto="true">wishes</normalised>, so it may be for his hurt: to the<lb/>
+bramble fire, and who can but <normalised orig="pittie" auto="true">pity</normalised> that the<lb/>
+same Manna which <normalised orig="commeth" auto="true">comes</normalised> from <normalised orig="heauen" auto="true">heaven</normalised><lb/>
+                  <fw type="pageNum" n="77">76</fw>
+                  <pb n="2"/>
+                  <lb/>
+should be <normalised orig="poysoned" auto="true">poisoned</normalised> with it?<lb/>
+The <normalised orig="Iewes" auto="true">Jews</normalised> had no cause to <normalised orig="enuie" auto="true">envy</normalised> our<lb/>
+light, for he <normalised orig="gaue" auto="true">gave</normalised> <normalised orig="the~" auto="true">them</normalised> <normalised orig="glorie" auto="true">glory</normalised>: he was <normalised orig="poore" auto="true">poor</normalised>,<lb/>
+and yet he <normalised orig="gaue" auto="true">gave</normalised> them riches: he was counted<lb/>
+base, and yet he made them honourable,<lb/>
+he was <normalised orig="contemned" auto="true">condemned</normalised>, and yet he made them<lb/>
+<normalised orig="beloued" auto="true">beloved</normalised>: they were full of <normalised orig="darknesse" auto="true">darkness</normalised>, and he<lb/>
+brought them light, but they <normalised orig="contemned" auto="true">condemned</normalised><lb/>
+this light, and so procured their <normalised orig="owne" auto="true">own</normalised> condemnation.<lb/>
+And therefore now it is come<lb/>
+to <normalised orig="passe" auto="true">pass</normalised> that they are become vagabonds<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> the earth, and most <normalised orig="contemned" auto="true">condemned</normalised> of all<lb/>
+other nations, &amp; <normalised orig="euerie" auto="true">every</normalised> people <normalised orig="haue" auto="true">have</normalised> a dwelling:<lb/>
+but since they prophesied <normalised orig="euill" auto="true">evil</normalised> <normalised orig="vnto" auto="true">unto</normalised><lb/>
+<normalised orig="themselues" auto="true">themselves</normalised>, saying his blood be <normalised orig="vpon" auto="true">upon</normalised> <normalised orig="vs" auto="true">us</normalised> and<lb/>
+our children, <normalised orig="goodnesse" auto="true">goodness</normalised> <normalised orig="hath" auto="true">has</normalised> put on the face<lb/>
+of <normalised orig="bashfulnesse" auto="true">bashfulness</normalised> amongst them.<lb/>
+If thou embrace Christ as <notvariant>Simeon</notvariant> did, then<lb/>
+Christ is thy <normalised orig="glorie" auto="true">glory</normalised>, but if thy <normalised orig="glorie" auto="true">glory</normalised> consist<lb/>
+in <normalised orig="beautie" auto="true">beauty</normalised> which <normalised orig="fadeth" auto="true">fades</normalised>, in gay clothing<lb/>
+which <normalised orig="weareth" auto="true">wears</normalised>, in wealth which <normalised orig="wasteth" auto="true">wastes</normalised>, or<lb/>
+in gold which <normalised orig="rusteth" auto="false">rusted</normalised>, then Christ is not<lb/>
+thy <normalised orig="glorie" auto="true">glory</normalised>.<lb/>
+We <normalised orig="haue" auto="true">have</normalised> gone long with an <normalised orig="olde" auto="true">old</normalised> man,<lb/>
+and now we <normalised orig="haue" auto="true">have</normalised> lost him, but we are <normalised orig="loth" auto="true">loath</normalised><lb/>
+to part with him he is such a good companion,<lb/>
+<normalised orig="neuerthelesse" auto="true">nevertheless</normalised> we hope to <normalised orig="finde" auto="true">find</normalised> him <normalised orig="againe" auto="true">again</normalised><lb/>
+in <notvariant>Ionah</notvariant>.<lb/>
+We <normalised orig="haue" auto="true">have</normalised> gone but slowly with him as<lb/>
+                  <fw type="pageNum" n="78">77</fw>
+                  <pb n="3"/>
+                  <lb/>
+with an <normalised orig="olde" auto="true">old</normalised> man which is not <normalised orig="verie" auto="true">very</normalised> swift<lb/>
+on <normalised orig="foote" auto="true">foot</normalised>, but now we must <normalised orig="runne" auto="true">run</normalised> with <notvariant>Ionah</notvariant><lb/>
+as with a <normalised orig="poste" auto="true">post</normalised>, least <notvariant>Niniuie</notvariant> be <normalised orig="destroied" auto="true">destroyed</normalised>.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>
+                  <lb/>
+                  <quote type="biblical" ana="Jon 1.1">The word of the Lord came <normalised orig="vnto" auto="true">unto</normalised> <notvariant>Ionah</notvariant>.</quote>
+                  <lb/>
+               </head>
+               <p>
+                  <lb/>
+                  <lb/>
+I <normalised orig="neede" auto="true">need</normalised> not <normalised orig="shew" auto="true">show</normalised> the <normalised orig="authoritie" auto="true">authority</normalised> of Prophets,<lb/>
+but concerning their sorts and difference:<lb/>
+there are three sorts of Prophets. The<lb/>
+first were such as called <normalised orig="vpon" auto="true">upon</normalised> the name of<lb/>
+the Lord in prayer for the people, and <normalised orig="receiued" auto="true">received</normalised><lb/>
+an answer from the Lord in the peoples<lb/>
+<normalised orig="behalfe" auto="true">behalf</normalised>, of which sort was <normalised orig="Samuell" auto="true">Samuel</normalised>, &amp; these<lb/>
+were called Seers. A second sort of Prophets<lb/>
+were such as God <normalised orig="raysed" auto="true">raised</normalised> to <normalised orig="expou~d" auto="false">expound</normalised> the law,<lb/>
+and declare the will of God <normalised orig="vnto" auto="true">unto</normalised> the people,<lb/>
+when the Priests and such as should do<lb/>
+so, were <normalised orig="slacke" auto="true">slack</normalised> in their callings: of which<lb/>
+sort was <normalised orig="Esay" auto="true">Essay</normalised>, <normalised orig="Ieremie" auto="true">Jeremy</normalised>, Ezechiell, <normalised orig="Daniell" auto="true">Daniel</normalised>,<lb/>
+Hose, Ioell, Amos, Obadiah, <notvariant>Ionah</notvariant>, and the<lb/>
+rest of the holy Prophets. A third sort were<lb/>
+such as <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> since Christ, <normalised orig="woorking" auto="true">working</normalised><lb/>
+such like <normalised orig="effectes" auto="true">effects</normalised>, of which sort was the<lb/>
+Prophet <notvariant>Agabus</notvariant>, of <normalised orig="whome" auto="true">whom</normalised> mention is<lb/>
+made in the <normalised orig="eleuenth" auto="true">eleventh</normalised> of the Acts and the<lb/>
+28. verse.<lb/>
+Now in the second sort of these was <notvariant>Ionah</notvariant>,<lb/>
+whom God sent to declare his <normalised orig="wil" auto="true">will</normalised> <normalised orig="vnto" auto="true">unto</normalised><lb/>
+his people, <normalised orig="vnto" auto="true">unto</normalised> whom also the Lord did<lb/>
+<normalised orig="reueale" auto="true">reveal</normalised> the <normalised orig="subuersion" auto="true">subversion</normalised> of <normalised orig="kingdomes" auto="true">kingdoms</normalised>, the<lb/>
+                  <pb n="4"/>
+                  <lb/>
+<normalised orig="ouerthrow" auto="true">overthrow</normalised> of Tribes, the <normalised orig="captiuitie" auto="true">captivity</normalised> of Nations,<lb/>
+and calamities that were to come <normalised orig="vnto" auto="true">unto</normalised><lb/>
+the <normalised orig="sonnes" auto="true">sons</normalised> of men for <normalised orig="iniquitie" auto="true">iniquity</normalised> and rebellion<lb/>
+against God.<lb/>
+As all wise men were not borne at once,<lb/>
+nor <normalised orig="liued" auto="true">lived</normalised> <normalised orig="togither" auto="true">together</normalised>: so these holy Prophets<lb/>
+<normalised orig="haue" auto="true">have</normalised> not <normalised orig="beene" auto="true">been</normalised> at once, but were raised <normalised orig="vp" auto="true">up</normalised><lb/>
+by the Lord God, some here, some there, according<lb/>
+to his pleasure, and as he <normalised orig="sawe" auto="true">saw</normalised> the<lb/>
+people stand in need of them by reason of<lb/>
+the corruption of the times.<lb/>
+And furthermore, the Lord <normalised orig="hath" auto="true">has</normalised> not<lb/>
+at any time <normalised orig="reuealed" auto="true">revealed</normalised> <normalised orig="vnto" auto="true">unto</normalised> one of these, all<lb/>
+things that might be <normalised orig="reuealed" auto="true">revealed</normalised>, but as much<lb/>
+as was sufficient for them <normalised orig="euerie" auto="true">every</normalised> one in their<lb/>
+times and places. Neither <normalised orig="hath" auto="true">has</normalised> any of them<lb/>
+told as much of the will of God as might<lb/>
+be, nor the expounding of his <normalised orig="lawes" auto="true">laws</normalised>. But the<lb/>
+<normalised orig="Patriarkes" auto="true">Patriarchs</normalised> <normalised orig="haue" auto="true">have</normalised> left some to the Prophets,<lb/>
+and the Prophets <normalised orig="haue" auto="true">have</normalised> left some to the<lb/>
+Apostles, but they <normalised orig="haue" auto="true">have</normalised> left none for<lb/>
+<normalised orig="vs" auto="true">us</normalised>, but they <normalised orig="haue" auto="true">have</normalised> all left open the whole<lb/>
+will of GOD <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>, and <normalised orig="euerie" auto="true">every</normalised> one<lb/>
+<normalised orig="bringeth" auto="true">brings</normalised> <normalised orig="Golde" auto="true">Gold</normalised>, and <normalised orig="Myrrhe" auto="true">Myrrh</normalised>, and Frankensense,<lb/>
+like the wise men which came to<lb/>
+see our Lord.<lb/>
+There are three things which <normalised orig="moued" auto="true">moved</normalised> me to<lb/>
+take this <normalised orig="storie" auto="true">story</normalised> in hand <normalised orig="aboue" auto="true">above</normalised> <normalised orig="al" auto="true">all</normalised> others. First<lb/>
+because you know the <normalised orig="storie" auto="true">story</normalised>, and therefore<lb/>
+                  <fw type="pageNum" n="80">79</fw>
+                  <pb n="5"/>
+                  <lb/>
+can the better <normalised orig="conceiue" auto="true">conceive</normalised> of the matter as I go<lb/>
+forward with it. Secondly, because it is brief<lb/>
+and <normalised orig="doth" auto="true">does</normalised> <normalised orig="containe" auto="true">contain</normalised> a great <normalised orig="deale" auto="true">deal</normalised> in a little.<lb/>
+Thirdly, because it is most agreeable for the<lb/>
+                  <choice ana="illegible">
+                     <sic>*ime</sic>
+                     <corr>time</corr>
+                  </choice> and state of this <normalised orig="sinfull" auto="true">sinful</normalised> age wherein we<lb/>
+<normalised orig="liue" auto="true">live</normalised>, and therefore most <normalised orig="conuenient" auto="true">convenient</normalised> for <normalised orig="vs" auto="true">us</normalised>.<lb/>
+It is manifest that <notvariant>Ionah</notvariant> <normalised orig="liued" auto="true">lived</normalised> in a very troublesome<lb/>
+time, namely in the time of <normalised orig="Ieroboam" auto="true">Jeroboam</normalised><lb/>
+a wicked king, of whom it was said, that<lb/>
+he not only sinned himself against the Lord,<lb/>
+but it is he which is called the <normalised orig="Ieroboa~" auto="false">Jeroboam</normalised> that<lb/>
+made <normalised orig="Israell" auto="true">Israel</normalised> to <normalised orig="sinne" auto="true">sin</normalised>. Also this <normalised orig="comme~deth" auto="false">commended</normalised><lb/>
+the <normalised orig="constancie" auto="true">constancy</normalised> of <notvariant>Ionah</notvariant>, that he in the midst<lb/>
+of all the corruptions <normalised orig="wherwith" auto="true">wherewith</normalised> all the people<lb/>
+were <normalised orig="ouerflowne" auto="true">overflown</normalised>, kept him <normalised orig="selfe" auto="true">self</normalised> <normalised orig="vncorrupted" auto="true">uncorrupted</normalised><lb/>
+and <normalised orig="vnspotted" auto="true">unspotted</normalised> amongst them all.<lb/>
+And furthermore it <normalised orig="layeth" auto="true">lays</normalised> open and <normalised orig="magnifieth" auto="true">magnifies</normalised><lb/>
+the great <normalised orig="loue" auto="true">love</normalised> of God, in that he sent<lb/>
+a Prophet to admonish his <normalised orig="vngodly" auto="true">ungodly</normalised> people,<lb/>
+when as he should <normalised orig="haue" auto="true">have</normalised> sent a thunderbolt<lb/>
+to <normalised orig="terrifie" auto="true">terrify</normalised> them, or rather <normalised orig="vtterly" auto="true">utterly</normalised> to destroy<lb/>
+them: so that there mercy <normalised orig="stept" auto="true">stepped</normalised> before <normalised orig="iudgment" auto="true">judgment</normalised>.<lb/>
+His name was <notvariant>Ionah</notvariant>, which <normalised orig="signifieth" auto="true">signifies</normalised> a<lb/>
+<normalised orig="doue" auto="true">dove</normalised>, which <normalised orig="admonisheth" auto="true">admonishes</normalised> <normalised orig="vs" auto="true">us</normalised>, that as we labour<lb/>
+to be as wise as serpents, so we should<lb/>
+also desire that we might be as simple as<lb/>
+<normalised orig="doues" auto="true">doves</normalised>. His fathers name was <notvariant>Amittai</notvariant>, which<lb/>
+<normalised orig="signifieth" auto="true">signifies</normalised> truth. I would that truth were <normalised orig="euerie" auto="true">every</normalised><lb/>
+                  <pb n="6"/>
+                  <lb/>
+preachers father.<lb/>
+There are three <normalised orig="speciall" auto="true">special</normalised> things contained<lb/>
+in this <normalised orig="historie" auto="true">history</normalised>. First, the great <normalised orig="mercie" auto="true">mercy</normalised> of<lb/>
+God, expressed in this, that he sent a Prophet<lb/>
+to <notvariant>Niniuie</notvariant> a <normalised orig="Citie" auto="true">City</normalised> of the <normalised orig="Ge~tils" auto="false">Gentiles</normalised>, which<lb/>
+were strangers from the <normalised orig="couenant" auto="true">covenant</normalised>, from the<lb/>
+promise, and <normalised orig="straungers" auto="true">strangers</normalised> from the common<lb/>
+wealth of <normalised orig="Israell" auto="true">Israel</normalised>.<lb/>
+The second thing was <notvariant>Ionah</notvariant>, who being<lb/>
+no Gentile but an Israelite, which knew his<lb/>
+<normalised orig="maisters" auto="true">masters</normalised> will what it was, did yet presumptuously<lb/>
+neglect the same, not of a sudden<lb/>
+desire, for he had time <normalised orig="inough" auto="true">enough</normalised> to consider<lb/>
+what he did, and yet see what <normalised orig="mercie" auto="true">mercy</normalised> did:<lb/>
+the Lord prepared a great whale in the <normalised orig="bottome" auto="true">bottom</normalised><lb/>
+of the sea, where there was no hope of<lb/>
+life for him: afterwards the Lord <normalised orig="hauing" auto="true">having</normalised> <normalised orig="deliuered" auto="true">delivered</normalised><lb/>
+him out of the whales <normalised orig="bellie" auto="true">belly</normalised>, he went<lb/>
+and preached at <notvariant>Niniuie</notvariant> so zealously, as<lb/>
+though he had <normalised orig="neuer" auto="true">never</normalised> <normalised orig="bene" auto="true">been</normalised> the man which<lb/>
+was so disobedient before. And when he had<lb/>
+done, he murmured against God worse <normalised orig="the~" auto="true">them</normalised><lb/>
+<normalised orig="euer" auto="true">ever</normalised> he did, and all because he spared the<lb/>
+<normalised orig="citie" auto="true">city</normalised>.<lb/>
+The third thing was, the mariners which<lb/>
+had <normalised orig="bene" auto="true">been</normalised> idolaters all their <normalised orig="liues" auto="true">lives</normalised>, yet now by<lb/>
+the great power of God <normalised orig="mouing" auto="true">moving</normalised> them, called<lb/>
+<normalised orig="vpon" auto="true">upon</normalised> the true God, of whom they had<lb/>
+heard by <notvariant>Ionah</notvariant>, &amp; by whose <normalised orig="mightie" auto="true">mighty</normalised> power<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="82">G</fw>
+                  <pb n="7"/>
+                  <lb/>
+they were <normalised orig="saued" auto="true">saved</normalised>.<lb/>
+But in the <normalised orig="meane" auto="true">mean</normalised> while, <notvariant>Niniuie</notvariant> set on<lb/>
+the score, and had no ho with them in working<lb/>
+<normalised orig="wickednesse" auto="true">wickedness</normalised>: but still filling the cup<lb/>
+of all <normalised orig="abhominations" auto="true">abominations</normalised>, and running <normalised orig="downe" auto="true">down</normalised><lb/>
+to <normalised orig="hel" auto="true">hell</normalised> with as much speed and force as they<lb/>
+could, and no stay but the <normalised orig="perill" auto="true">peril</normalised> of death.<lb/>
+And <notvariant>Ionah</notvariant>, he <normalised orig="rebelleth" auto="true">rebels</normalised> against God, for<lb/>
+being sent to <notvariant>Niniuie</notvariant>, he went to Tarshish.<lb/>
+There are <normalised orig="foure" auto="true">four</normalised> <normalised orig="speciall" auto="true">special</normalised> things to be noted<lb/>
+in <notvariant>Ionah</notvariant>. First, the <normalised orig="daunger" auto="true">danger</normalised> of <notvariant>Ionah</notvariant><lb/>
+by his disobedience. <normalised orig="Secondlie" auto="true">Secondly</normalised>, the <normalised orig="behauiour" auto="true">behaviour</normalised><lb/>
+of <notvariant>Ionah</notvariant> in the whales <normalised orig="bellie" auto="true">belly</normalised>.<lb/>
+<normalised orig="Thirdlie" auto="true">Thirdly</normalised>, the grudging and murmuring of<lb/>
+<notvariant>Ionah</notvariant> against the Lord God. And <normalised orig="fourthlie" auto="false">fourthly</normalised>,<lb/>
+the rebuking of <notvariant>Ionah</notvariant> by God for his<lb/>
+<normalised orig="impietie" auto="true">impiety</normalised>.<lb/>
+He that <normalised orig="receiueth" auto="true">receives</normalised> a Prophet in the name<lb/>
+of a Prophet, shall <normalised orig="receyue" auto="true">receive</normalised> a Prophets reward.<lb/>
+Therefore let <normalised orig="vs" auto="true">us</normalised> prepare our <normalised orig="eares" auto="true">ears</normalised> to<lb/>
+<normalised orig="heare" auto="true">hear</normalised> and <normalised orig="receiue" auto="true">receive</normalised> the <normalised orig="worde" auto="true">word</normalised> of God preached<lb/>
+by his ministers, &amp; let <normalised orig="vs" auto="true">us</normalised> think that <notvariant>Ionah</notvariant><lb/>
+is come <normalised orig="againe" auto="true">again</normalised> to our houses to preach,<lb/>
+whether it be <normalised orig="fortie" auto="true">forty</normalised> <normalised orig="dayes" auto="true">days</normalised>, or <normalised orig="fortie" auto="true">forty</normalised> <normalised orig="weekes" auto="true">weeks</normalised>,<lb/>
+or <normalised orig="fortie" auto="true">forty</normalised> <normalised orig="yeares" auto="true">years</normalised>, they that <normalised orig="liue" auto="true">live</normalised> like <normalised orig="Sodome" auto="true">Sodom</normalised>,<lb/>
+shall be punished like <normalised orig="Sodome" auto="true">Sodom</normalised>.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>
+                  <lb/>
+                  <quote type="biblical" ana="Jon 1.1-2">The word of the Lord came to <notvariant>Ionah</notvariant> the<lb/>
+<normalised orig="sonne" auto="true">son</normalised> of <notvariant>Amittai</notvariant> saying, Arise. </quote> &amp;c.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+We <normalised orig="haue" auto="true">have</normalised> <normalised orig="seene" auto="true">seen</normalised> <notvariant>Ionah</notvariant> a <normalised orig="farre" auto="true">far</normalised> off, if we<lb/>
+                  <pb n="8"/>
+                  <lb/>
+would we might see him nearer.<lb/>
+As our <normalised orig="Sauiour" auto="true">Saviour</normalised> said to his disciples, <quote type="biblical" ana="Mt 24.20">Pray<lb/>
+that your flight be not in the winter, nor on<lb/>
+the <normalised orig="Sabboth" auto="true">Sabbath</normalised></quote>
+                  <lb/>
+: so say I <normalised orig="vnto" auto="true">unto</normalised> you, pray that<lb/>
+the <normalised orig="Lordes" auto="true">Lords</normalised> <normalised orig="comming" auto="true">coming</normalised> be not on the <normalised orig="weeke" auto="true">week</normalised><lb/>
+<normalised orig="dayes" auto="true">days</normalised> therefore: if he did come then, <normalised orig="howe" auto="true">how</normalised><lb/>
+should he find you? Therefore I pray you<lb/>
+<normalised orig="learne" auto="true">learn</normalised> now, and <normalised orig="giue" auto="true">give</normalised> good <normalised orig="eare" auto="true">ear</normalised> that <normalised orig="ye" auto="true">you</normalised> may<lb/>
+<normalised orig="heare" auto="true">hear</normalised> sufficient for all the <normalised orig="weeke" auto="true">week</normalised>.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>
+                  <lb/>
+                  <quote type="biblical" ana="Jon 1.1">The word of the Lord came</quote>, &amp;c.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Wherein I <normalised orig="obserue" auto="true">observe</normalised> that <notvariant>Ionah</notvariant> went not<lb/>
+before he was sent: for he going to preach<lb/>
+<normalised orig="vnto" auto="true">unto</normalised> the Gentiles, it was <normalised orig="needfull" auto="true">needful</normalised> that he<lb/>
+should <normalised orig="haue" auto="true">have</normalised> a <normalised orig="speciall" auto="true">special</normalised> calling and commission<lb/>
+from the Lord <normalised orig="himselfe" auto="true">himself</normalised>: for it was <normalised orig="vnmeet" auto="true">unmeet</normalised><lb/>
+to cast the <normalised orig="childrens" auto="true">children's</normalised> bread <normalised orig="vnto" auto="true">unto</normalised> dogs,<lb/>
+<normalised orig="vnlesse" auto="true">unless</normalised> he had a <normalised orig="speciall" auto="true">special</normalised> <normalised orig="commaundement" auto="true">commandment</normalised><lb/>
+from God so to do.<lb/>
+None ought to take <normalised orig="vpon" auto="true">upon</normalised> him the function<lb/>
+of preaching in the church, <normalised orig="vnles" auto="true">unless</normalised> they<lb/>
+<normalised orig="haue" auto="true">have</normalised> their warrant of <normalised orig="authoritie" auto="true">authority</normalised> from God,<lb/>
+as Aaron had. And although they <normalised orig="haue" auto="true">have</normalised> not<lb/>
+their <normalised orig="authoritie" auto="true">authority</normalised> in that <normalised orig="forme" auto="true">form</normalised> and <normalised orig="maner" auto="true">manner</normalised><lb/>
+as <notvariant>Ionah</notvariant> had his, (namely) as it were by<lb/>
+word of mouth, <normalised orig="euen" auto="true">even</normalised> from God <normalised orig="himselfe" auto="true">himself</normalised>,<lb/>
+                  <quote type="biblical" ana="Jon 1.2">Arise and go to <notvariant>Niniuie</notvariant>.</quote> Yet they must <normalised orig="haue" auto="true">have</normalised><lb/>
+their warrant from him (else their calling<lb/>
+is <normalised orig="vnlawfull" auto="true">unlawful</normalised>.)<lb/>
+But now there is another <normalised orig="authoritie" auto="true">authority</normalised> crept<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="84">G ij</fw>
+                  <pb n="9"/>
+                  <lb/>
+into the Church that makes so many idols,<lb/>
+which <normalised orig="haue" auto="true">have</normalised> eyes and see not, tongues and<lb/>
+<normalised orig="speake" auto="true">speak</normalised> not, <normalised orig="eares" auto="true">ears</normalised> and <normalised orig="heare" auto="true">hear</normalised> not, and that is<lb/>
+this. When one <normalised orig="stalleth" auto="false">stalled</normalised> <normalised orig="vp" auto="true">up</normalised> another into<lb/>
+Moses <normalised orig="chaire" auto="true">chair</normalised>, not <normalised orig="hauing" auto="true">having</normalised> Moses rod, nor<lb/>
+Moses spirit. And this gall will not <normalised orig="holde" auto="true">hold</normalised><lb/>
+spurring. Further I <normalised orig="obserue" auto="true">observe</normalised>, that as the<lb/>
+<normalised orig="worde" auto="true">word</normalised> of the Lord came to <notvariant>Ionah</notvariant>: so the<lb/>
+word of the Pope came to his priests, <normalised orig="Iesuits" auto="true">Jesuits</normalised><lb/>
+and Seminaries, but so and in such sort <normalised orig="manie" auto="true">many</normalised><lb/>
+times, that they are <normalised orig="drawne" auto="true">drawn</normalised> to Tiburne<lb/>
+while Masses are said for them at Rome.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>
+                  <lb/>
+                  <quote type="biblical" ana="Jon 1.1">The word of the Lord came <normalised orig="vnto" auto="true">unto</normalised> <notvariant>Ionah</notvariant>.</quote> &amp;c.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+Wherein also I <normalised orig="obserue" auto="true">observe</normalised>, that which came<lb/>
+<normalised orig="vnto" auto="true">unto</normalised> him was not <normalised orig="alwayes" auto="true">always</normalised> with him, but so<lb/>
+it was, that when the <normalised orig="worde" auto="true">word</normalised> of the Lord<lb/>
+came <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="anie" auto="true">any</normalised> of the Prophets, then they<lb/>
+were well furnished with <normalised orig="abilitie" auto="true">ability</normalised>, to teach,<lb/>
+to preach, to <normalised orig="reproue" auto="true">reprove</normalised>, or to command <normalised orig="whosoeuer" auto="true">whosoever</normalised><lb/>
+the Lord would <normalised orig="haue" auto="true">have</normalised> so handled, as<lb/>
+by example: Nathan the Prophet <normalised orig="bad" auto="true">bade</normalised> <normalised orig="Dauid" auto="true">David</normalised><lb/>
+the king that he should build a temple.<lb/>
+2. Sam. 1. and 1. Chron. 11. And a little after<lb/>
+he came and <normalised orig="bad" auto="true">bade</normalised> him that he should not<lb/>
+build it. Where wee see that when he <normalised orig="bad" auto="true">bade</normalised><lb/>
+him build it, then the <normalised orig="spirite" auto="true">spirit</normalised> of the Lord<lb/>
+came not <normalised orig="vnto" auto="true">unto</normalised> him to bid him so to do. And<lb/>
+therefore the spirit of God came <normalised orig="vpon" auto="true">upon</normalised> him<lb/>
+the <normalised orig="verie" auto="true">very</normalised> same night, and <normalised orig="bad" auto="true">bade</normalised> him that he<lb/>
+                  <pb n="10"/>
+                  <lb/>
+should go to <normalised orig="Dauid" auto="true">David</normalised>, and bid him that he<lb/>
+should not build it. For this is <normalised orig="euident" auto="true">evident</normalised>, that<lb/>
+as God <normalised orig="himselfe" auto="true">himself</normalised> is constant, so his spirit and<lb/>
+his word are constant, and therefore <normalised orig="neuer" auto="true">never</normalised><lb/>
+saith and <normalised orig="vnsaith" auto="false">unsaid</normalised> one thing.<lb/>
+<normalised orig="Againe" auto="true">Again</normalised> the Prophet Elisha said, 2. Kin. 4.<lb/>
+that the Sunamites heart was <normalised orig="grieued" auto="true">grieved</normalised>, but<lb/>
+the Lord had hid it from him, and had not<lb/>
+as then declared the same <normalised orig="vnto" auto="true">unto</normalised> him: which<lb/>
+<normalised orig="doth" auto="true">does</normalised> note <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised>, that the same <normalised orig="worde" auto="true">word</normalised><lb/>
+whereby the Lord <normalised orig="hath" auto="true">has</normalised>, and <normalised orig="doth" auto="true">does</normalised> <normalised orig="reueale" auto="true">reveal</normalised><lb/>
+<normalised orig="maruellous" auto="true">marvelous</normalised> things <normalised orig="vnto" auto="true">unto</normalised> his Prophets, was<lb/>
+not now <normalised orig="vpon" auto="true">upon</normalised> him, neither is <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="vpon" auto="true">upon</normalised><lb/>
+any Prophet, but according to the will of<lb/>
+God it comes <normalised orig="vnto" auto="true">unto</normalised> them, to <normalised orig="reueale" auto="true">reveal</normalised> <normalised orig="vnto" auto="true">unto</normalised><lb/>
+them what he would <normalised orig="haue" auto="true">have</normalised> them to do, and<lb/>
+when it <normalised orig="pleaseth" auto="true">pleases</normalised> him.<lb/>
+Also Daniel said, that the Lord did not<lb/>
+<normalised orig="reueale" auto="true">reveal</normalised> the kings <normalised orig="dreame" auto="true">dream</normalised> <normalised orig="vnto" auto="true">unto</normalised> him, for any<lb/>
+<normalised orig="wisdome" auto="true">wisdom</normalised> that he had more then any <normalised orig="liuing" auto="true">living</normalised>,<lb/>
+but only for the kings sake, &amp; and for the <normalised orig="poore" auto="true">poor</normalised><lb/>
+people of Gods sake, and so you must think<lb/>
+of <normalised orig="vs" auto="true">us</normalised> that are the ministers of the <normalised orig="Gospell" auto="true">Gospel</normalised>,<lb/>
+that the Lord <normalised orig="doth" auto="true">does</normalised> not <normalised orig="reueale" auto="true">reveal</normalised> his will <normalised orig="vnto" auto="true">unto</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised>, for any <normalised orig="wisdome" auto="true">wisdom</normalised> or <normalised orig="worthinesse" auto="true">worthiness</normalised> that<lb/>
+is in <normalised orig="vs" auto="true">us</normalised> more then other men, but for your<lb/>
+sakes, &amp; that we might <normalised orig="reueale" auto="true">reveal</normalised> it <normalised orig="vnto" auto="true">unto</normalised> you,<lb/>
+therefore <normalised orig="heare" auto="true">hear</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="euen" auto="true">even</normalised> for that cause, because<lb/>
+the Lord <normalised orig="hath" auto="true">has</normalised> <normalised orig="reuealed" auto="true">revealed</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="vs" auto="true">us</normalised> these<lb/>
+                  <lb/>
+                  <fw type="pageNum" n="86">G iij</fw>
+                  <pb n="11"/>
+                  <lb/>
+things for your sakes, and good. From the<lb/>
+calling we come to the charge.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>
+                  <lb/>
+                  <quote type="biblical" ana="Jon 1.2">Arise and go to <notvariant>Niniuie</notvariant> that great.</quote> &amp;c.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+God <normalised orig="commeth" auto="true">comes</normalised> and <normalised orig="findeth" auto="true">finds</normalised> <normalised orig="vs" auto="true">us</normalised> <normalised orig="al" auto="true">all</normalised> a <normalised orig="sleepe" auto="true">sleep</normalised>,<lb/>
+then he bids <normalised orig="vs" auto="true">us</normalised> arise, for they are not fit to<lb/>
+<normalised orig="conuert" auto="true">convert</normalised> others, which are not yet <normalised orig="co~uerted" auto="true">converted</normalised><lb/>
+<normalised orig="themselues" auto="true">themselves</normalised>, according to that saying of<lb/>
+Christ to Peter: When thou art <normalised orig="conuerted" auto="true">converted</normalised><lb/>
+(<normalised orig="sayth" auto="true">saith</normalised> he) <normalised orig="strengthe~" auto="false">strengthen</normalised> thy brethren, teaching<lb/>
+them by your experience. Now a <normalised orig="dayes" auto="true">days</normalised> men<lb/>
+take <normalised orig="vpon" auto="true">upon</normalised> them to <normalised orig="reproue" auto="true">reprove</normalised> others for committing<lb/>
+such <normalised orig="thinges" auto="true">things</normalised> as <normalised orig="themselues" auto="true">themselves</normalised> <normalised orig="haue" auto="true">have</normalised><lb/>
+practised, and do practise without amendment,<lb/>
+notwithstanding their diligence in<lb/>
+teaching others their <normalised orig="dutie" auto="true">duty</normalised>, they can teach<lb/>
+all the doctrine of Christ, <normalised orig="sauing" auto="true">saving</normalised> three <normalised orig="sillables" auto="true">syllables</normalised>,<lb/>
+that is: Follow me. Therefore these are<lb/>
+like some <normalised orig="Tailers" auto="false">Tailors</normalised>, which are <normalised orig="verie" auto="true">very</normalised> <normalised orig="busie" auto="true">busy</normalised> in<lb/>
+decking and tricking <normalised orig="vp" auto="true">up</normalised> of others, but go<lb/>
+bare &amp; <normalised orig="beggerly" auto="true">beggarly</normalised> <normalised orig="themselues" auto="true">themselves</normalised>. They <normalised orig="wil" auto="true">will</normalised> not<lb/>
+let <normalised orig="vs" auto="true">us</normalised> <normalised orig="plucke" auto="true">pluck</normalised> out the <normalised orig="moate" auto="true">moat</normalised> that is in their<lb/>
+eyes <choice ana="typeset-error">
+                     <sic/>
+                     <corr><normalised orig="vntill" auto="true">until</normalised></corr>
+                  </choice> we <normalised orig="haue" auto="true">have</normalised> plucked out the <normalised orig="beame" auto="true">beam</normalised><lb/>
+in our <normalised orig="owne" auto="true">own</normalised> eyes. <notvariant>Niniuie</notvariant> was the greatest<lb/>
+and the <normalised orig="auncientest" auto="true">ancientest</normalised> <normalised orig="citie" auto="true">city</normalised> in the land of Assyria,<lb/>
+and the name of it signified <normalised orig="Beautifull" auto="true">Beautiful</normalised>,<lb/>
+which name was <normalised orig="giuen" auto="true">given</normalised> it rather for the<lb/>
+<normalised orig="greatnesse" auto="true">greatness</normalised> and <normalised orig="beautie" auto="true">beauty</normalised> thereof, then for the<lb/>
+name of Ashur, which was the builder and<lb/>
+first founder <normalised orig="therof" auto="true">thereof</normalised> as we read in the <normalised orig="booke" auto="true">book</normalised><lb/>
+                  <pb n="12"/>
+                  <lb/>
+of Genesis. Some <normalised orig="thinke" auto="true">think</normalised> it to be built by Ninus,<lb/>
+but I am not of that <normalised orig="minde" auto="true">mind</normalised>. It had a<lb/>
+<normalised orig="faire" auto="true">fair</normalised> name, but <normalised orig="foule" auto="true">foul</normalised> deeds like this <normalised orig="citie" auto="true">city</normalised>.<lb/>
+The <normalised orig="Iewes" auto="true">Jews</normalised> would not <normalised orig="heare" auto="true">hear</normalised> the word of<lb/>
+God by <notvariant>Ionah</notvariant>, and <normalised orig="therfore" auto="true">therefore</normalised> the Lord sent to<lb/>
+<notvariant>Niniuie</notvariant>, signifying thereby that the <normalised orig="Iewes" auto="true">Jews</normalised><lb/>
+for their contempt and negligence should<lb/>
+be <normalised orig="reiected" auto="true">rejected</normalised>, and the Gentiles should be <normalised orig="receyued" auto="true">received</normalised><lb/>
+into the <normalised orig="fauour" auto="true">favour</normalised> of God, that they<lb/>
+might be an <normalised orig="holie" auto="true">holy</normalised> &amp; sanctified people <normalised orig="vnto" auto="true">unto</normalised><lb/>
+the Lord in their stead. Their <normalised orig="sinne" auto="true">sin</normalised> is noted<lb/>
+in this, that they sinned <normalised orig="euen" auto="true">even</normalised> <normalised orig="vntill" auto="true">until</normalised> the<lb/>
+Prophets were gone from them. Therefore<lb/>
+this was as it were to shake off the dust of<lb/>
+their feet to <normalised orig="witnesse" auto="true">witness</normalised> against them for their<lb/>
+<normalised orig="obstinacie" auto="true">obstinacy</normalised> and <normalised orig="hardnesse" auto="true">hardness</normalised> of heart, and to let<lb/>
+them see that the wickedest Gentiles were<lb/>
+more righteous then they, that they repented<lb/>
+at the voice of one Prophet, yea &amp; with<lb/>
+one sermon: whereas they refused &amp; resisted<lb/>
+all the holy and worthy Prophets that God<lb/>
+sent <normalised orig="vnto" auto="true">unto</normalised> them.<lb/>
+<normalised orig="Againe" auto="true">Again</normalised>, the calling of the Gentiles is declared<lb/>
+in this their submission with all <normalised orig="willingnesse" auto="true">willingness</normalised>,<lb/>
+which they did <normalised orig="shewe" auto="true">show</normalised> <normalised orig="vnto" auto="true">unto</normalised> the<lb/>
+words of this prophet <normalised orig="wheras" auto="true">whereas</normalised>: the <normalised orig="Iewes" auto="true">Jews</normalised> <normalised orig="reiected" auto="true">rejected</normalised><lb/>
+all the words of God, and would not<lb/>
+<normalised orig="heare" auto="true">hear</normalised> the Prophets, whom God had <normalised orig="raysed" auto="true">raised</normalised><lb/>
+<normalised orig="vp" auto="true">up</normalised> amongst them, which made those <choice ana="illegible">
+                     <sic>Niniui*s</sic>
+                     <corr>Niniuits </corr>
+                  </choice>
+                  <lb/>
+                  <lb/>
+                  <fw type="pageNum" n="88">G iiij</fw>
+                  <pb n="13"/>
+                  <lb/>
+to <normalised orig="proclaime" auto="true">proclaim</normalised> a fast, to put on sackcloth<lb/>
+and to humble <normalised orig="themselues" auto="true">themselves</normalised> before the Lord,<lb/>
+desiring him to <normalised orig="turne" auto="true">turn</normalised> away his wrath from<lb/>
+their <normalised orig="citie" auto="true">city</normalised>? Thus they repented, and repenting<lb/>
+were <normalised orig="saued" auto="true">saved</normalised> with <normalised orig="mercie" auto="true">mercy</normalised>: so they which<lb/>
+<normalised orig="grieue" auto="true">grieve</normalised> the spirit, quench the spirit, for the<lb/>
+<normalised orig="worde" auto="true">word</normalised> of God went from Samaria to <notvariant>Niniuie</notvariant>.<lb/>
+The <normalised orig="Gospell" auto="true">Gospel</normalised> was in Ephesus, but it went<lb/>
+from thence and came to England: and it<lb/>
+may go again from England. Let <normalised orig="the~" auto="true">them</normalised> which<lb/>
+<normalised orig="thinke" auto="true">think</normalised> that they stand, take <normalised orig="heede" auto="true">heed</normalised> least they<lb/>
+fall.<lb/>
+<notvariant>Niniuie</notvariant> <normalised orig="receyued" auto="true">received</normalised> the word of God, and<lb/>
+<normalised orig="neuer" auto="true">never</normalised> heard it before, and this <normalised orig="sheweth" auto="true">shows</normalised> that<lb/>
+the foolish &amp; simple are more diligent and<lb/>
+ready to <normalised orig="heare" auto="true">hear</normalised> and <normalised orig="receiue" auto="true">receive</normalised> the word of god,<lb/>
+than those that are wise in their <normalised orig="owne" auto="true">own</normalised> conceit,<lb/>
+&amp; also in the view of the world. What<lb/>
+saith Christ, the <normalised orig="poore" auto="true">poor</normalised> <normalised orig="receiue" auto="true">receive</normalised> the Gospel:<lb/>
+what saith <normalised orig="Paule" auto="true">Paul</normalised>: not many rich, not many<lb/>
+wise. For if we <normalised orig="haue" auto="true">have</normalised> knowledge, if this<lb/>
+knowledge be like the <normalised orig="Pharisies" auto="true">Pharisees</normalised>, that is, in<lb/>
+<normalised orig="shew" auto="true">show</normalised> of <normalised orig="sinceritie" auto="true">sincerity</normalised>, in counterfeit <normalised orig="holinesse" auto="true">holiness</normalised>,<lb/>
+and <normalised orig="hollow-hart" auto="false">hollow-heart</normalised> friendship through <normalised orig="hypocrisie" auto="true">hypocrisy</normalised>,<lb/>
+it had <normalised orig="beene" auto="true">been</normalised> better for <normalised orig="vs" auto="true">us</normalised> that we had<lb/>
+<normalised orig="beene" auto="true">been</normalised> ignorant, for it will but <normalised orig="leaue" auto="true">leave</normalised> <normalised orig="vs" auto="true">us</normalised> inexcusable,<lb/>
+it will be found insufficient to <normalised orig="saue" auto="true">save</normalised><lb/>
+<normalised orig="vs" auto="true">us</normalised>, but sufficient to <normalised orig="condemne" auto="true">condemn</normalised> <normalised orig="vs" auto="true">us</normalised>, because<lb/>
+                  <fw type="pageNum" n="89">88</fw>
+                  <pb n="14"/>
+                  <lb/>
+we <normalised orig="knowe" auto="true">know</normalised> our <normalised orig="maisters" auto="true">masters</normalised> will and <normalised orig="doe" auto="true">do</normalised> it not:<lb/>
+therefore as Peter said to Simon Magus,  <lb/>
+                  <quote type="biblical" ana="Acts 8.20">thy money perish with thee.</quote> So will the Lord<lb/>
+say <normalised orig="vnto" auto="true">unto</normalised> such: thy knowledge perish with<lb/>
+thee, seeing it is <normalised orig="vnprofitable" auto="true">unprofitable</normalised>.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>
+                  <lb/>
+                  <quote type="biblical" ana="Jon 1.2">That great <normalised orig="citie" auto="true">city</normalised>,</quote> &amp;c.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+As if <normalised orig="hee" auto="true">he</normalised> had <normalised orig="saide" auto="true">said</normalised>, <normalised orig="Feare" auto="true">Fear</normalised> it not, for<lb/>
+though it were <normalised orig="neuer" auto="true">never</normalised> so great I am able to<lb/>
+destroy it, and will destroy it if it <normalised orig="doth" auto="true">does</normalised> offend<lb/>
+me. And <normalised orig="moreouer" auto="true">moreover</normalised>, the greater it is, the<lb/>
+more <normalised orig="vngodly" auto="true">ungodly</normalised>. For as one man <normalised orig="taketh" auto="true">takes</normalised> <normalised orig="sicknesse" auto="true">sickness</normalised><lb/>
+of another: so one man is infected by<lb/>
+ill example of another, and so taught to<lb/>
+<normalised orig="sinne" auto="true">sin</normalised> the more, till the measure of <normalised orig="sinne" auto="true">sin</normalised> be<lb/>
+full. <notvariant>Niniuie</notvariant> had 1500. towers in it, and<lb/>
+120000 little children, as is noted in the end<lb/>
+of this <normalised orig="storie" auto="true">story</normalised>: therefore it may well be called<lb/>
+a great <normalised orig="citie" auto="true">city</normalised>.<lb/>
+But yet the <normalised orig="greatnesse" auto="true">greatness</normalised>, the <normalised orig="beautie" auto="true">beauty</normalised>, the<lb/>
+strength, and riches of this <normalised orig="citie" auto="true">city</normalised>, could not<lb/>
+withstand the hand of God, or keep it from<lb/>
+destruction, but rather further it and hasten<lb/>
+it. For with the more excellent ornaments<lb/>
+that it was adorned by the Lord, the more<lb/>
+<normalised orig="haynous" auto="true">heinous</normalised> and <normalised orig="grieuous" auto="true">grievous</normalised> in his sight was the<lb/>
+abuse of them. Therefore the <normalised orig="hugenesse" auto="true">hugeness</normalised>, nor<lb/>
+the strength of this or any other <normalised orig="Citie" auto="true">City</normalised>, can<lb/>
+<normalised orig="saue" auto="true">save</normalised> it from the <normalised orig="iudgement" auto="true">judgment</normalised> of God, being<lb/>
+<normalised orig="sinfull" auto="true">sinful</normalised> in his sight.<lb/>
+                  <pb n="15"/>
+                  <lb/>
+Great Sodom is destroyed: <normalised orig="Ierico" auto="true">Jericho</normalised> is destroyed:<lb/>
+great <notvariant>Niniuie</notvariant> is destroyed: great<lb/>
+<normalised orig="Ierusalem" auto="true">Jerusalem</normalised> is destroyed, and great Rome<lb/>
+the <normalised orig="roome" auto="true">room</normalised> of all <normalised orig="vncleane" auto="true">unclean</normalised> spirits, <normalised orig="stayeth" auto="true">stays</normalised><lb/>
+for her destruction, like a <normalised orig="whoore" auto="true">whore</normalised> that<lb/>
+<normalised orig="stayeth" auto="true">stays</normalised> for her punishment till she be <normalised orig="deliuered" auto="true">delivered</normalised>:<lb/>
+and all these were punished for<lb/>
+<normalised orig="vnthankefulnesse" auto="true">unthankfulness</normalised> and contempt of the<lb/>
+<normalised orig="worde" auto="true">word</normalised> of God. Yet <normalised orig="Ierico" auto="true">Jericho</normalised>, nor <normalised orig="Sodome" auto="true">Sodom</normalised>,<lb/>
+nor <notvariant>Niniuie</notvariant>, <normalised orig="haue" auto="true">have</normalised> had <normalised orig="halfe" auto="true">half</normalised> the preaching<lb/>
+that we <normalised orig="haue" auto="true">have</normalised>: yet we are <normalised orig="vnthankefull" auto="true">unthankful</normalised><lb/>
+too.<lb/>
+When Sodom was <normalised orig="burnede" auto="false">burned</normalised>, Zoar <normalised orig="stoode" auto="true">stood</normalised><lb/>
+safe: when <normalised orig="Ierusalem" auto="true">Jerusalem</normalised> was destroyed, Bethlehem<lb/>
+stood still: so the Lord <normalised orig="doth" auto="true">does</normalised> <normalised orig="alwayes" auto="true">always</normalised><lb/>
+<normalised orig="prouide" auto="true">provide</normalised> for his people, though he make <normalised orig="neuer" auto="true">never</normalised><lb/>
+so great a slaughter and destruction amongst<lb/>
+his enemies.<lb/>
+Great <normalised orig="Sodome" auto="true">Sodom</normalised> is destroyed, great <notvariant>Niniuie</notvariant><lb/>
+is destroyed, great <normalised orig="Ierusalem" auto="true">Jerusalem</normalised> is destroyed,<lb/>
+then what <normalised orig="haue" auto="true">have</normalised> wee to <normalised orig="looke" auto="true">look</normalised><lb/>
+for?<lb/>
+<notvariant>Ionah</notvariant> was cast into the sea, swallowed<lb/>
+of a fish, and cast <normalised orig="vp" auto="true">up</normalised> <normalised orig="againe" auto="true">again</normalised>, and after all<lb/>
+this, he must go preach at <notvariant>Niniuie</notvariant>, and he<lb/>
+must <normalised orig="conuert" auto="true">convert</normalised> it within <normalised orig="fortie" auto="true">forty</normalised> <normalised orig="dayes" auto="true">days</normalised>, and<lb/>
+that without miracles, which <normalised orig="wanne" auto="true">won</normalised> great<lb/>
+<normalised orig="credite" auto="true">credit</normalised> among the Gentiles. Within <normalised orig="fortie" auto="true">forty</normalised><lb/>
+<normalised orig="dayes" auto="true">days</normalised> <normalised orig="hee" auto="true">he</normalised> must <normalised orig="conuert" auto="true">convert</normalised> <notvariant>Niniuie</notvariant>, in <normalised orig="fortie" auto="true">forty</normalised><lb/>
+                  <fw type="pageNum" n="91">90</fw>
+                  <pb n="16"/>
+                  <lb/>
+<normalised orig="dayes" auto="true">days</normalised> the seed <normalised orig="sowen" auto="true">sown</normalised>, <normalised orig="growen" auto="true">grown</normalised>, and ripe.<lb/>
+Who would <normalised orig="haue" auto="true">have</normalised> thought <notvariant>Ionah</notvariant> should<lb/>
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> cast out of the sea to <normalised orig="conuert" auto="true">convert</normalised><lb/>
+<notvariant>Niniuie</notvariant>?<lb/>
+They that scorned at <notvariant>Ionah</notvariant>, are <normalised orig="conuerted" auto="true">converted</normalised><lb/>
+by <notvariant>Ionah</notvariant>, and they that despised the<lb/>
+<normalised orig="worde" auto="true">word</normalised>, are <normalised orig="ouercome" auto="true">overcome</normalised> by the <normalised orig="worde" auto="true">word</normalised>.<lb/>
+Though <notvariant>Ionah</notvariant> were cast out of a <normalised orig="shippe" auto="true">ship</normalised>,<lb/>
+swallowed of a fish, and cast out of the<lb/>
+sea, yet there is hope of him.<lb/>
+<normalised orig="Ioseph" auto="true">Joseph</normalised> is in prison, and who <normalised orig="knoweth" auto="true">knows</normalised><lb/>
+what shall become of him? who would <normalised orig="haue" auto="true">have</normalised><lb/>
+thought that Saule should become <normalised orig="Paule" auto="true">Paul</normalised>, or<lb/>
+Zacheus a Christian?<lb/>
+God <normalised orig="woulde" auto="true">would</normalised> not suffer <normalised orig="anie" auto="true">any</normalised> people to<lb/>
+<normalised orig="bee" auto="true">be</normalised> <normalised orig="vntaught" auto="true">untaught</normalised>: therefore <normalised orig="hee" auto="true">he</normalised> sent <normalised orig="vnto" auto="true">unto</normalised> the<lb/>
+<normalised orig="olde" auto="true">old</normalised> world Noah, Lot to <normalised orig="Sodome" auto="true">Sodom</normalised>, Moses to<lb/>
+<normalised orig="Israell" auto="true">Israel</normalised>. <normalised orig="Thinke" auto="true">Think</normalised> no worse of no man<lb/>
+though <normalised orig="hee" auto="true">he</normalised> were cast out of the sea as <notvariant>Ionah</notvariant>,<lb/>
+or baselie brought <normalised orig="vp" auto="true">up</normalised>, for the <normalised orig="Sauiour" auto="true">Saviour</normalised><lb/>
+of <normalised orig="Israell" auto="true">Israel</normalised> is brought out of the flags,<lb/>
+and the <normalised orig="saluation" auto="true">salvation</normalised> of the whole world out<lb/>
+of a stall.<lb/>
+It is <normalised orig="saide" auto="true">said</normalised> that GOD <normalised orig="worketh" auto="true">works</normalised> <normalised orig="manie" auto="true">many</normalised><lb/>
+things at once. It might well be said, for the<lb/>
+<normalised orig="mercie" auto="true">mercy</normalised> of God, the <normalised orig="conuersion" auto="true">conversion</normalised> of the Gentiles,<lb/>
+the <normalised orig="reiection" auto="true">rejection</normalised> of the <normalised orig="Iewes" auto="true">Jews</normalised> were <normalised orig="al" auto="true">all</normalised> set<lb/>
+forth herein, and yet a further matter was<lb/>
+contained in it.<lb/>
+                  <fw type="pageNum" n="92">91</fw>
+                  <pb n="17"/>
+                  <lb/>
+And although the <normalised orig="Iewes" auto="true">Jews</normalised> were a wicked &amp;<lb/>
+a <normalised orig="stiffe" auto="true">stiff</normalised> necked people, yet there were some<lb/>
+good men <normalised orig="amo~g" auto="true">among</normalised> them whom the Prophets<lb/>
+call a remnant, like the gleaning after <normalised orig="haruest" auto="true">harvest</normalised>,<lb/>
+or like a cluster of grapes on the top of<lb/>
+the vine after the vintage. And these must<lb/>
+be <normalised orig="remembred" auto="true">remembered</normalised> in <normalised orig="mercie" auto="true">mercy</normalised>, because of the <normalised orig="couenant" auto="true">covenant</normalised><lb/>
+made <normalised orig="vnto" auto="true">unto</normalised> their fathers. So among<lb/>
+them that went into <normalised orig="captiuitie" auto="true">captivity</normalised>, there was<lb/>
+Shidrach, Misach, and <notvariant>Abednego</notvariant>. And so all<lb/>
+do not <normalised orig="kneele" auto="true">kneel</normalised> to Bell, for they whom the<lb/>
+Lord <normalised orig="preserueth" auto="true">preserves</normalised> do not.<lb/>
+The Lord because of his <normalised orig="couenant" auto="true">covenant</normalised> <normalised orig="doth" auto="true">does</normalised><lb/>
+<normalised orig="alwayes" auto="true">always</normalised> <normalised orig="prouide" auto="true">provide</normalised> for his chosen, although<lb/>
+there be <normalised orig="neuer" auto="true">never</normalised> so great <normalised orig="calamitie" auto="true">calamity</normalised> or trouble,<lb/>
+as we see in the <normalised orig="booke" auto="true">book</normalised> of Genesis 45. chapt.<lb/>
+when there was a great time of dearth and<lb/>
+<normalised orig="scarcitie" auto="true">scarcity</normalised> to come <normalised orig="vpon" auto="true">upon</normalised> the land where <normalised orig="Iacob" auto="true">Jacob</normalised><lb/>
+was, then the Lord sent <normalised orig="Ioseph" auto="true">Joseph</normalised> to <normalised orig="prouide" auto="true">provide</normalised><lb/>
+for his father <normalised orig="Iacob" auto="true">Jacob</normalised>, least <normalised orig="hee" auto="true">he</normalised> should want<lb/>
+bread, he or any of his <normalised orig="sonnes" auto="true">sons</normalised>, and folks, and<lb/>
+so ordered the matter, that <normalised orig="Ioseph" auto="true">Joseph</normalised> was treasurer<lb/>
+<normalised orig="ouer" auto="true">over</normalised> all the <normalised orig="corne" auto="true">corn</normalised> in Egypt. And so among<lb/>
+the Turks and the Spaniards and infidels,<lb/>
+the Lord will find <normalised orig="meanes" auto="true">means</normalised> to do them<lb/>
+good which <normalised orig="vnfainedly" auto="true">unfeignedly</normalised> <normalised orig="loue" auto="true">love</normalised> him, and in<lb/>
+the dungeon, &amp; in the prison, and in bonds,<lb/>
+yea and in death, the godly shall find God.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>
+                  <lb/>
+                  <quote type="biblical" ana="Jon 1.2">And <normalised orig="crie" auto="true">cry</normalised> against it</quote>
+                  <lb/>
+               </head>
+               <p>
+                  <lb/>
+                  <pb n="18"/>
+                  <lb/>
+First God <normalised orig="biddeth" auto="true">bids</normalised> him, Arise and shake<lb/>
+off all impediments, and then to go and call<lb/>
+them to the <normalised orig="battel" auto="true">battle</normalised>, and now he bids him <normalised orig="crie" auto="true">cry</normalised><lb/>
+out against them, and so <normalised orig="terrifie" auto="true">terrify</normalised> them. <normalised orig="Euery" auto="true">Every</normalised><lb/>
+Prophet is a crier, as <normalised orig="appeareth" auto="true">appears</normalised> where<lb/>
+the Lord <normalised orig="biddeth" auto="true">bids</normalised> <normalised orig="Esaie" auto="true">Essay</normalised> to lift <normalised orig="vp" auto="true">up</normalised> his<lb/>
+<normalised orig="voyce" auto="true">voice</normalised> like a Trumpet. <normalised orig="Euerie" auto="true">Every</normalised> Prophet<lb/>
+must both be <normalised orig="plaine" auto="true">plain</normalised> and bold, and this many<lb/>
+times <normalised orig="maketh" auto="true">makes</normalised> the <normalised orig="poore" auto="true">poor</normalised> <normalised orig="seruants" auto="true">servants</normalised> of God<lb/>
+to <normalised orig="speake" auto="true">speak</normalised> their minds as <normalised orig="plaine" auto="true">plain</normalised> and bold as<lb/>
+if they sate in <normalised orig="iudgement" auto="true">judgment</normalised>. <normalised orig="Iohn" auto="true">John</normalised> was a voice,<lb/>
+a voice would not <normalised orig="serue" auto="true">serve</normalised>, he was the voice<lb/>
+of a crier, and yet <normalised orig="hee" auto="true">he</normalised> could not make the<lb/>
+crooked straight, nor the rough <normalised orig="plaine" auto="true">plain</normalised>.<lb/>
+If they were not <normalised orig="deafe" auto="true">deaf</normalised>, they need not to<lb/>
+<normalised orig="crie" auto="true">cry</normalised> one to another, such is the <normalised orig="dumbnesse" auto="true">dumbness</normalised><lb/>
+of preachers, the <normalised orig="deafnesse" auto="true">deafness</normalised> of hearers, and the<lb/>
+<normalised orig="slownesse" auto="true">slowness</normalised> of followers, that there is but <normalised orig="litle" auto="true">little</normalised><lb/>
+good done, and but a few <normalised orig="frutes" auto="true">fruit</normalised> gathered. If<lb/>
+<normalised orig="ye" auto="true">you</normalised> were not <normalised orig="deafe" auto="true">deaf</normalised>, we <normalised orig="neede" auto="true">need</normalised> not to <normalised orig="crie" auto="true">cry</normalised>: and<lb/>
+therefore we <normalised orig="crie" auto="true">cry</normalised> with mouth, with heart,<lb/>
+with hand, with foot, &amp; with all the powers<lb/>
+of our bodies <normalised orig="vnto" auto="true">unto</normalised> you, and yet how little<lb/>
+do you regard it? But are not <normalised orig="ye" auto="true">you</normalised> commanded<lb/>
+to <normalised orig="heare" auto="true">hear</normalised> as well as we to <normalised orig="crie" auto="true">cry</normalised>? yet the <normalised orig="cocke" auto="true">cock</normalised><lb/>
+<normalised orig="croweth" auto="true">crows</normalised> when men are fastest <normalised orig="asleepe" auto="true">asleep</normalised>, yea<lb/>
+the <normalised orig="cocke" auto="true">cock</normalised> <normalised orig="croweth" auto="true">crows</normalised>, and still Peter <normalised orig="denieth" auto="true">denies</normalised><lb/>
+his <normalised orig="maister" auto="true">master</normalised>.<lb/>
+Before you <normalised orig="crie" auto="true">cry</normalised> <normalised orig="vnto" auto="true">unto</normalised> the Lord, <normalised orig="heare" auto="true">hear</normalised> what<lb/>
+                  <fw type="pageNum" n="94">93</fw>
+                  <pb n="19"/>
+                  <lb/>
+the word <normalised orig="crieth" auto="true">cries</normalised> <normalised orig="vnto" auto="true">unto</normalised> you, and let not your<lb/>
+<normalised orig="woorkes" auto="true">works</normalised> <normalised orig="crie" auto="true">cry</normalised> for <normalised orig="vengeaunce" auto="true">vengeance</normalised> while your<lb/>
+tongues <normalised orig="crie" auto="true">cry</normalised> for <normalised orig="mercie" auto="true">mercy</normalised>.<lb/>
+When men <normalised orig="heare" auto="true">hear</normalised> the preacher <normalised orig="speake" auto="true">speak</normalised> against<lb/>
+pride, <normalised orig="hypocrisie" auto="true">hypocrisy</normalised>, <normalised orig="couetousnesse" auto="true">covetousness</normalised>, or <normalised orig="anie" auto="true">any</normalised><lb/>
+other <normalised orig="sinne" auto="true">sin</normalised>, then they <normalised orig="looke" auto="true">look</normalised> one <normalised orig="vpon" auto="true">upon</normalised><lb/>
+another, as though it belonged not <normalised orig="vnto" auto="true">unto</normalised><lb/>
+them: but who can say his <normalised orig="hart" auto="true">heart</normalised> is <normalised orig="cleane" auto="true">clean</normalised>? In<lb/>
+the second of the <normalised orig="Actes" auto="true">Acts</normalised>, the holy Ghost<lb/>
+came <normalised orig="downe" auto="true">down</normalised> in fire &amp; tongs: but this fire is<lb/>
+quenched, and the tongues are tied <normalised orig="vp" auto="true">up</normalised>:<lb/>
+though they cannot speak, they can see; they<lb/>
+can see if a great benefice fall though it be<lb/>
+an hundred miles off: yet <normalised orig="Pharao" auto="true">Pharaoh</normalised> had more<lb/>
+care of his <normalised orig="sheepe" auto="true">sheep</normalised>, then wee <normalised orig="haue" auto="true">have</normalised> of our<lb/>
+<normalised orig="soules" auto="true">souls</normalised>.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>
+                  <lb/>
+                  <quote type="biblical" ana="Jon 1.2">And <normalised orig="crie" auto="true">cry</normalised> against them: For their <normalised orig="wickednesse" auto="true">wickedness</normalised><lb/>
+is come <normalised orig="vp" auto="true">up</normalised>.</quote> &amp;c.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+<normalised orig="Faire" auto="true">Fair</normalised> <notvariant>Niniuie</notvariant>, <normalised orig="proude" auto="true">proud</normalised> <notvariant>Niniuie</notvariant> <choice ana="typeset-error">
+                     <sic/>
+                     <corr><notvariant>Niniuie</notvariant></corr>
+                  </choice> must be<lb/>
+destroyed: no man sits so high, but destruction<lb/>
+sits <normalised orig="aboue" auto="true">above</normalised> him. <normalised orig="Iustice" auto="true">Justice</normalised> would <normalised orig="haue" auto="true">have</normalised><lb/>
+come against them before it cried <normalised orig="agaynst" auto="true">against</normalised><lb/>
+them. But while they heard the <normalised orig="crie" auto="true">cry</normalised> of<lb/>
+God, God heard their cries, and <normalised orig="tooke" auto="true">took</normalised> <normalised orig="pitie" auto="true">pity</normalised><lb/>
+on them.<lb/>
+When God cries, then we should <normalised orig="weepe" auto="true">weep</normalised>,<lb/>
+considering wherefore he cries: for there is<lb/>
+nothing that can <normalised orig="prouoke" auto="true">provoke</normalised> the Lord to <normalised orig="crie" auto="true">cry</normalised>,<lb/>
+but <normalised orig="sinne" auto="true">sin</normalised>, and that he <normalised orig="euer" auto="true">ever</normalised> <normalised orig="crieth" auto="true">cries</normalised> against.<lb/>
+                  <pb n="20"/>
+                  <lb/>
+Do what thou wilt, and say what thou wilt,<lb/>
+and the Lord <normalised orig="wil" auto="true">will</normalised> not be offended with you<lb/>
+<normalised orig="vnlesse" auto="true">unless</normalised> you <normalised orig="sinne" auto="true">sin</normalised>. For as an <normalised orig="angrie" auto="true">angry</normalised> man <normalised orig="euer" auto="true">ever</normalised><lb/>
+<normalised orig="pursueth" auto="true">pursues</normalised> that which he <normalised orig="hateth" auto="true">hates</normalised>, <normalised orig="vntill" auto="true">until</normalised> he<lb/>
+<normalised orig="hath" auto="true">has</normalised> destroyed it: so the Lord <normalised orig="euer" auto="true">ever</normalised> <normalised orig="crosseth" auto="true">crosses</normalised><lb/>
+and <normalised orig="hindereth" auto="true">hinders</normalised> <normalised orig="vs" auto="true">us</normalised> in all our wicked actions,<lb/>
+<normalised orig="vntill" auto="true">until</normalised> he <normalised orig="hath" auto="true">has</normalised> <normalised orig="slaine" auto="true">slain</normalised> <normalised orig="sinne" auto="true">sin</normalised> in <normalised orig="vs" auto="true">us</normalised>.<lb/>
+Our <normalised orig="sinnes" auto="true">sins</normalised> buffet God on <normalised orig="euerie" auto="true">every</normalised> side, as<lb/>
+the <normalised orig="Iewes" auto="true">Jews</normalised> <normalised orig="buffetted" auto="true">buffeted</normalised> Christ: first on the<lb/>
+right side, and then on the left side, and <normalised orig="neuer" auto="true">never</normalised><lb/>
+<normalised orig="leaue" auto="true">leave</normalised> till we <normalised orig="haue" auto="true">have</normalised> <normalised orig="prouoked" auto="true">provoked</normalised> him to <normalised orig="crie" auto="true">cry</normalised><lb/>
+against <normalised orig="vs" auto="true">us</normalised>.<lb/>
+                  <lb/>
+               </p>
+            </div>
+            <div>
+               <head>
+                  <lb/>
+                  <quote type="biblical" ana="Jon 1.2">And <normalised orig="crie" auto="true">cry</normalised> against it,</quote> &amp;c.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+<normalised orig="Reproofe" auto="true">Reproof</normalised> is the <notvariant>necessariest</notvariant> office, yet it<lb/>
+is least regarded, &amp; least esteemed. For now<lb/>
+we <normalised orig="thinke" auto="true">think</normalised> if one <normalised orig="doth" auto="true">does</normalised> <normalised orig="reproue" auto="true">reprove</normalised> <normalised orig="vs" auto="true">us</normalised>, that he<lb/>
+<normalised orig="hateth" auto="true">hates</normalised> <normalised orig="vs" auto="true">us</normalised>.<lb/>
+But the <normalised orig="Lorde" auto="true">Lord</normalised> <normalised orig="sayth" auto="true">saith</normalised> Leuit. 19. Thou<lb/>
+shalt not hate thy brother in thy heart, but<lb/>
+shalt <normalised orig="reprooue" auto="true">reprove</normalised> him, and suffer him not to<lb/>
+<normalised orig="sinne" auto="true">sin</normalised>: noting thereby, that if wee flatter<lb/>
+<normalised orig="anie" auto="true">any</normalised> in their <normalised orig="sinne" auto="true">sin</normalised>, or see them <normalised orig="sinne" auto="true">sin</normalised>, and<lb/>
+not <normalised orig="reprooue" auto="true">reprove</normalised> them for it, that it is a manifest<lb/>
+<normalised orig="signe" auto="true">sign</normalised> that they <normalised orig="doe" auto="true">do</normalised> it of hatred, how<lb/>
+great <normalised orig="loue" auto="true">love</normalised> and good will so <normalised orig="euer" auto="true">ever</normalised> they pretend<lb/>
+toward them, seeing the matter <normalised orig="tendes" auto="true">tends</normalised><lb/>
+to the hurt of their <normalised orig="soules" auto="true">souls</normalised>, and the offence<lb/>
+of God.<lb/>
+                  <pb n="21"/>
+                  <lb/>
+If a preacher <normalised orig="reproue" auto="true">reprove</normalised> sin, he is <normalised orig="thoght" auto="true">thought</normalised> to do<lb/>
+it of hatred, or of some particular grudge: &amp;<lb/>
+others as though they were galled, will say,<lb/>
+let him <normalised orig="keepe" auto="true">keep</normalised> his text: or they will say, he is<lb/>
+beside his <normalised orig="booke" auto="true">book</normalised>, as though no text in scripture<lb/>
+<normalised orig="doth" auto="true">does</normalised> <normalised orig="reproue" auto="true">reprove</normalised> sin, and so of <normalised orig="al" auto="true">all</normalised> doctrines,<lb/>
+the doctrine of <normalised orig="reproofe" auto="true">reproof</normalised> &amp; reprehension of<lb/>
+sin is most <normalised orig="contemned" auto="true">condemned</normalised>, and least esteemed.<lb/>
+But let a preacher preach <normalised orig="darke" auto="true">dark</normalised> <normalised orig="misteries" auto="true">mysteries</normalised>, or<lb/>
+<normalised orig="prophane" auto="true">profane</normalised> speeches, or <normalised orig="vnprofitable" auto="true">unprofitable</normalised> fables,<lb/>
+or <normalised orig="friuolous" auto="true">frivolous</normalised> questions, or curious <normalised orig="inuentions" auto="true">inventions</normalised>,<lb/>
+or <normalised orig="od" auto="false">odd</normalised> conceits, or <normalised orig="brainsicke" auto="true">brainsick</normalised> <normalised orig="dreames" auto="true">dreams</normalised>, &amp;<lb/>
+any of these will be more welcome <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="the~" auto="true">them</normalised><lb/>
+then reprehension which is most profitable<lb/>
+and <notvariant>necessariest</notvariant> of all. <notvariant>Balaams</notvariant> <normalised orig="asse" auto="true">ass</normalised> <normalised orig="neuer" auto="true">never</normalised><lb/>
+<normalised orig="spake" auto="true">spoke</normalised> but once, and then he <normalised orig="reproued" auto="true">reproved</normalised>. Then<lb/>
+if <notvariant>Balaams</notvariant> <normalised orig="asse" auto="true">ass</normalised> <normalised orig="reproued" auto="true">reproved</normalised> Balaa~, how much<lb/>
+more ought Balaam to <normalised orig="reproue" auto="true">reprove</normalised> asses, or such<lb/>
+as will be no otherwise then beasts in their<lb/>
+<normalised orig="behauiour" auto="true">behaviour</normalised>.<lb/>
+When we <normalised orig="reproue" auto="true">reprove</normalised> you for sins, whether<lb/>
+they be <normalised orig="vsuall" auto="true">usual</normalised>, or <normalised orig="priuate" auto="true">private</normalised>, you <normalised orig="thinke" auto="true">think</normalised> ill of<lb/>
+<normalised orig="vs" auto="true">us</normalised>. If a preacher <normalised orig="reproue" auto="true">reprove</normalised> a <normalised orig="publike" auto="true">public</normalised> sin, which<lb/>
+is <normalised orig="vsed" auto="true">used</normalised> and <normalised orig="tollerated" auto="true">tolerated</normalised> <normalised orig="amongest" auto="true">amongst</normalised> many, he is<lb/>
+hated of many, and thought to be too <normalised orig="busie" auto="true">busy</normalised>,<lb/>
+or that he is <choice ana="print-error">
+                     <sic>toosharpe</sic>
+                     <corr>too sharpe</corr>
+                  </choice> and rough. And<lb/>
+they say, that whereas <normalised orig="hee" auto="true">he</normalised>, should preach<lb/>
+Gods <normalised orig="loue" auto="true">love</normalised> and <normalised orig="mercie" auto="true">mercy</normalised>, he <normalised orig="tels" auto="true">tells</normalised> <normalised orig="vs" auto="true">us</normalised> of the law,<lb/>
+and so <normalised orig="doth" auto="true">does</normalised> throw <normalised orig="vs" auto="true">us</normalised> <normalised orig="downe" auto="true">down</normalised> too low, &amp;c.<lb/>
+                  <pb n="22"/>
+                  <lb/>
+And if he <normalised orig="reprooue" auto="true">reprove</normalised> a <normalised orig="sinne" auto="true">sin</normalised> that is done <normalised orig="priuatelie" auto="true">privately</normalised><lb/>
+he is thought to be <normalised orig="enuious" auto="true">envious</normalised>, and one<lb/>
+that preaches the law, and thereby <normalised orig="throwes" auto="true">throws</normalised><lb/>
+some to <normalised orig="despaire" auto="true">despair</normalised>, &amp; so <normalised orig="al" auto="true">all</normalised> reproof is thought<lb/>
+by them <normalised orig="intollerable" auto="true">intolerable</normalised>. But we preach hell to<lb/>
+bring you to <normalised orig="heauen" auto="true">heaven</normalised>, we preach the law to<lb/>
+lead you to the Gospel, we preach <normalised orig="iudgement" auto="true">judgment</normalised>,<lb/>
+that you might find <normalised orig="mercie" auto="true">mercy</normalised>, we threaten,<lb/>
+as though we should strike you, we rebuke<lb/>
+as though we were <normalised orig="angrie" auto="true">angry</normalised> with you,<lb/>
+and <normalised orig="exclaime" auto="true">exclaim</normalised> as though we did hate you:<lb/>
+but we <normalised orig="loue" auto="true">love</normalised> you in the dearest blood<lb/>
+we <normalised orig="haue" auto="true">have</normalised>. The Lord grant <normalised orig="vs" auto="true">us</normalised> all<lb/>
+to <normalised orig="loue" auto="true">love</normalised> the truth to<lb/>
+the end.<lb/>
+                  <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

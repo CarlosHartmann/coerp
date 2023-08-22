@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="pamphlet_letter_1667_Owen_R2">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Indvlgence" auto="false">Indulgence</normalised> and toleration</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="JoOw1616"><normalised orig="Owen" auto="true">Own</normalised>, John</author>
+               <title type="main"><normalised orig="Indvlgence" auto="false">Indulgence</normalised> and toleration considered: In a letter unto A Person of Honour.</title>
+               <title type="short"><normalised orig="Indvlgence" auto="false">Indulgence</normalised> and toleration</title>
+               <date when="1667">1667</date>
+               <date type="this_edition" when="1667">1667</date>
+               <idno type="Wing">O763</idno>
+               <note type="genre" subtype="pamphlet_letter">letter pamphlet</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">quarto</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">change of font</term>
+                     </item>
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="sample"/>
+      </body>
+   </text>
+</TEI>

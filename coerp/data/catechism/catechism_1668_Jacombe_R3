@@ -1,0 +1,747 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jacombe's Catechism</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="SaJa1659d">Jacombe, Samuel</author>
+               <title type="main">
+A Short and Plain Catechism Instructing a Learner of Christian Religion, what he is to believe, and what to Practise.
+</title>
+               <title type="short">Jacombe's Catechism</title>
+               <date when="1668">1668</date>
+               <date type="this_edition" when="1668">1668</date>
+               <idno type="Wing">J109B</idno>
+               <note type="genre" subtype="catechism">catechism</note>
+               <note type="sample" target="#SaJa1659d_1668_catechism_1">p.3, l.1 – p.14, l.14</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">octavo</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="first">decorated initial</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                     <item>
+                        <term type="footnotes">true</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="SaJa1659d_1668_catechism_1">
+            <div>
+               <head>A Short
+CATECHISM.</head>
+               <sp who="a">
+                  <p>Quest.<lb/>
+WHAT is man?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>Answ. A reasonable creature.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What mean you when<lb/>
+you say you are reasonable?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. I mean I am above a beast, and<lb/>
+have something within me whereby I<lb/>
+know what I do, and why.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. That I may see how your knowledge<lb/>
+leads to practice: tell me, what learn you<lb/>
+from your being reasonable?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. That I never do any thing of<lb/>
+which I cannot give a good account<lb/>
+to my self and others.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You said you was a creature,<lb/>
+what mean you by that?<lb/>
+                  </p>
+               </sp>
+               <fw type="pageNum" n="4">A2</fw>
+               <pb n="1"/>
+               <sp who="b">
+                  <p>A. I mean, I once was not, but<lb/>
+was made, and am preserved by another.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. That I must constantly live in <normalised orig="dependance" auto="true">dependence</normalised><lb/>
+on him that made me.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. Who made you?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. God.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What is God?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. God is a Being wholly spiritual,<lb/>
+and therein above my self, most<lb/>
+gracious, holy, wise, powerful,<lb/>
+infinite in all perfections, and therein<lb/>
+above all spirits.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You say God is a Being wholly spiritual,<lb/>
+what mean you by it?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. I mean he is a Being that <normalised orig="hath" auto="true">has</normalised> no<lb/>
+flesh and bones as I have, and cannot be<lb/>
+perceived by any of my senses, nor can<lb/>
+I make any thing like him.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You have acknowledged a God, and<lb/>
+told me he is a Spirit, what learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. That I am bound to worship him,<lb/>
+and to worship him in spirit.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You said he was gracious, what mean<lb/>
+you by his grace?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. I mean his readiness to do all<lb/>
+good.<lb/>
+                  </p>
+               </sp>
+               <pb n="2"/>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. To expect from his bounty whatsoever<lb/>
+he <normalised orig="seeth" auto="true">sees</normalised> needful for me.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You said God was holy, what mean<lb/>
+you by it?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. That he neither can or will do any<lb/>
+evil, and can neither love nor approve<lb/>
+it in any other.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. Never to imagine his grace will<lb/>
+countenance me in sin.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You said God was wise, what mean<lb/>
+you by it?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. That he <normalised orig="hath" auto="true">has</normalised> knowledge of all<lb/>
+things, and ability to do all things<lb/>
+according to it.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. To do all as in his sight, and<lb/>
+begging direction of him to rest satisfied<lb/>
+in his disposal.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You said God was powerful, what<lb/>
+mean you by it?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. That he is almighty, and can do<lb/>
+all things; that agree with his wisdom<lb/>
+and holiness.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. To fear him above all creatures,<lb/>
+being confident, that what he<lb/>
+                     <lb/>
+                     <fw type="pageNum" n="6">A3</fw>
+                     <pb n="3"/>
+                     <lb/>
+<normalised orig="hath" auto="true">has</normalised> promised or <normalised orig="threatned" auto="true">threatened</normalised>, shall be<lb/>
+fulfilled, though it seem impossible to<lb/>
+flesh and blood.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You added God was infinite in all<lb/>
+perfections, what <normalised orig="doth" auto="false">does</normalised> that teach you?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. Never to admit any low or unworthy<lb/>
+thoughts of God; and when<lb/>
+I have the highest, then to remember<lb/>
+I know him best, when I admire him<lb/>
+most.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You have told me you was made, and<lb/>
+that God was your maker, for what end did<lb/>
+he make you?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. That by faithful service to him,<lb/>
+I might be happy in the enjoyment of<lb/>
+him.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. Carefully to perform my duty to<lb/>
+God, and never to seek happiness in<lb/>
+worldly pleasures, and profits, or any<lb/>
+thing below him.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You were made to serve God, how<lb/>
+will he be served?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. According to his will revealed in<lb/>
+the Scriptures, wherein all things are<lb/>
+contained, which I am to believe and<lb/>
+practise.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <pb n="4"/>
+               <sp who="b">
+                  <p>A. Diligently to read &amp; search them.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What <normalised orig="doth" auto="false">does</normalised> the Scripture teach you<lb/>
+concerning man, which you have not yet<lb/>
+told me?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. The Scriptures give the History<lb/>
+of the creation of the world out of nothing,<lb/>
+and of Adam the first man.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. How was Adam the first man created?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. The Scripture saith, God made<lb/>
+him in his own Image, that he was<lb/>
+upright, and set as Lord over his<lb/>
+Works.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. To admire Gods goodness in<lb/>
+making the world and man in it, in<lb/>
+such an excellent estate, since nothing<lb/>
+made by him, could bring any profit to<lb/>
+him.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. Did Adam <normalised orig="alwayes" auto="true">always</normalised> continue in the<lb/>
+state God made him?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. No: he disobeyed Gods command<lb/>
+in eating forbidden fruit, and so<lb/>
+fell from it.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. Never to charge God with mans<lb/>
+sin, but condemn him whose behaviour<lb/>
+was unworthy to God, and cruel to<lb/>
+himself.<lb/>
+                  </p>
+               </sp>
+               <fw type="pageNum" n="8">A4</fw>
+               <pb n="5"/>
+               <sp who="a">
+                  <p>Q. What was the state into which he<lb/>
+fell?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. A state of sin and misery.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What is the state in which you are?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. Mine, and every mans is the<lb/>
+same, for we all find in our selves lust<lb/>
+conceiving and bringing forth sin, and<lb/>
+sin finished, <normalised orig="bringeth" auto="true">brings</normalised> forth death.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. To bewail my sad and lamentable<lb/>
+condition from which I am not able to<lb/>
+deliver my self.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. O wretched creature that thou art,<lb/>
+Who can or will deliver thee?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. I thank God through Jesus<lb/>
+Christ whom he <normalised orig="hath" auto="true">has</normalised> provided to be<lb/>
+a Saviour.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. Who is this Jesus Christ the Saviour?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. God and man, or God manifested<lb/>
+in the flesh.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. To be much <normalised orig="incouraged" auto="true">encouraged</normalised>, notwithstanding<lb/>
+my sad condition, since<lb/>
+my Saviour being both God and man<lb/>
+is able and willing to help me.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What did Christ do for you.<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. He lived a holy yet an afflicted<lb/>
+                     <pb n="6"/>
+                     <lb/>
+life, and <normalised orig="dyed" auto="true">died</normalised> for our sins upon the<lb/>
+Cross, rose out of the grave, ascended<lb/>
+into heaven, where he now sits<lb/>
+to make intercession.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. Cheerfully to obey him, and<lb/>
+willingly to part with every thing for<lb/>
+him, who parted with life for me, and<lb/>
+is still <normalised orig="mindfull" auto="true">mindful</normalised> of me.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What good do you hope for from<lb/>
+this Saviour?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. A supply of all my wants;<lb/>
+especially forgiveness of my sins,<lb/>
+sanctification, and everlasting salvation.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What learn you hence?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. In no case to entertain any despairing<lb/>
+thoughts.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. How must you address your self to<lb/>
+God, for the obtaining the mercies you<lb/>
+hope for by Christ?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. First, with a deep sense of my<lb/>
+unworthiness, unfeignedly repenting<lb/>
+that ever I sinned against him, 2<lb/>
+With a real sense of his undeserved<lb/>
+goodness, humbly by faith in Christ<lb/>
+expecting from his free grace. 3<lb/>
+Heartily resolving to walk before<lb/>
+                     <pb n="7"/>
+                     <lb/>
+him in newness of life all my <normalised orig="dayes" auto="true">days</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. By your answer, you may perceive an<lb/>
+absolute necessity of repentance, faith, and<lb/>
+                     <choice ana="illegible">
+                        <sic>ne*ness</sic>
+                        <corr>newness</corr>
+                     </choice> of life; first, what is repentance?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. Such a sorrow for sin, that<lb/>
+works hatred and forsaking of it.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What is faith in Christ?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. A hearty <normalised orig="perswasion" auto="true">persuasion</normalised> that he is<lb/>
+the Saviour, that what he <normalised orig="hath" auto="true">has</normalised> said,<lb/>
+and what is said of him in the Gospel,<lb/>
+is true; so as to obey his commands,<lb/>
+fear his <normalised orig="threatnings" auto="true">threatenings</normalised>, trust<lb/>
+him for the performances of all his<lb/>
+promises.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What is newness of life?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. It consists in denying ungodliness,<lb/>
+and worldly lusts, and living soberly,<lb/>
+righteously and godlily.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. When may you be said to live soberly?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. When in all things I live temperately<lb/>
+and <normalised orig="chastly" auto="true">chastely</normalised>, moderating all unruly<lb/>
+passion.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. When may you be said to live<lb/>
+righteously?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. When in all my dealings I do as<lb/>
+I would be done by.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. When may you be said to live godlily?<lb/>
+                  </p>
+               </sp>
+               <pb n="8"/>
+               <sp who="b">
+                  <p>A. When in my whole conversation<lb/>
+I behave my self towards God, as my<lb/>
+Creator and my Redeemer.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. I hope you intend to practise all<lb/>
+this, but are you able of your self?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. No, I am not of my self sufficient,<lb/>
+so much as to think one good<lb/>
+thought.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What must enable you?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. Gods blessed Spirit which he <normalised orig="hath" auto="true">has</normalised><lb/>
+promised.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. You say the spirit must enable you,<lb/>
+are you then idly to <normalised orig="lye" auto="true">lie</normalised> still and do nothing?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. No, I am therefore to work out<lb/>
+my salvation with fear and trembling,<lb/>
+because God works in me to will and<lb/>
+to do of his good pleasure.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. If you must not be idle what means<lb/>
+must you use?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. First, reading, hearing, meditating<lb/>
+of the Word (which is the<lb/>
+power of God to salvation) 2 Prayer<lb/>
+3 serious consideration of my actions,<lb/>
+and of all Gods <normalised orig="providences" auto="true">providence</normalised> to<lb/>
+my self and others 4 Use of the sacraments,<lb/>
+Baptism, and the Lords<lb/>
+Supper.<lb/>
+                  </p>
+               </sp>
+               <pb n="9"/>
+               <sp who="a">
+                  <p>Q. I less suspect your knowledge in the<lb/>
+rest, what is Baptism?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. Washing with water in the<lb/>
+Name of the Father, Son, and Holy<lb/>
+Ghost.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. Of what use may your Baptism be<lb/>
+to you, since you was Baptised in your infancy?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. The consideration of it provokes<lb/>
+to newness of life, 1 Because outward<lb/>
+washing signifies purity. 2 Because<lb/>
+my being <normalised orig="baptized" auto="true">baptised</normalised> in Christs<lb/>
+Name, engages me to own his Doctrine,<lb/>
+and keep his Laws, Gal. 3.27.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What is the Lords Supper?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. It's according to Christs institution,<lb/>
+bread broken and eaten, wine<lb/>
+<normalised orig="powred" auto="true">powered</normalised> forth and drunk, in remembrance<lb/>
+of Christ, whose body was broken<lb/>
+for us, and blood shed for the remission<lb/>
+of sin.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. How is this <normalised orig="usefull" auto="true">useful</normalised> to provoke you<lb/>
+to newness of life?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. While the evil of sin, and the<lb/>
+love of Christ crucified is herein set<lb/>
+before my eyes, I am constrained to<lb/>
+live to him who <normalised orig="dyed" auto="true">died</normalised> for me.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. I pray God whensoever you receive<lb/>
+                     <pb n="10"/>
+                     <lb/>
+this Sacrament, you may. But do all receive<lb/>
+this benefit?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. No, they cannot who understand<lb/>
+not the ends of Christs death, nor they<lb/>
+who desire not to enjoy them.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What if you neglect these means and<lb/>
+quench the spirit?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. I <normalised orig="shew" auto="true">show</normalised> that I undervalue all that<lb/>
+Christ <normalised orig="hath" auto="true">has</normalised> done and suffered, and<lb/>
+provoke God to bring on me a greater<lb/>
+measure of his wrath, for this my<lb/>
+contempt, than if I had never heard<lb/>
+of a Saviour.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. Do you believe God will bring<lb/>
+this wrath on you, if you thus behave<lb/>
+your self?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. Yes, I believe God <normalised orig="hath" auto="true">has</normalised> appointed<lb/>
+a day wherein he will judge<lb/>
+the world in righteousness, and render<lb/>
+to every man according to what<lb/>
+he <normalised orig="hath" auto="true">has</normalised> done in the flesh, whether it be<lb/>
+good or <normalised orig="bad" auto="true">bade</normalised>.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. What shall be the condition of all<lb/>
+men after the day of Judgement?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. To them who by patient continuance<lb/>
+in well-doing, seek for glory<lb/>
+God will give eternal life, but to them<lb/>
+that obey not the truth, and live in<lb/>
+                     <pb n="11"/>
+                     <lb/>
+unrighteousness, tribulation, and anguish,<lb/>
+indignation and wrath, the portion<lb/>
+of every soul that <normalised orig="doth" auto="false">does</normalised> evil.<lb/>
+                  </p>
+               </sp>
+               <sp who="a">
+                  <p>Q. Seeing we profess to believe these<lb/>
+things, what manner of persons ought we<lb/>
+to be?<lb/>
+                  </p>
+               </sp>
+               <sp who="b">
+                  <p>A. We ought to live in all holy<lb/>
+conversation and godliness, being diligent<lb/>
+that we may be found of God<lb/>
+in peace, without spot, and blameless;<lb/>
+growing in grace, and in the knowledge<lb/>
+of our Lord and Saviour Jesus<lb/>
+Christ: to whom be glory both now<lb/>
+and forever. Amen.<lb/>
+                  </p>
+               </sp>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

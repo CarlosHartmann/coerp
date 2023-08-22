@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="pamphlet_letter_1660_Anonymous_R2">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from <normalised orig="Catholick" auto="true">Catholic</normalised> gentleman</title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="Anon">Anonymous</author>
+               <title type="main">The Good <normalised orig="Catholick" auto="true">Catholic</normalised> no <normalised orig="Bad" auto="true">Bade</normalised> Subject. Or, A letter from a <normalised orig="Catholick" auto="true">Catholic</normalised> gentlemen to Mr. Richard Baxter. Modestly accepting the Challenge by him made in his Sermon of Repentance, Preached before the <normalised orig="Honorable" auto="true">Honourable</normalised> House of Commons, 30 April, 1660.</title>
+               <title type="short">Letter from <normalised orig="Catholick" auto="true">Catholic</normalised> gentleman</title>
+               <date when="1660">1660</date>
+               <date type="this_edition" when="1660">1660</date>
+               <idno type="Wing">G1038</idno>
+               <note type="genre" subtype="pamphlet_letter">letter pamphlet</note>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original">cannot be determined</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="sample">
+            <div>
+               <head>The Good <normalised orig="Catholick" auto="true">Catholic</normalised> no <normalised orig="Bad" auto="true">Bade</normalised> Subject. 
+OR, 
+A Letter from a <normalised orig="Catholick" auto="true">Catholic</normalised> Gentleman to 
+Mr. Richard Baxter.</head><lb/>
+                  <opener>Sir,</opener><lb/>
+               <p>
+SInce, I presume, you desire an Adversary, who use the <lb/>
+diligence of a <normalised orig="publick" auto="true">public</normalised> Challenge to procure one, and <lb/>
+that none will think it strange, you should be <normalised orig="sollicited" auto="true">solicited</normalised> <lb/>
+to perform what you have so solemnly undertaken; All <lb/>
+I have to do, is, in few words, to acquaint my Reader, (who, I <lb/>
+think, will see it reasonable you should be <normalised orig="oppos'd" auto="true">opposed</normalised>,) why you are <lb/>
+<normalised orig="oppos'd" auto="true">opposed</normalised> by me. <lb/>
+I am a person, by the infinite Grace of God, bred up in the <lb/>
+<normalised orig="Catholick" auto="true">Catholic</normalised> Religion, from which I have learned, my Duty to <lb/>
+God cannot be complied with, without an exact performance of <lb/>
+my Duty to my <normalised orig="Soveraign" auto="true">Sovereign</normalised>: To obey him, not for advantage, <lb/>
+or temporal concerns, but out of conscience; and because such is <lb/>
+the known will of him, the obedience to whose commands is <lb/>
+Religion, has always made a part of mine, being a point, as all <lb/>
+other which belong to my Faith, preached by the Apostles, and <lb/>
+from them derived to me by the ministry of those persons his sacred <lb/>
+wisdom has appointed to succeed them. <lb/>
+This Doctrine <normalised orig="instill'd" auto="true">instilled</normalised> into my youth by Catechisms, <normalised orig="confirm'd" auto="true">confirmed</normalised> <lb/>
+to my riper years by Sermons and Conferences, and possessing <lb/>
+my soul with so <normalised orig="setled" auto="true">settled</normalised> a <normalised orig="beleef" auto="true">belief</normalised>, that I did not think any <lb/>
+body could pretend to know what <normalised orig="Catholick" auto="true">Catholic</normalised> Doctrine is, and <lb/>
+not know that this is a part of it, occasioned a strange <normalised orig="surprize" auto="true">surprise</normalised> in <lb/>
+me, when Chance seconding my Curiosity, in giving me a sight <lb/>
+                  <lb/>
+                  <fw type="pageNum">A 2</fw>
+                  <pb n="1"/> 
+                  <lb/>
+of your Sermon preached before the <normalised orig="Honorable" auto="true">Honourable</normalised> House of Commons, <lb/>
+Apr. 30. 1660. of which I had heard <normalised orig="somthing" auto="true">something</normalised> before, <lb/>
+I found in it a plain Challenge, and undertaking to prove against <lb/>
+my Adversary, That a Papist must cease to be a Papist, if he <lb/>
+will be truly or fully loyal to his <normalised orig="Soveraign" auto="true">Sovereign</normalised>. Had you said <normalised orig="onely" auto="true">only</normalised>, <lb/>
+Loyalty were no part of his Religion, and that he performed his <lb/>
+allegiance by the help of some other Virtue, (though an indifferent <lb/>
+Judge would wonder <choice ana="illegible">
+                     <sic>y*u</sic>
+                     <corr>you</corr>
+                  </choice> should have better intelligence <lb/>
+of their Religion, then themselves, who certainly know, and <lb/>
+from that certain knowledge profess it teaches Loyalty to be a <lb/>
+Divine indispensable Command) the Assertion, however it <lb/>
+would have been altogether as false, would perhaps have <normalised orig="appear'd" auto="true">appeared</normalised> <lb/>
+not altogether so <normalised orig="exotick" auto="true">exotic</normalised>. But to deny Loyalty not <normalised orig="onely" auto="true">only</normalised> <lb/>
+an admittance into, but a consistence with his Religion, and <lb/>
+put an unavoidable necessity upon him, of being either a <normalised orig="Traytor" auto="true">Traitor</normalised> <lb/>
+to God, by renouncing his Faith, or a <normalised orig="Traytor" auto="true">Traitor</normalised> to his <normalised orig="Soveraign" auto="true">Sovereign</normalised>, <lb/>
+by renouncing his Allegiance, is a Paradox of that <normalised orig="wonderfull" auto="true">wonderful</normalised> <lb/>
+excess, that I know not whether is greater, the confidence <lb/>
+to assert, or impossibility to maintain it. How, Sir, will <lb/>
+you undertake to prove, A <normalised orig="Catholick" auto="true">Catholic</normalised> must necessarily desert either <lb/>
+God, or his King, who, I think, cannot, I am sure, should <lb/>
+not be ignorant, that to render what is Cæsars to <normalised orig="Cæsar" auto="true">Caesar</normalised>, does as <lb/>
+truly belong to his Religion, as to render what is Gods to God? <lb/>
+That he makes no distinct Duties of these, but <normalised orig="beleeves" auto="true">believes</normalised> his Obedience <lb/>
+to <normalised orig="Cæsar" auto="true">Caesar</normalised> is so much a part of his Obedience to God, <lb/>
+that the later cannot be <normalised orig="perform'd" auto="true">performed</normalised> without the former? In fine, <lb/>
+you, who, with that strong <normalised orig="iudgment" auto="true">judgment</normalised> Fame, and I think Desert, <lb/>
+gives you to be Master of, cannot but see, were there nothing <lb/>
+to intercept the prospect, that a Papist, who is not truly <lb/>
+loyal, is not a truly Papist, if the not being faithfully obedient <lb/>
+to what is taught by a Religion, make a man cease to be of it. <lb/>
+But, as it is not for me, to pry into what it was that <normalised orig="mov'd" auto="true">moved</normalised> <lb/>
+you to assert this Paradox, so your care in publishing it, suffers <lb/>
+none to be ignorant that you have asserted it, and by doing so <lb/>
+cast an aspersion upon a sort of people, whose <normalised orig="try'd" auto="true">tried</normalised> Loyalty in <lb/>
+all vicissitudes of dangerous troubles, as it should have altered <lb/>
+your judgment, so their long and grievous sufferings, whereof <lb/>
+their Loyalty was one, and perhaps the <normalised orig="onely" auto="true">only</normalised> cause, should, from <lb/>
+the charity of your profession, have found, rather pity for their <lb/>
+                  <pb n="2"/> 
+                  <lb/>
+afflictions, then aspersions upon their innocence. <lb/>
+And yet, in the small Sphere of my acquaintance, I <normalised orig="finde" auto="true">find</normalised> <lb/>
+little forwardness to use any other defence, then silent patience <lb/>
+hitherto their <normalised orig="onely" auto="true">only</normalised> shield, against the many, and heavy blows, <lb/>
+which (to borrow the mildest expression the condescendence of <lb/>
+charity affords me,) mistaken Zeal has so long given their Fames <lb/>
+and Fortunes; and a greater disposition to have recourse to heaven <lb/>
+for an increase of strength, as the blow grows heavier, then <lb/>
+to endeavour to lighten the <normalised orig="burthen" auto="true">burden</normalised> they groan under. But for <lb/>
+my part, I must confess the value I set upon Religion and Allegiance, <lb/>
+makes me not endure to be deprived of either of them <lb/>
+at any rate; and however I may be <normalised orig="reconcil'd" auto="true">reconciled</normalised> to all other miseries, <lb/>
+I am not able to bear that of deserving to be miserable. <lb/>
+Besides, I apprehend silence in this case would amount, or at <lb/>
+least be mis-interpreted to a confession; and that a Charge accompanied <lb/>
+with such circumstances, would, if not <normalised orig="cleer'd" auto="true">cleared</normalised>, be <lb/>
+<normalised orig="look'd" auto="true">looked</normalised> upon as a Sentence, and the world take it for granted, <lb/>
+nothing could be pleaded to it, but Guilty. I know I am Minimus <lb/>
+inter Tribus Israel, little known even among those of my <lb/>
+own Religion; but as loyal as any, and as certain of my Obligation <lb/>
+to be so. I know also the concern is general, and greater <lb/>
+then to be trusted to any one mans ability, especially such a one <lb/>
+as is truly conscious of his own insufficiency; Neither do I <lb/>
+undertake this Demand of <choice ana="illegible">
+                     <sic>Sati*faction</sic>
+                     <corr>Satisfaction</corr>
+                  </choice> vainly, or without just <lb/>
+occasion <normalised orig="offer'd" auto="true">offered</normalised>, but as I have may share in the injury, I have <lb/>
+also a title to be righted; and, since no better Champion appears <lb/>
+to defend me, think, I both may and ought to defend my <lb/>
+self. <lb/>
+In the face of the world therefore, I require you to perform <lb/>
+your undertaking, and desire you to reflect, and every body take <lb/>
+notice, That if you prove not what you profess you are ready to <lb/>
+do, viz. That a Papist must cease to be a Papist, if he will be <lb/>
+truly and fully loyal to his <normalised orig="Soveraign" auto="true">Sovereign</normalised>, you are guilty of the <lb/>
+breach of charity to your Neighbour, in as great a height as circumstances <lb/>
+can improve a sin to. For to say nothing of the time, <lb/>
+when the joyful and long <normalised orig="pray'd" auto="true">prayed</normalised> for Victory of Right over Ambition <lb/>
+and Tyranny <normalised orig="fils" auto="true">fills</normalised> the Kingdom with comfortable hopes, <lb/>
+That the <normalised orig="priviledges" auto="true">privileges</normalised> of Birthright shall no more be forfeited, <lb/>
+but by real and really proved <normalised orig="misdemeanors" auto="true">misdemeanours</normalised>: to say nothing of <lb/>
+                  <pb n="3"/> 
+                  <lb/>
+the Great Auditory before whom you <normalised orig="preacht" auto="true">preached</normalised>, persons, of whose <lb/>
+Wisdom the Nation has given so signal a Testimony, and of <lb/>
+whose Counsels his Majesty has expressed so tender a regard: <lb/>
+Be pleased to consider, <normalised orig="'tis" auto="true">it is</normalised> no one you asperse, but many, and <lb/>
+those who, of all that lay claim to so regarded a Title, give the <lb/>
+best evidence of being truly tender Consciences, since for them <lb/>
+they suffer so generally, so constantly, so deeply. Neither is it a <lb/>
+small fault you charge them with, but that Monster of sins, <lb/>
+Treason, and that not <normalised orig="onely" auto="true">only</normalised> by the violence of passion once committed, <lb/>
+but such as is impossible not to be <normalised orig="alwaies" auto="true">always</normalised> committed. <lb/>
+And all this with so notorious a <normalised orig="publickness" auto="false">publicness</normalised>, that none can be ignorant <lb/>
+of your charge, as I hope none will be ignorant of our innocence. <lb/>
+Now I beseech you <normalised orig="joyn" auto="true">join</normalised> all these together, and see (if yours <lb/>
+do prove an offence) whether Chance could light upon, or Industry <lb/>
+contrive greater aggravations. Consider therefore, Sir, <lb/>
+what you have done, and what you are to do; and either prove <lb/>
+what you have so solemnly undertaken, or practise what you <lb/>
+have as solemnly taught; give an example to the world of that <lb/>
+serious and true <normalised orig="Repentence" auto="true">Repentance</normalised> you so excellently delivered to your <lb/>
+Auditory. But prove it effectually, and let not the Question, <lb/>
+when we come to grasp it, vanish away by the artifice of some <lb/>
+deceitful word. You have raised in the hearts and thoughts of as <lb/>
+many as have either heard or read your Sermon, I conceive, an <lb/>
+uncharitable; and unjust apprehension: If it prove so, I hope <lb/>
+the reparation you will make, shall not be by the fallacy of some <lb/>
+term, to which your Art may perhaps give another sense, then <lb/>
+you have caused by it in others, to save your self from the obligation <lb/>
+of making any. <lb/>
+And yet, to deal plainly, I cannot but be jealous of the expressions <lb/>
+you use. For why do you call us Papists? You know <lb/>
+we have another name, and are not perhaps such men as you <lb/>
+make us pass for by that Term: We ow no blind servile obedience <lb/>
+to any upon earth, that can ensnare our Judgments to any <lb/>
+thing contrary to those Divine Truths brought from Heaven by <lb/>
+our Saviour, to bring us up to Heaven, planted by his Apostles, <lb/>
+and preserved by his Spouse the Church. I presume you intend <lb/>
+by it a Name of Religion, not Opinion; for <normalised orig="'tis" auto="true">it is</normalised> the Faith of <lb/>
+Christ I am to lay down my life for, but know no Obligation to <lb/>
+                  <fw type="pageNum">4</fw>
+                  <pb n="4"/> 
+                  <lb/>
+lose a Pins head for the fancies of any private man. <lb/>
+Then again what mean you by a true and full Loyalty? Those <lb/>
+Epithetes seem to me no more then the issue of a fruitful fancy; <lb/>
+since a Loyalty which is not a true one, is <normalised orig="truely" auto="true">truly</normalised> no Loyalty <lb/>
+as false <normalised orig="mony" auto="true">money</normalised> is no <normalised orig="mony" auto="true">money</normalised>; and as half a pint is not a pint; so <lb/>
+if any thing want of full Loyalty, how near <normalised orig="soever" auto="true">however</normalised> you approach <lb/>
+it, is not Loyalty. I do not therefore see any necessity of those <lb/>
+<normalised orig="termes" auto="true">terms</normalised>; Loyalty in the natural acception of words, saying both <lb/>
+true and full Loyalty: as a shilling signifies both Twelve pence <lb/>
+and good Silver. <lb/>
+Under your <normalised orig="tearm" auto="true">term</normalised> of Loyalty too, I conceive you do not comprehend <lb/>
+any obligations contradictory to the great one to which <lb/>
+all others ought to be subservient; neither of us being, I hope, <lb/>
+guilty of that impious flattery, to imagine any duty can be a <lb/>
+duty, which is inconsistent with that first and chiefest duty we <lb/>
+owe to our Maker and Preserver. I beseech you therefore let <lb/>
+all these Terms be <normalised orig="defin'd" auto="true">defined</normalised>, that the Question may not vanish <lb/>
+from us in the mist of the words we use in treating it. That <lb/>
+which I, and I think every one else, apprehends by your words, <lb/>
+is that this Kingdom holds a sort of people, whose Birth-right <lb/>
+indeed gives them a title to the Protection of the Laws and <normalised orig="priviledges" auto="true">privileges</normalised> <lb/>
+of Community, but whose Religion, by misteaching <lb/>
+them in their duty to their King and Country, renders them <lb/>
+unworthy of those advantages. This is what I apprehend, and what <lb/>
+you are to prove. <lb/>
+Now if you should mean by Papist something which I am <lb/>
+not; by True and Full Loyalty, something which I either do <lb/>
+pay, or which none are bound to pay: Your words indeed <lb/>
+would be innocent, but the artifice of wresting them to oppose <lb/>
+innocence, little suitable to your Condition. And that as I desire <lb/>
+not to be mistaken in your meaning, none may be so in my <lb/>
+sentiments, I conceive my self comprehended in your assertion, <lb/>
+but know no reason why I should deserve the name you express <lb/>
+it in, more then that I am of the Communion of those men <lb/>
+whose Faith and Government was taught and instituted by Christ <lb/>
+and his Apostles, and by their successors in an uninterrupted <lb/>
+Delivery down to us. I believe, and what I profess to you in <lb/>
+the face of the world, I am ready by Oath to confirm to all <lb/>
+men in the face of heaven, That my Loyalty to my <normalised orig="Soveraign" auto="true">Sovereign</normalised> <lb/>
+                  <fw type="pageNum">5</fw>
+                  <pb n="5"/> 
+                  <lb/>
+is an indispensable duty from which no power Spiritual, or Temporal, <lb/>
+<normalised orig="Domestick" auto="true">Domestic</normalised> of <normalised orig="Forreign" auto="true">Foreign</normalised>, under any pretence of Excommunication, <lb/>
+Deposition, or any other whatsoever, can free me <lb/>
+either wholly or in part; and till I am <normalised orig="call'd" auto="true">called</normalised> upon to do it <lb/>
+more solemnly, I here do in the mean time renounce heartily <lb/>
+all Dispensations, Absolutions, and whatsoever to the contrary <lb/>
+which may raise <normalised orig="jealousie" auto="true">jealousy</normalised> in my <normalised orig="Soveraign" auto="true">Sovereign</normalised>, or dissatisfaction in <lb/>
+my fellow Subjects, professing that notwithstanding any such <lb/>
+pretext, if any should happen to be, I will by the grace of God, <lb/>
+perform my Allegiance truly and fully as every good Subject is <lb/>
+bound to do. This is my Religion; this is what I have been <lb/>
+taught in it concerning Loyalty; and what occasion has prompted <lb/>
+me to <normalised orig="disgress" auto="false">digress</normalised> into: since however the Confession I make <lb/>
+be impertinent to the business I have in hand (my task being <lb/>
+to oppose what you say, not to say all I know my self) it will <lb/>
+not I hope be unwelcome to the Reader, at least to such an one <lb/>
+as desires his judgment should be built upon the <normalised orig="unmoveable" auto="true">unmovable</normalised> <lb/>
+foundation of Truth, of which in things of this nature, there is <lb/>
+no greater evidence then the testimony of such as certainly know <lb/>
+what they say, and faithfully say what they know. <lb/>
+But to return to our work; I utterly deny your Assertion, professing <lb/>
+to all the world <normalised orig="tis" auto="true">it is</normalised> not true, That a Papist must cease to be <lb/>
+a Papist, if he will be <normalised orig="truely" auto="true">truly</normalised> and fully Loyal to his <normalised orig="Soveraign" auto="true">Sovereign</normalised>; and <lb/>
+before all the world demand of you to prove it, as you have undertaken. <lb/>
+If you <normalised orig="shew" auto="true">show</normalised> me disloyal, I acknowledge I ought, and seriously <lb/>
+profess I will repent: if you cannot, lay your hand on <lb/>
+your heart, and consider what <normalised orig="tis" auto="true">it is</normalised> to make an innocent man, <lb/>
+nay, so many innocent men pass for guilty, and guilty of so execrable <lb/>
+a crime as Treason; in which case I hope you will need <lb/>
+no admonition to repent your self. <lb/>
+                  <lb/>
+FINIS.<lb/>
+                  <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

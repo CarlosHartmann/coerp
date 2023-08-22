@@ -1,0 +1,725 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Historie" auto="true">History</normalised> of <normalised orig="Iohn" auto="true">John</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas Kohnen</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>André von Schledorn</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des COERP-Projekts</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="ThBe1519"><notvariant>Bèze</notvariant>, <notvariant>Théodore</notvariant> de</author>
+               <author role="translator"/>
+               <title type="main">A discourse <normalised orig="wrytten" auto="true">written</normalised> by M. <notvariant>Theodore</notvariant> de <notvariant>Beza</notvariant>, <normalised orig="conteyning" auto="true">containing</normalised> in <normalised orig="briefe" auto="true">brief</normalised> the <normalised orig="Historie" auto="true">History</normalised> of the life and death of <normalised orig="Maister" auto="true">Master</normalised> <normalised orig="Iohn" auto="true">John</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised>, with the Testament and <normalised orig="laste" auto="true">last</normalised> will of the <normalised orig="saide" auto="true">said</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised>, and the Catalogue of his <normalised orig="Bookes" auto="true">Books</normalised> that he <normalised orig="hath" auto="false">has</normalised> made. Turned out of <normalised orig="Frenche" auto="true">French</normalised> into <normalised orig="Englishe" auto="true">English</normalised>, by I.S. In the <normalised orig="yeare" auto="true">year</normalised> of our <normalised orig="Lorde" auto="true">Lord</normalised>. M.D.<notvariant>LXIIII</notvariant>.</title>
+               <title type="short"><normalised orig="Historie" auto="true">History</normalised> of <normalised orig="Iohn" auto="true">John</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised></title>
+               <date when="1564">1564</date>
+               <date type="this_edition" when="1564">1564</date>
+               <idno type="STC">2017</idno>
+               <note type="genre" subtype="biography">biography</note>
+               <note type="sample" target="#ThBe1519_1564_biography_1"/>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>octavo</notvariant></term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements">italics</term>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ThBe1519_1564_biography_1">
+            <div>
+               <p>
+                  <lb/>
+                  <lb/>
+<normalised orig="Hee" auto="true">He</normalised> was <normalised orig="borne" auto="false">born</normalised> in <notvariant>Noyon</notvariant>, an <normalised orig="auncient" auto="true">ancient</normalised><lb/>
+                  <pb n="1"/>
+                  <lb/>
+and famous <normalised orig="towne" auto="true">town</normalised> of <notvariant>Picardie</notvariant>, the<lb/>
+<normalised orig="yeare" auto="true">year</normalised> .1509. the tenth of <normalised orig="Iuly" auto="true">July</normalised>, of an honest<lb/>
+house and of a reasonable wealth, his father<lb/>
+was named Gerard <normalised orig="Caluin" auto="true">Calvin</normalised>, a man of good<lb/>
+<normalised orig="vnderstanding" auto="true">understanding</normalised> and <normalised orig="counsell" auto="true">counsel</normalised>, and therefore<lb/>
+greatly desired in the houses of noble men<lb/>
+dwelling in those <normalised orig="partes" auto="true">parts</normalised>: by reason <normalised orig="wherof" auto="true">whereof</normalised><lb/>
+his <normalised orig="saide" auto="true">said</normalised> <normalised orig="Sonne" auto="true">Son</normalised> was the better and more <normalised orig="liberallye" auto="true">liberally</normalised><lb/>
+brought <normalised orig="vp" auto="true">up</normalised>, at his fathers charges<lb/>
+notwithstanding, in company with the children<lb/>
+of the house of <notvariant>Mommor</notvariant>, with whom<lb/>
+also he was in <normalised orig="co~panie" auto="false">company</normalised> at y<hi rend="high">e</hi> <normalised orig="schole" auto="true">school</normalised> at Paris.<lb/>
+<normalised orig="Hee" auto="true">He</normalised> was <normalised orig="alway" auto="true">always</normalised> of a <normalised orig="singuler" auto="true">singular</normalised> good wit, and<lb/>
+<normalised orig="aboue" auto="true">above</normalised> all other things of a very good conscience,<lb/>
+<normalised orig="enimy" auto="true">enemy</normalised> to vices, and greatly <normalised orig="giuen" auto="true">given</normalised> to<lb/>
+the <normalised orig="seruice" auto="true">service</normalised> of God as men did then call it: in<lb/>
+such sort as his <normalised orig="minde" auto="true">mind</normalised> was <normalised orig="wholy" auto="true">wholly</normalised> to <normalised orig="deuinitie" auto="true">divinity</normalised>,<lb/>
+which was also an occasion that he was<lb/>
+<normalised orig="prouided" auto="true">provided</normalised> of a benefice in the <normalised orig="Cathedrall" auto="true">Cathedral</normalised><lb/>
+<normalised orig="Churche" auto="true">Church</normalised> of <notvariant>Noyon</notvariant>. Yet was his father <normalised orig="alwayes" auto="true">always</normalised><lb/>
+minded that <normalised orig="hee" auto="true">he</normalised> <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="studie" auto="true">study</normalised> the<lb/>
+<normalised orig="Lawes" auto="true">Laws</normalised>, and he also on his part <normalised orig="hauing" auto="true">having</normalised> <normalised orig="alredie" auto="true">already</normalised>,<lb/>
+(by y<hi rend="high">e</hi> <normalised orig="meane" auto="true">mean</normalised> of a <normalised orig="cosin" auto="true">cousin</normalised> and <normalised orig="frinde" auto="true">friend</normalised> of his,<lb/>
+named <normalised orig="Maister" auto="true">Master</normalised> Peter Robert, <normalised orig="otherwyse" auto="true">otherwise</normalised><lb/>
+<notvariant>Oliuentanus</notvariant>, who <normalised orig="afterwarde" auto="true">afterward</normalised> <normalised orig="tourned" auto="true">turned</normalised> y<hi rend="high">e</hi> Bible<lb/>
+out of <normalised orig="Hebrue" auto="false">Hebrew</normalised> into French and imprinted<lb/>
+it at <notvariant>Neufchastle</notvariant>,) tasted some thing of<lb/>
+the pure Religion, began to withdraw <normalised orig="himselfe" auto="true">himself</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum">B.<notvariant>iiij</notvariant>.</fw>
+                  <pb n="2"/>
+                  <lb/>
+from <normalised orig="Popishe" auto="false">Popish</normalised> <normalised orig="superstitio~s" auto="false">superstitions</normalised>: which was<lb/>
+the cause that beside the <normalised orig="singuler" auto="true">singular</normalised> <normalised orig="reuerence" auto="true">reverence</normalised><lb/>
+that he had <normalised orig="towarde" auto="true">toward</normalised> his father, he did agree<lb/>
+to go to <normalised orig="Orleaunce" auto="false">Orleans</normalised> to the same <normalised orig="ende" auto="true">end</normalised>, where<lb/>
+there did then <normalised orig="reade" auto="true">read</normalised> an excellent <normalised orig="ma~" auto="true">man</normalised> named<lb/>
+Peter de <notvariant>l'Estoille</notvariant>, who was <normalised orig="afterwarde" auto="true">afterward</normalised> President<lb/>
+of the Court of <normalised orig="Parliame~t" auto="false">Parliament</normalised> in Paris,<lb/>
+<normalised orig="vnder" auto="true">under</normalised> whom he did so <normalised orig="profite" auto="true">profit</normalised> in short space,<lb/>
+that he was not <normalised orig="accompted" auto="true">accounted</normalised> a <normalised orig="scholer" auto="false">scholar</normalised>, but<lb/>
+as an <normalised orig="ordinarie" auto="true">ordinary</normalised> <normalised orig="Doctour" auto="true">Doctor</normalised>, as oftentimes <normalised orig="hee" auto="true">he</normalised><lb/>
+was rather in <normalised orig="deede" auto="true">deed</normalised> a teacher than a hearer,<lb/>
+and he was offered to <normalised orig="proceede" auto="true">proceed</normalised> Doctor without<lb/>
+paying <normalised orig="anye" auto="true">any</normalised> thing, which thing also he<lb/>
+did refuse. And <normalised orig="bicause" auto="true">because</normalised> that the <normalised orig="vniuersitie" auto="true">university</normalised><lb/>
+of <notvariant>Bourges</notvariant> was <normalised orig="then~" auto="false">then</normalised> also famous by the<lb/>
+<normalised orig="meane" auto="true">mean</normalised> of that excellent Lawyer Andre <notvariant>Alciat</notvariant><lb/>
+which then did <normalised orig="reade" auto="true">read</normalised> there, <normalised orig="hee" auto="true">he</normalised> <normalised orig="woulde" auto="true">would</normalised><lb/>
+him. In the <normalised orig="meane" auto="true">mean</normalised> time he exercised himself<lb/>
+also see and <normalised orig="heare" auto="true">hear</normalised> in <normalised orig="holye" auto="true">holy</normalised> letters, with such<lb/>
+<normalised orig="fruite" auto="true">fruit</normalised> and <normalised orig="profite" auto="true">profit</normalised>, that all those whose<lb/>
+<normalised orig="heartes" auto="true">hearts</normalised> it had pleased GOD to <normalised orig="touche" auto="false">touch</normalised>,<lb/>
+<normalised orig="giuing" auto="true">giving</normalised> them to <normalised orig="vnderstande" auto="true">understand</normalised> what the differences<lb/>
+were that were then <normalised orig="moued" auto="true">moved</normalised> concerning<lb/>
+matters of Religion, did not <normalised orig="onlye" auto="true">only</normalised><lb/>
+<normalised orig="beare" auto="true">bear</normalised> <normalised orig="towarde" auto="true">toward</normalised> <normalised orig="hym" auto="true">him</normalised> <normalised orig="singuler" auto="true">singular</normalised> affection,<lb/>
+but had him forthwith in great admiration<lb/>
+for the learning and <normalised orig="zeale" auto="true">zeal</normalised> that was in <normalised orig="hym" auto="true">him</normalised>.<lb/>
+Among other with <normalised orig="whome" auto="true">whom</normalised> he did frequent<lb/>
+                  <pb n="3"/>
+                  <lb/>
+and <normalised orig="companye" auto="true">company</normalised>, then at <notvariant>Bourges</notvariant> there<lb/>
+was an <normalised orig="Almaigne" auto="false">allemaige</normalised> an excellent personage a<lb/>
+Professor of the <normalised orig="Greeke" auto="true">Greek</normalised> tongue, named<lb/>
+<notvariant>Melchior</notvariant> <notvariant>Volmar</notvariant>, whom I <normalised orig="doe" auto="false">do</normalised> so much the<lb/>
+more willingly remember, <normalised orig="bicause" auto="true">because</normalised> it is very<lb/>
+he that was my <normalised orig="faithfull" auto="true">faithful</normalised> <normalised orig="gouernor" auto="true">governor</normalised> and teacher<lb/>
+all the time of my youth, for the which<lb/>
+cause I will praise God all the <normalised orig="dayes" auto="true">days</normalised> of my<lb/>
+<normalised orig="lyfe" auto="true">life</normalised>. <normalised orig="Thys" auto="true">This</normalised> good man <normalised orig="seyng" auto="true">saying</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised> not<lb/>
+to be well instructed in the <normalised orig="Greeke" auto="true">Greek</normalised> tongue,<lb/>
+caused him to <normalised orig="studie" auto="true">study</normalised> the same, <normalised orig="wherin" auto="true">wherein</normalised> he did<lb/>
+greatly <normalised orig="helpe" auto="true">help</normalised> him, as he <normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="hath" auto="false">has</normalised> witnessed,<lb/>
+dedicating to him <normalised orig="hys" auto="true">his</normalised> <normalised orig="Co~mentaries" auto="false">Commentaries</normalised><lb/>
+<normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="seconde" auto="true">second</normalised> Epistle of S. <normalised orig="Paule" auto="true">Paul</normalised> to the<lb/>
+Corinthians, and did him the <normalised orig="honor" auto="true">honour</normalised> to call<lb/>
+him his <normalised orig="Maister" auto="true">Master</normalised> &amp; <normalised orig="instructer" auto="true">instructor</normalised>. In this <normalised orig="meane" auto="true">mean</normalised><lb/>
+time his father died, which was the cause y<hi rend="high">t</hi>
+                  <lb/>
+he left y<hi rend="high">e</hi> <normalised orig="studie" auto="true">study</normalised> of the <normalised orig="Lawes" auto="true">Laws</normalised>, and returned<lb/>
+to <notvariant>Noyon</notvariant>, and then to Paris: where notwithstanding<lb/>
+his youth, <normalised orig="hee" auto="true">he</normalised> was not long<lb/>
+<normalised orig="vnknowen" auto="true">unknown</normalised>, nor without <normalised orig="honor" auto="true">honour</normalised>, by all such<lb/>
+as had <normalised orig="anye" auto="true">any</normalised> feeling of the <normalised orig="truthe" auto="true">truth</normalised>: <normalised orig="hee" auto="true">he</normalised> of <normalised orig="hys" auto="true">his</normalised><lb/>
+<normalised orig="parte" auto="true">part</normalised> <normalised orig="dyd" auto="true">did</normalised> then <normalised orig="resolue" auto="true">resolve</normalised> to dedicate <normalised orig="hymselfe" auto="true">himself</normalised><lb/>
+<normalised orig="wholye" auto="true">wholly</normalised> to GOD, and did <normalised orig="trauaile" auto="true">travail</normalised><lb/>
+<normalised orig="wyth" auto="true">with</normalised> great <normalised orig="profyte" auto="true">profit</normalised> in <normalised orig="suche" auto="true">such</normalised> <normalised orig="sorte" auto="true">sort</normalised>, that being<lb/>
+in Paris in the <normalised orig="tyme" auto="true">time</normalised> of the Rector named<lb/>
+Monsieur <notvariant>Copus</notvariant>, there happened a <normalised orig="seditio~" auto="false">sedition</normalised><lb/>
+                  <pb n="4"/>
+                  <lb/>
+whereupon <normalised orig="hee" auto="true">he</normalised> was sent to the Court to be<lb/>
+preferred, where he was <normalised orig="knowen" auto="true">known</normalised> and very<lb/>
+well <normalised orig="receiued" auto="true">received</normalised> of all those that had any pure<lb/>
+affection and <normalised orig="sounde" auto="true">sound</normalised> <normalised orig="iudgement" auto="true">judgment</normalised> in those <normalised orig="affayres" auto="true">affairs</normalised>:<lb/>
+In the <normalised orig="ende" auto="true">end</normalised> <normalised orig="seyng" auto="true">saying</normalised> the miserable<lb/>
+estate of the <normalised orig="Realme" auto="true">Realm</normalised> of <normalised orig="Fraunce" auto="true">France</normalised>, <normalised orig="hee" auto="true">he</normalised> determined<lb/>
+to absent <normalised orig="himselfe" auto="true">himself</normalised> and to be where he<lb/>
+might <normalised orig="liue" auto="true">live</normalised> more quietly &amp; according to his<lb/>
+conscience. He then departed out of <normalised orig="Frau~ce" auto="false">France</normalised><lb/>
+in the <normalised orig="yeare" auto="true">year</normalised> .1534. and in the same <normalised orig="yeare" auto="true">year</normalised> he<lb/>
+caused to imprint at Basil his first <normalised orig="instructio~" auto="false">instruction</normalised><lb/>
+as an <normalised orig="Apologie" auto="true">Apology</normalised>, dedicated to <normalised orig="Frau~ces" auto="false">france's</normalised> y<hi rend="high">e</hi> first<lb/>
+<normalised orig="Frenche" auto="true">French</normalised> King of that name, in the <normalised orig="behalfe" auto="true">behalf</normalised><lb/>
+of the <normalised orig="poore" auto="true">poor</normalised> <normalised orig="faithfull" auto="true">faithful</normalised> that were persecuted,<lb/>
+whom they did most falsely name <notvariant>Anabaptistes</notvariant>,<lb/>
+to excuse them <normalised orig="towarde" auto="true">toward</normalised> the Princes<lb/>
+<normalised orig="Protestantes" auto="true">Protestants</normalised>, of the persecutions that they<lb/>
+then <normalised orig="vsed" auto="true">used</normalised> against them. He passed also into<lb/>
+<normalised orig="Italie" auto="false">Italy</normalised>, where he saw my Lady y<hi rend="high">e</hi> <normalised orig="Duchesse" auto="true">Duchess</normalised><lb/>
+of <notvariant>Ferrare</notvariant>, yet at this day <normalised orig="liuing" auto="true">living</normalised>, <normalised orig="thankes" auto="true">thanks</normalised><lb/>
+be to God, who when <normalised orig="shee" auto="true">she</normalised> had <normalised orig="seene" auto="true">seen</normalised> &amp; heard<lb/>
+him, forthwith <normalised orig="iudged" auto="true">judged</normalised> of him as <normalised orig="hee" auto="true">he</normalised> was,<lb/>
+and <normalised orig="euer" auto="true">ever</normalised> after <normalised orig="vntyl" auto="false">until</normalised> his death, did <normalised orig="loue" auto="true">love</normalised> and<lb/>
+<normalised orig="honor" auto="true">honour</normalised> him as an excellent <normalised orig="Organe" auto="true">Organ</normalised> of the<lb/>
+<normalised orig="Lorde" auto="true">Lord</normalised>. In <normalised orig="hys" auto="true">his</normalised> <normalised orig="returne" auto="true">return</normalised> from <normalised orig="Italie" auto="false">Italy</normalised> y<hi rend="high">e</hi> which<lb/>
+he had but <normalised orig="seene" auto="true">seen</normalised>, he passed (in a <normalised orig="happie" auto="true">happy</normalised> time)<lb/>
+<normalised orig="thorow" auto="true">thorough</normalised> this <normalised orig="towne" auto="true">town</normalised> of <normalised orig="Geneua" auto="true">Geneva</normalised>, which not<lb/>
+long before had <normalised orig="receiued" auto="true">received</normalised> the <normalised orig="Gospell" auto="true">Gospel</normalised> by the<lb/>
+                  <pb n="5"/>
+                  <lb/>
+preaching of M. William <notvariant>Farell</notvariant>, and <normalised orig="dyd" auto="true">did</normalised><lb/>
+<normalised orig="meane" auto="true">mean</normalised> nothing <normalised orig="lesse" auto="true">less</normalised> than to tarry there, but<lb/>
+to <normalised orig="passe" auto="true">pass</normalised> <normalised orig="thorow" auto="true">thorough</normalised> it and to go to Basil, or else<lb/>
+to <normalised orig="Strasbourgh" auto="false">Strasbourg</normalised>. But the Lord being <normalised orig="euen" auto="true">even</normalised><lb/>
+then willing to prepare away to his so great<lb/>
+<normalised orig="goodnesse" auto="true">goodness</normalised> as his pleasure was to <normalised orig="bestowe" auto="true">bestow</normalised><lb/>
+<normalised orig="vpon" auto="true">upon</normalised> his Church by the <normalised orig="meane" auto="true">mean</normalised> of him, did<lb/>
+put in the heart of the <normalised orig="sayde" auto="true">said</normalised> <notvariant>Farel</notvariant> to staye<lb/>
+him: which thing was very <normalised orig="harde" auto="true">hard</normalised> for him to<lb/>
+<normalised orig="doe" auto="false">do</normalised>, in such sort that after many <normalised orig="requestes" auto="true">requests</normalised><lb/>
+&amp; <normalised orig="desyres" auto="true">desires</normalised> he was <normalised orig="fayne" auto="true">fain</normalised> to <normalised orig="vse" auto="true">use</normalised> <normalised orig="adiurations" auto="false">adjurations</normalised>.<lb/>
+<normalised orig="The~" auto="true">Then</normalised> he was <normalised orig="co~tented" auto="false">contented</normalised> to stay, not to preach,<lb/>
+but to <normalised orig="reade" auto="true">read</normalised> <normalised orig="Diuinitie" auto="true">Divinity</normalised>, and this came to<lb/>
+<normalised orig="passe" auto="true">pass</normalised> in the <normalised orig="yeare" auto="true">year</normalised> .1536. in the beginning of<lb/>
+September. When <normalised orig="hee" auto="true">he</normalised> was in this sort declared<lb/>
+Doctor in <normalised orig="thys" auto="true">this</normalised> <normalised orig="Churche" auto="true">Church</normalised> by <normalised orig="lawfull" auto="true">lawful</normalised><lb/>
+election and <normalised orig="auctoritie" auto="true">authority</normalised>, <normalised orig="hee" auto="true">he</normalised> then framed a<lb/>
+<normalised orig="briefe" auto="true">brief</normalised> <normalised orig="forme" auto="true">form</normalised> of Confession and Discipline to<lb/>
+<normalised orig="giue" auto="true">give</normalised> some shape to <normalised orig="thys" auto="true">this</normalised> new erected <normalised orig="Churche" auto="true">Church</normalised>.<lb/>
+<normalised orig="Hee" auto="true">He</normalised> made also a <normalised orig="Cathechisme" auto="false">Catechism</normalised> which<lb/>
+may be <normalised orig="wel" auto="true">well</normalised> called one of his <normalised orig="excelle~t" auto="true">excellent</normalised> works,<lb/>
+and <normalised orig="hath" auto="false">has</normalised> <normalised orig="yelded" auto="true">yielded</normalised> <normalised orig="maruellous" auto="true">marvelous</normalised> <normalised orig="fruite" auto="true">fruit</normalised>, <normalised orig="beyng" auto="true">being</normalised><lb/>
+so well framed, that it was <normalised orig="afterwarde" auto="true">afterward</normalised> turned<lb/>
+out of <normalised orig="Frenche" auto="true">French</normalised> into <normalised orig="Hebrue" auto="false">Hebrew</normalised> to <normalised orig="winne" auto="true">win</normalised> y<hi rend="high">e</hi>
+                  <lb/>
+<normalised orig="Iewes" auto="true">Jews</normalised>, into <normalised orig="Greeke" auto="true">Greek</normalised> &amp; Latin for y<hi rend="high">e</hi> <normalised orig="scholes" auto="true">schools</normalised>,<lb/>
+also into Italian, Dutch, <normalised orig="Englishe" auto="true">English</normalised>, <normalised orig="Scotish" auto="true">Scottish</normalised><lb/>
+and <normalised orig="Fle~mishe" auto="false">Flemish</normalised>, &amp; also <normalised orig="Spanishe" auto="true">Spanish</normalised>, for all these<lb/>
+nations. These prosperous beginnings <normalised orig="dyd" auto="true">did</normalised><lb/>
+                  <pb n="6"/>
+                  <lb/>
+greatly <notvariant>mislike</notvariant> Satan &amp; his, who failed not,<lb/>
+(as it was an easy matter to <normalised orig="doe" auto="false">do</normalised> in the first<lb/>
+change of y<hi rend="high">e</hi> estate of <normalised orig="Religio~" auto="false">Religion</normalised>) to set himself<lb/>
+against the <normalised orig="proceding" auto="true">proceeding</normalised> of the Gospel. Albeit y<hi rend="high">t</hi>
+                  <lb/>
+it was <normalised orig="receiued" auto="true">received</normalised> w<hi rend="high">t</hi> an <normalised orig="oth" auto="true">oath</normalised> by all those of this<lb/>
+town. <normalised orig="Maister" auto="true">Master</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised> on y<hi rend="high">e</hi> other side as he<lb/>
+was in <normalised orig="deede" auto="true">deed</normalised> of a noble <normalised orig="minde" auto="true">mind</normalised>, <normalised orig="withstoode" auto="true">withstood</normalised><lb/>
+<normalised orig="firmely" auto="true">firmly</normalised> &amp; constantly with <normalised orig="Maister" auto="true">Master</normalised> <notvariant>Farel</notvariant>, y<hi rend="high">e</hi>
+                  <lb/>
+seditious persons, <normalised orig="hauing" auto="true">having</normalised> also on his side an<lb/>
+other good <normalised orig="ma~" auto="true">man</normalised> named <choice ana="illegible">
+                     <sic><notvariant>Conra</notvariant>*t</sic>
+                     <corr><normalised orig="Conraht" auto="false">Conrad</normalised></corr>
+                  </choice>, a Minister also<lb/>
+of this Church, being <normalised orig="blinde" auto="true">blind</normalised> of his bodily<lb/>
+eyes, but could <normalised orig="wel" auto="true">well</normalised> see w<hi rend="high">t</hi> the eyes of his <normalised orig="spirite" auto="true">spirit</normalised>,<lb/>
+whom also y<hi rend="high">e</hi> said <normalised orig="Caluin" auto="true">Calvin</normalised> had brought<lb/>
+<normalised orig="fro~" auto="true">from</normalised> Basil, where he did <normalised orig="remaine" auto="true">remain</normalised> <normalised orig="bicause" auto="true">because</normalised> of<lb/>
+the great persecutions, y<hi rend="high">t</hi> were in <normalised orig="Fraunce" auto="true">France</normalised>:<lb/>
+The <normalised orig="ende" auto="true">end</normalised> was such, y<hi rend="high">t</hi> the Lord being minded<lb/>
+<normalised orig="euen" auto="true">even</normalised> at once to take his <normalised orig="seruant" auto="true">servant</normalised> out <normalised orig="fro~" auto="true">from</normalised><lb/>
+the <normalised orig="presse" auto="true">press</normalised>, &amp; to purge this <normalised orig="Towne" auto="true">Town</normalised> of certain<lb/>
+seditious <normalised orig="perso~s" auto="false">persons</normalised> which did abuse y<hi rend="high">e</hi> name of<lb/>
+y<hi rend="high">e</hi> Gospel, to <normalised orig="pla~t" auto="false">plant</normalised> his name else where, &amp; last<lb/>
+of <normalised orig="al" auto="false">all</normalised> to frame his <normalised orig="serua~t" auto="false">servant</normalised> by certain <normalised orig="experie~ce" auto="false">experience</normalised><lb/>
+of things which did <normalised orig="afterward" auto="true">afterwards</normalised> stand him in<lb/>
+great <normalised orig="steade" auto="true">stead</normalised>: it was <normalised orig="ordeined" auto="true">ordained</normalised> (y<hi rend="high">e</hi> greater part<lb/>
+of y<hi rend="high">e</hi> <normalised orig="Cou~sel" auto="false">Counsel</normalised> not being the best) y<hi rend="high">t</hi> the <notvariant>forenamed</notvariant><lb/>
+should depart y<hi rend="high">e</hi> town w<hi rend="high">t</hi>in .24. <normalised orig="houres" auto="true">hours</normalised>,<lb/>
+<normalised orig="bicause" auto="true">because</normalised> y<hi rend="high">t</hi> they <normalised orig="wold" auto="false">would</normalised> not minister y<hi rend="high">e</hi> Supper<lb/>
+of the Lord in a <normalised orig="Citie" auto="true">City</normalised> y<hi rend="high">t</hi> was <normalised orig="the~" auto="true">then</normalised> so troubled<lb/>
+and stirred. <normalised orig="Whe~" auto="false">When</normalised> <normalised orig="thys" auto="true">this</normalised> was declared to the<lb/>
+                  <pb n="7"/>
+                  <lb/>
+said <normalised orig="Caluin" auto="true">Calvin</normalised>, his <normalised orig="aunswere" auto="true">answer</normalised> was y<hi rend="high">t</hi> if <normalised orig="hee" auto="true">he</normalised> had<lb/>
+<normalised orig="serued" auto="true">served</normalised> <normalised orig="me~" auto="false">men</normalised>, he should <normalised orig="haue" auto="true">have</normalised> <normalised orig="bene" auto="true">been</normalised> ill <normalised orig="reco~penced" auto="false">recompensed</normalised>,<lb/>
+but he <normalised orig="serued" auto="true">served</normalised> him, who in <normalised orig="steade" auto="true">stead</normalised> of <normalised orig="euil" auto="true">evil</normalised><lb/>
+<normalised orig="recompe~cing" auto="false">recompensing</normalised> his <normalised orig="serua~ts" auto="false">servants</normalised>, did <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="giue" auto="true">give</normalised><lb/>
+<normalised orig="the~" auto="true">then</normalised> more than they <normalised orig="deserued" auto="true">deserved</normalised>. And he might<lb/>
+<normalised orig="iustly" auto="true">justly</normalised> so say: for he had <normalised orig="folowed" auto="true">followed</normalised> the example<lb/>
+of S. <normalised orig="Paule" auto="true">Paul</normalised>, in <normalised orig="seruing" auto="true">serving</normalised> of the Church <normalised orig="vpon" auto="true">upon</normalised><lb/>
+his own charges &amp; cost. He then departed to<lb/>
+the great <normalised orig="griefe" auto="true">grief</normalised> of all the good, first to Basil,<lb/>
+&amp; then to <normalised orig="Strasbourgh" auto="false">Strasbourg</normalised>, <normalised orig="wher" auto="true">where</normalised> being <normalised orig="receiued" auto="true">received</normalised><lb/>
+as a treasure, by those excellent <normalised orig="me~" auto="false">men</normalised> M. Martin<lb/>
+<notvariant>Bucer</notvariant>, <notvariant>Capito</notvariant>, <notvariant>Hedio</notvariant>, and others, who at y<hi rend="high">e</hi>
+                  <lb/>
+present did <normalised orig="shyne" auto="false">shine</normalised> as precious <normalised orig="Pearles" auto="true">Pearls</normalised> in y<hi rend="high">e</hi>
+                  <lb/>
+Church of God, <normalised orig="hee" auto="true">he</normalised> there erected a French<lb/>
+Church, &amp; <normalised orig="therin" auto="true">therein</normalised> did establish Ecclesiastical<lb/>
+discipline in such sort, as y<hi rend="high">e</hi> <notvariant>Almaignes</notvariant> could<lb/>
+<normalised orig="neuer" auto="true">never</normalised> yet <normalised orig="attaine" auto="true">attain</normalised> <normalised orig="vnto" auto="true">unto</normalised>, for their <normalised orig="Churche" auto="true">Church</normalised>,<lb/>
+<normalised orig="euen" auto="true">even</normalised> to this very <normalised orig="daye" auto="true">day</normalised>: he did also <normalised orig="reade" auto="true">read</normalised> <normalised orig="Diuinitie" auto="true">Divinity</normalised><lb/>
+w<hi rend="high">t</hi> great admiration of <normalised orig="euery" auto="true">every</normalised> man, &amp;<lb/>
+then he began to write <normalised orig="vpon" auto="true">upon</normalised> S. <normalised orig="Paule" auto="true">Paul</normalised>, dedicating<lb/>
+his <normalised orig="Co~mentarie" auto="false">Commentary</normalised> <normalised orig="vpon" auto="true">upon</normalised> the Epistle to<lb/>
+the <notvariant>Romaines</notvariant> to M. Simon <notvariant>Grinee</notvariant>, who<lb/>
+was <normalised orig="accompted" auto="true">accounted</normalised> to be the best learned of the<lb/>
+<normalised orig="Almaigne" auto="false">allemaige</normalised> nation, &amp; was his great <normalised orig="friende" auto="true">friend</normalised>:<lb/>
+he had also this grace among others, that<lb/>
+<normalised orig="hee" auto="true">he</normalised> brought to the faith a great number of<lb/>
+Anabaptists which were sent <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="hym" auto="true">him</normalised> out<lb/>
+of all <normalised orig="partes" auto="true">parts</normalised>, and among others one named<lb/>
+                  <pb n="8"/>
+                  <lb/>
+<normalised orig="Iohn" auto="true">John</normalised> <notvariant>Stordeur</notvariant> of Liege, who within short<lb/>
+<normalised orig="tyme" auto="true">time</normalised> after dying of the Plague at <normalised orig="Strasbourgh" auto="false">Strasbourg</normalised>,<lb/>
+he <normalised orig="tooke" auto="true">took</normalised> his widow to <normalised orig="wyfe" auto="true">wife</normalised>, whose<lb/>
+name was <notvariant>Idelleto</notvariant> de <notvariant>Bure</notvariant>, a <normalised orig="verye" auto="true">very</normalised> <normalised orig="graue" auto="true">grave</normalised> and<lb/>
+honest woman, with <normalised orig="whome" auto="true">whom</normalised> <normalised orig="hee" auto="true">he</normalised> <normalised orig="liued" auto="true">lived</normalised> <normalised orig="afterwarde" auto="true">afterward</normalised><lb/>
+<normalised orig="verye" auto="true">very</normalised> quietly, <normalised orig="vntyll" auto="true">until</normalised> our <normalised orig="Lorde" auto="true">Lord</normalised><lb/>
+<normalised orig="tooke" auto="true">took</normalised> <normalised orig="hir" auto="true">his</normalised> away to himself, the <normalised orig="yeare" auto="true">year</normalised> .1548.<lb/>
+without <normalised orig="hauing" auto="true">having</normalised> had any <normalised orig="childe" auto="true">child</normalised>: at the same<lb/>
+very time there were holden in <normalised orig="Almaigne" auto="false">allemaige</normalised><lb/>
+<normalised orig="certaine" auto="true">certain</normalised> <normalised orig="imperiall" auto="true">imperial</normalised> assembles or diets for the<lb/>
+matter of Religion, at <normalised orig="Woormes" auto="false">Worms</normalised> and at<lb/>
+<notvariant>Ratisbone</notvariant>, in the which <normalised orig="Caluin" auto="true">Calvin</normalised> was <normalised orig="chose~" auto="false">chosen</normalised><lb/>
+for one of the <normalised orig="chiefe" auto="true">chief</normalised> by the <normalised orig="aduise" auto="true">advise</normalised> of all the<lb/>
+<normalised orig="Diuines" auto="true">Divines</normalised> of <normalised orig="Almaigne" auto="false">allemaige</normalised>, where he did so <normalised orig="behaue" auto="true">behave</normalised><lb/>
+<normalised orig="himselfe" auto="true">himself</normalised> y<hi rend="high">t</hi> his <normalised orig="renoume" auto="true">rename</normalised> became great<lb/>
+<normalised orig="euen" auto="true">even</normalised> among the very <normalised orig="enimies" auto="true">enemies</normalised>, and Phillip<lb/>
+<notvariant>Melancthon</notvariant> among others, did <normalised orig="euen" auto="true">even</normalised> then<lb/>
+<normalised orig="receiue" auto="true">receive</normalised> him into <normalised orig="singuler" auto="true">singular</normalised> friendship which<lb/>
+did <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="laste" auto="true">last</normalised> <normalised orig="afterwarde" auto="true">afterward</normalised>, and did then<lb/>
+call him <normalised orig="ordinarilye" auto="true">ordinarily</normalised> the <normalised orig="Diuine" auto="true">Divine</normalised>, in token of<lb/>
+<normalised orig="singuler" auto="true">singular</normalised> <normalised orig="honor" auto="true">honour</normalised>. In the <normalised orig="meane" auto="true">mean</normalised> time y<hi rend="high">e</hi> Lord<lb/>
+did execute his <normalised orig="iudgements" auto="true">judgements</normalised> at <normalised orig="Geneua" auto="true">Geneva</normalised>, punishing<lb/>
+<normalised orig="certaine" auto="true">certain</normalised> which <normalised orig="beyng" auto="true">being</normalised> in the place of<lb/>
+<notvariant>Syndique</notvariant> .1538. were the cause of the <normalised orig="banishement" auto="false">banishment</normalised><lb/>
+of <normalised orig="Caluin" auto="true">Calvin</normalised> and <notvariant>Farel</notvariant>, in such sort<lb/>
+as one of them <normalised orig="beyng" auto="true">being</normalised> <normalised orig="gyltie" auto="false">guilty</normalised> of a sedition, &amp;<lb/>
+thinking to <normalised orig="saue" auto="true">save</normalised> himself <normalised orig="thorow" auto="true">thorough</normalised> a window,<lb/>
+                  <pb n="9"/>
+                  <lb/>
+did all burst <normalised orig="himselfe" auto="true">himself</normalised>, an other of them <normalised orig="hauing" auto="true">having</normalised><lb/>
+committed a murder, was by order of<lb/>
+<normalised orig="iustice" auto="true">justice</normalised> beheaded, the other <normalised orig="twaine" auto="true">twain</normalised> being <normalised orig="co~uinced" auto="false">convinced</normalised><lb/>
+of certain <normalised orig="vntrouth" auto="true">untruth</normalised> against the state<lb/>
+of the <normalised orig="towne" auto="true">town</normalised>, <normalised orig="fledde" auto="true">fled</normalised> <normalised orig="awaye" auto="true">away</normalised> and were condemned<lb/>
+in their absence. When the <normalised orig="towne" auto="true">town</normalised><lb/>
+was purged of this froth, they began then<lb/>
+to <normalised orig="bewayle" auto="true">bewail</normalised> <normalised orig="Caluin" auto="true">Calvin</normalised>, &amp; he was <normalised orig="desyred" auto="true">desired</normalised> thither<lb/>
+<normalised orig="againe" auto="true">again</normalised> by sundry <normalised orig="Ambassades" auto="false">ambassadors</normalised> <normalised orig="fro~" auto="true">from</normalised> <normalised orig="Geneua" auto="true">Geneva</normalised>,<lb/>
+and by the intercession of the <normalised orig="Lordes" auto="true">Lords</normalised> of <normalised orig="Zuriche" auto="false">Zurich</normalised>,<lb/>
+to y<hi rend="high">e</hi> Lords of <normalised orig="Strasbourgh" auto="false">Strasbourg</normalised>, who made<lb/>
+great <normalised orig="difficultie" auto="true">difficulty</normalised>. On y<hi rend="high">e</hi> other side <normalised orig="Caluin" auto="true">Calvin</normalised> <normalised orig="seing" auto="true">seeing</normalised><lb/>
+how he profited in <normalised orig="Strasbourgh" auto="false">Strasbourg</normalised>, would<lb/>
+in no <normalised orig="wyse" auto="true">wise</normalised> <normalised orig="co~sent" auto="false">consent</normalised> <normalised orig="therunto" auto="true">thereunto</normalised>, albeit to declare<lb/>
+the good <normalised orig="wyll" auto="true">will</normalised> that he bare to the <normalised orig="towne" auto="true">town</normalised>, the<lb/>
+<normalised orig="yeare" auto="true">year</normalised> .1539. a whole <normalised orig="yeare" auto="true">year</normalised> after <normalised orig="hys" auto="true">his</normalised> banishment,<lb/>
+<normalised orig="hee" auto="true">he</normalised> maintained the cause <normalised orig="therof" auto="true">thereof</normalised> or rather<lb/>
+of the truth of God against the Cardinal<lb/>
+<notvariant>Sadolet</notvariant>, in a large and learned Epistle<lb/>
+which is printed among the <normalised orig="reast" auto="true">rest</normalised> of <normalised orig="hys" auto="true">his</normalised><lb/>
+<normalised orig="workes" auto="true">works</normalised>. In <choice ana="print">
+                     <sic><normalised orig="thende" auto="true">the end</normalised></sic>
+                     <corr>the <normalised orig="ende" auto="true">end</normalised></corr>
+                  </choice> he was threatened with<lb/>
+the <normalised orig="iudgements" auto="true">judgements</normalised> of God if he did not obey to<lb/>
+that vocation, in such <normalised orig="sorte" auto="true">sort</normalised> that to the great<lb/>
+<normalised orig="sorrowe" auto="true">sorrow</normalised> of the <normalised orig="Lordes" auto="true">Lords</normalised> of <normalised orig="Strasbourgh" auto="false">Strasbourg</normalised>, and<lb/>
+especially of <normalised orig="Maister" auto="true">Master</normalised> <notvariant>Bucer</notvariant> and his companions,<lb/>
+he was licenced to be at <normalised orig="Geneua" auto="true">Geneva</normalised> for<lb/>
+a <normalised orig="certaine" auto="true">certain</normalised> time. But when he came thither<lb/>
+and was <normalised orig="receiued" auto="true">received</normalised> of <normalised orig="singuler" auto="true">singular</normalised> affection by<lb/>
+those <normalised orig="poore" auto="true">poor</normalised> people which <normalised orig="acknowleged" auto="true">acknowledged</normalised> their<lb/>
+                  <pb n="10"/>
+                  <lb/>
+fault, &amp; <normalised orig="hauing" auto="true">having</normalised> a great desire to <normalised orig="heare" auto="true">hear</normalised> their<lb/>
+faithful Pastor, they <normalised orig="helde" auto="true">held</normalised> him there continually:<lb/>
+<normalised orig="wherunto" auto="true">whereunto</normalised> in the <normalised orig="ende" auto="true">end</normalised> the <normalised orig="Lordes" auto="true">Lords</normalised> of<lb/>
+<normalised orig="Strasbourgh" auto="false">Strasbourg</normalised> consented, <normalised orig="vpo~" auto="true">upon</normalised> condition that<lb/>
+he should be <normalised orig="alwayes" auto="true">always</normalised> a Bourgeois of their<lb/>
+<normalised orig="towne" auto="true">town</normalised>. They would also y<hi rend="high">t</hi> he should <normalised orig="haue" auto="true">have</normalised><lb/>
+had <normalised orig="alwayes" auto="true">always</normalised> y<hi rend="high">e</hi> <normalised orig="reuenue" auto="true">revenue</normalised> of a <notvariant>Prebend</notvariant> which<lb/>
+was appointed <normalised orig="vnto" auto="true">unto</normalised> him for <normalised orig="hys" auto="true">his</normalised> <normalised orig="stipende" auto="true">stipend</normalised> of<lb/>
+his reading. But as he was a man <normalised orig="clearely" auto="true">clearly</normalised><lb/>
+<normalised orig="voide" auto="true">void</normalised> of all <normalised orig="greedinesse" auto="true">greediness</normalised> of the <normalised orig="goodes" auto="true">goods</normalised> of <normalised orig="thys" auto="true">this</normalised><lb/>
+<normalised orig="worlde" auto="true">world</normalised>, so <normalised orig="coulde" auto="true">could</normalised> they <normalised orig="neuer" auto="true">never</normalised> bring to <normalised orig="passe" auto="true">pass</normalised><lb/>
+that <normalised orig="hee" auto="true">he</normalised> <normalised orig="woulde" auto="true">would</normalised> <normalised orig="receiue" auto="true">receive</normalised> so much as the value<lb/>
+of one Denier thereof. And in this <normalised orig="sorte" auto="true">sort</normalised><lb/>
+he was <normalised orig="againe" auto="true">again</normalised> established at <normalised orig="Geneua" auto="true">Geneva</normalised>, the<lb/>
+<normalised orig="yeare" auto="true">year</normalised> .1541. the .13. of September, where<lb/>
+forthwith <normalised orig="hee" auto="true">he</normalised> framed an order of <normalised orig="Ecclesiasticall" auto="true">Ecclesiastical</normalised><lb/>
+Discipline, which <normalised orig="hath" auto="false">has</normalised> <normalised orig="alwayes" auto="true">always</normalised> since<lb/>
+continued there <normalised orig="firmely" auto="true">firmly</normalised>, albeit Satan and<lb/>
+<normalised orig="hys" auto="true">his</normalised> <normalised orig="adherentes" auto="false">adherents</normalised> <normalised orig="haue" auto="true">have</normalised> employed all <normalised orig="theire" auto="true">their</normalised><lb/>
+forces to <normalised orig="abolishe" auto="true">abolish</normalised> it. Now <normalised orig="hee" auto="true">he</normalised> that <normalised orig="woulde" auto="true">would</normalised><lb/>
+here declare <normalised orig="particulerly" auto="false">particularly</normalised> all the <normalised orig="trauayles" auto="true">travails</normalised> &amp;<lb/>
+<normalised orig="paines" auto="true">pains</normalised> that <normalised orig="thys" auto="true">this</normalised> excellent personage <normalised orig="hath" auto="false">has</normalised><lb/>
+endured since by the space of .23. <normalised orig="yeares" auto="true">years</normalised> as<lb/>
+well within as without, <normalised orig="hee" auto="true">he</normalised> <normalised orig="shoulde" auto="true">should</normalised> <normalised orig="haue" auto="true">have</normalised><lb/>
+matter sufficient to <normalised orig="fil" auto="true">fill</normalised> a great volume. For<lb/>
+if <normalised orig="euer" auto="true">ever</normalised> there were <normalised orig="towne" auto="true">town</normalised> furiously <normalised orig="assayled" auto="true">assailed</normalised><lb/>
+by Satan, and valiantly defended during y<hi rend="high">e</hi>
+                  <lb/>
+<normalised orig="tyme" auto="true">time</normalised>, it was <normalised orig="Geneua" auto="true">Geneva</normalised>, the <normalised orig="honor" auto="true">honour</normalised> <normalised orig="belongeth" auto="true">belongs</normalised><lb/>
+                  <pb n="11"/>
+                  <lb/>
+to God, but it ought and may <normalised orig="lawfullye" auto="true">lawfully</normalised> be<lb/>
+said y<hi rend="high">t</hi> <normalised orig="Caluin" auto="true">Calvin</normalised> <normalised orig="hath" auto="false">has</normalised> <normalised orig="bene" auto="true">been</normalised> y<hi rend="high">e</hi> <normalised orig="instrume~t" auto="false">instrument</normalised> of <normalised orig="hys" auto="true">his</normalised><lb/>
+<normalised orig="vertue" auto="true">virtue</normalised> &amp; power. If there be <normalised orig="questio~" auto="false">question</normalised> of vigilance,<lb/>
+Satan &amp; his could <normalised orig="neuer" auto="true">never</normalised> take him <normalised orig="vnprouided" auto="true">unprovided</normalised>,<lb/>
+but either he <normalised orig="hath" auto="false">has</normalised> warned y<hi rend="high">e</hi> <normalised orig="flocke" auto="true">flock</normalised><lb/>
+before <normalised orig="hande" auto="true">hand</normalised>, or else <normalised orig="preserued" auto="true">preserved</normalised> it in y<hi rend="high">e</hi> place.<lb/>
+If wee <normalised orig="shal" auto="true">shall</normalised> <normalised orig="speake" auto="true">speak</normalised> of <normalised orig="integritie" auto="true">integrity</normalised>, he is yet <normalised orig="vnborne" auto="true">unborn</normalised>,<lb/>
+y<hi rend="high">t</hi> <normalised orig="hath" auto="false">has</normalised> <normalised orig="sene" auto="true">scene</normalised> him <normalised orig="co~mit" auto="false">commit</normalised> any fault in his<lb/>
+office, or to <normalised orig="yelde" auto="true">yield</normalised>, be it <normalised orig="neuer" auto="true">never</normalised> so little, for any<lb/>
+man <normalised orig="liuing" auto="true">living</normalised>, or to <normalised orig="haue" auto="true">have</normalised> varied in doctrine or<lb/>
+life, nor <normalised orig="neuer" auto="true">never</normalised> <notvariant>misreported</notvariant> man. If we shall<lb/>
+<normalised orig="speake" auto="true">speak</normalised> of labour &amp; <normalised orig="paine" auto="true">pain</normalised>, I <normalised orig="beleue" auto="true">believe</normalised> y<hi rend="high">t</hi> his like<lb/>
+is not to be <normalised orig="founde" auto="true">found</normalised>, beside y<hi rend="high">t</hi> he preached <normalised orig="co~tinually" auto="false">continually</normalised><lb/>
+<normalised orig="euery" auto="true">every</normalised> <normalised orig="daye" auto="true">day</normalised> in the <normalised orig="weeke" auto="true">week</normalised>, and most<lb/>
+commonly, and as often as he was able, <normalised orig="hee" auto="true">he</normalised><lb/>
+preached twice <normalised orig="euery" auto="true">every</normalised> <normalised orig="Sonday" auto="true">Sunday</normalised>: <normalised orig="hee" auto="true">he</normalised> did <normalised orig="reade" auto="true">read</normalised><lb/>
+<normalised orig="diuinitie" auto="true">divinity</normalised> three times in a <normalised orig="weeke" auto="true">week</normalised>: <normalised orig="hee" auto="true">he</normalised> made<lb/>
+declaration in y<hi rend="high">e</hi> <normalised orig="Consistorie" auto="true">Consistory</normalised> or as it were a<lb/>
+whole lesson <normalised orig="euery" auto="true">every</normalised> Friday, in conference of<lb/>
+the Scripture which we call <normalised orig="Co~gregation" auto="false">Congregation</normalised>,<lb/>
+&amp; did continue this order <normalised orig="thorowly" auto="true">thoroughly</normalised> w<hi rend="high">t</hi>out interruption<lb/>
+<normalised orig="vntill" auto="true">until</normalised> his death, &amp; in <normalised orig="dede" auto="true">deed</normalised> <normalised orig="neuer" auto="true">never</normalised><lb/>
+did <normalised orig="fayle" auto="true">fail</normalised> so much as once, except it were by<lb/>
+extreme <normalised orig="sicknesse" auto="true">sickness</normalised>. Further, who is able to<lb/>
+recite his <normalised orig="trauailes" auto="true">travails</normalised> <normalised orig="ordinarie" auto="true">ordinary</normalised> and extraordinary,<lb/>
+I <normalised orig="knowe" auto="true">know</normalised> not if any man of our <normalised orig="tyme" auto="true">time</normalised><lb/>
+<normalised orig="hath" auto="false">has</normalised> had more to <normalised orig="heare" auto="true">hear</normalised>, to <normalised orig="aunswere" auto="true">answer</normalised>, and to<lb/>
+write, nor matters of greater <normalised orig="importaunce" auto="true">importance</normalised>.<lb/>
+                  <lb/>
+                  <fw type="pageNum">C.j.</fw>
+                  <pb n="12"/>
+                  <lb/>
+The <normalised orig="onely" auto="true">only</normalised> multitude and number of <normalised orig="hys" auto="true">his</normalised><lb/>
+<normalised orig="bookes" auto="true">books</normalised> and writings are sufficient to <normalised orig="astonishe" auto="true">astonish</normalised><lb/>
+any man that shall <normalised orig="se" auto="false">see</normalised> them: but much<lb/>
+more those that shall <normalised orig="reade" auto="true">read</normalised> them. And that<lb/>
+which <normalised orig="maketh" auto="true">makes</normalised> <normalised orig="hys" auto="true">his</normalised> labours more <normalised orig="wonderfull" auto="true">wonderful</normalised>,<lb/>
+is that <normalised orig="hee" auto="true">he</normalised> had a <normalised orig="bodye" auto="true">body</normalised> so <normalised orig="weake" auto="true">weak</normalised> of nature,<lb/>
+and so lowe brought with <notvariant>watchings</notvariant><lb/>
+and <normalised orig="ouermuch" auto="true">overmuch</normalised> <normalised orig="sobrietie" auto="true">sobriety</normalised>, yea and being <normalised orig="subiect" auto="true">subject</normalised><lb/>
+to so many diseases, that all men y<hi rend="high">t</hi> had<lb/>
+<normalised orig="sene" auto="true">scene</normalised> him, would <normalised orig="haue" auto="true">have</normalised> thought y<hi rend="high">t</hi> he <normalised orig="coulde" auto="true">could</normalised><lb/>
+not <normalised orig="haue" auto="true">have</normalised> <normalised orig="lyued" auto="true">lived</normalised> at all. And notwithstanding<lb/>
+this, <normalised orig="hee" auto="true">he</normalised> <normalised orig="neuer" auto="true">never</normalised> left of day nor night his <normalised orig="trauaile" auto="true">travail</normalised><lb/>
+in the <normalised orig="workes" auto="true">works</normalised> of the <normalised orig="Lorde" auto="true">Lord</normalised>: &amp; he <normalised orig="coulde" auto="true">could</normalised><lb/>
+not endure to <normalised orig="heare" auto="true">hear</normalised> y<hi rend="high">e</hi> <normalised orig="requestes" auto="true">requests</normalised> and exhortations<lb/>
+of <normalised orig="hys" auto="true">his</normalised> <normalised orig="friendes" auto="true">friends</normalised> which they <normalised orig="daylye" auto="true">daily</normalised><lb/>
+made <normalised orig="vnto" auto="true">unto</normalised> him, to the <normalised orig="ende" auto="true">end</normalised> that he <normalised orig="shoulde" auto="true">should</normalised><lb/>
+take some rest. I <normalised orig="wyll" auto="true">will</normalised> <normalised orig="alledge" auto="true">allege</normalised> <normalised orig="onely" auto="true">only</normalised> two examples.<lb/>
+The <normalised orig="yeare" auto="true">year</normalised> .1559. <normalised orig="beyng" auto="true">being</normalised> <normalised orig="assayled" auto="true">assailed</normalised><lb/>
+and <normalised orig="maruellously" auto="true">marvelously</normalised> <normalised orig="greued" auto="true">grieved</normalised> with a <normalised orig="feuer" auto="true">fever</normalised> <normalised orig="quartane" auto="true">quartain</normalised>,<lb/>
+he did notwithstanding, in the chiefest<lb/>
+of <normalised orig="hys" auto="true">his</normalised> <normalised orig="sicknesse" auto="true">sickness</normalised>, set forth the <normalised orig="laste" auto="true">last</normalised> edition of<lb/>
+his Christian Institution, and did translate<lb/>
+it <normalised orig="thorowe" auto="true">thorough</normalised> <normalised orig="oute" auto="true">out</normalised> into <normalised orig="Frenche" auto="true">French</normalised>. Likewise in<lb/>
+his last sicknesses, which were the stone, the<lb/>
+<normalised orig="goute" auto="true">gout</normalised>, y<hi rend="high">e</hi> <normalised orig="Hemorrhodes" auto="false">Hemorrhoids</normalised>, a <normalised orig="Phthysike" auto="false">Physic</normalised> <normalised orig="feuer" auto="true">fever</normalised>,<lb/>
+<normalised orig="shortnesse" auto="true">shortness</normalised> of <normalised orig="wynd" auto="false">wind</normalised>, beside his <normalised orig="ordinarie" auto="true">ordinary</normalised> disease<lb/>
+of the <normalised orig="Miegrame" auto="false">Migraine</normalised>, he did him self translate<lb/>
+wholly that great volume of his Commentaries<lb/>
+                  <pb n="13"/>
+                  <lb/>
+<normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="foure" auto="true">four</normalised> <normalised orig="laste" auto="true">last</normalised> <normalised orig="Bookes" auto="true">Books</normalised> of<lb/>
+<normalised orig="Moyses" auto="false">Moses</normalised>: examined the translation of y<hi rend="high">e</hi> <normalised orig="fyrst" auto="true">first</normalised>:<lb/>
+made this <normalised orig="booke" auto="true">book</normalised> <normalised orig="vpo~" auto="true">upon</normalised> <normalised orig="Ioshe" auto="false">Josh</normalised>, and did peruse<lb/>
+the greatest part of the translation and annotations<lb/>
+of the <normalised orig="Newe" auto="true">New</normalised> Testament, in sort<lb/>
+that he <normalised orig="neuer" auto="true">never</normalised> ceased from writing but only<lb/>
+<normalised orig="eyght" auto="true">eight</normalised> <normalised orig="dayes" auto="true">days</normalised> before his death, <normalised orig="hys" auto="true">his</normalised> voice beginning<lb/>
+to <normalised orig="fayle" auto="true">fail</normalised> him. Beside <normalised orig="hys" auto="true">his</normalised> innumerable<lb/>
+<normalised orig="paines" auto="true">pains</normalised> and his charges, in all the <normalised orig="mischiefes" auto="true">mischiefs</normalised><lb/>
+and <normalised orig="perilles" auto="true">perils</normalised>, wherein this <normalised orig="poore" auto="true">poor</normalised> <normalised orig="Citie" auto="true">City</normalised><lb/>
+<normalised orig="hath" auto="false">has</normalised> <normalised orig="bene" auto="true">been</normalised>, <normalised orig="assayled" auto="true">assailed</normalised> within by many mutinous<lb/>
+and desperate Citizens, tormented<lb/>
+without a hundred thousand <normalised orig="wayes" auto="true">ways</normalised>, <normalised orig="threatned" auto="true">threatened</normalised><lb/>
+by the greatest Kings and Princes of<lb/>
+<normalised orig="Christendome" auto="true">Christendom</normalised>, <normalised orig="bicause" auto="true">because</normalised> it was <normalised orig="alwayes" auto="true">always</normalised> a refuge<lb/>
+and defence for all the <normalised orig="poore" auto="true">poor</normalised> children of<lb/>
+God afflicted in <normalised orig="Fraunce" auto="true">France</normalised>, <normalised orig="Italie" auto="false">Italy</normalised>, <normalised orig="Spayne" auto="true">Spain</normalised>,<lb/>
+<normalised orig="Englande" auto="false">England</normalised>, and else where, it was so that<lb/>
+<normalised orig="Caluin" auto="true">Calvin</normalised> bare <normalised orig="alwaye" auto="true">always</normalised> the greatest burden: to<lb/>
+be short he <normalised orig="myght" auto="true">might</normalised> well <normalised orig="saye" auto="true">say</normalised> with S. <normalised orig="Paule" auto="true">Paul</normalised>,<lb/>
+who is he y<hi rend="high">t</hi> is troubled &amp; I do not <normalised orig="sorrowe" auto="true">sorrow</normalised>?<lb/>
+And it was not without cause y<hi rend="high">t</hi> <normalised orig="euery" auto="true">every</normalised> <normalised orig="ma~" auto="true">man</normalised><lb/>
+had his refuge to him: for God had adorned<lb/>
+him with so <normalised orig="wyse" auto="true">wise</normalised> and good <normalised orig="councell" auto="true">council</normalised>, that<lb/>
+<normalised orig="neuer" auto="true">never</normalised> man repented him of the following<lb/>
+of it, but I <normalised orig="haue" auto="true">have</normalised> <normalised orig="knowe~" auto="false">known</normalised> many <normalised orig="fal" auto="true">fall</normalised> into great<lb/>
+and extreme <normalised orig="inconueniences" auto="true">inconveniences</normalised> which would<lb/>
+not <normalised orig="beleue" auto="true">believe</normalised> him. <normalised orig="Thys" auto="true">This</normalised> <normalised orig="hath" auto="false">has</normalised> <normalised orig="bene" auto="true">been</normalised> <normalised orig="founde" auto="true">found</normalised> so<lb/>
+                  <lb/>
+                  <fw type="pageNum">C.<notvariant>ij</notvariant>.</fw>
+                  <pb n="14"/>
+                  <lb/>
+by many experiences and <normalised orig="proofes" auto="true">proofs</normalised>, namely<lb/>
+in the <notvariant>seditions</notvariant> that happened the <normalised orig="yeare" auto="true">year</normalised> .48.<lb/>
+54. and .55. to <normalised orig="breake" auto="true">break</normalised> and disorder the discipline<lb/>
+of the Church, where he thrust himself<lb/>
+naked in among y<hi rend="high">e</hi> <normalised orig="swordes" auto="true">swords</normalised> <normalised orig="drawne" auto="true">drawn</normalised>, and w<hi rend="high">t</hi>
+                  <lb/>
+<normalised orig="hys" auto="true">his</normalised> presence &amp; <normalised orig="wordes" auto="true">words</normalised> he so frayed the most<lb/>
+desperate <normalised orig="mutines" auto="false">muteneers</normalised> of them, y<hi rend="high">t</hi> they were enforced<lb/>
+to <normalised orig="prayse" auto="true">praise</normalised> God. The <normalised orig="lyke" auto="true">like</normalised> was in the<lb/>
+<normalised orig="conspiracie" auto="true">conspiracy</normalised> <notvariant>Catilinarie</notvariant>, which was the <normalised orig="verye" auto="true">very</normalised><lb/>
+<normalised orig="yere" auto="true">year</normalised> .55. to <normalised orig="haue" auto="true">have</normalised> <normalised orig="murdred" auto="true">murdered</normalised> all the French, by<lb/>
+y<hi rend="high">e</hi> <normalised orig="Captaine" auto="true">Captain</normalised> of y<hi rend="high">e</hi> <normalised orig="towne" auto="true">town</normalised> named <notvariant>Amied</notvariant> <notvariant>Perrin</notvariant><lb/>
+and his conspirators, which <normalised orig="coniuration" auto="true">conjuration</normalised> <normalised orig="carying" auto="true">carrying</normalised><lb/>
+with it a <normalised orig="maruellous" auto="true">marvelous</normalised> number of <normalised orig="dau~gers" auto="false">dangers</normalised><lb/>
+and <normalised orig="trauayles" auto="true">travails</normalised>, in the <normalised orig="ende" auto="true">end</normalised>, the <normalised orig="Lorde" auto="true">Lord</normalised><lb/>
+of <normalised orig="hys" auto="true">his</normalised> great grace, by the <normalised orig="wysedome" auto="true">wisdom</normalised> of <normalised orig="hys" auto="true">his</normalised><lb/>
+<normalised orig="seruaunt" auto="true">servant</normalised> brought it to that <normalised orig="passe" auto="true">pass</normalised> y<hi rend="high">t</hi> it is now<lb/>
+at: to <normalised orig="wyt" auto="true">wit</normalised>, to the greatest <normalised orig="quietnesse" auto="true">quietness</normalised> and <normalised orig="felicitie" auto="true">felicity</normalised><lb/>
+y<hi rend="high">t</hi> <normalised orig="euer" auto="true">ever</normalised> this <normalised orig="Citie" auto="true">City</normalised> did <normalised orig="knowe" auto="true">know</normalised>. As touching<lb/>
+his ordinary life &amp; <normalised orig="dyet" auto="true">diet</normalised>, <normalised orig="euery" auto="true">every</normalised> man <normalised orig="ca~" auto="false">can</normalised><lb/>
+<normalised orig="witnesse" auto="true">witness</normalised> that it was so temperate, that <normalised orig="ther" auto="true">there</normalised><lb/>
+was <normalised orig="neuer" auto="true">never</normalised> <normalised orig="excesse" auto="true">excess</normalised> in it, no more was there<lb/>
+of <normalised orig="nigardise" auto="false">niggardise</normalised>, but a commendable <normalised orig="meane" auto="true">mean</normalised>, <normalised orig="sauing" auto="true">saving</normalised><lb/>
+that he had <normalised orig="alwayes" auto="true">always</normalised> to small <normalised orig="regarde" auto="true">regard</normalised><lb/>
+to his health, being <normalised orig="co~tented" auto="false">contented</normalised> for the space of<lb/>
+many <normalised orig="yeares" auto="true">years</normalised> w<hi rend="high">t</hi> one repast in .<notvariant>xxiiij</notvariant>. <normalised orig="houres" auto="true">hours</normalised>,<lb/>
+and <normalised orig="neuer" auto="true">never</normalised> <normalised orig="receiuing" auto="true">receiving</normalised> any thing <normalised orig="betwene" auto="true">between</normalised> his<lb/>
+<normalised orig="meales" auto="true">meals</normalised> in such sort y<hi rend="high">t</hi> all that <normalised orig="euer" auto="true">ever</normalised> the <normalised orig="Phisitians" auto="true">Physicians</normalised><lb/>
+could persuade him <normalised orig="vnto" auto="true">unto</normalised> in y<hi rend="high">e</hi> point,<lb/>
+                  <pb n="15"/>
+                  <lb/>
+was y<hi rend="high">t</hi> about half a <normalised orig="yere" auto="true">year</normalised> before his last <normalised orig="sicknesse" auto="true">sickness</normalised>,<lb/>
+he did take at times about <normalised orig="noone" auto="false">noon</normalised> a <normalised orig="litle" auto="true">little</normalised><lb/>
+wine and would <normalised orig="soupe" auto="true">soup</normalised> of an <normalised orig="egge" auto="true">egg</normalised>, y<hi rend="high">e</hi>
+                  <lb/>
+causes<lb/>
+were the <normalised orig="weakenesse" auto="true">weakness</normalised> of his <normalised orig="stomack" auto="true">stomach</normalised>, and y<hi rend="high">e</hi>
+                  <lb/>
+<normalised orig="Miegrame" auto="false">Migraine</normalised>, for the which he <normalised orig="saide" auto="true">said</normalised> <normalised orig="hee" auto="true">he</normalised> <normalised orig="coulde" auto="true">could</normalised><lb/>
+<normalised orig="neuer" auto="true">never</normalised> find any remedy but a <normalised orig="co~tinual" auto="false">continual</normalised> <normalised orig="dyet" auto="true">diet</normalised>,<lb/>
+in <normalised orig="suche" auto="true">such</normalised> sort as I <normalised orig="haue" auto="true">have</normalised> <normalised orig="knewen" auto="false">known</normalised> him oftentimes<lb/>
+to <normalised orig="eate" auto="true">eat</normalised> no <normalised orig="meate" auto="true">meat</normalised> in two <normalised orig="dayes" auto="true">days</normalised>. Being<lb/>
+of so <normalised orig="smal" auto="true">small</normalised> a <normalised orig="dyet" auto="true">diet</normalised>, he slept very little: &amp; for<lb/>
+the more <normalised orig="parte" auto="true">part</normalised> he was <normalised orig="co~strained" auto="false">constrained</normalised> to <normalised orig="warme" auto="true">warm</normalised><lb/>
+him <normalised orig="vpon" auto="true">upon</normalised> his <normalised orig="bedde" auto="true">bed</normalised>, whereon also <normalised orig="hee" auto="true">he</normalised> <normalised orig="hath" auto="false">has</normalised><lb/>
+made the greatest number of his <normalised orig="bookes" auto="true">books</normalised>, being<lb/>
+continually happily <normalised orig="occupyed" auto="true">occupied</normalised> in <normalised orig="spirite" auto="true">spirit</normalised>.<lb/>
+This is the order y<hi rend="high">t</hi> this excellent <normalised orig="seruant" auto="true">servant</normalised> of<lb/>
+God did <normalised orig="continuallye" auto="true">continually</normalised> <normalised orig="obserue" auto="true">observe</normalised>, forgetting<lb/>
+himself to <normalised orig="serue" auto="true">serve</normalised> God &amp; his neighbour in his<lb/>
+vocation &amp; charge: yet <normalised orig="coulde" auto="true">could</normalised> <normalised orig="hee" auto="true">he</normalised> not so <normalised orig="doe" auto="false">do</normalised><lb/>
+but y<hi rend="high">t</hi> Satan did <normalised orig="rayse" auto="true">raise</normalised> <normalised orig="vp" auto="true">up</normalised> against him <normalised orig="al" auto="false">all</normalised> the<lb/>
+<notvariant>shamefullest</notvariant> <normalised orig="slaunders" auto="true">slanders</normalised> of y<hi rend="high">e</hi> <normalised orig="worlde" auto="true">world</normalised>, but y<hi rend="high">t</hi> is<lb/>
+no <normalised orig="newes" auto="true">news</normalised>, for it is the <normalised orig="rewarde" auto="true">reward</normalised> y<hi rend="high">t</hi> the world<lb/>
+in all ages <normalised orig="hath" auto="false">has</normalised> <normalised orig="giuen" auto="true">given</normalised> to those that <normalised orig="woulde" auto="true">would</normalised><lb/>
+<normalised orig="drawe" auto="true">draw</normalised> them from perdition. I <normalised orig="wyll" auto="true">will</normalised> not<lb/>
+<normalised orig="aunswere" auto="true">answer</normalised> those that <normalised orig="doe" auto="false">do</normalised> call him <normalised orig="Heretique" auto="true">Heretic</normalised><lb/>
+and <normalised orig="woorse" auto="true">worse</normalised> than <normalised orig="Heretique" auto="true">Heretic</normalised>, (whereupon<lb/>
+they <normalised orig="haue" auto="true">have</normalised> forged a name of <notvariant>Caluinistes</notvariant>)<lb/>
+for <normalised orig="hys" auto="true">his</normalised> Doctrine <normalised orig="maketh" auto="true">makes</normalised> <normalised orig="aunswere" auto="true">answer</normalised> on<lb/>
+the <normalised orig="contrarye" auto="true">contrary</normalised> more than <normalised orig="sufficientlye" auto="true">sufficiently</normalised>.<lb/>
+Some <normalised orig="haue" auto="true">have</normalised> charged <normalised orig="hym" auto="true">him</normalised> <normalised orig="wyth" auto="true">with</normalised> ambition,<lb/>
+                  <lb/>
+                  <fw type="pageNum">C.<notvariant>iij</notvariant>.</fw>
+                  <pb n="16"/>
+                  <lb/>
+but if they be able in <normalised orig="anye" auto="true">any</normalised> point to <normalised orig="proue" auto="true">prove</normalised> it,<lb/>
+I am content to be <normalised orig="co~demned" auto="false">condemned</normalised>. Is there any<lb/>
+man that <normalised orig="hath" auto="false">has</normalised> <normalised orig="folowed" auto="true">followed</normalised> greater <normalised orig="simplicitie" auto="true">simplicity</normalised><lb/>
+in the <normalised orig="expositio~" auto="false">exposition</normalised> of the Scriptures, and <normalised orig="hath" auto="false">has</normalised><lb/>
+more wherewith to set <normalised orig="hymselfe" auto="true">himself</normalised> <normalised orig="forthe" auto="true">forth</normalised> if<lb/>
+<normalised orig="hee" auto="true">he</normalised> <normalised orig="woulde" auto="true">would</normalised> <normalised orig="haue" auto="true">have</normalised> profaned the Scriptures<lb/>
+with <normalised orig="subtile" auto="true">subtle</normalised> and <normalised orig="vaine" auto="true">vain</normalised> <notvariant>ostentations</notvariant>? <normalised orig="Hee" auto="true">He</normalised><lb/>
+would rule all, <normalised orig="saye" auto="true">say</normalised> they. O <normalised orig="villaine" auto="true">villain</normalised> &amp; false<lb/>
+<normalised orig="shamelesnesse" auto="true">shamelessness</normalised>: what <normalised orig="preheminence" auto="true">pre-eminence</normalised> did <normalised orig="hee" auto="true">he</normalised><lb/>
+<normalised orig="euer" auto="true">ever</normalised> <normalised orig="seeke" auto="true">seek</normalised>? &amp; if he had sought it, who <normalised orig="coulde" auto="true">could</normalised><lb/>
+<normalised orig="haue" auto="true">have</normalised> kept him from it? with whom did <normalised orig="hee" auto="true">he</normalised><lb/>
+<normalised orig="euer" auto="true">ever</normalised> <normalised orig="striue" auto="true">strive</normalised> for the first or the <normalised orig="seconde" auto="true">second</normalised> place,<lb/>
+when men <normalised orig="haue" auto="true">have</normalised> not <normalised orig="giuen" auto="true">given</normalised> <normalised orig="vnto" auto="true">unto</normalised> him that<lb/>
+which the <normalised orig="giftes" auto="true">gifts</normalised> and graces that God had<lb/>
+<normalised orig="giuen" auto="true">given</normalised> him did require? when <normalised orig="hath" auto="false">has</normalised> <normalised orig="hee" auto="true">he</normalised> <normalised orig="bene" auto="true">been</normalised><lb/>
+<normalised orig="seene" auto="true">seen</normalised> alter, be it <normalised orig="neuer" auto="true">never</normalised> so little? when <normalised orig="hath" auto="false">has</normalised> it<lb/>
+<normalised orig="bene" auto="true">been</normalised> <normalised orig="sene" auto="true">scene</normalised> that <normalised orig="euer" auto="true">ever</normalised> <normalised orig="hee" auto="true">he</normalised> did abuse his charge<lb/>
+and his <normalised orig="auctoritie" auto="true">authority</normalised> <normalised orig="towarde" auto="true">toward</normalised> the simplest in y<hi rend="high">e</hi>
+                  <lb/>
+world? when did he take in <normalised orig="hande" auto="true">hand</normalised> any thing<lb/>
+without the <normalised orig="aduise" auto="true">advise</normalised> or against the opinion of<lb/>
+<normalised orig="hys" auto="true">his</normalised> companions? To be short, what difference<lb/>
+was there <normalised orig="euer" auto="true">ever</normalised> <normalised orig="betweene" auto="true">between</normalised> him and <normalised orig="vs" auto="true">us</normalised>,<lb/>
+but that he did <normalised orig="excell" auto="true">excel</normalised> <normalised orig="vs" auto="true">us</normalised> all in all <normalised orig="humilitie" auto="true">humility</normalised><lb/>
+among other <normalised orig="vertues" auto="true">virtues</normalised>, and also in that <normalised orig="hee" auto="true">he</normalised><lb/>
+<normalised orig="tooke" auto="true">took</normalised> more <normalised orig="paine" auto="true">pain</normalised> than all we did? was there<lb/>
+any man more <normalised orig="simplye" auto="true">simply</normalised> apparelled or more<lb/>
+modest in <normalised orig="al" auto="false">all</normalised> <normalised orig="respectes" auto="true">respects</normalised>? was there any house<lb/>
+considering the estate of the man, I <normalised orig="doe" auto="false">do</normalised> not<lb/>
+                  <pb n="17"/>
+                  <lb/>
+<normalised orig="saye" auto="true">say</normalised> <normalised orig="lesse" auto="true">less</normalised> <normalised orig="sumpteous" auto="false">sumptuous</normalised>, but more <normalised orig="slenderlye" auto="false">slenderly</normalised><lb/>
+furnished with <normalised orig="moueables" auto="true">movables</normalised>? And if men <normalised orig="wil" auto="true">will</normalised><lb/>
+not <normalised orig="beleue" auto="true">believe</normalised> <normalised orig="mee" auto="true">me</normalised> and ten thousand witnesses<lb/>
+with <normalised orig="mee" auto="true">me</normalised>, at the least let them <normalised orig="beleue" auto="true">believe</normalised> the<lb/>
+slender wealth of <normalised orig="hys" auto="true">his</normalised> brother &amp; <normalised orig="onely" auto="true">only</normalised> <normalised orig="heire" auto="true">heir</normalised>,<lb/>
+and also the <normalised orig="inuentorie" auto="false">inventory</normalised> of all his goods, and<lb/>
+it shall be <normalised orig="founde" auto="true">found</normalised> that all that <normalised orig="euer" auto="true">ever</normalised> <normalised orig="hee" auto="true">he</normalised> <normalised orig="lefte" auto="true">left</normalised><lb/>
+<normalised orig="behinde" auto="true">behind</normalised> him (<normalised orig="accompting" auto="true">accounting</normalised> also <normalised orig="hys" auto="true">his</normalised> <normalised orig="bookes" auto="true">books</normalised><lb/>
+which were <normalised orig="dearely" auto="true">dearly</normalised> <normalised orig="solde" auto="true">sold</normalised> <normalised orig="bicause" auto="true">because</normalised> of his precious<lb/>
+<normalised orig="memorie" auto="true">memory</normalised>, to all men that were learned)<lb/>
+<normalised orig="doth" auto="false">does</normalised> not <normalised orig="exceede" auto="true">exceed</normalised> the value of two hundred<lb/>
+<normalised orig="crownes" auto="true">crowns</normalised>. These <normalised orig="maye" auto="true">may</normalised> also <normalised orig="aunswere" auto="true">answer</normalised><lb/>
+these <normalised orig="shamelesse" auto="true">shameless</normalised> <normalised orig="euill" auto="true">evil</normalised> reporters who <normalised orig="haue" auto="true">have</normalised><lb/>
+talked so largely, that the one <normalised orig="sorte" auto="true">sort</normalised> <normalised orig="sayd" auto="true">said</normalised> <normalised orig="hee" auto="true">he</normalised><lb/>
+was a Usurer, the other that he was a very<lb/>
+<normalised orig="bancker" auto="false">banker</normalised>: a matter so <normalised orig="worthie" auto="true">worthy</normalised> of <normalised orig="scorne" auto="true">scorn</normalised> and<lb/>
+so falsely <normalised orig="raysed" auto="true">raised</normalised>, that <normalised orig="anye" auto="true">any</normalised> man that <normalised orig="euer" auto="true">ever</normalised><lb/>
+did <normalised orig="knowe" auto="true">know</normalised> him, <normalised orig="wyll" auto="true">will</normalised> <normalised orig="neuer" auto="true">never</normalised> require <normalised orig="aunswere" auto="true">answer</normalised><lb/>
+to such an <normalised orig="vntrouth" auto="true">untruth</normalised>. He was so <normalised orig="couetous" auto="true">covetous</normalised><lb/>
+that <normalised orig="hauing" auto="true">having</normalised> in the whole <normalised orig="sixe" auto="true">six</normalised> hundred<lb/>
+<normalised orig="Florines" auto="false">Florins</normalised> for his <normalised orig="stipende" auto="true">stipend</normalised>, which <normalised orig="doth" auto="false">does</normalised> not <normalised orig="al" auto="false">all</normalised><lb/>
+amount to three hundred <notvariant>liures</notvariant> <notvariant>tournois</notvariant>,<lb/>
+yea he sought to <normalised orig="haue" auto="true">have</normalised> <normalised orig="lesse" auto="true">less</normalised>, &amp; the <normalised orig="accomptes" auto="false">accounts</normalised><lb/>
+of this <normalised orig="Seigniorie" auto="true">Seigniory</normalised> can <normalised orig="witnesse" auto="true">witness</normalised> it. <normalised orig="Hee" auto="true">He</normalised> <normalised orig="hath" auto="false">has</normalised><lb/>
+<normalised orig="bene" auto="true">been</normalised> so <normalised orig="couetous" auto="true">covetous</normalised> of <normalised orig="thys" auto="true">this</normalised> <normalised orig="worldely" auto="false">worldly</normalised> <normalised orig="goodes" auto="true">goods</normalised>,<lb/>
+that being in <normalised orig="fauour" auto="true">favour</normalised>, yea &amp; <normalised orig="honored" auto="true">honoured</normalised> both of<lb/>
+Kings, Princes &amp; <normalised orig="Lordes" auto="true">Lords</normalised> of many nations,<lb/>
+and <normalised orig="hauing" auto="true">having</normalised> dedicated his <normalised orig="workes" auto="true">works</normalised> to them,<lb/>
+                  <lb/>
+                  <fw type="pageNum">C.<notvariant>iiij</notvariant>.</fw>
+                  <pb n="18"/>
+                  <lb/>
+I know not (and I think I should <normalised orig="haue" auto="true">have</normalised> <normalised orig="knowen" auto="true">known</normalised><lb/>
+it if it had <normalised orig="bene" auto="true">been</normalised> otherwise) that <normalised orig="euer" auto="true">ever</normalised> he<lb/>
+<normalised orig="receiued" auto="true">received</normalised> of them to <normalised orig="hys" auto="true">his</normalised> <normalised orig="vse" auto="true">use</normalised> the value of .xx.<lb/>
+<normalised orig="Crownes" auto="true">Crowns</normalised>. Also he had the sacred <normalised orig="woorde" auto="true">word</normalised> of<lb/>
+God in such <normalised orig="reuerence" auto="true">reverence</normalised>, that he had rather to<lb/>
+<normalised orig="dye" auto="false">die</normalised> than to <normalised orig="vse" auto="true">use</normalised> it as a <normalised orig="bayte" auto="true">bait</normalised> to Ambition or<lb/>
+<normalised orig="auarice" auto="true">avarice</normalised>. <normalised orig="Hee" auto="true">He</normalised> did dedicate <normalised orig="hys" auto="true">his</normalised> <normalised orig="bookes" auto="true">books</normalised> to <normalised orig="priuate" auto="true">private</normalised><lb/>
+persons, acknowledging some <normalised orig="benefite" auto="true">benefit</normalised><lb/>
+or friendship, as he did a very learned &amp; <normalised orig="singuler" auto="true">singular</normalised><lb/>
+<normalised orig="Co~mentarie" auto="false">Commentary</normalised> <normalised orig="vpo~" auto="true">upon</normalised> the <normalised orig="booke" auto="true">book</normalised> of <notvariant>Seneca</notvariant><lb/>
+concerning the <normalised orig="vertue" auto="true">virtue</normalised> of <normalised orig="Clemencie" auto="true">Clemency</normalised> &amp; <normalised orig="gentlenesse" auto="true">gentleness</normalised>,<lb/>
+which he wrote in <normalised orig="Parris" auto="false">Paris</normalised>, being of<lb/>
+the age of .24. <normalised orig="yeares" auto="true">years</normalised>, &amp; did dedicate it to one<lb/>
+of the <normalised orig="Lordes" auto="true">Lords</normalised> of <notvariant>Monmor</notvariant>, <normalised orig="wyth" auto="true">with</normalised> whom <normalised orig="hee" auto="true">he</normalised><lb/>
+had <normalised orig="bene" auto="true">been</normalised> brought <normalised orig="vp" auto="true">up</normalised>, not at <normalised orig="theire" auto="true">their</normalised> charges<lb/>
+notwithstanding. The like <normalised orig="hee" auto="true">he</normalised> did with his<lb/>
+Commentaries <normalised orig="vpon" auto="true">upon</normalised> y<hi rend="high">e</hi> Epistle of S. <normalised orig="Paule" auto="true">Paul</normalised><lb/>
+to the <normalised orig="Romanes" auto="false">Romans</normalised>, being dedicated to Simon<lb/>
+<notvariant>Grinee</notvariant>: <normalised orig="vpon" auto="true">upon</normalised> the first to the Corinthians, to<lb/>
+the Lord <normalised orig="Marques" auto="true">Marks</normalised> <notvariant>Caraciol</notvariant>: <normalised orig="vpo~" auto="true">upon</normalised> the second<lb/>
+to the Corinthians, to <notvariant>Melchior</notvariant> <normalised orig="Uolmar" auto="false">Volmar</normalised> his<lb/>
+<normalised orig="Maister" auto="true">Master</normalised> that taught him the <normalised orig="Greeke" auto="true">Greek</normalised>: <normalised orig="vppon" auto="true">upon</normalised><lb/>
+y<hi rend="high">e</hi> first to y<hi rend="high">e</hi> <normalised orig="Thessalonia~s" auto="false">Thessalonians</normalised>, to <notvariant>Mathurin</notvariant> <notvariant>Cordier</notvariant>,<lb/>
+his <normalised orig="gouerner" auto="true">governor</normalised> in the <normalised orig="colledge" auto="true">college</normalised> of S. Barbara<lb/>
+at <normalised orig="Parris" auto="false">Paris</normalised> in his first youth: <normalised orig="vpon" auto="true">upon</normalised> the second,<lb/>
+to <notvariant>Benet</notvariant> <notvariant>Tertor</notvariant> his <normalised orig="Phisitian" auto="true">Physician</normalised>: <normalised orig="vppon" auto="true">upon</normalised> the<lb/>
+Epistle to <normalised orig="Tite" auto="true">Tight</normalised>, to his two <normalised orig="singuler" auto="true">singular</normalised> friends<lb/>
+&amp; companions in y<hi rend="high">e</hi> <normalised orig="worke" auto="true">work</normalised> of y<hi rend="high">e</hi> Lord, <normalised orig="Maister" auto="true">Master</normalised><lb/>
+                  <pb n="19"/>
+                  <lb/>
+William <notvariant>Farel</notvariant> &amp; M. Peter <notvariant>Uiret</notvariant>: and the<lb/>
+<normalised orig="booke" auto="true">book</normalised> of offences to <normalised orig="Lawrent" auto="false">Lawrence</normalised> of <normalised orig="Norma~die" auto="false">Normandy</normalised><lb/>
+his <normalised orig="auncient" auto="true">ancient</normalised> &amp; <normalised orig="continuall" auto="true">continual</normalised> friend. As concerning<lb/>
+y<hi rend="high">e</hi> others which <normalised orig="hee" auto="true">he</normalised> did dedicate to <normalised orig="certaine" auto="true">certain</normalised><lb/>
+Kings, Princes, or <normalised orig="co~mon" auto="false">common</normalised> <normalised orig="wealthes" auto="true">wealths</normalised>,<lb/>
+his meaning was to <normalised orig="encorage" auto="false">encourage</normalised> the one <normalised orig="sorte" auto="true">sort</normalised><lb/>
+to <normalised orig="perseuer" auto="true">persevere</normalised> in y<hi rend="high">e</hi> defence of y<hi rend="high">e</hi> <normalised orig="childre~" auto="false">children</normalised> of God,<lb/>
+&amp; to <normalised orig="stirre" auto="true">stir</normalised> <normalised orig="vp" auto="true">up</normalised> the others to the <normalised orig="lyke" auto="true">like</normalised>. Wherefore<lb/>
+also when he saw y<hi rend="high">t</hi> such men did y<hi rend="high">e</hi> contrary,<lb/>
+he made not <normalised orig="straunge" auto="true">strange</normalised> to put out their<lb/>
+names &amp; to put in others, which <normalised orig="onely" auto="true">only</normalised> came<lb/>
+to <normalised orig="passe" auto="true">pass</normalised> in two of his Prefaces. This be said<lb/>
+as touching this crime of <normalised orig="auarice" auto="true">avarice</normalised>. Others<lb/>
+on y<hi rend="high">e</hi> other side <normalised orig="haue" auto="true">have</normalised> reported him to be <normalised orig="prodigall" auto="true">prodigal</normalised><lb/>
+&amp; a player, but it was as true as y<hi rend="high">e</hi> report<lb/>
+of those y<hi rend="high">t</hi> charged him w<hi rend="high">t</hi> <normalised orig="fornicatio~" auto="false">fornication</normalised>. As<lb/>
+concerning prodigality &amp; the <normalised orig="fruites" auto="true">fruits</normalised> <normalised orig="therof" auto="true">thereof</normalised>,<lb/>
+<normalised orig="hys" auto="true">his</normalised> <normalised orig="bookes" auto="true">books</normalised> <normalised orig="wyll" auto="true">will</normalised> well declare <normalised orig="euen" auto="true">even</normalised> to y<hi rend="high">e</hi> <normalised orig="ende" auto="true">end</normalised><lb/>
+of the world, of his pastimes, &amp; of the <normalised orig="shamelesnesse" auto="true">shamelessness</normalised><lb/>
+of such <normalised orig="lyers" auto="true">liars</normalised>. As <normalised orig="co~cerning" auto="false">concerning</normalised> <normalised orig="whoredome" auto="true">whoredom</normalised>,<lb/>
+it is <normalised orig="maruell" auto="true">marvel</normalised> y<hi rend="high">t</hi> any <normalised orig="ma~" auto="true">man</normalised> durst so <normalised orig="farre" auto="true">far</normalised><lb/>
+to stray, as to forge y<hi rend="high">t</hi> <normalised orig="euil" auto="true">evil</normalised> report, were it not<lb/>
+that it is a thing accustomed against y<hi rend="high">e</hi> most<lb/>
+excellent <normalised orig="seruants" auto="true">servants</normalised> of God. But he is yet<lb/>
+<normalised orig="vnborne" auto="true">unborn</normalised> that <normalised orig="euer" auto="true">ever</normalised> did suspect him of whom<lb/>
+we <normalised orig="speake" auto="true">speak</normalised> in any place <normalised orig="whersoeuer" auto="false">wheresoever</normalised> he <normalised orig="vsed" auto="true">used</normalised>:<lb/>
+<normalised orig="hee" auto="true">he</normalised> <normalised orig="liued" auto="true">lived</normalised> about nine <normalised orig="yeares" auto="true">years</normalised> in <normalised orig="Mariage" auto="true">Marriage</normalised> <normalised orig="verye" auto="true">very</normalised><lb/>
+chastely, when <normalised orig="hys" auto="true">his</normalised> <normalised orig="wyfe" auto="true">wife</normalised> was <normalised orig="deade" auto="true">dead</normalised>,<lb/>
+                  <pb n="20"/>
+                  <lb/>
+<normalised orig="hee" auto="true">he</normalised> continued in <normalised orig="wydowerhead" auto="false">widowerhead</normalised> <normalised orig="aboute" auto="true">about</normalised> the<lb/>
+space of .<notvariant>xvj</notvariant>. <normalised orig="yeares" auto="true">years</normalised>, <normalised orig="euen" auto="true">even</normalised> to <normalised orig="hys" auto="true">his</normalised> death.<lb/>
+In all that time who is he that <normalised orig="euer" auto="true">ever</normalised> <normalised orig="perceiued" auto="true">perceived</normalised><lb/>
+the least token that might be of so <normalised orig="vnworthie" auto="true">unworthy</normalised><lb/>
+an <normalised orig="acte" auto="true">act</normalised> in him? And what woman<lb/>
+was there so <normalised orig="villaine" auto="true">villain</normalised> and <normalised orig="shamelesse" auto="true">shameless</normalised> y<hi rend="high">t</hi> durst<lb/>
+to <normalised orig="beholde" auto="true">behold</normalised> without shame a forehead so <normalised orig="reuerende" auto="true">reverend</normalised><lb/>
+and <normalised orig="shewing" auto="true">showing</normalised> to all men that did<lb/>
+<normalised orig="beholde" auto="true">behold</normalised> it, all <normalised orig="puretie" auto="false">purity</normalised> and <normalised orig="fredome" auto="true">freedom</normalised>? Who<lb/>
+<normalised orig="hath" auto="false">has</normalised> <normalised orig="bene" auto="true">been</normalised> a more rigorous <normalised orig="enimy" auto="true">enemy</normalised> to <normalised orig="whordome" auto="true">whoredom</normalised><lb/>
+than he? It is true that the Lord <normalised orig="hath" auto="false">has</normalised><lb/>
+exercised him touching this matter toward<lb/>
+such as touched him <normalised orig="neare" auto="true">near</normalised>. There <normalised orig="hath" auto="false">has</normalised> yet<lb/>
+worse happened in the house of <normalised orig="Iacob" auto="true">Jacob</normalised> and<lb/>
+<normalised orig="Dauid" auto="true">David</normalised>, than to him of whom wee <normalised orig="speake" auto="true">speak</normalised>,<lb/>
+and in a more <normalised orig="straunge" auto="true">strange</normalised> <normalised orig="sorte" auto="true">sort</normalised>. But what did<lb/>
+Satan in this <normalised orig="behalfe" auto="true">behalf</normalised> <normalised orig="gaine" auto="true">gain</normalised> of the <normalised orig="faithfull" auto="true">faithful</normalised><lb/>
+<normalised orig="seruaunt" auto="true">servant</normalised> of God, but only shame &amp; rebuke<lb/>
+to <normalised orig="himselfe" auto="true">himself</normalised> in the later <normalised orig="daye" auto="true">day</normalised> before the <normalised orig="seate" auto="true">seat</normalised><lb/>
+of the <normalised orig="So~ne" auto="false">Son</normalised> of God? And now to them that<lb/>
+<normalised orig="hee" auto="true">he</normalised> had stirred <normalised orig="vp" auto="true">up</normalised>, to <normalised orig="rayse" auto="true">raise</normalised> such <normalised orig="sclaunder" auto="false">slander</normalised>,<lb/>
+<normalised orig="Whoredomes" auto="true">Whoredoms</normalised>, Adulteries, and <normalised orig="incestes" auto="false">incests</normalised>, are<lb/>
+<normalised orig="accompted" auto="true">accounted</normalised> for pastimes and exercises of the<lb/>
+wicked ones, in sort, that one of the greatest<lb/>
+<normalised orig="faultes" auto="true">faults</normalised> that they <normalised orig="finde" auto="true">find</normalised> with the reformed<lb/>
+Churches, is y<hi rend="high">t</hi> there <normalised orig="whoredome" auto="true">whoredom</normalised> and <normalised orig="adulterie" auto="true">adultery</normalised><lb/>
+is punished: In the <normalised orig="meane" auto="true">mean</normalised> while if<lb/>
+there be any such fault or offence <normalised orig="founde" auto="true">found</normalised> among<lb/>
+                  <pb n="21"/>
+                  <lb/>
+<normalised orig="vs" auto="true">us</normalised>, albeit that it be extremely punished,<lb/>
+they accuse <normalised orig="vs" auto="true">us</normalised> with open mouth. In<lb/>
+so doing, (if they <normalised orig="sayde" auto="true">said</normalised> truth,) what other<lb/>
+thing <normalised orig="doe" auto="false">do</normalised> they than blame <normalised orig="vs" auto="true">us</normalised> in that that<lb/>
+we resemble <normalised orig="the~" auto="true">then</normalised>? But without <normalised orig="entring" auto="true">entering</normalised> any<lb/>
+further into this discourse, it <normalised orig="muste" auto="true">must</normalised> <normalised orig="needes" auto="true">needs</normalised><lb/>
+<normalised orig="bee" auto="false">be</normalised>, (will they or no) confessed y<hi rend="high">t</hi> the <normalised orig="theeues" auto="true">thieves</normalised><lb/>
+do not haunt where y<hi rend="high">e</hi> Magistrates &amp; <normalised orig="Pote~tates" auto="false">Potentates</normalised><lb/>
+are: but to exercise such <normalised orig="thi~gs" auto="false">things</normalised> it were<lb/>
+more <normalised orig="meete" auto="true">meet</normalised> to dwell among <normalised orig="the~" auto="true">then</normalised> where such<lb/>
+offence is a <normalised orig="vertue" auto="true">virtue</normalised>. But to <normalised orig="returne" auto="true">return</normalised> to my<lb/>
+purpose, it <choice ana="print">
+                     <sic><normalised orig="shalbe" auto="true">shall be</normalised></sic>
+                     <corr><normalised orig="shal" auto="true">shall</normalised> be</corr>
+                  </choice> well <normalised orig="founde" auto="true">found</normalised> y<hi rend="high">t</hi> this <normalised orig="faithfull" auto="true">faithful</normalised><lb/>
+<normalised orig="seruant" auto="true">servant</normalised> of God <normalised orig="hath" auto="false">has</normalised> <normalised orig="shewed" auto="true">showed</normalised> to all the<lb/>
+<normalised orig="worlde" auto="true">world</normalised> a <normalised orig="singuler" auto="true">singular</normalised> example, in condemning<lb/>
+this <normalised orig="villaine" auto="true">villain</normalised> and <normalised orig="stincking" auto="true">stinking</normalised> vice, as well in<lb/>
+them as in others: for when there were any<lb/>
+found <normalised orig="faultie" auto="true">faulty</normalised>, he had no <normalised orig="regarde" auto="true">regard</normalised> at <normalised orig="al" auto="false">all</normalised> w<hi rend="high">t</hi>out<lb/>
+accepting of persons, but to GOD and <normalised orig="hys" auto="true">his</normalised><lb/>
+Church: and I say nothing in <normalised orig="thys" auto="true">this</normalised>, but that<lb/>
+which all such as did <normalised orig="knowe" auto="true">know</normalised> <normalised orig="hym" auto="true">him</normalised> well <normalised orig="wyll" auto="true">will</normalised><lb/>
+<normalised orig="testifie" auto="true">testify</normalised> before God.<lb/>
+ /&gt;
+                    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
