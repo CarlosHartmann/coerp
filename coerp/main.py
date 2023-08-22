@@ -16,7 +16,7 @@ def check_langs(file):
         doc = infile.read()
         filename = os.path.basename(file) + "_latin-scores.csv"
 
-        with open("./output/{filename}", "w", encoding="utf-8") as outfile:
+        with open(f"./output/{filename}", "w", encoding="utf-8") as outfile:
 
             writer = csv.writer(outfile, delimiter=';', quotechar='"', quoting = csv.QUOTE_MINIMAL)
             writer.writerow(['line', 'Latin confidence value'])
