@@ -1,4 +1,5 @@
 import os
+import csv
 from lxml import etree
 import xml.etree.ElementTree as ET
 
@@ -13,9 +14,24 @@ ns = "{http://www.tei-c.org/ns/1.0}"
 def check_langs(file):
     with open(file, "r", encoding="utf-8") as infile:
         doc = infile.read()
-        extract_sentences(doc, file)
-#        for sent in extract_sentences(doc, file):
-#            print(sent)
+        filename = os.path.basename(file) + "_latin-scores.csv"
+
+        with open("./output/{filename}", "w", encoding="utf-8") as outfile:
+
+            writer = csv.writer(outfile, delimiter=';', quotechar='"', quoting = csv.QUOTE_MINIMAL)
+            writer.writerow(['line', 'Latin confidence value'])
+
+            for line in extract_sentences(doc, file):
+                if ' - ' in line:
+                    content = line.split(' - ')[1]
+                else:
+                    content = line
+
+                conf_val = detector.compute_language_confidence(content, Language.LATIN)
+                writer.writerow([line, conf_val])
+
+                
+
 
 
 def is_head(elem):
@@ -77,14 +93,7 @@ def extract_sentences(xml_string, file):
                 pass
         elif is_head(element) or is_p(element):
             for line in extract(element, page):
-                if ' - ' in line:
-                    content = line.split(' - ')[1]
-                else:
-                    content = line
-                language = detector.detect_language_of(content)
-                if language != Language.ENGLISH and language is not None:
-                    with open('/Users/Uni/coerp/output/non_english.txt', "a", encoding="utf-8") as outfile:
-                        _=outfile.write(f"{file}: {line}\tbelieved to be {language}\n")
+                yield line
 
 
 def main():
