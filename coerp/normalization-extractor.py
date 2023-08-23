@@ -25,17 +25,15 @@ def extract_normals(file):
 
             writer = csv.writer(outfile, delimiter=';', quotechar='"', quoting = csv.QUOTE_MINIMAL)
 
-            for elem in fetch_normals(doc, file):
-                context_left_2 = elem['cont_l_2']
-                context_left_1 = elem['cont_l_1']
+            for elem in fetch_normals(doc):
+                context_left = elem['cont_l']
                 original = elem['orig']
                 normalization = elem['norm']
-                context_right_1 = elem['cont_r_1']
-                context_right_2 = elem['cont_r_2']
+                context_right = elem['cont_r']
 
                 conf_val = detector.compute_language_confidence(original, Language.LATIN)
-
-                writer.writerow([context_left_2, context_left_1, original, normalization, context_right_1, context_right_2])
+                if conf_val > 3.0:
+                    writer.writerow([context_left, original, normalization, context_right, conf_val])
 
 
 def is_head(elem):
@@ -47,37 +45,49 @@ def is_p(elem):
 
 
 def extracted(text):
-    return ''.join([bit for bit in extract(text)])
+    content = extract(text)
+    return (''.join([bit[0] for bit in content]), [elem for bit[1] in content for elem in bit[1]])
 
 
 def extract(elem):
+    normals = list()
     out = elem.text if elem.text else ''
     for child in elem:
         if child.tag == ns+'normalised':
-            out += child.attrib['orig']
+            orig = child.attrib['orig']
+            reg = child.text
+            i = len(out)
+            normals.append({'index': i, 'original': orig, 'regularized': reg})
+
+            out += orig
             out += child.tail if child.tail else ''
         elif child.tag == ns+'join':
-            out += child.attrib['original']
-            out += child.tail if child.tail else ''
+            content = extracted(child) if len(child) else child.attrib['original']
+            if type(content) == tuple:
+                out += content[0]
+                normals.extend(content[1])
+            elif type(content) == str:
+                out += content
+            #out += child.tail if child.tail else ''
         elif child.tag == ns+'choice':
             corr = extracted(child[1])
-            out += corr
+            out += corr[0]
+            normals.extend(corr[1])
             out += child.tail if child.tail else ''
         elif child.tag == ns+'fw':
             pass
         elif child.tag == ns+'lb':
             out += child.tail.replace('\n', ' ') if child.tail else ''
         elif child.tag == ns+'pb':
-            try:
-                page = child.attrib['n']
-            except:
-                pass
+            yield (out, normals)
+            out = ''
         else: # can be hi(ghlight), variant, notvariant, foreign, quote
-            out += extracted(child)
-            out += child.tail if child.tail else ''
+            content = extracted(child)
+            out += content[0]
+            normals.extend(content[1])
+            #out += child.tail if child.tail else ''
     out += elem.tail if elem.tail else ''
-    
-
+    yield (out, normals)
 
 
 def fetch_normals(xml_string) -> dict:
@@ -89,8 +99,17 @@ def fetch_normals(xml_string) -> dict:
     
     for element in body.iter():
         if is_head(element) or is_p(element):
-            for norm in extract(element):
-                yield norm
+            for page, normals in extract(element):
+                for norm in normals:
+                    i = norm['index']
+                    original = norm['original']
+                    i2 = i + len(original)
+
+                    con_size = 50
+
+                    context_left = page[:i] if len(page[:i]) < con_size else page[:i][-con_size:]
+                    context_right = page[i2:] if len(page[i2:]) < con_size else page[i2:][:con_size+1]
+                    yield {'cont_l': context_left, 'cont_r': context_right, 'orig': original, 'norm': norm['regularized']}
 
 
 def main():

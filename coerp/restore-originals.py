@@ -40,8 +40,8 @@ def extract(elem, page):
             out += child.attrib['orig']
             out += child.tail if child.tail else ''
         elif child.tag == ns+'join':
-            out += child.attrib['original']
-            out += child.tail if child.tail else ''
+            out += extracted(child) if len(child) else child.attrib['original']
+            #out += child.tail if child.tail else ''
         elif child.tag == ns+'choice':
             corr = extracted(child[1])
             out += corr
@@ -59,7 +59,7 @@ def extract(elem, page):
                 pass
         else: # can be hi(ghlight), variant, notvariant, foreign, quote
             out += extracted(child)
-            out += child.tail if child.tail else ''
+            #out += child.tail if child.tail else ''
     out += elem.tail if elem.tail else ''
     yield out
 
