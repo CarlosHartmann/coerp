@@ -31,9 +31,14 @@ def extract_normals(file):
                 normalization = elem['norm']
                 context_right = elem['cont_r']
 
-                conf_val = detector.compute_language_confidence(original, Language.LATIN)
-                if conf_val > 3.0:
-                    writer.writerow([context_left, original, normalization, context_right, conf_val])
+                whole_sent = f'{context_left}{original}{context_right}'
+
+                conf_val_word = detector.compute_language_confidence(original, Language.LATIN)
+                conf_val_sent = detector.compute_language_confidence(whole_sent, Language.LATIN)
+                conf_val_total = conf_val_word + conf_val_sent
+
+                if conf_val_word > 0.3 and conf_val_total > 0.6:
+                    writer.writerow([context_left, original, normalization, context_right, conf_val_word, conf_val_sent, conf_val_total])
 
 
 def is_head(elem):
@@ -80,7 +85,7 @@ def extract(elem):
             out += child.tail.replace('\n', ' ') if child.tail else ''
         elif child.tag == ns+'pb':
             yield (out, normals)
-            out = ''
+            out, normals = '', list()
         else: # can be hi(ghlight), variant, notvariant, foreign, quote
             content = extracted(child)
             out += content[0]
