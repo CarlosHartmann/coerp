@@ -9,6 +9,8 @@ from lxml import etree as ET
 
 testfile = "/Users/chartman/Documents/GitHub/coerp/test/bio_1510_More_R3"
 
+ns = '{http://www.tei-c.org/ns/1.0}'
+
 def is_only_whitespace(text):
     return True if '   ' in text else False
 
@@ -35,9 +37,6 @@ def is_under_skippable_tag(element):
 
 
 def extract_text(xml_file):
-    # Define the namespace
-    ns = '{http://www.tei-c.org/ns/1.0}'
-
     # Parse the XML file
     parser = ET.XMLParser(remove_blank_text=True)
     tree = ET.parse(xml_file, parser)
@@ -72,12 +71,9 @@ def extract_text(xml_file):
                 if child.tail and not is_only_whitespace(child.tail):
                     text_content.append(child.tail.replace('\n', ''))
 
-            #if element.tag == f'{ns}head':
-                #text_content.append('\n')
-
     # Iterate through the elements in a linear fashion within the specified part of the document
     for elem in text_body.iter():
-        if elem.tag not in [f'{ns}normalised', f'{ns}corr', f'{ns}choice', f'{ns}join']:
+        if elem.tag not in [f'{ns}corr', f'{ns}choice', f'{ns}join']:
             extract_text_recursive(elem)
 
     print(text_content)
