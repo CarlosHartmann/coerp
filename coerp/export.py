@@ -7,10 +7,10 @@ import re
 from lxml import etree as ET
 
 
-testfile = "/Users/chartman/Library/CloudStorage/GoogleDrive-smogshaik.uni@gmail.com/.shortcut-targets-by-id/1xXrtqarel363zcD11O0OzfvTnzROT6mb/Uni-Ablage/03 Assistance Work/COERP/bio/bio_1510_More_R3"
+testfile = "/Users/chartman/Documents/GitHub/coerp/test/bio_1510_More_R3"
 
 def is_only_whitespace(text):
-    return True if not re.search('\S', text) else False
+    return True if '   ' in text else False
 
 
 def get_unique_child_element_names(element, unique_elements=set()):
@@ -52,6 +52,9 @@ def extract_text(xml_file):
     # Define a function to recursively extract text
     def extract_text_recursive(element):
         if element.tag in [f'{ns}head', f'{ns}p', f'{ns}corr', f'{ns}quote', f'{ns}choice', f'{ns}join']:
+            if element.tag in [f'{ns}p', f'{ns}div', f'{ns}head']:
+                text_content.append('\n')
+
             if element.text:
                 text_content.append(element.text)
 
@@ -66,7 +69,7 @@ def extract_text(xml_file):
                 elif child.tag not in [f'{ns}sic', f'{ns}fw']:
                     extract_text_recursive(child)
 
-                if child.tail:
+                if child.tail and not is_only_whitespace(child.tail):
                     text_content.append(child.tail.replace('\n', ''))
 
             #if element.tag == f'{ns}head':
@@ -74,7 +77,10 @@ def extract_text(xml_file):
 
     # Iterate through the elements in a linear fashion within the specified part of the document
     for elem in text_body.iter():
-        extract_text_recursive(elem)
+        if elem.tag not in [f'{ns}normalised', f'{ns}corr', f'{ns}choice', f'{ns}join']:
+            extract_text_recursive(elem)
+
+    print(text_content)
 
     return ''.join(text_content)
 
