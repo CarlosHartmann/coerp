@@ -1,0 +1,137 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><normalised orig="Lyfe" auto="false">Life</normalised> of <normalised orig="Iohan" auto="false">Johan</normalised> <notvariant>Picus</notvariant></title>
+            <respStmt>
+               <resp>Principal Investigator</resp>
+               <name>Prof. Dr. Thomas <notvariant>Kohnen</notvariant></name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name><notvariant>André</notvariant> von <notvariant>Schledorn</notvariant></name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 2</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 3</name>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription and Encoding</resp>
+               <name>Person 4</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Text-Resource des <notvariant>COERP-Projekts</notvariant></p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author role="author" key="GiFr1469"><notvariant>Pico</notvariant> <notvariant>della</notvariant> <notvariant>Mirandola</notvariant>, <notvariant>Giovanni</notvariant> <notvariant>Francesco</notvariant></author>
+               <author role="translator" key="ThMo1478">More, Thomas</author>
+               <title type="main">Here is <normalised orig="co~teyned" auto="false">contained</normalised> the <normalised orig="lyfe" auto="false">life</normalised> of <normalised orig="Iohan" auto="false">Johan</normalised> <notvariant>Picus</notvariant> <normalised orig="Erle" auto="false">Earl</normalised> of <normalised orig="Myra~dula" auto="false">Myrandula</normalised> a <normalised orig="grete" auto="false">great</normalised> lord of Italy an excellent <normalised orig="co~ning" auto="false">cunning</normalised> man in all <normalised orig="scie~ces" auto="false">sciences</normalised> &amp; <normalised orig="vertuous" auto="false">virtuous</normalised> of <normalised orig="lyuing" auto="false">living</normalised>. with <normalised orig="dyuerse" auto="false">diverse</normalised> epistles &amp; other <normalised orig="warkis" auto="false">works</normalised> of the <normalised orig="seyd" auto="false">said</normalised> <normalised orig="Iohan" auto="false">Johan</normalised> <notvariant>Picus</notvariant> full of <normalised orig="grete" auto="false">great</normalised> science <normalised orig="vertew" auto="false">virtue</normalised> and <normalised orig="wysedome" auto="false">wisdom</normalised>. <normalised orig="whos" auto="false">whose</normalised> <normalised orig="lyfe" auto="false">life</normalised> &amp; <normalised orig="warkys" auto="false">works</normalised> <normalised orig="bene" auto="false">been</normalised> worthy &amp; <normalised orig="digne" auto="false">dignified</normalised> to be <normalised orig="redd" auto="false">read</normalised> &amp; <normalised orig="oftyn" auto="false">often</normalised> to to be had in <normalised orig="memorye" auto="false">memory</normalised>.</title>
+               <title type="short"><normalised orig="Lyfe" auto="false">Life</normalised> of <normalised orig="Iohan" auto="false">Johan</normalised> <notvariant>Picus</notvariant></title>
+               <date when="1510">1510</date>
+               <date type="this_edition" when="1510">1510</date>
+               <idno type="STC">19897.7</idno>
+               <note type="genre" subtype="biography">biography</note>
+               <note type="sample" target="#GiFr1469_1510_biography_1"/>
+               <note type="lists">
+                  <list type="format">
+                     <item>
+                        <term type="format_original"><notvariant>sexto</notvariant></term>
+                     </item>
+                     <item>
+                        <term type="paragraphs" key="new">indentation</term>
+                     </item>
+                  </list>
+                  <list type="text_body">
+                     <item>
+                        <term type="elements"/>
+                     </item>
+                  </list>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="GiFr1469_1510_biography_1">
+            <div>
+               <head>The life of <normalised orig="Iohn" auto="false">John</normalised> <notvariant>Picus</notvariant><lb/>
+<normalised orig="Erle" auto="false">Earl</normalised> of <normalised orig="mirandula" auto="false">myrandula</normalised>.</head>
+               <p>
+                  <lb/>
+                  <lb/>
+<normalised orig="IOhan" auto="false">Johan</normalised> <notvariant>Picus</notvariant> of the <normalised orig="faders" auto="false">father's</normalised> side <normalised orig="desce~did" auto="false">descended</normalised> of<lb/>
+the worthy linage of the <normalised orig="emperoure" auto="false">emperor</normalised> <normalised orig="Co~stantine" auto="false">Constantine</normalised><lb/>
+by a <normalised orig="neuew" auto="false">nephew</normalised> of the <normalised orig="seid" auto="false">said</normalised> <normalised orig="e~peroure" auto="false">emperor</normalised> called<lb/>
+<notvariant>Pic</notvariant><hi rend="high">9</hi> by whom <normalised orig="al" auto="true">all</normalised> the <normalised orig="Auncestres" auto="false">Ancestors</normalised> of this <normalised orig="Iohan" auto="false">Johan</normalised> <notvariant>Picus</notvariant><lb/>
+<normalised orig="vndowtedly" auto="false">undoubtedly</normalised> <normalised orig="bere" auto="false">bear</normalised> y<hi rend="high">t</hi> name. But we <normalised orig="shal" auto="false">shall</normalised> let <normalised orig="hys" auto="false">his</normalised><lb/>
+<normalised orig="auncestres" auto="false">ancestors</normalised> <normalised orig="passe" auto="false">pass</normalised> to whom (though they were right<lb/>
+<normalised orig="excelle~t" auto="false">excellent</normalised>) he <normalised orig="gaue" auto="false">gave</normalised> <join original="a gaine"><normalised orig="againe" auto="false">again</normalised></join> as much <normalised orig="honoure" auto="false">honour</normalised> as he <normalised orig="receyued" auto="false">received</normalised>.<lb/>
+and we <normalised orig="shal" auto="false">shall</normalised> <normalised orig="speke" auto="false">speak</normalised> of <normalised orig="hym" auto="false">him</normalised> self <normalised orig="rehersing" auto="false">rehearsing</normalised> in<lb/>
+part his <normalised orig="lernynge" auto="false">learning</normalised> and his <normalised orig="vertue" auto="false">virtue</normalised>. For these be the<lb/>
+<normalised orig="thi~gs~" auto="false">things</normalised> which we may <normalised orig="accompt" auto="false">account</normalised> for our <normalised orig="owne" auto="false">own</normalised> of which<lb/>
+<normalised orig="euery" auto="false">every</normalised> man is more <choice ana="print">
+                     <sic><notvariant>p~prely</notvariant></sic>
+                     <corr><normalised orig="proprely" auto="false">properly</normalised></corr>
+                  </choice> to be 9me~ded then of the<lb/>
+<normalised orig="noblenes" auto="false">nobleness</normalised> of his <normalised orig="auncestres" auto="false">ancestors</normalised>: whose <normalised orig="honoure" auto="false">honour</normalised> <normalised orig="makith" auto="false">makes</normalised><lb/>
+<normalised orig="vs" auto="false">us</normalised> <normalised orig="nat" auto="true">not</normalised> <normalised orig="honorable" auto="true">honourable</normalised>. for either they were them self <normalised orig="vertuouse" auto="true">virtuous</normalised><lb/>
+or not: if not then had they none <normalised orig="honoure" auto="false">honour</normalised> <normalised orig="the~" auto="false">then</normalised><lb/>
+self: had they <normalised orig="neuer" auto="false">never</normalised> so <normalised orig="grete" auto="false">great</normalised> possessions: for <normalised orig="honoure" auto="false">honour</normalised><lb/>
+is the reward of <normalised orig="vertue" auto="true">virtue</normalised>. And how may they <choice ana="print-error">
+                     <sic>clay me</sic>
+                     <corr><normalised orig="clayme" auto="true">claim</normalised></corr>
+                  </choice>
+                  <lb/>
+the <normalised orig="rewarde" auto="true">reward</normalised> y<hi rend="high">t</hi> <normalised orig="propreli" auto="false">properly</normalised> <normalised orig="longith" auto="false">longs</normalised> to <normalised orig="vertue" auto="true">virtue</normalised>: if they <normalised orig="lak" auto="false">lack</normalised><lb/>
+the <normalised orig="vertue" auto="true">virtue</normalised> y<hi rend="high">t</hi> the <normalised orig="rewarde" auto="true">reward</normalised> <normalised orig="longith" auto="false">longs</normalised> to. Then if <join original="them&lt;lb/&gt;[lb][lb]self"><normalised orig="themself" auto="false">themself</normalised></join> had none honour how <normalised orig="myght" auto="true">might</normalised> they <normalised orig="leue" auto="true">leave</normalised> to <normalised orig="theyr" auto="true">their</normalised><lb/>
+<normalised orig="heyres" auto="true">heirs</normalised> y<hi rend="high">t</hi> thing which they had not <join original="them self"><normalised orig="themself" auto="false">themself</normalised></join>. on the<lb/>
+<normalised orig="othir" auto="false">other</normalised> side if they be <normalised orig="v~tuouse" auto="false">virtuous</normalised> and so <normalised orig="co~seque~tly" auto="true">consequently</normalised> <normalised orig="honorable" auto="true">honourable</normalised> /<lb/>
+yet may they not <normalised orig="leue" auto="true">leave</normalised> their <normalised orig="honoure" auto="false">honour</normalised> to <normalised orig="vs" auto="true">us</normalised> as<lb/>
+<normalised orig="enheretaunce" auto="true">inheritance</normalised>: no more then the <choice ana="print">
+                     <sic><notvariant>v~tue</notvariant></sic>
+                     <corr><normalised orig="vertue" auto="true">virtue</normalised></corr>
+                  </choice> that them self<lb/>
+were <normalised orig="honorable" auto="true">honourable</normalised> for. For <normalised orig="neuer" auto="false">never</normalised> the more noble be we<lb/>
+for <normalised orig="theyr" auto="true">their</normalised> <normalised orig="noblenes" auto="true">nobleness</normalised> if <join original="oure self"><normalised orig="oureself" auto="false">ourself</normalised></join> <normalised orig="lak" auto="false">lack</normalised> those <normalised orig="thyngis" auto="false">things</normalised> for<lb/>
+which <normalised orig="thei" auto="false">they</normalised> were noble. But <normalised orig="rathir" auto="false">rather</normalised> the more worshipful<lb/>
+y<hi rend="high">t</hi> <normalised orig="oure" auto="false">our</normalised> <normalised orig="auncestres" auto="true">ancestors</normalised> were the more vile and <normalised orig="shamfull" auto="true">shameful</normalised><lb/>
+be we: if we decline from the steppes of their worshipful<lb/>
+<normalised orig="liuinge" auto="true">living</normalised>: the <normalised orig="clere" auto="true">clear</normalised> beauty of <normalised orig="whos" auto="true">whose</normalised> <normalised orig="vertue" auto="true">virtue</normalised> <normalised orig="makith" auto="true">makes</normalised><lb/>
+                  <lb/>
+                  <fw type="pageNum">a.i.</fw>
+                  <pb n="1"/>
+                  <lb/>
+the <normalised orig="darke" auto="true">dark</normalised> spot of <normalised orig="oure" auto="false">our</normalised> vice the more <normalised orig="euidently" auto="true">evidently</normalised><lb/>
+to <normalised orig="apere" auto="true">appear</normalised> &amp; to be the more marked. But <notvariant>Pic</notvariant><hi rend="high">9</hi> of <normalised orig="who~" auto="false">whom</normalised><lb/>
+we <normalised orig="speke" auto="false">speak</normalised> was him self so <normalised orig="honorable" auto="true">honourable</normalised> / for the <normalised orig="gret" auto="false">great</normalised> <normalised orig="ple~tuouse" auto="false">plentious</normalised><lb/>
+<normalised orig="habundaunce" auto="false">abundance</normalised> of <normalised orig="al" auto="true">all</normalised> such <normalised orig="v~tues" auto="false">virtues</normalised>: the possession<lb/>
+<normalised orig="wherof" auto="true">whereof</normalised> very <normalised orig="honoure" auto="false">honour</normalised> <normalised orig="folowith" auto="false">follows</normalised> (as a shadow <normalised orig="folowith" auto="false">follows</normalised><lb/>
+a <normalised orig="bodi" auto="true">body</normalised>) y<hi rend="high">t</hi> he was to <normalised orig="al" auto="true">all</normalised> them y<hi rend="high">t</hi> aspire to <normalised orig="honowre" auto="true">honour</normalised><lb/>
+a very spectacle in <normalised orig="whos" auto="true">whose</normalised> <normalised orig="co~ditions" auto="false">conditions</normalised> as in a <normalised orig="clere" auto="true">clear</normalised> <normalised orig="pullished" auto="false">polished</normalised><lb/>
+<normalised orig="mirrour" auto="true">mirror</normalised> they <normalised orig="myght" auto="true">might</normalised> behold in what <normalised orig="pointes" auto="true">points</normalised><lb/>
+very <normalised orig="honoure" auto="false">honour</normalised> <normalised orig="stondith" auto="false">stands</normalised>: whose <normalised orig="meruelouse" auto="true">marvelous</normalised> <normalised orig="cunnyng" auto="true">cunning</normalised><lb/>
+&amp; <normalised orig="excelle~t" auto="true">excellent</normalised> <normalised orig="v~tue" auto="false">virtue</normalised> though my rude <normalised orig="lerning" auto="true">learning</normalised> be <normalised orig="ferr" auto="false">fer</normalised> <normalised orig="vnable" auto="true">unable</normalised><lb/>
+<normalised orig="sufficie~tli" auto="true">sufficiently</normalised> to <normalised orig="expres" auto="true">express</normalised>: yet for as much as if no man<lb/>
+<normalised orig="shuld" auto="false">should</normalised> do <normalised orig="hit" auto="false">it</normalised> but he that might sufficiently do <normalised orig="hit" auto="false">it</normalised>: no<lb/>
+man <normalised orig="shuld" auto="false">should</normalised> do <normalised orig="hit" auto="false">it</normalised>. and <normalised orig="bettir" auto="false">better</normalised> it were to be <normalised orig="vnsufficie~tly" auto="false">unsufficiently</normalised><lb/>
+done then <normalised orig="vttirly" auto="false">utterly</normalised> <normalised orig="vndone" auto="true">undone</normalised>. I <normalised orig="shal" auto="false">shall</normalised> <normalised orig="therfor" auto="true">therefore</normalised> as I <normalised orig="ca~" auto="true">can</normalised><lb/>
+<normalised orig="brefely" auto="false">briefly</normalised> <normalised orig="reherce" auto="true">rehearse</normalised> you his hole <normalised orig="lyfe" auto="false">life</normalised>: at the lest <normalised orig="wyse" auto="true">wise</normalised> to<lb/>
+<normalised orig="giue" auto="true">give</normalised> some other man here <normalised orig="aftir" auto="false">after</normalised> (y<hi rend="high">t</hi> <normalised orig="ca~" auto="true">can</normalised> do <normalised orig="hit" auto="false">it</normalised> <normalised orig="bettir" auto="false">better</normalised>) occasion<lb/>
+to take <normalised orig="hyt" auto="true">hit</normalised> in <normalised orig="hande" auto="true">hand</normalised> when <normalised orig="hyt" auto="true">hit</normalised> <normalised orig="shal" auto="false">shall</normalised> <normalised orig="happely" auto="true">happily</normalised><lb/>
+<normalised orig="greue" auto="true">grieve</normalised> him to <normalised orig="se" auto="true">see</normalised> the life of such an <normalised orig="excelle~t" auto="true">excellent</normalised> <normalised orig="cunnynge" auto="true">cunning</normalised><lb/>
+man so <normalised orig="ferr" auto="false">fer</normalised> <normalised orig="vnkunnyngly" auto="false">uncunningly</normalised> <normalised orig="wrytin" auto="true">written</normalised>.<lb/>
+                  <lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

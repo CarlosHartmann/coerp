@@ -4,7 +4,7 @@ export: This module shall one day export all the COERP data into the desired out
 
 
 import re
-import xml.etree.ElementTree as ET
+from lxml import etree as ET
 
 
 testfile = "/Users/chartman/Library/CloudStorage/GoogleDrive-smogshaik.uni@gmail.com/.shortcut-targets-by-id/1xXrtqarel363zcD11O0OzfvTnzROT6mb/Uni-Ablage/03 Assistance Work/COERP/bio/bio_1510_More_R3"
@@ -24,12 +24,23 @@ def get_unique_child_element_names(element, unique_elements=set()):
     return unique_elements
 
 
+def is_under_skippable_tag(element):
+    skippable_tags = [f'{ns}sic', f'{ns}fw']
+    parent = element.getparent()
+    while parent is not None:
+        if parent.tag in skippable_tags:
+            return True
+        parent = parent.getparent()
+    return False
+
+
 def extract_text(xml_file):
     # Define the namespace
     ns = '{http://www.tei-c.org/ns/1.0}'
 
     # Parse the XML file
-    tree = ET.parse(xml_file)
+    parser = ET.XMLParser(remove_blank_text=True)
+    tree = ET.parse(xml_file, parser)
     root = tree.getroot()
 
     # Focus on the specific part of the document
@@ -55,7 +66,7 @@ def extract_text(xml_file):
                 elif child.tag not in [f'{ns}sic', f'{ns}fw']:
                     extract_text_recursive(child)
 
-                if child.tail and not is_only_whitespace(child.tail):
+                if child.tail:
                     text_content.append(child.tail.replace('\n', ''))
 
             #if element.tag == f'{ns}head':
