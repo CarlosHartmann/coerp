@@ -38,7 +38,7 @@ def is_under_skippable_tag(element):
 
 def extract_text(xml_file):
     # Parse the XML file
-    parser = ET.XMLParser(remove_blank_text=True)
+    parser = ET.XMLParser(remove_blank_text=False) # putting this to True would make things easier, but it would also introduce unfixable bugs in the export
     tree = ET.parse(xml_file, parser)
     root = tree.getroot()
 
@@ -73,7 +73,7 @@ def extract_text(xml_file):
 
     # Iterate through the elements in a linear fashion within the specified part of the document
     for elem in text_body.iter():
-        if elem.tag not in [f'{ns}corr', f'{ns}choice', f'{ns}join']:
+        if elem.tag not in [f'{ns}normalised', f'{ns}corr', f'{ns}choice', f'{ns}join']:
             extract_text_recursive(elem)
 
     print(text_content)
