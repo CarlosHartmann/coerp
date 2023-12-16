@@ -54,7 +54,7 @@ def extract_text(xml_file):
             if element.tag in [f'{ns}p', f'{ns}div', f'{ns}head']:
                 text_content.append('\n')
 
-            if element.text:
+            if element.text and not is_only_whitespace(element.text):
                 text_content.append(element.text)
 
             for child in element:
@@ -73,10 +73,8 @@ def extract_text(xml_file):
 
     # Iterate through the elements in a linear fashion within the specified part of the document
     for elem in text_body.iter():
-        if elem.tag not in [f'{ns}normalised', f'{ns}corr', f'{ns}choice', f'{ns}join']:
+        if elem.tag not in [f'{ns}normalised', f'{ns}corr', f'{ns}choice', f'{ns}join', f'{ns}sic']:
             extract_text_recursive(elem)
-
-    print(text_content)
 
     return ''.join(text_content)
 
