@@ -11,7 +11,7 @@ testfile = "/Users/chartman/Documents/GitHub/coerp/test/bio_1510_More_R3"
 
 ns = '{http://www.tei-c.org/ns/1.0}' #used in all TEI documents (which is all of the COERP documents)
 
-def is_only_whitespace(text):
+def is_only_whitespace(text) -> bool:
     '''
     Removes chunks of only whitespace, ideally without catching legitimate cases like single spaces, linebreaks, or tabs.
     Initially, only chunks of the shape '\\n           ' were caught. For maximum precision, only this pattern is caught here.
@@ -20,7 +20,7 @@ def is_only_whitespace(text):
     return True if re.search('^\n\s{4,}', text) else False
 
 
-def get_unique_child_element_names(element, unique_elements=set()):
+def get_unique_child_element_names(element, unique_elements=set()) -> list:
     '''
     Returns a list of unique elements found in a document.
     Used for scouting the documents before script development.
@@ -67,8 +67,12 @@ def extract_text(xml_file):
     def extract_text_recursive(element):
         if element.tag in [f'{ns}head', f'{ns}p', f'{ns}corr', f'{ns}quote', f'{ns}choice', f'{ns}join']:
             # these mark the border between different texts within a document, marking by adding additional linebreak – might need to be handled differently at a later stage
-            if element.tag in [f'{ns}p', f'{ns}div', f'{ns}head']:
-                text_content.append('\n')
+            if element.tag == f'{ns}p': # extra linebreak to keep text away from its title above
+                if len(text_content) > 0:
+                    text_content.append('\n')
+            if element.tag == f'{ns}head': # adding a double linebreak to highlight a new incoming title
+                if len(text_content) > 0:
+                    text_content.append('\n\n')
 
             if element.text and not is_only_whitespace(element.text) and element.tag == f'{ns}head': # Just as a help for myself – titles might need to be handled differently at a later stage
                 text_content.append(f'Title: {element.text}')
@@ -81,14 +85,11 @@ def extract_text(xml_file):
                     if child.text:
                         text_content.append(child.text)
 
-                elif child.tag == f'{ns}lb' and not text_content[-1] == '\n': # reduces unnecessary(?) chains of several linebreaks to just one at a time.
-                    text_content.append('\n')
-
                 elif child.tag not in [f'{ns}sic', f'{ns}fw']: # sic always occurs before the corr element which contains what we actually want for the final corpus
                     extract_text_recursive(child)
 
                 if child.tail and not is_only_whitespace(child.tail): # the tails are most commonly text or simple spaces, but sometimes also chunks of formatting-whitespace
-                    text_content.append(child.tail.replace('\n', ''))
+                    text_content.append(child.tail)
 
     # Iterate through the elements in a linear fashion within the specified part of the document
     for elem in text_body.iter():
