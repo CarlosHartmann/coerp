@@ -20,21 +20,6 @@ def is_only_whitespace(text) -> bool:
     return True if re.search('^\n\s{4,}', text) else False
 
 
-def get_unique_child_element_names(element, unique_elements=set()) -> list:
-    '''
-    Returns a list of unique elements found in a document.
-    Used for scouting the documents before script development.
-    '''
-    # Add the name of the current element to the set
-    unique_elements.add(element.tag)
-
-    # Recursively call this function for each child element
-    for child in element:
-        get_unique_child_element_names(child, unique_elements)
-
-    return unique_elements
-
-
 def is_under_skippable_tag(element, skippables = [f'{ns}sic', f'{ns}fw']):
     '''
     Identifies if any given XML element is somewhere inside a tag I want to skip entirely.
