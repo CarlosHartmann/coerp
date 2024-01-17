@@ -3,6 +3,7 @@ export: This module shall one day export all the COERP data into the desired out
 '''
 
 
+import sys
 import re
 from lxml import etree as ET
 
@@ -87,6 +88,8 @@ def extract_text(xml_file):
 
 
 def main():
+    if len(sys.argv) > 1:
+        testfile = sys.argv[1]
     text = extract_text(testfile)
 
     with open("./test/export_test.txt", "w", encoding="utf-8") as outfile:
