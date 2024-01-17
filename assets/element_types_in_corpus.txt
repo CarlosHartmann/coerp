@@ -11,19 +11,19 @@ already dealt with:
 {http://www.tei-c.org/ns/1.0}join – its content, which is the normalised version, gets added to export text
 {http://www.tei-c.org/ns/1.0}corr – itself gets skipped, but contents processed normally – see <sic> element for further info
 {http://www.tei-c.org/ns/1.0}closer – represents signature formulations etc, gets added
+{http://www.tei-c.org/ns/1.0}opener – represents introductions etc, got added to normal processing and is seemingly handled fine
 {http://www.tei-c.org/ns/1.0}foreign – only present once in corpus for a word that was omitted. Ignoring is therefore fine for this corpus
 {http://www.tei-c.org/ns/1.0}variant – seems to be a non-normalized, but recognized, variant. Just once in corpus. Added to the normal processing and it works fine.
 {http://www.tei-c.org/ns/1.0}sp – found in the catechism section a lot. Functions similarly to <p>
 {http://www.tei-c.org/ns/1.0}l – found in the catechism section a lot. Seems to be a line, so no </lb> elements are used there.
 {http://www.tei-c.org/ns/1.0}note – almost exclusively used in TEI header; two exceptions are one for an illegible word (possible element mis-use) and a series of bible references in one text. The latter I could export with the referenced bible passages. Normal processing simply yields the text fine
+{http://www.tei-c.org/ns/1.0}unclear – used only once for something illegible. Skipping it actually yields a clearer output (ascends and on the right of God, instead of ascends and steeth on the right of God – they normalized sitteth (or so) into teeth)
+
 
 
 still to be investigated:
 <cyfunction Comment at 0x103854a00>
-
-{http://www.tei-c.org/ns/1.0}unclear
 {http://www.tei-c.org/ns/1.0}quote
-{http://www.tei-c.org/ns/1.0}opener
 {http://www.tei-c.org/ns/1.0}writing
 
 
