@@ -37,6 +37,10 @@ def is_under_skippable_tag(element, skippables = [f'{ns}sic', f'{ns}fw']):
     return False
 
 
+def remove_huge_spaces(text):
+    return re.sub(' {15,}', '', text)
+
+
 def extract_text(xml_file):
     # Parse the XML file
     parser = ET.XMLParser(remove_blank_text=False) # setting remove_blank_text to True would make things easier, but it would also introduce unfixable bugs in the export in the form of erroneously removed spaces between words
@@ -51,9 +55,9 @@ def extract_text(xml_file):
 
     # Define a function to recursively extract text
     def extract_text_recursive(element):
-        if element.tag in [f'{ns}head', f'{ns}p', f'{ns}corr', f'{ns}quote', f'{ns}choice', f'{ns}join', f'{ns}closer', f'{ns}variant']:
+        if element.tag in [f'{ns}head', f'{ns}p', f'{ns}corr', f'{ns}quote', f'{ns}choice', f'{ns}join', f'{ns}closer', f'{ns}variant', f'{ns}sp', f'{ns}l', f'{ns}note']:
             # these mark the border between different texts within a document, marking by adding additional linebreak – might need to be handled differently at a later stage
-            if element.tag == f'{ns}p': # extra linebreak to keep text away from its title above
+            if element.tag in [f'{ns}p', f'{ns}sp', f'{ns}l']: # extra linebreak to keep text away from its title above
                 if len(text_content) > 0:
                     text_content.append('\n')
             if element.tag == f'{ns}head': # adding a double linebreak to highlight a new incoming title
@@ -64,18 +68,18 @@ def extract_text(xml_file):
                 text_content.append(f'Title: {element.text}')
 
             elif element.text and not is_only_whitespace(element.text):
-                text_content.append(element.text)
+                text_content.append(remove_huge_spaces(element.text))
 
             for child in element: # this is mainly to catch all the elements within paragraphs such as linebreaks and simple normalisations
                 if child.tag in [f'{ns}normalised', f'{ns}hi', f'{ns}notvariant']:
                     if child.text:
                         text_content.append(child.text)
 
-                elif child.tag not in [f'{ns}sic', f'{ns}fw']: # sic always occurs before the corr element which contains what we actually want for the final corpus
+                elif child.tag not in [f'{ns}sic', f'{ns}fw', f'{ns}l']: # sic always occurs before the corr element which contains what we actually want for the final corpus | similar problem with <l> which is used in <sp>
                     extract_text_recursive(child)
 
                 if child.tail and not is_only_whitespace(child.tail): # the tails are most commonly text or simple spaces, but sometimes also chunks of formatting-whitespace
-                    if child.tag in [f'{ns}lb', f'{ns}p'] and child.tail.startswith('\n    '): # trying to catch those formatting chunks of whitespace right after a linebreak
+                    if child.tag in [f'{ns}lb', f'{ns}p', f'{ns}l'] and child.tail.startswith('\n    '): # trying to catch those formatting chunks of whitespace right after a linebreak
                         text_content.append(child.tail.strip())
                     elif re.search(' *\n {4,}', child.tail):
                         tail = re.sub('^ *\n','\n', child.tail)
