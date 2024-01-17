@@ -18,7 +18,7 @@ def is_only_whitespace(text) -> bool:
     Initially, only chunks of the shape '\\n           ' were caught. For maximum precision, only this pattern is caught here.
     The function extract_text sometimes still catches blocks of whitespace meant for XML formatting that this function hopefully filters out.
     '''
-    return True if re.search('^\n\s{4,}', text) else False
+    return True if re.search('^\n\s{4,}', text) and not re.search('\w', text) else False
 
 
 def is_under_skippable_tag(element, skippables = [f'{ns}sic', f'{ns}fw']):
@@ -51,7 +51,7 @@ def extract_text(xml_file):
 
     # Define a function to recursively extract text
     def extract_text_recursive(element):
-        if element.tag in [f'{ns}head', f'{ns}p', f'{ns}corr', f'{ns}quote', f'{ns}choice', f'{ns}join']:
+        if element.tag in [f'{ns}head', f'{ns}p', f'{ns}corr', f'{ns}quote', f'{ns}choice', f'{ns}join', f'{ns}closer']:
             # these mark the border between different texts within a document, marking by adding additional linebreak – might need to be handled differently at a later stage
             if element.tag == f'{ns}p': # extra linebreak to keep text away from its title above
                 if len(text_content) > 0:
@@ -75,7 +75,16 @@ def extract_text(xml_file):
                     extract_text_recursive(child)
 
                 if child.tail and not is_only_whitespace(child.tail): # the tails are most commonly text or simple spaces, but sometimes also chunks of formatting-whitespace
-                    text_content.append(child.tail)
+                    if child.tag in [f'{ns}lb', f'{ns}p'] and child.tail.startswith('\n    '): # trying to catch those formatting chunks of whitespace right after a linebreak
+                        text_content.append(child.tail.strip())
+                    elif re.search(' *\n {4,}', child.tail):
+                        tail = re.sub('^ *\n','\n', child.tail)
+                        tail = re.sub('\n {4,}', '\n', tail)
+                        text_content.append(tail)
+                    elif child.tag.startswith('\n    '):    
+                        text_content.append(child.tail.replace('\n', ''))
+                    else:
+                        text_content.append(child.tail)
 
     # Iterate through the elements in a linear fashion within the specified part of the document
     for elem in text_body.iter():

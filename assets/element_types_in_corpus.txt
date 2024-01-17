@@ -10,11 +10,10 @@ already dealt with:
 {http://www.tei-c.org/ns/1.0}fw – for page numbering and the like. To my understanding completely irrelevant for final corpus, hence gets skipped
 {http://www.tei-c.org/ns/1.0}join – its content, which is the normalised version, gets added to export text
 {http://www.tei-c.org/ns/1.0}corr – itself gets skipped, but contents processed normally – see <sic> element for further info
-
+{http://www.tei-c.org/ns/1.0}closer – represents signature formulations etc, gets added
 
 
 still to be investigated:
-{http://www.tei-c.org/ns/1.0}closer
 <cyfunction Comment at 0x103854a00>
 {http://www.tei-c.org/ns/1.0}variant
 {http://www.tei-c.org/ns/1.0}foreign
