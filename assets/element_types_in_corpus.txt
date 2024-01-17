@@ -12,12 +12,13 @@ already dealt with:
 {http://www.tei-c.org/ns/1.0}corr – itself gets skipped, but contents processed normally – see <sic> element for further info
 {http://www.tei-c.org/ns/1.0}closer – represents signature formulations etc, gets added
 {http://www.tei-c.org/ns/1.0}foreign – only present once in corpus for a word that was omitted. Ignoring is therefore fine for this corpus
+{http://www.tei-c.org/ns/1.0}variant – seems to be a non-normalized, but recognized, variant. Just once in corpus. Added to the normal processing and it works fine.
 
 
 
 still to be investigated:
 <cyfunction Comment at 0x103854a00>
-{http://www.tei-c.org/ns/1.0}variant
+
 {http://www.tei-c.org/ns/1.0}unclear
 {http://www.tei-c.org/ns/1.0}sp
 {http://www.tei-c.org/ns/1.0}quote

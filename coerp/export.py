@@ -51,7 +51,7 @@ def extract_text(xml_file):
 
     # Define a function to recursively extract text
     def extract_text_recursive(element):
-        if element.tag in [f'{ns}head', f'{ns}p', f'{ns}corr', f'{ns}quote', f'{ns}choice', f'{ns}join', f'{ns}closer']:
+        if element.tag in [f'{ns}head', f'{ns}p', f'{ns}corr', f'{ns}quote', f'{ns}choice', f'{ns}join', f'{ns}closer', f'{ns}variant']:
             # these mark the border between different texts within a document, marking by adding additional linebreak – might need to be handled differently at a later stage
             if element.tag == f'{ns}p': # extra linebreak to keep text away from its title above
                 if len(text_content) > 0:
