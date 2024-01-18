@@ -90,7 +90,10 @@ def extract_text(xml_file):
                         else:
                             text_content.append(child.text)
 
-                elif child.tag not in [f'{ns}sic', f'{ns}fw', f'{ns}l', f'{ns}p']: # sic always occurs before the corr element which contains what we actually want for the final corpus | similar problem with <l> which is used in <sp>
+                    elif child.attrib['auto'] == 'false':
+                        text_content.append(child.text)
+
+                elif child.tag not in [f'{ns}sic', f'{ns}fw', f'{ns}l', f'{ns}p', f'{ns}quote']: # sic always occurs before the corr element which contains what we actually want for the final corpus | similar problem with <l> which is used in <sp>
                     extract_text_recursive(child)
 
                 if child.tail and not is_only_whitespace(child.tail): # the tails are most commonly text or simple spaces, but sometimes also chunks of formatting-whitespace
