@@ -22,9 +22,8 @@ already dealt with:
 {http://www.tei-c.org/ns/1.0}writing – only one instance in corpus. Including it worked perfectly
 <cyfunction Comment at 0x103854a00> – indicates presence of an XML comment (<!-- … -->)
 {http://www.tei-c.org/ns/1.0}body – in test file it was the only child element of the <text> element, which is in turn the one marking the actual content of a TEI doc. Make sure this is true for ALL docs in corpus – checked and yes it is
-
+{http://www.tei-c.org/ns/1.0}choice – itself gets skipped, but content gets handled – make sure its contents are the same in ALL docs as they were in the test doc – it's an uncomplicated case as only its <sic> gets skipped which is fine. Contents of corr, even if they contain further elements, should be handled fine.
 
 
 further analysis potentially useful:
-{http://www.tei-c.org/ns/1.0}choice – itself gets skipped, but content gets handled – make sure its contents are the same in ALL docs as they were in the test doc
 {http://www.tei-c.org/ns/1.0}sic – gets skipped as it always shows up with following <corr> element – make sure this is true for all of them in ALL docs, including if <corr> always contains something normalised or if it can contain only text, and if that text gets added by script

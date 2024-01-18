@@ -16,9 +16,7 @@ def get_unique_child_element_names(element, unique_elements=set()) -> list:
     Used for scouting the documents before script development.
     '''
     # Add the name of the current element to the set
-    if element.tag not in unique_elements:
-        unique_elements.add(element.tag)
-        print(element.tag)
+    unique_elements.add(element.tag)
 
     # Recursively call this function for each child element
     for child in element:
