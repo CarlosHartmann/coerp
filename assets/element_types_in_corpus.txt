@@ -20,11 +20,7 @@ already dealt with:
 {http://www.tei-c.org/ns/1.0}unclear – used only once for something illegible. Skipping it actually yields a clearer output (ascends and on the right of God, instead of ascends and steeth on the right of God – they normalized sitteth (or so) into teeth)
 {http://www.tei-c.org/ns/1.0}quote – was already included in first version of script. Seems to be handled fine based on one example
 {http://www.tei-c.org/ns/1.0}writing – only one instance in corpus. Including it worked perfectly
-
-
-
-still to be investigated:
-<cyfunction Comment at 0x103854a00>
+<cyfunction Comment at 0x103854a00> – indicates presence of an XML comment (<!-- … -->)
 
 
 

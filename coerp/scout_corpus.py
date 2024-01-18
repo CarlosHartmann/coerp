@@ -16,7 +16,9 @@ def get_unique_child_element_names(element, unique_elements=set()) -> list:
     Used for scouting the documents before script development.
     '''
     # Add the name of the current element to the set
-    unique_elements.add(element.tag)
+    if element.tag not in unique_elements:
+        unique_elements.add(element.tag)
+        print(element.tag)
 
     # Recursively call this function for each child element
     for child in element:
@@ -36,11 +38,11 @@ def scout(file_path):
 
 
 def iterate_through_path(path):
-    for root, dirs, files in os.walk(path):
+    for root, _, files in os.walk(path):
         for file in files:
-            print(file)
             # Check if the file has no extension
             if '.' not in file:
+                print(file)
                 file_path = os.path.join(root, file)
                 yield scout(file_path)
 
