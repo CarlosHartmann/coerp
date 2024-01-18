@@ -83,7 +83,7 @@ def extract_text(xml_file):
 
             for child in element: # this is mainly to catch all the elements within paragraphs such as linebreaks and simple normalisations
 
-                tail_id = f'{child} – tail' if child.tag != f'{ns}lb' else f'{child.tag} at {child.sourceline}'
+                tail_id = f'{child} – tail' if child.tag != f'{ns}lb' else f'{child.tag} at {child.sourceline}' # so each element tail is handled only once & somehow a few linebreaks were handled twice with different ids given by lxml
 
                 if child.tag in [f'{ns}hi', f'{ns}notvariant']:
                     if child.text and child not in handled:
