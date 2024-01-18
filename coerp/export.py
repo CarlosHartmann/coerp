@@ -7,6 +7,11 @@ import sys
 import re
 from lxml import etree as ET
 
+from lingua import Language, LanguageDetectorBuilder
+
+languages = [Language.ENGLISH, Language.FRENCH, Language.LATIN]
+detector = LanguageDetectorBuilder.from_languages(*languages).build()
+
 
 testfile = "/Users/chartman/Documents/GitHub/coerp/test/bio_1510_More_R3"
 
@@ -38,7 +43,8 @@ def is_under_skippable_tag(element, skippables = [f'{ns}sic', f'{ns}fw']):
 
 
 def remove_huge_spaces(text):
-    return re.sub(' {14,}', '', text)
+    "Used to detect large chunks of space that are surely used for XML formatting and should therefore be skipped."
+    return re.sub(' {10,}', '', text)
 
 
 def extract_text(xml_file):
@@ -64,6 +70,7 @@ def extract_text(xml_file):
                 if len(text_content) > 0:
                     text_content.append('\n\n')
 
+
             if element.text and not is_only_whitespace(element.text) and element.tag == f'{ns}head': # Just as a help for myself – titles might need to be handled differently at a later stage
                 text_content.append(f'Title: {element.text}')
 
@@ -71,9 +78,17 @@ def extract_text(xml_file):
                 text_content.append(remove_huge_spaces(element.text))
 
             for child in element: # this is mainly to catch all the elements within paragraphs such as linebreaks and simple normalisations
-                if child.tag in [f'{ns}normalised', f'{ns}hi', f'{ns}notvariant']:
+                if child.tag in [f'{ns}hi', f'{ns}notvariant']:
                     if child.text:
                         text_content.append(child.text)
+                elif child.tag == f'{ns}normalised':
+                    if child.attrib['auto'] == 'true':
+                        original = child.attrib['orig']
+                        confidence_value = detector.compute_language_confidence(original, Language.LATIN)
+                        if confidence_value > 0.965:
+                            text_content.append(original)
+                        else:
+                            text_content.append(child.text)
 
                 elif child.tag not in [f'{ns}sic', f'{ns}fw', f'{ns}l', f'{ns}p']: # sic always occurs before the corr element which contains what we actually want for the final corpus | similar problem with <l> which is used in <sp>
                     extract_text_recursive(child)
